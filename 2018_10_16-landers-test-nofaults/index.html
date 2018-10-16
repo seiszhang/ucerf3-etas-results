@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+	max-width:1000px;
+	margin: auto;
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+</style>
+</head>
+<body>
+<h1 id="spontaneoushistorical-etas-simulation-results">Spontaneous/Historical ETAS Simulation Results</h1>
+<table>
+<thead>
+<tr><th></th><th>Spontaneous/Historical ETAS Simulation</th></tr>
+</thead>
+<tbody>
+<tr><td>Num Simulations</td><td>10</td></tr>
+<tr><td>Start Time</td><td>1992/06/28 11:57:35 UTC</td></tr>
+<tr><td>Start Time Epoch Milliseconds</td><td>709732655000</td></tr>
+<tr><td>Duration</td><td>10 Years</td></tr>
+<tr><td>Includes Spontaneous?</td><td>true</td></tr>
+<tr><td>Trigger Ruptures</td><td><em>(none)</em></td></tr>
+<tr><td>Historical Ruptures</td><td>220 Trigger Ruptures</td></tr>
+<tr><td></td><td>First: M7.6 at 1872/03/26 10:31:39 UTC</td></tr>
+<tr><td></td><td>Last: M7.28 at 1992/06/28 11:57:34 UTC</td></tr>
+<tr><td></td><td>Largest: M7.8 at 1906/04/18 13:12:21 UTC</td></tr>
+</tbody>
+</table>
+<h2 id="table-of-contents">Table Of Contents</h2>
+<ul>
+<li><a href="#magnitude-frequency-distribution">Magnitude Frequency Distribution</a></li>
+<li><a href="#section-participation">Section Participation</a></li>
+<li><a href="#gridded-nucleation">Gridded Nucleation</a></li>
+<li><a href="#json-input-file">JSON Input File</a></li>
+</ul>
+<h2 id="magnitude-frequency-distribution">Magnitude Frequency Distribution</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><strong>Legend</strong></p>
+<ul>
+<li><strong>Mean</strong> (thick black line): mean annual rate across all 10 catalogs</li>
+<li><strong>2.5%,97.5%</strong> (thin black lines): annual rate percentiles across all 10 catalogs</li>
+<li><strong>Median</strong> (thin blue line): median annual rate across all 10 catalogs</li>
+<li><strong>Mode</strong> (thin cyan line): modal annual rate across all 10 catalogs (scaled to annualized value)</li>
+<li><strong>10 yr Probability</strong> (thin red line): 10 year probability calculated as the fraction of catalogs with at least 1 occurrence</li>
+<li><strong>95% Conf</strong> (light red shaded region): binomial 95% confidence bounds on probability</li>
+</ul>
+<p><img src="plots/mfd.png" alt="MFD Plot" /></p>
+<table>
+<thead>
+<tr><th>Mag</th><th>Mean</th><th>2.5 %ile</th><th>97.5 %ile</th><th>Median</th><th>Mode</th><th>10 yr Probability</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M≥2.5</strong></td><td>5237.390</td><td>3902.400</td><td>8721.700</td><td>4383.700</td><td>4417.300</td><td>1.000</td></tr>
+<tr><td><strong>M≥2.6</strong></td><td>4159.700</td><td>3082.900</td><td>6917.800</td><td>3480.400</td><td>3515.800</td><td>1.000</td></tr>
+<tr><td><strong>M≥2.7</strong></td><td>3305.000</td><td>2448.600</td><td>5486.600</td><td>2759.500</td><td>2793.900</td><td>1.000</td></tr>
+<tr><td><strong>M≥2.8</strong></td><td>2626.090</td><td>1940.000</td><td>4355.700</td><td>2188.500</td><td>2230.700</td><td>1.000</td></tr>
+<tr><td><strong>M≥2.9</strong></td><td>2087.250</td><td>1538.000</td><td>3469.600</td><td>1737.300</td><td>1770.200</td><td>1.000</td></tr>
+<tr><td><strong>M≥3</strong></td><td>1658.540</td><td>1221.400</td><td>2757.900</td><td>1385.200</td><td>1400.900</td><td>1.000</td></tr>
+<tr><td><strong>M≥3.1</strong></td><td>1318.000</td><td>969.300</td><td>2195.800</td><td>1100.000</td><td>1113.200</td><td>1.000</td></tr>
+<tr><td><strong>M≥3.2</strong></td><td>1048.180</td><td>773.000</td><td>1757.800</td><td>873.000</td><td>881.300</td><td>1.000</td></tr>
+<tr><td><strong>M≥3.3</strong></td><td>832.030</td><td>613.500</td><td>1391.100</td><td>697.200</td><td>702.200</td><td>1.000</td></tr>
+<tr><td><strong>M≥3.4</strong></td><td>661.540</td><td>484.300</td><td>1107.400</td><td>553.800</td><td>554.400</td><td>1.000</td></tr>
+<tr><td><strong>M≥3.5</strong></td><td>524.790</td><td>382.700</td><td>881.100</td><td>439.500</td><td>443.300</td><td>1.000</td></tr>
+<tr><td><strong>M≥3.6</strong></td><td>416.650</td><td>301.400</td><td>702.400</td><td>348.900</td><td>352.600</td><td>1.000</td></tr>
+<tr><td><strong>M≥3.7</strong></td><td>331.420</td><td>244.000</td><td>564.800</td><td>276.500</td><td>277.500</td><td>1.000</td></tr>
+<tr><td><strong>M≥3.8</strong></td><td>264.550</td><td>192.700</td><td>450.900</td><td>220.600</td><td>223.300</td><td>1.000</td></tr>
+<tr><td><strong>M≥3.9</strong></td><td>209.270</td><td>151.300</td><td>353.000</td><td>176.100</td><td>177.500</td><td>1.000</td></tr>
+<tr><td><strong>M≥4</strong></td><td>165.970</td><td>119.800</td><td>277.700</td><td>141.100</td><td>141.600</td><td>1.000</td></tr>
+<tr><td><strong>M≥4.1</strong></td><td>132.200</td><td>96.200</td><td>224.900</td><td>112.000</td><td>113.200</td><td>1.000</td></tr>
+<tr><td><strong>M≥4.2</strong></td><td>105.800</td><td>76.700</td><td>178.600</td><td>88.400</td><td>89.800</td><td>1.000</td></tr>
+<tr><td><strong>M≥4.3</strong></td><td>84.660</td><td>61.800</td><td>143.600</td><td>72.400</td><td>72.600</td><td>1.000</td></tr>
+<tr><td><strong>M≥4.4</strong></td><td>67.530</td><td>49.300</td><td>114.900</td><td>58.700</td><td>59.000</td><td>1.000</td></tr>
+<tr><td><strong>M≥4.5</strong></td><td>53.970</td><td>38.000</td><td>91.400</td><td>45.500</td><td>47.100</td><td>1.000</td></tr>
+<tr><td><strong>M≥4.6</strong></td><td>42.540</td><td>29.400</td><td>72.500</td><td>36.000</td><td>37.800</td><td>1.000</td></tr>
+<tr><td><strong>M≥4.7</strong></td><td>33.970</td><td>23.500</td><td>58.100</td><td>29.000</td><td>30.100</td><td>1.000</td></tr>
+<tr><td><strong>M≥4.8</strong></td><td>26.760</td><td>19.300</td><td>45.300</td><td>22.800</td><td>24.300</td><td>1.000</td></tr>
+<tr><td><strong>M≥4.9</strong></td><td>21.020</td><td>14.600</td><td>34.800</td><td>18.300</td><td>18.300</td><td>1.000</td></tr>
+<tr><td><strong>M≥5</strong></td><td>17.020</td><td>12.200</td><td>28.800</td><td>14.500</td><td>14.600</td><td>1.000</td></tr>
+<tr><td><strong>M≥5.1</strong></td><td>13.580</td><td>9.700</td><td>23.100</td><td>11.900</td><td>12.000</td><td>1.000</td></tr>
+<tr><td><strong>M≥5.2</strong></td><td>10.850</td><td>7.700</td><td>17.900</td><td>9.200</td><td>9.400</td><td>1.000</td></tr>
+<tr><td><strong>M≥5.3</strong></td><td>8.650</td><td>6.500</td><td>14.700</td><td>7.300</td><td>7.300</td><td>1.000</td></tr>
+<tr><td><strong>M≥5.4</strong></td><td>6.960</td><td>5.100</td><td>11.700</td><td>5.900</td><td>5.900</td><td>1.000</td></tr>
+<tr><td><strong>M≥5.5</strong></td><td>5.540</td><td>4.100</td><td>9.300</td><td>4.600</td><td>4.500</td><td>1.000</td></tr>
+<tr><td><strong>M≥5.6</strong></td><td>4.300</td><td>2.800</td><td>7.400</td><td>3.700</td><td>3.200</td><td>1.000</td></tr>
+<tr><td><strong>M≥5.7</strong></td><td>3.370</td><td>2.000</td><td>5.800</td><td>2.900</td><td>3.000</td><td>1.000</td></tr>
+<tr><td><strong>M≥5.8</strong></td><td>2.670</td><td>1.700</td><td>4.500</td><td>2.200</td><td>2.200</td><td>1.000</td></tr>
+<tr><td><strong>M≥5.9</strong></td><td>2.170</td><td>1.300</td><td>3.800</td><td>1.900</td><td>1.700</td><td>1.000</td></tr>
+<tr><td><strong>M≥6</strong></td><td>1.710</td><td>1.000</td><td>3.200</td><td>1.500</td><td>1.500</td><td>1.000</td></tr>
+<tr><td><strong>M≥6.1</strong></td><td>1.320</td><td>0.500</td><td>2.800</td><td>1.100</td><td>1.300</td><td>1.000</td></tr>
+<tr><td><strong>M≥6.2</strong></td><td>1.070</td><td>0.400</td><td>2.500</td><td>0.700</td><td>0.700</td><td>1.000</td></tr>
+<tr><td><strong>M≥6.3</strong></td><td>0.770</td><td>0.300</td><td>1.900</td><td>0.500</td><td>0.500</td><td>1.000</td></tr>
+<tr><td><strong>M≥6.4</strong></td><td>0.600</td><td>0.200</td><td>1.600</td><td>0.400</td><td>0.400</td><td>1.000</td></tr>
+<tr><td><strong>M≥6.5</strong></td><td>0.500</td><td>0.100</td><td>1.200</td><td>0.400</td><td>0.300</td><td>1.000</td></tr>
+<tr><td><strong>M≥6.6</strong></td><td>0.390</td><td>0.000</td><td>1.100</td><td>0.300</td><td>0.300</td><td>0.800</td></tr>
+<tr><td><strong>M≥6.7</strong></td><td>0.330</td><td>0.000</td><td>1.000</td><td>0.200</td><td>0.100</td><td>0.800</td></tr>
+<tr><td><strong>M≥6.8</strong></td><td>0.270</td><td>0.000</td><td>0.900</td><td>0.100</td><td>0.100</td><td>0.700</td></tr>
+<tr><td><strong>M≥6.9</strong></td><td>0.220</td><td>0.000</td><td>0.700</td><td>0.100</td><td>0.000</td><td>0.600</td></tr>
+<tr><td><strong>M≥7</strong></td><td>0.160</td><td>0.000</td><td>0.600</td><td>0.000</td><td>0.000</td><td>0.400</td></tr>
+<tr><td><strong>M≥7.1</strong></td><td>0.120</td><td>0.000</td><td>0.400</td><td>0.000</td><td>0.000</td><td>0.400</td></tr>
+<tr><td><strong>M≥7.2</strong></td><td>0.080</td><td>0.000</td><td>0.400</td><td>0.000</td><td>0.000</td><td>0.300</td></tr>
+<tr><td><strong>M≥7.3</strong></td><td>0.050</td><td>0.000</td><td>0.200</td><td>0.000</td><td>0.000</td><td>0.300</td></tr>
+<tr><td><strong>M≥7.4</strong></td><td>0.030</td><td>0.000</td><td>0.100</td><td>0.000</td><td>0.000</td><td>0.300</td></tr>
+<tr><td><strong>M≥7.5</strong></td><td>0.030</td><td>0.000</td><td>0.100</td><td>0.000</td><td>0.000</td><td>0.300</td></tr>
+<tr><td><strong>M≥7.6</strong></td><td>0.030</td><td>0.000</td><td>0.100</td><td>0.000</td><td>0.000</td><td>0.300</td></tr>
+<tr><td><strong>M≥7.7</strong></td><td>0.020</td><td>0.000</td><td>0.100</td><td>0.000</td><td>0.000</td><td>0.200</td></tr>
+<tr><td><strong>M≥7.8</strong></td><td>0.010</td><td>0.000</td><td>0.100</td><td>0.000</td><td>0.000</td><td>0.100</td></tr>
+<tr><td><strong>M≥7.9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr>
+<tr><td><strong>M≥8</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.1</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.2</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.3</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.4</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.5</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.6</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.7</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.8</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr>
+<tr><td><strong>M≥9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr>
+</tbody>
+</table>
+<h2 id="section-participation">Section Participation</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>No supra-seismogenic ruptures in any catalog</p>
+<h2 id="gridded-nucleation">Gridded Nucleation</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>Min Mag</th><th>Complete Catalog (including spontaneous)</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M≥2.5</strong></td><td><img src="plots/gridded_nucleation_m2.5.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M≥5</strong></td><td><img src="plots/gridded_nucleation_m5.0.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M≥6</strong></td><td><img src="plots/gridded_nucleation_m6.0.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M≥7</strong></td><td><img src="plots/gridded_nucleation_m7.0.png" alt="Nucleation Plot" /></td></tr>
+</tbody>
+</table>
+<h2 id="json-input-file">JSON Input File</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<pre><code>{
+  &quot;numSimulations&quot;: 10,
+  &quot;duration&quot;: 10.0,
+  &quot;startTimeMillis&quot;: 709732655000,
+  &quot;includeSpontaneous&quot;: true,
+  &quot;binaryOutput&quot;: true,
+  &quot;binaryOutputFilters&quot;: [
+    {
+      &quot;prefix&quot;: &quot;results_complete&quot;,
+      &quot;descendantsOnly&quot;: false
+    },
+    {
+      &quot;prefix&quot;: &quot;results_m5_preserve_chain&quot;,
+      &quot;minMag&quot;: 5.0,
+      &quot;preserveChainBelowMag&quot;: true,
+      &quot;descendantsOnly&quot;: false
+    }
+  ],
+  &quot;forceRecalc&quot;: false,
+  &quot;simulationName&quot;: &quot;Spontaneous/Historical ETAS Simulation&quot;,
+  &quot;numRetries&quot;: 3,
+  &quot;outputDir&quot;: &quot;/tmp/etas_debug/output_gridded&quot;,
+  &quot;triggerCatalog&quot;: &quot;$ETAS_LAUNCHER/inputs/u3_historical_catalog.txt&quot;,
+  &quot;triggerCatalogSurfaceMappings&quot;: &quot;$ETAS_LAUNCHER/inputs/u3_historical_catalog_finite_fault_mappings.xml&quot;,
+  &quot;cacheDir&quot;: &quot;$ETAS_LAUNCHER/inputs/cache_fm3p1_ba&quot;,
+  &quot;fssFile&quot;: &quot;$ETAS_LAUNCHER/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip&quot;,
+  &quot;probModel&quot;: &quot;FULL_TD&quot;,
+  &quot;applySubSeisForSupraNucl&quot;: true,
+  &quot;totRateScaleFactor&quot;: 1.14,
+  &quot;gridSeisCorr&quot;: true,
+  &quot;timeIndependentERF&quot;: false,
+  &quot;griddedOnly&quot;: true,
+  &quot;imposeGR&quot;: false,
+  &quot;includeIndirectTriggering&quot;: true,
+  &quot;gridSeisDiscr&quot;: 0.1
+}
+</code></pre>
+</body>
+</html>
