@@ -96,6 +96,8 @@
 
 ![Fixed Time Plot](plots/long_term_var_80yr.png)
 
+[Download CSV Here](plots/long_term_var_80yr.csv)
+
 | **Magnitude** | Mean | Median | Mode | Std. Dev. | 2.5 %-ile | 16 %-ile | 84 %-ile | 97.5 %-ile |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | **5.0** | 7.385572 | 7.2875 | 7.225 | 0.87299603 | 5.9625 | 6.525 | 8.2375 | 9.3625 |
@@ -144,6 +146,8 @@
 *[(top)](#table-of-contents)*
 
 ![Fixed Time Plot](plots/long_term_var_62yr.png)
+
+[Download CSV Here](plots/long_term_var_62yr.csv)
 
 | **Magnitude** | Mean | Median | Mode | Std. Dev. | 2.5 %-ile | 16 %-ile | 84 %-ile | 97.5 %-ile |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -194,6 +198,8 @@
 
 ![Fixed Time Plot](plots/long_term_var_28yr.png)
 
+[Download CSV Here](plots/long_term_var_28yr.csv)
+
 | **Magnitude** | Mean | Median | Mode | Std. Dev. | 2.5 %-ile | 16 %-ile | 84 %-ile | 97.5 %-ile |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | **5.0** | 7.3784614 | 7.178571 | 7.178571 | 1.397188 | 5.214286 | 6.107143 | 8.642858 | 10.75 |
@@ -242,6 +248,8 @@
 *[(top)](#table-of-contents)*
 
 ![Duration Dependence Plot](plots/long_term_var_m5.png)
+
+[Download CSV Here](plots/long_term_var_m5.csv)
 
 | **Duration (years)** | Mean | Median | Mode | Std. Dev. | 2.5 %-ile | 16 %-ile | 84 %-ile | 97.5 %-ile |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|
