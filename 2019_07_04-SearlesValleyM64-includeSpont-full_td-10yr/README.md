@@ -544,16 +544,16 @@ These plots show how the probability of ruptures of various magnitudes within 10
 
 ![Hazard Change](plots/hazard_change_100km_m5.0.png)
 
-| Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-TI |
-|-----|-----|-----|-----|-----|
-| 1 Hour | 0.255 [0.252 - 0.257] | 0.254 | 5.52E-5 | 5.47E-5 |
-| 1 Day | 0.521 [0.518 - 0.524] | 0.521 | 1.32E-3 | 1.31E-3 |
-| 1 Week | 0.638 [0.635 - 0.641] | 0.635 | 9.23E-3 | 9.16E-3 |
-| 1 Month | 0.714 [0.711 - 0.717] | 0.703 | 0.039 | 0.039 |
-| 1 Year | 0.868 [0.867 - 0.870] | 0.786 | 0.384 | 0.381 |
-| 10 Years | 0.999 [0.999 - 0.999] | 0.839 | 0.992 | 0.992 |
-| 30 Years | 1.000 [1.000 - 1.000] \* | \* | 1.000 | 1.000 |
-| 100 Years | 1.000 [1.000 - 1.000] \* | \* | 1.000 | 1.000 |
+| Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-ETAS/TD Gain | UCERF3-TI |
+|-----|-----|-----|-----|-----|-----|
+| 1 Hour | 0.255 [0.252 - 0.257] | 0.254 | 5.52E-5 | 4610.64 | 5.47E-5 |
+| 1 Day | 0.521 [0.518 - 0.524] | 0.521 | 1.32E-3 | 393.72 | 1.31E-3 |
+| 1 Week | 0.638 [0.635 - 0.641] | 0.635 | 9.23E-3 | 69.15 | 9.16E-3 |
+| 1 Month | 0.714 [0.711 - 0.717] | 0.703 | 0.039 | 18.33 | 0.039 |
+| 1 Year | 0.868 [0.867 - 0.870] | 0.786 | 0.384 | 2.26 | 0.381 |
+| 10 Years | 0.999 [0.999 - 0.999] | 0.839 | 0.992 | 1.01 | 0.992 |
+| 30 Years | 1.000 [1.000 - 1.000] \* | \* | 1.000 | 1 \* | 1.000 |
+| 100 Years | 1.000 [1.000 - 1.000] \* | \* | 1.000 | 1 \* | 1.000 |
 
 \* *forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included*
 ### M&ge;6.0 Hazard Change Over Time
@@ -561,16 +561,16 @@ These plots show how the probability of ruptures of various magnitudes within 10
 
 ![Hazard Change](plots/hazard_change_100km_m6.0.png)
 
-| Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-TI |
-|-----|-----|-----|-----|-----|
-| 1 Hour | 0.025 [0.024 - 0.026] | 0.025 | 6.60E-6 | 6.15E-6 |
-| 1 Day | 0.063 [0.062 - 0.065] | 0.063 | 1.58E-4 | 1.48E-4 |
-| 1 Week | 0.089 [0.088 - 0.091] | 0.088 | 1.11E-3 | 1.03E-3 |
-| 1 Month | 0.113 [0.111 - 0.115] | 0.108 | 4.74E-3 | 4.42E-3 |
-| 1 Year | 0.190 [0.188 - 0.192] | 0.142 | 0.056 | 0.052 |
-| 10 Years | 0.536 [0.535 - 0.537] | 0.172 | 0.440 | 0.417 |
-| 30 Years | 0.855 [0.855 - 0.855] \* | \* | 0.825 | 0.801 |
-| 100 Years | 0.998 [0.998 - 0.998] \* | \* | 0.997 | 0.995 |
+| Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-ETAS/TD Gain | UCERF3-TI |
+|-----|-----|-----|-----|-----|-----|
+| 1 Hour | 0.025 [0.024 - 0.026] | 0.025 | 6.60E-6 | 3782.3 | 6.15E-6 |
+| 1 Day | 0.063 [0.062 - 0.065] | 0.063 | 1.58E-4 | 400.22 | 1.48E-4 |
+| 1 Week | 0.089 [0.088 - 0.091] | 0.088 | 1.11E-3 | 80.53 | 1.03E-3 |
+| 1 Month | 0.113 [0.111 - 0.115] | 0.108 | 4.74E-3 | 23.74 | 4.42E-3 |
+| 1 Year | 0.190 [0.188 - 0.192] | 0.142 | 0.056 | 3.38 | 0.052 |
+| 10 Years | 0.536 [0.535 - 0.537] | 0.172 | 0.440 | 1.22 | 0.417 |
+| 30 Years | 0.855 [0.855 - 0.855] \* | \* | 0.825 | 1.04 \* | 0.801 |
+| 100 Years | 0.998 [0.998 - 0.998] \* | \* | 0.997 | 1 \* | 0.995 |
 
 \* *forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included*
 ### M&ge;7.0 Hazard Change Over Time
@@ -578,16 +578,16 @@ These plots show how the probability of ruptures of various magnitudes within 10
 
 ![Hazard Change](plots/hazard_change_100km_m7.0.png)
 
-| Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-TI |
-|-----|-----|-----|-----|-----|
-| 1 Hour | 8.31E-4 [6.66E-4 - 1.03E-3] | 8.30E-4 | 6.47E-7 | 5.84E-7 |
-| 1 Day | 2.41E-3 [2.12E-3 - 2.73E-3] | 2.39E-3 | 1.55E-5 | 1.40E-5 |
-| 1 Week | 3.59E-3 [3.24E-3 - 3.98E-3] | 3.48E-3 | 1.09E-4 | 9.81E-5 |
-| 1 Month | 5.12E-3 [4.72E-3 - 5.57E-3] | 4.66E-3 | 4.66E-4 | 4.20E-4 |
-| 1 Year | 0.012 [0.012 - 0.013] | 6.68E-3 | 5.66E-3 | 5.10E-3 |
-| 10 Years | 0.064 [0.063 - 0.064] | 8.96E-3 | 0.055 | 0.050 |
-| 30 Years | 0.166 [0.166 - 0.167] \* | \* | 0.159 | 0.142 |
-| 100 Years | 0.457 [0.457 - 0.458] \* | \* | 0.452 | 0.401 |
+| Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-ETAS/TD Gain | UCERF3-TI |
+|-----|-----|-----|-----|-----|-----|
+| 1 Hour | 8.31E-4 [6.66E-4 - 1.03E-3] | 8.30E-4 | 6.47E-7 | 1283.17 | 5.84E-7 |
+| 1 Day | 2.41E-3 [2.12E-3 - 2.73E-3] | 2.39E-3 | 1.55E-5 | 154.83 | 1.40E-5 |
+| 1 Week | 3.59E-3 [3.24E-3 - 3.98E-3] | 3.48E-3 | 1.09E-4 | 33 | 9.81E-5 |
+| 1 Month | 5.12E-3 [4.72E-3 - 5.57E-3] | 4.66E-3 | 4.66E-4 | 11 | 4.20E-4 |
+| 1 Year | 0.012 [0.012 - 0.013] | 6.68E-3 | 5.66E-3 | 2.17 | 5.10E-3 |
+| 10 Years | 0.064 [0.063 - 0.064] | 8.96E-3 | 0.055 | 1.15 | 0.050 |
+| 30 Years | 0.166 [0.166 - 0.167] \* | \* | 0.159 | 1.05 \* | 0.142 |
+| 100 Years | 0.457 [0.457 - 0.458] \* | \* | 0.452 | 1.01 \* | 0.401 |
 
 \* *forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included*
 ### M&ge;8.0 Hazard Change Over Time
@@ -595,16 +595,16 @@ These plots show how the probability of ruptures of various magnitudes within 10
 
 ![Hazard Change](plots/hazard_change_100km_m8.0.png)
 
-| Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-TI |
-|-----|-----|-----|-----|-----|
-| 1 Hour | 1.24E-8 [1.24E-8 - 4.79E-5] | 0.000 | 1.24E-8 | 1.06E-8 |
-| 1 Day | 2.97E-7 [2.97E-7 - 4.82E-5] | 0.000 | 2.97E-7 | 2.54E-7 |
-| 1 Week | 1.21E-5 [2.60E-6 - 6.70E-5] | 1.00E-5 | 2.08E-6 | 1.78E-6 |
-| 1 Month | 1.89E-5 [9.43E-6 - 7.39E-5] | 1.00E-5 | 8.90E-6 | 7.63E-6 |
-| 1 Year | 1.28E-4 [1.12E-4 - 1.89E-4] | 2.00E-5 | 1.08E-4 | 9.29E-5 |
-| 10 Years | 1.12E-3 [1.10E-3 - 1.18E-3] | 2.00E-5 | 1.10E-3 | 9.29E-4 |
-| 30 Years | 3.52E-3 [3.51E-3 - 3.58E-3] \* | \* | 3.50E-3 | 2.78E-3 |
-| 100 Years | 0.014 [0.014 - 0.014] \* | \* | 0.014 | 9.25E-3 |
+| Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-ETAS/TD Gain | UCERF3-TI |
+|-----|-----|-----|-----|-----|-----|
+| 1 Hour | 1.24E-8 [1.24E-8 - 4.79E-5] | 0.000 | 1.24E-8 | 1 | 1.06E-8 |
+| 1 Day | 2.97E-7 [2.97E-7 - 4.82E-5] | 0.000 | 2.97E-7 | 1 | 2.54E-7 |
+| 1 Week | 1.21E-5 [2.60E-6 - 6.70E-5] | 1.00E-5 | 2.08E-6 | 5.81 | 1.78E-6 |
+| 1 Month | 1.89E-5 [9.43E-6 - 7.39E-5] | 1.00E-5 | 8.90E-6 | 2.12 | 7.63E-6 |
+| 1 Year | 1.28E-4 [1.12E-4 - 1.89E-4] | 2.00E-5 | 1.08E-4 | 1.18 | 9.29E-5 |
+| 10 Years | 1.12E-3 [1.10E-3 - 1.18E-3] | 2.00E-5 | 1.10E-3 | 1.02 | 9.29E-4 |
+| 30 Years | 3.52E-3 [3.51E-3 - 3.58E-3] \* | \* | 3.50E-3 | 1.01 \* | 2.78E-3 |
+| 100 Years | 0.014 [0.014 - 0.014] \* | \* | 0.014 | 1 \* | 9.25E-3 |
 
 \* *forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included*
 ## Section Participation
