@@ -27,6 +27,7 @@
   * [M&ge;6.0 Hazard Change Over Time](#mge60-hazard-change-over-time)
   * [M&ge;7.0 Hazard Change Over Time](#mge70-hazard-change-over-time)
   * [M&ge;8.0 Hazard Change Over Time](#mge80-hazard-change-over-time)
+* [Trigger Rupture Fault Map](#trigger-rupture-fault-map)
 * [Fault Distances To Triggers](#fault-distances-to-triggers)
 * [Section Participation](#section-participation)
   * [Section Participation Plots](#section-participation-plots)
@@ -612,6 +613,10 @@ These plots show how the probability of ruptures of various magnitudes within 10
 | 100 Years | 0.014 [0.014 - 0.014] \* | \* | 0.014 | 1.01 \* | 9.25E-3 |
 
 \* *forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included*
+## Trigger Rupture Fault Map
+*[(top)](#table-of-contents)*
+
+![Map](plots/trigger_rup_fault_map.png)
 ## Fault Distances To Triggers
 *[(top)](#table-of-contents)*
 
