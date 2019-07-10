@@ -641,103 +641,103 @@ These plots show how the probability of ruptures of various magnitudes within 10
 ### Section Participation Plots
 *[(top)](#table-of-contents)*
 
-| Min Mag | Triggered Ruptures (no spontaneous) | Triggered Ruptures (primary aftershocks only) |
-|-----|-----|-----|
-| **All Supra. Seis.** | ![Participation Plot](plots/fault_participation_partic_triggered.png) | ![Participation Plot](plots/fault_participation_partic_triggered_primary.png) |
-| **M&ge;6.5** | ![Participation Plot](plots/fault_participation_partic_m6.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_m6.5_triggered_primary.png) |
-| **M&ge;7** | ![Participation Plot](plots/fault_participation_partic_m7.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_m7.0_triggered_primary.png) |
-| **M&ge;7.5** | ![Participation Plot](plots/fault_participation_partic_m7.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_m7.5_triggered_primary.png) |
-| **M&ge;8** | ![Participation Plot](plots/fault_participation_partic_m8.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_m8.0_triggered_primary.png) |
+| Min Mag | 1 yr Triggered Ruptures (no spontaneous) | 10 yr Triggered Ruptures (no spontaneous) | 10 yr Triggered Ruptures (primary aftershocks only) |
+|-----|-----|-----|-----|
+| **All Supra. Seis.** | ![Participation Plot](plots/fault_participation_partic_1yr_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_triggered_primary.png) |
+| **M&ge;6.5** | ![Participation Plot](plots/fault_participation_partic_1yr_m6.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m6.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m6.5_triggered_primary.png) |
+| **M&ge;7** | ![Participation Plot](plots/fault_participation_partic_1yr_m7.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.0_triggered_primary.png) |
+| **M&ge;7.5** | ![Participation Plot](plots/fault_participation_partic_1yr_m7.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.5_triggered_primary.png) |
+| **M&ge;8** | ![Participation Plot](plots/fault_participation_partic_1yr_m8.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m8.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m8.0_triggered_primary.png) |
 
 ### Supra-Seismogenic Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 194 with matching ruptures shown*
 
-| Parent Name | Triggered Mean Count | Triggered 10 Year Prob | Triggered Primary Mean Count |
-|-----|-----|-----|-----|
-| Tank Canyon | 0.08934 | 0.07574 | 0.02283 |
-| Garlock (Central) | 0.05714 | 0.05513 | 0.02721 |
-| Little Lake | 0.04607 | 0.04479 | 0.02586 |
-| Airport Lake | 0.0339 | 0.0338 | 0.02182 |
-| Owl Lake | 0.02144 | 0.01881 | 0.0049 |
-| Panamint Valley | 0.01785 | 0.01737 | 0.00552 |
-| Garlock (East) | 0.01395 | 0.0127 | 0.0029 |
-| Ash Hill | 0.00875 | 0.00815 | 0.00183 |
-| Blackwater | 0.00718 | 0.0068 | 0.00193 |
-| Hunter Mountain-Saline Valley | 0.00711 | 0.00696 | 0.00283 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+| Tank Canyon | 0.08934 | 0.00485 | 0.01515 | 0.02589 | 0.04995 | 0.07574 | 0.02283 |
+| Garlock (Central) | 0.05714 | 0.00512 | 0.01371 | 0.02262 | 0.03877 | 0.05513 | 0.02721 |
+| Little Lake | 0.04607 | 0.00434 | 0.01234 | 0.01914 | 0.03234 | 0.04479 | 0.02586 |
+| Airport Lake | 0.0339 | 0.0034 | 0.00963 | 0.01489 | 0.02431 | 0.0338 | 0.02182 |
+| Owl Lake | 0.02144 | 0.00124 | 0.00344 | 0.00638 | 0.01207 | 0.01881 | 0.0049 |
+| Panamint Valley | 0.01785 | 0.00114 | 0.00346 | 0.00596 | 0.01144 | 0.01737 | 0.00552 |
+| Garlock (East) | 0.01395 | 8.5E-4 | 0.00242 | 0.0042 | 0.00799 | 0.0127 | 0.0029 |
+| Ash Hill | 0.00875 | 4.5E-4 | 0.00138 | 0.00242 | 0.005 | 0.00815 | 0.00183 |
+| Blackwater | 0.00718 | 4.9E-4 | 0.0012 | 0.00212 | 0.00421 | 0.0068 | 0.00193 |
+| Hunter Mountain-Saline Valley | 0.00711 | 5.4E-4 | 0.00166 | 0.00261 | 0.00461 | 0.00696 | 0.00283 |
 
 ### M≥6.5 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 163 with matching ruptures shown*
 
-| Parent Name | Triggered Mean Count | Triggered 10 Year Prob | Triggered Primary Mean Count |
-|-----|-----|-----|-----|
-| Little Lake | 0.02742 | 0.02698 | 0.01619 |
-| Garlock (Central) | 0.02517 | 0.02462 | 0.01166 |
-| Airport Lake | 0.02506 | 0.02501 | 0.01615 |
-| Panamint Valley | 0.01653 | 0.01618 | 0.00536 |
-| Owl Lake | 0.01125 | 0.01116 | 0.00405 |
-| Tank Canyon | 0.01022 | 0.01018 | 0.00258 |
-| Garlock (East) | 0.00867 | 0.00827 | 0.00268 |
-| Hunter Mountain-Saline Valley | 0.00685 | 0.00675 | 0.00279 |
-| Garlock (West) | 0.00427 | 0.00427 | 0.00191 |
-| So Sierra Nevada | 0.00333 | 0.00332 | 7.8E-4 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+| Little Lake | 0.02742 | 0.00269 | 0.00765 | 0.01164 | 0.01924 | 0.02698 | 0.01619 |
+| Garlock (Central) | 0.02517 | 0.00234 | 0.00596 | 0.00975 | 0.01692 | 0.02462 | 0.01166 |
+| Airport Lake | 0.02506 | 0.00261 | 0.00727 | 0.01109 | 0.01808 | 0.02501 | 0.01615 |
+| Panamint Valley | 0.01653 | 0.0011 | 0.00334 | 0.00566 | 0.01071 | 0.01618 | 0.00536 |
+| Owl Lake | 0.01125 | 7.9E-4 | 0.00227 | 0.00398 | 0.00735 | 0.01116 | 0.00405 |
+| Tank Canyon | 0.01022 | 4.7E-4 | 0.00183 | 0.00331 | 0.00664 | 0.01018 | 0.00258 |
+| Garlock (East) | 0.00867 | 6.3E-4 | 0.00167 | 0.00288 | 0.00545 | 0.00827 | 0.00268 |
+| Hunter Mountain-Saline Valley | 0.00685 | 5.2E-4 | 0.00163 | 0.00254 | 0.00448 | 0.00675 | 0.00279 |
+| Garlock (West) | 0.00427 | 4.1E-4 | 9.8E-4 | 0.00171 | 0.00293 | 0.00427 | 0.00191 |
+| So Sierra Nevada | 0.00333 | 2.3E-4 | 5.5E-4 | 9.6E-4 | 0.00202 | 0.00332 | 7.8E-4 |
 
 ### M≥7 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 114 with matching ruptures shown*
 
-| Parent Name | Triggered Mean Count | Triggered 10 Year Prob | Triggered Primary Mean Count |
-|-----|-----|-----|-----|
-| Garlock (Central) | 0.0224 | 0.02206 | 0.01046 |
-| Panamint Valley | 0.00979 | 0.00976 | 0.00392 |
-| Owl Lake | 0.00795 | 0.00795 | 0.00377 |
-| Hunter Mountain-Saline Valley | 0.00659 | 0.00659 | 0.00273 |
-| Garlock (East) | 0.00601 | 0.00597 | 0.00255 |
-| Little Lake | 0.00525 | 0.00525 | 0.00321 |
-| Airport Lake | 0.00486 | 0.00486 | 0.00304 |
-| Garlock (West) | 0.00419 | 0.00419 | 0.0019 |
-| San Andreas (Mojave N) | 0.00176 | 0.00173 | 8.2E-4 |
-| San Andreas (Mojave S) | 0.00133 | 0.00132 | 5.9E-4 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+| Garlock (Central) | 0.0224 | 0.00202 | 0.00531 | 0.0087 | 0.01513 | 0.02206 | 0.01046 |
+| Panamint Valley | 0.00979 | 7.7E-4 | 0.00226 | 0.00368 | 0.00651 | 0.00976 | 0.00392 |
+| Owl Lake | 0.00795 | 6.9E-4 | 0.00185 | 0.00311 | 0.00544 | 0.00795 | 0.00377 |
+| Hunter Mountain-Saline Valley | 0.00659 | 5.0E-4 | 0.00157 | 0.00246 | 0.00437 | 0.00659 | 0.00273 |
+| Garlock (East) | 0.00601 | 5.4E-4 | 0.00132 | 0.00228 | 0.0041 | 0.00597 | 0.00255 |
+| Little Lake | 0.00525 | 4.8E-4 | 0.00145 | 0.00216 | 0.0037 | 0.00525 | 0.00321 |
+| Airport Lake | 0.00486 | 4.5E-4 | 0.00137 | 0.00203 | 0.00342 | 0.00486 | 0.00304 |
+| Garlock (West) | 0.00419 | 4.1E-4 | 9.8E-4 | 0.00169 | 0.00289 | 0.00419 | 0.0019 |
+| San Andreas (Mojave N) | 0.00176 | 1.6E-4 | 4.3E-4 | 7.4E-4 | 0.00121 | 0.00173 | 8.2E-4 |
+| San Andreas (Mojave S) | 0.00133 | 1.4E-4 | 3.6E-4 | 5.6E-4 | 9.1E-4 | 0.00132 | 5.9E-4 |
 
 ### M≥7.5 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 77 with matching ruptures shown*
 
-| Parent Name | Triggered Mean Count | Triggered 10 Year Prob | Triggered Primary Mean Count |
-|-----|-----|-----|-----|
-| Garlock (Central) | 0.00927 | 0.00925 | 0.00431 |
-| Panamint Valley | 0.00624 | 0.00624 | 0.00267 |
-| Hunter Mountain-Saline Valley | 0.00622 | 0.00622 | 0.00266 |
-| Garlock (West) | 0.00378 | 0.00378 | 0.00174 |
-| Garlock (East) | 0.0024 | 0.0024 | 0.00106 |
-| San Andreas (Mojave N) | 0.00175 | 0.00173 | 8.1E-4 |
-| San Andreas (Mojave S) | 0.00124 | 0.00124 | 5.7E-4 |
-| Owl Lake | 8.4E-4 | 8.4E-4 | 4.3E-4 |
-| San Andreas (San Bernardino N) | 6.9E-4 | 6.8E-4 | 3.0E-4 |
-| San Andreas (San Bernardino S) | 3.9E-4 | 3.9E-4 | 1.8E-4 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+| Garlock (Central) | 0.00927 | 8.6E-4 | 0.00231 | 0.0037 | 0.00638 | 0.00925 | 0.00431 |
+| Panamint Valley | 0.00624 | 4.9E-4 | 0.00149 | 0.00236 | 0.0042 | 0.00624 | 0.00267 |
+| Hunter Mountain-Saline Valley | 0.00622 | 4.9E-4 | 0.00149 | 0.00235 | 0.00418 | 0.00622 | 0.00266 |
+| Garlock (West) | 0.00378 | 3.9E-4 | 9.2E-4 | 0.00153 | 0.00263 | 0.00378 | 0.00174 |
+| Garlock (East) | 0.0024 | 2.8E-4 | 6.5E-4 | 0.00104 | 0.00174 | 0.0024 | 0.00106 |
+| San Andreas (Mojave N) | 0.00175 | 1.6E-4 | 4.3E-4 | 7.4E-4 | 0.00121 | 0.00173 | 8.1E-4 |
+| San Andreas (Mojave S) | 0.00124 | 1.4E-4 | 3.5E-4 | 5.5E-4 | 8.6E-4 | 0.00124 | 5.7E-4 |
+| Owl Lake | 8.4E-4 | 6.0E-5 | 1.4E-4 | 2.8E-4 | 5.3E-4 | 8.4E-4 | 4.3E-4 |
+| San Andreas (San Bernardino N) | 6.9E-4 | 8.0E-5 | 1.8E-4 | 2.7E-4 | 4.5E-4 | 6.8E-4 | 3.0E-4 |
+| San Andreas (San Bernardino S) | 3.9E-4 | 5.0E-5 | 1.1E-4 | 1.6E-4 | 2.8E-4 | 3.9E-4 | 1.8E-4 |
 
 ### M≥8 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 29 with matching ruptures shown*
 
-| Parent Name | Triggered Mean Count | Triggered 10 Year Prob | Triggered Primary Mean Count |
-|-----|-----|-----|-----|
-| San Andreas (Mojave N) | 1.4E-4 | 1.4E-4 | 9.0E-5 |
-| San Andreas (Mojave S) | 1.4E-4 | 1.4E-4 | 9.0E-5 |
-| San Andreas (San Bernardino N) | 1.4E-4 | 1.4E-4 | 9.0E-5 |
-| Garlock (Central) | 1.0E-4 | 1.0E-4 | 7.0E-5 |
-| Garlock (West) | 1.0E-4 | 1.0E-4 | 7.0E-5 |
-| Garlock (East) | 9.0E-5 | 9.0E-5 | 7.0E-5 |
-| San Andreas (San Bernardino S) | 9.0E-5 | 9.0E-5 | 6.0E-5 |
-| San Andreas (San Gorgonio Pass-Garnet HIll) | 9.0E-5 | 9.0E-5 | 6.0E-5 |
-| San Andreas (Coachella) rev | 6.0E-5 | 6.0E-5 | 4.0E-5 |
-| San Andreas (Big Bend) | 4.0E-5 | 4.0E-5 | 2.0E-5 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Mojave N) | 1.4E-4 | 1.0E-5 | 4.0E-5 | 5.0E-5 | 1.0E-4 | 1.4E-4 | 9.0E-5 |
+| San Andreas (Mojave S) | 1.4E-4 | 1.0E-5 | 4.0E-5 | 5.0E-5 | 1.0E-4 | 1.4E-4 | 9.0E-5 |
+| San Andreas (San Bernardino N) | 1.4E-4 | 1.0E-5 | 4.0E-5 | 5.0E-5 | 1.0E-4 | 1.4E-4 | 9.0E-5 |
+| Garlock (Central) | 1.0E-4 | 0.0 | 3.0E-5 | 4.0E-5 | 8.0E-5 | 1.0E-4 | 7.0E-5 |
+| Garlock (West) | 1.0E-4 | 0.0 | 3.0E-5 | 4.0E-5 | 8.0E-5 | 1.0E-4 | 7.0E-5 |
+| Garlock (East) | 9.0E-5 | 0.0 | 3.0E-5 | 4.0E-5 | 7.0E-5 | 9.0E-5 | 7.0E-5 |
+| San Andreas (San Bernardino S) | 9.0E-5 | 1.0E-5 | 3.0E-5 | 3.0E-5 | 6.0E-5 | 9.0E-5 | 6.0E-5 |
+| San Andreas (San Gorgonio Pass-Garnet HIll) | 9.0E-5 | 1.0E-5 | 3.0E-5 | 3.0E-5 | 6.0E-5 | 9.0E-5 | 6.0E-5 |
+| San Andreas (Coachella) rev | 6.0E-5 | 1.0E-5 | 2.0E-5 | 2.0E-5 | 5.0E-5 | 6.0E-5 | 4.0E-5 |
+| San Andreas (Big Bend) | 4.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 2.0E-5 | 4.0E-5 | 2.0E-5 |
 ## Gridded Nucleation
 *[(top)](#table-of-contents)*
 
