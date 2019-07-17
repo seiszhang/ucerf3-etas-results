@@ -30,8 +30,8 @@ img {
 <tr><td>Start Time Epoch Milliseconds</td><td>1562987994040</td></tr>
 <tr><td>Duration</td><td>10 Years</td></tr>
 <tr><td>Includes Spontaneous?</td><td>false</td></tr>
-<tr><td>Trigger Ruptures</td><td>1550 Trigger Ruptures</td></tr>
-<tr><td></td><td>First: M3.1 at 2019/06/29 04:55:38 UTC</td></tr>
+<tr><td>Trigger Ruptures</td><td>1345 Trigger Ruptures</td></tr>
+<tr><td></td><td>First: M3.98 at 2019/07/04 17:02:55 UTC</td></tr>
 <tr><td></td><td>Last: M2.8 at 2019/07/13 02:47:44 UTC</td></tr>
 <tr><td></td><td>Largest: M7.1 at 2019/07/06 03:19:53 UTC</td></tr>
 <tr><td>Historical Ruptures</td><td><em>(none)</em></td></tr>
@@ -40,6 +40,7 @@ img {
 <h2 id="table-of-contents">Table Of Contents</h2>
 <ul>
 <li><a href="#trigger-rupture-fault-map">Trigger Rupture Fault Map</a></li>
+<li><a href="#trigger-rupture-depth-map">Trigger Rupture Depth Map</a></li>
 <li><a href="#fault-distances-to-triggers">Fault Distances To Triggers</a></li>
 <li><a href="#possible-finite-rupture-subsection-mappings">Possible Finite Rupture Subsection Mappings</a></li>
 <li><a href="#json-input-file">JSON Input File</a></li>
@@ -47,6 +48,9 @@ img {
 <h2 id="trigger-rupture-fault-map">Trigger Rupture Fault Map</h2>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p><img src="./trigger_rup_fault_map.png" alt="Map" /></p>
+<h2 id="trigger-rupture-depth-map">Trigger Rupture Depth Map</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><img src="./trigger_rup_depth_map.png" alt="Map" /></p>
 <h2 id="fault-distances-to-triggers">Fault Distances To Triggers</h2>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <table>
@@ -56,71 +60,16 @@ img {
 <tbody>
 <tr><td>Airport Lake</td><td>359, 50, -90</td><td>777</td><td>7.1</td><td>777</td><td>7.1</td><td>0.036</td><td>0.000</td><td>0.036</td><td>0.000</td><td>5.612</td><td>0.000</td></tr>
 <tr><td>Little Lake</td><td>327, 90, 180</td><td>270</td><td>5.5</td><td>271</td><td>7.1</td><td>1.937</td><td>0.000</td><td>11.284</td><td>0.000</td><td>13.471</td><td>1.469</td></tr>
-<tr><td>Garlock (Central)</td><td>71, 90, 0</td><td>96</td><td>4.49</td><td>97</td><td>7.1</td><td>0.225</td><td>0.000</td><td>5.600</td><td>0.000</td><td>22.802</td><td>10.829</td></tr>
-<tr><td>So Sierra Nevada</td><td>2, 50, -90</td><td>62</td><td>4.52</td><td>62</td><td>4.52</td><td>1.134</td><td>0.000</td><td>4.248</td><td>4.233</td><td>16.191</td><td>15.188</td></tr>
+<tr><td>Garlock (Central)</td><td>70, 90, 0</td><td>93</td><td>4.49</td><td>94</td><td>7.1</td><td>0.869</td><td>0.000</td><td>5.600</td><td>0.000</td><td>22.802</td><td>10.829</td></tr>
+<tr><td>So Sierra Nevada</td><td>2, 50, -90</td><td>30</td><td>4.13</td><td>30</td><td>4.13</td><td>1.255</td><td>0.000</td><td>4.248</td><td>4.233</td><td>16.191</td><td>15.188</td></tr>
 <tr><td>Ash Hill</td><td>162, 90, 180</td><td>16</td><td>3.57</td><td>16</td><td>3.57</td><td>0.563</td><td>0.000</td><td>34.883</td><td>23.252</td><td>35.808</td><td>25.242</td></tr>
-<tr><td>Panamint Valley</td><td>334, 90, -150</td><td>14</td><td>3.57</td><td>14</td><td>3.57</td><td>6.408</td><td>0.000</td><td>29.583</td><td>17.627</td><td>34.539</td><td>22.615</td></tr>
-<tr><td>White Wolf</td><td>51, 75, 60</td><td>7</td><td>3.44</td><td>7</td><td>3.44</td><td>0.381</td><td>0.000</td><td>88.320</td><td>87.948</td><td>89.285</td><td>88.663</td></tr>
-<tr><td>Mendocino</td><td>278, 90, 180</td><td>3</td><td>2.79</td><td>3</td><td>2.79</td><td>5.110</td><td>0.000</td><td>750.442</td><td>744.468</td><td>769.901</td><td>763.878</td></tr>
-<tr><td>Round Valley</td><td>340, 50, -90</td><td>2</td><td>3.28</td><td>2</td><td>3.28</td><td>1.123</td><td>0.000</td><td>166.054</td><td>166.053</td><td>185.199</td><td>185.131</td></tr>
+<tr><td>Panamint Valley</td><td>336, 90, -150</td><td>14</td><td>3.57</td><td>14</td><td>3.57</td><td>6.408</td><td>0.000</td><td>29.583</td><td>17.627</td><td>34.539</td><td>22.615</td></tr>
 <tr><td>Tank Canyon</td><td>189, 50, -90</td><td>1</td><td>3.0</td><td>1</td><td>3.0</td><td>1.252</td><td>0.000</td><td>9.015</td><td>9.011</td><td>17.243</td><td>17.072</td></tr>
-<tr><td>San Jacinto (San Jacinto Valley) rev</td><td>133, 90, 180</td><td>1</td><td>3.02</td><td>1</td><td>3.02</td><td>1.315</td><td>0.000</td><td>173.583</td><td>165.562</td><td>189.314</td><td>181.823</td></tr>
-<tr><td>San Andreas (Cholame) rev</td><td>321, 90, 180</td><td>1</td><td>2.66</td><td>1</td><td>2.66</td><td>1.564</td><td>0.000</td><td>203.540</td><td>192.228</td><td>211.238</td><td>200.333</td></tr>
-<tr><td>San Jacinto (San Bernardino)</td><td>138, 90, 180</td><td>1</td><td>2.72</td><td>1</td><td>2.72</td><td>1.712</td><td>0.000</td><td>146.279</td><td>137.866</td><td>160.365</td><td>152.689</td></tr>
-<tr><td>Brawley (Seismic Zone) alt 1</td><td>160, 90, 180</td><td>1</td><td>2.63</td><td>1</td><td>2.63</td><td>3.042</td><td>0.000</td><td>282.250</td><td>280.355</td><td>301.075</td><td>299.053</td></tr>
-<tr><td>San Jacinto (Lytle Creek connector)</td><td>135, 90, 180</td><td>1</td><td>2.72</td><td>1</td><td>2.72</td><td>3.968</td><td>0.000</td><td>148.101</td><td>139.163</td><td>162.186</td><td>153.936</td></tr>
-<tr><td>Fontana (Seismicity)</td><td>223, 80, 0</td><td>1</td><td>2.72</td><td>1</td><td>2.72</td><td>4.262</td><td>0.000</td><td>157.112</td><td>153.190</td><td>171.794</td><td>167.438</td></tr>
-<tr><td>Blackwater</td><td>323, 90, 180</td><td>1</td><td>3.54</td><td>1</td><td>3.54</td><td>5.396</td><td>0.000</td><td>14.394</td><td>8.726</td><td>29.661</td><td>27.718</td></tr>
-<tr><td>Cucamonga</td><td>257, 45, 90</td><td>1</td><td>2.72</td><td>1</td><td>2.72</td><td>5.656</td><td>0.000</td><td>142.618</td><td>142.617</td><td>156.921</td><td>156.905</td></tr>
-<tr><td>Collayami 2011 CFM</td><td>134, 90, 180</td><td>1</td><td>3.18</td><td>1</td><td>3.18</td><td>5.665</td><td>0.000</td><td>529.340</td><td>527.582</td><td>548.534</td><td>546.870</td></tr>
-<tr><td>Hat Creek-McArthur-Mayfield</td><td>164, 60, -90</td><td>1</td><td>2.66</td><td>1</td><td>2.66</td><td>10.256</td><td>0.000</td><td>603.593</td><td>602.777</td><td>623.133</td><td>622.250</td></tr>
-<tr><td>King Range 2011 CFM</td><td>130, 29, 90</td><td>1</td><td>2.79</td><td>1</td><td>2.79</td><td>10.386</td><td>0.000</td><td>713.231</td><td>712.978</td><td>732.737</td><td>732.442</td></tr>
-<tr><td>San Andreas (San Bernardino N)</td><td>122, 90, 180</td><td>1</td><td>2.72</td><td>1</td><td>2.72</td><td>11.366</td><td>0.000</td><td>140.812</td><td>130.029</td><td>154.485</td><td>144.224</td></tr>
-<tr><td>Imperial</td><td>325, 82, 180</td><td>0</td><td></td><td>0</td><td></td><td>3.526</td><td>3.188</td><td>338.471</td><td>337.751</td><td>357.232</td><td>356.580</td></tr>
-<tr><td>Fish Slough 2011 CFM</td><td>181, 60, -90</td><td>0</td><td></td><td>0</td><td></td><td>5.111</td><td>1.127</td><td>168.335</td><td>165.751</td><td>187.309</td><td>184.432</td></tr>
-<tr><td>Sierra Nevada  (No Extension)</td><td>344, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>5.696</td><td>3.696</td><td>39.627</td><td>39.626</td><td>58.680</td><td>58.391</td></tr>
-<tr><td>Hilton Creek 2011 CFM</td><td>327, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>7.500</td><td>0.626</td><td>199.972</td><td>197.823</td><td>219.441</td><td>217.147</td></tr>
-<tr><td>Great Valley 11</td><td>131, 15, 90</td><td>0</td><td></td><td>0</td><td></td><td>7.959</td><td>7.890</td><td>251.917</td><td>251.895</td><td>268.223</td><td>268.198</td></tr>
-<tr><td>Maacama 2011 CFM</td><td>329, 63, 180</td><td>0</td><td></td><td>0</td><td></td><td>8.381</td><td>5.026</td><td>519.232</td><td>519.178</td><td>538.248</td><td>538.186</td></tr>
-<tr><td>Great Valley 10 (Panoche)</td><td>152, 15, 90</td><td>0</td><td></td><td>0</td><td></td><td>8.863</td><td>8.800</td><td>272.824</td><td>272.796</td><td>289.497</td><td>289.467</td></tr>
-<tr><td>San Andreas (Offshore) 2011 CFM</td><td>338, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>9.422</td><td>8.551</td><td>644.456</td><td>637.345</td><td>663.492</td><td>656.455</td></tr>
-<tr><td>San Andreas (North Branch Mill Creek)</td><td>114, 76, 180</td><td>0</td><td></td><td>0</td><td></td><td>9.795</td><td>6.355</td><td>156.219</td><td>149.334</td><td>172.195</td><td>165.234</td></tr>
-<tr><td>Garlock (West)</td><td>59, 90, 0</td><td>0</td><td></td><td>0</td><td></td><td>10.636</td><td>9.954</td><td>63.115</td><td>60.529</td><td>66.426</td><td>62.627</td></tr>
-<tr><td>Pleito</td><td>91, 46, 90</td><td>0</td><td></td><td>0</td><td></td><td>12.225</td><td>5.035</td><td>147.260</td><td>146.662</td><td>148.802</td><td>147.949</td></tr>
-<tr><td>Wight Way 2011 CFM</td><td>263, 69, -90</td><td>0</td><td></td><td>0</td><td></td><td>12.669</td><td>6.942</td><td>564.047</td><td>560.209</td><td>583.347</td><td>579.421</td></tr>
-<tr><td>Superstition Hills</td><td>130, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>12.937</td><td>1.342</td><td>313.261</td><td>308.435</td><td>331.749</td><td>327.065</td></tr>
-<tr><td>San Andreas (San Bernardino S)</td><td>120, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>13.533</td><td>1.180</td><td>158.941</td><td>149.214</td><td>174.851</td><td>165.578</td></tr>
-<tr><td>Owens Valley</td><td>343, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>13.567</td><td>12.581</td><td>49.013</td><td>48.524</td><td>68.299</td><td>66.819</td></tr>
-<tr><td>Rocky Ledge 2011 CFM</td><td>175, 60, -90</td><td>0</td><td></td><td>0</td><td></td><td>13.672</td><td>6.008</td><td>645.398</td><td>643.187</td><td>664.968</td><td>662.670</td></tr>
-<tr><td>Ortigalita (South)</td><td>152, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>13.688</td><td>13.564</td><td>288.011</td><td>279.348</td><td>304.505</td><td>296.147</td></tr>
-<tr><td>Lost Hills</td><td>143, 29, 90</td><td>0</td><td></td><td>0</td><td></td><td>14.494</td><td>14.328</td><td>181.424</td><td>181.398</td><td>191.325</td><td>191.260</td></tr>
-<tr><td>Owens Valley Keough Hot Springs</td><td>340, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>15.496</td><td>11.970</td><td>152.866</td><td>152.543</td><td>171.523</td><td>171.407</td></tr>
-<tr><td>Cleghorn</td><td>96, 90, 0</td><td>0</td><td></td><td>0</td><td></td><td>15.874</td><td>4.093</td><td>141.151</td><td>129.164</td><td>155.439</td><td>143.546</td></tr>
-<tr><td>San Gorgonio Pass</td><td>281, 60, 90</td><td>0</td><td></td><td>0</td><td></td><td>16.137</td><td>14.299</td><td>168.900</td><td>168.864</td><td>185.778</td><td>185.615</td></tr>
-<tr><td>Rodgers Creek - Healdsburg 2011 CFM</td><td>324, 77, 180</td><td>0</td><td></td><td>0</td><td></td><td>16.142</td><td>8.984</td><td>486.124</td><td>483.925</td><td>504.875</td><td>502.720</td></tr>
-<tr><td>San Jacinto (Superstition Mtn)</td><td>120, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>16.550</td><td>8.257</td><td>314.762</td><td>307.825</td><td>333.170</td><td>326.371</td></tr>
+<tr><td>Blackwater</td><td>325, 90, 180</td><td>1</td><td>3.54</td><td>1</td><td>3.54</td><td>5.396</td><td>0.000</td><td>14.394</td><td>8.726</td><td>29.661</td><td>27.718</td></tr>
+<tr><td>Sierra Nevada  (No Extension)</td><td>348, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>13.566</td><td>13.103</td><td>39.627</td><td>39.626</td><td>58.680</td><td>58.391</td></tr>
 <tr><td>Scodie Lineament</td><td>221, 68, 0</td><td>0</td><td></td><td>0</td><td></td><td>16.722</td><td>15.781</td><td>28.750</td><td>27.702</td><td>36.559</td><td>32.668</td></tr>
-<tr><td>San Juan</td><td>152, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>16.841</td><td>4.873</td><td>218.336</td><td>206.343</td><td>224.772</td><td>212.898</td></tr>
-<tr><td>Hartley Springs 2011 CFM</td><td>342, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>17.432</td><td>12.300</td><td>221.559</td><td>212.948</td><td>240.954</td><td>232.544</td></tr>
-<tr><td>San Jacinto (Stepovers Combined)</td><td>139, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>17.472</td><td>17.466</td><td>187.428</td><td>181.146</td><td>203.799</td><td>198.015</td></tr>
-<tr><td>Pittville 2011 CFM</td><td>164, 60, -90</td><td>0</td><td></td><td>0</td><td></td><td>18.073</td><td>17.241</td><td>634.649</td><td>631.491</td><td>654.087</td><td>650.826</td></tr>
-<tr><td>White Mountains</td><td>352, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>18.401</td><td>6.400</td><td>129.745</td><td>128.370</td><td>148.238</td><td>146.207</td></tr>
-<tr><td>Lenwood-Lockhart-Old Woman Springs</td><td>313, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>18.692</td><td>16.534</td><td>53.532</td><td>41.707</td><td>59.689</td><td>48.512</td></tr>
-<tr><td>San Andreas (Mojave S)</td><td>116, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>18.773</td><td>13.670</td><td>131.948</td><td>119.949</td><td>139.645</td><td>127.646</td></tr>
-<tr><td>San Gabriel (Extension)</td><td>276, 61, 180</td><td>0</td><td></td><td>0</td><td></td><td>19.658</td><td>8.388</td><td>139.593</td><td>139.593</td><td>152.686</td><td>152.634</td></tr>
-<tr><td>Bear River fault zone</td><td>300, 60, 90</td><td>0</td><td></td><td>0</td><td></td><td>19.698</td><td>14.892</td><td>744.969</td><td>744.458</td><td>764.562</td><td>763.998</td></tr>
-<tr><td>North Frontal  (West)</td><td>80, 49, 90</td><td>0</td><td></td><td>0</td><td></td><td>19.779</td><td>18.591</td><td>127.349</td><td>126.313</td><td>144.446</td><td>143.010</td></tr>
-<tr><td>Garberville - Briceland 2011 CFM</td><td>315, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>20.124</td><td>10.148</td><td>688.087</td><td>686.898</td><td>707.619</td><td>706.473</td></tr>
-<tr><td>San Jose</td><td>244, 74, 30</td><td>0</td><td></td><td>0</td><td></td><td>20.790</td><td>19.973</td><td>161.293</td><td>159.154</td><td>173.919</td><td>171.577</td></tr>
-<tr><td>La Panza 2011</td><td>315, 51, 135</td><td>0</td><td></td><td>0</td><td></td><td>21.424</td><td>21.040</td><td>210.939</td><td>210.915</td><td>217.041</td><td>216.935</td></tr>
-<tr><td>Independence rev 2011</td><td>337, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>21.721</td><td>20.927</td><td>73.220</td><td>72.867</td><td>92.154</td><td>92.123</td></tr>
-<tr><td>Calaveras (So) - Paicines extension 2011 CFM</td><td>141, 77, 180</td><td>0</td><td></td><td>0</td><td></td><td>22.137</td><td>12.967</td><td>296.304</td><td>291.088</td><td>311.954</td><td>306.885</td></tr>
-<tr><td>Great Valley 12</td><td>153, 15, 90</td><td>0</td><td></td><td>0</td><td></td><td>22.250</td><td>22.222</td><td>239.566</td><td>239.540</td><td>255.204</td><td>255.176</td></tr>
-<tr><td>Sierra Madre</td><td>288, 53, 90</td><td>0</td><td></td><td>0</td><td></td><td>22.350</td><td>21.800</td><td>153.067</td><td>152.917</td><td>163.704</td><td>163.669</td></tr>
-<tr><td>San Andreas (Creeping Section) 2011 CFM</td><td>317, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>22.889</td><td>10.906</td><td>254.519</td><td>245.976</td><td>268.098</td><td>260.028</td></tr>
-<tr><td>San Andreas (Carrizo) rev</td><td>134, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>23.323</td><td>22.984</td><td>185.179</td><td>173.356</td><td>187.552</td><td>176.027</td></tr>
-<tr><td>Big Pine (East)</td><td>248, 73, 45</td><td>0</td><td></td><td>0</td><td></td><td>23.679</td><td>21.196</td><td>163.081</td><td>162.498</td><td>164.478</td><td>163.660</td></tr>
-<tr><td>Towne Pass</td><td>195, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>23.917</td><td>23.858</td><td>52.561</td><td>52.559</td><td>59.662</td><td>59.451</td></tr>
+<tr><td>Owens Valley</td><td>347, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>22.168</td><td>21.951</td><td>49.013</td><td>48.524</td><td>68.299</td><td>66.819</td></tr>
+<tr><td>Towne Pass</td><td>167, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>23.917</td><td>23.858</td><td>52.561</td><td>52.559</td><td>59.662</td><td>59.451</td></tr>
 <tr><td>Gravel Hills-Harper Lk</td><td>311, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>24.154</td><td>12.740</td><td>36.147</td><td>26.349</td><td>50.134</td><td>42.809</td></tr>
 </tbody>
 </table>
@@ -149,7 +98,7 @@ img {
   &quot;duration&quot;: 10.0,
   &quot;startTimeMillis&quot;: 1562987994040,
   &quot;includeSpontaneous&quot;: false,
-  &quot;randomSeed&quot;: 1563314389037,
+  &quot;randomSeed&quot;: 1563324314865,
   &quot;binaryOutput&quot;: true,
   &quot;binaryOutputFilters&quot;: [
     {
@@ -168,538 +117,6 @@ img {
   &quot;numRetries&quot;: 3,
   &quot;outputDir&quot;: &quot;${ETAS_SIM_DIR}/2019_07_16-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14&quot;,
   &quot;triggerRuptures&quot;: [
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561784138927,
-      &quot;mag&quot;: 3.1,
-      &quot;latitude&quot;: 55.9385,
-      &quot;longitude&quot;: -149.79060000000004,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561795139509,
-      &quot;mag&quot;: 3.8,
-      &quot;latitude&quot;: 36.3965,
-      &quot;longitude&quot;: -113.8115,
-      &quot;depth&quot;: 16.42
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561798122628,
-      &quot;mag&quot;: 3.0,
-      &quot;latitude&quot;: 66.3389,
-      &quot;longitude&quot;: -157.562,
-      &quot;depth&quot;: 12.2
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561799266561,
-      &quot;mag&quot;: 3.5,
-      &quot;latitude&quot;: 36.4251,
-      &quot;longitude&quot;: -113.8236,
-      &quot;depth&quot;: 9.45
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561808710597,
-      &quot;mag&quot;: 3.1,
-      &quot;latitude&quot;: 44.4066,
-      &quot;longitude&quot;: -129.5417,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561813902084,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 56.079,
-      &quot;longitude&quot;: -149.4929,
-      &quot;depth&quot;: 10.1
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561823781358,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 67.6167,
-      &quot;longitude&quot;: -156.6581,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561836607090,
-      &quot;mag&quot;: 2.78,
-      &quot;latitude&quot;: 20.688,
-      &quot;longitude&quot;: -155.7481667,
-      &quot;depth&quot;: 19.73
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561845682381,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 69.3307,
-      &quot;longitude&quot;: -144.3415,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561866484761,
-      &quot;mag&quot;: 3.1,
-      &quot;latitude&quot;: 69.6527,
-      &quot;longitude&quot;: -144.9939,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561890775999,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 46.8839,
-      &quot;longitude&quot;: -112.5508,
-      &quot;depth&quot;: 11.08
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561906810483,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 69.6802,
-      &quot;longitude&quot;: -145.0685,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561916753070,
-      &quot;mag&quot;: 3.2,
-      &quot;latitude&quot;: 66.3442,
-      &quot;longitude&quot;: -157.5814,
-      &quot;depth&quot;: 15.7
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561936318699,
-      &quot;mag&quot;: 3.5,
-      &quot;latitude&quot;: 69.48220000000002,
-      &quot;longitude&quot;: -144.2704,
-      &quot;depth&quot;: 7.2
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561937693459,
-      &quot;mag&quot;: 4.8,
-      &quot;latitude&quot;: 14.3537,
-      &quot;longitude&quot;: -92.8688,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561938216868,
-      &quot;mag&quot;: 4.2,
-      &quot;latitude&quot;: 37.7874,
-      &quot;longitude&quot;: -114.3137,
-      &quot;depth&quot;: 3.1
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561941811230,
-      &quot;mag&quot;: 2.63,
-      &quot;latitude&quot;: 19.3391667,
-      &quot;longitude&quot;: -155.1338333,
-      &quot;depth&quot;: 6.36
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561949461567,
-      &quot;mag&quot;: 2.9,
-      &quot;latitude&quot;: 69.5779,
-      &quot;longitude&quot;: -144.2006,
-      &quot;depth&quot;: 0.1
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561959187159,
-      &quot;mag&quot;: 4.5,
-      &quot;latitude&quot;: 10.4738,
-      &quot;longitude&quot;: -86.0743,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561965147805,
-      &quot;mag&quot;: 2.8,
-      &quot;latitude&quot;: 66.297,
-      &quot;longitude&quot;: -157.1237,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561970929489,
-      &quot;mag&quot;: 3.3,
-      &quot;latitude&quot;: 58.52960000000001,
-      &quot;longitude&quot;: -151.4407,
-      &quot;depth&quot;: 17.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561994428574,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 44.5847,
-      &quot;longitude&quot;: -114.31540000000001,
-      &quot;depth&quot;: 3.11
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1561998915709,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 39.3454,
-      &quot;longitude&quot;: -99.4608,
-      &quot;depth&quot;: 5.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562004689298,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 59.7592,
-      &quot;longitude&quot;: -136.5741,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562015820670,
-      &quot;mag&quot;: 2.66,
-      &quot;latitude&quot;: 35.4838333,
-      &quot;longitude&quot;: -120.01716670000002,
-      &quot;depth&quot;: 9.86
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562019421842,
-      &quot;mag&quot;: 2.8,
-      &quot;latitude&quot;: 66.3593,
-      &quot;longitude&quot;: -157.4993,
-      &quot;depth&quot;: 12.6
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562022634320,
-      &quot;mag&quot;: 3.7,
-      &quot;latitude&quot;: 61.2191,
-      &quot;longitude&quot;: -146.8976,
-      &quot;depth&quot;: 14.6
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562035000650,
-      &quot;mag&quot;: 2.79,
-      &quot;latitude&quot;: 19.471666700000004,
-      &quot;longitude&quot;: -155.4496667,
-      &quot;depth&quot;: 0.22
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562053035720,
-      &quot;mag&quot;: 3.73,
-      &quot;latitude&quot;: 19.302,
-      &quot;longitude&quot;: -155.213,
-      &quot;depth&quot;: 8.11
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562053735839,
-      &quot;mag&quot;: 4.4,
-      &quot;latitude&quot;: 3.2858,
-      &quot;longitude&quot;: -84.2068,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562072233196,
-      &quot;mag&quot;: 3.0,
-      &quot;latitude&quot;: 41.136,
-      &quot;longitude&quot;: -116.6104,
-      &quot;depth&quot;: 6.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562089722790,
-      &quot;mag&quot;: 2.87,
-      &quot;latitude&quot;: 36.5106667,
-      &quot;longitude&quot;: -120.767,
-      &quot;depth&quot;: 8.55
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562091427534,
-      &quot;mag&quot;: 4.4,
-      &quot;latitude&quot;: 66.2753,
-      &quot;longitude&quot;: -157.1918,
-      &quot;depth&quot;: 7.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562091894856,
-      &quot;mag&quot;: 3.2,
-      &quot;latitude&quot;: 66.2964,
-      &quot;longitude&quot;: -156.9305,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562094230197,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 66.2826,
-      &quot;longitude&quot;: -157.4809,
-      &quot;depth&quot;: 11.5
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562105001140,
-      &quot;mag&quot;: 2.75,
-      &quot;latitude&quot;: 35.0523333,
-      &quot;longitude&quot;: -118.93583330000001,
-      &quot;depth&quot;: 8.3
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562105527590,
-      &quot;mag&quot;: 2.52,
-      &quot;latitude&quot;: 35.0518333,
-      &quot;longitude&quot;: -118.9376667,
-      &quot;depth&quot;: 8.45
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562106068620,
-      &quot;mag&quot;: 3.35,
-      &quot;latitude&quot;: 35.0513333,
-      &quot;longitude&quot;: -118.93683329999999,
-      &quot;depth&quot;: 7.73
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562106172090,
-      &quot;mag&quot;: 2.83,
-      &quot;latitude&quot;: 35.0563333,
-      &quot;longitude&quot;: -118.93600000000002,
-      &quot;depth&quot;: 5.14
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562107256360,
-      &quot;mag&quot;: 3.44,
-      &quot;latitude&quot;: 35.0503333,
-      &quot;longitude&quot;: -118.93600000000002,
-      &quot;depth&quot;: 8.74
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562115309893,
-      &quot;mag&quot;: 4.5,
-      &quot;latitude&quot;: 15.5811,
-      &quot;longitude&quot;: -90.9433,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562122437759,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 35.985,
-      &quot;longitude&quot;: -96.81916667,
-      &quot;depth&quot;: 5.77
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562123045260,
-      &quot;mag&quot;: 3.18,
-      &quot;latitude&quot;: 38.8395,
-      &quot;longitude&quot;: -122.8228333,
-      &quot;depth&quot;: 2.22
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562133197950,
-      &quot;mag&quot;: 3.0,
-      &quot;latitude&quot;: 69.1347,
-      &quot;longitude&quot;: -144.6999,
-      &quot;depth&quot;: 3.3
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562135869260,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 69.23430000000002,
-      &quot;longitude&quot;: -144.5945,
-      &quot;depth&quot;: 5.65
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562137175187,
-      &quot;mag&quot;: 3.2,
-      &quot;latitude&quot;: 68.9733,
-      &quot;longitude&quot;: -144.8234,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562141027004,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 69.1793,
-      &quot;longitude&quot;: -144.6223,
-      &quot;depth&quot;: 3.7
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562142281708,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 69.0307,
-      &quot;longitude&quot;: -144.7451,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562144824966,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 69.167,
-      &quot;longitude&quot;: -144.6074,
-      &quot;depth&quot;: 7.2
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562144860838,
-      &quot;mag&quot;: 3.3,
-      &quot;latitude&quot;: 69.2254,
-      &quot;longitude&quot;: -144.5837,
-      &quot;depth&quot;: 1.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562148806896,
-      &quot;mag&quot;: 4.2,
-      &quot;latitude&quot;: 15.657100000000002,
-      &quot;longitude&quot;: -90.9922,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562150163931,
-      &quot;mag&quot;: 3.9,
-      &quot;latitude&quot;: 55.2299,
-      &quot;longitude&quot;: -134.5404,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562150942794,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 69.0573,
-      &quot;longitude&quot;: -144.4736,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562153130666,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 69.1333,
-      &quot;longitude&quot;: -144.7122,
-      &quot;depth&quot;: 0.8
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562156406315,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 69.1453,
-      &quot;longitude&quot;: -144.6488,
-      &quot;depth&quot;: 7.6
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562157472493,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 62.1487,
-      &quot;longitude&quot;: -147.9198,
-      &quot;depth&quot;: 19.1
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562159844430,
-      &quot;mag&quot;: 3.12,
-      &quot;latitude&quot;: 41.3181667,
-      &quot;longitude&quot;: -126.78933330000001,
-      &quot;depth&quot;: 9.62
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562160399072,
-      &quot;mag&quot;: 3.8,
-      &quot;latitude&quot;: 44.4269,
-      &quot;longitude&quot;: -128.98,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562165761286,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 60.0476,
-      &quot;longitude&quot;: -139.7184,
-      &quot;depth&quot;: 7.6
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562166920055,
-      &quot;mag&quot;: 4.1,
-      &quot;latitude&quot;: 44.397,
-      &quot;longitude&quot;: -129.0801,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562167904691,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 69.1349,
-      &quot;longitude&quot;: -144.6641,
-      &quot;depth&quot;: 11.3
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562174154242,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 69.1847,
-      &quot;longitude&quot;: -144.6349,
-      &quot;depth&quot;: 1.3
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562175674498,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 61.15939999999999,
-      &quot;longitude&quot;: -152.5817,
-      &quot;depth&quot;: 9.9
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562179229670,
-      &quot;mag&quot;: 2.87,
-      &quot;latitude&quot;: 46.867,
-      &quot;longitude&quot;: -112.5251667,
-      &quot;depth&quot;: 13.23
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562182261760,
-      &quot;mag&quot;: 2.66,
-      &quot;latitude&quot;: 48.9301666666667,
-      &quot;longitude&quot;: -125.963333333333,
-      &quot;depth&quot;: 4.98
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562184673667,
-      &quot;mag&quot;: 3.4,
-      &quot;latitude&quot;: 69.1437,
-      &quot;longitude&quot;: -144.644,
-      &quot;depth&quot;: 13.1
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562193151692,
-      &quot;mag&quot;: 4.1,
-      &quot;latitude&quot;: 44.4873,
-      &quot;longitude&quot;: -128.9323,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562193755434,
-      &quot;mag&quot;: 3.7,
-      &quot;latitude&quot;: 44.5362,
-      &quot;longitude&quot;: -128.7848,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562194022491,
-      &quot;mag&quot;: 2.8,
-      &quot;latitude&quot;: 69.2181,
-      &quot;longitude&quot;: -144.628,
-      &quot;depth&quot;: 14.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562205214442,
-      &quot;mag&quot;: 3.1,
-      &quot;latitude&quot;: 55.9802,
-      &quot;longitude&quot;: -149.7502,
-      &quot;depth&quot;: 0.7
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562206428369,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 56.1352,
-      &quot;longitude&quot;: -149.7844,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562213952526,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 69.0534,
-      &quot;longitude&quot;: -144.4752,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562214644297,
-      &quot;mag&quot;: 6.2,
-      &quot;latitude&quot;: 51.2215,
-      &quot;longitude&quot;: -130.515,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562237215763,
-      &quot;mag&quot;: 3.3,
-      &quot;latitude&quot;: 55.6446,
-      &quot;longitude&quot;: -149.1698,
-      &quot;depth&quot;: 7.17
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562244697569,
-      &quot;mag&quot;: 4.3,
-      &quot;latitude&quot;: 55.465,
-      &quot;longitude&quot;: -135.0371,
-      &quot;depth&quot;: 5.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562256023494,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 69.5751,
-      &quot;longitude&quot;: -144.73590000000002,
-      &quot;depth&quot;: 0.0
-    },
     {
       &quot;occurrenceTimeMillis&quot;: 1562259775360,
       &quot;mag&quot;: 3.98,
@@ -1496,13 +913,6 @@ img {
       &quot;depth&quot;: 1.85
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562279416130,
-      &quot;mag&quot;: 2.87,
-      &quot;latitude&quot;: 35.0486667,
-      &quot;longitude&quot;: -118.93216670000001,
-      &quot;depth&quot;: 6.54
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562280141650,
       &quot;mag&quot;: 3.2,
       &quot;latitude&quot;: 35.7211685,
@@ -1529,13 +939,6 @@ img {
       &quot;latitude&quot;: 35.7470016,
       &quot;longitude&quot;: -117.5784988,
       &quot;depth&quot;: 2.13
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562283105908,
-      &quot;mag&quot;: 3.6,
-      &quot;latitude&quot;: 56.2681,
-      &quot;longitude&quot;: -148.8139,
-      &quot;depth&quot;: 10.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562283240630,
@@ -1566,13 +969,6 @@ img {
       &quot;depth&quot;: 1.67
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562284685654,
-      &quot;mag&quot;: 3.6,
-      &quot;latitude&quot;: 56.3264,
-      &quot;longitude&quot;: -148.7664,
-      &quot;depth&quot;: 10.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562285645640,
       &quot;mag&quot;: 2.76,
       &quot;latitude&quot;: 35.6458333,
@@ -1585,13 +981,6 @@ img {
       &quot;latitude&quot;: 35.7718333,
       &quot;longitude&quot;: -117.61783330000002,
       &quot;depth&quot;: 2.59
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562286224080,
-      &quot;mag&quot;: 3.6,
-      &quot;latitude&quot;: 56.3356,
-      &quot;longitude&quot;: -148.8373,
-      &quot;depth&quot;: 10.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562286529030,
@@ -1650,25 +1039,11 @@ img {
       &quot;depth&quot;: 4.1
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562291840698,
-      &quot;mag&quot;: 4.1,
-      &quot;latitude&quot;: 14.2487,
-      &quot;longitude&quot;: -93.769,
-      &quot;depth&quot;: 10.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562291887280,
       &quot;mag&quot;: 2.68,
       &quot;latitude&quot;: 35.7118333,
       &quot;longitude&quot;: -117.46816670000001,
       &quot;depth&quot;: 0.68
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562291888390,
-      &quot;mag&quot;: 3.36,
-      &quot;latitude&quot;: 31.8341667,
-      &quot;longitude&quot;: -115.81450000000001,
-      &quot;depth&quot;: 14.71
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562292100910,
@@ -1776,13 +1151,6 @@ img {
       &quot;depth&quot;: 0.41
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562299014938,
-      &quot;mag&quot;: 3.3,
-      &quot;latitude&quot;: 56.3747,
-      &quot;longitude&quot;: -148.8708,
-      &quot;depth&quot;: 19.99
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562299898470,
       &quot;mag&quot;: 3.53,
       &quot;latitude&quot;: 35.7226677,
@@ -1825,13 +1193,6 @@ img {
       &quot;depth&quot;: 4.86
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562303164856,
-      &quot;mag&quot;: 2.9,
-      &quot;latitude&quot;: 69.1815,
-      &quot;longitude&quot;: -144.6202,
-      &quot;depth&quot;: 1.5
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562303437620,
       &quot;mag&quot;: 3.19,
       &quot;latitude&quot;: 35.7073326,
@@ -1867,32 +1228,11 @@ img {
       &quot;depth&quot;: 0.25
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562306354557,
-      &quot;mag&quot;: 3.5,
-      &quot;latitude&quot;: 69.3883,
-      &quot;longitude&quot;: -145.2244,
-      &quot;depth&quot;: 20.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562306366067,
-      &quot;mag&quot;: 3.2,
-      &quot;latitude&quot;: 69.0884,
-      &quot;longitude&quot;: -146.4386,
-      &quot;depth&quot;: 15.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562306963130,
       &quot;mag&quot;: 3.65,
       &quot;latitude&quot;: 35.6223335,
       &quot;longitude&quot;: -117.57333369999999,
       &quot;depth&quot;: 6.19
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562308076876,
-      &quot;mag&quot;: 2.9,
-      &quot;latitude&quot;: 69.2641,
-      &quot;longitude&quot;: -144.60210000000004,
-      &quot;depth&quot;: 0.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562308842510,
@@ -1972,13 +1312,6 @@ img {
       &quot;depth&quot;: 6.61
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562319649682,
-      &quot;mag&quot;: 3.1,
-      &quot;latitude&quot;: 39.2645,
-      &quot;longitude&quot;: -99.4755,
-      &quot;depth&quot;: 5.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562319989260,
       &quot;mag&quot;: 3.51,
       &quot;latitude&quot;: 35.6479988,
@@ -2005,13 +1338,6 @@ img {
       &quot;latitude&quot;: 35.68050000000001,
       &quot;longitude&quot;: -117.4775,
       &quot;depth&quot;: 0.83
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562323799467,
-      &quot;mag&quot;: 3.0,
-      &quot;latitude&quot;: 69.3114,
-      &quot;longitude&quot;: -144.7026,
-      &quot;depth&quot;: 5.4
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562324246570,
@@ -2054,13 +1380,6 @@ img {
       &quot;latitude&quot;: 35.7505,
       &quot;longitude&quot;: -117.5688333,
       &quot;depth&quot;: 3.62
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562325153460,
-      &quot;mag&quot;: 3.28,
-      &quot;latitude&quot;: 37.4035,
-      &quot;longitude&quot;: -118.5236667,
-      &quot;depth&quot;: 9.29
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562325439580,
@@ -2140,39 +1459,11 @@ img {
       &quot;depth&quot;: 6.92
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562331098752,
-      &quot;mag&quot;: 4.7,
-      &quot;latitude&quot;: 51.3924,
-      &quot;longitude&quot;: -130.5189,
-      &quot;depth&quot;: 10.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562331304830,
       &quot;mag&quot;: 3.65,
       &quot;latitude&quot;: 35.7508316,
       &quot;longitude&quot;: -117.5633316,
       &quot;depth&quot;: 6.9
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562331508335,
-      &quot;mag&quot;: 5.6,
-      &quot;latitude&quot;: 51.3371,
-      &quot;longitude&quot;: -130.5696,
-      &quot;depth&quot;: 5.11
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562331738107,
-      &quot;mag&quot;: 4.6,
-      &quot;latitude&quot;: 50.9452,
-      &quot;longitude&quot;: -130.9642,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562331739448,
-      &quot;mag&quot;: 4.6,
-      &quot;latitude&quot;: 51.369,
-      &quot;longitude&quot;: -130.3988,
-      &quot;depth&quot;: 10.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562332343380,
@@ -2187,13 +1478,6 @@ img {
       &quot;latitude&quot;: 35.7051667,
       &quot;longitude&quot;: -117.5111667,
       &quot;depth&quot;: 6.82
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562334216120,
-      &quot;mag&quot;: 2.63,
-      &quot;latitude&quot;: 37.4008333,
-      &quot;longitude&quot;: -118.52650000000001,
-      &quot;depth&quot;: 9.29
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562334453490,
@@ -2294,13 +1578,6 @@ img {
       &quot;depth&quot;: 2.25
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562350377495,
-      &quot;mag&quot;: 2.8,
-      &quot;latitude&quot;: 69.1788,
-      &quot;longitude&quot;: -144.6298,
-      &quot;depth&quot;: 19.75
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562352030950,
       &quot;mag&quot;: 2.6,
       &quot;latitude&quot;: 35.7251667,
@@ -2392,20 +1669,6 @@ img {
       &quot;depth&quot;: 4.21
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562369316460,
-      &quot;mag&quot;: 3.3,
-      &quot;latitude&quot;: 69.1687,
-      &quot;longitude&quot;: -144.7054,
-      &quot;depth&quot;: 12.1
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562369923807,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 69.0422,
-      &quot;longitude&quot;: -144.4749,
-      &quot;depth&quot;: 0.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562371859260,
       &quot;mag&quot;: 2.58,
       &quot;latitude&quot;: 35.7625,
@@ -2469,20 +1732,6 @@ img {
       &quot;depth&quot;: 6.98
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562375724885,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 42.6382,
-      &quot;longitude&quot;: -111.4518,
-      &quot;depth&quot;: 5.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562375874964,
-      &quot;mag&quot;: 3.3,
-      &quot;latitude&quot;: 42.6395,
-      &quot;longitude&quot;: -111.4139,
-      &quot;depth&quot;: 4.26
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562378010760,
       &quot;mag&quot;: 2.8,
       &quot;latitude&quot;: 35.716,
@@ -2509,13 +1758,6 @@ img {
       &quot;latitude&quot;: 35.7715,
       &quot;longitude&quot;: -117.6006667,
       &quot;depth&quot;: 2.2
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562382312288,
-      &quot;mag&quot;: 3.5,
-      &quot;latitude&quot;: 69.4995,
-      &quot;longitude&quot;: -144.6399,
-      &quot;depth&quot;: 12.3
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562382992480,
@@ -3312,13 +2554,6 @@ img {
       &quot;latitude&quot;: 35.8283348,
       &quot;longitude&quot;: -117.67733000000001,
       &quot;depth&quot;: 1.54
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562386277610,
-      &quot;mag&quot;: 2.97,
-      &quot;latitude&quot;: 37.1295,
-      &quot;longitude&quot;: -118.64600000000002,
-      &quot;depth&quot;: 0.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562386334170,
@@ -4553,13 +3788,6 @@ img {
       &quot;depth&quot;: 2.32
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562398019244,
-      &quot;mag&quot;: 3.2,
-      &quot;latitude&quot;: 60.37460000000001,
-      &quot;longitude&quot;: -147.3513,
-      &quot;depth&quot;: 7.3
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562398090450,
       &quot;mag&quot;: 2.92,
       &quot;latitude&quot;: 35.6415,
@@ -4740,13 +3968,6 @@ img {
       &quot;latitude&quot;: 35.735,
       &quot;longitude&quot;: -117.50833330000002,
       &quot;depth&quot;: 11.99
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562399986116,
-      &quot;mag&quot;: 2.8,
-      &quot;latitude&quot;: 65.4297,
-      &quot;longitude&quot;: -162.6133,
-      &quot;depth&quot;: 5.7
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562399987780,
@@ -6758,13 +5979,6 @@ img {
       &quot;depth&quot;: 2.01
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562431272470,
-      &quot;mag&quot;: 2.87,
-      &quot;latitude&quot;: 35.91416667,
-      &quot;longitude&quot;: -99.46916667,
-      &quot;depth&quot;: 13.46
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562431325130,
       &quot;mag&quot;: 3.51,
       &quot;latitude&quot;: 35.8773333,
@@ -6812,13 +6026,6 @@ img {
       &quot;latitude&quot;: 35.694,
       &quot;longitude&quot;: -117.55683330000001,
       &quot;depth&quot;: 1.72
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562432888311,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 60.1075,
-      &quot;longitude&quot;: -141.5148,
-      &quot;depth&quot;: 1.1
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562432941490,
@@ -6924,13 +6131,6 @@ img {
       &quot;latitude&quot;: 35.8996658,
       &quot;longitude&quot;: -117.7346649,
       &quot;depth&quot;: 3.01
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562436422340,
-      &quot;mag&quot;: 2.93,
-      &quot;latitude&quot;: 19.3585,
-      &quot;longitude&quot;: -154.98,
-      &quot;depth&quot;: 0.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562436796120,
@@ -7192,13 +6392,6 @@ img {
       &quot;depth&quot;: 6.64
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562444624660,
-      &quot;mag&quot;: 3.02,
-      &quot;latitude&quot;: 34.0195007,
-      &quot;longitude&quot;: -117.21866610000001,
-      &quot;depth&quot;: 16.1
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562444673370,
       &quot;mag&quot;: 2.69,
       &quot;latitude&quot;: 35.6316667,
@@ -7309,13 +6502,6 @@ img {
       &quot;latitude&quot;: 35.6911659,
       &quot;longitude&quot;: -117.479332,
       &quot;depth&quot;: 5.1
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562449398952,
-      &quot;mag&quot;: 2.8,
-      &quot;latitude&quot;: 69.5064,
-      &quot;longitude&quot;: -144.7603,
-      &quot;depth&quot;: 0.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562450040180,
@@ -7556,13 +6742,6 @@ img {
       &quot;depth&quot;: 9.84
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562460896223,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 69.2056,
-      &quot;longitude&quot;: -144.4958,
-      &quot;depth&quot;: 8.2
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562461506940,
       &quot;mag&quot;: 3.42,
       &quot;latitude&quot;: 35.6693344,
@@ -7689,13 +6868,6 @@ img {
       &quot;depth&quot;: 6.51
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562469399138,
-      &quot;mag&quot;: 3.1,
-      &quot;latitude&quot;: 55.7363,
-      &quot;longitude&quot;: -150.3888,
-      &quot;depth&quot;: 5.18
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562469646610,
       &quot;mag&quot;: 2.78,
       &quot;latitude&quot;: 35.8816667,
@@ -7715,13 +6887,6 @@ img {
       &quot;latitude&quot;: 35.767334,
       &quot;longitude&quot;: -117.59333039999999,
       &quot;depth&quot;: 1.59
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562471103155,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 69.1829,
-      &quot;longitude&quot;: -144.6808,
-      &quot;depth&quot;: 0.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562471450450,
@@ -7759,13 +6924,6 @@ img {
       &quot;depth&quot;: 0.37
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562477189100,
-      &quot;mag&quot;: 2.59,
-      &quot;latitude&quot;: 40.2943333,
-      &quot;longitude&quot;: -124.4303333,
-      &quot;depth&quot;: 18.62
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562477895480,
       &quot;mag&quot;: 4.52,
       &quot;latitude&quot;: 35.76816670000001,
@@ -7801,13 +6959,6 @@ img {
       &quot;depth&quot;: 2.8
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562479814660,
-      &quot;mag&quot;: 2.74,
-      &quot;latitude&quot;: 36.1121667,
-      &quot;longitude&quot;: -117.9208333,
-      &quot;depth&quot;: 4.94
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562480108130,
       &quot;mag&quot;: 2.73,
       &quot;latitude&quot;: 35.6993333,
@@ -7834,13 +6985,6 @@ img {
       &quot;latitude&quot;: 35.632,
       &quot;longitude&quot;: -117.4231644,
       &quot;depth&quot;: 3.02
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562480725388,
-      &quot;mag&quot;: 3.9,
-      &quot;latitude&quot;: 56.51,
-      &quot;longitude&quot;: -148.6137,
-      &quot;depth&quot;: 19.86
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562481673510,
@@ -7920,25 +7064,11 @@ img {
       &quot;depth&quot;: 2.28
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562484457920,
-      &quot;mag&quot;: 2.72,
-      &quot;latitude&quot;: 34.1588333,
-      &quot;longitude&quot;: -117.47549999999998,
-      &quot;depth&quot;: 7.05
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562484666700,
       &quot;mag&quot;: 3.0,
       &quot;latitude&quot;: 35.8269997,
       &quot;longitude&quot;: -117.6443329,
       &quot;depth&quot;: 6.96
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562485071690,
-      &quot;mag&quot;: 2.77,
-      &quot;latitude&quot;: 36.165,
-      &quot;longitude&quot;: -117.8756667,
-      &quot;depth&quot;: 2.86
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562485431590,
@@ -8081,13 +7211,6 @@ img {
       &quot;depth&quot;: 3.05
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562490904830,
-      &quot;mag&quot;: 2.55,
-      &quot;latitude&quot;: 19.1725,
-      &quot;longitude&quot;: -155.6541667,
-      &quot;depth&quot;: 9.68
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562492483040,
       &quot;mag&quot;: 3.45,
       &quot;latitude&quot;: 35.7468338,
@@ -8156,13 +7279,6 @@ img {
       &quot;latitude&quot;: 35.802,
       &quot;longitude&quot;: -117.56216670000002,
       &quot;depth&quot;: 3.1
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562495242389,
-      &quot;mag&quot;: 3.3,
-      &quot;latitude&quot;: 66.2324,
-      &quot;longitude&quot;: -157.2043,
-      &quot;depth&quot;: 0.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562495574690,
@@ -8256,13 +7372,6 @@ img {
       &quot;depth&quot;: 1.7
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562501670385,
-      &quot;mag&quot;: 3.5,
-      &quot;latitude&quot;: 57.0986,
-      &quot;longitude&quot;: -149.68750000000003,
-      &quot;depth&quot;: 10.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562502098240,
       &quot;mag&quot;: 2.66,
       &quot;latitude&quot;: 35.6758333,
@@ -8284,13 +7393,6 @@ img {
       &quot;depth&quot;: 3.36
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562503683220,
-      &quot;mag&quot;: 2.8,
-      &quot;latitude&quot;: 36.1756667,
-      &quot;longitude&quot;: -117.97583329999999,
-      &quot;depth&quot;: 4.04
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562504715410,
       &quot;mag&quot;: 2.54,
       &quot;latitude&quot;: 35.8818333,
@@ -8303,13 +7405,6 @@ img {
       &quot;latitude&quot;: 35.8751667,
       &quot;longitude&quot;: -117.69733329999998,
       &quot;depth&quot;: 3.1
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562505474424,
-      &quot;mag&quot;: 4.5,
-      &quot;latitude&quot;: 8.8398,
-      &quot;longitude&quot;: -84.3637,
-      &quot;depth&quot;: 10.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562505832330,
@@ -8459,13 +7554,6 @@ img {
       &quot;depth&quot;: 0.11
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562518306400,
-      &quot;mag&quot;: 2.66,
-      &quot;latitude&quot;: 41.0658333,
-      &quot;longitude&quot;: -121.60633330000002,
-      &quot;depth&quot;: 14.32
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562518846040,
       &quot;mag&quot;: 2.61,
       &quot;latitude&quot;: 35.7618333,
@@ -8508,13 +7596,6 @@ img {
       &quot;depth&quot;: 2.52
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562522897760,
-      &quot;mag&quot;: 3.3,
-      &quot;latitude&quot;: 37.48400000000001,
-      &quot;longitude&quot;: -118.74999999999999,
-      &quot;depth&quot;: 10.59
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562523559960,
       &quot;mag&quot;: 3.28,
       &quot;latitude&quot;: 35.8876648,
@@ -8527,13 +7608,6 @@ img {
       &quot;latitude&quot;: 35.9163322,
       &quot;longitude&quot;: -117.71133420000001,
       &quot;depth&quot;: 4.27
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562524268255,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 59.7796,
-      &quot;longitude&quot;: -148.4734,
-      &quot;depth&quot;: 1.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562524835890,
@@ -8648,13 +7722,6 @@ img {
       &quot;depth&quot;: 7.87
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562533516840,
-      &quot;mag&quot;: 2.75,
-      &quot;latitude&quot;: 35.0503333,
-      &quot;longitude&quot;: -118.9268333,
-      &quot;depth&quot;: 6.39
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562534129560,
       &quot;mag&quot;: 3.79,
       &quot;latitude&quot;: 35.947834,
@@ -8746,13 +7813,6 @@ img {
       &quot;depth&quot;: 2.31
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562541159721,
-      &quot;mag&quot;: 3.1,
-      &quot;latitude&quot;: 47.419200000000004,
-      &quot;longitude&quot;: -114.61219999999999,
-      &quot;depth&quot;: 5.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562541695660,
       &quot;mag&quot;: 2.73,
       &quot;latitude&quot;: 35.8705,
@@ -8830,20 +7890,6 @@ img {
       &quot;depth&quot;: 6.89
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562553309450,
-      &quot;mag&quot;: 2.87,
-      &quot;latitude&quot;: 19.011,
-      &quot;longitude&quot;: -67.7843,
-      &quot;depth&quot;: 13.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562553670490,
-      &quot;mag&quot;: 3.6,
-      &quot;latitude&quot;: 41.1244,
-      &quot;longitude&quot;: -116.5991,
-      &quot;depth&quot;: 8.5
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562553749080,
       &quot;mag&quot;: 2.64,
       &quot;latitude&quot;: 35.67016670000001,
@@ -8863,13 +7909,6 @@ img {
       &quot;latitude&quot;: 35.6650009,
       &quot;longitude&quot;: -117.503334,
       &quot;depth&quot;: 7.29
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562555715010,
-      &quot;mag&quot;: 2.67,
-      &quot;latitude&quot;: 35.3745,
-      &quot;longitude&quot;: -117.8428333,
-      &quot;depth&quot;: 3.01
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562557022590,
@@ -8998,20 +8037,6 @@ img {
       &quot;depth&quot;: 7.88
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562566221030,
-      &quot;mag&quot;: 2.51,
-      &quot;latitude&quot;: 36.166,
-      &quot;longitude&quot;: -117.875,
-      &quot;depth&quot;: 2.68
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562566504200,
-      &quot;mag&quot;: 2.83,
-      &quot;latitude&quot;: 35.1355,
-      &quot;longitude&quot;: -95.33833333,
-      &quot;depth&quot;: 10.44
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562566688290,
       &quot;mag&quot;: 3.04,
       &quot;latitude&quot;: 35.9613342,
@@ -9045,13 +8070,6 @@ img {
       &quot;latitude&quot;: 35.6833333,
       &quot;longitude&quot;: -117.48983330000002,
       &quot;depth&quot;: 8.4
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562571118410,
-      &quot;mag&quot;: 3.54,
-      &quot;latitude&quot;: 36.158000900000005,
-      &quot;longitude&quot;: -117.8755035,
-      &quot;depth&quot;: 2.62
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562571740920,
@@ -9094,13 +8112,6 @@ img {
       &quot;latitude&quot;: 36.1191673,
       &quot;longitude&quot;: -117.8598328,
       &quot;depth&quot;: 2.88
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562575449081,
-      &quot;mag&quot;: 4.1,
-      &quot;latitude&quot;: 56.2779,
-      &quot;longitude&quot;: -154.0522,
-      &quot;depth&quot;: 9.9
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562576420790,
@@ -9236,13 +8247,6 @@ img {
       &quot;depth&quot;: 7.62
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562592794421,
-      &quot;mag&quot;: 2.9,
-      &quot;latitude&quot;: 56.2731,
-      &quot;longitude&quot;: -150.42540000000002,
-      &quot;depth&quot;: 0.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562593146960,
       &quot;mag&quot;: 2.67,
       &quot;latitude&quot;: 35.5506667,
@@ -9290,13 +8294,6 @@ img {
       &quot;latitude&quot;: 35.9118333,
       &quot;longitude&quot;: -117.73666670000001,
       &quot;depth&quot;: 2.31
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562600255174,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 69.595,
-      &quot;longitude&quot;: -144.1932,
-      &quot;depth&quot;: 0.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562601868110,
@@ -9367,13 +8364,6 @@ img {
       &quot;latitude&quot;: 35.6986667,
       &quot;longitude&quot;: -117.54433330000002,
       &quot;depth&quot;: 1.97
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562605376715,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 32.5379,
-      &quot;longitude&quot;: -97.223,
-      &quot;depth&quot;: 5.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562605503360,
@@ -9502,13 +8492,6 @@ img {
       &quot;depth&quot;: 2.73
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562623904290,
-      &quot;mag&quot;: 2.51,
-      &quot;latitude&quot;: 18.7998,
-      &quot;longitude&quot;: -67.2001,
-      &quot;depth&quot;: 19.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562624329280,
       &quot;mag&quot;: 3.15,
       &quot;latitude&quot;: 35.929,
@@ -9542,13 +8525,6 @@ img {
       &quot;latitude&quot;: 36.0485001,
       &quot;longitude&quot;: -117.847168,
       &quot;depth&quot;: 1.67
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562628027484,
-      &quot;mag&quot;: 4.3,
-      &quot;latitude&quot;: 69.1086,
-      &quot;longitude&quot;: -144.64110000000002,
-      &quot;depth&quot;: 13.1
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562628221620,
@@ -9670,13 +8646,6 @@ img {
       &quot;depth&quot;: 2.37
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562652681471,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 66.2138,
-      &quot;longitude&quot;: -157.3167,
-      &quot;depth&quot;: 11.7
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562653450860,
       &quot;mag&quot;: 3.01,
       &quot;latitude&quot;: 35.897167200000005,
@@ -9696,20 +8665,6 @@ img {
       &quot;latitude&quot;: 35.8578339,
       &quot;longitude&quot;: -117.69000240000001,
       &quot;depth&quot;: 5.68
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562655033237,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 39.8419,
-      &quot;longitude&quot;: -117.32020000000001,
-      &quot;depth&quot;: 2.2
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562655287208,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 52.23360000000001,
-      &quot;longitude&quot;: -173.2371,
-      &quot;depth&quot;: 6.4
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562655660460,
@@ -9817,25 +8772,11 @@ img {
       &quot;depth&quot;: 4.58
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562669442070,
-      &quot;mag&quot;: 2.99,
-      &quot;latitude&quot;: 37.48400000000001,
-      &quot;longitude&quot;: -118.7473333,
-      &quot;depth&quot;: 10.52
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562669446860,
       &quot;mag&quot;: 2.65,
       &quot;latitude&quot;: 35.75,
       &quot;longitude&quot;: -117.56916670000001,
       &quot;depth&quot;: 7.93
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562671813140,
-      &quot;mag&quot;: 2.79,
-      &quot;latitude&quot;: 40.2913333,
-      &quot;longitude&quot;: -124.3408333,
-      &quot;depth&quot;: 8.68
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562672364420,
@@ -9866,13 +8807,6 @@ img {
       &quot;depth&quot;: 2.11
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562678422501,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 61.22140000000001,
-      &quot;longitude&quot;: -152.5259,
-      &quot;depth&quot;: 5.6
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562678927730,
       &quot;mag&quot;: 3.22,
       &quot;latitude&quot;: 35.5453339,
@@ -9887,32 +8821,11 @@ img {
       &quot;depth&quot;: 6.92
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562681972210,
-      &quot;mag&quot;: 2.61,
-      &quot;latitude&quot;: 35.842,
-      &quot;longitude&quot;: -98.07416667000001,
-      &quot;depth&quot;: 6.5
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562682057200,
       &quot;mag&quot;: 2.57,
       &quot;latitude&quot;: 35.9508333,
       &quot;longitude&quot;: -117.7025,
       &quot;depth&quot;: 3.52
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562683449019,
-      &quot;mag&quot;: 3.11,
-      &quot;latitude&quot;: 35.83766667,
-      &quot;longitude&quot;: -98.07916667,
-      &quot;depth&quot;: 6.29
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562683941539,
-      &quot;mag&quot;: 2.59,
-      &quot;latitude&quot;: 35.8435,
-      &quot;longitude&quot;: -98.07516667,
-      &quot;depth&quot;: 6.78
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562684967080,
@@ -9943,13 +8856,6 @@ img {
       &quot;depth&quot;: 1.82
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562689622980,
-      &quot;mag&quot;: 3.0,
-      &quot;latitude&quot;: 66.3254,
-      &quot;longitude&quot;: -157.41220000000004,
-      &quot;depth&quot;: 4.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562690823150,
       &quot;mag&quot;: 3.46,
       &quot;latitude&quot;: 35.8921661,
@@ -9969,13 +8875,6 @@ img {
       &quot;latitude&quot;: 35.656,
       &quot;longitude&quot;: -117.48533330000001,
       &quot;depth&quot;: 1.27
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562696128570,
-      &quot;mag&quot;: 2.78,
-      &quot;latitude&quot;: 40.3453333,
-      &quot;longitude&quot;: -125.153,
-      &quot;depth&quot;: 8.65
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562697457410,
@@ -10048,13 +8947,6 @@ img {
       &quot;depth&quot;: 7.66
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562708866110,
-      &quot;mag&quot;: 2.78,
-      &quot;latitude&quot;: 36.2121667,
-      &quot;longitude&quot;: -117.86566670000002,
-      &quot;depth&quot;: 1.72
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562709169350,
       &quot;mag&quot;: 3.33,
       &quot;latitude&quot;: 35.8863335,
@@ -10109,13 +9001,6 @@ img {
       &quot;latitude&quot;: 35.9106667,
       &quot;longitude&quot;: -117.71549999999999,
       &quot;depth&quot;: 2.02
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562714678050,
-      &quot;mag&quot;: 2.63,
-      &quot;latitude&quot;: 32.9633333,
-      &quot;longitude&quot;: -115.5478333,
-      &quot;depth&quot;: 9.41
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562715847240,
@@ -10209,13 +9094,6 @@ img {
       &quot;depth&quot;: 2.57
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562723939140,
-      &quot;mag&quot;: 2.9,
-      &quot;latitude&quot;: 35.34666670000001,
-      &quot;longitude&quot;: -117.9381667,
-      &quot;depth&quot;: 0.9
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562726023690,
       &quot;mag&quot;: 2.67,
       &quot;latitude&quot;: 35.6953333,
@@ -10235,13 +9113,6 @@ img {
       &quot;latitude&quot;: 35.9456673,
       &quot;longitude&quot;: -117.682663,
       &quot;depth&quot;: 3.41
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562733259400,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 38.5106,
-      &quot;longitude&quot;: -118.3471,
-      &quot;depth&quot;: 7.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562739573550,
@@ -10468,13 +9339,6 @@ img {
       &quot;depth&quot;: 7.54
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562769653557,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 61.335100000000004,
-      &quot;longitude&quot;: -154.0121,
-      &quot;depth&quot;: 12.6
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562770386020,
       &quot;mag&quot;: 3.52,
       &quot;latitude&quot;: 36.0481682,
@@ -10566,34 +9430,6 @@ img {
       &quot;depth&quot;: 6.44
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562784478070,
-      &quot;mag&quot;: 2.53,
-      &quot;latitude&quot;: 36.2145004,
-      &quot;longitude&quot;: -117.8625031,
-      &quot;depth&quot;: 1.01
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562784541410,
-      &quot;mag&quot;: 4.09,
-      &quot;latitude&quot;: 36.1621666,
-      &quot;longitude&quot;: -117.88249969999998,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562784695270,
-      &quot;mag&quot;: 3.7,
-      &quot;latitude&quot;: 36.1676674,
-      &quot;longitude&quot;: -117.87483220000001,
-      &quot;depth&quot;: 1.54
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562784804770,
-      &quot;mag&quot;: 2.61,
-      &quot;latitude&quot;: 36.152,
-      &quot;longitude&quot;: -117.8746667,
-      &quot;depth&quot;: 3.32
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562786102480,
       &quot;mag&quot;: 3.3,
       &quot;latitude&quot;: 36.1208344,
@@ -10664,13 +9500,6 @@ img {
       &quot;depth&quot;: 5.08
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562796948260,
-      &quot;mag&quot;: 3.87,
-      &quot;latitude&quot;: 36.1728333,
-      &quot;longitude&quot;: -117.8843333,
-      &quot;depth&quot;: 0.81
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562797316110,
       &quot;mag&quot;: 2.59,
       &quot;latitude&quot;: 35.6693333,
@@ -10690,13 +9519,6 @@ img {
       &quot;latitude&quot;: 36.0703333,
       &quot;longitude&quot;: -117.8313333,
       &quot;depth&quot;: 0.34
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562801623610,
-      &quot;mag&quot;: 2.94,
-      &quot;latitude&quot;: 35.365,
-      &quot;longitude&quot;: -117.90033330000001,
-      &quot;depth&quot;: 0.76
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562801625640,
@@ -10734,13 +9556,6 @@ img {
       &quot;depth&quot;: 3.06
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562803734460,
-      &quot;mag&quot;: 3.09,
-      &quot;latitude&quot;: 36.1739998,
-      &quot;longitude&quot;: -117.88416290000002,
-      &quot;depth&quot;: 0.42
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562803854850,
       &quot;mag&quot;: 2.57,
       &quot;latitude&quot;: 35.5733333,
@@ -10748,46 +9563,11 @@ img {
       &quot;depth&quot;: 10.56
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562803901590,
-      &quot;mag&quot;: 2.68,
-      &quot;latitude&quot;: 36.1565,
-      &quot;longitude&quot;: -117.86616669999998,
-      &quot;depth&quot;: 1.97
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562804077330,
-      &quot;mag&quot;: 4.52,
-      &quot;latitude&quot;: 36.1763333,
-      &quot;longitude&quot;: -117.88333330000002,
-      &quot;depth&quot;: 0.78
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562804139320,
-      &quot;mag&quot;: 4.37,
-      &quot;latitude&quot;: 36.1495,
-      &quot;longitude&quot;: -117.87550000000002,
-      &quot;depth&quot;: 1.93
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562804419890,
-      &quot;mag&quot;: 3.4,
-      &quot;latitude&quot;: 36.1764984,
-      &quot;longitude&quot;: -117.8896637,
-      &quot;depth&quot;: 0.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562805344360,
       &quot;mag&quot;: 2.95,
       &quot;latitude&quot;: 35.8851662,
       &quot;longitude&quot;: -117.72149660000001,
       &quot;depth&quot;: 2.3
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562805773310,
-      &quot;mag&quot;: 3.07,
-      &quot;latitude&quot;: 36.1793333,
-      &quot;longitude&quot;: -117.8766667,
-      &quot;depth&quot;: 2.57
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562805969520,
@@ -10839,20 +9619,6 @@ img {
       &quot;depth&quot;: 6.38
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562813959560,
-      &quot;mag&quot;: 3.14,
-      &quot;latitude&quot;: 19.659,
-      &quot;longitude&quot;: -67.9763,
-      &quot;depth&quot;: 15.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562815164580,
-      &quot;mag&quot;: 2.57,
-      &quot;latitude&quot;: 36.1596667,
-      &quot;longitude&quot;: -117.8675,
-      &quot;depth&quot;: 2.35
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562816753460,
       &quot;mag&quot;: 2.74,
       &quot;latitude&quot;: 36.052,
@@ -10879,13 +9645,6 @@ img {
       &quot;latitude&quot;: 36.0621681,
       &quot;longitude&quot;: -117.8509979,
       &quot;depth&quot;: 0.89
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562819394490,
-      &quot;mag&quot;: 2.98,
-      &quot;latitude&quot;: 36.1776657,
-      &quot;longitude&quot;: -117.878334,
-      &quot;depth&quot;: 2.2
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562820331100,
@@ -10951,20 +9710,6 @@ img {
       &quot;depth&quot;: 1.54
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562828645720,
-      &quot;mag&quot;: 4.02,
-      &quot;latitude&quot;: 36.1780014,
-      &quot;longitude&quot;: -117.8866653,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562829453352,
-      &quot;mag&quot;: 3.3,
-      &quot;latitude&quot;: 69.43,
-      &quot;longitude&quot;: -144.7867,
-      &quot;depth&quot;: 0.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562829575370,
       &quot;mag&quot;: 2.69,
       &quot;latitude&quot;: 35.7176667,
@@ -10972,25 +9717,11 @@ img {
       &quot;depth&quot;: 2.79
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562829590010,
-      &quot;mag&quot;: 3.53,
-      &quot;latitude&quot;: 36.1790009,
-      &quot;longitude&quot;: -117.8830032,
-      &quot;depth&quot;: 1.58
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562830087410,
       &quot;mag&quot;: 2.85,
       &quot;latitude&quot;: 35.6111667,
       &quot;longitude&quot;: -117.4631667,
       &quot;depth&quot;: 9.53
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562830276615,
-      &quot;mag&quot;: 3.3,
-      &quot;latitude&quot;: 67.2417,
-      &quot;longitude&quot;: -143.90320000000003,
-      &quot;depth&quot;: 13.3
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562830342430,
@@ -11056,25 +9787,11 @@ img {
       &quot;depth&quot;: 2.34
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562843847630,
-      &quot;mag&quot;: 3.13,
-      &quot;latitude&quot;: 36.1565018,
-      &quot;longitude&quot;: -117.87933349999999,
-      &quot;depth&quot;: 0.93
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562845053850,
       &quot;mag&quot;: 2.99,
       &quot;latitude&quot;: 35.6173325,
       &quot;longitude&quot;: -117.4213333,
       &quot;depth&quot;: 2.45
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562845178060,
-      &quot;mag&quot;: 2.72,
-      &quot;latitude&quot;: 36.1855,
-      &quot;longitude&quot;: -117.88499999999999,
-      &quot;depth&quot;: 1.44
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562846876140,
@@ -11105,13 +9822,6 @@ img {
       &quot;depth&quot;: 1.63
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562849651420,
-      &quot;mag&quot;: 2.68,
-      &quot;latitude&quot;: 36.1773333,
-      &quot;longitude&quot;: -117.87766670000002,
-      &quot;depth&quot;: 2.78
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562850793570,
       &quot;mag&quot;: 3.14,
       &quot;latitude&quot;: 35.8213348,
@@ -11133,25 +9843,11 @@ img {
       &quot;depth&quot;: 2.13
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562858571210,
-      &quot;mag&quot;: 2.75,
-      &quot;latitude&quot;: 36.152,
-      &quot;longitude&quot;: -117.86966670000001,
-      &quot;depth&quot;: 0.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562859164930,
       &quot;mag&quot;: 3.81,
       &quot;latitude&quot;: 35.6888333,
       &quot;longitude&quot;: -117.51499999999999,
       &quot;depth&quot;: 7.14
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562859172120,
-      &quot;mag&quot;: 3.87,
-      &quot;latitude&quot;: 36.152832,
-      &quot;longitude&quot;: -117.87883,
-      &quot;depth&quot;: 0.14
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562860260370,
@@ -11161,46 +9857,11 @@ img {
       &quot;depth&quot;: 10.56
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562860266290,
-      &quot;mag&quot;: 3.26,
-      &quot;latitude&quot;: 36.1828346,
-      &quot;longitude&quot;: -117.8830032,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562860396850,
-      &quot;mag&quot;: 2.73,
-      &quot;latitude&quot;: 37.5138333,
-      &quot;longitude&quot;: -118.87666669999999,
-      &quot;depth&quot;: 5.75
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562861948670,
-      &quot;mag&quot;: 3.72,
-      &quot;latitude&quot;: 36.1813316,
-      &quot;longitude&quot;: -117.8816681,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562863248160,
-      &quot;mag&quot;: 3.19,
-      &quot;latitude&quot;: 36.1836667,
-      &quot;longitude&quot;: -117.85550000000002,
-      &quot;depth&quot;: 0.0
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562863268430,
       &quot;mag&quot;: 3.53,
       &quot;latitude&quot;: 35.7023315,
       &quot;longitude&quot;: -117.50916290000002,
       &quot;depth&quot;: 1.31
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562863754965,
-      &quot;mag&quot;: 3.1,
-      &quot;latitude&quot;: 69.2883,
-      &quot;longitude&quot;: -144.6726,
-      &quot;depth&quot;: 4.3
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562865804900,
@@ -11238,13 +9899,6 @@ img {
       &quot;depth&quot;: 0.27
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562872053960,
-      &quot;mag&quot;: 2.61,
-      &quot;latitude&quot;: 36.18800000000001,
-      &quot;longitude&quot;: -117.8751667,
-      &quot;depth&quot;: 2.35
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562872413230,
       &quot;mag&quot;: 2.62,
       &quot;latitude&quot;: 36.044,
@@ -11266,53 +9920,11 @@ img {
       &quot;depth&quot;: 7.93
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562877376300,
-      &quot;mag&quot;: 2.53,
-      &quot;latitude&quot;: 35.61533333,
-      &quot;longitude&quot;: -97.94883333,
-      &quot;depth&quot;: 6.54
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562880999520,
       &quot;mag&quot;: 2.66,
       &quot;latitude&quot;: 35.7291667,
       &quot;longitude&quot;: -117.55183330000001,
       &quot;depth&quot;: 4.18
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562881363360,
-      &quot;mag&quot;: 2.54,
-      &quot;latitude&quot;: 36.1901667,
-      &quot;longitude&quot;: -117.893,
-      &quot;depth&quot;: 0.71
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562883093550,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 61.18829999999999,
-      &quot;longitude&quot;: -152.5731,
-      &quot;depth&quot;: 6.6
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562884677130,
-      &quot;mag&quot;: 2.65,
-      &quot;latitude&quot;: 36.1821667,
-      &quot;longitude&quot;: -117.8895,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562886400040,
-      &quot;mag&quot;: 2.8,
-      &quot;latitude&quot;: 41.1542,
-      &quot;longitude&quot;: -116.5415,
-      &quot;depth&quot;: 9.2
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562887272780,
-      &quot;mag&quot;: 2.56,
-      &quot;latitude&quot;: 36.1756667,
-      &quot;longitude&quot;: -117.888,
-      &quot;depth&quot;: 0.84
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562888247260,
@@ -11357,46 +9969,11 @@ img {
       &quot;depth&quot;: 0.0
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562893571470,
-      &quot;mag&quot;: 2.61,
-      &quot;latitude&quot;: 19.312,
-      &quot;longitude&quot;: -155.4645,
-      &quot;depth&quot;: 8.4
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562894648820,
       &quot;mag&quot;: 2.89,
       &quot;latitude&quot;: 36.0326667,
       &quot;longitude&quot;: -117.35000000000001,
       &quot;depth&quot;: 3.39
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562895281063,
-      &quot;mag&quot;: 5.2,
-      &quot;latitude&quot;: 14.6511,
-      &quot;longitude&quot;: -94.2871,
-      &quot;depth&quot;: 10.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562896532733,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 57.1971,
-      &quot;longitude&quot;: -155.3014,
-      &quot;depth&quot;: 6.5
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562897910060,
-      &quot;mag&quot;: 3.65,
-      &quot;latitude&quot;: 36.1801682,
-      &quot;longitude&quot;: -117.88632970000002,
-      &quot;depth&quot;: 0.65
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562899522540,
-      &quot;mag&quot;: 2.61,
-      &quot;latitude&quot;: 36.1893333,
-      &quot;longitude&quot;: -117.8803333,
-      &quot;depth&quot;: 0.0
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562901983570,
@@ -11418,13 +9995,6 @@ img {
       &quot;latitude&quot;: 35.8898315,
       &quot;longitude&quot;: -117.72450260000001,
       &quot;depth&quot;: 2.93
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562904719900,
-      &quot;mag&quot;: 3.26,
-      &quot;latitude&quot;: 36.1814995,
-      &quot;longitude&quot;: -117.88400270000001,
-      &quot;depth&quot;: 1.82
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562905814560,
@@ -11455,13 +10025,6 @@ img {
       &quot;depth&quot;: 7.0
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562918100270,
-      &quot;mag&quot;: 2.7,
-      &quot;latitude&quot;: 36.2005,
-      &quot;longitude&quot;: -117.89316670000001,
-      &quot;depth&quot;: 2.17
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562918162990,
       &quot;mag&quot;: 3.06,
       &quot;latitude&quot;: 35.547,
@@ -11483,25 +10046,11 @@ img {
       &quot;depth&quot;: 10.8
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562928367930,
-      &quot;mag&quot;: 2.51,
-      &quot;latitude&quot;: 46.8295,
-      &quot;longitude&quot;: -119.734833333333,
-      &quot;depth&quot;: 3.18
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562929329000,
       &quot;mag&quot;: 2.88,
       &quot;latitude&quot;: 35.705,
       &quot;longitude&quot;: -117.5473333,
       &quot;depth&quot;: 3.68
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562934273810,
-      &quot;mag&quot;: 2.53,
-      &quot;latitude&quot;: 36.1986667,
-      &quot;longitude&quot;: -117.8821667,
-      &quot;depth&quot;: 2.28
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562936415500,
@@ -11539,34 +10088,6 @@ img {
       &quot;depth&quot;: 10.23
     },
     {
-      &quot;occurrenceTimeMillis&quot;: 1562937421540,
-      &quot;mag&quot;: 3.1,
-      &quot;latitude&quot;: 20.7167,
-      &quot;longitude&quot;: -154.7718,
-      &quot;depth&quot;: 19.69
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562940748034,
-      &quot;mag&quot;: 2.5,
-      &quot;latitude&quot;: 66.1507,
-      &quot;longitude&quot;: -164.1444,
-      &quot;depth&quot;: 0.0
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562944752221,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 56.4052,
-      &quot;longitude&quot;: -149.3758,
-      &quot;depth&quot;: 18.1
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562946847463,
-      &quot;mag&quot;: 2.6,
-      &quot;latitude&quot;: 68.997,
-      &quot;longitude&quot;: -144.7464,
-      &quot;depth&quot;: 0.7
-    },
-    {
       &quot;occurrenceTimeMillis&quot;: 1562948242900,
       &quot;mag&quot;: 2.77,
       &quot;latitude&quot;: 35.5278333,
@@ -11586,13 +10107,6 @@ img {
       &quot;latitude&quot;: 35.7171667,
       &quot;longitude&quot;: -117.5603333,
       &quot;depth&quot;: 5.4
-    },
-    {
-      &quot;occurrenceTimeMillis&quot;: 1562952084240,
-      &quot;mag&quot;: 3.42,
-      &quot;latitude&quot;: 21.4958333,
-      &quot;longitude&quot;: -157.14950000000002,
-      &quot;depth&quot;: 13.02
     },
     {
       &quot;occurrenceTimeMillis&quot;: 1562954521930,

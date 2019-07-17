@@ -7,8 +7,8 @@
 | Start Time Epoch Milliseconds | 1562987994040 |
 | Duration | 10 Years |
 | Includes Spontaneous? | false |
-| Trigger Ruptures | 1550 Trigger Ruptures |
-|   | First: M3.1 at 2019/06/29 04:55:38 UTC |
+| Trigger Ruptures | 1345 Trigger Ruptures |
+|   | First: M3.98 at 2019/07/04 17:02:55 UTC |
 |   | Last: M2.8 at 2019/07/13 02:47:44 UTC |
 |   | Largest: M7.1 at 2019/07/06 03:19:53 UTC |
 | Historical Ruptures | *(none)* |
@@ -16,6 +16,7 @@
 ## Table Of Contents
 
 * [Trigger Rupture Fault Map](#trigger-rupture-fault-map)
+* [Trigger Rupture Depth Map](#trigger-rupture-depth-map)
 * [Fault Distances To Triggers](#fault-distances-to-triggers)
 * [Possible Finite Rupture Subsection Mappings](#possible-finite-rupture-subsection-mappings)
 * [JSON Input File](#json-input-file)
@@ -24,6 +25,10 @@
 *[(top)](#table-of-contents)*
 
 ![Map](./trigger_rup_fault_map.png)
+## Trigger Rupture Depth Map
+*[(top)](#table-of-contents)*
+
+![Map](./trigger_rup_depth_map.png)
 ## Fault Distances To Triggers
 *[(top)](#table-of-contents)*
 
@@ -31,71 +36,16 @@
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | Airport Lake | 359, 50, -90 | 777 | 7.1 | 777 | 7.1 | 0.036 | 0.000 | 0.036 | 0.000 | 5.612 | 0.000 |
 | Little Lake | 327, 90, 180 | 270 | 5.5 | 271 | 7.1 | 1.937 | 0.000 | 11.284 | 0.000 | 13.471 | 1.469 |
-| Garlock (Central) | 71, 90, 0 | 96 | 4.49 | 97 | 7.1 | 0.225 | 0.000 | 5.600 | 0.000 | 22.802 | 10.829 |
-| So Sierra Nevada | 2, 50, -90 | 62 | 4.52 | 62 | 4.52 | 1.134 | 0.000 | 4.248 | 4.233 | 16.191 | 15.188 |
+| Garlock (Central) | 70, 90, 0 | 93 | 4.49 | 94 | 7.1 | 0.869 | 0.000 | 5.600 | 0.000 | 22.802 | 10.829 |
+| So Sierra Nevada | 2, 50, -90 | 30 | 4.13 | 30 | 4.13 | 1.255 | 0.000 | 4.248 | 4.233 | 16.191 | 15.188 |
 | Ash Hill | 162, 90, 180 | 16 | 3.57 | 16 | 3.57 | 0.563 | 0.000 | 34.883 | 23.252 | 35.808 | 25.242 |
-| Panamint Valley | 334, 90, -150 | 14 | 3.57 | 14 | 3.57 | 6.408 | 0.000 | 29.583 | 17.627 | 34.539 | 22.615 |
-| White Wolf | 51, 75, 60 | 7 | 3.44 | 7 | 3.44 | 0.381 | 0.000 | 88.320 | 87.948 | 89.285 | 88.663 |
-| Mendocino | 278, 90, 180 | 3 | 2.79 | 3 | 2.79 | 5.110 | 0.000 | 750.442 | 744.468 | 769.901 | 763.878 |
-| Round Valley | 340, 50, -90 | 2 | 3.28 | 2 | 3.28 | 1.123 | 0.000 | 166.054 | 166.053 | 185.199 | 185.131 |
+| Panamint Valley | 336, 90, -150 | 14 | 3.57 | 14 | 3.57 | 6.408 | 0.000 | 29.583 | 17.627 | 34.539 | 22.615 |
 | Tank Canyon | 189, 50, -90 | 1 | 3.0 | 1 | 3.0 | 1.252 | 0.000 | 9.015 | 9.011 | 17.243 | 17.072 |
-| San Jacinto (San Jacinto Valley) rev | 133, 90, 180 | 1 | 3.02 | 1 | 3.02 | 1.315 | 0.000 | 173.583 | 165.562 | 189.314 | 181.823 |
-| San Andreas (Cholame) rev | 321, 90, 180 | 1 | 2.66 | 1 | 2.66 | 1.564 | 0.000 | 203.540 | 192.228 | 211.238 | 200.333 |
-| San Jacinto (San Bernardino) | 138, 90, 180 | 1 | 2.72 | 1 | 2.72 | 1.712 | 0.000 | 146.279 | 137.866 | 160.365 | 152.689 |
-| Brawley (Seismic Zone) alt 1 | 160, 90, 180 | 1 | 2.63 | 1 | 2.63 | 3.042 | 0.000 | 282.250 | 280.355 | 301.075 | 299.053 |
-| San Jacinto (Lytle Creek connector) | 135, 90, 180 | 1 | 2.72 | 1 | 2.72 | 3.968 | 0.000 | 148.101 | 139.163 | 162.186 | 153.936 |
-| Fontana (Seismicity) | 223, 80, 0 | 1 | 2.72 | 1 | 2.72 | 4.262 | 0.000 | 157.112 | 153.190 | 171.794 | 167.438 |
-| Blackwater | 323, 90, 180 | 1 | 3.54 | 1 | 3.54 | 5.396 | 0.000 | 14.394 | 8.726 | 29.661 | 27.718 |
-| Cucamonga | 257, 45, 90 | 1 | 2.72 | 1 | 2.72 | 5.656 | 0.000 | 142.618 | 142.617 | 156.921 | 156.905 |
-| Collayami 2011 CFM | 134, 90, 180 | 1 | 3.18 | 1 | 3.18 | 5.665 | 0.000 | 529.340 | 527.582 | 548.534 | 546.870 |
-| Hat Creek-McArthur-Mayfield | 164, 60, -90 | 1 | 2.66 | 1 | 2.66 | 10.256 | 0.000 | 603.593 | 602.777 | 623.133 | 622.250 |
-| King Range 2011 CFM | 130, 29, 90 | 1 | 2.79 | 1 | 2.79 | 10.386 | 0.000 | 713.231 | 712.978 | 732.737 | 732.442 |
-| San Andreas (San Bernardino N) | 122, 90, 180 | 1 | 2.72 | 1 | 2.72 | 11.366 | 0.000 | 140.812 | 130.029 | 154.485 | 144.224 |
-| Imperial | 325, 82, 180 | 0 |  | 0 |  | 3.526 | 3.188 | 338.471 | 337.751 | 357.232 | 356.580 |
-| Fish Slough 2011 CFM | 181, 60, -90 | 0 |  | 0 |  | 5.111 | 1.127 | 168.335 | 165.751 | 187.309 | 184.432 |
-| Sierra Nevada  (No Extension) | 344, 50, -90 | 0 |  | 0 |  | 5.696 | 3.696 | 39.627 | 39.626 | 58.680 | 58.391 |
-| Hilton Creek 2011 CFM | 327, 50, -90 | 0 |  | 0 |  | 7.500 | 0.626 | 199.972 | 197.823 | 219.441 | 217.147 |
-| Great Valley 11 | 131, 15, 90 | 0 |  | 0 |  | 7.959 | 7.890 | 251.917 | 251.895 | 268.223 | 268.198 |
-| Maacama 2011 CFM | 329, 63, 180 | 0 |  | 0 |  | 8.381 | 5.026 | 519.232 | 519.178 | 538.248 | 538.186 |
-| Great Valley 10 (Panoche) | 152, 15, 90 | 0 |  | 0 |  | 8.863 | 8.800 | 272.824 | 272.796 | 289.497 | 289.467 |
-| San Andreas (Offshore) 2011 CFM | 338, 90, 180 | 0 |  | 0 |  | 9.422 | 8.551 | 644.456 | 637.345 | 663.492 | 656.455 |
-| San Andreas (North Branch Mill Creek) | 114, 76, 180 | 0 |  | 0 |  | 9.795 | 6.355 | 156.219 | 149.334 | 172.195 | 165.234 |
-| Garlock (West) | 59, 90, 0 | 0 |  | 0 |  | 10.636 | 9.954 | 63.115 | 60.529 | 66.426 | 62.627 |
-| Pleito | 91, 46, 90 | 0 |  | 0 |  | 12.225 | 5.035 | 147.260 | 146.662 | 148.802 | 147.949 |
-| Wight Way 2011 CFM | 263, 69, -90 | 0 |  | 0 |  | 12.669 | 6.942 | 564.047 | 560.209 | 583.347 | 579.421 |
-| Superstition Hills | 130, 90, 180 | 0 |  | 0 |  | 12.937 | 1.342 | 313.261 | 308.435 | 331.749 | 327.065 |
-| San Andreas (San Bernardino S) | 120, 90, 180 | 0 |  | 0 |  | 13.533 | 1.180 | 158.941 | 149.214 | 174.851 | 165.578 |
-| Owens Valley | 343, 90, 180 | 0 |  | 0 |  | 13.567 | 12.581 | 49.013 | 48.524 | 68.299 | 66.819 |
-| Rocky Ledge 2011 CFM | 175, 60, -90 | 0 |  | 0 |  | 13.672 | 6.008 | 645.398 | 643.187 | 664.968 | 662.670 |
-| Ortigalita (South) | 152, 90, 180 | 0 |  | 0 |  | 13.688 | 13.564 | 288.011 | 279.348 | 304.505 | 296.147 |
-| Lost Hills | 143, 29, 90 | 0 |  | 0 |  | 14.494 | 14.328 | 181.424 | 181.398 | 191.325 | 191.260 |
-| Owens Valley Keough Hot Springs | 340, 50, -90 | 0 |  | 0 |  | 15.496 | 11.970 | 152.866 | 152.543 | 171.523 | 171.407 |
-| Cleghorn | 96, 90, 0 | 0 |  | 0 |  | 15.874 | 4.093 | 141.151 | 129.164 | 155.439 | 143.546 |
-| San Gorgonio Pass | 281, 60, 90 | 0 |  | 0 |  | 16.137 | 14.299 | 168.900 | 168.864 | 185.778 | 185.615 |
-| Rodgers Creek - Healdsburg 2011 CFM | 324, 77, 180 | 0 |  | 0 |  | 16.142 | 8.984 | 486.124 | 483.925 | 504.875 | 502.720 |
-| San Jacinto (Superstition Mtn) | 120, 90, 180 | 0 |  | 0 |  | 16.550 | 8.257 | 314.762 | 307.825 | 333.170 | 326.371 |
+| Blackwater | 325, 90, 180 | 1 | 3.54 | 1 | 3.54 | 5.396 | 0.000 | 14.394 | 8.726 | 29.661 | 27.718 |
+| Sierra Nevada  (No Extension) | 348, 50, -90 | 0 |  | 0 |  | 13.566 | 13.103 | 39.627 | 39.626 | 58.680 | 58.391 |
 | Scodie Lineament | 221, 68, 0 | 0 |  | 0 |  | 16.722 | 15.781 | 28.750 | 27.702 | 36.559 | 32.668 |
-| San Juan | 152, 90, 180 | 0 |  | 0 |  | 16.841 | 4.873 | 218.336 | 206.343 | 224.772 | 212.898 |
-| Hartley Springs 2011 CFM | 342, 50, -90 | 0 |  | 0 |  | 17.432 | 12.300 | 221.559 | 212.948 | 240.954 | 232.544 |
-| San Jacinto (Stepovers Combined) | 139, 90, 180 | 0 |  | 0 |  | 17.472 | 17.466 | 187.428 | 181.146 | 203.799 | 198.015 |
-| Pittville 2011 CFM | 164, 60, -90 | 0 |  | 0 |  | 18.073 | 17.241 | 634.649 | 631.491 | 654.087 | 650.826 |
-| White Mountains | 352, 90, 180 | 0 |  | 0 |  | 18.401 | 6.400 | 129.745 | 128.370 | 148.238 | 146.207 |
-| Lenwood-Lockhart-Old Woman Springs | 313, 90, 180 | 0 |  | 0 |  | 18.692 | 16.534 | 53.532 | 41.707 | 59.689 | 48.512 |
-| San Andreas (Mojave S) | 116, 90, 180 | 0 |  | 0 |  | 18.773 | 13.670 | 131.948 | 119.949 | 139.645 | 127.646 |
-| San Gabriel (Extension) | 276, 61, 180 | 0 |  | 0 |  | 19.658 | 8.388 | 139.593 | 139.593 | 152.686 | 152.634 |
-| Bear River fault zone | 300, 60, 90 | 0 |  | 0 |  | 19.698 | 14.892 | 744.969 | 744.458 | 764.562 | 763.998 |
-| North Frontal  (West) | 80, 49, 90 | 0 |  | 0 |  | 19.779 | 18.591 | 127.349 | 126.313 | 144.446 | 143.010 |
-| Garberville - Briceland 2011 CFM | 315, 90, 180 | 0 |  | 0 |  | 20.124 | 10.148 | 688.087 | 686.898 | 707.619 | 706.473 |
-| San Jose | 244, 74, 30 | 0 |  | 0 |  | 20.790 | 19.973 | 161.293 | 159.154 | 173.919 | 171.577 |
-| La Panza 2011 | 315, 51, 135 | 0 |  | 0 |  | 21.424 | 21.040 | 210.939 | 210.915 | 217.041 | 216.935 |
-| Independence rev 2011 | 337, 50, -90 | 0 |  | 0 |  | 21.721 | 20.927 | 73.220 | 72.867 | 92.154 | 92.123 |
-| Calaveras (So) - Paicines extension 2011 CFM | 141, 77, 180 | 0 |  | 0 |  | 22.137 | 12.967 | 296.304 | 291.088 | 311.954 | 306.885 |
-| Great Valley 12 | 153, 15, 90 | 0 |  | 0 |  | 22.250 | 22.222 | 239.566 | 239.540 | 255.204 | 255.176 |
-| Sierra Madre | 288, 53, 90 | 0 |  | 0 |  | 22.350 | 21.800 | 153.067 | 152.917 | 163.704 | 163.669 |
-| San Andreas (Creeping Section) 2011 CFM | 317, 90, 180 | 0 |  | 0 |  | 22.889 | 10.906 | 254.519 | 245.976 | 268.098 | 260.028 |
-| San Andreas (Carrizo) rev | 134, 90, 180 | 0 |  | 0 |  | 23.323 | 22.984 | 185.179 | 173.356 | 187.552 | 176.027 |
-| Big Pine (East) | 248, 73, 45 | 0 |  | 0 |  | 23.679 | 21.196 | 163.081 | 162.498 | 164.478 | 163.660 |
-| Towne Pass | 195, 50, -90 | 0 |  | 0 |  | 23.917 | 23.858 | 52.561 | 52.559 | 59.662 | 59.451 |
+| Owens Valley | 347, 90, 180 | 0 |  | 0 |  | 22.168 | 21.951 | 49.013 | 48.524 | 68.299 | 66.819 |
+| Towne Pass | 167, 50, -90 | 0 |  | 0 |  | 23.917 | 23.858 | 52.561 | 52.559 | 59.662 | 59.451 |
 | Gravel Hills-Harper Lk | 311, 90, 180 | 0 |  | 0 |  | 24.154 | 12.740 | 36.147 | 26.349 | 50.134 | 42.809 |
 
 ## Possible Finite Rupture Subsection Mappings
@@ -125,7 +75,7 @@ Overlapping polygons are removed according to the mean distance of the actual su
   "duration": 10.0,
   "startTimeMillis": 1562987994040,
   "includeSpontaneous": false,
-  "randomSeed": 1563314389037,
+  "randomSeed": 1563324314865,
   "binaryOutput": true,
   "binaryOutputFilters": [
     {
@@ -144,538 +94,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
   "numRetries": 3,
   "outputDir": "${ETAS_SIM_DIR}/2019_07_16-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14",
   "triggerRuptures": [
-    {
-      "occurrenceTimeMillis": 1561784138927,
-      "mag": 3.1,
-      "latitude": 55.9385,
-      "longitude": -149.79060000000004,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1561795139509,
-      "mag": 3.8,
-      "latitude": 36.3965,
-      "longitude": -113.8115,
-      "depth": 16.42
-    },
-    {
-      "occurrenceTimeMillis": 1561798122628,
-      "mag": 3.0,
-      "latitude": 66.3389,
-      "longitude": -157.562,
-      "depth": 12.2
-    },
-    {
-      "occurrenceTimeMillis": 1561799266561,
-      "mag": 3.5,
-      "latitude": 36.4251,
-      "longitude": -113.8236,
-      "depth": 9.45
-    },
-    {
-      "occurrenceTimeMillis": 1561808710597,
-      "mag": 3.1,
-      "latitude": 44.4066,
-      "longitude": -129.5417,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1561813902084,
-      "mag": 2.5,
-      "latitude": 56.079,
-      "longitude": -149.4929,
-      "depth": 10.1
-    },
-    {
-      "occurrenceTimeMillis": 1561823781358,
-      "mag": 2.7,
-      "latitude": 67.6167,
-      "longitude": -156.6581,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1561836607090,
-      "mag": 2.78,
-      "latitude": 20.688,
-      "longitude": -155.7481667,
-      "depth": 19.73
-    },
-    {
-      "occurrenceTimeMillis": 1561845682381,
-      "mag": 2.5,
-      "latitude": 69.3307,
-      "longitude": -144.3415,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1561866484761,
-      "mag": 3.1,
-      "latitude": 69.6527,
-      "longitude": -144.9939,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1561890775999,
-      "mag": 2.7,
-      "latitude": 46.8839,
-      "longitude": -112.5508,
-      "depth": 11.08
-    },
-    {
-      "occurrenceTimeMillis": 1561906810483,
-      "mag": 2.7,
-      "latitude": 69.6802,
-      "longitude": -145.0685,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1561916753070,
-      "mag": 3.2,
-      "latitude": 66.3442,
-      "longitude": -157.5814,
-      "depth": 15.7
-    },
-    {
-      "occurrenceTimeMillis": 1561936318699,
-      "mag": 3.5,
-      "latitude": 69.48220000000002,
-      "longitude": -144.2704,
-      "depth": 7.2
-    },
-    {
-      "occurrenceTimeMillis": 1561937693459,
-      "mag": 4.8,
-      "latitude": 14.3537,
-      "longitude": -92.8688,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1561938216868,
-      "mag": 4.2,
-      "latitude": 37.7874,
-      "longitude": -114.3137,
-      "depth": 3.1
-    },
-    {
-      "occurrenceTimeMillis": 1561941811230,
-      "mag": 2.63,
-      "latitude": 19.3391667,
-      "longitude": -155.1338333,
-      "depth": 6.36
-    },
-    {
-      "occurrenceTimeMillis": 1561949461567,
-      "mag": 2.9,
-      "latitude": 69.5779,
-      "longitude": -144.2006,
-      "depth": 0.1
-    },
-    {
-      "occurrenceTimeMillis": 1561959187159,
-      "mag": 4.5,
-      "latitude": 10.4738,
-      "longitude": -86.0743,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1561965147805,
-      "mag": 2.8,
-      "latitude": 66.297,
-      "longitude": -157.1237,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1561970929489,
-      "mag": 3.3,
-      "latitude": 58.52960000000001,
-      "longitude": -151.4407,
-      "depth": 17.0
-    },
-    {
-      "occurrenceTimeMillis": 1561994428574,
-      "mag": 2.5,
-      "latitude": 44.5847,
-      "longitude": -114.31540000000001,
-      "depth": 3.11
-    },
-    {
-      "occurrenceTimeMillis": 1561998915709,
-      "mag": 2.5,
-      "latitude": 39.3454,
-      "longitude": -99.4608,
-      "depth": 5.0
-    },
-    {
-      "occurrenceTimeMillis": 1562004689298,
-      "mag": 2.5,
-      "latitude": 59.7592,
-      "longitude": -136.5741,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562015820670,
-      "mag": 2.66,
-      "latitude": 35.4838333,
-      "longitude": -120.01716670000002,
-      "depth": 9.86
-    },
-    {
-      "occurrenceTimeMillis": 1562019421842,
-      "mag": 2.8,
-      "latitude": 66.3593,
-      "longitude": -157.4993,
-      "depth": 12.6
-    },
-    {
-      "occurrenceTimeMillis": 1562022634320,
-      "mag": 3.7,
-      "latitude": 61.2191,
-      "longitude": -146.8976,
-      "depth": 14.6
-    },
-    {
-      "occurrenceTimeMillis": 1562035000650,
-      "mag": 2.79,
-      "latitude": 19.471666700000004,
-      "longitude": -155.4496667,
-      "depth": 0.22
-    },
-    {
-      "occurrenceTimeMillis": 1562053035720,
-      "mag": 3.73,
-      "latitude": 19.302,
-      "longitude": -155.213,
-      "depth": 8.11
-    },
-    {
-      "occurrenceTimeMillis": 1562053735839,
-      "mag": 4.4,
-      "latitude": 3.2858,
-      "longitude": -84.2068,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562072233196,
-      "mag": 3.0,
-      "latitude": 41.136,
-      "longitude": -116.6104,
-      "depth": 6.0
-    },
-    {
-      "occurrenceTimeMillis": 1562089722790,
-      "mag": 2.87,
-      "latitude": 36.5106667,
-      "longitude": -120.767,
-      "depth": 8.55
-    },
-    {
-      "occurrenceTimeMillis": 1562091427534,
-      "mag": 4.4,
-      "latitude": 66.2753,
-      "longitude": -157.1918,
-      "depth": 7.0
-    },
-    {
-      "occurrenceTimeMillis": 1562091894856,
-      "mag": 3.2,
-      "latitude": 66.2964,
-      "longitude": -156.9305,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562094230197,
-      "mag": 2.7,
-      "latitude": 66.2826,
-      "longitude": -157.4809,
-      "depth": 11.5
-    },
-    {
-      "occurrenceTimeMillis": 1562105001140,
-      "mag": 2.75,
-      "latitude": 35.0523333,
-      "longitude": -118.93583330000001,
-      "depth": 8.3
-    },
-    {
-      "occurrenceTimeMillis": 1562105527590,
-      "mag": 2.52,
-      "latitude": 35.0518333,
-      "longitude": -118.9376667,
-      "depth": 8.45
-    },
-    {
-      "occurrenceTimeMillis": 1562106068620,
-      "mag": 3.35,
-      "latitude": 35.0513333,
-      "longitude": -118.93683329999999,
-      "depth": 7.73
-    },
-    {
-      "occurrenceTimeMillis": 1562106172090,
-      "mag": 2.83,
-      "latitude": 35.0563333,
-      "longitude": -118.93600000000002,
-      "depth": 5.14
-    },
-    {
-      "occurrenceTimeMillis": 1562107256360,
-      "mag": 3.44,
-      "latitude": 35.0503333,
-      "longitude": -118.93600000000002,
-      "depth": 8.74
-    },
-    {
-      "occurrenceTimeMillis": 1562115309893,
-      "mag": 4.5,
-      "latitude": 15.5811,
-      "longitude": -90.9433,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562122437759,
-      "mag": 2.7,
-      "latitude": 35.985,
-      "longitude": -96.81916667,
-      "depth": 5.77
-    },
-    {
-      "occurrenceTimeMillis": 1562123045260,
-      "mag": 3.18,
-      "latitude": 38.8395,
-      "longitude": -122.8228333,
-      "depth": 2.22
-    },
-    {
-      "occurrenceTimeMillis": 1562133197950,
-      "mag": 3.0,
-      "latitude": 69.1347,
-      "longitude": -144.6999,
-      "depth": 3.3
-    },
-    {
-      "occurrenceTimeMillis": 1562135869260,
-      "mag": 2.5,
-      "latitude": 69.23430000000002,
-      "longitude": -144.5945,
-      "depth": 5.65
-    },
-    {
-      "occurrenceTimeMillis": 1562137175187,
-      "mag": 3.2,
-      "latitude": 68.9733,
-      "longitude": -144.8234,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562141027004,
-      "mag": 2.7,
-      "latitude": 69.1793,
-      "longitude": -144.6223,
-      "depth": 3.7
-    },
-    {
-      "occurrenceTimeMillis": 1562142281708,
-      "mag": 2.6,
-      "latitude": 69.0307,
-      "longitude": -144.7451,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562144824966,
-      "mag": 2.7,
-      "latitude": 69.167,
-      "longitude": -144.6074,
-      "depth": 7.2
-    },
-    {
-      "occurrenceTimeMillis": 1562144860838,
-      "mag": 3.3,
-      "latitude": 69.2254,
-      "longitude": -144.5837,
-      "depth": 1.0
-    },
-    {
-      "occurrenceTimeMillis": 1562148806896,
-      "mag": 4.2,
-      "latitude": 15.657100000000002,
-      "longitude": -90.9922,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562150163931,
-      "mag": 3.9,
-      "latitude": 55.2299,
-      "longitude": -134.5404,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562150942794,
-      "mag": 2.6,
-      "latitude": 69.0573,
-      "longitude": -144.4736,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562153130666,
-      "mag": 2.6,
-      "latitude": 69.1333,
-      "longitude": -144.7122,
-      "depth": 0.8
-    },
-    {
-      "occurrenceTimeMillis": 1562156406315,
-      "mag": 2.7,
-      "latitude": 69.1453,
-      "longitude": -144.6488,
-      "depth": 7.6
-    },
-    {
-      "occurrenceTimeMillis": 1562157472493,
-      "mag": 2.7,
-      "latitude": 62.1487,
-      "longitude": -147.9198,
-      "depth": 19.1
-    },
-    {
-      "occurrenceTimeMillis": 1562159844430,
-      "mag": 3.12,
-      "latitude": 41.3181667,
-      "longitude": -126.78933330000001,
-      "depth": 9.62
-    },
-    {
-      "occurrenceTimeMillis": 1562160399072,
-      "mag": 3.8,
-      "latitude": 44.4269,
-      "longitude": -128.98,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562165761286,
-      "mag": 2.5,
-      "latitude": 60.0476,
-      "longitude": -139.7184,
-      "depth": 7.6
-    },
-    {
-      "occurrenceTimeMillis": 1562166920055,
-      "mag": 4.1,
-      "latitude": 44.397,
-      "longitude": -129.0801,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562167904691,
-      "mag": 2.5,
-      "latitude": 69.1349,
-      "longitude": -144.6641,
-      "depth": 11.3
-    },
-    {
-      "occurrenceTimeMillis": 1562174154242,
-      "mag": 2.6,
-      "latitude": 69.1847,
-      "longitude": -144.6349,
-      "depth": 1.3
-    },
-    {
-      "occurrenceTimeMillis": 1562175674498,
-      "mag": 2.6,
-      "latitude": 61.15939999999999,
-      "longitude": -152.5817,
-      "depth": 9.9
-    },
-    {
-      "occurrenceTimeMillis": 1562179229670,
-      "mag": 2.87,
-      "latitude": 46.867,
-      "longitude": -112.5251667,
-      "depth": 13.23
-    },
-    {
-      "occurrenceTimeMillis": 1562182261760,
-      "mag": 2.66,
-      "latitude": 48.9301666666667,
-      "longitude": -125.963333333333,
-      "depth": 4.98
-    },
-    {
-      "occurrenceTimeMillis": 1562184673667,
-      "mag": 3.4,
-      "latitude": 69.1437,
-      "longitude": -144.644,
-      "depth": 13.1
-    },
-    {
-      "occurrenceTimeMillis": 1562193151692,
-      "mag": 4.1,
-      "latitude": 44.4873,
-      "longitude": -128.9323,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562193755434,
-      "mag": 3.7,
-      "latitude": 44.5362,
-      "longitude": -128.7848,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562194022491,
-      "mag": 2.8,
-      "latitude": 69.2181,
-      "longitude": -144.628,
-      "depth": 14.0
-    },
-    {
-      "occurrenceTimeMillis": 1562205214442,
-      "mag": 3.1,
-      "latitude": 55.9802,
-      "longitude": -149.7502,
-      "depth": 0.7
-    },
-    {
-      "occurrenceTimeMillis": 1562206428369,
-      "mag": 2.5,
-      "latitude": 56.1352,
-      "longitude": -149.7844,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562213952526,
-      "mag": 2.5,
-      "latitude": 69.0534,
-      "longitude": -144.4752,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562214644297,
-      "mag": 6.2,
-      "latitude": 51.2215,
-      "longitude": -130.515,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562237215763,
-      "mag": 3.3,
-      "latitude": 55.6446,
-      "longitude": -149.1698,
-      "depth": 7.17
-    },
-    {
-      "occurrenceTimeMillis": 1562244697569,
-      "mag": 4.3,
-      "latitude": 55.465,
-      "longitude": -135.0371,
-      "depth": 5.0
-    },
-    {
-      "occurrenceTimeMillis": 1562256023494,
-      "mag": 2.5,
-      "latitude": 69.5751,
-      "longitude": -144.73590000000002,
-      "depth": 0.0
-    },
     {
       "occurrenceTimeMillis": 1562259775360,
       "mag": 3.98,
@@ -1472,13 +890,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 1.85
     },
     {
-      "occurrenceTimeMillis": 1562279416130,
-      "mag": 2.87,
-      "latitude": 35.0486667,
-      "longitude": -118.93216670000001,
-      "depth": 6.54
-    },
-    {
       "occurrenceTimeMillis": 1562280141650,
       "mag": 3.2,
       "latitude": 35.7211685,
@@ -1505,13 +916,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.7470016,
       "longitude": -117.5784988,
       "depth": 2.13
-    },
-    {
-      "occurrenceTimeMillis": 1562283105908,
-      "mag": 3.6,
-      "latitude": 56.2681,
-      "longitude": -148.8139,
-      "depth": 10.0
     },
     {
       "occurrenceTimeMillis": 1562283240630,
@@ -1542,13 +946,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 1.67
     },
     {
-      "occurrenceTimeMillis": 1562284685654,
-      "mag": 3.6,
-      "latitude": 56.3264,
-      "longitude": -148.7664,
-      "depth": 10.0
-    },
-    {
       "occurrenceTimeMillis": 1562285645640,
       "mag": 2.76,
       "latitude": 35.6458333,
@@ -1561,13 +958,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.7718333,
       "longitude": -117.61783330000002,
       "depth": 2.59
-    },
-    {
-      "occurrenceTimeMillis": 1562286224080,
-      "mag": 3.6,
-      "latitude": 56.3356,
-      "longitude": -148.8373,
-      "depth": 10.0
     },
     {
       "occurrenceTimeMillis": 1562286529030,
@@ -1626,25 +1016,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 4.1
     },
     {
-      "occurrenceTimeMillis": 1562291840698,
-      "mag": 4.1,
-      "latitude": 14.2487,
-      "longitude": -93.769,
-      "depth": 10.0
-    },
-    {
       "occurrenceTimeMillis": 1562291887280,
       "mag": 2.68,
       "latitude": 35.7118333,
       "longitude": -117.46816670000001,
       "depth": 0.68
-    },
-    {
-      "occurrenceTimeMillis": 1562291888390,
-      "mag": 3.36,
-      "latitude": 31.8341667,
-      "longitude": -115.81450000000001,
-      "depth": 14.71
     },
     {
       "occurrenceTimeMillis": 1562292100910,
@@ -1752,13 +1128,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 0.41
     },
     {
-      "occurrenceTimeMillis": 1562299014938,
-      "mag": 3.3,
-      "latitude": 56.3747,
-      "longitude": -148.8708,
-      "depth": 19.99
-    },
-    {
       "occurrenceTimeMillis": 1562299898470,
       "mag": 3.53,
       "latitude": 35.7226677,
@@ -1801,13 +1170,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 4.86
     },
     {
-      "occurrenceTimeMillis": 1562303164856,
-      "mag": 2.9,
-      "latitude": 69.1815,
-      "longitude": -144.6202,
-      "depth": 1.5
-    },
-    {
       "occurrenceTimeMillis": 1562303437620,
       "mag": 3.19,
       "latitude": 35.7073326,
@@ -1843,32 +1205,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 0.25
     },
     {
-      "occurrenceTimeMillis": 1562306354557,
-      "mag": 3.5,
-      "latitude": 69.3883,
-      "longitude": -145.2244,
-      "depth": 20.0
-    },
-    {
-      "occurrenceTimeMillis": 1562306366067,
-      "mag": 3.2,
-      "latitude": 69.0884,
-      "longitude": -146.4386,
-      "depth": 15.0
-    },
-    {
       "occurrenceTimeMillis": 1562306963130,
       "mag": 3.65,
       "latitude": 35.6223335,
       "longitude": -117.57333369999999,
       "depth": 6.19
-    },
-    {
-      "occurrenceTimeMillis": 1562308076876,
-      "mag": 2.9,
-      "latitude": 69.2641,
-      "longitude": -144.60210000000004,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562308842510,
@@ -1948,13 +1289,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 6.61
     },
     {
-      "occurrenceTimeMillis": 1562319649682,
-      "mag": 3.1,
-      "latitude": 39.2645,
-      "longitude": -99.4755,
-      "depth": 5.0
-    },
-    {
       "occurrenceTimeMillis": 1562319989260,
       "mag": 3.51,
       "latitude": 35.6479988,
@@ -1981,13 +1315,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.68050000000001,
       "longitude": -117.4775,
       "depth": 0.83
-    },
-    {
-      "occurrenceTimeMillis": 1562323799467,
-      "mag": 3.0,
-      "latitude": 69.3114,
-      "longitude": -144.7026,
-      "depth": 5.4
     },
     {
       "occurrenceTimeMillis": 1562324246570,
@@ -2030,13 +1357,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.7505,
       "longitude": -117.5688333,
       "depth": 3.62
-    },
-    {
-      "occurrenceTimeMillis": 1562325153460,
-      "mag": 3.28,
-      "latitude": 37.4035,
-      "longitude": -118.5236667,
-      "depth": 9.29
     },
     {
       "occurrenceTimeMillis": 1562325439580,
@@ -2116,39 +1436,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 6.92
     },
     {
-      "occurrenceTimeMillis": 1562331098752,
-      "mag": 4.7,
-      "latitude": 51.3924,
-      "longitude": -130.5189,
-      "depth": 10.0
-    },
-    {
       "occurrenceTimeMillis": 1562331304830,
       "mag": 3.65,
       "latitude": 35.7508316,
       "longitude": -117.5633316,
       "depth": 6.9
-    },
-    {
-      "occurrenceTimeMillis": 1562331508335,
-      "mag": 5.6,
-      "latitude": 51.3371,
-      "longitude": -130.5696,
-      "depth": 5.11
-    },
-    {
-      "occurrenceTimeMillis": 1562331738107,
-      "mag": 4.6,
-      "latitude": 50.9452,
-      "longitude": -130.9642,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562331739448,
-      "mag": 4.6,
-      "latitude": 51.369,
-      "longitude": -130.3988,
-      "depth": 10.0
     },
     {
       "occurrenceTimeMillis": 1562332343380,
@@ -2163,13 +1455,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.7051667,
       "longitude": -117.5111667,
       "depth": 6.82
-    },
-    {
-      "occurrenceTimeMillis": 1562334216120,
-      "mag": 2.63,
-      "latitude": 37.4008333,
-      "longitude": -118.52650000000001,
-      "depth": 9.29
     },
     {
       "occurrenceTimeMillis": 1562334453490,
@@ -2270,13 +1555,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.25
     },
     {
-      "occurrenceTimeMillis": 1562350377495,
-      "mag": 2.8,
-      "latitude": 69.1788,
-      "longitude": -144.6298,
-      "depth": 19.75
-    },
-    {
       "occurrenceTimeMillis": 1562352030950,
       "mag": 2.6,
       "latitude": 35.7251667,
@@ -2368,20 +1646,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 4.21
     },
     {
-      "occurrenceTimeMillis": 1562369316460,
-      "mag": 3.3,
-      "latitude": 69.1687,
-      "longitude": -144.7054,
-      "depth": 12.1
-    },
-    {
-      "occurrenceTimeMillis": 1562369923807,
-      "mag": 2.7,
-      "latitude": 69.0422,
-      "longitude": -144.4749,
-      "depth": 0.0
-    },
-    {
       "occurrenceTimeMillis": 1562371859260,
       "mag": 2.58,
       "latitude": 35.7625,
@@ -2445,20 +1709,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 6.98
     },
     {
-      "occurrenceTimeMillis": 1562375724885,
-      "mag": 2.6,
-      "latitude": 42.6382,
-      "longitude": -111.4518,
-      "depth": 5.0
-    },
-    {
-      "occurrenceTimeMillis": 1562375874964,
-      "mag": 3.3,
-      "latitude": 42.6395,
-      "longitude": -111.4139,
-      "depth": 4.26
-    },
-    {
       "occurrenceTimeMillis": 1562378010760,
       "mag": 2.8,
       "latitude": 35.716,
@@ -2485,13 +1735,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.7715,
       "longitude": -117.6006667,
       "depth": 2.2
-    },
-    {
-      "occurrenceTimeMillis": 1562382312288,
-      "mag": 3.5,
-      "latitude": 69.4995,
-      "longitude": -144.6399,
-      "depth": 12.3
     },
     {
       "occurrenceTimeMillis": 1562382992480,
@@ -3288,13 +2531,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.8283348,
       "longitude": -117.67733000000001,
       "depth": 1.54
-    },
-    {
-      "occurrenceTimeMillis": 1562386277610,
-      "mag": 2.97,
-      "latitude": 37.1295,
-      "longitude": -118.64600000000002,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562386334170,
@@ -4529,13 +3765,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.32
     },
     {
-      "occurrenceTimeMillis": 1562398019244,
-      "mag": 3.2,
-      "latitude": 60.37460000000001,
-      "longitude": -147.3513,
-      "depth": 7.3
-    },
-    {
       "occurrenceTimeMillis": 1562398090450,
       "mag": 2.92,
       "latitude": 35.6415,
@@ -4716,13 +3945,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.735,
       "longitude": -117.50833330000002,
       "depth": 11.99
-    },
-    {
-      "occurrenceTimeMillis": 1562399986116,
-      "mag": 2.8,
-      "latitude": 65.4297,
-      "longitude": -162.6133,
-      "depth": 5.7
     },
     {
       "occurrenceTimeMillis": 1562399987780,
@@ -6734,13 +5956,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.01
     },
     {
-      "occurrenceTimeMillis": 1562431272470,
-      "mag": 2.87,
-      "latitude": 35.91416667,
-      "longitude": -99.46916667,
-      "depth": 13.46
-    },
-    {
       "occurrenceTimeMillis": 1562431325130,
       "mag": 3.51,
       "latitude": 35.8773333,
@@ -6788,13 +6003,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.694,
       "longitude": -117.55683330000001,
       "depth": 1.72
-    },
-    {
-      "occurrenceTimeMillis": 1562432888311,
-      "mag": 2.5,
-      "latitude": 60.1075,
-      "longitude": -141.5148,
-      "depth": 1.1
     },
     {
       "occurrenceTimeMillis": 1562432941490,
@@ -6900,13 +6108,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.8996658,
       "longitude": -117.7346649,
       "depth": 3.01
-    },
-    {
-      "occurrenceTimeMillis": 1562436422340,
-      "mag": 2.93,
-      "latitude": 19.3585,
-      "longitude": -154.98,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562436796120,
@@ -7168,13 +6369,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 6.64
     },
     {
-      "occurrenceTimeMillis": 1562444624660,
-      "mag": 3.02,
-      "latitude": 34.0195007,
-      "longitude": -117.21866610000001,
-      "depth": 16.1
-    },
-    {
       "occurrenceTimeMillis": 1562444673370,
       "mag": 2.69,
       "latitude": 35.6316667,
@@ -7285,13 +6479,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.6911659,
       "longitude": -117.479332,
       "depth": 5.1
-    },
-    {
-      "occurrenceTimeMillis": 1562449398952,
-      "mag": 2.8,
-      "latitude": 69.5064,
-      "longitude": -144.7603,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562450040180,
@@ -7532,13 +6719,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 9.84
     },
     {
-      "occurrenceTimeMillis": 1562460896223,
-      "mag": 2.6,
-      "latitude": 69.2056,
-      "longitude": -144.4958,
-      "depth": 8.2
-    },
-    {
       "occurrenceTimeMillis": 1562461506940,
       "mag": 3.42,
       "latitude": 35.6693344,
@@ -7665,13 +6845,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 6.51
     },
     {
-      "occurrenceTimeMillis": 1562469399138,
-      "mag": 3.1,
-      "latitude": 55.7363,
-      "longitude": -150.3888,
-      "depth": 5.18
-    },
-    {
       "occurrenceTimeMillis": 1562469646610,
       "mag": 2.78,
       "latitude": 35.8816667,
@@ -7691,13 +6864,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.767334,
       "longitude": -117.59333039999999,
       "depth": 1.59
-    },
-    {
-      "occurrenceTimeMillis": 1562471103155,
-      "mag": 2.6,
-      "latitude": 69.1829,
-      "longitude": -144.6808,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562471450450,
@@ -7735,13 +6901,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 0.37
     },
     {
-      "occurrenceTimeMillis": 1562477189100,
-      "mag": 2.59,
-      "latitude": 40.2943333,
-      "longitude": -124.4303333,
-      "depth": 18.62
-    },
-    {
       "occurrenceTimeMillis": 1562477895480,
       "mag": 4.52,
       "latitude": 35.76816670000001,
@@ -7777,13 +6936,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.8
     },
     {
-      "occurrenceTimeMillis": 1562479814660,
-      "mag": 2.74,
-      "latitude": 36.1121667,
-      "longitude": -117.9208333,
-      "depth": 4.94
-    },
-    {
       "occurrenceTimeMillis": 1562480108130,
       "mag": 2.73,
       "latitude": 35.6993333,
@@ -7810,13 +6962,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.632,
       "longitude": -117.4231644,
       "depth": 3.02
-    },
-    {
-      "occurrenceTimeMillis": 1562480725388,
-      "mag": 3.9,
-      "latitude": 56.51,
-      "longitude": -148.6137,
-      "depth": 19.86
     },
     {
       "occurrenceTimeMillis": 1562481673510,
@@ -7896,25 +7041,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.28
     },
     {
-      "occurrenceTimeMillis": 1562484457920,
-      "mag": 2.72,
-      "latitude": 34.1588333,
-      "longitude": -117.47549999999998,
-      "depth": 7.05
-    },
-    {
       "occurrenceTimeMillis": 1562484666700,
       "mag": 3.0,
       "latitude": 35.8269997,
       "longitude": -117.6443329,
       "depth": 6.96
-    },
-    {
-      "occurrenceTimeMillis": 1562485071690,
-      "mag": 2.77,
-      "latitude": 36.165,
-      "longitude": -117.8756667,
-      "depth": 2.86
     },
     {
       "occurrenceTimeMillis": 1562485431590,
@@ -8057,13 +7188,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 3.05
     },
     {
-      "occurrenceTimeMillis": 1562490904830,
-      "mag": 2.55,
-      "latitude": 19.1725,
-      "longitude": -155.6541667,
-      "depth": 9.68
-    },
-    {
       "occurrenceTimeMillis": 1562492483040,
       "mag": 3.45,
       "latitude": 35.7468338,
@@ -8132,13 +7256,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.802,
       "longitude": -117.56216670000002,
       "depth": 3.1
-    },
-    {
-      "occurrenceTimeMillis": 1562495242389,
-      "mag": 3.3,
-      "latitude": 66.2324,
-      "longitude": -157.2043,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562495574690,
@@ -8232,13 +7349,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 1.7
     },
     {
-      "occurrenceTimeMillis": 1562501670385,
-      "mag": 3.5,
-      "latitude": 57.0986,
-      "longitude": -149.68750000000003,
-      "depth": 10.0
-    },
-    {
       "occurrenceTimeMillis": 1562502098240,
       "mag": 2.66,
       "latitude": 35.6758333,
@@ -8260,13 +7370,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 3.36
     },
     {
-      "occurrenceTimeMillis": 1562503683220,
-      "mag": 2.8,
-      "latitude": 36.1756667,
-      "longitude": -117.97583329999999,
-      "depth": 4.04
-    },
-    {
       "occurrenceTimeMillis": 1562504715410,
       "mag": 2.54,
       "latitude": 35.8818333,
@@ -8279,13 +7382,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.8751667,
       "longitude": -117.69733329999998,
       "depth": 3.1
-    },
-    {
-      "occurrenceTimeMillis": 1562505474424,
-      "mag": 4.5,
-      "latitude": 8.8398,
-      "longitude": -84.3637,
-      "depth": 10.0
     },
     {
       "occurrenceTimeMillis": 1562505832330,
@@ -8435,13 +7531,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 0.11
     },
     {
-      "occurrenceTimeMillis": 1562518306400,
-      "mag": 2.66,
-      "latitude": 41.0658333,
-      "longitude": -121.60633330000002,
-      "depth": 14.32
-    },
-    {
       "occurrenceTimeMillis": 1562518846040,
       "mag": 2.61,
       "latitude": 35.7618333,
@@ -8484,13 +7573,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.52
     },
     {
-      "occurrenceTimeMillis": 1562522897760,
-      "mag": 3.3,
-      "latitude": 37.48400000000001,
-      "longitude": -118.74999999999999,
-      "depth": 10.59
-    },
-    {
       "occurrenceTimeMillis": 1562523559960,
       "mag": 3.28,
       "latitude": 35.8876648,
@@ -8503,13 +7585,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.9163322,
       "longitude": -117.71133420000001,
       "depth": 4.27
-    },
-    {
-      "occurrenceTimeMillis": 1562524268255,
-      "mag": 2.6,
-      "latitude": 59.7796,
-      "longitude": -148.4734,
-      "depth": 1.0
     },
     {
       "occurrenceTimeMillis": 1562524835890,
@@ -8624,13 +7699,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 7.87
     },
     {
-      "occurrenceTimeMillis": 1562533516840,
-      "mag": 2.75,
-      "latitude": 35.0503333,
-      "longitude": -118.9268333,
-      "depth": 6.39
-    },
-    {
       "occurrenceTimeMillis": 1562534129560,
       "mag": 3.79,
       "latitude": 35.947834,
@@ -8722,13 +7790,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.31
     },
     {
-      "occurrenceTimeMillis": 1562541159721,
-      "mag": 3.1,
-      "latitude": 47.419200000000004,
-      "longitude": -114.61219999999999,
-      "depth": 5.0
-    },
-    {
       "occurrenceTimeMillis": 1562541695660,
       "mag": 2.73,
       "latitude": 35.8705,
@@ -8806,20 +7867,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 6.89
     },
     {
-      "occurrenceTimeMillis": 1562553309450,
-      "mag": 2.87,
-      "latitude": 19.011,
-      "longitude": -67.7843,
-      "depth": 13.0
-    },
-    {
-      "occurrenceTimeMillis": 1562553670490,
-      "mag": 3.6,
-      "latitude": 41.1244,
-      "longitude": -116.5991,
-      "depth": 8.5
-    },
-    {
       "occurrenceTimeMillis": 1562553749080,
       "mag": 2.64,
       "latitude": 35.67016670000001,
@@ -8839,13 +7886,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.6650009,
       "longitude": -117.503334,
       "depth": 7.29
-    },
-    {
-      "occurrenceTimeMillis": 1562555715010,
-      "mag": 2.67,
-      "latitude": 35.3745,
-      "longitude": -117.8428333,
-      "depth": 3.01
     },
     {
       "occurrenceTimeMillis": 1562557022590,
@@ -8974,20 +8014,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 7.88
     },
     {
-      "occurrenceTimeMillis": 1562566221030,
-      "mag": 2.51,
-      "latitude": 36.166,
-      "longitude": -117.875,
-      "depth": 2.68
-    },
-    {
-      "occurrenceTimeMillis": 1562566504200,
-      "mag": 2.83,
-      "latitude": 35.1355,
-      "longitude": -95.33833333,
-      "depth": 10.44
-    },
-    {
       "occurrenceTimeMillis": 1562566688290,
       "mag": 3.04,
       "latitude": 35.9613342,
@@ -9021,13 +8047,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.6833333,
       "longitude": -117.48983330000002,
       "depth": 8.4
-    },
-    {
-      "occurrenceTimeMillis": 1562571118410,
-      "mag": 3.54,
-      "latitude": 36.158000900000005,
-      "longitude": -117.8755035,
-      "depth": 2.62
     },
     {
       "occurrenceTimeMillis": 1562571740920,
@@ -9070,13 +8089,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 36.1191673,
       "longitude": -117.8598328,
       "depth": 2.88
-    },
-    {
-      "occurrenceTimeMillis": 1562575449081,
-      "mag": 4.1,
-      "latitude": 56.2779,
-      "longitude": -154.0522,
-      "depth": 9.9
     },
     {
       "occurrenceTimeMillis": 1562576420790,
@@ -9212,13 +8224,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 7.62
     },
     {
-      "occurrenceTimeMillis": 1562592794421,
-      "mag": 2.9,
-      "latitude": 56.2731,
-      "longitude": -150.42540000000002,
-      "depth": 0.0
-    },
-    {
       "occurrenceTimeMillis": 1562593146960,
       "mag": 2.67,
       "latitude": 35.5506667,
@@ -9266,13 +8271,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.9118333,
       "longitude": -117.73666670000001,
       "depth": 2.31
-    },
-    {
-      "occurrenceTimeMillis": 1562600255174,
-      "mag": 2.6,
-      "latitude": 69.595,
-      "longitude": -144.1932,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562601868110,
@@ -9343,13 +8341,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.6986667,
       "longitude": -117.54433330000002,
       "depth": 1.97
-    },
-    {
-      "occurrenceTimeMillis": 1562605376715,
-      "mag": 2.6,
-      "latitude": 32.5379,
-      "longitude": -97.223,
-      "depth": 5.0
     },
     {
       "occurrenceTimeMillis": 1562605503360,
@@ -9478,13 +8469,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.73
     },
     {
-      "occurrenceTimeMillis": 1562623904290,
-      "mag": 2.51,
-      "latitude": 18.7998,
-      "longitude": -67.2001,
-      "depth": 19.0
-    },
-    {
       "occurrenceTimeMillis": 1562624329280,
       "mag": 3.15,
       "latitude": 35.929,
@@ -9518,13 +8502,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 36.0485001,
       "longitude": -117.847168,
       "depth": 1.67
-    },
-    {
-      "occurrenceTimeMillis": 1562628027484,
-      "mag": 4.3,
-      "latitude": 69.1086,
-      "longitude": -144.64110000000002,
-      "depth": 13.1
     },
     {
       "occurrenceTimeMillis": 1562628221620,
@@ -9646,13 +8623,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.37
     },
     {
-      "occurrenceTimeMillis": 1562652681471,
-      "mag": 2.6,
-      "latitude": 66.2138,
-      "longitude": -157.3167,
-      "depth": 11.7
-    },
-    {
       "occurrenceTimeMillis": 1562653450860,
       "mag": 3.01,
       "latitude": 35.897167200000005,
@@ -9672,20 +8642,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.8578339,
       "longitude": -117.69000240000001,
       "depth": 5.68
-    },
-    {
-      "occurrenceTimeMillis": 1562655033237,
-      "mag": 2.7,
-      "latitude": 39.8419,
-      "longitude": -117.32020000000001,
-      "depth": 2.2
-    },
-    {
-      "occurrenceTimeMillis": 1562655287208,
-      "mag": 2.7,
-      "latitude": 52.23360000000001,
-      "longitude": -173.2371,
-      "depth": 6.4
     },
     {
       "occurrenceTimeMillis": 1562655660460,
@@ -9793,25 +8749,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 4.58
     },
     {
-      "occurrenceTimeMillis": 1562669442070,
-      "mag": 2.99,
-      "latitude": 37.48400000000001,
-      "longitude": -118.7473333,
-      "depth": 10.52
-    },
-    {
       "occurrenceTimeMillis": 1562669446860,
       "mag": 2.65,
       "latitude": 35.75,
       "longitude": -117.56916670000001,
       "depth": 7.93
-    },
-    {
-      "occurrenceTimeMillis": 1562671813140,
-      "mag": 2.79,
-      "latitude": 40.2913333,
-      "longitude": -124.3408333,
-      "depth": 8.68
     },
     {
       "occurrenceTimeMillis": 1562672364420,
@@ -9842,13 +8784,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.11
     },
     {
-      "occurrenceTimeMillis": 1562678422501,
-      "mag": 2.6,
-      "latitude": 61.22140000000001,
-      "longitude": -152.5259,
-      "depth": 5.6
-    },
-    {
       "occurrenceTimeMillis": 1562678927730,
       "mag": 3.22,
       "latitude": 35.5453339,
@@ -9863,32 +8798,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 6.92
     },
     {
-      "occurrenceTimeMillis": 1562681972210,
-      "mag": 2.61,
-      "latitude": 35.842,
-      "longitude": -98.07416667000001,
-      "depth": 6.5
-    },
-    {
       "occurrenceTimeMillis": 1562682057200,
       "mag": 2.57,
       "latitude": 35.9508333,
       "longitude": -117.7025,
       "depth": 3.52
-    },
-    {
-      "occurrenceTimeMillis": 1562683449019,
-      "mag": 3.11,
-      "latitude": 35.83766667,
-      "longitude": -98.07916667,
-      "depth": 6.29
-    },
-    {
-      "occurrenceTimeMillis": 1562683941539,
-      "mag": 2.59,
-      "latitude": 35.8435,
-      "longitude": -98.07516667,
-      "depth": 6.78
     },
     {
       "occurrenceTimeMillis": 1562684967080,
@@ -9919,13 +8833,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 1.82
     },
     {
-      "occurrenceTimeMillis": 1562689622980,
-      "mag": 3.0,
-      "latitude": 66.3254,
-      "longitude": -157.41220000000004,
-      "depth": 4.0
-    },
-    {
       "occurrenceTimeMillis": 1562690823150,
       "mag": 3.46,
       "latitude": 35.8921661,
@@ -9945,13 +8852,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.656,
       "longitude": -117.48533330000001,
       "depth": 1.27
-    },
-    {
-      "occurrenceTimeMillis": 1562696128570,
-      "mag": 2.78,
-      "latitude": 40.3453333,
-      "longitude": -125.153,
-      "depth": 8.65
     },
     {
       "occurrenceTimeMillis": 1562697457410,
@@ -10024,13 +8924,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 7.66
     },
     {
-      "occurrenceTimeMillis": 1562708866110,
-      "mag": 2.78,
-      "latitude": 36.2121667,
-      "longitude": -117.86566670000002,
-      "depth": 1.72
-    },
-    {
       "occurrenceTimeMillis": 1562709169350,
       "mag": 3.33,
       "latitude": 35.8863335,
@@ -10085,13 +8978,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.9106667,
       "longitude": -117.71549999999999,
       "depth": 2.02
-    },
-    {
-      "occurrenceTimeMillis": 1562714678050,
-      "mag": 2.63,
-      "latitude": 32.9633333,
-      "longitude": -115.5478333,
-      "depth": 9.41
     },
     {
       "occurrenceTimeMillis": 1562715847240,
@@ -10185,13 +9071,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.57
     },
     {
-      "occurrenceTimeMillis": 1562723939140,
-      "mag": 2.9,
-      "latitude": 35.34666670000001,
-      "longitude": -117.9381667,
-      "depth": 0.9
-    },
-    {
       "occurrenceTimeMillis": 1562726023690,
       "mag": 2.67,
       "latitude": 35.6953333,
@@ -10211,13 +9090,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.9456673,
       "longitude": -117.682663,
       "depth": 3.41
-    },
-    {
-      "occurrenceTimeMillis": 1562733259400,
-      "mag": 2.7,
-      "latitude": 38.5106,
-      "longitude": -118.3471,
-      "depth": 7.0
     },
     {
       "occurrenceTimeMillis": 1562739573550,
@@ -10444,13 +9316,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 7.54
     },
     {
-      "occurrenceTimeMillis": 1562769653557,
-      "mag": 2.7,
-      "latitude": 61.335100000000004,
-      "longitude": -154.0121,
-      "depth": 12.6
-    },
-    {
       "occurrenceTimeMillis": 1562770386020,
       "mag": 3.52,
       "latitude": 36.0481682,
@@ -10542,34 +9407,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 6.44
     },
     {
-      "occurrenceTimeMillis": 1562784478070,
-      "mag": 2.53,
-      "latitude": 36.2145004,
-      "longitude": -117.8625031,
-      "depth": 1.01
-    },
-    {
-      "occurrenceTimeMillis": 1562784541410,
-      "mag": 4.09,
-      "latitude": 36.1621666,
-      "longitude": -117.88249969999998,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562784695270,
-      "mag": 3.7,
-      "latitude": 36.1676674,
-      "longitude": -117.87483220000001,
-      "depth": 1.54
-    },
-    {
-      "occurrenceTimeMillis": 1562784804770,
-      "mag": 2.61,
-      "latitude": 36.152,
-      "longitude": -117.8746667,
-      "depth": 3.32
-    },
-    {
       "occurrenceTimeMillis": 1562786102480,
       "mag": 3.3,
       "latitude": 36.1208344,
@@ -10640,13 +9477,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 5.08
     },
     {
-      "occurrenceTimeMillis": 1562796948260,
-      "mag": 3.87,
-      "latitude": 36.1728333,
-      "longitude": -117.8843333,
-      "depth": 0.81
-    },
-    {
       "occurrenceTimeMillis": 1562797316110,
       "mag": 2.59,
       "latitude": 35.6693333,
@@ -10666,13 +9496,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 36.0703333,
       "longitude": -117.8313333,
       "depth": 0.34
-    },
-    {
-      "occurrenceTimeMillis": 1562801623610,
-      "mag": 2.94,
-      "latitude": 35.365,
-      "longitude": -117.90033330000001,
-      "depth": 0.76
     },
     {
       "occurrenceTimeMillis": 1562801625640,
@@ -10710,13 +9533,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 3.06
     },
     {
-      "occurrenceTimeMillis": 1562803734460,
-      "mag": 3.09,
-      "latitude": 36.1739998,
-      "longitude": -117.88416290000002,
-      "depth": 0.42
-    },
-    {
       "occurrenceTimeMillis": 1562803854850,
       "mag": 2.57,
       "latitude": 35.5733333,
@@ -10724,46 +9540,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 10.56
     },
     {
-      "occurrenceTimeMillis": 1562803901590,
-      "mag": 2.68,
-      "latitude": 36.1565,
-      "longitude": -117.86616669999998,
-      "depth": 1.97
-    },
-    {
-      "occurrenceTimeMillis": 1562804077330,
-      "mag": 4.52,
-      "latitude": 36.1763333,
-      "longitude": -117.88333330000002,
-      "depth": 0.78
-    },
-    {
-      "occurrenceTimeMillis": 1562804139320,
-      "mag": 4.37,
-      "latitude": 36.1495,
-      "longitude": -117.87550000000002,
-      "depth": 1.93
-    },
-    {
-      "occurrenceTimeMillis": 1562804419890,
-      "mag": 3.4,
-      "latitude": 36.1764984,
-      "longitude": -117.8896637,
-      "depth": 0.0
-    },
-    {
       "occurrenceTimeMillis": 1562805344360,
       "mag": 2.95,
       "latitude": 35.8851662,
       "longitude": -117.72149660000001,
       "depth": 2.3
-    },
-    {
-      "occurrenceTimeMillis": 1562805773310,
-      "mag": 3.07,
-      "latitude": 36.1793333,
-      "longitude": -117.8766667,
-      "depth": 2.57
     },
     {
       "occurrenceTimeMillis": 1562805969520,
@@ -10815,20 +9596,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 6.38
     },
     {
-      "occurrenceTimeMillis": 1562813959560,
-      "mag": 3.14,
-      "latitude": 19.659,
-      "longitude": -67.9763,
-      "depth": 15.0
-    },
-    {
-      "occurrenceTimeMillis": 1562815164580,
-      "mag": 2.57,
-      "latitude": 36.1596667,
-      "longitude": -117.8675,
-      "depth": 2.35
-    },
-    {
       "occurrenceTimeMillis": 1562816753460,
       "mag": 2.74,
       "latitude": 36.052,
@@ -10855,13 +9622,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 36.0621681,
       "longitude": -117.8509979,
       "depth": 0.89
-    },
-    {
-      "occurrenceTimeMillis": 1562819394490,
-      "mag": 2.98,
-      "latitude": 36.1776657,
-      "longitude": -117.878334,
-      "depth": 2.2
     },
     {
       "occurrenceTimeMillis": 1562820331100,
@@ -10927,20 +9687,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 1.54
     },
     {
-      "occurrenceTimeMillis": 1562828645720,
-      "mag": 4.02,
-      "latitude": 36.1780014,
-      "longitude": -117.8866653,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562829453352,
-      "mag": 3.3,
-      "latitude": 69.43,
-      "longitude": -144.7867,
-      "depth": 0.0
-    },
-    {
       "occurrenceTimeMillis": 1562829575370,
       "mag": 2.69,
       "latitude": 35.7176667,
@@ -10948,25 +9694,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.79
     },
     {
-      "occurrenceTimeMillis": 1562829590010,
-      "mag": 3.53,
-      "latitude": 36.1790009,
-      "longitude": -117.8830032,
-      "depth": 1.58
-    },
-    {
       "occurrenceTimeMillis": 1562830087410,
       "mag": 2.85,
       "latitude": 35.6111667,
       "longitude": -117.4631667,
       "depth": 9.53
-    },
-    {
-      "occurrenceTimeMillis": 1562830276615,
-      "mag": 3.3,
-      "latitude": 67.2417,
-      "longitude": -143.90320000000003,
-      "depth": 13.3
     },
     {
       "occurrenceTimeMillis": 1562830342430,
@@ -11032,25 +9764,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.34
     },
     {
-      "occurrenceTimeMillis": 1562843847630,
-      "mag": 3.13,
-      "latitude": 36.1565018,
-      "longitude": -117.87933349999999,
-      "depth": 0.93
-    },
-    {
       "occurrenceTimeMillis": 1562845053850,
       "mag": 2.99,
       "latitude": 35.6173325,
       "longitude": -117.4213333,
       "depth": 2.45
-    },
-    {
-      "occurrenceTimeMillis": 1562845178060,
-      "mag": 2.72,
-      "latitude": 36.1855,
-      "longitude": -117.88499999999999,
-      "depth": 1.44
     },
     {
       "occurrenceTimeMillis": 1562846876140,
@@ -11081,13 +9799,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 1.63
     },
     {
-      "occurrenceTimeMillis": 1562849651420,
-      "mag": 2.68,
-      "latitude": 36.1773333,
-      "longitude": -117.87766670000002,
-      "depth": 2.78
-    },
-    {
       "occurrenceTimeMillis": 1562850793570,
       "mag": 3.14,
       "latitude": 35.8213348,
@@ -11109,25 +9820,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 2.13
     },
     {
-      "occurrenceTimeMillis": 1562858571210,
-      "mag": 2.75,
-      "latitude": 36.152,
-      "longitude": -117.86966670000001,
-      "depth": 0.0
-    },
-    {
       "occurrenceTimeMillis": 1562859164930,
       "mag": 3.81,
       "latitude": 35.6888333,
       "longitude": -117.51499999999999,
       "depth": 7.14
-    },
-    {
-      "occurrenceTimeMillis": 1562859172120,
-      "mag": 3.87,
-      "latitude": 36.152832,
-      "longitude": -117.87883,
-      "depth": 0.14
     },
     {
       "occurrenceTimeMillis": 1562860260370,
@@ -11137,46 +9834,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 10.56
     },
     {
-      "occurrenceTimeMillis": 1562860266290,
-      "mag": 3.26,
-      "latitude": 36.1828346,
-      "longitude": -117.8830032,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562860396850,
-      "mag": 2.73,
-      "latitude": 37.5138333,
-      "longitude": -118.87666669999999,
-      "depth": 5.75
-    },
-    {
-      "occurrenceTimeMillis": 1562861948670,
-      "mag": 3.72,
-      "latitude": 36.1813316,
-      "longitude": -117.8816681,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562863248160,
-      "mag": 3.19,
-      "latitude": 36.1836667,
-      "longitude": -117.85550000000002,
-      "depth": 0.0
-    },
-    {
       "occurrenceTimeMillis": 1562863268430,
       "mag": 3.53,
       "latitude": 35.7023315,
       "longitude": -117.50916290000002,
       "depth": 1.31
-    },
-    {
-      "occurrenceTimeMillis": 1562863754965,
-      "mag": 3.1,
-      "latitude": 69.2883,
-      "longitude": -144.6726,
-      "depth": 4.3
     },
     {
       "occurrenceTimeMillis": 1562865804900,
@@ -11214,13 +9876,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 0.27
     },
     {
-      "occurrenceTimeMillis": 1562872053960,
-      "mag": 2.61,
-      "latitude": 36.18800000000001,
-      "longitude": -117.8751667,
-      "depth": 2.35
-    },
-    {
       "occurrenceTimeMillis": 1562872413230,
       "mag": 2.62,
       "latitude": 36.044,
@@ -11242,53 +9897,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 7.93
     },
     {
-      "occurrenceTimeMillis": 1562877376300,
-      "mag": 2.53,
-      "latitude": 35.61533333,
-      "longitude": -97.94883333,
-      "depth": 6.54
-    },
-    {
       "occurrenceTimeMillis": 1562880999520,
       "mag": 2.66,
       "latitude": 35.7291667,
       "longitude": -117.55183330000001,
       "depth": 4.18
-    },
-    {
-      "occurrenceTimeMillis": 1562881363360,
-      "mag": 2.54,
-      "latitude": 36.1901667,
-      "longitude": -117.893,
-      "depth": 0.71
-    },
-    {
-      "occurrenceTimeMillis": 1562883093550,
-      "mag": 2.5,
-      "latitude": 61.18829999999999,
-      "longitude": -152.5731,
-      "depth": 6.6
-    },
-    {
-      "occurrenceTimeMillis": 1562884677130,
-      "mag": 2.65,
-      "latitude": 36.1821667,
-      "longitude": -117.8895,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562886400040,
-      "mag": 2.8,
-      "latitude": 41.1542,
-      "longitude": -116.5415,
-      "depth": 9.2
-    },
-    {
-      "occurrenceTimeMillis": 1562887272780,
-      "mag": 2.56,
-      "latitude": 36.1756667,
-      "longitude": -117.888,
-      "depth": 0.84
     },
     {
       "occurrenceTimeMillis": 1562888247260,
@@ -11333,46 +9946,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 0.0
     },
     {
-      "occurrenceTimeMillis": 1562893571470,
-      "mag": 2.61,
-      "latitude": 19.312,
-      "longitude": -155.4645,
-      "depth": 8.4
-    },
-    {
       "occurrenceTimeMillis": 1562894648820,
       "mag": 2.89,
       "latitude": 36.0326667,
       "longitude": -117.35000000000001,
       "depth": 3.39
-    },
-    {
-      "occurrenceTimeMillis": 1562895281063,
-      "mag": 5.2,
-      "latitude": 14.6511,
-      "longitude": -94.2871,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562896532733,
-      "mag": 2.5,
-      "latitude": 57.1971,
-      "longitude": -155.3014,
-      "depth": 6.5
-    },
-    {
-      "occurrenceTimeMillis": 1562897910060,
-      "mag": 3.65,
-      "latitude": 36.1801682,
-      "longitude": -117.88632970000002,
-      "depth": 0.65
-    },
-    {
-      "occurrenceTimeMillis": 1562899522540,
-      "mag": 2.61,
-      "latitude": 36.1893333,
-      "longitude": -117.8803333,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562901983570,
@@ -11394,13 +9972,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.8898315,
       "longitude": -117.72450260000001,
       "depth": 2.93
-    },
-    {
-      "occurrenceTimeMillis": 1562904719900,
-      "mag": 3.26,
-      "latitude": 36.1814995,
-      "longitude": -117.88400270000001,
-      "depth": 1.82
     },
     {
       "occurrenceTimeMillis": 1562905814560,
@@ -11431,13 +10002,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 7.0
     },
     {
-      "occurrenceTimeMillis": 1562918100270,
-      "mag": 2.7,
-      "latitude": 36.2005,
-      "longitude": -117.89316670000001,
-      "depth": 2.17
-    },
-    {
       "occurrenceTimeMillis": 1562918162990,
       "mag": 3.06,
       "latitude": 35.547,
@@ -11459,25 +10023,11 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 10.8
     },
     {
-      "occurrenceTimeMillis": 1562928367930,
-      "mag": 2.51,
-      "latitude": 46.8295,
-      "longitude": -119.734833333333,
-      "depth": 3.18
-    },
-    {
       "occurrenceTimeMillis": 1562929329000,
       "mag": 2.88,
       "latitude": 35.705,
       "longitude": -117.5473333,
       "depth": 3.68
-    },
-    {
-      "occurrenceTimeMillis": 1562934273810,
-      "mag": 2.53,
-      "latitude": 36.1986667,
-      "longitude": -117.8821667,
-      "depth": 2.28
     },
     {
       "occurrenceTimeMillis": 1562936415500,
@@ -11515,34 +10065,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "depth": 10.23
     },
     {
-      "occurrenceTimeMillis": 1562937421540,
-      "mag": 3.1,
-      "latitude": 20.7167,
-      "longitude": -154.7718,
-      "depth": 19.69
-    },
-    {
-      "occurrenceTimeMillis": 1562940748034,
-      "mag": 2.5,
-      "latitude": 66.1507,
-      "longitude": -164.1444,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562944752221,
-      "mag": 2.6,
-      "latitude": 56.4052,
-      "longitude": -149.3758,
-      "depth": 18.1
-    },
-    {
-      "occurrenceTimeMillis": 1562946847463,
-      "mag": 2.6,
-      "latitude": 68.997,
-      "longitude": -144.7464,
-      "depth": 0.7
-    },
-    {
       "occurrenceTimeMillis": 1562948242900,
       "mag": 2.77,
       "latitude": 35.5278333,
@@ -11562,13 +10084,6 @@ Overlapping polygons are removed according to the mean distance of the actual su
       "latitude": 35.7171667,
       "longitude": -117.5603333,
       "depth": 5.4
-    },
-    {
-      "occurrenceTimeMillis": 1562952084240,
-      "mag": 3.42,
-      "latitude": 21.4958333,
-      "longitude": -157.14950000000002,
-      "depth": 13.02
     },
     {
       "occurrenceTimeMillis": 1562954521930,
