@@ -2,7 +2,7 @@
 
 | Name | Has Results? |
 |-----|-----|
-| [ComCat M7.1 (ci38457511), ShakeMap Surfaces](2019_07_16-ComCatM7p1_ci38457511_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | no |
+| [ComCat M7.1 (ci38457511), ShakeMap Surfaces](2019_07_16-ComCatM7p1_ci38457511_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | yes |
 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces](2019_07_16-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | no |
 | [ComCat M7.1 (ci38457511), 11 Days After, ShakeMap Surfaces](2019_07_16-ComCatM7p1_ci38457511_11DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | yes |
 | [ComCat M7.1 (ci38457511), Finite Surface](2019_07_11-ComCatM7p1_ci38457511_FiniteSurface-noSpont-full_td-scale1.14/README.md) | yes |
