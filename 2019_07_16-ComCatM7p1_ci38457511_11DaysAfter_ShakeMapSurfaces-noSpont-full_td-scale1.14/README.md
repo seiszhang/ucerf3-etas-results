@@ -1,6 +1,6 @@
 # ComCat M7.1 (ci38457511), 11 Days After, ShakeMap Surfaces
 
-No simulation results are yet available, but pre-simulation analysis plots are ablable [here](config_input_plots/README.md).
+No simulation results are yet available, but pre-simulation analysis plots are available [here](config_input_plots/README.md).
 
 ## JSON Input File
 ```

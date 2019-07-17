@@ -1,6 +1,6 @@
 # ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces
 
-No simulation results are yet available, but pre-simulation analysis plots are ablable [here](config_input_plots/README.md).
+No simulation results are yet available, but pre-simulation analysis plots are available [here](config_input_plots/README.md).
 
 ## JSON Input File
 ```
@@ -9,7 +9,7 @@ No simulation results are yet available, but pre-simulation analysis plots are a
   "duration": 10.0,
   "startTimeMillis": 1562987994040,
   "includeSpontaneous": false,
-  "randomSeed": 1563314389037,
+  "randomSeed": 1563326844322,
   "binaryOutput": true,
   "binaryOutputFilters": [
     {
@@ -28,538 +28,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
   "numRetries": 3,
   "outputDir": "${ETAS_SIM_DIR}/2019_07_16-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14",
   "triggerRuptures": [
-    {
-      "occurrenceTimeMillis": 1561784138927,
-      "mag": 3.1,
-      "latitude": 55.9385,
-      "longitude": -149.79060000000004,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1561795139509,
-      "mag": 3.8,
-      "latitude": 36.3965,
-      "longitude": -113.8115,
-      "depth": 16.42
-    },
-    {
-      "occurrenceTimeMillis": 1561798122628,
-      "mag": 3.0,
-      "latitude": 66.3389,
-      "longitude": -157.562,
-      "depth": 12.2
-    },
-    {
-      "occurrenceTimeMillis": 1561799266561,
-      "mag": 3.5,
-      "latitude": 36.4251,
-      "longitude": -113.8236,
-      "depth": 9.45
-    },
-    {
-      "occurrenceTimeMillis": 1561808710597,
-      "mag": 3.1,
-      "latitude": 44.4066,
-      "longitude": -129.5417,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1561813902084,
-      "mag": 2.5,
-      "latitude": 56.079,
-      "longitude": -149.4929,
-      "depth": 10.1
-    },
-    {
-      "occurrenceTimeMillis": 1561823781358,
-      "mag": 2.7,
-      "latitude": 67.6167,
-      "longitude": -156.6581,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1561836607090,
-      "mag": 2.78,
-      "latitude": 20.688,
-      "longitude": -155.7481667,
-      "depth": 19.73
-    },
-    {
-      "occurrenceTimeMillis": 1561845682381,
-      "mag": 2.5,
-      "latitude": 69.3307,
-      "longitude": -144.3415,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1561866484761,
-      "mag": 3.1,
-      "latitude": 69.6527,
-      "longitude": -144.9939,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1561890775999,
-      "mag": 2.7,
-      "latitude": 46.8839,
-      "longitude": -112.5508,
-      "depth": 11.08
-    },
-    {
-      "occurrenceTimeMillis": 1561906810483,
-      "mag": 2.7,
-      "latitude": 69.6802,
-      "longitude": -145.0685,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1561916753070,
-      "mag": 3.2,
-      "latitude": 66.3442,
-      "longitude": -157.5814,
-      "depth": 15.7
-    },
-    {
-      "occurrenceTimeMillis": 1561936318699,
-      "mag": 3.5,
-      "latitude": 69.48220000000002,
-      "longitude": -144.2704,
-      "depth": 7.2
-    },
-    {
-      "occurrenceTimeMillis": 1561937693459,
-      "mag": 4.8,
-      "latitude": 14.3537,
-      "longitude": -92.8688,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1561938216868,
-      "mag": 4.2,
-      "latitude": 37.7874,
-      "longitude": -114.3137,
-      "depth": 3.1
-    },
-    {
-      "occurrenceTimeMillis": 1561941811230,
-      "mag": 2.63,
-      "latitude": 19.3391667,
-      "longitude": -155.1338333,
-      "depth": 6.36
-    },
-    {
-      "occurrenceTimeMillis": 1561949461567,
-      "mag": 2.9,
-      "latitude": 69.5779,
-      "longitude": -144.2006,
-      "depth": 0.1
-    },
-    {
-      "occurrenceTimeMillis": 1561959187159,
-      "mag": 4.5,
-      "latitude": 10.4738,
-      "longitude": -86.0743,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1561965147805,
-      "mag": 2.8,
-      "latitude": 66.297,
-      "longitude": -157.1237,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1561970929489,
-      "mag": 3.3,
-      "latitude": 58.52960000000001,
-      "longitude": -151.4407,
-      "depth": 17.0
-    },
-    {
-      "occurrenceTimeMillis": 1561994428574,
-      "mag": 2.5,
-      "latitude": 44.5847,
-      "longitude": -114.31540000000001,
-      "depth": 3.11
-    },
-    {
-      "occurrenceTimeMillis": 1561998915709,
-      "mag": 2.5,
-      "latitude": 39.3454,
-      "longitude": -99.4608,
-      "depth": 5.0
-    },
-    {
-      "occurrenceTimeMillis": 1562004689298,
-      "mag": 2.5,
-      "latitude": 59.7592,
-      "longitude": -136.5741,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562015820670,
-      "mag": 2.66,
-      "latitude": 35.4838333,
-      "longitude": -120.01716670000002,
-      "depth": 9.86
-    },
-    {
-      "occurrenceTimeMillis": 1562019421842,
-      "mag": 2.8,
-      "latitude": 66.3593,
-      "longitude": -157.4993,
-      "depth": 12.6
-    },
-    {
-      "occurrenceTimeMillis": 1562022634320,
-      "mag": 3.7,
-      "latitude": 61.2191,
-      "longitude": -146.8976,
-      "depth": 14.6
-    },
-    {
-      "occurrenceTimeMillis": 1562035000650,
-      "mag": 2.79,
-      "latitude": 19.471666700000004,
-      "longitude": -155.4496667,
-      "depth": 0.22
-    },
-    {
-      "occurrenceTimeMillis": 1562053035720,
-      "mag": 3.73,
-      "latitude": 19.302,
-      "longitude": -155.213,
-      "depth": 8.11
-    },
-    {
-      "occurrenceTimeMillis": 1562053735839,
-      "mag": 4.4,
-      "latitude": 3.2858,
-      "longitude": -84.2068,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562072233196,
-      "mag": 3.0,
-      "latitude": 41.136,
-      "longitude": -116.6104,
-      "depth": 6.0
-    },
-    {
-      "occurrenceTimeMillis": 1562089722790,
-      "mag": 2.87,
-      "latitude": 36.5106667,
-      "longitude": -120.767,
-      "depth": 8.55
-    },
-    {
-      "occurrenceTimeMillis": 1562091427534,
-      "mag": 4.4,
-      "latitude": 66.2753,
-      "longitude": -157.1918,
-      "depth": 7.0
-    },
-    {
-      "occurrenceTimeMillis": 1562091894856,
-      "mag": 3.2,
-      "latitude": 66.2964,
-      "longitude": -156.9305,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562094230197,
-      "mag": 2.7,
-      "latitude": 66.2826,
-      "longitude": -157.4809,
-      "depth": 11.5
-    },
-    {
-      "occurrenceTimeMillis": 1562105001140,
-      "mag": 2.75,
-      "latitude": 35.0523333,
-      "longitude": -118.93583330000001,
-      "depth": 8.3
-    },
-    {
-      "occurrenceTimeMillis": 1562105527590,
-      "mag": 2.52,
-      "latitude": 35.0518333,
-      "longitude": -118.9376667,
-      "depth": 8.45
-    },
-    {
-      "occurrenceTimeMillis": 1562106068620,
-      "mag": 3.35,
-      "latitude": 35.0513333,
-      "longitude": -118.93683329999999,
-      "depth": 7.73
-    },
-    {
-      "occurrenceTimeMillis": 1562106172090,
-      "mag": 2.83,
-      "latitude": 35.0563333,
-      "longitude": -118.93600000000002,
-      "depth": 5.14
-    },
-    {
-      "occurrenceTimeMillis": 1562107256360,
-      "mag": 3.44,
-      "latitude": 35.0503333,
-      "longitude": -118.93600000000002,
-      "depth": 8.74
-    },
-    {
-      "occurrenceTimeMillis": 1562115309893,
-      "mag": 4.5,
-      "latitude": 15.5811,
-      "longitude": -90.9433,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562122437759,
-      "mag": 2.7,
-      "latitude": 35.985,
-      "longitude": -96.81916667,
-      "depth": 5.77
-    },
-    {
-      "occurrenceTimeMillis": 1562123045260,
-      "mag": 3.18,
-      "latitude": 38.8395,
-      "longitude": -122.8228333,
-      "depth": 2.22
-    },
-    {
-      "occurrenceTimeMillis": 1562133197950,
-      "mag": 3.0,
-      "latitude": 69.1347,
-      "longitude": -144.6999,
-      "depth": 3.3
-    },
-    {
-      "occurrenceTimeMillis": 1562135869260,
-      "mag": 2.5,
-      "latitude": 69.23430000000002,
-      "longitude": -144.5945,
-      "depth": 5.65
-    },
-    {
-      "occurrenceTimeMillis": 1562137175187,
-      "mag": 3.2,
-      "latitude": 68.9733,
-      "longitude": -144.8234,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562141027004,
-      "mag": 2.7,
-      "latitude": 69.1793,
-      "longitude": -144.6223,
-      "depth": 3.7
-    },
-    {
-      "occurrenceTimeMillis": 1562142281708,
-      "mag": 2.6,
-      "latitude": 69.0307,
-      "longitude": -144.7451,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562144824966,
-      "mag": 2.7,
-      "latitude": 69.167,
-      "longitude": -144.6074,
-      "depth": 7.2
-    },
-    {
-      "occurrenceTimeMillis": 1562144860838,
-      "mag": 3.3,
-      "latitude": 69.2254,
-      "longitude": -144.5837,
-      "depth": 1.0
-    },
-    {
-      "occurrenceTimeMillis": 1562148806896,
-      "mag": 4.2,
-      "latitude": 15.657100000000002,
-      "longitude": -90.9922,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562150163931,
-      "mag": 3.9,
-      "latitude": 55.2299,
-      "longitude": -134.5404,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562150942794,
-      "mag": 2.6,
-      "latitude": 69.0573,
-      "longitude": -144.4736,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562153130666,
-      "mag": 2.6,
-      "latitude": 69.1333,
-      "longitude": -144.7122,
-      "depth": 0.8
-    },
-    {
-      "occurrenceTimeMillis": 1562156406315,
-      "mag": 2.7,
-      "latitude": 69.1453,
-      "longitude": -144.6488,
-      "depth": 7.6
-    },
-    {
-      "occurrenceTimeMillis": 1562157472493,
-      "mag": 2.7,
-      "latitude": 62.1487,
-      "longitude": -147.9198,
-      "depth": 19.1
-    },
-    {
-      "occurrenceTimeMillis": 1562159844430,
-      "mag": 3.12,
-      "latitude": 41.3181667,
-      "longitude": -126.78933330000001,
-      "depth": 9.62
-    },
-    {
-      "occurrenceTimeMillis": 1562160399072,
-      "mag": 3.8,
-      "latitude": 44.4269,
-      "longitude": -128.98,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562165761286,
-      "mag": 2.5,
-      "latitude": 60.0476,
-      "longitude": -139.7184,
-      "depth": 7.6
-    },
-    {
-      "occurrenceTimeMillis": 1562166920055,
-      "mag": 4.1,
-      "latitude": 44.397,
-      "longitude": -129.0801,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562167904691,
-      "mag": 2.5,
-      "latitude": 69.1349,
-      "longitude": -144.6641,
-      "depth": 11.3
-    },
-    {
-      "occurrenceTimeMillis": 1562174154242,
-      "mag": 2.6,
-      "latitude": 69.1847,
-      "longitude": -144.6349,
-      "depth": 1.3
-    },
-    {
-      "occurrenceTimeMillis": 1562175674498,
-      "mag": 2.6,
-      "latitude": 61.15939999999999,
-      "longitude": -152.5817,
-      "depth": 9.9
-    },
-    {
-      "occurrenceTimeMillis": 1562179229670,
-      "mag": 2.87,
-      "latitude": 46.867,
-      "longitude": -112.5251667,
-      "depth": 13.23
-    },
-    {
-      "occurrenceTimeMillis": 1562182261760,
-      "mag": 2.66,
-      "latitude": 48.9301666666667,
-      "longitude": -125.963333333333,
-      "depth": 4.98
-    },
-    {
-      "occurrenceTimeMillis": 1562184673667,
-      "mag": 3.4,
-      "latitude": 69.1437,
-      "longitude": -144.644,
-      "depth": 13.1
-    },
-    {
-      "occurrenceTimeMillis": 1562193151692,
-      "mag": 4.1,
-      "latitude": 44.4873,
-      "longitude": -128.9323,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562193755434,
-      "mag": 3.7,
-      "latitude": 44.5362,
-      "longitude": -128.7848,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562194022491,
-      "mag": 2.8,
-      "latitude": 69.2181,
-      "longitude": -144.628,
-      "depth": 14.0
-    },
-    {
-      "occurrenceTimeMillis": 1562205214442,
-      "mag": 3.1,
-      "latitude": 55.9802,
-      "longitude": -149.7502,
-      "depth": 0.7
-    },
-    {
-      "occurrenceTimeMillis": 1562206428369,
-      "mag": 2.5,
-      "latitude": 56.1352,
-      "longitude": -149.7844,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562213952526,
-      "mag": 2.5,
-      "latitude": 69.0534,
-      "longitude": -144.4752,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562214644297,
-      "mag": 6.2,
-      "latitude": 51.2215,
-      "longitude": -130.515,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562237215763,
-      "mag": 3.3,
-      "latitude": 55.6446,
-      "longitude": -149.1698,
-      "depth": 7.17
-    },
-    {
-      "occurrenceTimeMillis": 1562244697569,
-      "mag": 4.3,
-      "latitude": 55.465,
-      "longitude": -135.0371,
-      "depth": 5.0
-    },
-    {
-      "occurrenceTimeMillis": 1562256023494,
-      "mag": 2.5,
-      "latitude": 69.5751,
-      "longitude": -144.73590000000002,
-      "depth": 0.0
-    },
     {
       "occurrenceTimeMillis": 1562259775360,
       "mag": 3.98,
@@ -1356,13 +824,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 1.85
     },
     {
-      "occurrenceTimeMillis": 1562279416130,
-      "mag": 2.87,
-      "latitude": 35.0486667,
-      "longitude": -118.93216670000001,
-      "depth": 6.54
-    },
-    {
       "occurrenceTimeMillis": 1562280141650,
       "mag": 3.2,
       "latitude": 35.7211685,
@@ -1389,13 +850,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.7470016,
       "longitude": -117.5784988,
       "depth": 2.13
-    },
-    {
-      "occurrenceTimeMillis": 1562283105908,
-      "mag": 3.6,
-      "latitude": 56.2681,
-      "longitude": -148.8139,
-      "depth": 10.0
     },
     {
       "occurrenceTimeMillis": 1562283240630,
@@ -1426,13 +880,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 1.67
     },
     {
-      "occurrenceTimeMillis": 1562284685654,
-      "mag": 3.6,
-      "latitude": 56.3264,
-      "longitude": -148.7664,
-      "depth": 10.0
-    },
-    {
       "occurrenceTimeMillis": 1562285645640,
       "mag": 2.76,
       "latitude": 35.6458333,
@@ -1445,13 +892,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.7718333,
       "longitude": -117.61783330000002,
       "depth": 2.59
-    },
-    {
-      "occurrenceTimeMillis": 1562286224080,
-      "mag": 3.6,
-      "latitude": 56.3356,
-      "longitude": -148.8373,
-      "depth": 10.0
     },
     {
       "occurrenceTimeMillis": 1562286529030,
@@ -1510,25 +950,11 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 4.1
     },
     {
-      "occurrenceTimeMillis": 1562291840698,
-      "mag": 4.1,
-      "latitude": 14.2487,
-      "longitude": -93.769,
-      "depth": 10.0
-    },
-    {
       "occurrenceTimeMillis": 1562291887280,
       "mag": 2.68,
       "latitude": 35.7118333,
       "longitude": -117.46816670000001,
       "depth": 0.68
-    },
-    {
-      "occurrenceTimeMillis": 1562291888390,
-      "mag": 3.36,
-      "latitude": 31.8341667,
-      "longitude": -115.81450000000001,
-      "depth": 14.71
     },
     {
       "occurrenceTimeMillis": 1562292100910,
@@ -1636,13 +1062,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 0.41
     },
     {
-      "occurrenceTimeMillis": 1562299014938,
-      "mag": 3.3,
-      "latitude": 56.3747,
-      "longitude": -148.8708,
-      "depth": 19.99
-    },
-    {
       "occurrenceTimeMillis": 1562299898470,
       "mag": 3.53,
       "latitude": 35.7226677,
@@ -1685,13 +1104,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 4.86
     },
     {
-      "occurrenceTimeMillis": 1562303164856,
-      "mag": 2.9,
-      "latitude": 69.1815,
-      "longitude": -144.6202,
-      "depth": 1.5
-    },
-    {
       "occurrenceTimeMillis": 1562303437620,
       "mag": 3.19,
       "latitude": 35.7073326,
@@ -1727,32 +1139,11 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 0.25
     },
     {
-      "occurrenceTimeMillis": 1562306354557,
-      "mag": 3.5,
-      "latitude": 69.3883,
-      "longitude": -145.2244,
-      "depth": 20.0
-    },
-    {
-      "occurrenceTimeMillis": 1562306366067,
-      "mag": 3.2,
-      "latitude": 69.0884,
-      "longitude": -146.4386,
-      "depth": 15.0
-    },
-    {
       "occurrenceTimeMillis": 1562306963130,
       "mag": 3.65,
       "latitude": 35.6223335,
       "longitude": -117.57333369999999,
       "depth": 6.19
-    },
-    {
-      "occurrenceTimeMillis": 1562308076876,
-      "mag": 2.9,
-      "latitude": 69.2641,
-      "longitude": -144.60210000000004,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562308842510,
@@ -1832,13 +1223,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 6.61
     },
     {
-      "occurrenceTimeMillis": 1562319649682,
-      "mag": 3.1,
-      "latitude": 39.2645,
-      "longitude": -99.4755,
-      "depth": 5.0
-    },
-    {
       "occurrenceTimeMillis": 1562319989260,
       "mag": 3.51,
       "latitude": 35.6479988,
@@ -1865,13 +1249,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.68050000000001,
       "longitude": -117.4775,
       "depth": 0.83
-    },
-    {
-      "occurrenceTimeMillis": 1562323799467,
-      "mag": 3.0,
-      "latitude": 69.3114,
-      "longitude": -144.7026,
-      "depth": 5.4
     },
     {
       "occurrenceTimeMillis": 1562324246570,
@@ -1914,13 +1291,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.7505,
       "longitude": -117.5688333,
       "depth": 3.62
-    },
-    {
-      "occurrenceTimeMillis": 1562325153460,
-      "mag": 3.28,
-      "latitude": 37.4035,
-      "longitude": -118.5236667,
-      "depth": 9.29
     },
     {
       "occurrenceTimeMillis": 1562325439580,
@@ -2000,39 +1370,11 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 6.92
     },
     {
-      "occurrenceTimeMillis": 1562331098752,
-      "mag": 4.7,
-      "latitude": 51.3924,
-      "longitude": -130.5189,
-      "depth": 10.0
-    },
-    {
       "occurrenceTimeMillis": 1562331304830,
       "mag": 3.65,
       "latitude": 35.7508316,
       "longitude": -117.5633316,
       "depth": 6.9
-    },
-    {
-      "occurrenceTimeMillis": 1562331508335,
-      "mag": 5.6,
-      "latitude": 51.3371,
-      "longitude": -130.5696,
-      "depth": 5.11
-    },
-    {
-      "occurrenceTimeMillis": 1562331738107,
-      "mag": 4.6,
-      "latitude": 50.9452,
-      "longitude": -130.9642,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562331739448,
-      "mag": 4.6,
-      "latitude": 51.369,
-      "longitude": -130.3988,
-      "depth": 10.0
     },
     {
       "occurrenceTimeMillis": 1562332343380,
@@ -2047,13 +1389,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.7051667,
       "longitude": -117.5111667,
       "depth": 6.82
-    },
-    {
-      "occurrenceTimeMillis": 1562334216120,
-      "mag": 2.63,
-      "latitude": 37.4008333,
-      "longitude": -118.52650000000001,
-      "depth": 9.29
     },
     {
       "occurrenceTimeMillis": 1562334453490,
@@ -2154,13 +1489,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 2.25
     },
     {
-      "occurrenceTimeMillis": 1562350377495,
-      "mag": 2.8,
-      "latitude": 69.1788,
-      "longitude": -144.6298,
-      "depth": 19.75
-    },
-    {
       "occurrenceTimeMillis": 1562352030950,
       "mag": 2.6,
       "latitude": 35.7251667,
@@ -2252,20 +1580,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 4.21
     },
     {
-      "occurrenceTimeMillis": 1562369316460,
-      "mag": 3.3,
-      "latitude": 69.1687,
-      "longitude": -144.7054,
-      "depth": 12.1
-    },
-    {
-      "occurrenceTimeMillis": 1562369923807,
-      "mag": 2.7,
-      "latitude": 69.0422,
-      "longitude": -144.4749,
-      "depth": 0.0
-    },
-    {
       "occurrenceTimeMillis": 1562371859260,
       "mag": 2.58,
       "latitude": 35.7625,
@@ -2329,20 +1643,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 6.98
     },
     {
-      "occurrenceTimeMillis": 1562375724885,
-      "mag": 2.6,
-      "latitude": 42.6382,
-      "longitude": -111.4518,
-      "depth": 5.0
-    },
-    {
-      "occurrenceTimeMillis": 1562375874964,
-      "mag": 3.3,
-      "latitude": 42.6395,
-      "longitude": -111.4139,
-      "depth": 4.26
-    },
-    {
       "occurrenceTimeMillis": 1562378010760,
       "mag": 2.8,
       "latitude": 35.716,
@@ -2369,13 +1669,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.7715,
       "longitude": -117.6006667,
       "depth": 2.2
-    },
-    {
-      "occurrenceTimeMillis": 1562382312288,
-      "mag": 3.5,
-      "latitude": 69.4995,
-      "longitude": -144.6399,
-      "depth": 12.3
     },
     {
       "occurrenceTimeMillis": 1562382992480,
@@ -3172,13 +2465,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.8283348,
       "longitude": -117.67733000000001,
       "depth": 1.54
-    },
-    {
-      "occurrenceTimeMillis": 1562386277610,
-      "mag": 2.97,
-      "latitude": 37.1295,
-      "longitude": -118.64600000000002,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562386334170,
@@ -4413,13 +3699,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 2.32
     },
     {
-      "occurrenceTimeMillis": 1562398019244,
-      "mag": 3.2,
-      "latitude": 60.37460000000001,
-      "longitude": -147.3513,
-      "depth": 7.3
-    },
-    {
       "occurrenceTimeMillis": 1562398090450,
       "mag": 2.92,
       "latitude": 35.6415,
@@ -4600,13 +3879,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.735,
       "longitude": -117.50833330000002,
       "depth": 11.99
-    },
-    {
-      "occurrenceTimeMillis": 1562399986116,
-      "mag": 2.8,
-      "latitude": 65.4297,
-      "longitude": -162.6133,
-      "depth": 5.7
     },
     {
       "occurrenceTimeMillis": 1562399987780,
@@ -6618,13 +5890,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 2.01
     },
     {
-      "occurrenceTimeMillis": 1562431272470,
-      "mag": 2.87,
-      "latitude": 35.91416667,
-      "longitude": -99.46916667,
-      "depth": 13.46
-    },
-    {
       "occurrenceTimeMillis": 1562431325130,
       "mag": 3.51,
       "latitude": 35.8773333,
@@ -6672,13 +5937,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.694,
       "longitude": -117.55683330000001,
       "depth": 1.72
-    },
-    {
-      "occurrenceTimeMillis": 1562432888311,
-      "mag": 2.5,
-      "latitude": 60.1075,
-      "longitude": -141.5148,
-      "depth": 1.1
     },
     {
       "occurrenceTimeMillis": 1562432941490,
@@ -6784,13 +6042,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.8996658,
       "longitude": -117.7346649,
       "depth": 3.01
-    },
-    {
-      "occurrenceTimeMillis": 1562436422340,
-      "mag": 2.93,
-      "latitude": 19.3585,
-      "longitude": -154.98,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562436796120,
@@ -7052,13 +6303,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 6.64
     },
     {
-      "occurrenceTimeMillis": 1562444624660,
-      "mag": 3.02,
-      "latitude": 34.0195007,
-      "longitude": -117.21866610000001,
-      "depth": 16.1
-    },
-    {
       "occurrenceTimeMillis": 1562444673370,
       "mag": 2.69,
       "latitude": 35.6316667,
@@ -7169,13 +6413,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.6911659,
       "longitude": -117.479332,
       "depth": 5.1
-    },
-    {
-      "occurrenceTimeMillis": 1562449398952,
-      "mag": 2.8,
-      "latitude": 69.5064,
-      "longitude": -144.7603,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562450040180,
@@ -7416,13 +6653,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 9.84
     },
     {
-      "occurrenceTimeMillis": 1562460896223,
-      "mag": 2.6,
-      "latitude": 69.2056,
-      "longitude": -144.4958,
-      "depth": 8.2
-    },
-    {
       "occurrenceTimeMillis": 1562461506940,
       "mag": 3.42,
       "latitude": 35.6693344,
@@ -7549,13 +6779,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 6.51
     },
     {
-      "occurrenceTimeMillis": 1562469399138,
-      "mag": 3.1,
-      "latitude": 55.7363,
-      "longitude": -150.3888,
-      "depth": 5.18
-    },
-    {
       "occurrenceTimeMillis": 1562469646610,
       "mag": 2.78,
       "latitude": 35.8816667,
@@ -7575,13 +6798,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.767334,
       "longitude": -117.59333039999999,
       "depth": 1.59
-    },
-    {
-      "occurrenceTimeMillis": 1562471103155,
-      "mag": 2.6,
-      "latitude": 69.1829,
-      "longitude": -144.6808,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562471450450,
@@ -7617,13 +6833,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.912,
       "longitude": -117.7361667,
       "depth": 0.37
-    },
-    {
-      "occurrenceTimeMillis": 1562477189100,
-      "mag": 2.59,
-      "latitude": 40.2943333,
-      "longitude": -124.4303333,
-      "depth": 18.62
     },
     {
       "occurrenceTimeMillis": 1562477895480,
@@ -7694,13 +6903,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.632,
       "longitude": -117.4231644,
       "depth": 3.02
-    },
-    {
-      "occurrenceTimeMillis": 1562480725388,
-      "mag": 3.9,
-      "latitude": 56.51,
-      "longitude": -148.6137,
-      "depth": 19.86
     },
     {
       "occurrenceTimeMillis": 1562481673510,
@@ -7778,13 +6980,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.9078333,
       "longitude": -117.7006667,
       "depth": 2.28
-    },
-    {
-      "occurrenceTimeMillis": 1562484457920,
-      "mag": 2.72,
-      "latitude": 34.1588333,
-      "longitude": -117.47549999999998,
-      "depth": 7.05
     },
     {
       "occurrenceTimeMillis": 1562484666700,
@@ -7941,13 +7136,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 3.05
     },
     {
-      "occurrenceTimeMillis": 1562490904830,
-      "mag": 2.55,
-      "latitude": 19.1725,
-      "longitude": -155.6541667,
-      "depth": 9.68
-    },
-    {
       "occurrenceTimeMillis": 1562492483040,
       "mag": 3.45,
       "latitude": 35.7468338,
@@ -8016,13 +7204,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.802,
       "longitude": -117.56216670000002,
       "depth": 3.1
-    },
-    {
-      "occurrenceTimeMillis": 1562495242389,
-      "mag": 3.3,
-      "latitude": 66.2324,
-      "longitude": -157.2043,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562495574690,
@@ -8116,13 +7297,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 1.7
     },
     {
-      "occurrenceTimeMillis": 1562501670385,
-      "mag": 3.5,
-      "latitude": 57.0986,
-      "longitude": -149.68750000000003,
-      "depth": 10.0
-    },
-    {
       "occurrenceTimeMillis": 1562502098240,
       "mag": 2.66,
       "latitude": 35.6758333,
@@ -8163,13 +7337,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.8751667,
       "longitude": -117.69733329999998,
       "depth": 3.1
-    },
-    {
-      "occurrenceTimeMillis": 1562505474424,
-      "mag": 4.5,
-      "latitude": 8.8398,
-      "longitude": -84.3637,
-      "depth": 10.0
     },
     {
       "occurrenceTimeMillis": 1562505832330,
@@ -8319,13 +7486,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 0.11
     },
     {
-      "occurrenceTimeMillis": 1562518306400,
-      "mag": 2.66,
-      "latitude": 41.0658333,
-      "longitude": -121.60633330000002,
-      "depth": 14.32
-    },
-    {
       "occurrenceTimeMillis": 1562518846040,
       "mag": 2.61,
       "latitude": 35.7618333,
@@ -8368,13 +7528,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 2.52
     },
     {
-      "occurrenceTimeMillis": 1562522897760,
-      "mag": 3.3,
-      "latitude": 37.48400000000001,
-      "longitude": -118.74999999999999,
-      "depth": 10.59
-    },
-    {
       "occurrenceTimeMillis": 1562523559960,
       "mag": 3.28,
       "latitude": 35.8876648,
@@ -8387,13 +7540,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.9163322,
       "longitude": -117.71133420000001,
       "depth": 4.27
-    },
-    {
-      "occurrenceTimeMillis": 1562524268255,
-      "mag": 2.6,
-      "latitude": 59.7796,
-      "longitude": -148.4734,
-      "depth": 1.0
     },
     {
       "occurrenceTimeMillis": 1562524835890,
@@ -8508,13 +7654,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 7.87
     },
     {
-      "occurrenceTimeMillis": 1562533516840,
-      "mag": 2.75,
-      "latitude": 35.0503333,
-      "longitude": -118.9268333,
-      "depth": 6.39
-    },
-    {
       "occurrenceTimeMillis": 1562534129560,
       "mag": 3.79,
       "latitude": 35.947834,
@@ -8606,13 +7745,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 2.31
     },
     {
-      "occurrenceTimeMillis": 1562541159721,
-      "mag": 3.1,
-      "latitude": 47.419200000000004,
-      "longitude": -114.61219999999999,
-      "depth": 5.0
-    },
-    {
       "occurrenceTimeMillis": 1562541695660,
       "mag": 2.73,
       "latitude": 35.8705,
@@ -8688,20 +7820,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.7313333,
       "longitude": -117.5435,
       "depth": 6.89
-    },
-    {
-      "occurrenceTimeMillis": 1562553309450,
-      "mag": 2.87,
-      "latitude": 19.011,
-      "longitude": -67.7843,
-      "depth": 13.0
-    },
-    {
-      "occurrenceTimeMillis": 1562553670490,
-      "mag": 3.6,
-      "latitude": 41.1244,
-      "longitude": -116.5991,
-      "depth": 8.5
     },
     {
       "occurrenceTimeMillis": 1562553749080,
@@ -8865,13 +7983,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 2.68
     },
     {
-      "occurrenceTimeMillis": 1562566504200,
-      "mag": 2.83,
-      "latitude": 35.1355,
-      "longitude": -95.33833333,
-      "depth": 10.44
-    },
-    {
       "occurrenceTimeMillis": 1562566688290,
       "mag": 3.04,
       "latitude": 35.9613342,
@@ -8954,13 +8065,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 36.1191673,
       "longitude": -117.8598328,
       "depth": 2.88
-    },
-    {
-      "occurrenceTimeMillis": 1562575449081,
-      "mag": 4.1,
-      "latitude": 56.2779,
-      "longitude": -154.0522,
-      "depth": 9.9
     },
     {
       "occurrenceTimeMillis": 1562576420790,
@@ -9096,13 +8200,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 7.62
     },
     {
-      "occurrenceTimeMillis": 1562592794421,
-      "mag": 2.9,
-      "latitude": 56.2731,
-      "longitude": -150.42540000000002,
-      "depth": 0.0
-    },
-    {
       "occurrenceTimeMillis": 1562593146960,
       "mag": 2.67,
       "latitude": 35.5506667,
@@ -9150,13 +8247,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.9118333,
       "longitude": -117.73666670000001,
       "depth": 2.31
-    },
-    {
-      "occurrenceTimeMillis": 1562600255174,
-      "mag": 2.6,
-      "latitude": 69.595,
-      "longitude": -144.1932,
-      "depth": 0.0
     },
     {
       "occurrenceTimeMillis": 1562601868110,
@@ -9227,13 +8317,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.6986667,
       "longitude": -117.54433330000002,
       "depth": 1.97
-    },
-    {
-      "occurrenceTimeMillis": 1562605376715,
-      "mag": 2.6,
-      "latitude": 32.5379,
-      "longitude": -97.223,
-      "depth": 5.0
     },
     {
       "occurrenceTimeMillis": 1562605503360,
@@ -9362,13 +8445,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 2.73
     },
     {
-      "occurrenceTimeMillis": 1562623904290,
-      "mag": 2.51,
-      "latitude": 18.7998,
-      "longitude": -67.2001,
-      "depth": 19.0
-    },
-    {
       "occurrenceTimeMillis": 1562624329280,
       "mag": 3.15,
       "latitude": 35.929,
@@ -9402,13 +8478,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 36.0485001,
       "longitude": -117.847168,
       "depth": 1.67
-    },
-    {
-      "occurrenceTimeMillis": 1562628027484,
-      "mag": 4.3,
-      "latitude": 69.1086,
-      "longitude": -144.64110000000002,
-      "depth": 13.1
     },
     {
       "occurrenceTimeMillis": 1562628221620,
@@ -9530,13 +8599,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 2.37
     },
     {
-      "occurrenceTimeMillis": 1562652681471,
-      "mag": 2.6,
-      "latitude": 66.2138,
-      "longitude": -157.3167,
-      "depth": 11.7
-    },
-    {
       "occurrenceTimeMillis": 1562653450860,
       "mag": 3.01,
       "latitude": 35.897167200000005,
@@ -9556,20 +8618,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.8578339,
       "longitude": -117.69000240000001,
       "depth": 5.68
-    },
-    {
-      "occurrenceTimeMillis": 1562655033237,
-      "mag": 2.7,
-      "latitude": 39.8419,
-      "longitude": -117.32020000000001,
-      "depth": 2.2
-    },
-    {
-      "occurrenceTimeMillis": 1562655287208,
-      "mag": 2.7,
-      "latitude": 52.23360000000001,
-      "longitude": -173.2371,
-      "depth": 6.4
     },
     {
       "occurrenceTimeMillis": 1562655660460,
@@ -9677,25 +8725,11 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 4.58
     },
     {
-      "occurrenceTimeMillis": 1562669442070,
-      "mag": 2.99,
-      "latitude": 37.48400000000001,
-      "longitude": -118.7473333,
-      "depth": 10.52
-    },
-    {
       "occurrenceTimeMillis": 1562669446860,
       "mag": 2.65,
       "latitude": 35.75,
       "longitude": -117.56916670000001,
       "depth": 7.93
-    },
-    {
-      "occurrenceTimeMillis": 1562671813140,
-      "mag": 2.79,
-      "latitude": 40.2913333,
-      "longitude": -124.3408333,
-      "depth": 8.68
     },
     {
       "occurrenceTimeMillis": 1562672364420,
@@ -9726,13 +8760,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 2.11
     },
     {
-      "occurrenceTimeMillis": 1562678422501,
-      "mag": 2.6,
-      "latitude": 61.22140000000001,
-      "longitude": -152.5259,
-      "depth": 5.6
-    },
-    {
       "occurrenceTimeMillis": 1562678927730,
       "mag": 3.22,
       "latitude": 35.5453339,
@@ -9747,32 +8774,11 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 6.92
     },
     {
-      "occurrenceTimeMillis": 1562681972210,
-      "mag": 2.61,
-      "latitude": 35.842,
-      "longitude": -98.07416667000001,
-      "depth": 6.5
-    },
-    {
       "occurrenceTimeMillis": 1562682057200,
       "mag": 2.57,
       "latitude": 35.9508333,
       "longitude": -117.7025,
       "depth": 3.52
-    },
-    {
-      "occurrenceTimeMillis": 1562683449019,
-      "mag": 3.11,
-      "latitude": 35.83766667,
-      "longitude": -98.07916667,
-      "depth": 6.29
-    },
-    {
-      "occurrenceTimeMillis": 1562683941539,
-      "mag": 2.59,
-      "latitude": 35.8435,
-      "longitude": -98.07516667,
-      "depth": 6.78
     },
     {
       "occurrenceTimeMillis": 1562684967080,
@@ -9803,13 +8809,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 1.82
     },
     {
-      "occurrenceTimeMillis": 1562689622980,
-      "mag": 3.0,
-      "latitude": 66.3254,
-      "longitude": -157.41220000000004,
-      "depth": 4.0
-    },
-    {
       "occurrenceTimeMillis": 1562690823150,
       "mag": 3.46,
       "latitude": 35.8921661,
@@ -9829,13 +8828,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.656,
       "longitude": -117.48533330000001,
       "depth": 1.27
-    },
-    {
-      "occurrenceTimeMillis": 1562696128570,
-      "mag": 2.78,
-      "latitude": 40.3453333,
-      "longitude": -125.153,
-      "depth": 8.65
     },
     {
       "occurrenceTimeMillis": 1562697457410,
@@ -9971,13 +8963,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 2.02
     },
     {
-      "occurrenceTimeMillis": 1562714678050,
-      "mag": 2.63,
-      "latitude": 32.9633333,
-      "longitude": -115.5478333,
-      "depth": 9.41
-    },
-    {
       "occurrenceTimeMillis": 1562715847240,
       "mag": 2.6,
       "latitude": 36.0553333,
@@ -10069,13 +9054,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 2.57
     },
     {
-      "occurrenceTimeMillis": 1562723939140,
-      "mag": 2.9,
-      "latitude": 35.34666670000001,
-      "longitude": -117.9381667,
-      "depth": 0.9
-    },
-    {
       "occurrenceTimeMillis": 1562726023690,
       "mag": 2.67,
       "latitude": 35.6953333,
@@ -10095,13 +9073,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.9456673,
       "longitude": -117.682663,
       "depth": 3.41
-    },
-    {
-      "occurrenceTimeMillis": 1562733259400,
-      "mag": 2.7,
-      "latitude": 38.5106,
-      "longitude": -118.3471,
-      "depth": 7.0
     },
     {
       "occurrenceTimeMillis": 1562739573550,
@@ -10328,13 +9299,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 7.54
     },
     {
-      "occurrenceTimeMillis": 1562769653557,
-      "mag": 2.7,
-      "latitude": 61.335100000000004,
-      "longitude": -154.0121,
-      "depth": 12.6
-    },
-    {
       "occurrenceTimeMillis": 1562770386020,
       "mag": 3.52,
       "latitude": 36.0481682,
@@ -10552,13 +9516,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 0.34
     },
     {
-      "occurrenceTimeMillis": 1562801623610,
-      "mag": 2.94,
-      "latitude": 35.365,
-      "longitude": -117.90033330000001,
-      "depth": 0.76
-    },
-    {
       "occurrenceTimeMillis": 1562801625640,
       "mag": 2.78,
       "latitude": 35.9121667,
@@ -10699,13 +9656,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 6.38
     },
     {
-      "occurrenceTimeMillis": 1562813959560,
-      "mag": 3.14,
-      "latitude": 19.659,
-      "longitude": -67.9763,
-      "depth": 15.0
-    },
-    {
       "occurrenceTimeMillis": 1562815164580,
       "mag": 2.57,
       "latitude": 36.1596667,
@@ -10818,13 +9768,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 0.0
     },
     {
-      "occurrenceTimeMillis": 1562829453352,
-      "mag": 3.3,
-      "latitude": 69.43,
-      "longitude": -144.7867,
-      "depth": 0.0
-    },
-    {
       "occurrenceTimeMillis": 1562829575370,
       "mag": 2.69,
       "latitude": 35.7176667,
@@ -10844,13 +9787,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.6111667,
       "longitude": -117.4631667,
       "depth": 9.53
-    },
-    {
-      "occurrenceTimeMillis": 1562830276615,
-      "mag": 3.3,
-      "latitude": 67.2417,
-      "longitude": -143.90320000000003,
-      "depth": 13.3
     },
     {
       "occurrenceTimeMillis": 1562830342430,
@@ -11028,13 +9964,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 0.0
     },
     {
-      "occurrenceTimeMillis": 1562860396850,
-      "mag": 2.73,
-      "latitude": 37.5138333,
-      "longitude": -118.87666669999999,
-      "depth": 5.75
-    },
-    {
       "occurrenceTimeMillis": 1562861948670,
       "mag": 3.72,
       "latitude": 36.1813316,
@@ -11054,13 +9983,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.7023315,
       "longitude": -117.50916290000002,
       "depth": 1.31
-    },
-    {
-      "occurrenceTimeMillis": 1562863754965,
-      "mag": 3.1,
-      "latitude": 69.2883,
-      "longitude": -144.6726,
-      "depth": 4.3
     },
     {
       "occurrenceTimeMillis": 1562865804900,
@@ -11126,13 +10048,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 7.93
     },
     {
-      "occurrenceTimeMillis": 1562877376300,
-      "mag": 2.53,
-      "latitude": 35.61533333,
-      "longitude": -97.94883333,
-      "depth": 6.54
-    },
-    {
       "occurrenceTimeMillis": 1562880999520,
       "mag": 2.66,
       "latitude": 35.7291667,
@@ -11147,25 +10062,11 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 0.71
     },
     {
-      "occurrenceTimeMillis": 1562883093550,
-      "mag": 2.5,
-      "latitude": 61.18829999999999,
-      "longitude": -152.5731,
-      "depth": 6.6
-    },
-    {
       "occurrenceTimeMillis": 1562884677130,
       "mag": 2.65,
       "latitude": 36.1821667,
       "longitude": -117.8895,
       "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562886400040,
-      "mag": 2.8,
-      "latitude": 41.1542,
-      "longitude": -116.5415,
-      "depth": 9.2
     },
     {
       "occurrenceTimeMillis": 1562887272780,
@@ -11217,32 +10118,11 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 0.0
     },
     {
-      "occurrenceTimeMillis": 1562893571470,
-      "mag": 2.61,
-      "latitude": 19.312,
-      "longitude": -155.4645,
-      "depth": 8.4
-    },
-    {
       "occurrenceTimeMillis": 1562894648820,
       "mag": 2.89,
       "latitude": 36.0326667,
       "longitude": -117.35000000000001,
       "depth": 3.39
-    },
-    {
-      "occurrenceTimeMillis": 1562895281063,
-      "mag": 5.2,
-      "latitude": 14.6511,
-      "longitude": -94.2871,
-      "depth": 10.0
-    },
-    {
-      "occurrenceTimeMillis": 1562896532733,
-      "mag": 2.5,
-      "latitude": 57.1971,
-      "longitude": -155.3014,
-      "depth": 6.5
     },
     {
       "occurrenceTimeMillis": 1562897910060,
@@ -11343,13 +10223,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 10.8
     },
     {
-      "occurrenceTimeMillis": 1562928367930,
-      "mag": 2.51,
-      "latitude": 46.8295,
-      "longitude": -119.734833333333,
-      "depth": 3.18
-    },
-    {
       "occurrenceTimeMillis": 1562929329000,
       "mag": 2.88,
       "latitude": 35.705,
@@ -11399,34 +10272,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "depth": 10.23
     },
     {
-      "occurrenceTimeMillis": 1562937421540,
-      "mag": 3.1,
-      "latitude": 20.7167,
-      "longitude": -154.7718,
-      "depth": 19.69
-    },
-    {
-      "occurrenceTimeMillis": 1562940748034,
-      "mag": 2.5,
-      "latitude": 66.1507,
-      "longitude": -164.1444,
-      "depth": 0.0
-    },
-    {
-      "occurrenceTimeMillis": 1562944752221,
-      "mag": 2.6,
-      "latitude": 56.4052,
-      "longitude": -149.3758,
-      "depth": 18.1
-    },
-    {
-      "occurrenceTimeMillis": 1562946847463,
-      "mag": 2.6,
-      "latitude": 68.997,
-      "longitude": -144.7464,
-      "depth": 0.7
-    },
-    {
       "occurrenceTimeMillis": 1562948242900,
       "mag": 2.77,
       "latitude": 35.5278333,
@@ -11446,13 +10291,6 @@ No simulation results are yet available, but pre-simulation analysis plots are a
       "latitude": 35.7171667,
       "longitude": -117.5603333,
       "depth": 5.4
-    },
-    {
-      "occurrenceTimeMillis": 1562952084240,
-      "mag": 3.42,
-      "latitude": 21.4958333,
-      "longitude": -157.14950000000002,
-      "depth": 13.02
     },
     {
       "occurrenceTimeMillis": 1562954521930,
@@ -11552,9 +10390,188 @@ No simulation results are yet available, but pre-simulation analysis plots are a
   "gridSeisDiscr": 0.1,
   "catalogCompletenessModel": "RELAXED",
   "comcatRegion": {
-    "centerLatitude": 35.7695,
-    "centerLongitude": -117.59933329999998,
-    "radius": 47.75292736576897
+    "border": [
+      {
+        "latitude": 35.15123745324938,
+        "longitude": -117.46198765392752
+      },
+      {
+        "latitude": 35.170513097218205,
+        "longitude": -117.55046477274733
+      },
+      {
+        "latitude": 35.201997575622634,
+        "longitude": -117.63356287896195
+      },
+      {
+        "latitude": 35.24474776584818,
+        "longitude": -117.70878534540662
+      },
+      {
+        "latitude": 35.29030244291857,
+        "longitude": -117.7650027179687
+      },
+      {
+        "latitude": 35.28979894832488,
+        "longitude": -117.7657059692625
+      },
+      {
+        "latitude": 35.599352334844,
+        "longitude": -118.10406638799292
+      },
+      {
+        "latitude": 35.59991798729306,
+        "longitude": -118.1032787187642
+      },
+      {
+        "latitude": 35.59991798729306,
+        "longitude": -118.10327871876426
+      },
+      {
+        "latitude": 35.6081394160588,
+        "longitude": -118.11346457171017
+      },
+      {
+        "latitude": 35.66926981044508,
+        "longitude": -118.1666275188854
+      },
+      {
+        "latitude": 35.73695892585081,
+        "longitude": -118.20599267135113
+      },
+      {
+        "latitude": 35.80916411728616,
+        "longitude": -118.23033589945786
+      },
+      {
+        "latitude": 35.8837008101987,
+        "longitude": -118.23887921717626
+      },
+      {
+        "latitude": 35.95830771861983,
+        "longitude": -118.2313189434723
+      },
+      {
+        "latitude": 36.030715089420035,
+        "longitude": -118.20784020820832
+      },
+      {
+        "latitude": 36.09871396695588,
+        "longitude": -118.16911673663371
+      },
+      {
+        "latitude": 36.16022434972565,
+        "longitude": -118.11629525880562
+      },
+      {
+        "latitude": 36.21336005220017,
+        "longitude": -118.05096440373305
+      },
+      {
+        "latitude": 36.25648810437343,
+        "longitude": -117.97510853634732
+      },
+      {
+        "latitude": 36.28828062939993,
+        "longitude": -117.8910476483114
+      },
+      {
+        "latitude": 36.307757341513756,
+        "longitude": -117.8013650783672
+      },
+      {
+        "latitude": 36.31431710102649,
+        "longitude": -117.70882546279998
+      },
+      {
+        "latitude": 36.307757341513756,
+        "longitude": -117.61628584723277
+      },
+      {
+        "latitude": 36.28828062939993,
+        "longitude": -117.52660327728856
+      },
+      {
+        "latitude": 36.25648810437343,
+        "longitude": -117.44254238925264
+      },
+      {
+        "latitude": 36.21336005220017,
+        "longitude": -117.36668652186691
+      },
+      {
+        "latitude": 36.16849978031224,
+        "longitude": -117.31153038795429
+      },
+      {
+        "latitude": 36.1690738860583,
+        "longitude": -117.3107309475365
+      },
+      {
+        "latitude": 35.857302712860964,
+        "longitude": -116.9730504737608
+      },
+      {
+        "latitude": 35.85679179423907,
+        "longitude": -116.9737640944955
+      },
+      {
+        "latitude": 35.849566414597014,
+        "longitude": -116.96491461360324
+      },
+      {
+        "latitude": 35.78805819220281,
+        "longitude": -116.9122967694479
+      },
+      {
+        "latitude": 35.72006106557635,
+        "longitude": -116.87372034968973
+      },
+      {
+        "latitude": 35.64765482528862,
+        "longitude": -116.85032807444419
+      },
+      {
+        "latitude": 35.57304829206068,
+        "longitude": -116.8427916482061
+      },
+      {
+        "latitude": 35.49851117585832,
+        "longitude": -116.8512961557198
+      },
+      {
+        "latitude": 35.42630481575459,
+        "longitude": -116.87553976530553
+      },
+      {
+        "latitude": 35.35861392859174,
+        "longitude": -116.91474809853695
+      },
+      {
+        "latitude": 35.29748137319737,
+        "longitude": -116.96770221389164
+      },
+      {
+        "latitude": 35.24474776584818,
+        "longitude": -117.03277884359336
+      },
+      {
+        "latitude": 35.201997575622634,
+        "longitude": -117.10800131003803
+      },
+      {
+        "latitude": 35.170513097218205,
+        "longitude": -117.19109941625265
+      },
+      {
+        "latitude": 35.15123745324938,
+        "longitude": -117.27957653507247
+      },
+      {
+        "latitude": 35.14474752487352,
+        "longitude": -117.3707820945
+      }
+    ]
   }
 }
 ```
