@@ -1,2 +1,2 @@
 *.bin
-sim_*
+*/results/sim_*
