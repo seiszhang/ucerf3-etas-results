@@ -15,6 +15,7 @@
 
 ## Table Of Contents
 
+* [Probabilities Summary Table](#probabilities-summary-table)
 * [Magnitude Number Distribution](#magnitude-number-distribution)
   * [10 Year Magnitude Number Distribution](#10-year-magnitude-number-distribution)
   * [1 Year Magnitude Number Distribution](#1-year-magnitude-number-distribution)
@@ -41,6 +42,22 @@
   * [Fault Magnitude-Probability Distributions](#fault-magnitude-probability-distributions)
 * [Gridded Nucleation](#gridded-nucleation)
 * [JSON Input File](#json-input-file)
+
+## Probabilities Summary Table
+*[(top)](#table-of-contents)*
+
+| Magnitude | 1 Hour Prob | 1 Day Prob | 1 Week Prob | 1 Month Prob | 1 Year Prob | 10 Year Prob |
+|-----|-----|-----|-----|-----|-----|-----|
+| **M&ge;4** | 1.000 (100.00%) | 1.000 (100.00%) | 1.000 (100.00%) | 1.000 (100.00%) | 1.000 (100.00%) | 1.000 (100.00%) |
+| **M&ge;4.5** | 0.991 (99.11%) | 1.000 (100.00%) | 1.000 (100.00%) | 1.000 (100.00%) | 1.000 (100.00%) | 1.000 (100.00%) |
+| **M&ge;5** | 0.773 (77.33%) | 0.978 (97.78%) | 0.995 (99.51%) | 0.998 (99.85%) | 1.000 (99.98%) | 1.000 (100.00%) |
+| **M&ge;5.5** | 0.360 (36.02%) | 0.690 (68.96%) | 0.815 (81.52%) | 0.878 (87.82%) | 0.939 (93.95%) | 0.967 (96.73%) |
+| **M&ge;6** | 0.111 (11.14%) | 0.270 (27.01%) | 0.371 (37.13%) | 0.443 (44.32%) | 0.552 (55.23%) | 0.634 (63.41%) |
+| **M&ge;6.5** | 0.025 (2.49%) | 0.067 (6.66%) | 0.098 (9.80%) | 0.122 (12.23%) | 0.166 (16.62%) | 0.207 (20.67%) |
+| **M&ge;7** | 9.13E-3 (0.91%) | 0.025 (2.48%) | 0.036 (3.59%) | 0.045 (4.48%) | 0.061 (6.13%) | 0.077 (7.75%) |
+| **M&ge;7.1** | 7.65E-3 (0.77%) | 0.020 (2.05%) | 0.030 (2.99%) | 0.037 (3.71%) | 0.051 (5.11%) | 0.065 (6.49%) |
+| **M&ge;7.5** | 2.49E-3 (0.25%) | 7.25E-3 (0.73%) | 0.011 (1.06%) | 0.013 (1.30%) | 0.019 (1.85%) | 0.024 (2.37%) |
+| **M&ge;8** | 5.00E-5 (0.01%) | 1.00E-4 (0.01%) | 1.80E-4 (0.02%) | 2.00E-4 (0.02%) | 2.70E-4 (0.03%) | 3.90E-4 (0.04%) |
 
 ## Magnitude Number Distribution
 *[(top)](#table-of-contents)*
@@ -647,12 +664,12 @@ These plots show how the probability of ruptures of various magnitudes within 10
 
 These are map plots of individual catalogs from the simulations, selected as the closest catalog to each of the given percentiles in terms of total number of events.
 
-| Duration | p0.0 %-ile | p25.0 %-ile | p50.0 %-ile | p75.0 %-ile | p90.0 %-ile | p95.0 %-ile | p97.5 %-ile | p98.0 %-ile | p99.0 %-ile | p100.0 %-ile |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| **1 Week** | ![Map](plots/sim_catalog_map_p0.0_1wk.png) | ![Map](plots/sim_catalog_map_p25.0_1wk.png) | ![Map](plots/sim_catalog_map_p50.0_1wk.png) | ![Map](plots/sim_catalog_map_p75.0_1wk.png) | ![Map](plots/sim_catalog_map_p90.0_1wk.png) | ![Map](plots/sim_catalog_map_p95.0_1wk.png) | ![Map](plots/sim_catalog_map_p97.5_1wk.png) | ![Map](plots/sim_catalog_map_p98.0_1wk.png) | ![Map](plots/sim_catalog_map_p99.0_1wk.png) | ![Map](plots/sim_catalog_map_p100.0_1wk.png) |
-| **1 Month** | ![Map](plots/sim_catalog_map_p0.0_1mo.png) | ![Map](plots/sim_catalog_map_p25.0_1mo.png) | ![Map](plots/sim_catalog_map_p50.0_1mo.png) | ![Map](plots/sim_catalog_map_p75.0_1mo.png) | ![Map](plots/sim_catalog_map_p90.0_1mo.png) | ![Map](plots/sim_catalog_map_p95.0_1mo.png) | ![Map](plots/sim_catalog_map_p97.5_1mo.png) | ![Map](plots/sim_catalog_map_p98.0_1mo.png) | ![Map](plots/sim_catalog_map_p99.0_1mo.png) | ![Map](plots/sim_catalog_map_p100.0_1mo.png) |
-| **1 Year** | ![Map](plots/sim_catalog_map_p0.0_1yr.png) | ![Map](plots/sim_catalog_map_p25.0_1yr.png) | ![Map](plots/sim_catalog_map_p50.0_1yr.png) | ![Map](plots/sim_catalog_map_p75.0_1yr.png) | ![Map](plots/sim_catalog_map_p90.0_1yr.png) | ![Map](plots/sim_catalog_map_p95.0_1yr.png) | ![Map](plots/sim_catalog_map_p97.5_1yr.png) | ![Map](plots/sim_catalog_map_p98.0_1yr.png) | ![Map](plots/sim_catalog_map_p99.0_1yr.png) | ![Map](plots/sim_catalog_map_p100.0_1yr.png) |
-| **10 Year** | ![Map](plots/sim_catalog_map_p0.0_10yr.png) | ![Map](plots/sim_catalog_map_p25.0_10yr.png) | ![Map](plots/sim_catalog_map_p50.0_10yr.png) | ![Map](plots/sim_catalog_map_p75.0_10yr.png) | ![Map](plots/sim_catalog_map_p90.0_10yr.png) | ![Map](plots/sim_catalog_map_p95.0_10yr.png) | ![Map](plots/sim_catalog_map_p97.5_10yr.png) | ![Map](plots/sim_catalog_map_p98.0_10yr.png) | ![Map](plots/sim_catalog_map_p99.0_10yr.png) | ![Map](plots/sim_catalog_map_p100.0_10yr.png) |
+| Duration | p0.0 %-ile | p25.0 %-ile | p50.0 %-ile | p75.0 %-ile | p90.0 %-ile | p95.0 %-ile | p97.5 %-ile | p98.0 %-ile | p99.0 %-ile | p99.5 %-ile | p99.9 %-ile | p100.0 %-ile |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| **1 Week** | ![Map](plots/sim_catalog_map_p0.0_1wk.png) | ![Map](plots/sim_catalog_map_p25.0_1wk.png) | ![Map](plots/sim_catalog_map_p50.0_1wk.png) | ![Map](plots/sim_catalog_map_p75.0_1wk.png) | ![Map](plots/sim_catalog_map_p90.0_1wk.png) | ![Map](plots/sim_catalog_map_p95.0_1wk.png) | ![Map](plots/sim_catalog_map_p97.5_1wk.png) | ![Map](plots/sim_catalog_map_p98.0_1wk.png) | ![Map](plots/sim_catalog_map_p99.0_1wk.png) | ![Map](plots/sim_catalog_map_p99.5_1wk.png) | ![Map](plots/sim_catalog_map_p99.9_1wk.png) | ![Map](plots/sim_catalog_map_p100.0_1wk.png) |
+| **1 Month** | ![Map](plots/sim_catalog_map_p0.0_1mo.png) | ![Map](plots/sim_catalog_map_p25.0_1mo.png) | ![Map](plots/sim_catalog_map_p50.0_1mo.png) | ![Map](plots/sim_catalog_map_p75.0_1mo.png) | ![Map](plots/sim_catalog_map_p90.0_1mo.png) | ![Map](plots/sim_catalog_map_p95.0_1mo.png) | ![Map](plots/sim_catalog_map_p97.5_1mo.png) | ![Map](plots/sim_catalog_map_p98.0_1mo.png) | ![Map](plots/sim_catalog_map_p99.0_1mo.png) | ![Map](plots/sim_catalog_map_p99.5_1mo.png) | ![Map](plots/sim_catalog_map_p99.9_1mo.png) | ![Map](plots/sim_catalog_map_p100.0_1mo.png) |
+| **1 Year** | ![Map](plots/sim_catalog_map_p0.0_1yr.png) | ![Map](plots/sim_catalog_map_p25.0_1yr.png) | ![Map](plots/sim_catalog_map_p50.0_1yr.png) | ![Map](plots/sim_catalog_map_p75.0_1yr.png) | ![Map](plots/sim_catalog_map_p90.0_1yr.png) | ![Map](plots/sim_catalog_map_p95.0_1yr.png) | ![Map](plots/sim_catalog_map_p97.5_1yr.png) | ![Map](plots/sim_catalog_map_p98.0_1yr.png) | ![Map](plots/sim_catalog_map_p99.0_1yr.png) | ![Map](plots/sim_catalog_map_p99.5_1yr.png) | ![Map](plots/sim_catalog_map_p99.9_1yr.png) | ![Map](plots/sim_catalog_map_p100.0_1yr.png) |
+| **10 Year** | ![Map](plots/sim_catalog_map_p0.0_10yr.png) | ![Map](plots/sim_catalog_map_p25.0_10yr.png) | ![Map](plots/sim_catalog_map_p50.0_10yr.png) | ![Map](plots/sim_catalog_map_p75.0_10yr.png) | ![Map](plots/sim_catalog_map_p90.0_10yr.png) | ![Map](plots/sim_catalog_map_p95.0_10yr.png) | ![Map](plots/sim_catalog_map_p97.5_10yr.png) | ![Map](plots/sim_catalog_map_p98.0_10yr.png) | ![Map](plots/sim_catalog_map_p99.0_10yr.png) | ![Map](plots/sim_catalog_map_p99.5_10yr.png) | ![Map](plots/sim_catalog_map_p99.9_10yr.png) | ![Map](plots/sim_catalog_map_p100.0_10yr.png) |
 ## Section Participation
 *[(top)](#table-of-contents)*
 
