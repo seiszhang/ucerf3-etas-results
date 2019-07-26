@@ -566,6 +566,7 @@
 | **M&ge;8.9** | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 (0.00%) | 0.000 (0.00%) | 0.000 |
 | **M&ge;9** | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 (0.00%) | 0.000 (0.00%) | 0.000 |
 
+
 ## Hazard Change Over Time
 *[(top)](#table-of-contents)*
 
@@ -639,6 +640,7 @@ These plots show how the probability of ruptures of various magnitudes within 10
 | 100 Years | 0.014 [0.014 - 0.014] \* | \* | 0.014 | 1.02 \* | 9.25E-3 |
 
 \* *forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included*
+
 ## Trigger Rupture Fault Map
 *[(top)](#table-of-contents)*
 
@@ -655,10 +657,11 @@ These plots show how the probability of ruptures of various magnitudes within 10
 | Airport Lake | 359, 50, -90 | 86 | 7.1 | 86 | 7.1 | 0.036 | 0.000 | 0.036 | 0.000 | 5.612 | 0.000 |
 | Little Lake | 327, 90, 180 | 16 | 3.85 | 17 | 7.1 | 2.321 | 0.000 | 11.284 | 0.000 | 13.471 | 1.469 |
 | Garlock (Central) | 71, 90, 0 | 2 | 3.21 | 3 | 7.1 | 5.600 | 0.000 | 5.600 | 0.000 | 22.802 | 10.829 |
-| So Sierra Nevada | 3, 50, -90 | 1 | 2.75 | 1 | 2.75 | 1.410 | 0.000 | 4.248 | 4.233 | 16.191 | 15.188 |
+| So Sierra Nevada | 2, 50, -90 | 1 | 2.75 | 1 | 2.75 | 1.410 | 0.000 | 4.248 | 4.233 | 16.191 | 15.188 |
 | Tank Canyon | 189, 50, -90 | 0 |  | 0 |  | 9.015 | 9.011 | 9.015 | 9.011 | 17.243 | 17.072 |
-| Blackwater | 319, 90, 180 | 0 |  | 0 |  | 14.394 | 8.726 | 14.394 | 8.726 | 29.661 | 27.718 |
+| Blackwater | 323, 90, 180 | 0 |  | 0 |  | 14.394 | 8.726 | 14.394 | 8.726 | 29.661 | 27.718 |
 | Scodie Lineament | 221, 68, 0 | 0 |  | 0 |  | 16.722 | 15.781 | 28.750 | 27.702 | 36.559 | 32.668 |
+
 ## Individual Simulated Catalog Maps
 *[(top)](#table-of-contents)*
 
@@ -670,6 +673,7 @@ These are map plots of individual catalogs from the simulations, selected as the
 | **1 Month** | ![Map](plots/sim_catalog_map_p0.0_1mo.png) | ![Map](plots/sim_catalog_map_p25.0_1mo.png) | ![Map](plots/sim_catalog_map_p50.0_1mo.png) | ![Map](plots/sim_catalog_map_p75.0_1mo.png) | ![Map](plots/sim_catalog_map_p90.0_1mo.png) | ![Map](plots/sim_catalog_map_p95.0_1mo.png) | ![Map](plots/sim_catalog_map_p97.5_1mo.png) | ![Map](plots/sim_catalog_map_p98.0_1mo.png) | ![Map](plots/sim_catalog_map_p99.0_1mo.png) | ![Map](plots/sim_catalog_map_p99.5_1mo.png) | ![Map](plots/sim_catalog_map_p99.9_1mo.png) | ![Map](plots/sim_catalog_map_p100.0_1mo.png) |
 | **1 Year** | ![Map](plots/sim_catalog_map_p0.0_1yr.png) | ![Map](plots/sim_catalog_map_p25.0_1yr.png) | ![Map](plots/sim_catalog_map_p50.0_1yr.png) | ![Map](plots/sim_catalog_map_p75.0_1yr.png) | ![Map](plots/sim_catalog_map_p90.0_1yr.png) | ![Map](plots/sim_catalog_map_p95.0_1yr.png) | ![Map](plots/sim_catalog_map_p97.5_1yr.png) | ![Map](plots/sim_catalog_map_p98.0_1yr.png) | ![Map](plots/sim_catalog_map_p99.0_1yr.png) | ![Map](plots/sim_catalog_map_p99.5_1yr.png) | ![Map](plots/sim_catalog_map_p99.9_1yr.png) | ![Map](plots/sim_catalog_map_p100.0_1yr.png) |
 | **10 Year** | ![Map](plots/sim_catalog_map_p0.0_10yr.png) | ![Map](plots/sim_catalog_map_p25.0_10yr.png) | ![Map](plots/sim_catalog_map_p50.0_10yr.png) | ![Map](plots/sim_catalog_map_p75.0_10yr.png) | ![Map](plots/sim_catalog_map_p90.0_10yr.png) | ![Map](plots/sim_catalog_map_p95.0_10yr.png) | ![Map](plots/sim_catalog_map_p97.5_10yr.png) | ![Map](plots/sim_catalog_map_p98.0_10yr.png) | ![Map](plots/sim_catalog_map_p99.0_10yr.png) | ![Map](plots/sim_catalog_map_p99.5_10yr.png) | ![Map](plots/sim_catalog_map_p99.9_10yr.png) | ![Map](plots/sim_catalog_map_p100.0_10yr.png) |
+
 ## Section Participation
 *[(top)](#table-of-contents)*
 
@@ -786,6 +790,7 @@ The first 5 sections (sorted by trigger rate) are plotted below. All fault MPDs 
 | ![MPD](plots/parent_sect_mpds/Little_Lake_1wk.png) | ![MPD](plots/parent_sect_mpds/Little_Lake_1mo.png) | ![MPD](plots/parent_sect_mpds/Little_Lake_1yr.png) | ![MPD](plots/parent_sect_mpds/Little_Lake_10yr.png) |
 | ![MPD](plots/parent_sect_mpds/Airport_Lake_1wk.png) | ![MPD](plots/parent_sect_mpds/Airport_Lake_1mo.png) | ![MPD](plots/parent_sect_mpds/Airport_Lake_1yr.png) | ![MPD](plots/parent_sect_mpds/Airport_Lake_10yr.png) |
 | ![MPD](plots/parent_sect_mpds/Owl_Lake_1wk.png) | ![MPD](plots/parent_sect_mpds/Owl_Lake_1mo.png) | ![MPD](plots/parent_sect_mpds/Owl_Lake_1yr.png) | ![MPD](plots/parent_sect_mpds/Owl_Lake_10yr.png) |
+
 ## Gridded Nucleation
 *[(top)](#table-of-contents)*
 
@@ -795,6 +800,7 @@ The first 5 sections (sorted by trigger rate) are plotted below. All fault MPDs 
 | **M&ge;5** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m5.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m5.0.png) |
 | **M&ge;6** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m6.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m6.0.png) |
 | **M&ge;7** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m7.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m7.0.png) |
+
 
 ## JSON Input File
 *[(top)](#table-of-contents)*

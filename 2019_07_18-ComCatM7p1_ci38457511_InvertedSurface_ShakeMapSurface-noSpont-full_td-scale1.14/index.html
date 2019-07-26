@@ -39,6 +39,7 @@ img {
 </table>
 <h2 id="table-of-contents">Table Of Contents</h2>
 <ul>
+<li><a href="#probabilities-summary-table">Probabilities Summary Table</a></li>
 <li><a href="#magnitude-number-distribution">Magnitude Number Distribution</a>
 <ul>
 <li><a href="#10-year-magnitude-number-distribution">10 Year Magnitude Number Distribution</a></li>
@@ -60,6 +61,7 @@ img {
 <li><a href="#trigger-rupture-fault-map">Trigger Rupture Fault Map</a></li>
 <li><a href="#trigger-rupture-depth-map">Trigger Rupture Depth Map</a></li>
 <li><a href="#fault-distances-to-triggers">Fault Distances To Triggers</a></li>
+<li><a href="#individual-simulated-catalog-maps">Individual Simulated Catalog Maps</a></li>
 <li><a href="#section-participation">Section Participation</a>
 <ul>
 <li><a href="#section-participation-plots">Section Participation Plots</a></li>
@@ -74,6 +76,25 @@ img {
 <li><a href="#gridded-nucleation">Gridded Nucleation</a></li>
 <li><a href="#json-input-file">JSON Input File</a></li>
 </ul>
+<h2 id="probabilities-summary-table">Probabilities Summary Table</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>Magnitude</th><th>1 Hour Prob</th><th>1 Day Prob</th><th>1 Week Prob</th><th>1 Month Prob</th><th>1 Year Prob</th><th>10 Year Prob</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M≥4</strong></td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M≥4.5</strong></td><td>0.991 (99.15%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M≥5</strong></td><td>0.780 (77.96%)</td><td>0.979 (97.93%)</td><td>0.996 (99.57%)</td><td>0.999 (99.89%)</td><td>1.000 (99.98%)</td><td>1.000 (99.99%)</td></tr>
+<tr><td><strong>M≥5.5</strong></td><td>0.374 (37.35%)</td><td>0.704 (70.44%)</td><td>0.827 (82.75%)</td><td>0.886 (88.63%)</td><td>0.945 (94.52%)</td><td>0.972 (97.15%)</td></tr>
+<tr><td><strong>M≥6</strong></td><td>0.133 (13.33%)</td><td>0.317 (31.75%)</td><td>0.426 (42.64%)</td><td>0.500 (50.04%)</td><td>0.608 (60.77%)</td><td>0.687 (68.71%)</td></tr>
+<tr><td><strong>M≥6.5</strong></td><td>0.031 (3.08%)</td><td>0.083 (8.27%)</td><td>0.119 (11.94%)</td><td>0.148 (14.77%)</td><td>0.196 (19.61%)</td><td>0.240 (24.04%)</td></tr>
+<tr><td><strong>M≥7</strong></td><td>0.015 (1.45%)</td><td>0.039 (3.87%)</td><td>0.054 (5.42%)</td><td>0.066 (6.61%)</td><td>0.088 (8.77%)</td><td>0.108 (10.82%)</td></tr>
+<tr><td><strong>M≥7.1</strong></td><td>0.013 (1.31%)</td><td>0.034 (3.44%)</td><td>0.048 (4.78%)</td><td>0.058 (5.84%)</td><td>0.078 (7.76%)</td><td>0.096 (9.58%)</td></tr>
+<tr><td><strong>M≥7.5</strong></td><td>5.11E-3 (0.51%)</td><td>0.014 (1.36%)</td><td>0.019 (1.89%)</td><td>0.023 (2.28%)</td><td>0.031 (3.06%)</td><td>0.038 (3.81%)</td></tr>
+<tr><td><strong>M≥8</strong></td><td>1.20E-4 (0.01%)</td><td>3.50E-4 (0.03%)</td><td>4.50E-4 (0.04%)</td><td>5.50E-4 (0.06%)</td><td>7.90E-4 (0.08%)</td><td>9.90E-4 (0.10%)</td></tr>
+</tbody>
+</table>
 <h2 id="magnitude-number-distribution">Magnitude Number Distribution</h2>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <h3 id="10-year-magnitude-number-distribution">10 Year Magnitude Number Distribution</h3>
@@ -692,15 +713,29 @@ img {
 <tbody>
 <tr><td>Airport Lake</td><td>359, 50, -90</td><td>86</td><td>7.1</td><td>86</td><td>7.1</td><td>0.236</td><td>0.000</td><td>0.236</td><td>0.000</td><td>5.612</td><td>0.000</td></tr>
 <tr><td>Little Lake</td><td>327, 90, 180</td><td>16</td><td>3.85</td><td>17</td><td>7.1</td><td>2.321</td><td>0.000</td><td>8.423</td><td>0.000</td><td>13.471</td><td>1.469</td></tr>
-<tr><td>Garlock (Central)</td><td>70, 90, 0</td><td>2</td><td>3.21</td><td>3</td><td>7.1</td><td>0.338</td><td>0.000</td><td>0.338</td><td>0.000</td><td>22.802</td><td>10.829</td></tr>
+<tr><td>Garlock (Central)</td><td>71, 90, 0</td><td>2</td><td>3.21</td><td>3</td><td>7.1</td><td>0.338</td><td>0.000</td><td>0.338</td><td>0.000</td><td>22.802</td><td>10.829</td></tr>
 <tr><td>So Sierra Nevada</td><td>2, 50, -90</td><td>1</td><td>2.75</td><td>2</td><td>7.1</td><td>0.126</td><td>0.000</td><td>0.126</td><td>0.000</td><td>16.191</td><td>15.188</td></tr>
-<tr><td>Blackwater</td><td>325, 90, 180</td><td>0</td><td></td><td>1</td><td>7.1</td><td>9.172</td><td>0.000</td><td>9.172</td><td>0.000</td><td>29.661</td><td>27.718</td></tr>
+<tr><td>Blackwater</td><td>323, 90, 180</td><td>0</td><td></td><td>1</td><td>7.1</td><td>9.172</td><td>0.000</td><td>9.172</td><td>0.000</td><td>29.661</td><td>27.718</td></tr>
 <tr><td>Sierra Nevada  (No Extension)</td><td>344, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>5.922</td><td>0.609</td><td>5.922</td><td>0.609</td><td>58.680</td><td>58.391</td></tr>
-<tr><td>Kern Canyon (North Kern) 2011</td><td>2, 60, -90</td><td>0</td><td></td><td>0</td><td></td><td>9.868</td><td>9.081</td><td>9.868</td><td>9.081</td><td>81.168</td><td>80.888</td></tr>
+<tr><td>Kern Canyon (North Kern) 2011</td><td>360, 60, -90</td><td>0</td><td></td><td>0</td><td></td><td>9.868</td><td>9.081</td><td>9.868</td><td>9.081</td><td>81.168</td><td>80.888</td></tr>
 <tr><td>Tank Canyon</td><td>189, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>10.258</td><td>9.581</td><td>10.273</td><td>9.581</td><td>17.243</td><td>17.072</td></tr>
-<tr><td>Owens Valley</td><td>346, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>14.013</td><td>3.017</td><td>14.013</td><td>3.017</td><td>68.299</td><td>66.819</td></tr>
+<tr><td>Owens Valley</td><td>343, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>14.013</td><td>3.017</td><td>14.013</td><td>3.017</td><td>68.299</td><td>66.819</td></tr>
 <tr><td>Scodie Lineament</td><td>221, 68, 0</td><td>0</td><td></td><td>0</td><td></td><td>16.722</td><td>15.781</td><td>27.066</td><td>24.864</td><td>36.559</td><td>32.668</td></tr>
-<tr><td>Kern Canyon (South Kern) 2011</td><td>358, 60, -90</td><td>0</td><td></td><td>0</td><td></td><td>17.722</td><td>16.730</td><td>17.722</td><td>16.730</td><td>64.327</td><td>63.973</td></tr>
+<tr><td>Kern Canyon (South Kern) 2011</td><td>357, 60, -90</td><td>0</td><td></td><td>0</td><td></td><td>17.722</td><td>16.730</td><td>17.722</td><td>16.730</td><td>64.327</td><td>63.973</td></tr>
+</tbody>
+</table>
+<h2 id="individual-simulated-catalog-maps">Individual Simulated Catalog Maps</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>These are map plots of individual catalogs from the simulations, selected as the closest catalog to each of the given percentiles in terms of total number of events.</p>
+<table>
+<thead>
+<tr><th>Duration</th><th>p0.0 %-ile</th><th>p25.0 %-ile</th><th>p50.0 %-ile</th><th>p75.0 %-ile</th><th>p90.0 %-ile</th><th>p95.0 %-ile</th><th>p97.5 %-ile</th><th>p98.0 %-ile</th><th>p99.0 %-ile</th><th>p99.5 %-ile</th><th>p99.9 %-ile</th><th>p100.0 %-ile</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>1 Week</strong></td><td><img src="plots/sim_catalog_map_p0.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.5_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.9_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p100.0_1wk.png" alt="Map" /></td></tr>
+<tr><td><strong>1 Month</strong></td><td><img src="plots/sim_catalog_map_p0.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.5_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.9_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p100.0_1mo.png" alt="Map" /></td></tr>
+<tr><td><strong>1 Year</strong></td><td><img src="plots/sim_catalog_map_p0.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.5_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.9_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p100.0_1yr.png" alt="Map" /></td></tr>
+<tr><td><strong>10 Year</strong></td><td><img src="plots/sim_catalog_map_p0.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.5_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.9_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p100.0_10yr.png" alt="Map" /></td></tr>
 </tbody>
 </table>
 <h2 id="section-participation">Section Participation</h2>

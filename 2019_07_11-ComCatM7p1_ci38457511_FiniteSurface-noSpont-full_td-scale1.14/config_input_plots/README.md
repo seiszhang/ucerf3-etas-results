@@ -18,7 +18,6 @@
 * [Trigger Rupture Fault Map](#trigger-rupture-fault-map)
 * [Trigger Rupture Depth Map](#trigger-rupture-depth-map)
 * [Fault Distances To Triggers](#fault-distances-to-triggers)
-* [Possible Finite Rupture Subsection Mappings](#possible-finite-rupture-subsection-mappings)
 * [JSON Input File](#json-input-file)
 
 ## Trigger Rupture Fault Map
@@ -42,25 +41,6 @@
 | Blackwater | 323, 90, 180 | 0 |  | 0 |  | 13.591 | 9.547 | 13.591 | 9.547 | 39.380 | 38.300 |
 | Scodie Lineament | 221, 68, 0 | 0 |  | 0 |  | 16.722 | 15.781 | 27.685 | 26.537 | 36.559 | 32.668 |
 
-## Possible Finite Rupture Subsection Mappings
-*[(top)](#table-of-contents)*
-
-This gives any possible finite rupture surface subsection mappings. In the plot below, potentially suggested subsections are outlined in green, and all subsections for which any of this rupture is within the fault polygon are in gray. Suggested sections are those for which the area of the input rupture within the polygon is at least 50.0 % of the sub section area
-
-Overlapping polygons are removed according to the mean distance of the actual subsection surface, with the polygons of closer sections masking out the polygons of further sections
-
-![Map](./finite_rup_subsection_mappings.png)
-
-| Section Index | Section Name | Suggested Match? | Section Area | Rup Area in Raw Poly | Rup Area in No-Overlap Poly | Area Fraction | Sect Distance To Rup | Hypocenter in Polygon? |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 0 | Airport Lake, Subsection 0 | *yes* | 120.19 | 171.31 | 170.4 | 1.42 | mean=5.85 [0.42 12.06] [km] | *yes* |
-| 1 | Airport Lake, Subsection 1 | *yes* | 120.19 | 124.5 | 124.5 | 1.04 | mean=2.79 [0.25 7.92] [km] | no |
-| 2 | Airport Lake, Subsection 2 | *yes* | 120.19 | 69.07 | 69.07 | 0.57 | mean=3.64 [0.29 10.03] [km] | no |
-| 605 | Garlock (Central), Subsection 11 | *yes* | 61.94 | 79.97 | 79.97 | 1.29 | mean=6.36 [5.71 7.72] [km] | no |
-| 1128 | Little Lake, Subsection 3 | no | 73.13 | 15.45 | 0 | 0 | mean=12.07 [11.23 13.02] [km] | no |
-| 1129 | Little Lake, Subsection 4 | no | 73.13 | 75.88 | 0 | 0 | mean=11.13 [10.28 12.09] [km] | no |
-| 1130 | Little Lake, Subsection 5 | no | 73.13 | 41.35 | 0 | 0 | mean=10.36 [9.8 11.13] [km] | no |
-
 ## JSON Input File
 *[(top)](#table-of-contents)*
 
@@ -70,7 +50,7 @@ Overlapping polygons are removed according to the mean distance of the actual su
   "duration": 10.0,
   "startTimeMillis": 1562383194040,
   "includeSpontaneous": false,
-  "randomSeed": 1562878591232,
+  "randomSeed": 1562869572146,
   "binaryOutput": true,
   "binaryOutputFilters": [
     {

@@ -42,7 +42,6 @@ img {
 <li><a href="#trigger-rupture-fault-map">Trigger Rupture Fault Map</a></li>
 <li><a href="#trigger-rupture-depth-map">Trigger Rupture Depth Map</a></li>
 <li><a href="#fault-distances-to-triggers">Fault Distances To Triggers</a></li>
-<li><a href="#possible-finite-rupture-subsection-mappings">Possible Finite Rupture Subsection Mappings</a></li>
 <li><a href="#json-input-file">JSON Input File</a></li>
 </ul>
 <h2 id="trigger-rupture-fault-map">Trigger Rupture Fault Map</h2>
@@ -67,25 +66,6 @@ img {
 <tr><td>Scodie Lineament</td><td>221, 68, 0</td><td>0</td><td></td><td>0</td><td></td><td>16.722</td><td>15.781</td><td>27.685</td><td>26.537</td><td>36.559</td><td>32.668</td></tr>
 </tbody>
 </table>
-<h2 id="possible-finite-rupture-subsection-mappings">Possible Finite Rupture Subsection Mappings</h2>
-<p><em><a href="#table-of-contents">(top)</a></em></p>
-<p>This gives any possible finite rupture surface subsection mappings. In the plot below, potentially suggested subsections are outlined in green, and all subsections for which any of this rupture is within the fault polygon are in gray. Suggested sections are those for which the area of the input rupture within the polygon is at least 50.0 % of the sub section area</p>
-<p>Overlapping polygons are removed according to the mean distance of the actual subsection surface, with the polygons of closer sections masking out the polygons of further sections</p>
-<p><img src="./finite_rup_subsection_mappings.png" alt="Map" /></p>
-<table>
-<thead>
-<tr><th>Section Index</th><th>Section Name</th><th>Suggested Match?</th><th>Section Area</th><th>Rup Area in Raw Poly</th><th>Rup Area in No-Overlap Poly</th><th>Area Fraction</th><th>Sect Distance To Rup</th><th>Hypocenter in Polygon?</th></tr>
-</thead>
-<tbody>
-<tr><td>0</td><td>Airport Lake, Subsection 0</td><td><em>yes</em></td><td>120.19</td><td>171.31</td><td>170.4</td><td>1.42</td><td>mean=5.85 [0.42 12.06] [km]</td><td><em>yes</em></td></tr>
-<tr><td>1</td><td>Airport Lake, Subsection 1</td><td><em>yes</em></td><td>120.19</td><td>124.5</td><td>124.5</td><td>1.04</td><td>mean=2.79 [0.25 7.92] [km]</td><td>no</td></tr>
-<tr><td>2</td><td>Airport Lake, Subsection 2</td><td><em>yes</em></td><td>120.19</td><td>69.07</td><td>69.07</td><td>0.57</td><td>mean=3.64 [0.29 10.03] [km]</td><td>no</td></tr>
-<tr><td>605</td><td>Garlock (Central), Subsection 11</td><td><em>yes</em></td><td>61.94</td><td>79.97</td><td>79.97</td><td>1.29</td><td>mean=6.36 [5.71 7.72] [km]</td><td>no</td></tr>
-<tr><td>1128</td><td>Little Lake, Subsection 3</td><td>no</td><td>73.13</td><td>15.45</td><td>0</td><td>0</td><td>mean=12.07 [11.23 13.02] [km]</td><td>no</td></tr>
-<tr><td>1129</td><td>Little Lake, Subsection 4</td><td>no</td><td>73.13</td><td>75.88</td><td>0</td><td>0</td><td>mean=11.13 [10.28 12.09] [km]</td><td>no</td></tr>
-<tr><td>1130</td><td>Little Lake, Subsection 5</td><td>no</td><td>73.13</td><td>41.35</td><td>0</td><td>0</td><td>mean=10.36 [9.8 11.13] [km]</td><td>no</td></tr>
-</tbody>
-</table>
 <h2 id="json-input-file">JSON Input File</h2>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <pre><code>{
@@ -93,7 +73,7 @@ img {
   &quot;duration&quot;: 10.0,
   &quot;startTimeMillis&quot;: 1562383194040,
   &quot;includeSpontaneous&quot;: false,
-  &quot;randomSeed&quot;: 1562878591232,
+  &quot;randomSeed&quot;: 1562869572146,
   &quot;binaryOutput&quot;: true,
   &quot;binaryOutputFilters&quot;: [
     {
