@@ -32,6 +32,11 @@
 * [Trigger Rupture Depth Map](#trigger-rupture-depth-map)
 * [Fault Distances To Triggers](#fault-distances-to-triggers)
 * [Individual Simulated Catalog Maps](#individual-simulated-catalog-maps)
+* [ComCat Data Comparisons](#comcat-data-comparisons)
+  * [ComCat Magnitude-Number Distribution](#comcat-magnitude-number-distribution)
+  * [ComCat Cumulative Number Vs Time](#comcat-cumulative-number-vs-time)
+  * [ComCat Spatial Distribution, Mean](#comcat-spatial-distribution-mean)
+  * [ComCat Spatial Distribution, Median](#comcat-spatial-distribution-median)
 * [Section Participation](#section-participation)
   * [Section Participation Plots](#section-participation-plots)
   * [Supra-Seismogenic Parent Sections Table](#supra-seismogenic-parent-sections-table)
@@ -677,6 +682,45 @@ These are map plots of individual catalogs from the simulations, selected as the
 | **1 Month** | ![Map](plots/sim_catalog_map_p0.0_1mo.png) | ![Map](plots/sim_catalog_map_p25.0_1mo.png) | ![Map](plots/sim_catalog_map_p50.0_1mo.png) | ![Map](plots/sim_catalog_map_p75.0_1mo.png) | ![Map](plots/sim_catalog_map_p90.0_1mo.png) | ![Map](plots/sim_catalog_map_p95.0_1mo.png) | ![Map](plots/sim_catalog_map_p97.5_1mo.png) | ![Map](plots/sim_catalog_map_p98.0_1mo.png) | ![Map](plots/sim_catalog_map_p99.0_1mo.png) | ![Map](plots/sim_catalog_map_p99.5_1mo.png) | ![Map](plots/sim_catalog_map_p99.9_1mo.png) | ![Map](plots/sim_catalog_map_p100.0_1mo.png) |
 | **1 Year** | ![Map](plots/sim_catalog_map_p0.0_1yr.png) | ![Map](plots/sim_catalog_map_p25.0_1yr.png) | ![Map](plots/sim_catalog_map_p50.0_1yr.png) | ![Map](plots/sim_catalog_map_p75.0_1yr.png) | ![Map](plots/sim_catalog_map_p90.0_1yr.png) | ![Map](plots/sim_catalog_map_p95.0_1yr.png) | ![Map](plots/sim_catalog_map_p97.5_1yr.png) | ![Map](plots/sim_catalog_map_p98.0_1yr.png) | ![Map](plots/sim_catalog_map_p99.0_1yr.png) | ![Map](plots/sim_catalog_map_p99.5_1yr.png) | ![Map](plots/sim_catalog_map_p99.9_1yr.png) | ![Map](plots/sim_catalog_map_p100.0_1yr.png) |
 | **10 Year** | ![Map](plots/sim_catalog_map_p0.0_10yr.png) | ![Map](plots/sim_catalog_map_p25.0_10yr.png) | ![Map](plots/sim_catalog_map_p50.0_10yr.png) | ![Map](plots/sim_catalog_map_p75.0_10yr.png) | ![Map](plots/sim_catalog_map_p90.0_10yr.png) | ![Map](plots/sim_catalog_map_p95.0_10yr.png) | ![Map](plots/sim_catalog_map_p97.5_10yr.png) | ![Map](plots/sim_catalog_map_p98.0_10yr.png) | ![Map](plots/sim_catalog_map_p99.0_10yr.png) | ![Map](plots/sim_catalog_map_p99.5_10yr.png) | ![Map](plots/sim_catalog_map_p99.9_10yr.png) | ![Map](plots/sim_catalog_map_p100.0_10yr.png) |
+
+## ComCat Data Comparisons
+*[(top)](#table-of-contents)*
+
+These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc=3.0
+
+### ComCat Magnitude-Number Distribution
+*[(top)](#table-of-contents)*
+
+![MND](plots/comcat_compare_mag_num.png)
+
+### ComCat Cumulative Number Vs Time
+*[(top)](#table-of-contents)*
+
+![MND](plots/comcat_compare_cumulative_num.png)
+
+### ComCat Spatial Distribution, Mean
+*[(top)](#table-of-contents)*
+
+|  | 1 Day | 1 Week | 21.7 Day |
+|-----|-----|-----|-----|
+| **M≥3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_1wk_m3.png) | ![Map](plots/comcat_compare_mean_21.7d_m3.png) |
+| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_1wk_m4.png) | ![Map](plots/comcat_compare_mean_21.7d_m4.png) |
+| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_1wk_m5.png) | ![Map](plots/comcat_compare_mean_21.7d_m5.png) |
+| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_1wk_m6.png) | ![Map](plots/comcat_compare_mean_21.7d_m6.png) |
+| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_1wk_m7.png) | ![Map](plots/comcat_compare_mean_21.7d_m7.png) |
+| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_1wk_m8.png) | ![Map](plots/comcat_compare_mean_21.7d_m8.png) |
+
+### ComCat Spatial Distribution, Median
+*[(top)](#table-of-contents)*
+
+|  | 1 Day | 1 Week | 21.7 Day |
+|-----|-----|-----|-----|
+| **M≥3** | ![Map](plots/comcat_compare_median_1d_m3.png) | ![Map](plots/comcat_compare_median_1wk_m3.png) | ![Map](plots/comcat_compare_median_21.7d_m3.png) |
+| **M≥4** | ![Map](plots/comcat_compare_median_1d_m4.png) | ![Map](plots/comcat_compare_median_1wk_m4.png) | ![Map](plots/comcat_compare_median_21.7d_m4.png) |
+| **M≥5** | ![Map](plots/comcat_compare_median_1d_m5.png) | ![Map](plots/comcat_compare_median_1wk_m5.png) | ![Map](plots/comcat_compare_median_21.7d_m5.png) |
+| **M≥6** | ![Map](plots/comcat_compare_median_1d_m6.png) | ![Map](plots/comcat_compare_median_1wk_m6.png) | ![Map](plots/comcat_compare_median_21.7d_m6.png) |
+| **M≥7** | ![Map](plots/comcat_compare_median_1d_m7.png) | ![Map](plots/comcat_compare_median_1wk_m7.png) | ![Map](plots/comcat_compare_median_21.7d_m7.png) |
+| **M≥8** | ![Map](plots/comcat_compare_median_1d_m8.png) | ![Map](plots/comcat_compare_median_1wk_m8.png) | ![Map](plots/comcat_compare_median_21.7d_m8.png) |
 
 ## Section Participation
 *[(top)](#table-of-contents)*
