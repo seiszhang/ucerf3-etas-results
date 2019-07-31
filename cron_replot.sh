@@ -17,9 +17,13 @@ cd $DIR
 ./replot_build_index.sh $@
 
 if [[ $? -eq 0 ]];then
+	echo "pulling any updates from GitHub"
 	git pull
+	echo "doing a git add --all"
 	git add --all
+	echo "git committing"
 	git commit -m "automatic plot and index update from $HOSTNAME"
+	echo "pushing to GitHub"
 	git push
 fi
 
