@@ -688,7 +688,7 @@ These are map plots of individual catalogs from the simulations, selected as the
 ## ComCat Data Comparisons
 *[(top)](#table-of-contents)*
 
-These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc=3.1
+These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc=3.0
 
 ### ComCat Magnitude-Number Distribution
 *[(top)](#table-of-contents)*
@@ -703,26 +703,26 @@ These plots compare simulated sequences with data from ComCat. All plots only co
 ### ComCat Spatial Distribution, Mean
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 2 Day |
+|  | 1 Day | 5.5 Day |
 |-----|-----|-----|
-| **M≥3.1** | ![Map](plots/comcat_compare_mean_1d_m3.1.png) | ![Map](plots/comcat_compare_mean_2d_m3.1.png) |
-| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_2d_m4.png) |
-| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_2d_m5.png) |
-| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_2d_m6.png) |
-| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_2d_m7.png) |
-| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_2d_m8.png) |
+| **M≥3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_5.5d_m3.png) |
+| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_5.5d_m4.png) |
+| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_5.5d_m5.png) |
+| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_5.5d_m6.png) |
+| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_5.5d_m7.png) |
+| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_5.5d_m8.png) |
 
 ### ComCat Spatial Distribution, Median
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 2 Day |
+|  | 1 Day | 5.5 Day |
 |-----|-----|-----|
-| **M≥3.1** | ![Map](plots/comcat_compare_median_1d_m3.1.png) | ![Map](plots/comcat_compare_median_2d_m3.1.png) |
-| **M≥4** | ![Map](plots/comcat_compare_median_1d_m4.png) | ![Map](plots/comcat_compare_median_2d_m4.png) |
-| **M≥5** | ![Map](plots/comcat_compare_median_1d_m5.png) | ![Map](plots/comcat_compare_median_2d_m5.png) |
-| **M≥6** | ![Map](plots/comcat_compare_median_1d_m6.png) | ![Map](plots/comcat_compare_median_2d_m6.png) |
-| **M≥7** | ![Map](plots/comcat_compare_median_1d_m7.png) | ![Map](plots/comcat_compare_median_2d_m7.png) |
-| **M≥8** | ![Map](plots/comcat_compare_median_1d_m8.png) | ![Map](plots/comcat_compare_median_2d_m8.png) |
+| **M≥3** | ![Map](plots/comcat_compare_median_1d_m3.png) | ![Map](plots/comcat_compare_median_5.5d_m3.png) |
+| **M≥4** | ![Map](plots/comcat_compare_median_1d_m4.png) | ![Map](plots/comcat_compare_median_5.5d_m4.png) |
+| **M≥5** | ![Map](plots/comcat_compare_median_1d_m5.png) | ![Map](plots/comcat_compare_median_5.5d_m5.png) |
+| **M≥6** | ![Map](plots/comcat_compare_median_1d_m6.png) | ![Map](plots/comcat_compare_median_5.5d_m6.png) |
+| **M≥7** | ![Map](plots/comcat_compare_median_1d_m7.png) | ![Map](plots/comcat_compare_median_5.5d_m7.png) |
+| **M≥8** | ![Map](plots/comcat_compare_median_1d_m8.png) | ![Map](plots/comcat_compare_median_5.5d_m8.png) |
 
 ## Section Participation
 *[(top)](#table-of-contents)*

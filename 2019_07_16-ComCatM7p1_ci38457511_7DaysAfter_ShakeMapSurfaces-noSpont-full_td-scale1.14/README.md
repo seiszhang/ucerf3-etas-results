@@ -703,26 +703,26 @@ These plots compare simulated sequences with data from ComCat. All plots only co
 ### ComCat Spatial Distribution, Mean
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 1 Week | 14.6 Day |
+|  | 1 Day | 1 Week | 17.2 Day |
 |-----|-----|-----|-----|
-| **M≥3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_1wk_m3.png) | ![Map](plots/comcat_compare_mean_14.6d_m3.png) |
-| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_1wk_m4.png) | ![Map](plots/comcat_compare_mean_14.6d_m4.png) |
-| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_1wk_m5.png) | ![Map](plots/comcat_compare_mean_14.6d_m5.png) |
-| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_1wk_m6.png) | ![Map](plots/comcat_compare_mean_14.6d_m6.png) |
-| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_1wk_m7.png) | ![Map](plots/comcat_compare_mean_14.6d_m7.png) |
-| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_1wk_m8.png) | ![Map](plots/comcat_compare_mean_14.6d_m8.png) |
+| **M≥3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_1wk_m3.png) | ![Map](plots/comcat_compare_mean_17.2d_m3.png) |
+| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_1wk_m4.png) | ![Map](plots/comcat_compare_mean_17.2d_m4.png) |
+| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_1wk_m5.png) | ![Map](plots/comcat_compare_mean_17.2d_m5.png) |
+| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_1wk_m6.png) | ![Map](plots/comcat_compare_mean_17.2d_m6.png) |
+| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_1wk_m7.png) | ![Map](plots/comcat_compare_mean_17.2d_m7.png) |
+| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_1wk_m8.png) | ![Map](plots/comcat_compare_mean_17.2d_m8.png) |
 
 ### ComCat Spatial Distribution, Median
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 1 Week | 14.6 Day |
+|  | 1 Day | 1 Week | 17.2 Day |
 |-----|-----|-----|-----|
-| **M≥3** | ![Map](plots/comcat_compare_median_1d_m3.png) | ![Map](plots/comcat_compare_median_1wk_m3.png) | ![Map](plots/comcat_compare_median_14.6d_m3.png) |
-| **M≥4** | ![Map](plots/comcat_compare_median_1d_m4.png) | ![Map](plots/comcat_compare_median_1wk_m4.png) | ![Map](plots/comcat_compare_median_14.6d_m4.png) |
-| **M≥5** | ![Map](plots/comcat_compare_median_1d_m5.png) | ![Map](plots/comcat_compare_median_1wk_m5.png) | ![Map](plots/comcat_compare_median_14.6d_m5.png) |
-| **M≥6** | ![Map](plots/comcat_compare_median_1d_m6.png) | ![Map](plots/comcat_compare_median_1wk_m6.png) | ![Map](plots/comcat_compare_median_14.6d_m6.png) |
-| **M≥7** | ![Map](plots/comcat_compare_median_1d_m7.png) | ![Map](plots/comcat_compare_median_1wk_m7.png) | ![Map](plots/comcat_compare_median_14.6d_m7.png) |
-| **M≥8** | ![Map](plots/comcat_compare_median_1d_m8.png) | ![Map](plots/comcat_compare_median_1wk_m8.png) | ![Map](plots/comcat_compare_median_14.6d_m8.png) |
+| **M≥3** | ![Map](plots/comcat_compare_median_1d_m3.png) | ![Map](plots/comcat_compare_median_1wk_m3.png) | ![Map](plots/comcat_compare_median_17.2d_m3.png) |
+| **M≥4** | ![Map](plots/comcat_compare_median_1d_m4.png) | ![Map](plots/comcat_compare_median_1wk_m4.png) | ![Map](plots/comcat_compare_median_17.2d_m4.png) |
+| **M≥5** | ![Map](plots/comcat_compare_median_1d_m5.png) | ![Map](plots/comcat_compare_median_1wk_m5.png) | ![Map](plots/comcat_compare_median_17.2d_m5.png) |
+| **M≥6** | ![Map](plots/comcat_compare_median_1d_m6.png) | ![Map](plots/comcat_compare_median_1wk_m6.png) | ![Map](plots/comcat_compare_median_17.2d_m6.png) |
+| **M≥7** | ![Map](plots/comcat_compare_median_1d_m7.png) | ![Map](plots/comcat_compare_median_1wk_m7.png) | ![Map](plots/comcat_compare_median_17.2d_m7.png) |
+| **M≥8** | ![Map](plots/comcat_compare_median_1d_m8.png) | ![Map](plots/comcat_compare_median_1wk_m8.png) | ![Map](plots/comcat_compare_median_17.2d_m8.png) |
 
 ## Section Participation
 *[(top)](#table-of-contents)*

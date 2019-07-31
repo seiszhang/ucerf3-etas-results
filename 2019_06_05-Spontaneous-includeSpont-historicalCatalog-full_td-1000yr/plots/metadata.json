@@ -1,0 +1,10 @@
+{
+  "plotStartTime": 1564513474830,
+  "plotEndTime": 1564514378613,
+  "simulationsProcessed": 1000,
+  "dataFile": {
+    "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_06_05-Spontaneous-includeSpont-historicalCatalog-full_td-1000yr/results_m5_preserve_chain.bin"
+  },
+  "launcherGitHash": "32d0ec1eda5b95bdd6c5ec657b284562e739b738",
+  "launcherGitTime": 1564505489000
+}
