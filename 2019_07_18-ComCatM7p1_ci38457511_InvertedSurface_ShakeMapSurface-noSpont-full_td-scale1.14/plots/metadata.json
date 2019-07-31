@@ -1,1 +1,10 @@
-{"plotStartTime":1564448786104,"plotEndTime":1564457084344,"simulationsProcessed":100000,"dataFile":{"path":"/home/scec-02/kmilner/ucerf3/etas_sim/2019_07_18-ComCatM7p1_ci38457511_InvertedSurface_ShakeMapSurface-noSpont-full_td-scale1.14/results_complete.bin"},"launcherGitHash":"410ccf0ac14129fa6ceaacd9d0c8c7b86f75f7a9","launcherGitTime":1564444958000}
+{
+  "plotStartTime": 1564556332745,
+  "plotEndTime": 1564564810504,
+  "simulationsProcessed": 100000,
+  "dataFile": {
+    "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_07_18-ComCatM7p1_ci38457511_InvertedSurface_ShakeMapSurface-noSpont-full_td-scale1.14/results_complete.bin"
+  },
+  "launcherGitHash": "7b21d6c4dd4aebddaacecb40704aa461b414af98",
+  "launcherGitTime": 1564555726000
+}
