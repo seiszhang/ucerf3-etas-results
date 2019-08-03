@@ -9,4 +9,7 @@ cd $DIR
 echo "pulling from GitHub..."
 git pull
 echo "rebuilding plots and index"
-u3etas_jar_wrapper.sh scratch.UCERF3.erf.ETAS.launcher.util.ETAS_MarkdownIndexWriter --threads 8 --update-plots $@ $DIR
+if [[ ! -z "$ETAS_LAUNCHER" ]];then
+	ETAS_LAUNCHER_DIR="${ETAS_LAUNCHER}/sbin/"
+fi
+${ETAS_LAUNCHER_DIR}u3etas_jar_wrapper.sh scratch.UCERF3.erf.ETAS.launcher.util.ETAS_MarkdownIndexWriter --threads 8 --update-plots $@ $DIR

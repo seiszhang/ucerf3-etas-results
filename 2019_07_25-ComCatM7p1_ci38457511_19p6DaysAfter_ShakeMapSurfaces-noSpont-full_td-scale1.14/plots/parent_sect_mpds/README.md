@@ -41,155 +41,155 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 * [Elsinore (Glen Ivy) rev](#elsinore-glen-ivy-rev)
 * [Santa Ynez (West)](#santa-ynez-west)
 * [San Jacinto (San Bernardino)](#san-jacinto-san-bernardino)
-* [Red Pass](#red-pass)
 * [San Andreas (Parkfield)](#san-andreas-parkfield)
+* [Red Pass](#red-pass)
 * [Death Valley (Fish Lake Valley)](#death-valley-fish-lake-valley)
-* [Owens Valley](#owens-valley)
 * [San Andreas (Coachella) rev](#san-andreas-coachella-rev)
-* [Cady](#cady)
-* [Calico-Hidalgo](#calico-hidalgo)
-* [San Jacinto (San Jacinto Valley) rev](#san-jacinto-san-jacinto-valley-rev)
+* [Owens Valley](#owens-valley)
 * [Independence rev 2011](#independence-rev-2011)
-* [White Wolf (Extension)](#white-wolf-extension)
+* [Calico-Hidalgo](#calico-hidalgo)
+* [Cady](#cady)
+* [San Jacinto (San Jacinto Valley) rev](#san-jacinto-san-jacinto-valley-rev)
 * [San Andreas (Creeping Section) 2011 CFM](#san-andreas-creeping-section-2011-cfm)
-* [Mission Ridge-Arroyo Parida-Santa Ana](#mission-ridge-arroyo-parida-santa-ana)
+* [White Wolf (Extension)](#white-wolf-extension)
 * [Manix-Afton Hills](#manix-afton-hills)
+* [San Jacinto (Stepovers Combined)](#san-jacinto-stepovers-combined)
+* [Lake Isabella (Seismicity)](#lake-isabella-seismicity)
+* [Mission Ridge-Arroyo Parida-Santa Ana](#mission-ridge-arroyo-parida-santa-ana)
+* [San Andreas (Carrizo) rev](#san-andreas-carrizo-rev)
+* [Chino alt 1](#chino-alt-1)
 * [San Andreas (Cholame) rev](#san-andreas-cholame-rev)
 * [San Andreas (North Branch Mill Creek)](#san-andreas-north-branch-mill-creek)
-* [Chino alt 1](#chino-alt-1)
-* [San Jacinto (Stepovers Combined)](#san-jacinto-stepovers-combined)
-* [San Andreas (Carrizo) rev](#san-andreas-carrizo-rev)
-* [Lake Isabella (Seismicity)](#lake-isabella-seismicity)
 * [Baker](#baker)
 * [Ludlow](#ludlow)
 * [Red Mountain](#red-mountain)
 * [San Jacinto (Anza) rev](#san-jacinto-anza-rev)
 * [Scodie Lineament](#scodie-lineament)
 * [San Jacinto (Coyote Creek)](#san-jacinto-coyote-creek)
+* [San Jacinto (Borrego)](#san-jacinto-borrego)
 * [Mission Creek](#mission-creek)
 * [Lost Hills](#lost-hills)
-* [San Jacinto (Borrego)](#san-jacinto-borrego)
-* [Palos Verdes](#palos-verdes)
-* [Cleghorn Pass](#cleghorn-pass)
 * [Santa Rosa Island](#santa-rosa-island)
 * [San Jacinto (Lytle Creek connector)](#san-jacinto-lytle-creek-connector)
-* [Ventura-Pitas Point](#ventura-pitas-point)
+* [Cleghorn Pass](#cleghorn-pass)
+* [Palos Verdes](#palos-verdes)
 * [San Pedro Basin](#san-pedro-basin)
-* [Deep Springs](#deep-springs)
-* [Tin Mountain](#tin-mountain)
 * [Hosgri](#hosgri)
+* [Brawley (Seismic Zone) alt 1](#brawley-seismic-zone-alt-1)
+* [Ventura-Pitas Point](#ventura-pitas-point)
 * [Imperial](#imperial)
 * [Oceanic - West Huasna](#oceanic---west-huasna)
-* [Pinto Mtn](#pinto-mtn)
+* [Deep Springs](#deep-springs)
 * [Great Valley 09 (Laguna Seca)](#great-valley-09-laguna-seca)
-* [Brawley (Seismic Zone) alt 1](#brawley-seismic-zone-alt-1)
 * [Kern Canyon (North Kern) 2011](#kern-canyon-north-kern-2011)
 * [White Mountains](#white-mountains)
 * [Santa Ynez (East)](#santa-ynez-east)
-* [Cleghorn Lake](#cleghorn-lake)
-* [Kern Canyon (South Kern) 2011](#kern-canyon-south-kern-2011)
+* [Pinto Mtn](#pinto-mtn)
+* [Tin Mountain](#tin-mountain)
 * [Elysian Park (Upper)](#elysian-park-upper)
-* [Big Pine (Central)](#big-pine-central)
-* [Oak Ridge (Onshore)](#oak-ridge-onshore)
-* [Ortigalita (North)](#ortigalita-north)
-* [Dry Mountain](#dry-mountain)
-* [Whittier alt 1](#whittier-alt-1)
 * [Pisgah-Bullion Mtn-Mesquite Lk](#pisgah-bullion-mtn-mesquite-lk)
-* [Channel Islands Thrust](#channel-islands-thrust)
+* [Ortigalita (North)](#ortigalita-north)
 * [Ortigalita (South)](#ortigalita-south)
-* [Cleghorn](#cleghorn)
-* [Santa Cruz Island](#santa-cruz-island)
-* [Calaveras (So) - Paicines extension 2011 CFM](#calaveras-so---paicines-extension-2011-cfm)
-* [San Andreas (Santa Cruz Mts) 2011 CFM](#san-andreas-santa-cruz-mts-2011-cfm)
-* [Newport-Inglewood alt 1](#newport-inglewood-alt-1)
-* [Rinconada 2011 CFM](#rinconada-2011-cfm)
-* [Monterey Bay-Tularcitos](#monterey-bay-tularcitos)
-* [Santa Cruz Catalina Ridge alt1](#santa-cruz-catalina-ridge-alt1)
-* [San Gabriel](#san-gabriel)
-* [Rose Canyon](#rose-canyon)
-* [Big Pine (East)](#big-pine-east)
-* [Sheephole](#sheephole)
+* [Whittier alt 1](#whittier-alt-1)
+* [Cleghorn Lake](#cleghorn-lake)
+* [Big Pine (Central)](#big-pine-central)
+* [Dry Mountain](#dry-mountain)
+* [Oak Ridge (Onshore)](#oak-ridge-onshore)
+* [Kern Canyon (South Kern) 2011](#kern-canyon-south-kern-2011)
+* [Channel Islands Thrust](#channel-islands-thrust)
 * [Blue Cut](#blue-cut)
-* [Green Valley 2011 CFM](#green-valley-2011-cfm)
-* [Newport-Inglewood (Offshore)](#newport-inglewood-offshore)
+* [Rinconada 2011 CFM](#rinconada-2011-cfm)
+* [Santa Cruz Catalina Ridge alt1](#santa-cruz-catalina-ridge-alt1)
+* [Sheephole](#sheephole)
+* [Big Pine (East)](#big-pine-east)
+* [Santa Cruz Island](#santa-cruz-island)
+* [Newport-Inglewood alt 1](#newport-inglewood-alt-1)
+* [Rose Canyon](#rose-canyon)
+* [San Andreas (Santa Cruz Mts) 2011 CFM](#san-andreas-santa-cruz-mts-2011-cfm)
+* [Monterey Bay-Tularcitos](#monterey-bay-tularcitos)
+* [San Gabriel](#san-gabriel)
+* [Calaveras (So) - Paicines extension 2011 CFM](#calaveras-so---paicines-extension-2011-cfm)
+* [Cleghorn](#cleghorn)
+* [Verdugo](#verdugo)
+* [Pleito](#pleito)
 * [Elsinore (Temecula) rev](#elsinore-temecula-rev)
-* [North Salt Lake](#north-salt-lake)
-* [Redondo Canyon alt 1](#redondo-canyon-alt-1)
+* [Sierra Madre](#sierra-madre)
 * [Pitas Point (Lower West)](#pitas-point-lower-west)
+* [Great Valley 08 (Quinto)](#great-valley-08-quinto)
+* [Hollywood](#hollywood)
 * [Los Alamos 2011 CFM](#los-alamos-2011-cfm)
+* [Kern Canyon (Lake Isabella) 2011](#kern-canyon-lake-isabella-2011)
+* [Elsinore (Stepovers Combined)](#elsinore-stepovers-combined)
+* [Puente Hills](#puente-hills)
+* [Likely 2011 CFM](#likely-2011-cfm)
+* [Greenville (So) 2011 CFM](#greenville-so-2011-cfm)
+* [Redondo Canyon alt 1](#redondo-canyon-alt-1)
+* [San Luis Range 2011 CFM](#san-luis-range-2011-cfm)
+* [San Jacinto (Superstition Mtn)](#san-jacinto-superstition-mtn)
+* [San Diego Trough south](#san-diego-trough-south)
+* [Newport-Inglewood (Offshore)](#newport-inglewood-offshore)
+* [San Diego Trough north alt1](#san-diego-trough-north-alt1)
+* [Pitas Point (Lower)-Montalvo](#pitas-point-lower-montalvo)
+* [North Salt Lake](#north-salt-lake)
+* [Monte Vista - Shannon 2011 CFM](#monte-vista---shannon-2011-cfm)
+* [Simi-Santa Rosa](#simi-santa-rosa)
+* [Green Valley 2011 CFM](#green-valley-2011-cfm)
 * [Coronado Bank alt1](#coronado-bank-alt1)
 * [White Wolf](#white-wolf)
-* [Likely 2011 CFM](#likely-2011-cfm)
 * [La Panza 2011](#la-panza-2011)
-* [Great Valley 08 (Quinto)](#great-valley-08-quinto)
-* [Simi-Santa Rosa](#simi-santa-rosa)
-* [Elsinore (Stepovers Combined)](#elsinore-stepovers-combined)
-* [San Diego Trough north alt1](#san-diego-trough-north-alt1)
-* [San Jacinto (Superstition Mtn)](#san-jacinto-superstition-mtn)
-* [Monte Vista - Shannon 2011 CFM](#monte-vista---shannon-2011-cfm)
 * [Great Valley 03a Dunnigan Hills](#great-valley-03a-dunnigan-hills)
-* [Sierra Madre](#sierra-madre)
-* [Pitas Point (Lower)-Montalvo](#pitas-point-lower-montalvo)
-* [Pleito](#pleito)
-* [Hollywood](#hollywood)
-* [San Diego Trough south](#san-diego-trough-south)
-* [Kern Canyon (Lake Isabella) 2011](#kern-canyon-lake-isabella-2011)
-* [Puente Hills](#puente-hills)
-* [San Luis Range 2011 CFM](#san-luis-range-2011-cfm)
-* [Verdugo](#verdugo)
-* [Greenville (So) 2011 CFM](#greenville-so-2011-cfm)
+* [Channel Islands Western Deep Ramp](#channel-islands-western-deep-ramp)
+* [Elysian Park (Lower CFM)](#elysian-park-lower-cfm)
 * [Northridge](#northridge)
-* [Hunting Creek - Berryessa 2011 CFM](#hunting-creek---berryessa-2011-cfm)
-* [San Gregorio (North) 2011 CFM](#san-gregorio-north-2011-cfm)
-* [San Cayetano](#san-cayetano)
-* [Greenville (No) 2011 CFM](#greenville-no-2011-cfm)
-* [Hayward (So) extension 2011 CFM](#hayward-so-extension-2011-cfm)
-* [Santa Susana alt 1](#santa-susana-alt-1)
-* [Elsinore (Julian)](#elsinore-julian)
-* [Sisar](#sisar)
-* [Del Valle](#del-valle)
-* [Hosgri (Extension)](#hosgri-extension)
-* [Johnson Valley (No) 2011 rev](#johnson-valley-no-2011-rev)
-* [Concord 2011 CFM](#concord-2011-cfm)
+* [Homestead Valley 2011](#homestead-valley-2011)
 * [Great Valley 04b Gordon Valley](#great-valley-04b-gordon-valley)
-* [Goose Lake 2011 CFM](#goose-lake-2011-cfm)
-* [Calaveras (So) 2011 CFM](#calaveras-so-2011-cfm)
 * [Great Valley 05 Pittsburg - Kirby Hills alt1](#great-valley-05-pittsburg---kirby-hills-alt1)
-* [Davis Creek](#davis-creek)
-* [Sierra Madre (San Fernando)](#sierra-madre-san-fernando)
-* [San Juan](#san-juan)
-* [Northridge Hills](#northridge-hills)
-* [Butano 2011 CFM](#butano-2011-cfm)
-* [Fontana (Seismicity)](#fontana-seismicity)
-* [San Clemente](#san-clemente)
-* [Raymond](#raymond)
+* [Los Alamos extension](#los-alamos-extension)
+* [Greenville (No) 2011 CFM](#greenville-no-2011-cfm)
 * [San Jacinto (Clark) rev](#san-jacinto-clark-rev)
 * [Mono Lake 2011 CFM](#mono-lake-2011-cfm)
-* [Casmalia 2011 CFM](#casmalia-2011-cfm)
-* [Los Alamos extension](#los-alamos-extension)
+* [Del Valle](#del-valle)
 * [Cucamonga](#cucamonga)
 * [Santa Monica alt 1](#santa-monica-alt-1)
 * [Hayward (No) 2011 CFM](#hayward-no-2011-cfm)
-* [Elysian Park (Lower CFM)](#elysian-park-lower-cfm)
-* [Channel Islands Western Deep Ramp](#channel-islands-western-deep-ramp)
-* [Superstition Hills](#superstition-hills)
-* [Gillem - Big Crack 2011 CFM](#gillem---big-crack-2011-cfm)
-* [Hayward (So) 2011 CFM](#hayward-so-2011-cfm)
-* [Calaveras (Central) 2011 CFM](#calaveras-central-2011-cfm)
-* [Bullion Mountains](#bullion-mountains)
-* [Camp Rock 2011](#camp-rock-2011)
-* [Mendocino](#mendocino)
-* [South Klamath Lake East](#south-klamath-lake-east)
-* [San Luis Range - Oceano 2011 CFM](#san-luis-range---oceano-2011-cfm)
-* [Rodgers Creek - Healdsburg 2011 CFM](#rodgers-creek---healdsburg-2011-cfm)
+* [Calaveras (So) 2011 CFM](#calaveras-so-2011-cfm)
+* [San Clemente](#san-clemente)
+* [Raymond](#raymond)
+* [Davis Creek](#davis-creek)
 * [Mission (connected) 2011 CFM](#mission-connected-2011-cfm)
-* [South Klamath Lake West](#south-klamath-lake-west)
-* [Elmore Ranch](#elmore-ranch)
-* [Homestead Valley 2011](#homestead-valley-2011)
+* [Santa Susana alt 1](#santa-susana-alt-1)
 * [Great Valley 07 (Orestimba)](#great-valley-07-orestimba)
+* [San Luis Range - Oceano 2011 CFM](#san-luis-range---oceano-2011-cfm)
+* [Superstition Hills](#superstition-hills)
+* [Johnson Valley (No) 2011 rev](#johnson-valley-no-2011-rev)
+* [Butano 2011 CFM](#butano-2011-cfm)
+* [Elsinore (Julian)](#elsinore-julian)
+* [Casmalia 2011 CFM](#casmalia-2011-cfm)
+* [Concord 2011 CFM](#concord-2011-cfm)
+* [Fontana (Seismicity)](#fontana-seismicity)
+* [Hayward (So) extension 2011 CFM](#hayward-so-extension-2011-cfm)
+* [San Juan](#san-juan)
+* [Mendocino](#mendocino)
+* [Hayward (So) 2011 CFM](#hayward-so-2011-cfm)
+* [Elmore Ranch](#elmore-ranch)
+* [Northridge Hills](#northridge-hills)
+* [Bullion Mountains](#bullion-mountains)
+* [Hunting Creek - Berryessa 2011 CFM](#hunting-creek---berryessa-2011-cfm)
+* [Calaveras (Central) 2011 CFM](#calaveras-central-2011-cfm)
 * [Owens Valley Keough Hot Springs](#owens-valley-keough-hot-springs)
+* [South Klamath Lake West](#south-klamath-lake-west)
+* [Camp Rock 2011](#camp-rock-2011)
+* [San Gregorio (North) 2011 CFM](#san-gregorio-north-2011-cfm)
 * [Cedar Mtn-Mahogany Mtn](#cedar-mtn-mahogany-mtn)
+* [Gillem - Big Crack 2011 CFM](#gillem---big-crack-2011-cfm)
+* [Rodgers Creek - Healdsburg 2011 CFM](#rodgers-creek---healdsburg-2011-cfm)
+* [Goose Lake 2011 CFM](#goose-lake-2011-cfm)
 * [Malibu Coast (Extension) alt 1](#malibu-coast-extension-alt-1)
+* [Sisar](#sisar)
+* [South Klamath Lake East](#south-klamath-lake-east)
+* [San Cayetano](#san-cayetano)
+* [Sierra Madre (San Fernando)](#sierra-madre-san-fernando)
+* [Hosgri (Extension)](#hosgri-extension)
 
 ## Garlock (Central)
 *[(top)](#table-of-contents)*
@@ -1203,22 +1203,6 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.2 | 4.189207E-6 | 1.5831124E-6 | 1.5831124E-6 | 1.0 | 0.0 | 1.7953622E-5 | 6.78475E-6 | 6.78475E-6 | 1.0 | 0.0 | 2.1856341E-4 | 8.2601226E-5 | 8.2601226E-5 | 1.0 | 0.0 | 0.0021834858 | 9.592587E-4 | 9.592587E-4 | 1.0 | 0.0 |
 | 8.3 | 1.2758221E-6 | 3.6275617E-7 | 3.6275617E-7 | 1.0 | 0.0 | 5.4677976E-6 | 1.5546683E-6 | 1.5546683E-6 | 1.0 | 0.0 | 6.65684E-5 | 1.8927927E-5 | 1.8927927E-5 | 1.0 | 0.0 | 6.6548464E-4 | 2.2825136E-4 | 2.2825136E-4 | 1.0 | 0.0 |
 
-## Red Pass
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Red_Pass_1wk.png) | ![MPD](Red_Pass_1mo.png) | ![MPD](Red_Pass_1yr.png) | ![MPD](Red_Pass_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 8.258278E-6 | 8.5513775E-6 | 8.5513775E-6 | 1.0 | 0.0 | 3.539214E-5 | 3.6648347E-5 | 5.6647616E-5 | 1.5457072 | 2.0E-5 | 4.308141E-4 | 4.4612016E-4 | 5.3608E-4 | 1.2016494 | 9.0E-5 | 0.0042997985 | 0.0044540036 | 0.0046232464 | 1.037998 | 1.7E-4 |
-| 6.1 | 3.649988E-6 | 3.7753643E-6 | 3.7753643E-6 | 1.0 | 0.0 | 1.5642712E-5 | 1.6180058E-5 | 2.6179898E-5 | 1.6180347 | 1.0E-5 | 1.9043336E-4 | 1.9697918E-4 | 2.2697326E-4 | 1.1522703 | 3.0E-5 | 0.0019027026 | 0.001968513 | 0.0020184147 | 1.0253499 | 5.0E-5 |
-| 6.2 | 3.649988E-6 | 3.7753643E-6 | 3.7753643E-6 | 1.0 | 0.0 | 1.5642712E-5 | 1.6180058E-5 | 2.6179898E-5 | 1.6180347 | 1.0E-5 | 1.9043336E-4 | 1.9697918E-4 | 2.2697326E-4 | 1.1522703 | 3.0E-5 | 0.0019027026 | 0.001968513 | 0.0020184147 | 1.0253499 | 5.0E-5 |
-| 6.3 | 1.3924937E-6 | 1.4411353E-6 | 1.4411353E-6 | 1.0 | 0.0 | 5.9678164E-6 | 6.1762876E-6 | 6.1762876E-6 | 1.0 | 0.0 | 7.265574E-5 | 7.519512E-5 | 8.519437E-5 | 1.1329774 | 1.0E-5 | 7.263199E-4 | 7.518355E-4 | 7.6182804E-4 | 1.0132908 | 1.0E-5 |
-| 6.4 | 1.3924937E-6 | 1.4411353E-6 | 1.4411353E-6 | 1.0 | 0.0 | 5.9678164E-6 | 6.1762876E-6 | 6.1762876E-6 | 1.0 | 0.0 | 7.265574E-5 | 7.519512E-5 | 8.519437E-5 | 1.1329774 | 1.0E-5 | 7.263199E-4 | 7.518355E-4 | 7.6182804E-4 | 1.0132908 | 1.0E-5 |
-| 6.5 | 9.876812E-7 | 1.0222045E-6 | 1.0222045E-6 | 1.0 | 0.0 | 4.2329125E-6 | 4.3808764E-6 | 4.3808764E-6 | 1.0 | 0.0 | 5.153449E-5 | 5.3337168E-5 | 6.3336636E-5 | 1.1874765 | 1.0E-5 | 5.1522546E-4 | 5.333717E-4 | 5.4336636E-4 | 1.0187386 | 1.0E-5 |
-
 ## San Andreas (Parkfield)
 *[(top)](#table-of-contents)*
 
@@ -1253,6 +1237,22 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.2 | 8.643924E-6 | 5.488954E-6 | 5.488954E-6 | 1.0 | 0.0 | 3.704486E-5 | 2.3523877E-5 | 2.3523877E-5 | 1.0 | 0.0 | 4.5092785E-4 | 2.8636563E-4 | 2.8636563E-4 | 1.0 | 0.0 | 0.0045001395 | 0.0032564052 | 0.0032564052 | 1.0 | 0.0 |
 | 8.3 | 1.983087E-6 | 7.68342E-7 | 7.68342E-7 | 1.0 | 0.0 | 8.498917E-6 | 3.2928901E-6 | 3.2928901E-6 | 1.0 | 0.0 | 1.034694E-4 | 4.0090217E-5 | 4.0090217E-5 | 1.0 | 0.0 | 0.0010342124 | 4.7331754E-4 | 4.7331754E-4 | 1.0 | 0.0 |
 
+## Red Pass
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Red_Pass_1wk.png) | ![MPD](Red_Pass_1mo.png) | ![MPD](Red_Pass_1yr.png) | ![MPD](Red_Pass_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 8.258278E-6 | 8.5513775E-6 | 8.5513775E-6 | 1.0 | 0.0 | 3.539214E-5 | 3.6648347E-5 | 5.6647616E-5 | 1.5457072 | 2.0E-5 | 4.308141E-4 | 4.4612016E-4 | 5.3608E-4 | 1.2016494 | 9.0E-5 | 0.0042997985 | 0.0044540036 | 0.0046232464 | 1.037998 | 1.7E-4 |
+| 6.1 | 3.649988E-6 | 3.7753643E-6 | 3.7753643E-6 | 1.0 | 0.0 | 1.5642712E-5 | 1.6180058E-5 | 2.6179898E-5 | 1.6180347 | 1.0E-5 | 1.9043336E-4 | 1.9697918E-4 | 2.2697326E-4 | 1.1522703 | 3.0E-5 | 0.0019027026 | 0.001968513 | 0.0020184147 | 1.0253499 | 5.0E-5 |
+| 6.2 | 3.649988E-6 | 3.7753643E-6 | 3.7753643E-6 | 1.0 | 0.0 | 1.5642712E-5 | 1.6180058E-5 | 2.6179898E-5 | 1.6180347 | 1.0E-5 | 1.9043336E-4 | 1.9697918E-4 | 2.2697326E-4 | 1.1522703 | 3.0E-5 | 0.0019027026 | 0.001968513 | 0.0020184147 | 1.0253499 | 5.0E-5 |
+| 6.3 | 1.3924937E-6 | 1.4411353E-6 | 1.4411353E-6 | 1.0 | 0.0 | 5.9678164E-6 | 6.1762876E-6 | 6.1762876E-6 | 1.0 | 0.0 | 7.265574E-5 | 7.519512E-5 | 8.519437E-5 | 1.1329774 | 1.0E-5 | 7.263199E-4 | 7.518355E-4 | 7.6182804E-4 | 1.0132908 | 1.0E-5 |
+| 6.4 | 1.3924937E-6 | 1.4411353E-6 | 1.4411353E-6 | 1.0 | 0.0 | 5.9678164E-6 | 6.1762876E-6 | 6.1762876E-6 | 1.0 | 0.0 | 7.265574E-5 | 7.519512E-5 | 8.519437E-5 | 1.1329774 | 1.0E-5 | 7.263199E-4 | 7.518355E-4 | 7.6182804E-4 | 1.0132908 | 1.0E-5 |
+| 6.5 | 9.876812E-7 | 1.0222045E-6 | 1.0222045E-6 | 1.0 | 0.0 | 4.2329125E-6 | 4.3808764E-6 | 4.3808764E-6 | 1.0 | 0.0 | 5.153449E-5 | 5.3337168E-5 | 6.3336636E-5 | 1.1874765 | 1.0E-5 | 5.1522546E-4 | 5.333717E-4 | 5.4336636E-4 | 1.0187386 | 1.0E-5 |
+
 ## Death Valley (Fish Lake Valley)
 *[(top)](#table-of-contents)*
 
@@ -1282,34 +1282,6 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.7 | 8.937764E-6 | 1.0023232E-5 | 1.0023232E-5 | 1.0 | 0.0 | 3.830414E-5 | 4.2956028E-5 | 6.295517E-5 | 1.4655724 | 2.0E-5 | 4.6625308E-4 | 5.228692E-4 | 5.9283257E-4 | 1.1338067 | 7.0E-5 | 0.0046527605 | 0.0052168993 | 0.0053263255 | 1.0209754 | 1.1E-4 |
 | 7.8 | 3.108007E-7 | 3.2847237E-7 | 3.2847237E-7 | 1.0 | 0.0 | 1.3320023E-6 | 1.407738E-6 | 1.407738E-6 | 1.0 | 0.0 | 1.6217007E-5 | 1.7139078E-5 | 1.7139078E-5 | 1.0 | 0.0 | 1.6215823E-4 | 1.7137795E-4 | 1.7137795E-4 | 1.0 | 0.0 |
 | 7.9 | 2.5591178E-9 | 2.6697147E-9 | 2.6697147E-9 | 1.0 | 0.0 | 1.0967647E-8 | 1.1441634E-8 | 1.1441634E-8 | 1.0 | 0.0 | 1.335311E-7 | 1.3930189E-7 | 1.3930189E-7 | 1.0 | 0.0 | 1.3353102E-6 | 1.3930189E-6 | 1.3930189E-6 | 1.0 | 0.0 |
-
-## Owens Valley
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Owens_Valley_1wk.png) | ![MPD](Owens_Valley_1mo.png) | ![MPD](Owens_Valley_1yr.png) | ![MPD](Owens_Valley_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.83821E-5 | 3.628889E-6 | 3.628889E-6 | 1.0 | 0.0 | 2.0733538E-4 | 1.5552296E-5 | 4.5551827E-5 | 2.9289458 | 3.0E-5 | 0.002521386 | 1.8933373E-4 | 2.7931668E-4 | 1.4752611 | 9.0E-5 | 0.024929691 | 0.0019262071 | 0.0020759183 | 1.0777233 | 1.5E-4 |
-| 6.1 | 4.83821E-5 | 3.628889E-6 | 3.628889E-6 | 1.0 | 0.0 | 2.0733538E-4 | 1.5552296E-5 | 4.5551827E-5 | 2.9289458 | 3.0E-5 | 0.002521386 | 1.8933373E-4 | 2.7931668E-4 | 1.4752611 | 9.0E-5 | 0.024929691 | 0.0019262071 | 0.0020759183 | 1.0777233 | 1.5E-4 |
-| 6.2 | 4.83821E-5 | 3.628889E-6 | 3.628889E-6 | 1.0 | 0.0 | 2.0733538E-4 | 1.5552296E-5 | 4.5551827E-5 | 2.9289458 | 3.0E-5 | 0.002521386 | 1.8933373E-4 | 2.7931668E-4 | 1.4752611 | 9.0E-5 | 0.024929691 | 0.0019262071 | 0.0020759183 | 1.0777233 | 1.5E-4 |
-| 6.3 | 3.953008E-5 | 3.1566549E-6 | 3.1566549E-6 | 1.0 | 0.0 | 1.6940363E-4 | 1.35284545E-5 | 4.352805E-5 | 3.217518 | 3.0E-5 | 0.002060538 | 1.6469722E-4 | 2.3468569E-4 | 1.4249524 | 7.0E-5 | 0.020415364 | 0.0016598707 | 0.0017696881 | 1.0661602 | 1.1E-4 |
-| 6.4 | 3.953008E-5 | 3.1566549E-6 | 3.1566549E-6 | 1.0 | 0.0 | 1.6940363E-4 | 1.35284545E-5 | 4.352805E-5 | 3.217518 | 3.0E-5 | 0.002060538 | 1.6469722E-4 | 2.3468569E-4 | 1.4249524 | 7.0E-5 | 0.020415364 | 0.0016598707 | 0.0017696881 | 1.0661602 | 1.1E-4 |
-| 6.5 | 3.457342E-5 | 2.9724126E-6 | 2.9724126E-6 | 1.0 | 0.0 | 1.4816338E-4 | 1.2738853E-5 | 4.273847E-5 | 3.35497 | 3.0E-5 | 0.0018023965 | 1.550852E-4 | 2.2507434E-4 | 1.4512948 | 7.0E-5 | 0.017878477 | 0.001556161 | 0.0016659899 | 1.0705768 | 1.1E-4 |
-| 6.6 | 3.1127765E-5 | 2.8750662E-6 | 2.8750662E-6 | 1.0 | 0.0 | 1.3339789E-4 | 1.2321659E-5 | 4.2321288E-5 | 3.4347072 | 3.0E-5 | 0.0016229092 | 1.5000656E-4 | 2.1999606E-4 | 1.4665763 | 7.0E-5 | 0.016111081 | 0.0015015614 | 0.0016113962 | 1.073147 | 1.1E-4 |
-| 6.7 | 2.806885E-5 | 2.810841E-6 | 2.810841E-6 | 1.0 | 0.0 | 1.2028952E-4 | 1.2046409E-5 | 4.204605E-5 | 3.4903386 | 3.0E-5 | 0.001463541 | 1.4665585E-4 | 2.1664558E-4 | 1.4772379 | 7.0E-5 | 0.014539397 | 0.0014659748 | 0.0015758135 | 1.0749254 | 1.1E-4 |
-| 6.8 | 2.524524E-5 | 2.2357387E-6 | 2.2357387E-6 | 1.0 | 0.0 | 1.0818939E-4 | 9.581704E-6 | 3.9581417E-5 | 4.130937 | 3.0E-5 | 0.0013164099 | 1.166513E-4 | 1.8664314E-4 | 1.600009 | 7.0E-5 | 0.01308639 | 0.0011661743 | 0.001276046 | 1.0942155 | 1.1E-4 |
-| 6.9 | 2.2704568E-5 | 1.608441E-6 | 1.608441E-6 | 1.0 | 0.0 | 9.730166E-5 | 6.8933005E-6 | 3.6893092E-5 | 5.3520217 | 3.0E-5 | 0.0011840039 | 8.392272E-5 | 1.4391768E-4 | 1.7148834 | 6.0E-5 | 0.011777153 | 8.391226E-4 | 9.3903864E-4 | 1.1190721 | 1.0E-4 |
-| 7.0 | 2.0871712E-5 | 1.5398031E-6 | 1.5398031E-6 | 1.0 | 0.0 | 8.944713E-5 | 6.5991394E-6 | 3.659894E-5 | 5.546017 | 3.0E-5 | 0.0010884746 | 8.0341575E-5 | 1.4033675E-4 | 1.7467513 | 6.0E-5 | 0.010831586 | 8.0329797E-4 | 9.0321765E-4 | 1.1243868 | 1.0E-4 |
-| 7.1 | 1.944928E-5 | 1.3866381E-6 | 1.3866381E-6 | 1.0 | 0.0 | 8.335139E-5 | 5.942721E-6 | 3.5942543E-5 | 6.0481625 | 3.0E-5 | 0.0010143308 | 7.235024E-5 | 1.323459E-4 | 1.8292392 | 6.0E-5 | 0.010097133 | 7.234255E-4 | 8.233531E-4 | 1.1381313 | 1.0E-4 |
-| 7.2 | 1.7876306E-5 | 1.249108E-6 | 1.249108E-6 | 1.0 | 0.0 | 7.6610486E-5 | 5.353309E-6 | 3.5353147E-5 | 6.6039805 | 3.0E-5 | 9.3233347E-4 | 6.5174594E-5 | 1.2517069E-4 | 1.9205441 | 6.0E-5 | 0.009284316 | 6.5169286E-4 | 7.5162767E-4 | 1.1533465 | 1.0E-4 |
-| 7.3 | 1.2618672E-5 | 1.1117008E-6 | 1.1117008E-6 | 1.0 | 0.0 | 5.40789E-5 | 4.7644235E-6 | 3.476428E-5 | 7.2966394 | 3.0E-5 | 6.582117E-4 | 5.800532E-5 | 1.18001844E-4 | 2.0343277 | 6.0E-5 | 0.0065626553 | 5.800349E-4 | 6.799769E-4 | 1.1723034 | 1.0E-4 |
-| 7.4 | 7.4874442E-6 | 8.5501574E-7 | 8.5501574E-7 | 1.0 | 0.0 | 3.208865E-5 | 3.6643482E-6 | 3.3664237E-5 | 9.186965 | 3.0E-5 | 3.906093E-4 | 4.461253E-5 | 1.04609855E-4 | 2.3448536 | 6.0E-5 | 0.003899234 | 4.4612843E-4 | 5.4608384E-4 | 1.2240506 | 1.0E-4 |
-| 7.5 | 2.4734156E-6 | 6.069623E-7 | 6.069623E-7 | 1.0 | 0.0 | 1.060031E-5 | 2.6012644E-6 | 3.2601187E-5 | 12.532823 | 3.0E-5 | 1.2905113E-4 | 3.1669937E-5 | 8.166835E-5 | 2.5787342 | 5.0E-5 | 0.0012897621 | 3.166546E-4 | 3.6663873E-4 | 1.1578507 | 5.0E-5 |
-| 7.6 | 1.1328841E-6 | 3.1970308E-7 | 3.1970308E-7 | 1.0 | 0.0 | 4.8552088E-6 | 1.3701554E-6 | 1.3701554E-6 | 1.0 | 0.0 | 5.9110564E-5 | 1.6681515E-5 | 2.668135E-5 | 1.599456 | 1.0E-5 | 5.9094845E-4 | 1.6680283E-4 | 1.7680116E-4 | 1.059941 | 1.0E-5 |
-| 7.7 | 4.8613185E-7 | 8.966636E-8 | 8.966636E-8 | 1.0 | 0.0 | 2.0834207E-6 | 3.8428433E-7 | 3.8428433E-7 | 1.0 | 0.0 | 2.536535E-5 | 4.6786527E-6 | 4.6786527E-6 | 1.0 | 0.0 | 2.5362454E-4 | 4.6785608E-5 | 4.6785608E-5 | 1.0 | 0.0 |
 
 ## San Andreas (Coachella) rev
 *[(top)](#table-of-contents)*
@@ -1345,26 +1317,61 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.2 | 2.3004484E-6 | 2.792476E-6 | 2.792476E-6 | 1.0 | 0.0 | 9.859027E-6 | 1.1967699E-5 | 1.1967699E-5 | 1.0 | 0.0 | 1.2002704E-4 | 1.4569703E-4 | 1.4569703E-4 | 1.0 | 0.0 | 0.0011996223 | 0.0016005031 | 0.0016005031 | 1.0 | 0.0 |
 | 8.3 | 1.0424446E-7 | 5.8324215E-8 | 5.8324215E-8 | 1.0 | 0.0 | 4.4676187E-7 | 2.499609E-7 | 2.499609E-7 | 1.0 | 0.0 | 5.439312E-6 | 3.04327E-6 | 3.04327E-6 | 1.0 | 0.0 | 5.4391792E-5 | 3.1994135E-5 | 3.1994135E-5 | 1.0 | 0.0 |
 
-## Cady
+## Owens Valley
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Cady_1wk.png) | ![MPD](Cady_1mo.png) | ![MPD](Cady_1yr.png) | ![MPD](Cady_10yr.png) |
+| ![MPD](Owens_Valley_1wk.png) | ![MPD](Owens_Valley_1mo.png) | ![MPD](Owens_Valley_1yr.png) | ![MPD](Owens_Valley_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.9892565E-5 | 2.1859532E-5 | 2.1859532E-5 | 1.0 | 0.0 | 8.525106E-5 | 9.368086E-5 | 1.0367992E-4 | 1.1067353 | 1.0E-5 | 0.0010374374 | 0.0011400586 | 0.0011700244 | 1.0262845 | 3.0E-5 | 0.010326075 | 0.011351115 | 0.011469753 | 1.0104517 | 1.2E-4 |
-| 6.1 | 1.9892565E-5 | 2.1859532E-5 | 2.1859532E-5 | 1.0 | 0.0 | 8.525106E-5 | 9.368086E-5 | 1.0367992E-4 | 1.1067353 | 1.0E-5 | 0.0010374374 | 0.0011400586 | 0.0011700244 | 1.0262845 | 3.0E-5 | 0.010326075 | 0.011351115 | 0.011469753 | 1.0104517 | 1.2E-4 |
-| 6.2 | 1.9892565E-5 | 2.1859532E-5 | 2.1859532E-5 | 1.0 | 0.0 | 8.525106E-5 | 9.368086E-5 | 1.0367992E-4 | 1.1067353 | 1.0E-5 | 0.0010374374 | 0.0011400586 | 0.0011700244 | 1.0262845 | 3.0E-5 | 0.010326075 | 0.011351115 | 0.011469753 | 1.0104517 | 1.2E-4 |
-| 6.3 | 1.1117327E-5 | 1.21770145E-5 | 1.21770145E-5 | 1.0 | 0.0 | 4.764482E-5 | 5.218634E-5 | 6.218582E-5 | 1.191611 | 1.0E-5 | 5.7992124E-4 | 6.3521496E-4 | 6.5520225E-4 | 1.0314654 | 2.0E-5 | 0.0057841022 | 0.0063370992 | 0.0064066555 | 1.0109761 | 7.0E-5 |
-| 6.4 | 1.1117327E-5 | 1.21770145E-5 | 1.21770145E-5 | 1.0 | 0.0 | 4.764482E-5 | 5.218634E-5 | 6.218582E-5 | 1.191611 | 1.0E-5 | 5.7992124E-4 | 6.3521496E-4 | 6.5520225E-4 | 1.0314654 | 2.0E-5 | 0.0057841022 | 0.0063370992 | 0.0064066555 | 1.0109761 | 7.0E-5 |
-| 6.5 | 6.103093E-6 | 6.672252E-6 | 6.672252E-6 | 1.0 | 0.0 | 2.615585E-5 | 2.8595123E-5 | 2.8595123E-5 | 1.0 | 0.0 | 3.1840094E-4 | 3.4810256E-4 | 3.4810256E-4 | 1.0 | 0.0 | 0.0031794512 | 0.003476807 | 0.0034967375 | 1.0057324 | 2.0E-5 |
-| 6.6 | 5.817237E-6 | 6.3658817E-6 | 6.3658817E-6 | 1.0 | 0.0 | 2.4930776E-5 | 2.7282134E-5 | 2.7282134E-5 | 1.0 | 0.0 | 3.034899E-4 | 3.321218E-4 | 3.321218E-4 | 1.0 | 0.0 | 0.0030307577 | 0.0033174767 | 0.0033374103 | 1.0060086 | 2.0E-5 |
-| 6.7 | 4.8846314E-6 | 5.3407534E-6 | 5.3407534E-6 | 1.0 | 0.0 | 2.0933967E-5 | 2.288881E-5 | 2.288881E-5 | 1.0 | 0.0 | 2.5484123E-4 | 2.786474E-4 | 2.786474E-4 | 1.0 | 0.0 | 0.0025454918 | 0.0027841358 | 0.00280408 | 1.0071635 | 2.0E-5 |
-| 6.8 | 1.7788773E-6 | 1.9399733E-6 | 1.9399733E-6 | 1.0 | 0.0 | 7.6237375E-6 | 8.314153E-6 | 8.314153E-6 | 1.0 | 0.0 | 9.281505E-5 | 1.01221696E-4 | 1.01221696E-4 | 1.0 | 0.0 | 9.2776294E-4 | 0.0010119105 | 0.0010219004 | 1.0098723 | 1.0E-5 |
-| 6.9 | 7.5455404E-7 | 8.297399E-7 | 8.297399E-7 | 1.0 | 0.0 | 3.233799E-6 | 3.5560251E-6 | 3.5560251E-6 | 1.0 | 0.0 | 3.937079E-5 | 4.3294083E-5 | 4.3294083E-5 | 1.0 | 0.0 | 3.9363815E-4 | 4.3288944E-4 | 4.4288512E-4 | 1.0230906 | 1.0E-5 |
-| 7.0 | 6.8578805E-7 | 7.5420957E-7 | 7.5420957E-7 | 1.0 | 0.0 | 2.9390883E-6 | 3.2323244E-6 | 3.2323244E-6 | 1.0 | 0.0 | 3.578281E-5 | 3.935317E-5 | 3.935317E-5 | 1.0 | 0.0 | 3.577705E-4 | 3.934945E-4 | 4.0349056E-4 | 1.0254033 | 1.0E-5 |
+| 6.0 | 4.83821E-5 | 3.628889E-6 | 3.628889E-6 | 1.0 | 0.0 | 2.0733538E-4 | 1.5552296E-5 | 4.5551827E-5 | 2.9289458 | 3.0E-5 | 0.002521386 | 1.8933373E-4 | 2.7931668E-4 | 1.4752611 | 9.0E-5 | 0.024929691 | 0.0019262071 | 0.0020759183 | 1.0777233 | 1.5E-4 |
+| 6.1 | 4.83821E-5 | 3.628889E-6 | 3.628889E-6 | 1.0 | 0.0 | 2.0733538E-4 | 1.5552296E-5 | 4.5551827E-5 | 2.9289458 | 3.0E-5 | 0.002521386 | 1.8933373E-4 | 2.7931668E-4 | 1.4752611 | 9.0E-5 | 0.024929691 | 0.0019262071 | 0.0020759183 | 1.0777233 | 1.5E-4 |
+| 6.2 | 4.83821E-5 | 3.628889E-6 | 3.628889E-6 | 1.0 | 0.0 | 2.0733538E-4 | 1.5552296E-5 | 4.5551827E-5 | 2.9289458 | 3.0E-5 | 0.002521386 | 1.8933373E-4 | 2.7931668E-4 | 1.4752611 | 9.0E-5 | 0.024929691 | 0.0019262071 | 0.0020759183 | 1.0777233 | 1.5E-4 |
+| 6.3 | 3.953008E-5 | 3.1566549E-6 | 3.1566549E-6 | 1.0 | 0.0 | 1.6940363E-4 | 1.35284545E-5 | 4.352805E-5 | 3.217518 | 3.0E-5 | 0.002060538 | 1.6469722E-4 | 2.3468569E-4 | 1.4249524 | 7.0E-5 | 0.020415364 | 0.0016598707 | 0.0017696881 | 1.0661602 | 1.1E-4 |
+| 6.4 | 3.953008E-5 | 3.1566549E-6 | 3.1566549E-6 | 1.0 | 0.0 | 1.6940363E-4 | 1.35284545E-5 | 4.352805E-5 | 3.217518 | 3.0E-5 | 0.002060538 | 1.6469722E-4 | 2.3468569E-4 | 1.4249524 | 7.0E-5 | 0.020415364 | 0.0016598707 | 0.0017696881 | 1.0661602 | 1.1E-4 |
+| 6.5 | 3.457342E-5 | 2.9724126E-6 | 2.9724126E-6 | 1.0 | 0.0 | 1.4816338E-4 | 1.2738853E-5 | 4.273847E-5 | 3.35497 | 3.0E-5 | 0.0018023965 | 1.550852E-4 | 2.2507434E-4 | 1.4512948 | 7.0E-5 | 0.017878477 | 0.001556161 | 0.0016659899 | 1.0705768 | 1.1E-4 |
+| 6.6 | 3.1127765E-5 | 2.8750662E-6 | 2.8750662E-6 | 1.0 | 0.0 | 1.3339789E-4 | 1.2321659E-5 | 4.2321288E-5 | 3.4347072 | 3.0E-5 | 0.0016229092 | 1.5000656E-4 | 2.1999606E-4 | 1.4665763 | 7.0E-5 | 0.016111081 | 0.0015015614 | 0.0016113962 | 1.073147 | 1.1E-4 |
+| 6.7 | 2.806885E-5 | 2.810841E-6 | 2.810841E-6 | 1.0 | 0.0 | 1.2028952E-4 | 1.2046409E-5 | 4.204605E-5 | 3.4903386 | 3.0E-5 | 0.001463541 | 1.4665585E-4 | 2.1664558E-4 | 1.4772379 | 7.0E-5 | 0.014539397 | 0.0014659748 | 0.0015758135 | 1.0749254 | 1.1E-4 |
+| 6.8 | 2.524524E-5 | 2.2357387E-6 | 2.2357387E-6 | 1.0 | 0.0 | 1.0818939E-4 | 9.581704E-6 | 3.9581417E-5 | 4.130937 | 3.0E-5 | 0.0013164099 | 1.166513E-4 | 1.8664314E-4 | 1.600009 | 7.0E-5 | 0.01308639 | 0.0011661743 | 0.001276046 | 1.0942155 | 1.1E-4 |
+| 6.9 | 2.2704568E-5 | 1.608441E-6 | 1.608441E-6 | 1.0 | 0.0 | 9.730166E-5 | 6.8933005E-6 | 3.6893092E-5 | 5.3520217 | 3.0E-5 | 0.0011840039 | 8.392272E-5 | 1.4391768E-4 | 1.7148834 | 6.0E-5 | 0.011777153 | 8.391226E-4 | 9.3903864E-4 | 1.1190721 | 1.0E-4 |
+| 7.0 | 2.0871712E-5 | 1.5398031E-6 | 1.5398031E-6 | 1.0 | 0.0 | 8.944713E-5 | 6.5991394E-6 | 3.659894E-5 | 5.546017 | 3.0E-5 | 0.0010884746 | 8.0341575E-5 | 1.4033675E-4 | 1.7467513 | 6.0E-5 | 0.010831586 | 8.0329797E-4 | 9.0321765E-4 | 1.1243868 | 1.0E-4 |
+| 7.1 | 1.944928E-5 | 1.3866381E-6 | 1.3866381E-6 | 1.0 | 0.0 | 8.335139E-5 | 5.942721E-6 | 3.5942543E-5 | 6.0481625 | 3.0E-5 | 0.0010143308 | 7.235024E-5 | 1.323459E-4 | 1.8292392 | 6.0E-5 | 0.010097133 | 7.234255E-4 | 8.233531E-4 | 1.1381313 | 1.0E-4 |
+| 7.2 | 1.7876306E-5 | 1.249108E-6 | 1.249108E-6 | 1.0 | 0.0 | 7.6610486E-5 | 5.353309E-6 | 3.5353147E-5 | 6.6039805 | 3.0E-5 | 9.3233347E-4 | 6.5174594E-5 | 1.2517069E-4 | 1.9205441 | 6.0E-5 | 0.009284316 | 6.5169286E-4 | 7.5162767E-4 | 1.1533465 | 1.0E-4 |
+| 7.3 | 1.2618672E-5 | 1.1117008E-6 | 1.1117008E-6 | 1.0 | 0.0 | 5.40789E-5 | 4.7644235E-6 | 3.476428E-5 | 7.2966394 | 3.0E-5 | 6.582117E-4 | 5.800532E-5 | 1.18001844E-4 | 2.0343277 | 6.0E-5 | 0.0065626553 | 5.800349E-4 | 6.799769E-4 | 1.1723034 | 1.0E-4 |
+| 7.4 | 7.4874442E-6 | 8.5501574E-7 | 8.5501574E-7 | 1.0 | 0.0 | 3.208865E-5 | 3.6643482E-6 | 3.3664237E-5 | 9.186965 | 3.0E-5 | 3.906093E-4 | 4.461253E-5 | 1.04609855E-4 | 2.3448536 | 6.0E-5 | 0.003899234 | 4.4612843E-4 | 5.4608384E-4 | 1.2240506 | 1.0E-4 |
+| 7.5 | 2.4734156E-6 | 6.069623E-7 | 6.069623E-7 | 1.0 | 0.0 | 1.060031E-5 | 2.6012644E-6 | 3.2601187E-5 | 12.532823 | 3.0E-5 | 1.2905113E-4 | 3.1669937E-5 | 8.166835E-5 | 2.5787342 | 5.0E-5 | 0.0012897621 | 3.166546E-4 | 3.6663873E-4 | 1.1578507 | 5.0E-5 |
+| 7.6 | 1.1328841E-6 | 3.1970308E-7 | 3.1970308E-7 | 1.0 | 0.0 | 4.8552088E-6 | 1.3701554E-6 | 1.3701554E-6 | 1.0 | 0.0 | 5.9110564E-5 | 1.6681515E-5 | 2.668135E-5 | 1.599456 | 1.0E-5 | 5.9094845E-4 | 1.6680283E-4 | 1.7680116E-4 | 1.059941 | 1.0E-5 |
+| 7.7 | 4.8613185E-7 | 8.966636E-8 | 8.966636E-8 | 1.0 | 0.0 | 2.0834207E-6 | 3.8428433E-7 | 3.8428433E-7 | 1.0 | 0.0 | 2.536535E-5 | 4.6786527E-6 | 4.6786527E-6 | 1.0 | 0.0 | 2.5362454E-4 | 4.6785608E-5 | 4.6785608E-5 | 1.0 | 0.0 |
+
+## Independence rev 2011
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Independence_rev_2011_1wk.png) | ![MPD](Independence_rev_2011_1mo.png) | ![MPD](Independence_rev_2011_1yr.png) | ![MPD](Independence_rev_2011_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 4.422171E-6 | 4.326278E-6 | 4.326278E-6 | 1.0 | 0.0 | 1.8952025E-5 | 1.8541077E-5 | 2.8540891E-5 | 1.539333 | 1.0E-5 | 2.3071647E-4 | 2.2571722E-4 | 2.7570594E-4 | 1.2214661 | 5.0E-5 | 0.0023047708 | 0.0022551732 | 0.00238488 | 1.0575153 | 1.3E-4 |
+| 6.1 | 4.422171E-6 | 4.326278E-6 | 4.326278E-6 | 1.0 | 0.0 | 1.8952025E-5 | 1.8541077E-5 | 2.8540891E-5 | 1.539333 | 1.0E-5 | 2.3071647E-4 | 2.2571722E-4 | 2.7570594E-4 | 1.2214661 | 5.0E-5 | 0.0023047708 | 0.0022551732 | 0.00238488 | 1.0575153 | 1.3E-4 |
+| 6.2 | 4.422171E-6 | 4.326278E-6 | 4.326278E-6 | 1.0 | 0.0 | 1.8952025E-5 | 1.8541077E-5 | 2.8540891E-5 | 1.539333 | 1.0E-5 | 2.3071647E-4 | 2.2571722E-4 | 2.7570594E-4 | 1.2214661 | 5.0E-5 | 0.0023047708 | 0.0022551732 | 0.00238488 | 1.0575153 | 1.3E-4 |
+| 6.3 | 4.422171E-6 | 4.326278E-6 | 4.326278E-6 | 1.0 | 0.0 | 1.8952025E-5 | 1.8541077E-5 | 2.8540891E-5 | 1.539333 | 1.0E-5 | 2.3071647E-4 | 2.2571722E-4 | 2.7570594E-4 | 1.2214661 | 5.0E-5 | 0.0023047708 | 0.0022551732 | 0.00238488 | 1.0575153 | 1.3E-4 |
+| 6.4 | 4.422171E-6 | 4.326278E-6 | 4.326278E-6 | 1.0 | 0.0 | 1.8952025E-5 | 1.8541077E-5 | 2.8540891E-5 | 1.539333 | 1.0E-5 | 2.3071647E-4 | 2.2571722E-4 | 2.7570594E-4 | 1.2214661 | 5.0E-5 | 0.0023047708 | 0.0022551732 | 0.00238488 | 1.0575153 | 1.3E-4 |
+| 6.5 | 4.422171E-6 | 4.326278E-6 | 4.326278E-6 | 1.0 | 0.0 | 1.8952025E-5 | 1.8541077E-5 | 2.8540891E-5 | 1.539333 | 1.0E-5 | 2.3071647E-4 | 2.2571722E-4 | 2.7570594E-4 | 1.2214661 | 5.0E-5 | 0.0023047708 | 0.0022551732 | 0.00238488 | 1.0575153 | 1.3E-4 |
+| 6.6 | 2.663744E-6 | 2.532024E-6 | 2.532024E-6 | 1.0 | 0.0 | 1.1415996E-5 | 1.0851489E-5 | 2.085138E-5 | 1.9215226 | 1.0E-5 | 1.3898089E-4 | 1.3210934E-4 | 1.7210406E-4 | 1.3027395 | 4.0E-5 | 0.0013889399 | 0.0013203564 | 0.0014302111 | 1.0832008 | 1.1E-4 |
+| 6.7 | 2.663744E-6 | 2.532024E-6 | 2.532024E-6 | 1.0 | 0.0 | 1.1415996E-5 | 1.0851489E-5 | 2.085138E-5 | 1.9215226 | 1.0E-5 | 1.3898089E-4 | 1.3210934E-4 | 1.7210406E-4 | 1.3027395 | 4.0E-5 | 0.0013889399 | 0.0013203564 | 0.0014302111 | 1.0832008 | 1.1E-4 |
+| 6.8 | 1.9716529E-6 | 1.8322906E-6 | 1.8322906E-6 | 1.0 | 0.0 | 8.449913E-6 | 7.852651E-6 | 1.7852573E-5 | 2.2734451 | 1.0E-5 | 1.0287284E-4 | 9.5601965E-5 | 1.3559814E-4 | 1.4183614 | 4.0E-5 | 0.0010282523 | 9.556213E-4 | 0.0010655161 | 1.1149983 | 1.1E-4 |
+| 6.9 | 1.8788617E-6 | 1.7430302E-6 | 1.7430302E-6 | 1.0 | 0.0 | 8.0522395E-6 | 7.4701093E-6 | 1.7470034E-5 | 2.3386586 | 1.0E-5 | 9.80316E-5 | 9.09449E-5 | 1.3094126E-4 | 1.4397868 | 4.0E-5 | 9.798837E-4 | 9.090889E-4 | 0.001008998 | 1.1099002 | 1.0E-4 |
+| 7.0 | 1.5045488E-6 | 1.384976E-6 | 1.384976E-6 | 1.0 | 0.0 | 6.44805E-6 | 5.9355984E-6 | 1.5935539E-5 | 2.68474 | 1.0E-5 | 7.8502184E-5 | 7.226357E-5 | 1.1226068E-4 | 1.5534893 | 4.0E-5 | 7.8474457E-4 | 7.224058E-4 | 8.2233356E-4 | 1.1383264 | 1.0E-4 |
+| 7.1 | 1.272341E-6 | 1.162532E-6 | 1.162532E-6 | 1.0 | 0.0 | 5.4528787E-6 | 4.9822706E-6 | 1.4982221E-5 | 3.007107 | 1.0E-5 | 6.6386776E-5 | 6.065749E-5 | 1.0065507E-4 | 1.6594003 | 4.0E-5 | 6.636695E-4 | 6.0641253E-4 | 7.063519E-4 | 1.1648042 | 1.0E-4 |
+| 7.2 | 1.0416892E-6 | 9.410073E-7 | 9.410073E-7 | 1.0 | 0.0 | 4.464375E-6 | 4.0328823E-6 | 1.4032842E-5 | 3.4796062 | 1.0E-5 | 5.4352407E-5 | 4.9099253E-5 | 7.909778E-5 | 1.6109773 | 3.0E-5 | 5.4339116E-4 | 4.908859E-4 | 5.8084173E-4 | 1.183252 | 9.0E-5 |
+| 7.3 | 7.9450155E-7 | 7.235146E-7 | 7.235146E-7 | 1.0 | 0.0 | 3.4050022E-6 | 3.1007733E-6 | 1.3100742E-5 | 4.2249923 | 1.0E-5 | 4.1455114E-5 | 3.775127E-5 | 6.775014E-5 | 1.7946452 | 3.0E-5 | 4.144738E-4 | 3.774497E-4 | 4.6741572E-4 | 1.2383524 | 9.0E-5 |
+| 7.4 | 5.3893444E-7 | 5.019602E-7 | 5.019602E-7 | 1.0 | 0.0 | 2.309717E-6 | 2.1512562E-6 | 1.2151235E-5 | 5.648437 | 1.0E-5 | 2.8120441E-5 | 2.6191234E-5 | 5.619045E-5 | 2.1453915 | 3.0E-5 | 2.8116882E-4 | 2.618819E-4 | 3.5185835E-4 | 1.3435763 | 9.0E-5 |
+| 7.5 | 3.8852085E-7 | 3.6826125E-7 | 3.6826125E-7 | 1.0 | 0.0 | 1.6650882E-6 | 1.5782615E-6 | 1.1578246E-5 | 7.3360753 | 1.0E-5 | 2.027226E-5 | 1.9215167E-5 | 4.9214592E-5 | 2.5612366 | 3.0E-5 | 2.0270412E-4 | 1.9213527E-4 | 2.721199E-4 | 1.4162933 | 8.0E-5 |
+| 7.6 | 2.414929E-7 | 2.3457856E-7 | 2.3457856E-7 | 1.0 | 0.0 | 1.0349692E-6 | 1.0053363E-6 | 1.0053363E-6 | 1.0 | 0.0 | 1.2600677E-5 | 1.2239902E-5 | 2.223978E-5 | 1.81699 | 1.0E-5 | 1.2599962E-4 | 1.223924E-4 | 1.6238751E-4 | 1.3267777 | 4.0E-5 |
+| 7.7 | 6.8298014E-8 | 6.859034E-8 | 6.859034E-8 | 1.0 | 0.0 | 2.9270575E-7 | 2.9395858E-7 | 2.9395858E-7 | 1.0 | 0.0 | 3.5636867E-6 | 3.57894E-6 | 1.3578904E-5 | 3.7941132 | 1.0E-5 | 3.5636294E-5 | 3.5788875E-5 | 4.5788514E-5 | 1.2794064 | 1.0E-5 |
 
 ## Calico-Hidalgo
 *[(top)](#table-of-contents)*
@@ -1392,6 +1399,27 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.4 | 7.942452E-6 | 9.792324E-6 | 9.792324E-6 | 1.0 | 0.0 | 3.4038632E-5 | 4.196648E-5 | 4.196648E-5 | 1.0 | 0.0 | 4.1434157E-4 | 5.1083154E-4 | 5.2082643E-4 | 1.0195659 | 1.0E-5 | 0.0041356985 | 0.0050975145 | 0.005107464 | 1.0019517 | 1.0E-5 |
 | 7.5 | 4.7121216E-6 | 5.772934E-6 | 5.772934E-6 | 1.0 | 0.0 | 2.019465E-5 | 2.4740953E-5 | 2.4740953E-5 | 1.0 | 0.0 | 2.4584212E-4 | 3.0118713E-4 | 3.1118412E-4 | 1.0331919 | 1.0E-5 | 0.0024557032 | 0.003008542 | 0.0030185117 | 1.0033139 | 1.0E-5 |
 | 7.6 | 2.21172E-7 | 2.603997E-7 | 2.603997E-7 | 1.0 | 0.0 | 9.478797E-7 | 1.1159984E-6 | 1.1159984E-6 | 1.0 | 0.0 | 1.1540374E-5 | 1.3587224E-5 | 1.3587224E-5 | 1.0 | 0.0 | 1.1539775E-4 | 1.3586675E-4 | 1.3586675E-4 | 1.0 | 0.0 |
+
+## Cady
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Cady_1wk.png) | ![MPD](Cady_1mo.png) | ![MPD](Cady_1yr.png) | ![MPD](Cady_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.9892565E-5 | 2.1859532E-5 | 2.1859532E-5 | 1.0 | 0.0 | 8.525106E-5 | 9.368086E-5 | 1.0367992E-4 | 1.1067353 | 1.0E-5 | 0.0010374374 | 0.0011400586 | 0.0011700244 | 1.0262845 | 3.0E-5 | 0.010326075 | 0.011351115 | 0.011469753 | 1.0104517 | 1.2E-4 |
+| 6.1 | 1.9892565E-5 | 2.1859532E-5 | 2.1859532E-5 | 1.0 | 0.0 | 8.525106E-5 | 9.368086E-5 | 1.0367992E-4 | 1.1067353 | 1.0E-5 | 0.0010374374 | 0.0011400586 | 0.0011700244 | 1.0262845 | 3.0E-5 | 0.010326075 | 0.011351115 | 0.011469753 | 1.0104517 | 1.2E-4 |
+| 6.2 | 1.9892565E-5 | 2.1859532E-5 | 2.1859532E-5 | 1.0 | 0.0 | 8.525106E-5 | 9.368086E-5 | 1.0367992E-4 | 1.1067353 | 1.0E-5 | 0.0010374374 | 0.0011400586 | 0.0011700244 | 1.0262845 | 3.0E-5 | 0.010326075 | 0.011351115 | 0.011469753 | 1.0104517 | 1.2E-4 |
+| 6.3 | 1.1117327E-5 | 1.21770145E-5 | 1.21770145E-5 | 1.0 | 0.0 | 4.764482E-5 | 5.218634E-5 | 6.218582E-5 | 1.191611 | 1.0E-5 | 5.7992124E-4 | 6.3521496E-4 | 6.5520225E-4 | 1.0314654 | 2.0E-5 | 0.0057841022 | 0.0063370992 | 0.0064066555 | 1.0109761 | 7.0E-5 |
+| 6.4 | 1.1117327E-5 | 1.21770145E-5 | 1.21770145E-5 | 1.0 | 0.0 | 4.764482E-5 | 5.218634E-5 | 6.218582E-5 | 1.191611 | 1.0E-5 | 5.7992124E-4 | 6.3521496E-4 | 6.5520225E-4 | 1.0314654 | 2.0E-5 | 0.0057841022 | 0.0063370992 | 0.0064066555 | 1.0109761 | 7.0E-5 |
+| 6.5 | 6.103093E-6 | 6.672252E-6 | 6.672252E-6 | 1.0 | 0.0 | 2.615585E-5 | 2.8595123E-5 | 2.8595123E-5 | 1.0 | 0.0 | 3.1840094E-4 | 3.4810256E-4 | 3.4810256E-4 | 1.0 | 0.0 | 0.0031794512 | 0.003476807 | 0.0034967375 | 1.0057324 | 2.0E-5 |
+| 6.6 | 5.817237E-6 | 6.3658817E-6 | 6.3658817E-6 | 1.0 | 0.0 | 2.4930776E-5 | 2.7282134E-5 | 2.7282134E-5 | 1.0 | 0.0 | 3.034899E-4 | 3.321218E-4 | 3.321218E-4 | 1.0 | 0.0 | 0.0030307577 | 0.0033174767 | 0.0033374103 | 1.0060086 | 2.0E-5 |
+| 6.7 | 4.8846314E-6 | 5.3407534E-6 | 5.3407534E-6 | 1.0 | 0.0 | 2.0933967E-5 | 2.288881E-5 | 2.288881E-5 | 1.0 | 0.0 | 2.5484123E-4 | 2.786474E-4 | 2.786474E-4 | 1.0 | 0.0 | 0.0025454918 | 0.0027841358 | 0.00280408 | 1.0071635 | 2.0E-5 |
+| 6.8 | 1.7788773E-6 | 1.9399733E-6 | 1.9399733E-6 | 1.0 | 0.0 | 7.6237375E-6 | 8.314153E-6 | 8.314153E-6 | 1.0 | 0.0 | 9.281505E-5 | 1.01221696E-4 | 1.01221696E-4 | 1.0 | 0.0 | 9.2776294E-4 | 0.0010119105 | 0.0010219004 | 1.0098723 | 1.0E-5 |
+| 6.9 | 7.5455404E-7 | 8.297399E-7 | 8.297399E-7 | 1.0 | 0.0 | 3.233799E-6 | 3.5560251E-6 | 3.5560251E-6 | 1.0 | 0.0 | 3.937079E-5 | 4.3294083E-5 | 4.3294083E-5 | 1.0 | 0.0 | 3.9363815E-4 | 4.3288944E-4 | 4.4288512E-4 | 1.0230906 | 1.0E-5 |
+| 7.0 | 6.8578805E-7 | 7.5420957E-7 | 7.5420957E-7 | 1.0 | 0.0 | 2.9390883E-6 | 3.2323244E-6 | 3.2323244E-6 | 1.0 | 0.0 | 3.578281E-5 | 3.935317E-5 | 3.935317E-5 | 1.0 | 0.0 | 3.577705E-4 | 3.934945E-4 | 4.0349056E-4 | 1.0254033 | 1.0E-5 |
 
 ## San Jacinto (San Jacinto Valley) rev
 *[(top)](#table-of-contents)*
@@ -1427,59 +1455,6 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.2 | 4.1554413E-6 | 1.5701903E-6 | 1.5701903E-6 | 1.0 | 0.0 | 1.7808914E-5 | 6.7293695E-6 | 6.7293695E-6 | 1.0 | 0.0 | 2.1680194E-4 | 8.192702E-5 | 8.192702E-5 | 1.0 | 0.0 | 0.0021659054 | 9.50935E-4 | 9.50935E-4 | 1.0 | 0.0 |
 | 8.3 | 1.2758221E-6 | 3.6275617E-7 | 3.6275617E-7 | 1.0 | 0.0 | 5.4677976E-6 | 1.5546683E-6 | 1.5546683E-6 | 1.0 | 0.0 | 6.65684E-5 | 1.8927927E-5 | 1.8927927E-5 | 1.0 | 0.0 | 6.6548464E-4 | 2.2825136E-4 | 2.2825136E-4 | 1.0 | 0.0 |
 
-## Independence rev 2011
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Independence_rev_2011_1wk.png) | ![MPD](Independence_rev_2011_1mo.png) | ![MPD](Independence_rev_2011_1yr.png) | ![MPD](Independence_rev_2011_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.422171E-6 | 4.326278E-6 | 4.326278E-6 | 1.0 | 0.0 | 1.8952025E-5 | 1.8541077E-5 | 2.8540891E-5 | 1.539333 | 1.0E-5 | 2.3071647E-4 | 2.2571722E-4 | 2.7570594E-4 | 1.2214661 | 5.0E-5 | 0.0023047708 | 0.0022551732 | 0.00238488 | 1.0575153 | 1.3E-4 |
-| 6.1 | 4.422171E-6 | 4.326278E-6 | 4.326278E-6 | 1.0 | 0.0 | 1.8952025E-5 | 1.8541077E-5 | 2.8540891E-5 | 1.539333 | 1.0E-5 | 2.3071647E-4 | 2.2571722E-4 | 2.7570594E-4 | 1.2214661 | 5.0E-5 | 0.0023047708 | 0.0022551732 | 0.00238488 | 1.0575153 | 1.3E-4 |
-| 6.2 | 4.422171E-6 | 4.326278E-6 | 4.326278E-6 | 1.0 | 0.0 | 1.8952025E-5 | 1.8541077E-5 | 2.8540891E-5 | 1.539333 | 1.0E-5 | 2.3071647E-4 | 2.2571722E-4 | 2.7570594E-4 | 1.2214661 | 5.0E-5 | 0.0023047708 | 0.0022551732 | 0.00238488 | 1.0575153 | 1.3E-4 |
-| 6.3 | 4.422171E-6 | 4.326278E-6 | 4.326278E-6 | 1.0 | 0.0 | 1.8952025E-5 | 1.8541077E-5 | 2.8540891E-5 | 1.539333 | 1.0E-5 | 2.3071647E-4 | 2.2571722E-4 | 2.7570594E-4 | 1.2214661 | 5.0E-5 | 0.0023047708 | 0.0022551732 | 0.00238488 | 1.0575153 | 1.3E-4 |
-| 6.4 | 4.422171E-6 | 4.326278E-6 | 4.326278E-6 | 1.0 | 0.0 | 1.8952025E-5 | 1.8541077E-5 | 2.8540891E-5 | 1.539333 | 1.0E-5 | 2.3071647E-4 | 2.2571722E-4 | 2.7570594E-4 | 1.2214661 | 5.0E-5 | 0.0023047708 | 0.0022551732 | 0.00238488 | 1.0575153 | 1.3E-4 |
-| 6.5 | 4.422171E-6 | 4.326278E-6 | 4.326278E-6 | 1.0 | 0.0 | 1.8952025E-5 | 1.8541077E-5 | 2.8540891E-5 | 1.539333 | 1.0E-5 | 2.3071647E-4 | 2.2571722E-4 | 2.7570594E-4 | 1.2214661 | 5.0E-5 | 0.0023047708 | 0.0022551732 | 0.00238488 | 1.0575153 | 1.3E-4 |
-| 6.6 | 2.663744E-6 | 2.532024E-6 | 2.532024E-6 | 1.0 | 0.0 | 1.1415996E-5 | 1.0851489E-5 | 2.085138E-5 | 1.9215226 | 1.0E-5 | 1.3898089E-4 | 1.3210934E-4 | 1.7210406E-4 | 1.3027395 | 4.0E-5 | 0.0013889399 | 0.0013203564 | 0.0014302111 | 1.0832008 | 1.1E-4 |
-| 6.7 | 2.663744E-6 | 2.532024E-6 | 2.532024E-6 | 1.0 | 0.0 | 1.1415996E-5 | 1.0851489E-5 | 2.085138E-5 | 1.9215226 | 1.0E-5 | 1.3898089E-4 | 1.3210934E-4 | 1.7210406E-4 | 1.3027395 | 4.0E-5 | 0.0013889399 | 0.0013203564 | 0.0014302111 | 1.0832008 | 1.1E-4 |
-| 6.8 | 1.9716529E-6 | 1.8322906E-6 | 1.8322906E-6 | 1.0 | 0.0 | 8.449913E-6 | 7.852651E-6 | 1.7852573E-5 | 2.2734451 | 1.0E-5 | 1.0287284E-4 | 9.5601965E-5 | 1.3559814E-4 | 1.4183614 | 4.0E-5 | 0.0010282523 | 9.556213E-4 | 0.0010655161 | 1.1149983 | 1.1E-4 |
-| 6.9 | 1.8788617E-6 | 1.7430302E-6 | 1.7430302E-6 | 1.0 | 0.0 | 8.0522395E-6 | 7.4701093E-6 | 1.7470034E-5 | 2.3386586 | 1.0E-5 | 9.80316E-5 | 9.09449E-5 | 1.3094126E-4 | 1.4397868 | 4.0E-5 | 9.798837E-4 | 9.090889E-4 | 0.001008998 | 1.1099002 | 1.0E-4 |
-| 7.0 | 1.5045488E-6 | 1.384976E-6 | 1.384976E-6 | 1.0 | 0.0 | 6.44805E-6 | 5.9355984E-6 | 1.5935539E-5 | 2.68474 | 1.0E-5 | 7.8502184E-5 | 7.226357E-5 | 1.1226068E-4 | 1.5534893 | 4.0E-5 | 7.8474457E-4 | 7.224058E-4 | 8.2233356E-4 | 1.1383264 | 1.0E-4 |
-| 7.1 | 1.272341E-6 | 1.162532E-6 | 1.162532E-6 | 1.0 | 0.0 | 5.4528787E-6 | 4.9822706E-6 | 1.4982221E-5 | 3.007107 | 1.0E-5 | 6.6386776E-5 | 6.065749E-5 | 1.0065507E-4 | 1.6594003 | 4.0E-5 | 6.636695E-4 | 6.0641253E-4 | 7.063519E-4 | 1.1648042 | 1.0E-4 |
-| 7.2 | 1.0416892E-6 | 9.410073E-7 | 9.410073E-7 | 1.0 | 0.0 | 4.464375E-6 | 4.0328823E-6 | 1.4032842E-5 | 3.4796062 | 1.0E-5 | 5.4352407E-5 | 4.9099253E-5 | 7.909778E-5 | 1.6109773 | 3.0E-5 | 5.4339116E-4 | 4.908859E-4 | 5.8084173E-4 | 1.183252 | 9.0E-5 |
-| 7.3 | 7.9450155E-7 | 7.235146E-7 | 7.235146E-7 | 1.0 | 0.0 | 3.4050022E-6 | 3.1007733E-6 | 1.3100742E-5 | 4.2249923 | 1.0E-5 | 4.1455114E-5 | 3.775127E-5 | 6.775014E-5 | 1.7946452 | 3.0E-5 | 4.144738E-4 | 3.774497E-4 | 4.6741572E-4 | 1.2383524 | 9.0E-5 |
-| 7.4 | 5.3893444E-7 | 5.019602E-7 | 5.019602E-7 | 1.0 | 0.0 | 2.309717E-6 | 2.1512562E-6 | 1.2151235E-5 | 5.648437 | 1.0E-5 | 2.8120441E-5 | 2.6191234E-5 | 5.619045E-5 | 2.1453915 | 3.0E-5 | 2.8116882E-4 | 2.618819E-4 | 3.5185835E-4 | 1.3435763 | 9.0E-5 |
-| 7.5 | 3.8852085E-7 | 3.6826125E-7 | 3.6826125E-7 | 1.0 | 0.0 | 1.6650882E-6 | 1.5782615E-6 | 1.1578246E-5 | 7.3360753 | 1.0E-5 | 2.027226E-5 | 1.9215167E-5 | 4.9214592E-5 | 2.5612366 | 3.0E-5 | 2.0270412E-4 | 1.9213527E-4 | 2.721199E-4 | 1.4162933 | 8.0E-5 |
-| 7.6 | 2.414929E-7 | 2.3457856E-7 | 2.3457856E-7 | 1.0 | 0.0 | 1.0349692E-6 | 1.0053363E-6 | 1.0053363E-6 | 1.0 | 0.0 | 1.2600677E-5 | 1.2239902E-5 | 2.223978E-5 | 1.81699 | 1.0E-5 | 1.2599962E-4 | 1.223924E-4 | 1.6238751E-4 | 1.3267777 | 4.0E-5 |
-| 7.7 | 6.8298014E-8 | 6.859034E-8 | 6.859034E-8 | 1.0 | 0.0 | 2.9270575E-7 | 2.9395858E-7 | 2.9395858E-7 | 1.0 | 0.0 | 3.5636867E-6 | 3.57894E-6 | 1.3578904E-5 | 3.7941132 | 1.0E-5 | 3.5636294E-5 | 3.5788875E-5 | 4.5788514E-5 | 1.2794064 | 1.0E-5 |
-
-## White Wolf (Extension)
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](White_Wolf_Extension_1wk.png) | ![MPD](White_Wolf_Extension_1mo.png) | ![MPD](White_Wolf_Extension_1yr.png) | ![MPD](White_Wolf_Extension_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 8.222555E-6 | 6.0667785E-6 | 1.6066717E-5 | 2.6483114 | 1.0E-5 | 3.5239045E-5 | 2.6000256E-5 | 3.5999998E-5 | 1.3846016 | 1.0E-5 | 4.289509E-4 | 3.1651376E-4 | 3.9648844E-4 | 1.2526736 | 8.0E-5 | 0.0042812387 | 0.0031612816 | 0.0032809023 | 1.0378393 | 1.2E-4 |
-| 6.1 | 8.222555E-6 | 6.0667785E-6 | 1.6066717E-5 | 2.6483114 | 1.0E-5 | 3.5239045E-5 | 2.6000256E-5 | 3.5999998E-5 | 1.3846016 | 1.0E-5 | 4.289509E-4 | 3.1651376E-4 | 3.9648844E-4 | 1.2526736 | 8.0E-5 | 0.0042812387 | 0.0031612816 | 0.0032809023 | 1.0378393 | 1.2E-4 |
-| 6.2 | 8.222555E-6 | 6.0667785E-6 | 1.6066717E-5 | 2.6483114 | 1.0E-5 | 3.5239045E-5 | 2.6000256E-5 | 3.5999998E-5 | 1.3846016 | 1.0E-5 | 4.289509E-4 | 3.1651376E-4 | 3.9648844E-4 | 1.2526736 | 8.0E-5 | 0.0042812387 | 0.0031612816 | 0.0032809023 | 1.0378393 | 1.2E-4 |
-| 6.3 | 8.222555E-6 | 6.0667785E-6 | 1.6066717E-5 | 2.6483114 | 1.0E-5 | 3.5239045E-5 | 2.6000256E-5 | 3.5999998E-5 | 1.3846016 | 1.0E-5 | 4.289509E-4 | 3.1651376E-4 | 3.9648844E-4 | 1.2526736 | 8.0E-5 | 0.0042812387 | 0.0031612816 | 0.0032809023 | 1.0378393 | 1.2E-4 |
-| 6.4 | 5.821773E-6 | 3.5572468E-6 | 3.5572468E-6 | 1.0 | 0.0 | 2.4950215E-5 | 1.524526E-5 | 1.524526E-5 | 1.0 | 0.0 | 3.0372653E-4 | 1.8559633E-4 | 2.1559077E-4 | 1.1616111 | 3.0E-5 | 0.0030331176 | 0.0018545217 | 0.0019144105 | 1.0322933 | 6.0E-5 |
-| 6.5 | 5.766023E-6 | 3.4991801E-6 | 3.4991801E-6 | 1.0 | 0.0 | 2.4711293E-5 | 1.4996406E-5 | 1.4996406E-5 | 1.0 | 0.0 | 3.0081844E-4 | 1.8256705E-4 | 2.1256157E-4 | 1.1642932 | 3.0E-5 | 0.0030041158 | 0.0018242787 | 0.0018841693 | 1.0328298 | 6.0E-5 |
-| 6.6 | 4.643576E-6 | 2.3326766E-6 | 2.3326766E-6 | 1.0 | 0.0 | 1.9900888E-5 | 9.997149E-6 | 9.997149E-6 | 1.0 | 0.0 | 2.4226638E-4 | 1.2170892E-4 | 1.3170771E-4 | 1.0821532 | 1.0E-5 | 0.0024200242 | 0.0012164651 | 0.0012564164 | 1.0328422 | 4.0E-5 |
-| 6.7 | 3.9529173E-6 | 1.6483899E-6 | 1.6483899E-6 | 1.0 | 0.0 | 1.6940963E-5 | 7.06451E-6 | 7.06451E-6 | 1.0 | 0.0 | 2.0623671E-4 | 8.60072E-5 | 8.60072E-5 | 1.0 | 0.0 | 0.002060454 | 8.597577E-4 | 8.797405E-4 | 1.0232424 | 2.0E-5 |
-| 6.8 | 3.4377522E-6 | 1.2245586E-6 | 1.2245586E-6 | 1.0 | 0.0 | 1.473314E-5 | 5.248098E-6 | 5.248098E-6 | 1.0 | 0.0 | 1.7936122E-4 | 6.3893815E-5 | 6.3893815E-5 | 1.0 | 0.0 | 0.0017921652 | 6.3876354E-4 | 6.5875077E-4 | 1.0312905 | 2.0E-5 |
-| 6.9 | 3.1367306E-6 | 1.003409E-6 | 1.003409E-6 | 1.0 | 0.0 | 1.3443062E-5 | 4.300318E-6 | 4.300318E-6 | 1.0 | 0.0 | 1.63657E-4 | 5.2355186E-5 | 5.2355186E-5 | 1.0 | 0.0 | 0.0016353652 | 5.234362E-4 | 5.4342573E-4 | 1.038189 | 2.0E-5 |
-| 7.0 | 2.8298145E-6 | 7.428931E-7 | 7.428931E-7 | 1.0 | 0.0 | 1.2127721E-5 | 3.183824E-6 | 3.183824E-6 | 1.0 | 0.0 | 1.47645E-4 | 3.8762417E-5 | 3.8762417E-5 | 1.0 | 0.0 | 0.0014754693 | 3.8756157E-4 | 4.075538E-4 | 1.0515847 | 2.0E-5 |
-| 7.1 | 2.4091064E-6 | 5.422966E-7 | 5.422966E-7 | 1.0 | 0.0 | 1.03247E-5 | 2.3241266E-6 | 2.3241266E-6 | 1.0 | 0.0 | 1.2569598E-4 | 2.8295914E-5 | 2.8295914E-5 | 1.0 | 0.0 | 0.001256249 | 2.8292715E-4 | 3.029215E-4 | 1.0706695 | 2.0E-5 |
-| 7.2 | 1.3875518E-6 | 1.0744113E-7 | 1.0744113E-7 | 1.0 | 0.0 | 5.9466374E-6 | 4.6046193E-7 | 4.6046193E-7 | 1.0 | 0.0 | 7.23979E-5 | 5.606111E-6 | 5.606111E-6 | 1.0 | 0.0 | 7.2374323E-4 | 5.6059806E-5 | 6.605925E-5 | 1.178371 | 1.0E-5 |
-| 7.3 | 7.056077E-7 | 5.0026372E-8 | 5.0026372E-8 | 1.0 | 0.0 | 3.0240296E-6 | 2.1439872E-7 | 2.1439872E-7 | 1.0 | 0.0 | 3.681694E-5 | 2.6103019E-6 | 2.6103019E-6 | 1.0 | 0.0 | 3.681084E-4 | 2.6102758E-5 | 2.6102758E-5 | 1.0 | 0.0 |
-| 7.4 | 5.9334678E-8 | 4.8689395E-9 | 4.8689395E-9 | 1.0 | 0.0 | 2.5429145E-7 | 2.0866883E-8 | 2.0866883E-8 | 1.0 | 0.0 | 3.095994E-6 | 2.5405427E-7 | 2.5405427E-7 | 1.0 | 0.0 | 3.095951E-5 | 2.5405411E-6 | 2.5405411E-6 | 1.0 | 0.0 |
-
 ## San Andreas (Creeping Section) 2011 CFM
 *[(top)](#table-of-contents)*
 
@@ -1514,6 +1489,114 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.2 | 8.643924E-6 | 5.488954E-6 | 5.488954E-6 | 1.0 | 0.0 | 3.704486E-5 | 2.3523877E-5 | 2.3523877E-5 | 1.0 | 0.0 | 4.5092785E-4 | 2.8636563E-4 | 2.8636563E-4 | 1.0 | 0.0 | 0.0045001395 | 0.0032564052 | 0.0032564052 | 1.0 | 0.0 |
 | 8.3 | 1.983087E-6 | 7.68342E-7 | 7.68342E-7 | 1.0 | 0.0 | 8.498917E-6 | 3.2928901E-6 | 3.2928901E-6 | 1.0 | 0.0 | 1.034694E-4 | 4.0090217E-5 | 4.0090217E-5 | 1.0 | 0.0 | 0.0010342124 | 4.7331754E-4 | 4.7331754E-4 | 1.0 | 0.0 |
 
+## White Wolf (Extension)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](White_Wolf_Extension_1wk.png) | ![MPD](White_Wolf_Extension_1mo.png) | ![MPD](White_Wolf_Extension_1yr.png) | ![MPD](White_Wolf_Extension_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 8.222555E-6 | 6.0667785E-6 | 1.6066717E-5 | 2.6483114 | 1.0E-5 | 3.5239045E-5 | 2.6000256E-5 | 3.5999998E-5 | 1.3846016 | 1.0E-5 | 4.289509E-4 | 3.1651376E-4 | 3.9648844E-4 | 1.2526736 | 8.0E-5 | 0.0042812387 | 0.0031612816 | 0.0032809023 | 1.0378393 | 1.2E-4 |
+| 6.1 | 8.222555E-6 | 6.0667785E-6 | 1.6066717E-5 | 2.6483114 | 1.0E-5 | 3.5239045E-5 | 2.6000256E-5 | 3.5999998E-5 | 1.3846016 | 1.0E-5 | 4.289509E-4 | 3.1651376E-4 | 3.9648844E-4 | 1.2526736 | 8.0E-5 | 0.0042812387 | 0.0031612816 | 0.0032809023 | 1.0378393 | 1.2E-4 |
+| 6.2 | 8.222555E-6 | 6.0667785E-6 | 1.6066717E-5 | 2.6483114 | 1.0E-5 | 3.5239045E-5 | 2.6000256E-5 | 3.5999998E-5 | 1.3846016 | 1.0E-5 | 4.289509E-4 | 3.1651376E-4 | 3.9648844E-4 | 1.2526736 | 8.0E-5 | 0.0042812387 | 0.0031612816 | 0.0032809023 | 1.0378393 | 1.2E-4 |
+| 6.3 | 8.222555E-6 | 6.0667785E-6 | 1.6066717E-5 | 2.6483114 | 1.0E-5 | 3.5239045E-5 | 2.6000256E-5 | 3.5999998E-5 | 1.3846016 | 1.0E-5 | 4.289509E-4 | 3.1651376E-4 | 3.9648844E-4 | 1.2526736 | 8.0E-5 | 0.0042812387 | 0.0031612816 | 0.0032809023 | 1.0378393 | 1.2E-4 |
+| 6.4 | 5.821773E-6 | 3.5572468E-6 | 3.5572468E-6 | 1.0 | 0.0 | 2.4950215E-5 | 1.524526E-5 | 1.524526E-5 | 1.0 | 0.0 | 3.0372653E-4 | 1.8559633E-4 | 2.1559077E-4 | 1.1616111 | 3.0E-5 | 0.0030331176 | 0.0018545217 | 0.0019144105 | 1.0322933 | 6.0E-5 |
+| 6.5 | 5.766023E-6 | 3.4991801E-6 | 3.4991801E-6 | 1.0 | 0.0 | 2.4711293E-5 | 1.4996406E-5 | 1.4996406E-5 | 1.0 | 0.0 | 3.0081844E-4 | 1.8256705E-4 | 2.1256157E-4 | 1.1642932 | 3.0E-5 | 0.0030041158 | 0.0018242787 | 0.0018841693 | 1.0328298 | 6.0E-5 |
+| 6.6 | 4.643576E-6 | 2.3326766E-6 | 2.3326766E-6 | 1.0 | 0.0 | 1.9900888E-5 | 9.997149E-6 | 9.997149E-6 | 1.0 | 0.0 | 2.4226638E-4 | 1.2170892E-4 | 1.3170771E-4 | 1.0821532 | 1.0E-5 | 0.0024200242 | 0.0012164651 | 0.0012564164 | 1.0328422 | 4.0E-5 |
+| 6.7 | 3.9529173E-6 | 1.6483899E-6 | 1.6483899E-6 | 1.0 | 0.0 | 1.6940963E-5 | 7.06451E-6 | 7.06451E-6 | 1.0 | 0.0 | 2.0623671E-4 | 8.60072E-5 | 8.60072E-5 | 1.0 | 0.0 | 0.002060454 | 8.597577E-4 | 8.797405E-4 | 1.0232424 | 2.0E-5 |
+| 6.8 | 3.4377522E-6 | 1.2245586E-6 | 1.2245586E-6 | 1.0 | 0.0 | 1.473314E-5 | 5.248098E-6 | 5.248098E-6 | 1.0 | 0.0 | 1.7936122E-4 | 6.3893815E-5 | 6.3893815E-5 | 1.0 | 0.0 | 0.0017921652 | 6.3876354E-4 | 6.5875077E-4 | 1.0312905 | 2.0E-5 |
+| 6.9 | 3.1367306E-6 | 1.003409E-6 | 1.003409E-6 | 1.0 | 0.0 | 1.3443062E-5 | 4.300318E-6 | 4.300318E-6 | 1.0 | 0.0 | 1.63657E-4 | 5.2355186E-5 | 5.2355186E-5 | 1.0 | 0.0 | 0.0016353652 | 5.234362E-4 | 5.4342573E-4 | 1.038189 | 2.0E-5 |
+| 7.0 | 2.8298145E-6 | 7.428931E-7 | 7.428931E-7 | 1.0 | 0.0 | 1.2127721E-5 | 3.183824E-6 | 3.183824E-6 | 1.0 | 0.0 | 1.47645E-4 | 3.8762417E-5 | 3.8762417E-5 | 1.0 | 0.0 | 0.0014754693 | 3.8756157E-4 | 4.075538E-4 | 1.0515847 | 2.0E-5 |
+| 7.1 | 2.4091064E-6 | 5.422966E-7 | 5.422966E-7 | 1.0 | 0.0 | 1.03247E-5 | 2.3241266E-6 | 2.3241266E-6 | 1.0 | 0.0 | 1.2569598E-4 | 2.8295914E-5 | 2.8295914E-5 | 1.0 | 0.0 | 0.001256249 | 2.8292715E-4 | 3.029215E-4 | 1.0706695 | 2.0E-5 |
+| 7.2 | 1.3875518E-6 | 1.0744113E-7 | 1.0744113E-7 | 1.0 | 0.0 | 5.9466374E-6 | 4.6046193E-7 | 4.6046193E-7 | 1.0 | 0.0 | 7.23979E-5 | 5.606111E-6 | 5.606111E-6 | 1.0 | 0.0 | 7.2374323E-4 | 5.6059806E-5 | 6.605925E-5 | 1.178371 | 1.0E-5 |
+| 7.3 | 7.056077E-7 | 5.0026372E-8 | 5.0026372E-8 | 1.0 | 0.0 | 3.0240296E-6 | 2.1439872E-7 | 2.1439872E-7 | 1.0 | 0.0 | 3.681694E-5 | 2.6103019E-6 | 2.6103019E-6 | 1.0 | 0.0 | 3.681084E-4 | 2.6102758E-5 | 2.6102758E-5 | 1.0 | 0.0 |
+| 7.4 | 5.9334678E-8 | 4.8689395E-9 | 4.8689395E-9 | 1.0 | 0.0 | 2.5429145E-7 | 2.0866883E-8 | 2.0866883E-8 | 1.0 | 0.0 | 3.095994E-6 | 2.5405427E-7 | 2.5405427E-7 | 1.0 | 0.0 | 3.095951E-5 | 2.5405411E-6 | 2.5405411E-6 | 1.0 | 0.0 |
+
+## Manix-Afton Hills
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Manix_Afton_Hills_1wk.png) | ![MPD](Manix_Afton_Hills_1mo.png) | ![MPD](Manix_Afton_Hills_1yr.png) | ![MPD](Manix_Afton_Hills_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.3783202E-5 | 1.4711459E-5 | 1.4711459E-5 | 1.0 | 0.0 | 5.906953E-5 | 6.3047686E-5 | 6.3047686E-5 | 1.0 | 0.0 | 7.189342E-4 | 7.6735264E-4 | 8.2730665E-4 | 1.078131 | 6.0E-5 | 0.0071661277 | 0.007648787 | 0.0077579455 | 1.0142714 | 1.1E-4 |
+| 6.1 | 1.3783202E-5 | 1.4711459E-5 | 1.4711459E-5 | 1.0 | 0.0 | 5.906953E-5 | 6.3047686E-5 | 6.3047686E-5 | 1.0 | 0.0 | 7.189342E-4 | 7.6735264E-4 | 8.2730665E-4 | 1.078131 | 6.0E-5 | 0.0071661277 | 0.007648787 | 0.0077579455 | 1.0142714 | 1.1E-4 |
+| 6.2 | 1.3783202E-5 | 1.4711459E-5 | 1.4711459E-5 | 1.0 | 0.0 | 5.906953E-5 | 6.3047686E-5 | 6.3047686E-5 | 1.0 | 0.0 | 7.189342E-4 | 7.6735264E-4 | 8.2730665E-4 | 1.078131 | 6.0E-5 | 0.0071661277 | 0.007648787 | 0.0077579455 | 1.0142714 | 1.1E-4 |
+| 6.3 | 1.10494875E-5 | 1.1793431E-5 | 1.1793431E-5 | 1.0 | 0.0 | 4.7354086E-5 | 5.0542356E-5 | 5.0542356E-5 | 1.0 | 0.0 | 5.763835E-4 | 6.1518984E-4 | 6.5516523E-4 | 1.0649806 | 4.0E-5 | 0.005748908 | 0.006135909 | 0.0062253564 | 1.0145777 | 9.0E-5 |
+| 6.4 | 1.10494875E-5 | 1.1793431E-5 | 1.1793431E-5 | 1.0 | 0.0 | 4.7354086E-5 | 5.0542356E-5 | 5.0542356E-5 | 1.0 | 0.0 | 5.763835E-4 | 6.1518984E-4 | 6.5516523E-4 | 1.0649806 | 4.0E-5 | 0.005748908 | 0.006135909 | 0.0062253564 | 1.0145777 | 9.0E-5 |
+| 6.5 | 9.788949E-6 | 1.0454584E-5 | 1.0454584E-5 | 1.0 | 0.0 | 4.1951964E-5 | 4.4804645E-5 | 4.4804645E-5 | 1.0 | 0.0 | 5.1064545E-4 | 5.453693E-4 | 5.853475E-4 | 1.0733048 | 4.0E-5 | 0.0050947363 | 0.005441236 | 0.005510855 | 1.0127947 | 7.0E-5 |
+| 6.6 | 8.810006E-6 | 9.413869E-6 | 9.413869E-6 | 1.0 | 0.0 | 3.775662E-5 | 4.0344577E-5 | 4.0344577E-5 | 1.0 | 0.0 | 4.5958988E-4 | 4.910934E-4 | 5.310738E-4 | 1.0814109 | 4.0E-5 | 0.0045864056 | 0.004900964 | 0.004970621 | 1.0142128 | 7.0E-5 |
+| 6.7 | 8.80128E-6 | 9.404348E-6 | 9.404348E-6 | 1.0 | 0.0 | 3.7719226E-5 | 4.0303774E-5 | 4.0303774E-5 | 1.0 | 0.0 | 4.591348E-4 | 4.9059687E-4 | 5.3057726E-4 | 1.0814934 | 4.0E-5 | 0.004581874 | 0.0048960205 | 0.004965678 | 1.0142273 | 7.0E-5 |
+| 6.8 | 6.8994877E-6 | 7.3802676E-6 | 7.3802676E-6 | 1.0 | 0.0 | 2.9568899E-5 | 3.162938E-5 | 3.162938E-5 | 1.0 | 0.0 | 3.5994186E-4 | 3.8502782E-4 | 4.150163E-4 | 1.0778865 | 3.0E-5 | 0.003593594 | 0.0038444125 | 0.0039041818 | 1.015547 | 6.0E-5 |
+| 6.9 | 4.9328037E-6 | 5.271096E-6 | 5.271096E-6 | 1.0 | 0.0 | 2.1140417E-5 | 2.2590251E-5 | 2.2590251E-5 | 1.0 | 0.0 | 2.5735417E-4 | 2.7500774E-4 | 2.9500225E-4 | 1.0727053 | 2.0E-5 | 0.0025705635 | 0.0027472796 | 0.0027971421 | 1.0181499 | 5.0E-5 |
+| 7.0 | 3.347973E-6 | 3.5901267E-6 | 3.5901267E-6 | 1.0 | 0.0 | 1.4348378E-5 | 1.538619E-5 | 1.538619E-5 | 1.0 | 0.0 | 1.746775E-4 | 1.8731486E-4 | 2.0731111E-4 | 1.106752 | 2.0E-5 | 0.0017454025 | 0.0018719723 | 0.0019118974 | 1.0213279 | 4.0E-5 |
+| 7.1 | 1.2073567E-6 | 1.2935163E-6 | 1.2935163E-6 | 1.0 | 0.0 | 5.1743755E-6 | 5.543639E-6 | 5.543639E-6 | 1.0 | 0.0 | 6.29962E-5 | 6.749335E-5 | 6.749335E-5 | 1.0 | 0.0 | 6.297835E-4 | 6.748886E-4 | 6.748886E-4 | 1.0 | 0.0 |
+
+## San Jacinto (Stepovers Combined)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](San_Jacinto_Stepovers_Combined_1wk.png) | ![MPD](San_Jacinto_Stepovers_Combined_1mo.png) | ![MPD](San_Jacinto_Stepovers_Combined_1yr.png) | ![MPD](San_Jacinto_Stepovers_Combined_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 4.0667746E-5 | 3.5319867E-5 | 4.5319513E-5 | 1.2831168 | 1.0E-5 | 1.742787E-4 | 1.5136207E-4 | 1.6136054E-4 | 1.0660567 | 1.0E-5 | 0.0021197782 | 0.0018412762 | 0.0019011657 | 1.0325261 | 6.0E-5 | 0.020996714 | 0.019011328 | 0.019119237 | 1.005676 | 1.1E-4 |
+| 6.1 | 4.0667746E-5 | 3.5319867E-5 | 4.5319513E-5 | 1.2831168 | 1.0E-5 | 1.742787E-4 | 1.5136207E-4 | 1.6136054E-4 | 1.0660567 | 1.0E-5 | 0.0021197782 | 0.0018412762 | 0.0019011657 | 1.0325261 | 6.0E-5 | 0.020996714 | 0.019011328 | 0.019119237 | 1.005676 | 1.1E-4 |
+| 6.2 | 4.0667746E-5 | 3.5319867E-5 | 4.5319513E-5 | 1.2831168 | 1.0E-5 | 1.742787E-4 | 1.5136207E-4 | 1.6136054E-4 | 1.0660567 | 1.0E-5 | 0.0021197782 | 0.0018412762 | 0.0019011657 | 1.0325261 | 6.0E-5 | 0.020996714 | 0.019011328 | 0.019119237 | 1.005676 | 1.1E-4 |
+| 6.3 | 4.0667746E-5 | 3.5319867E-5 | 4.5319513E-5 | 1.2831168 | 1.0E-5 | 1.742787E-4 | 1.5136207E-4 | 1.6136054E-4 | 1.0660567 | 1.0E-5 | 0.0021197782 | 0.0018412762 | 0.0019011657 | 1.0325261 | 6.0E-5 | 0.020996714 | 0.019011328 | 0.019119237 | 1.005676 | 1.1E-4 |
+| 6.4 | 4.0577226E-5 | 3.5191744E-5 | 4.5191395E-5 | 1.2841475 | 1.0E-5 | 1.738908E-4 | 1.5081304E-4 | 1.6081153E-4 | 1.0662973 | 1.0E-5 | 0.0021150648 | 0.0018346049 | 0.0018845132 | 1.0272038 | 5.0E-5 | 0.020950472 | 0.01894589 | 0.019043995 | 1.0051782 | 1.0E-4 |
+| 6.5 | 4.0577226E-5 | 3.5191744E-5 | 4.5191395E-5 | 1.2841475 | 1.0E-5 | 1.738908E-4 | 1.5081304E-4 | 1.6081153E-4 | 1.0662973 | 1.0E-5 | 0.0021150648 | 0.0018346049 | 0.0018845132 | 1.0272038 | 5.0E-5 | 0.020950472 | 0.01894589 | 0.019043995 | 1.0051782 | 1.0E-4 |
+| 6.6 | 4.053861E-5 | 3.5137084E-5 | 4.513673E-5 | 1.2845896 | 1.0E-5 | 1.7372532E-4 | 1.505788E-4 | 1.6057728E-4 | 1.0664004 | 1.0E-5 | 0.0021130538 | 0.0018317578 | 0.0018816662 | 1.0272462 | 5.0E-5 | 0.020930743 | 0.018917965 | 0.019016072 | 1.005186 | 1.0E-4 |
+| 6.7 | 4.0516545E-5 | 3.5106146E-5 | 4.5105793E-5 | 1.2848405 | 1.0E-5 | 1.7363077E-4 | 1.5044623E-4 | 1.6044472E-4 | 1.066459 | 1.0E-5 | 0.002111905 | 0.001830147 | 0.0018800555 | 1.0272702 | 5.0E-5 | 0.020919468 | 0.018902158 | 0.01900027 | 1.0051904 | 1.0E-4 |
+| 6.8 | 4.049434E-5 | 3.5077705E-5 | 4.507735E-5 | 1.2850714 | 1.0E-5 | 1.7353562E-4 | 1.5032434E-4 | 1.6032284E-4 | 1.0665128 | 1.0E-5 | 0.0021107488 | 0.0018286656 | 0.0018785741 | 1.0272924 | 5.0E-5 | 0.020908125 | 0.01888757 | 0.018985681 | 1.0051945 | 1.0E-4 |
+| 6.9 | 4.046386E-5 | 3.504026E-5 | 4.503991E-5 | 1.2853761 | 1.0E-5 | 1.73405E-4 | 1.5016389E-4 | 1.6016238E-4 | 1.0665839 | 1.0E-5 | 0.0021091616 | 0.0018267153 | 0.001876624 | 1.0273216 | 5.0E-5 | 0.020892553 | 0.018868342 | 0.018966455 | 1.0051999 | 1.0E-4 |
+| 7.0 | 4.036382E-5 | 3.4920806E-5 | 4.4920456E-5 | 1.2863523 | 1.0E-5 | 1.7297632E-4 | 1.4965203E-4 | 1.5965053E-4 | 1.0668117 | 1.0E-5 | 0.0021039525 | 0.001820494 | 0.001870403 | 1.027415 | 5.0E-5 | 0.02084144 | 0.018806947 | 0.018905066 | 1.0052172 | 1.0E-4 |
+| 7.1 | 4.0343282E-5 | 3.4899265E-5 | 4.4898916E-5 | 1.286529 | 1.0E-5 | 1.7288832E-4 | 1.4955971E-4 | 1.5955821E-4 | 1.0668529 | 1.0E-5 | 0.002102883 | 0.0018193721 | 0.001869281 | 1.027432 | 5.0E-5 | 0.020830948 | 0.018795822 | 0.018893942 | 1.0052203 | 1.0E-4 |
+| 7.2 | 4.0257353E-5 | 3.4803666E-5 | 4.4803317E-5 | 1.2873161 | 1.0E-5 | 1.725201E-4 | 1.4915006E-4 | 1.5914856E-4 | 1.0670366 | 1.0E-5 | 0.0020984085 | 0.0018143929 | 0.0018643021 | 1.0275074 | 5.0E-5 | 0.020787042 | 0.018746512 | 0.018844638 | 1.0052344 | 1.0E-4 |
+| 7.3 | 3.9940667E-5 | 3.4631066E-5 | 4.4630717E-5 | 1.2887481 | 1.0E-5 | 1.7116306E-4 | 1.4841043E-4 | 1.5840893E-4 | 1.0673707 | 1.0E-5 | 0.0020819185 | 0.0018054027 | 0.0018553124 | 1.0276446 | 5.0E-5 | 0.020625217 | 0.018655011 | 0.018753147 | 1.0052605 | 1.0E-4 |
+| 7.4 | 3.9721202E-5 | 3.4516357E-5 | 4.451601E-5 | 1.2897077 | 1.0E-5 | 1.7022261E-4 | 1.4791888E-4 | 1.579174E-4 | 1.0675946 | 1.0E-5 | 0.0020704903 | 0.001799428 | 0.0018493381 | 1.0277367 | 5.0E-5 | 0.020513052 | 0.018594086 | 0.018692227 | 1.0052781 | 1.0E-4 |
+| 7.5 | 3.7036873E-5 | 3.3582237E-5 | 4.3581902E-5 | 1.2977664 | 1.0E-5 | 1.5871979E-4 | 1.4391595E-4 | 1.539145E-4 | 1.069475 | 1.0E-5 | 0.0019307006 | 0.0017507714 | 0.0018006839 | 1.0285088 | 5.0E-5 | 0.019140124 | 0.018094845 | 0.018193034 | 1.0054264 | 1.0E-4 |
+| 7.6 | 3.2940967E-5 | 3.135635E-5 | 4.1356037E-5 | 1.3189046 | 1.0E-5 | 1.4116794E-4 | 1.3437745E-4 | 1.443761E-4 | 1.0744072 | 1.0E-5 | 0.0017173645 | 0.0016348199 | 0.0016847382 | 1.0305344 | 5.0E-5 | 0.01704153 | 0.016924236 | 0.017022545 | 1.0058087 | 1.0E-4 |
+| 7.7 | 2.8236149E-5 | 2.7921253E-5 | 3.7920974E-5 | 1.3581401 | 1.0E-5 | 1.2100645E-4 | 1.1965703E-4 | 1.2965583E-4 | 1.0835621 | 1.0E-5 | 0.0014722579 | 0.0014558518 | 0.0015057791 | 1.0342941 | 5.0E-5 | 0.014625421 | 0.015134497 | 0.015232983 | 1.0065074 | 1.0E-4 |
+| 7.8 | 2.4329287E-5 | 2.524342E-5 | 3.5243167E-5 | 1.3961328 | 1.0E-5 | 1.042642E-4 | 1.0818161E-4 | 1.1818053E-4 | 1.0924271 | 1.0E-5 | 0.0012686774 | 0.0013163161 | 0.0013662503 | 1.0379348 | 5.0E-5 | 0.012614589 | 0.01373106 | 0.013829686 | 1.0071827 | 1.0E-4 |
+| 7.9 | 1.9370926E-5 | 2.0453801E-5 | 3.0453597E-5 | 1.4888967 | 1.0E-5 | 8.301561E-5 | 8.7656204E-5 | 9.765533E-5 | 1.1140721 | 1.0E-5 | 0.0010102465 | 0.0010666926 | 0.0011166392 | 1.0468239 | 5.0E-5 | 0.0100566605 | 0.011216374 | 0.011315252 | 1.0088155 | 1.0E-4 |
+| 8.0 | 1.5583017E-5 | 1.5913674E-5 | 2.5913516E-5 | 1.6283804 | 1.0E-5 | 6.6782646E-5 | 6.819968E-5 | 7.8199E-5 | 1.1466182 | 1.0E-5 | 8.127754E-4 | 8.3001546E-4 | 8.699823E-4 | 1.0481519 | 4.0E-5 | 0.008098091 | 0.008796125 | 0.008885333 | 1.0101417 | 9.0E-5 |
+| 8.1 | 1.0024873E-5 | 8.308254E-6 | 8.308254E-6 | 1.0 | 0.0 | 4.2963035E-5 | 3.560632E-5 | 3.560632E-5 | 1.0 | 0.0 | 5.229494E-4 | 4.3342123E-4 | 4.5341256E-4 | 1.0461245 | 2.0E-5 | 0.0052172043 | 0.004661928 | 0.004711695 | 1.0106752 | 5.0E-5 |
+| 8.2 | 4.142796E-6 | 1.5656183E-6 | 1.5656183E-6 | 1.0 | 0.0 | 1.775472E-5 | 6.7097753E-6 | 6.7097753E-6 | 1.0 | 0.0 | 2.1614227E-4 | 8.1688486E-5 | 8.1688486E-5 | 1.0 | 0.0 | 0.0021593217 | 9.481003E-4 | 9.481003E-4 | 1.0 | 0.0 |
+| 8.3 | 1.2750878E-6 | 3.624692E-7 | 3.624692E-7 | 1.0 | 0.0 | 5.4646503E-6 | 1.5534386E-6 | 1.5534386E-6 | 1.0 | 0.0 | 6.653009E-5 | 1.8912953E-5 | 1.8912953E-5 | 1.0 | 0.0 | 6.6510175E-4 | 2.2808049E-4 | 2.2808049E-4 | 1.0 | 0.0 |
+
+## Lake Isabella (Seismicity)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Lake_Isabella_Seismicity_1wk.png) | ![MPD](Lake_Isabella_Seismicity_1mo.png) | ![MPD](Lake_Isabella_Seismicity_1yr.png) | ![MPD](Lake_Isabella_Seismicity_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 9.431637E-6 | 9.741771E-6 | 9.741771E-6 | 1.0 | 0.0 | 4.0420677E-5 | 4.1749852E-5 | 5.1749434E-5 | 1.2395118 | 1.0E-5 | 4.920106E-4 | 5.08199E-4 | 5.7816337E-4 | 1.1376714 | 7.0E-5 | 0.004909227 | 0.0050716605 | 0.005181103 | 1.0215791 | 1.1E-4 |
+| 6.1 | 9.431637E-6 | 9.741771E-6 | 9.741771E-6 | 1.0 | 0.0 | 4.0420677E-5 | 4.1749852E-5 | 5.1749434E-5 | 1.2395118 | 1.0E-5 | 4.920106E-4 | 5.08199E-4 | 5.7816337E-4 | 1.1376714 | 7.0E-5 | 0.004909227 | 0.0050716605 | 0.005181103 | 1.0215791 | 1.1E-4 |
+| 6.2 | 9.431637E-6 | 9.741771E-6 | 9.741771E-6 | 1.0 | 0.0 | 4.0420677E-5 | 4.1749852E-5 | 5.1749434E-5 | 1.2395118 | 1.0E-5 | 4.920106E-4 | 5.08199E-4 | 5.7816337E-4 | 1.1376714 | 7.0E-5 | 0.004909227 | 0.0050716605 | 0.005181103 | 1.0215791 | 1.1E-4 |
+| 6.3 | 9.431637E-6 | 9.741771E-6 | 9.741771E-6 | 1.0 | 0.0 | 4.0420677E-5 | 4.1749852E-5 | 5.1749434E-5 | 1.2395118 | 1.0E-5 | 4.920106E-4 | 5.08199E-4 | 5.7816337E-4 | 1.1376714 | 7.0E-5 | 0.004909227 | 0.0050716605 | 0.005181103 | 1.0215791 | 1.1E-4 |
+| 6.4 | 5.144063E-6 | 5.300136E-6 | 5.300136E-6 | 1.0 | 0.0 | 2.2045799E-5 | 2.271469E-5 | 3.2714463E-5 | 1.4402337 | 1.0E-5 | 2.6837454E-4 | 2.765197E-4 | 3.265059E-4 | 1.180769 | 5.0E-5 | 0.0026805066 | 0.0027620967 | 0.002841876 | 1.0288835 | 8.0E-5 |
+| 6.5 | 5.144063E-6 | 5.300136E-6 | 5.300136E-6 | 1.0 | 0.0 | 2.2045799E-5 | 2.271469E-5 | 3.2714463E-5 | 1.4402337 | 1.0E-5 | 2.6837454E-4 | 2.765197E-4 | 3.265059E-4 | 1.180769 | 5.0E-5 | 0.0026805066 | 0.0027620967 | 0.002841876 | 1.0288835 | 8.0E-5 |
+| 6.6 | 3.4009804E-6 | 3.4988236E-6 | 3.4988236E-6 | 1.0 | 0.0 | 1.4575549E-5 | 1.4994881E-5 | 1.4994881E-5 | 1.0 | 0.0 | 1.7744285E-4 | 1.8254899E-4 | 2.0254533E-4 | 1.1095396 | 2.0E-5 | 0.0017730123 | 0.0018241481 | 0.0018740569 | 1.0273601 | 5.0E-5 |
+| 6.7 | 3.3880428E-6 | 3.48569E-6 | 3.48569E-6 | 1.0 | 0.0 | 1.4520103E-5 | 1.4938595E-5 | 1.4938595E-5 | 1.0 | 0.0 | 1.767679E-4 | 1.8186383E-4 | 2.0186018E-4 | 1.1099524 | 2.0E-5 | 0.0017662736 | 0.0018173077 | 0.0018672168 | 1.0274632 | 5.0E-5 |
+| 6.8 | 2.6582E-6 | 2.7337292E-6 | 2.7337292E-6 | 1.0 | 0.0 | 1.1392236E-5 | 1.1715937E-5 | 1.1715937E-5 | 1.0 | 0.0 | 1.3869164E-4 | 1.4263354E-4 | 1.5263211E-4 | 1.0700997 | 1.0E-5 | 0.0013860512 | 0.001425552 | 0.001465495 | 1.0280193 | 4.0E-5 |
+| 6.9 | 2.406011E-6 | 2.474355E-6 | 2.474355E-6 | 1.0 | 0.0 | 1.0311434E-5 | 1.0604343E-5 | 1.0604343E-5 | 1.0 | 0.0 | 1.2553448E-4 | 1.2910155E-4 | 1.3910026E-4 | 1.0774484 | 1.0E-5 | 0.0012546359 | 0.001290395 | 0.0013303434 | 1.0309583 | 4.0E-5 |
+| 7.0 | 1.6953097E-6 | 1.7429554E-6 | 1.7429554E-6 | 1.0 | 0.0 | 7.265593E-6 | 7.469793E-6 | 7.469793E-6 | 1.0 | 0.0 | 8.8455E-5 | 9.094198E-5 | 1.0094108E-4 | 1.1099502 | 1.0E-5 | 8.84198E-4 | 9.0915046E-4 | 9.491141E-4 | 1.0439571 | 4.0E-5 |
+| 7.1 | 3.5013824E-7 | 3.571509E-7 | 3.571509E-7 | 1.0 | 0.0 | 1.5005916E-6 | 1.5306458E-6 | 1.5306458E-6 | 1.0 | 0.0 | 1.826955E-5 | 1.8635455E-5 | 1.8635455E-5 | 1.0 | 0.0 | 1.8268047E-4 | 1.8633918E-4 | 1.8633918E-4 | 1.0 | 0.0 |
+| 7.2 | 2.2321095E-7 | 2.2750736E-7 | 2.2750736E-7 | 1.0 | 0.0 | 9.56618E-7 | 9.750312E-7 | 9.750312E-7 | 1.0 | 0.0 | 1.1646762E-5 | 1.1870941E-5 | 1.1870941E-5 | 1.0 | 0.0 | 1.1646151E-4 | 1.18703174E-4 | 1.18703174E-4 | 1.0 | 0.0 |
+| 7.3 | 1.5760406E-7 | 1.6061036E-7 | 1.6061036E-7 | 1.0 | 0.0 | 6.7544585E-7 | 6.883299E-7 | 6.883299E-7 | 1.0 | 0.0 | 8.223522E-6 | 8.380385E-6 | 8.380385E-6 | 1.0 | 0.0 | 8.2232174E-5 | 8.3800755E-5 | 8.3800755E-5 | 1.0 | 0.0 |
+| 7.4 | 1.1216497E-7 | 1.1431788E-7 | 1.1431788E-7 | 1.0 | 0.0 | 4.8070694E-7 | 4.8993365E-7 | 4.8993365E-7 | 1.0 | 0.0 | 5.852591E-6 | 5.9649265E-6 | 5.9649265E-6 | 1.0 | 0.0 | 5.8524372E-5 | 5.9647708E-5 | 5.9647708E-5 | 1.0 | 0.0 |
+| 7.5 | 4.885185E-8 | 4.9788092E-8 | 4.9788092E-8 | 1.0 | 0.0 | 2.0936506E-7 | 2.1337752E-7 | 2.1337752E-7 | 1.0 | 0.0 | 2.5490165E-6 | 2.5978684E-6 | 2.5978684E-6 | 1.0 | 0.0 | 2.5489873E-5 | 2.59784E-5 | 2.59784E-5 | 1.0 | 0.0 |
+| 7.6 | 1.504641E-9 | 1.5318006E-9 | 1.5318006E-9 | 1.0 | 0.0 | 6.4484613E-9 | 6.5648598E-9 | 6.5648598E-9 | 1.0 | 0.0 | 7.851001E-8 | 7.992716E-8 | 7.992716E-8 | 1.0 | 0.0 | 7.8509987E-7 | 7.992716E-7 | 7.992716E-7 | 1.0 | 0.0 |
+
 ## Mission Ridge-Arroyo Parida-Santa Ana
 *[(top)](#table-of-contents)*
 
@@ -1545,27 +1628,67 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.9 | 2.0472514E-8 | 1.2689652E-8 | 1.2689652E-8 | 1.0 | 0.0 | 8.7739345E-8 | 5.4384223E-8 | 5.4384223E-8 | 1.0 | 0.0 | 1.068226E-6 | 6.621277E-7 | 6.621277E-7 | 1.0 | 0.0 | 1.0682209E-5 | 6.6212583E-6 | 6.6212583E-6 | 1.0 | 0.0 |
 | 8.0 | 4.443582E-9 | 2.0325128E-9 | 2.0325128E-9 | 1.0 | 0.0 | 1.9043922E-8 | 8.710769E-9 | 8.710769E-9 | 1.0 | 0.0 | 2.3185973E-7 | 1.0605361E-7 | 1.0605361E-7 | 1.0 | 0.0 | 2.3185949E-6 | 1.0605356E-6 | 1.0605356E-6 | 1.0 | 0.0 |
 
-## Manix-Afton Hills
+## San Andreas (Carrizo) rev
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Manix_Afton_Hills_1wk.png) | ![MPD](Manix_Afton_Hills_1mo.png) | ![MPD](Manix_Afton_Hills_1yr.png) | ![MPD](Manix_Afton_Hills_10yr.png) |
+| ![MPD](San_Andreas_Carrizo_rev_1wk.png) | ![MPD](San_Andreas_Carrizo_rev_1mo.png) | ![MPD](San_Andreas_Carrizo_rev_1yr.png) | ![MPD](San_Andreas_Carrizo_rev_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.3783202E-5 | 1.4711459E-5 | 1.4711459E-5 | 1.0 | 0.0 | 5.906953E-5 | 6.3047686E-5 | 6.3047686E-5 | 1.0 | 0.0 | 7.189342E-4 | 7.6735264E-4 | 8.2730665E-4 | 1.078131 | 6.0E-5 | 0.0071661277 | 0.007648787 | 0.0077579455 | 1.0142714 | 1.1E-4 |
-| 6.1 | 1.3783202E-5 | 1.4711459E-5 | 1.4711459E-5 | 1.0 | 0.0 | 5.906953E-5 | 6.3047686E-5 | 6.3047686E-5 | 1.0 | 0.0 | 7.189342E-4 | 7.6735264E-4 | 8.2730665E-4 | 1.078131 | 6.0E-5 | 0.0071661277 | 0.007648787 | 0.0077579455 | 1.0142714 | 1.1E-4 |
-| 6.2 | 1.3783202E-5 | 1.4711459E-5 | 1.4711459E-5 | 1.0 | 0.0 | 5.906953E-5 | 6.3047686E-5 | 6.3047686E-5 | 1.0 | 0.0 | 7.189342E-4 | 7.6735264E-4 | 8.2730665E-4 | 1.078131 | 6.0E-5 | 0.0071661277 | 0.007648787 | 0.0077579455 | 1.0142714 | 1.1E-4 |
-| 6.3 | 1.10494875E-5 | 1.1793431E-5 | 1.1793431E-5 | 1.0 | 0.0 | 4.7354086E-5 | 5.0542356E-5 | 5.0542356E-5 | 1.0 | 0.0 | 5.763835E-4 | 6.1518984E-4 | 6.5516523E-4 | 1.0649806 | 4.0E-5 | 0.005748908 | 0.006135909 | 0.0062253564 | 1.0145777 | 9.0E-5 |
-| 6.4 | 1.10494875E-5 | 1.1793431E-5 | 1.1793431E-5 | 1.0 | 0.0 | 4.7354086E-5 | 5.0542356E-5 | 5.0542356E-5 | 1.0 | 0.0 | 5.763835E-4 | 6.1518984E-4 | 6.5516523E-4 | 1.0649806 | 4.0E-5 | 0.005748908 | 0.006135909 | 0.0062253564 | 1.0145777 | 9.0E-5 |
-| 6.5 | 9.788949E-6 | 1.0454584E-5 | 1.0454584E-5 | 1.0 | 0.0 | 4.1951964E-5 | 4.4804645E-5 | 4.4804645E-5 | 1.0 | 0.0 | 5.1064545E-4 | 5.453693E-4 | 5.853475E-4 | 1.0733048 | 4.0E-5 | 0.0050947363 | 0.005441236 | 0.005510855 | 1.0127947 | 7.0E-5 |
-| 6.6 | 8.810006E-6 | 9.413869E-6 | 9.413869E-6 | 1.0 | 0.0 | 3.775662E-5 | 4.0344577E-5 | 4.0344577E-5 | 1.0 | 0.0 | 4.5958988E-4 | 4.910934E-4 | 5.310738E-4 | 1.0814109 | 4.0E-5 | 0.0045864056 | 0.004900964 | 0.004970621 | 1.0142128 | 7.0E-5 |
-| 6.7 | 8.80128E-6 | 9.404348E-6 | 9.404348E-6 | 1.0 | 0.0 | 3.7719226E-5 | 4.0303774E-5 | 4.0303774E-5 | 1.0 | 0.0 | 4.591348E-4 | 4.9059687E-4 | 5.3057726E-4 | 1.0814934 | 4.0E-5 | 0.004581874 | 0.0048960205 | 0.004965678 | 1.0142273 | 7.0E-5 |
-| 6.8 | 6.8994877E-6 | 7.3802676E-6 | 7.3802676E-6 | 1.0 | 0.0 | 2.9568899E-5 | 3.162938E-5 | 3.162938E-5 | 1.0 | 0.0 | 3.5994186E-4 | 3.8502782E-4 | 4.150163E-4 | 1.0778865 | 3.0E-5 | 0.003593594 | 0.0038444125 | 0.0039041818 | 1.015547 | 6.0E-5 |
-| 6.9 | 4.9328037E-6 | 5.271096E-6 | 5.271096E-6 | 1.0 | 0.0 | 2.1140417E-5 | 2.2590251E-5 | 2.2590251E-5 | 1.0 | 0.0 | 2.5735417E-4 | 2.7500774E-4 | 2.9500225E-4 | 1.0727053 | 2.0E-5 | 0.0025705635 | 0.0027472796 | 0.0027971421 | 1.0181499 | 5.0E-5 |
-| 7.0 | 3.347973E-6 | 3.5901267E-6 | 3.5901267E-6 | 1.0 | 0.0 | 1.4348378E-5 | 1.538619E-5 | 1.538619E-5 | 1.0 | 0.0 | 1.746775E-4 | 1.8731486E-4 | 2.0731111E-4 | 1.106752 | 2.0E-5 | 0.0017454025 | 0.0018719723 | 0.0019118974 | 1.0213279 | 4.0E-5 |
-| 7.1 | 1.2073567E-6 | 1.2935163E-6 | 1.2935163E-6 | 1.0 | 0.0 | 5.1743755E-6 | 5.543639E-6 | 5.543639E-6 | 1.0 | 0.0 | 6.29962E-5 | 6.749335E-5 | 6.749335E-5 | 1.0 | 0.0 | 6.297835E-4 | 6.748886E-4 | 6.748886E-4 | 1.0 | 0.0 |
+| 6.0 | 1.1674632E-4 | 2.4349855E-4 | 2.4349855E-4 | 1.0 | 0.0 | 5.002454E-4 | 0.0010431495 | 0.0010431495 | 1.0 | 0.0 | 0.006073493 | 0.0126268715 | 0.012666366 | 1.0031278 | 4.0E-5 | 0.0591016 | 0.12072698 | 0.120823696 | 1.0008012 | 1.1E-4 |
+| 6.1 | 1.1674632E-4 | 2.4349855E-4 | 2.4349855E-4 | 1.0 | 0.0 | 5.002454E-4 | 0.0010431495 | 0.0010431495 | 1.0 | 0.0 | 0.006073493 | 0.0126268715 | 0.012666366 | 1.0031278 | 4.0E-5 | 0.0591016 | 0.12072698 | 0.120823696 | 1.0008012 | 1.1E-4 |
+| 6.2 | 1.1674632E-4 | 2.4349855E-4 | 2.4349855E-4 | 1.0 | 0.0 | 5.002454E-4 | 0.0010431495 | 0.0010431495 | 1.0 | 0.0 | 0.006073493 | 0.0126268715 | 0.012666366 | 1.0031278 | 4.0E-5 | 0.0591016 | 0.12072698 | 0.120823696 | 1.0008012 | 1.1E-4 |
+| 6.3 | 1.1674632E-4 | 2.4349855E-4 | 2.4349855E-4 | 1.0 | 0.0 | 5.002454E-4 | 0.0010431495 | 0.0010431495 | 1.0 | 0.0 | 0.006073493 | 0.0126268715 | 0.012666366 | 1.0031278 | 4.0E-5 | 0.0591016 | 0.12072698 | 0.120823696 | 1.0008012 | 1.1E-4 |
+| 6.4 | 1.1674632E-4 | 2.4349855E-4 | 2.4349855E-4 | 1.0 | 0.0 | 5.002454E-4 | 0.0010431495 | 0.0010431495 | 1.0 | 0.0 | 0.006073493 | 0.0126268715 | 0.012666366 | 1.0031278 | 4.0E-5 | 0.0591016 | 0.12072698 | 0.120823696 | 1.0008012 | 1.1E-4 |
+| 6.5 | 1.13136164E-4 | 2.3669745E-4 | 2.3669745E-4 | 1.0 | 0.0 | 4.847792E-4 | 0.0010140248 | 0.0010140248 | 1.0 | 0.0 | 0.0058862255 | 0.012276316 | 0.012315825 | 1.0032183 | 4.0E-5 | 0.057327334 | 0.11769824 | 0.11779529 | 1.0008246 | 1.1E-4 |
+| 6.6 | 1.13136164E-4 | 2.3669745E-4 | 2.3669745E-4 | 1.0 | 0.0 | 4.847792E-4 | 0.0010140248 | 0.0010140248 | 1.0 | 0.0 | 0.0058862255 | 0.012276316 | 0.012315825 | 1.0032183 | 4.0E-5 | 0.057327334 | 0.11769824 | 0.11779529 | 1.0008246 | 1.1E-4 |
+| 6.7 | 1.1149675E-4 | 2.3360913E-4 | 2.3360913E-4 | 1.0 | 0.0 | 4.777557E-4 | 0.0010007994 | 0.0010007994 | 1.0 | 0.0 | 0.0058011734 | 0.012117094 | 0.01215661 | 1.0032611 | 4.0E-5 | 0.05652051 | 0.11631973 | 0.11641693 | 1.0008357 | 1.1E-4 |
+| 6.8 | 1.1103589E-4 | 2.326304E-4 | 2.326304E-4 | 1.0 | 0.0 | 4.7578133E-4 | 9.966079E-4 | 9.966079E-4 | 1.0 | 0.0 | 0.005777263 | 0.012066631 | 0.0121061485 | 1.0032749 | 4.0E-5 | 0.056293584 | 0.11587995 | 0.11597721 | 1.0008392 | 1.1E-4 |
+| 6.9 | 1.1053259E-4 | 2.3155386E-4 | 2.3155386E-4 | 1.0 | 0.0 | 4.7362508E-4 | 9.919978E-4 | 9.919978E-4 | 1.0 | 0.0 | 0.0057511497 | 0.012011122 | 0.012050642 | 1.0032903 | 4.0E-5 | 0.05604569 | 0.115396075 | 0.11549338 | 1.0008433 | 1.1E-4 |
+| 7.0 | 1.1005377E-4 | 2.3056196E-4 | 2.3056196E-4 | 1.0 | 0.0 | 4.7157376E-4 | 9.8775E-4 | 9.8775E-4 | 1.0 | 0.0 | 0.0057263062 | 0.011959975 | 0.011999496 | 1.0033045 | 4.0E-5 | 0.055809796 | 0.11494831 | 0.11504567 | 1.000847 | 1.1E-4 |
+| 7.1 | 1.0308142E-4 | 2.1565401E-4 | 2.1565401E-4 | 1.0 | 0.0 | 4.417027E-4 | 9.239052E-4 | 9.239052E-4 | 1.0 | 0.0 | 0.0053644776 | 0.011190846 | 0.011230398 | 1.0035343 | 4.0E-5 | 0.052368138 | 0.10820351 | 0.10829269 | 1.0008242 | 1.0E-4 |
+| 7.2 | 1.0027479E-4 | 2.0973093E-4 | 2.0973093E-4 | 1.0 | 0.0 | 4.296783E-4 | 8.985382E-4 | 8.985382E-4 | 1.0 | 0.0 | 0.0052187922 | 0.010885128 | 0.010924692 | 1.0036347 | 4.0E-5 | 0.050979212 | 0.105506994 | 0.10559644 | 1.0008478 | 1.0E-4 |
+| 7.3 | 9.816942E-5 | 2.0447953E-4 | 2.0447953E-4 | 1.0 | 0.0 | 4.2065824E-4 | 8.7604753E-4 | 8.7604753E-4 | 1.0 | 0.0 | 0.005109493 | 0.010614003 | 0.010653579 | 1.0037286 | 4.0E-5 | 0.049935985 | 0.10308959 | 0.10317032 | 1.0007831 | 9.0E-5 |
+| 7.4 | 9.5634205E-5 | 1.981702E-4 | 1.981702E-4 | 1.0 | 0.0 | 4.0979648E-4 | 8.490253E-4 | 8.490253E-4 | 1.0 | 0.0 | 0.0049778637 | 0.010288154 | 0.010327742 | 1.003848 | 4.0E-5 | 0.048678253 | 0.100174405 | 0.100255385 | 1.0008085 | 9.0E-5 |
+| 7.5 | 8.052417E-5 | 1.6134606E-4 | 1.6134606E-4 | 1.0 | 0.0 | 3.4505792E-4 | 6.913001E-4 | 6.913001E-4 | 1.0 | 0.0 | 0.0041929903 | 0.008384179 | 0.008423843 | 1.0047309 | 4.0E-5 | 0.04114753 | 0.08290832 | 0.08298168 | 1.0008849 | 8.0E-5 |
+| 7.6 | 7.897024E-5 | 1.5787578E-4 | 1.5787578E-4 | 1.0 | 0.0 | 3.384E-4 | 6.7643524E-4 | 6.7643524E-4 | 1.0 | 0.0 | 0.0041122385 | 0.008204577 | 0.00823433 | 1.0036265 | 3.0E-5 | 0.040369697 | 0.08124857 | 0.08130369 | 1.0006784 | 6.0E-5 |
+| 7.7 | 6.707427E-5 | 1.329566E-4 | 1.329566E-4 | 1.0 | 0.0 | 2.8742946E-4 | 5.696896E-4 | 5.696896E-4 | 1.0 | 0.0 | 0.003493839 | 0.006913946 | 0.0069437386 | 1.004309 | 3.0E-5 | 0.034394164 | 0.069136776 | 0.069192626 | 1.0008079 | 6.0E-5 |
+| 7.8 | 6.147705E-5 | 1.2215169E-4 | 1.2215169E-4 | 1.0 | 0.0 | 2.6344648E-4 | 5.2340224E-4 | 5.2340224E-4 | 1.0 | 0.0 | 0.0032027436 | 0.006353828 | 0.0063836374 | 1.0046916 | 3.0E-5 | 0.031569764 | 0.06359524 | 0.06365143 | 1.0008835 | 6.0E-5 |
+| 7.9 | 4.7636717E-5 | 8.8924724E-5 | 8.8924724E-5 | 1.0 | 0.0 | 2.0414138E-4 | 3.810503E-4 | 3.810503E-4 | 1.0 | 0.0 | 0.0024825884 | 0.0046294266 | 0.004649334 | 1.0043002 | 2.0E-5 | 0.024550365 | 0.046687778 | 0.04672591 | 1.0008167 | 4.0E-5 |
+| 8.0 | 3.3554235E-5 | 5.2214647E-5 | 5.2214647E-5 | 1.0 | 0.0 | 1.4379594E-4 | 2.2375787E-4 | 2.2375787E-4 | 1.0 | 0.0 | 0.0017493097 | 0.0027208505 | 0.002740796 | 1.0073307 | 2.0E-5 | 0.017356034 | 0.027919138 | 0.027938578 | 1.0006963 | 2.0E-5 |
+| 8.1 | 1.9175432E-5 | 1.9222338E-5 | 1.9222338E-5 | 1.0 | 0.0 | 8.217783E-5 | 8.237885E-5 | 8.237885E-5 | 1.0 | 0.0 | 0.0010000558 | 0.0010025017 | 0.0010124916 | 1.0099651 | 1.0E-5 | 0.009955673 | 0.010777608 | 0.0107875 | 1.0009178 | 1.0E-5 |
+| 8.2 | 8.643924E-6 | 5.488954E-6 | 5.488954E-6 | 1.0 | 0.0 | 3.704486E-5 | 2.3523877E-5 | 2.3523877E-5 | 1.0 | 0.0 | 4.5092785E-4 | 2.8636563E-4 | 2.8636563E-4 | 1.0 | 0.0 | 0.0045001395 | 0.0032564052 | 0.0032564052 | 1.0 | 0.0 |
+| 8.3 | 1.983087E-6 | 7.68342E-7 | 7.68342E-7 | 1.0 | 0.0 | 8.498917E-6 | 3.2928901E-6 | 3.2928901E-6 | 1.0 | 0.0 | 1.034694E-4 | 4.0090217E-5 | 4.0090217E-5 | 1.0 | 0.0 | 0.0010342124 | 4.7331754E-4 | 4.7331754E-4 | 1.0 | 0.0 |
+
+## Chino alt 1
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Chino_alt_1_1wk.png) | ![MPD](Chino_alt_1_1mo.png) | ![MPD](Chino_alt_1_1yr.png) | ![MPD](Chino_alt_1_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 3.939946E-5 | 4.8953603E-5 | 4.8953603E-5 | 1.0 | 0.0 | 1.6884391E-4 | 2.0978722E-4 | 2.1978513E-4 | 1.0476574 | 1.0E-5 | 0.0020537362 | 0.0025516537 | 0.0025915515 | 1.0156361 | 4.0E-5 | 0.020348595 | 0.025280396 | 0.025377868 | 1.0038556 | 1.0E-4 |
+| 6.1 | 2.1505624E-5 | 2.6882151E-5 | 2.6882151E-5 | 1.0 | 0.0 | 9.2163704E-5 | 1.1520476E-4 | 1.1520476E-4 | 1.0 | 0.0 | 0.0011215154 | 0.0014018269 | 0.0014217988 | 1.0142471 | 2.0E-5 | 0.011158722 | 0.013946737 | 0.01398618 | 1.002828 | 4.0E-5 |
+| 6.2 | 2.1505624E-5 | 2.6882151E-5 | 2.6882151E-5 | 1.0 | 0.0 | 9.2163704E-5 | 1.1520476E-4 | 1.1520476E-4 | 1.0 | 0.0 | 0.0011215154 | 0.0014018269 | 0.0014217988 | 1.0142471 | 2.0E-5 | 0.011158722 | 0.013946737 | 0.01398618 | 1.002828 | 4.0E-5 |
+| 6.3 | 1.4290785E-5 | 1.8167579E-5 | 1.8167579E-5 | 1.0 | 0.0 | 6.1244784E-5 | 7.785898E-5 | 7.785898E-5 | 1.0 | 0.0 | 7.454001E-4 | 9.475663E-4 | 9.6754736E-4 | 1.0210867 | 2.0E-5 | 0.007429048 | 0.009445713 | 0.00947543 | 1.003146 | 3.0E-5 |
+| 6.4 | 1.4290785E-5 | 1.8167579E-5 | 1.8167579E-5 | 1.0 | 0.0 | 6.1244784E-5 | 7.785898E-5 | 7.785898E-5 | 1.0 | 0.0 | 7.454001E-4 | 9.475663E-4 | 9.6754736E-4 | 1.0210867 | 2.0E-5 | 0.007429048 | 0.009445713 | 0.00947543 | 1.003146 | 3.0E-5 |
+| 6.5 | 1.3017944E-5 | 1.6654432E-5 | 1.6654432E-5 | 1.0 | 0.0 | 5.5789995E-5 | 7.137444E-5 | 7.137444E-5 | 1.0 | 0.0 | 6.790315E-4 | 8.686811E-4 | 8.8866375E-4 | 1.0230035 | 2.0E-5 | 0.0067696036 | 0.0086631505 | 0.00869289 | 1.003433 | 3.0E-5 |
+| 6.6 | 9.470016E-6 | 1.2041162E-5 | 1.2041162E-5 | 1.0 | 0.0 | 4.058515E-5 | 5.160415E-5 | 5.160415E-5 | 1.0 | 0.0 | 4.940122E-4 | 6.2813336E-4 | 6.381271E-4 | 1.0159101 | 1.0E-5 | 0.004929154 | 0.0062727924 | 0.00628273 | 1.0015842 | 1.0E-5 |
+| 6.7 | 8.314155E-6 | 1.0409261E-5 | 1.0409261E-5 | 1.0 | 0.0 | 3.5631605E-5 | 4.4610537E-5 | 4.4610537E-5 | 1.0 | 0.0 | 4.3372845E-4 | 5.430302E-4 | 5.5302476E-4 | 1.0184052 | 1.0E-5 | 0.004328829 | 0.0054265605 | 0.0054365066 | 1.0018328 | 1.0E-5 |
+| 6.8 | 3.4856364E-6 | 3.8138032E-6 | 3.8138032E-6 | 1.0 | 0.0 | 1.4938357E-5 | 1.634478E-5 | 1.634478E-5 | 1.0 | 0.0 | 1.8185932E-4 | 1.9898161E-4 | 1.9898161E-4 | 1.0 | 0.0 | 0.0018171056 | 0.001989711 | 0.001989711 | 1.0 | 0.0 |
+| 6.9 | 2.2645952E-6 | 2.1531393E-6 | 2.1531393E-6 | 1.0 | 0.0 | 9.705372E-6 | 9.227709E-6 | 9.227709E-6 | 1.0 | 0.0 | 1.18156495E-4 | 1.12341775E-4 | 1.12341775E-4 | 1.0 | 0.0 | 0.0011809369 | 0.001123466 | 0.001123466 | 1.0 | 0.0 |
+| 7.0 | 1.7864003E-6 | 1.5432659E-6 | 1.5432659E-6 | 1.0 | 0.0 | 7.655979E-6 | 6.61398E-6 | 6.61398E-6 | 1.0 | 0.0 | 9.3207556E-5 | 8.052229E-5 | 8.052229E-5 | 1.0 | 0.0 | 9.316847E-4 | 8.0537825E-4 | 8.0537825E-4 | 1.0 | 0.0 |
+| 7.1 | 1.7315456E-6 | 1.4735324E-6 | 1.4735324E-6 | 1.0 | 0.0 | 7.420889E-6 | 6.3151238E-6 | 6.3151238E-6 | 1.0 | 0.0 | 9.034557E-5 | 7.6883975E-5 | 7.6883975E-5 | 1.0 | 0.0 | 9.0308854E-4 | 7.690116E-4 | 7.690116E-4 | 1.0 | 0.0 |
+| 7.2 | 1.6008337E-6 | 1.3575723E-6 | 1.3575723E-6 | 1.0 | 0.0 | 6.860698E-6 | 5.818154E-6 | 5.818154E-6 | 1.0 | 0.0 | 8.352579E-5 | 7.0833776E-5 | 7.0833776E-5 | 1.0 | 0.0 | 8.34944E-4 | 7.085362E-4 | 7.085362E-4 | 1.0 | 0.0 |
+| 7.3 | 1.3320939E-6 | 1.1219028E-6 | 1.1219028E-6 | 1.0 | 0.0 | 5.7089615E-6 | 4.808146E-6 | 4.808146E-6 | 1.0 | 0.0 | 6.9504385E-5 | 5.8537655E-5 | 5.8537655E-5 | 1.0 | 0.0 | 6.9482654E-4 | 5.853669E-4 | 5.853669E-4 | 1.0 | 0.0 |
+| 7.4 | 1.114294E-6 | 9.2380674E-7 | 9.2380674E-7 | 1.0 | 0.0 | 4.775537E-6 | 3.959166E-6 | 3.959166E-6 | 1.0 | 0.0 | 5.8140613E-5 | 4.8201815E-5 | 4.8201815E-5 | 1.0 | 0.0 | 5.81254E-4 | 4.8193042E-4 | 4.8193042E-4 | 1.0 | 0.0 |
+| 7.5 | 9.354081E-7 | 7.624187E-7 | 7.624187E-7 | 1.0 | 0.0 | 4.0088858E-6 | 3.2675048E-6 | 3.2675048E-6 | 1.0 | 0.0 | 4.8807087E-5 | 3.978118E-5 | 3.978118E-5 | 1.0 | 0.0 | 4.879637E-4 | 3.9774398E-4 | 3.9774398E-4 | 1.0 | 0.0 |
+| 7.6 | 8.521771E-7 | 6.88138E-7 | 6.88138E-7 | 1.0 | 0.0 | 3.6521824E-6 | 2.9491598E-6 | 2.9491598E-6 | 1.0 | 0.0 | 4.4464414E-5 | 3.590546E-5 | 3.590546E-5 | 1.0 | 0.0 | 4.4455516E-4 | 3.5899977E-4 | 3.5899977E-4 | 1.0 | 0.0 |
+| 7.7 | 2.1803626E-7 | 1.418834E-7 | 1.418834E-7 | 1.0 | 0.0 | 9.344408E-7 | 6.080717E-7 | 6.080717E-7 | 1.0 | 0.0 | 1.1376757E-5 | 7.4032573E-6 | 7.4032573E-6 | 1.0 | 0.0 | 1.13761744E-4 | 7.4031064E-5 | 7.4031064E-5 | 1.0 | 0.0 |
 
 ## San Andreas (Cholame) rev
 *[(top)](#table-of-contents)*
@@ -1634,129 +1757,6 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.1 | 1.6376824E-6 | 2.2006025E-6 | 2.2006025E-6 | 1.0 | 0.0 | 7.01862E-6 | 9.431119E-6 | 9.431119E-6 | 1.0 | 0.0 | 8.544835E-5 | 1.1481784E-4 | 1.1481784E-4 | 1.0 | 0.0 | 8.54155E-4 | 0.001162599 | 0.001162599 | 1.0 | 0.0 |
 | 8.2 | 6.9631557E-7 | 4.5475895E-7 | 4.5475895E-7 | 1.0 | 0.0 | 2.984206E-6 | 1.9489653E-6 | 1.9489653E-6 | 1.0 | 0.0 | 3.63321E-5 | 2.3728397E-5 | 2.3728397E-5 | 1.0 | 0.0 | 3.6326164E-4 | 2.4577059E-4 | 2.4577059E-4 | 1.0 | 0.0 |
 | 8.3 | 1.7876137E-7 | 8.383837E-8 | 8.383837E-8 | 1.0 | 0.0 | 7.661199E-7 | 3.5930728E-7 | 3.5930728E-7 | 1.0 | 0.0 | 9.32747E-6 | 4.3745576E-6 | 4.3745576E-6 | 1.0 | 0.0 | 9.3270784E-5 | 4.5942954E-5 | 4.5942954E-5 | 1.0 | 0.0 |
-
-## Chino alt 1
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Chino_alt_1_1wk.png) | ![MPD](Chino_alt_1_1mo.png) | ![MPD](Chino_alt_1_1yr.png) | ![MPD](Chino_alt_1_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 3.939946E-5 | 4.8953603E-5 | 4.8953603E-5 | 1.0 | 0.0 | 1.6884391E-4 | 2.0978722E-4 | 2.1978513E-4 | 1.0476574 | 1.0E-5 | 0.0020537362 | 0.0025516537 | 0.0025915515 | 1.0156361 | 4.0E-5 | 0.020348595 | 0.025280396 | 0.025377868 | 1.0038556 | 1.0E-4 |
-| 6.1 | 2.1505624E-5 | 2.6882151E-5 | 2.6882151E-5 | 1.0 | 0.0 | 9.2163704E-5 | 1.1520476E-4 | 1.1520476E-4 | 1.0 | 0.0 | 0.0011215154 | 0.0014018269 | 0.0014217988 | 1.0142471 | 2.0E-5 | 0.011158722 | 0.013946737 | 0.01398618 | 1.002828 | 4.0E-5 |
-| 6.2 | 2.1505624E-5 | 2.6882151E-5 | 2.6882151E-5 | 1.0 | 0.0 | 9.2163704E-5 | 1.1520476E-4 | 1.1520476E-4 | 1.0 | 0.0 | 0.0011215154 | 0.0014018269 | 0.0014217988 | 1.0142471 | 2.0E-5 | 0.011158722 | 0.013946737 | 0.01398618 | 1.002828 | 4.0E-5 |
-| 6.3 | 1.4290785E-5 | 1.8167579E-5 | 1.8167579E-5 | 1.0 | 0.0 | 6.1244784E-5 | 7.785898E-5 | 7.785898E-5 | 1.0 | 0.0 | 7.454001E-4 | 9.475663E-4 | 9.6754736E-4 | 1.0210867 | 2.0E-5 | 0.007429048 | 0.009445713 | 0.00947543 | 1.003146 | 3.0E-5 |
-| 6.4 | 1.4290785E-5 | 1.8167579E-5 | 1.8167579E-5 | 1.0 | 0.0 | 6.1244784E-5 | 7.785898E-5 | 7.785898E-5 | 1.0 | 0.0 | 7.454001E-4 | 9.475663E-4 | 9.6754736E-4 | 1.0210867 | 2.0E-5 | 0.007429048 | 0.009445713 | 0.00947543 | 1.003146 | 3.0E-5 |
-| 6.5 | 1.3017944E-5 | 1.6654432E-5 | 1.6654432E-5 | 1.0 | 0.0 | 5.5789995E-5 | 7.137444E-5 | 7.137444E-5 | 1.0 | 0.0 | 6.790315E-4 | 8.686811E-4 | 8.8866375E-4 | 1.0230035 | 2.0E-5 | 0.0067696036 | 0.0086631505 | 0.00869289 | 1.003433 | 3.0E-5 |
-| 6.6 | 9.470016E-6 | 1.2041162E-5 | 1.2041162E-5 | 1.0 | 0.0 | 4.058515E-5 | 5.160415E-5 | 5.160415E-5 | 1.0 | 0.0 | 4.940122E-4 | 6.2813336E-4 | 6.381271E-4 | 1.0159101 | 1.0E-5 | 0.004929154 | 0.0062727924 | 0.00628273 | 1.0015842 | 1.0E-5 |
-| 6.7 | 8.314155E-6 | 1.0409261E-5 | 1.0409261E-5 | 1.0 | 0.0 | 3.5631605E-5 | 4.4610537E-5 | 4.4610537E-5 | 1.0 | 0.0 | 4.3372845E-4 | 5.430302E-4 | 5.5302476E-4 | 1.0184052 | 1.0E-5 | 0.004328829 | 0.0054265605 | 0.0054365066 | 1.0018328 | 1.0E-5 |
-| 6.8 | 3.4856364E-6 | 3.8138032E-6 | 3.8138032E-6 | 1.0 | 0.0 | 1.4938357E-5 | 1.634478E-5 | 1.634478E-5 | 1.0 | 0.0 | 1.8185932E-4 | 1.9898161E-4 | 1.9898161E-4 | 1.0 | 0.0 | 0.0018171056 | 0.001989711 | 0.001989711 | 1.0 | 0.0 |
-| 6.9 | 2.2645952E-6 | 2.1531393E-6 | 2.1531393E-6 | 1.0 | 0.0 | 9.705372E-6 | 9.227709E-6 | 9.227709E-6 | 1.0 | 0.0 | 1.18156495E-4 | 1.12341775E-4 | 1.12341775E-4 | 1.0 | 0.0 | 0.0011809369 | 0.001123466 | 0.001123466 | 1.0 | 0.0 |
-| 7.0 | 1.7864003E-6 | 1.5432659E-6 | 1.5432659E-6 | 1.0 | 0.0 | 7.655979E-6 | 6.61398E-6 | 6.61398E-6 | 1.0 | 0.0 | 9.3207556E-5 | 8.052229E-5 | 8.052229E-5 | 1.0 | 0.0 | 9.316847E-4 | 8.0537825E-4 | 8.0537825E-4 | 1.0 | 0.0 |
-| 7.1 | 1.7315456E-6 | 1.4735324E-6 | 1.4735324E-6 | 1.0 | 0.0 | 7.420889E-6 | 6.3151238E-6 | 6.3151238E-6 | 1.0 | 0.0 | 9.034557E-5 | 7.6883975E-5 | 7.6883975E-5 | 1.0 | 0.0 | 9.0308854E-4 | 7.690116E-4 | 7.690116E-4 | 1.0 | 0.0 |
-| 7.2 | 1.6008337E-6 | 1.3575723E-6 | 1.3575723E-6 | 1.0 | 0.0 | 6.860698E-6 | 5.818154E-6 | 5.818154E-6 | 1.0 | 0.0 | 8.352579E-5 | 7.0833776E-5 | 7.0833776E-5 | 1.0 | 0.0 | 8.34944E-4 | 7.085362E-4 | 7.085362E-4 | 1.0 | 0.0 |
-| 7.3 | 1.3320939E-6 | 1.1219028E-6 | 1.1219028E-6 | 1.0 | 0.0 | 5.7089615E-6 | 4.808146E-6 | 4.808146E-6 | 1.0 | 0.0 | 6.9504385E-5 | 5.8537655E-5 | 5.8537655E-5 | 1.0 | 0.0 | 6.9482654E-4 | 5.853669E-4 | 5.853669E-4 | 1.0 | 0.0 |
-| 7.4 | 1.114294E-6 | 9.2380674E-7 | 9.2380674E-7 | 1.0 | 0.0 | 4.775537E-6 | 3.959166E-6 | 3.959166E-6 | 1.0 | 0.0 | 5.8140613E-5 | 4.8201815E-5 | 4.8201815E-5 | 1.0 | 0.0 | 5.81254E-4 | 4.8193042E-4 | 4.8193042E-4 | 1.0 | 0.0 |
-| 7.5 | 9.354081E-7 | 7.624187E-7 | 7.624187E-7 | 1.0 | 0.0 | 4.0088858E-6 | 3.2675048E-6 | 3.2675048E-6 | 1.0 | 0.0 | 4.8807087E-5 | 3.978118E-5 | 3.978118E-5 | 1.0 | 0.0 | 4.879637E-4 | 3.9774398E-4 | 3.9774398E-4 | 1.0 | 0.0 |
-| 7.6 | 8.521771E-7 | 6.88138E-7 | 6.88138E-7 | 1.0 | 0.0 | 3.6521824E-6 | 2.9491598E-6 | 2.9491598E-6 | 1.0 | 0.0 | 4.4464414E-5 | 3.590546E-5 | 3.590546E-5 | 1.0 | 0.0 | 4.4455516E-4 | 3.5899977E-4 | 3.5899977E-4 | 1.0 | 0.0 |
-| 7.7 | 2.1803626E-7 | 1.418834E-7 | 1.418834E-7 | 1.0 | 0.0 | 9.344408E-7 | 6.080717E-7 | 6.080717E-7 | 1.0 | 0.0 | 1.1376757E-5 | 7.4032573E-6 | 7.4032573E-6 | 1.0 | 0.0 | 1.13761744E-4 | 7.4031064E-5 | 7.4031064E-5 | 1.0 | 0.0 |
-
-## San Jacinto (Stepovers Combined)
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](San_Jacinto_Stepovers_Combined_1wk.png) | ![MPD](San_Jacinto_Stepovers_Combined_1mo.png) | ![MPD](San_Jacinto_Stepovers_Combined_1yr.png) | ![MPD](San_Jacinto_Stepovers_Combined_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.0667746E-5 | 3.5319867E-5 | 4.5319513E-5 | 1.2831168 | 1.0E-5 | 1.742787E-4 | 1.5136207E-4 | 1.6136054E-4 | 1.0660567 | 1.0E-5 | 0.0021197782 | 0.0018412762 | 0.0019011657 | 1.0325261 | 6.0E-5 | 0.020996714 | 0.019011328 | 0.019119237 | 1.005676 | 1.1E-4 |
-| 6.1 | 4.0667746E-5 | 3.5319867E-5 | 4.5319513E-5 | 1.2831168 | 1.0E-5 | 1.742787E-4 | 1.5136207E-4 | 1.6136054E-4 | 1.0660567 | 1.0E-5 | 0.0021197782 | 0.0018412762 | 0.0019011657 | 1.0325261 | 6.0E-5 | 0.020996714 | 0.019011328 | 0.019119237 | 1.005676 | 1.1E-4 |
-| 6.2 | 4.0667746E-5 | 3.5319867E-5 | 4.5319513E-5 | 1.2831168 | 1.0E-5 | 1.742787E-4 | 1.5136207E-4 | 1.6136054E-4 | 1.0660567 | 1.0E-5 | 0.0021197782 | 0.0018412762 | 0.0019011657 | 1.0325261 | 6.0E-5 | 0.020996714 | 0.019011328 | 0.019119237 | 1.005676 | 1.1E-4 |
-| 6.3 | 4.0667746E-5 | 3.5319867E-5 | 4.5319513E-5 | 1.2831168 | 1.0E-5 | 1.742787E-4 | 1.5136207E-4 | 1.6136054E-4 | 1.0660567 | 1.0E-5 | 0.0021197782 | 0.0018412762 | 0.0019011657 | 1.0325261 | 6.0E-5 | 0.020996714 | 0.019011328 | 0.019119237 | 1.005676 | 1.1E-4 |
-| 6.4 | 4.0577226E-5 | 3.5191744E-5 | 4.5191395E-5 | 1.2841475 | 1.0E-5 | 1.738908E-4 | 1.5081304E-4 | 1.6081153E-4 | 1.0662973 | 1.0E-5 | 0.0021150648 | 0.0018346049 | 0.0018845132 | 1.0272038 | 5.0E-5 | 0.020950472 | 0.01894589 | 0.019043995 | 1.0051782 | 1.0E-4 |
-| 6.5 | 4.0577226E-5 | 3.5191744E-5 | 4.5191395E-5 | 1.2841475 | 1.0E-5 | 1.738908E-4 | 1.5081304E-4 | 1.6081153E-4 | 1.0662973 | 1.0E-5 | 0.0021150648 | 0.0018346049 | 0.0018845132 | 1.0272038 | 5.0E-5 | 0.020950472 | 0.01894589 | 0.019043995 | 1.0051782 | 1.0E-4 |
-| 6.6 | 4.053861E-5 | 3.5137084E-5 | 4.513673E-5 | 1.2845896 | 1.0E-5 | 1.7372532E-4 | 1.505788E-4 | 1.6057728E-4 | 1.0664004 | 1.0E-5 | 0.0021130538 | 0.0018317578 | 0.0018816662 | 1.0272462 | 5.0E-5 | 0.020930743 | 0.018917965 | 0.019016072 | 1.005186 | 1.0E-4 |
-| 6.7 | 4.0516545E-5 | 3.5106146E-5 | 4.5105793E-5 | 1.2848405 | 1.0E-5 | 1.7363077E-4 | 1.5044623E-4 | 1.6044472E-4 | 1.066459 | 1.0E-5 | 0.002111905 | 0.001830147 | 0.0018800555 | 1.0272702 | 5.0E-5 | 0.020919468 | 0.018902158 | 0.01900027 | 1.0051904 | 1.0E-4 |
-| 6.8 | 4.049434E-5 | 3.5077705E-5 | 4.507735E-5 | 1.2850714 | 1.0E-5 | 1.7353562E-4 | 1.5032434E-4 | 1.6032284E-4 | 1.0665128 | 1.0E-5 | 0.0021107488 | 0.0018286656 | 0.0018785741 | 1.0272924 | 5.0E-5 | 0.020908125 | 0.01888757 | 0.018985681 | 1.0051945 | 1.0E-4 |
-| 6.9 | 4.046386E-5 | 3.504026E-5 | 4.503991E-5 | 1.2853761 | 1.0E-5 | 1.73405E-4 | 1.5016389E-4 | 1.6016238E-4 | 1.0665839 | 1.0E-5 | 0.0021091616 | 0.0018267153 | 0.001876624 | 1.0273216 | 5.0E-5 | 0.020892553 | 0.018868342 | 0.018966455 | 1.0051999 | 1.0E-4 |
-| 7.0 | 4.036382E-5 | 3.4920806E-5 | 4.4920456E-5 | 1.2863523 | 1.0E-5 | 1.7297632E-4 | 1.4965203E-4 | 1.5965053E-4 | 1.0668117 | 1.0E-5 | 0.0021039525 | 0.001820494 | 0.001870403 | 1.027415 | 5.0E-5 | 0.02084144 | 0.018806947 | 0.018905066 | 1.0052172 | 1.0E-4 |
-| 7.1 | 4.0343282E-5 | 3.4899265E-5 | 4.4898916E-5 | 1.286529 | 1.0E-5 | 1.7288832E-4 | 1.4955971E-4 | 1.5955821E-4 | 1.0668529 | 1.0E-5 | 0.002102883 | 0.0018193721 | 0.001869281 | 1.027432 | 5.0E-5 | 0.020830948 | 0.018795822 | 0.018893942 | 1.0052203 | 1.0E-4 |
-| 7.2 | 4.0257353E-5 | 3.4803666E-5 | 4.4803317E-5 | 1.2873161 | 1.0E-5 | 1.725201E-4 | 1.4915006E-4 | 1.5914856E-4 | 1.0670366 | 1.0E-5 | 0.0020984085 | 0.0018143929 | 0.0018643021 | 1.0275074 | 5.0E-5 | 0.020787042 | 0.018746512 | 0.018844638 | 1.0052344 | 1.0E-4 |
-| 7.3 | 3.9940667E-5 | 3.4631066E-5 | 4.4630717E-5 | 1.2887481 | 1.0E-5 | 1.7116306E-4 | 1.4841043E-4 | 1.5840893E-4 | 1.0673707 | 1.0E-5 | 0.0020819185 | 0.0018054027 | 0.0018553124 | 1.0276446 | 5.0E-5 | 0.020625217 | 0.018655011 | 0.018753147 | 1.0052605 | 1.0E-4 |
-| 7.4 | 3.9721202E-5 | 3.4516357E-5 | 4.451601E-5 | 1.2897077 | 1.0E-5 | 1.7022261E-4 | 1.4791888E-4 | 1.579174E-4 | 1.0675946 | 1.0E-5 | 0.0020704903 | 0.001799428 | 0.0018493381 | 1.0277367 | 5.0E-5 | 0.020513052 | 0.018594086 | 0.018692227 | 1.0052781 | 1.0E-4 |
-| 7.5 | 3.7036873E-5 | 3.3582237E-5 | 4.3581902E-5 | 1.2977664 | 1.0E-5 | 1.5871979E-4 | 1.4391595E-4 | 1.539145E-4 | 1.069475 | 1.0E-5 | 0.0019307006 | 0.0017507714 | 0.0018006839 | 1.0285088 | 5.0E-5 | 0.019140124 | 0.018094845 | 0.018193034 | 1.0054264 | 1.0E-4 |
-| 7.6 | 3.2940967E-5 | 3.135635E-5 | 4.1356037E-5 | 1.3189046 | 1.0E-5 | 1.4116794E-4 | 1.3437745E-4 | 1.443761E-4 | 1.0744072 | 1.0E-5 | 0.0017173645 | 0.0016348199 | 0.0016847382 | 1.0305344 | 5.0E-5 | 0.01704153 | 0.016924236 | 0.017022545 | 1.0058087 | 1.0E-4 |
-| 7.7 | 2.8236149E-5 | 2.7921253E-5 | 3.7920974E-5 | 1.3581401 | 1.0E-5 | 1.2100645E-4 | 1.1965703E-4 | 1.2965583E-4 | 1.0835621 | 1.0E-5 | 0.0014722579 | 0.0014558518 | 0.0015057791 | 1.0342941 | 5.0E-5 | 0.014625421 | 0.015134497 | 0.015232983 | 1.0065074 | 1.0E-4 |
-| 7.8 | 2.4329287E-5 | 2.524342E-5 | 3.5243167E-5 | 1.3961328 | 1.0E-5 | 1.042642E-4 | 1.0818161E-4 | 1.1818053E-4 | 1.0924271 | 1.0E-5 | 0.0012686774 | 0.0013163161 | 0.0013662503 | 1.0379348 | 5.0E-5 | 0.012614589 | 0.01373106 | 0.013829686 | 1.0071827 | 1.0E-4 |
-| 7.9 | 1.9370926E-5 | 2.0453801E-5 | 3.0453597E-5 | 1.4888967 | 1.0E-5 | 8.301561E-5 | 8.7656204E-5 | 9.765533E-5 | 1.1140721 | 1.0E-5 | 0.0010102465 | 0.0010666926 | 0.0011166392 | 1.0468239 | 5.0E-5 | 0.0100566605 | 0.011216374 | 0.011315252 | 1.0088155 | 1.0E-4 |
-| 8.0 | 1.5583017E-5 | 1.5913674E-5 | 2.5913516E-5 | 1.6283804 | 1.0E-5 | 6.6782646E-5 | 6.819968E-5 | 7.8199E-5 | 1.1466182 | 1.0E-5 | 8.127754E-4 | 8.3001546E-4 | 8.699823E-4 | 1.0481519 | 4.0E-5 | 0.008098091 | 0.008796125 | 0.008885333 | 1.0101417 | 9.0E-5 |
-| 8.1 | 1.0024873E-5 | 8.308254E-6 | 8.308254E-6 | 1.0 | 0.0 | 4.2963035E-5 | 3.560632E-5 | 3.560632E-5 | 1.0 | 0.0 | 5.229494E-4 | 4.3342123E-4 | 4.5341256E-4 | 1.0461245 | 2.0E-5 | 0.0052172043 | 0.004661928 | 0.004711695 | 1.0106752 | 5.0E-5 |
-| 8.2 | 4.142796E-6 | 1.5656183E-6 | 1.5656183E-6 | 1.0 | 0.0 | 1.775472E-5 | 6.7097753E-6 | 6.7097753E-6 | 1.0 | 0.0 | 2.1614227E-4 | 8.1688486E-5 | 8.1688486E-5 | 1.0 | 0.0 | 0.0021593217 | 9.481003E-4 | 9.481003E-4 | 1.0 | 0.0 |
-| 8.3 | 1.2750878E-6 | 3.624692E-7 | 3.624692E-7 | 1.0 | 0.0 | 5.4646503E-6 | 1.5534386E-6 | 1.5534386E-6 | 1.0 | 0.0 | 6.653009E-5 | 1.8912953E-5 | 1.8912953E-5 | 1.0 | 0.0 | 6.6510175E-4 | 2.2808049E-4 | 2.2808049E-4 | 1.0 | 0.0 |
-
-## San Andreas (Carrizo) rev
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](San_Andreas_Carrizo_rev_1wk.png) | ![MPD](San_Andreas_Carrizo_rev_1mo.png) | ![MPD](San_Andreas_Carrizo_rev_1yr.png) | ![MPD](San_Andreas_Carrizo_rev_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.1674632E-4 | 2.4349855E-4 | 2.4349855E-4 | 1.0 | 0.0 | 5.002454E-4 | 0.0010431495 | 0.0010431495 | 1.0 | 0.0 | 0.006073493 | 0.0126268715 | 0.012666366 | 1.0031278 | 4.0E-5 | 0.0591016 | 0.12072698 | 0.120823696 | 1.0008012 | 1.1E-4 |
-| 6.1 | 1.1674632E-4 | 2.4349855E-4 | 2.4349855E-4 | 1.0 | 0.0 | 5.002454E-4 | 0.0010431495 | 0.0010431495 | 1.0 | 0.0 | 0.006073493 | 0.0126268715 | 0.012666366 | 1.0031278 | 4.0E-5 | 0.0591016 | 0.12072698 | 0.120823696 | 1.0008012 | 1.1E-4 |
-| 6.2 | 1.1674632E-4 | 2.4349855E-4 | 2.4349855E-4 | 1.0 | 0.0 | 5.002454E-4 | 0.0010431495 | 0.0010431495 | 1.0 | 0.0 | 0.006073493 | 0.0126268715 | 0.012666366 | 1.0031278 | 4.0E-5 | 0.0591016 | 0.12072698 | 0.120823696 | 1.0008012 | 1.1E-4 |
-| 6.3 | 1.1674632E-4 | 2.4349855E-4 | 2.4349855E-4 | 1.0 | 0.0 | 5.002454E-4 | 0.0010431495 | 0.0010431495 | 1.0 | 0.0 | 0.006073493 | 0.0126268715 | 0.012666366 | 1.0031278 | 4.0E-5 | 0.0591016 | 0.12072698 | 0.120823696 | 1.0008012 | 1.1E-4 |
-| 6.4 | 1.1674632E-4 | 2.4349855E-4 | 2.4349855E-4 | 1.0 | 0.0 | 5.002454E-4 | 0.0010431495 | 0.0010431495 | 1.0 | 0.0 | 0.006073493 | 0.0126268715 | 0.012666366 | 1.0031278 | 4.0E-5 | 0.0591016 | 0.12072698 | 0.120823696 | 1.0008012 | 1.1E-4 |
-| 6.5 | 1.13136164E-4 | 2.3669745E-4 | 2.3669745E-4 | 1.0 | 0.0 | 4.847792E-4 | 0.0010140248 | 0.0010140248 | 1.0 | 0.0 | 0.0058862255 | 0.012276316 | 0.012315825 | 1.0032183 | 4.0E-5 | 0.057327334 | 0.11769824 | 0.11779529 | 1.0008246 | 1.1E-4 |
-| 6.6 | 1.13136164E-4 | 2.3669745E-4 | 2.3669745E-4 | 1.0 | 0.0 | 4.847792E-4 | 0.0010140248 | 0.0010140248 | 1.0 | 0.0 | 0.0058862255 | 0.012276316 | 0.012315825 | 1.0032183 | 4.0E-5 | 0.057327334 | 0.11769824 | 0.11779529 | 1.0008246 | 1.1E-4 |
-| 6.7 | 1.1149675E-4 | 2.3360913E-4 | 2.3360913E-4 | 1.0 | 0.0 | 4.777557E-4 | 0.0010007994 | 0.0010007994 | 1.0 | 0.0 | 0.0058011734 | 0.012117094 | 0.01215661 | 1.0032611 | 4.0E-5 | 0.05652051 | 0.11631973 | 0.11641693 | 1.0008357 | 1.1E-4 |
-| 6.8 | 1.1103589E-4 | 2.326304E-4 | 2.326304E-4 | 1.0 | 0.0 | 4.7578133E-4 | 9.966079E-4 | 9.966079E-4 | 1.0 | 0.0 | 0.005777263 | 0.012066631 | 0.0121061485 | 1.0032749 | 4.0E-5 | 0.056293584 | 0.11587995 | 0.11597721 | 1.0008392 | 1.1E-4 |
-| 6.9 | 1.1053259E-4 | 2.3155386E-4 | 2.3155386E-4 | 1.0 | 0.0 | 4.7362508E-4 | 9.919978E-4 | 9.919978E-4 | 1.0 | 0.0 | 0.0057511497 | 0.012011122 | 0.012050642 | 1.0032903 | 4.0E-5 | 0.05604569 | 0.115396075 | 0.11549338 | 1.0008433 | 1.1E-4 |
-| 7.0 | 1.1005377E-4 | 2.3056196E-4 | 2.3056196E-4 | 1.0 | 0.0 | 4.7157376E-4 | 9.8775E-4 | 9.8775E-4 | 1.0 | 0.0 | 0.0057263062 | 0.011959975 | 0.011999496 | 1.0033045 | 4.0E-5 | 0.055809796 | 0.11494831 | 0.11504567 | 1.000847 | 1.1E-4 |
-| 7.1 | 1.0308142E-4 | 2.1565401E-4 | 2.1565401E-4 | 1.0 | 0.0 | 4.417027E-4 | 9.239052E-4 | 9.239052E-4 | 1.0 | 0.0 | 0.0053644776 | 0.011190846 | 0.011230398 | 1.0035343 | 4.0E-5 | 0.052368138 | 0.10820351 | 0.10829269 | 1.0008242 | 1.0E-4 |
-| 7.2 | 1.0027479E-4 | 2.0973093E-4 | 2.0973093E-4 | 1.0 | 0.0 | 4.296783E-4 | 8.985382E-4 | 8.985382E-4 | 1.0 | 0.0 | 0.0052187922 | 0.010885128 | 0.010924692 | 1.0036347 | 4.0E-5 | 0.050979212 | 0.105506994 | 0.10559644 | 1.0008478 | 1.0E-4 |
-| 7.3 | 9.816942E-5 | 2.0447953E-4 | 2.0447953E-4 | 1.0 | 0.0 | 4.2065824E-4 | 8.7604753E-4 | 8.7604753E-4 | 1.0 | 0.0 | 0.005109493 | 0.010614003 | 0.010653579 | 1.0037286 | 4.0E-5 | 0.049935985 | 0.10308959 | 0.10317032 | 1.0007831 | 9.0E-5 |
-| 7.4 | 9.5634205E-5 | 1.981702E-4 | 1.981702E-4 | 1.0 | 0.0 | 4.0979648E-4 | 8.490253E-4 | 8.490253E-4 | 1.0 | 0.0 | 0.0049778637 | 0.010288154 | 0.010327742 | 1.003848 | 4.0E-5 | 0.048678253 | 0.100174405 | 0.100255385 | 1.0008085 | 9.0E-5 |
-| 7.5 | 8.052417E-5 | 1.6134606E-4 | 1.6134606E-4 | 1.0 | 0.0 | 3.4505792E-4 | 6.913001E-4 | 6.913001E-4 | 1.0 | 0.0 | 0.0041929903 | 0.008384179 | 0.008423843 | 1.0047309 | 4.0E-5 | 0.04114753 | 0.08290832 | 0.08298168 | 1.0008849 | 8.0E-5 |
-| 7.6 | 7.897024E-5 | 1.5787578E-4 | 1.5787578E-4 | 1.0 | 0.0 | 3.384E-4 | 6.7643524E-4 | 6.7643524E-4 | 1.0 | 0.0 | 0.0041122385 | 0.008204577 | 0.00823433 | 1.0036265 | 3.0E-5 | 0.040369697 | 0.08124857 | 0.08130369 | 1.0006784 | 6.0E-5 |
-| 7.7 | 6.707427E-5 | 1.329566E-4 | 1.329566E-4 | 1.0 | 0.0 | 2.8742946E-4 | 5.696896E-4 | 5.696896E-4 | 1.0 | 0.0 | 0.003493839 | 0.006913946 | 0.0069437386 | 1.004309 | 3.0E-5 | 0.034394164 | 0.069136776 | 0.069192626 | 1.0008079 | 6.0E-5 |
-| 7.8 | 6.147705E-5 | 1.2215169E-4 | 1.2215169E-4 | 1.0 | 0.0 | 2.6344648E-4 | 5.2340224E-4 | 5.2340224E-4 | 1.0 | 0.0 | 0.0032027436 | 0.006353828 | 0.0063836374 | 1.0046916 | 3.0E-5 | 0.031569764 | 0.06359524 | 0.06365143 | 1.0008835 | 6.0E-5 |
-| 7.9 | 4.7636717E-5 | 8.8924724E-5 | 8.8924724E-5 | 1.0 | 0.0 | 2.0414138E-4 | 3.810503E-4 | 3.810503E-4 | 1.0 | 0.0 | 0.0024825884 | 0.0046294266 | 0.004649334 | 1.0043002 | 2.0E-5 | 0.024550365 | 0.046687778 | 0.04672591 | 1.0008167 | 4.0E-5 |
-| 8.0 | 3.3554235E-5 | 5.2214647E-5 | 5.2214647E-5 | 1.0 | 0.0 | 1.4379594E-4 | 2.2375787E-4 | 2.2375787E-4 | 1.0 | 0.0 | 0.0017493097 | 0.0027208505 | 0.002740796 | 1.0073307 | 2.0E-5 | 0.017356034 | 0.027919138 | 0.027938578 | 1.0006963 | 2.0E-5 |
-| 8.1 | 1.9175432E-5 | 1.9222338E-5 | 1.9222338E-5 | 1.0 | 0.0 | 8.217783E-5 | 8.237885E-5 | 8.237885E-5 | 1.0 | 0.0 | 0.0010000558 | 0.0010025017 | 0.0010124916 | 1.0099651 | 1.0E-5 | 0.009955673 | 0.010777608 | 0.0107875 | 1.0009178 | 1.0E-5 |
-| 8.2 | 8.643924E-6 | 5.488954E-6 | 5.488954E-6 | 1.0 | 0.0 | 3.704486E-5 | 2.3523877E-5 | 2.3523877E-5 | 1.0 | 0.0 | 4.5092785E-4 | 2.8636563E-4 | 2.8636563E-4 | 1.0 | 0.0 | 0.0045001395 | 0.0032564052 | 0.0032564052 | 1.0 | 0.0 |
-| 8.3 | 1.983087E-6 | 7.68342E-7 | 7.68342E-7 | 1.0 | 0.0 | 8.498917E-6 | 3.2928901E-6 | 3.2928901E-6 | 1.0 | 0.0 | 1.034694E-4 | 4.0090217E-5 | 4.0090217E-5 | 1.0 | 0.0 | 0.0010342124 | 4.7331754E-4 | 4.7331754E-4 | 1.0 | 0.0 |
-
-## Lake Isabella (Seismicity)
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Lake_Isabella_Seismicity_1wk.png) | ![MPD](Lake_Isabella_Seismicity_1mo.png) | ![MPD](Lake_Isabella_Seismicity_1yr.png) | ![MPD](Lake_Isabella_Seismicity_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 9.431637E-6 | 9.741771E-6 | 9.741771E-6 | 1.0 | 0.0 | 4.0420677E-5 | 4.1749852E-5 | 5.1749434E-5 | 1.2395118 | 1.0E-5 | 4.920106E-4 | 5.08199E-4 | 5.7816337E-4 | 1.1376714 | 7.0E-5 | 0.004909227 | 0.0050716605 | 0.005181103 | 1.0215791 | 1.1E-4 |
-| 6.1 | 9.431637E-6 | 9.741771E-6 | 9.741771E-6 | 1.0 | 0.0 | 4.0420677E-5 | 4.1749852E-5 | 5.1749434E-5 | 1.2395118 | 1.0E-5 | 4.920106E-4 | 5.08199E-4 | 5.7816337E-4 | 1.1376714 | 7.0E-5 | 0.004909227 | 0.0050716605 | 0.005181103 | 1.0215791 | 1.1E-4 |
-| 6.2 | 9.431637E-6 | 9.741771E-6 | 9.741771E-6 | 1.0 | 0.0 | 4.0420677E-5 | 4.1749852E-5 | 5.1749434E-5 | 1.2395118 | 1.0E-5 | 4.920106E-4 | 5.08199E-4 | 5.7816337E-4 | 1.1376714 | 7.0E-5 | 0.004909227 | 0.0050716605 | 0.005181103 | 1.0215791 | 1.1E-4 |
-| 6.3 | 9.431637E-6 | 9.741771E-6 | 9.741771E-6 | 1.0 | 0.0 | 4.0420677E-5 | 4.1749852E-5 | 5.1749434E-5 | 1.2395118 | 1.0E-5 | 4.920106E-4 | 5.08199E-4 | 5.7816337E-4 | 1.1376714 | 7.0E-5 | 0.004909227 | 0.0050716605 | 0.005181103 | 1.0215791 | 1.1E-4 |
-| 6.4 | 5.144063E-6 | 5.300136E-6 | 5.300136E-6 | 1.0 | 0.0 | 2.2045799E-5 | 2.271469E-5 | 3.2714463E-5 | 1.4402337 | 1.0E-5 | 2.6837454E-4 | 2.765197E-4 | 3.265059E-4 | 1.180769 | 5.0E-5 | 0.0026805066 | 0.0027620967 | 0.002841876 | 1.0288835 | 8.0E-5 |
-| 6.5 | 5.144063E-6 | 5.300136E-6 | 5.300136E-6 | 1.0 | 0.0 | 2.2045799E-5 | 2.271469E-5 | 3.2714463E-5 | 1.4402337 | 1.0E-5 | 2.6837454E-4 | 2.765197E-4 | 3.265059E-4 | 1.180769 | 5.0E-5 | 0.0026805066 | 0.0027620967 | 0.002841876 | 1.0288835 | 8.0E-5 |
-| 6.6 | 3.4009804E-6 | 3.4988236E-6 | 3.4988236E-6 | 1.0 | 0.0 | 1.4575549E-5 | 1.4994881E-5 | 1.4994881E-5 | 1.0 | 0.0 | 1.7744285E-4 | 1.8254899E-4 | 2.0254533E-4 | 1.1095396 | 2.0E-5 | 0.0017730123 | 0.0018241481 | 0.0018740569 | 1.0273601 | 5.0E-5 |
-| 6.7 | 3.3880428E-6 | 3.48569E-6 | 3.48569E-6 | 1.0 | 0.0 | 1.4520103E-5 | 1.4938595E-5 | 1.4938595E-5 | 1.0 | 0.0 | 1.767679E-4 | 1.8186383E-4 | 2.0186018E-4 | 1.1099524 | 2.0E-5 | 0.0017662736 | 0.0018173077 | 0.0018672168 | 1.0274632 | 5.0E-5 |
-| 6.8 | 2.6582E-6 | 2.7337292E-6 | 2.7337292E-6 | 1.0 | 0.0 | 1.1392236E-5 | 1.1715937E-5 | 1.1715937E-5 | 1.0 | 0.0 | 1.3869164E-4 | 1.4263354E-4 | 1.5263211E-4 | 1.0700997 | 1.0E-5 | 0.0013860512 | 0.001425552 | 0.001465495 | 1.0280193 | 4.0E-5 |
-| 6.9 | 2.406011E-6 | 2.474355E-6 | 2.474355E-6 | 1.0 | 0.0 | 1.0311434E-5 | 1.0604343E-5 | 1.0604343E-5 | 1.0 | 0.0 | 1.2553448E-4 | 1.2910155E-4 | 1.3910026E-4 | 1.0774484 | 1.0E-5 | 0.0012546359 | 0.001290395 | 0.0013303434 | 1.0309583 | 4.0E-5 |
-| 7.0 | 1.6953097E-6 | 1.7429554E-6 | 1.7429554E-6 | 1.0 | 0.0 | 7.265593E-6 | 7.469793E-6 | 7.469793E-6 | 1.0 | 0.0 | 8.8455E-5 | 9.094198E-5 | 1.0094108E-4 | 1.1099502 | 1.0E-5 | 8.84198E-4 | 9.0915046E-4 | 9.491141E-4 | 1.0439571 | 4.0E-5 |
-| 7.1 | 3.5013824E-7 | 3.571509E-7 | 3.571509E-7 | 1.0 | 0.0 | 1.5005916E-6 | 1.5306458E-6 | 1.5306458E-6 | 1.0 | 0.0 | 1.826955E-5 | 1.8635455E-5 | 1.8635455E-5 | 1.0 | 0.0 | 1.8268047E-4 | 1.8633918E-4 | 1.8633918E-4 | 1.0 | 0.0 |
-| 7.2 | 2.2321095E-7 | 2.2750736E-7 | 2.2750736E-7 | 1.0 | 0.0 | 9.56618E-7 | 9.750312E-7 | 9.750312E-7 | 1.0 | 0.0 | 1.1646762E-5 | 1.1870941E-5 | 1.1870941E-5 | 1.0 | 0.0 | 1.1646151E-4 | 1.18703174E-4 | 1.18703174E-4 | 1.0 | 0.0 |
-| 7.3 | 1.5760406E-7 | 1.6061036E-7 | 1.6061036E-7 | 1.0 | 0.0 | 6.7544585E-7 | 6.883299E-7 | 6.883299E-7 | 1.0 | 0.0 | 8.223522E-6 | 8.380385E-6 | 8.380385E-6 | 1.0 | 0.0 | 8.2232174E-5 | 8.3800755E-5 | 8.3800755E-5 | 1.0 | 0.0 |
-| 7.4 | 1.1216497E-7 | 1.1431788E-7 | 1.1431788E-7 | 1.0 | 0.0 | 4.8070694E-7 | 4.8993365E-7 | 4.8993365E-7 | 1.0 | 0.0 | 5.852591E-6 | 5.9649265E-6 | 5.9649265E-6 | 1.0 | 0.0 | 5.8524372E-5 | 5.9647708E-5 | 5.9647708E-5 | 1.0 | 0.0 |
-| 7.5 | 4.885185E-8 | 4.9788092E-8 | 4.9788092E-8 | 1.0 | 0.0 | 2.0936506E-7 | 2.1337752E-7 | 2.1337752E-7 | 1.0 | 0.0 | 2.5490165E-6 | 2.5978684E-6 | 2.5978684E-6 | 1.0 | 0.0 | 2.5489873E-5 | 2.59784E-5 | 2.59784E-5 | 1.0 | 0.0 |
-| 7.6 | 1.504641E-9 | 1.5318006E-9 | 1.5318006E-9 | 1.0 | 0.0 | 6.4484613E-9 | 6.5648598E-9 | 6.5648598E-9 | 1.0 | 0.0 | 7.851001E-8 | 7.992716E-8 | 7.992716E-8 | 1.0 | 0.0 | 7.8509987E-7 | 7.992716E-7 | 7.992716E-7 | 1.0 | 0.0 |
 
 ## Baker
 *[(top)](#table-of-contents)*
@@ -1934,6 +1934,40 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.2 | 2.0358202E-6 | 9.018346E-7 | 9.018346E-7 | 1.0 | 0.0 | 8.724915E-6 | 3.8649996E-6 | 3.8649996E-6 | 1.0 | 0.0 | 1.06220665E-4 | 4.705538E-5 | 4.705538E-5 | 1.0 | 0.0 | 0.001061699 | 5.3387694E-4 | 5.3387694E-4 | 1.0 | 0.0 |
 | 8.3 | 2.0051264E-7 | 6.637482E-8 | 6.637482E-8 | 1.0 | 0.0 | 8.5933965E-7 | 2.8446348E-7 | 2.8446348E-7 | 1.0 | 0.0 | 1.046241E-5 | 3.4633376E-6 | 3.4633376E-6 | 1.0 | 0.0 | 1.0461917E-4 | 4.025472E-5 | 4.025472E-5 | 1.0 | 0.0 |
 
+## San Jacinto (Borrego)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](San_Jacinto_Borrego_1wk.png) | ![MPD](San_Jacinto_Borrego_1mo.png) | ![MPD](San_Jacinto_Borrego_1yr.png) | ![MPD](San_Jacinto_Borrego_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 3.543992E-5 | 2.7947624E-5 | 3.7947346E-5 | 1.3578022 | 1.0E-5 | 1.5187653E-4 | 1.19770106E-4 | 1.297689E-4 | 1.0834833 | 1.0E-5 | 0.0018475284 | 0.0014572379 | 0.0014871942 | 1.0205569 | 3.0E-5 | 0.018322436 | 0.014880617 | 0.014949576 | 1.0046341 | 7.0E-5 |
+| 6.1 | 3.542281E-5 | 2.7947624E-5 | 3.7947346E-5 | 1.3578022 | 1.0E-5 | 1.5180321E-4 | 1.19770106E-4 | 1.297689E-4 | 1.0834833 | 1.0E-5 | 0.0018466372 | 0.0014572379 | 0.0014871942 | 1.0205569 | 3.0E-5 | 0.018313672 | 0.014880617 | 0.014949576 | 1.0046341 | 7.0E-5 |
+| 6.2 | 3.4688688E-5 | 2.7947624E-5 | 3.7947346E-5 | 1.3578022 | 1.0E-5 | 1.4865733E-4 | 1.19770106E-4 | 1.297689E-4 | 1.0834833 | 1.0E-5 | 0.0018084005 | 0.0014572379 | 0.0014871942 | 1.0205569 | 3.0E-5 | 0.017937548 | 0.014880617 | 0.014949576 | 1.0046341 | 7.0E-5 |
+| 6.3 | 3.2087122E-5 | 2.7792965E-5 | 3.7792684E-5 | 1.3597933 | 1.0E-5 | 1.3750899E-4 | 1.1910733E-4 | 1.2910615E-4 | 1.0839479 | 1.0E-5 | 0.0016728862 | 0.0014491794 | 0.001479136 | 1.0206714 | 3.0E-5 | 0.016603488 | 0.0148016475 | 0.014870611 | 1.0046592 | 7.0E-5 |
+| 6.4 | 3.1828724E-5 | 2.7759947E-5 | 3.775967E-5 | 1.3602213 | 1.0E-5 | 1.364017E-4 | 1.1896584E-4 | 1.2896465E-4 | 1.0840478 | 1.0E-5 | 0.0016594254 | 0.001447459 | 0.0014774156 | 1.0206959 | 3.0E-5 | 0.016470885 | 0.0147847235 | 0.014853689 | 1.0046647 | 7.0E-5 |
+| 6.5 | 3.1563577E-5 | 2.7499631E-5 | 3.7499358E-5 | 1.3636312 | 1.0E-5 | 1.3526545E-4 | 1.1785031E-4 | 1.2784913E-4 | 1.0848434 | 1.0E-5 | 0.0016456128 | 0.0014338953 | 0.0014638524 | 1.020892 | 3.0E-5 | 0.0163348 | 0.014651294 | 0.014720269 | 1.0047077 | 7.0E-5 |
+| 6.6 | 3.1467625E-5 | 2.734384E-5 | 3.734357E-5 | 1.3657031 | 1.0E-5 | 1.3485427E-4 | 1.17182695E-4 | 1.2718153E-4 | 1.0853268 | 1.0E-5 | 0.0016406142 | 0.0014257778 | 0.001455735 | 1.0210111 | 3.0E-5 | 0.016285548 | 0.014571534 | 0.014640514 | 1.0047339 | 7.0E-5 |
+| 6.7 | 3.1223695E-5 | 2.6961829E-5 | 3.696156E-5 | 1.3708848 | 1.0E-5 | 1.3380898E-4 | 1.1554564E-4 | 1.2554448E-4 | 1.0865359 | 1.0E-5 | 0.0016279068 | 0.0014058725 | 0.0014358304 | 1.021309 | 3.0E-5 | 0.01616033 | 0.014375892 | 0.014444886 | 1.0047992 | 7.0E-5 |
+| 6.8 | 3.1015585E-5 | 2.6782798E-5 | 3.678253E-5 | 1.373364 | 1.0E-5 | 1.3291716E-4 | 1.1477844E-4 | 1.2477729E-4 | 1.0871143 | 1.0E-5 | 0.001617065 | 0.0013965438 | 0.0014265019 | 1.0214516 | 3.0E-5 | 0.016053487 | 0.014283154 | 0.014352154 | 1.0048308 | 7.0E-5 |
+| 6.9 | 2.6641965E-5 | 2.2203956E-5 | 3.2203734E-5 | 1.4503602 | 1.0E-5 | 1.1417485E-4 | 9.515636E-5 | 1.0515541E-4 | 1.1050801 | 1.0E-5 | 0.0013891924 | 0.001157917 | 0.0011878822 | 1.0258785 | 3.0E-5 | 0.0138054015 | 0.011892728 | 0.011961895 | 1.005816 | 7.0E-5 |
+| 7.0 | 2.3854353E-5 | 2.0498017E-5 | 3.0497813E-5 | 1.4878421 | 1.0E-5 | 1.02228936E-4 | 8.784571E-5 | 9.784482E-5 | 1.1138259 | 1.0E-5 | 0.0012439266 | 0.0010689993 | 0.0010989672 | 1.0280336 | 3.0E-5 | 0.012369866 | 0.01099272 | 0.01106195 | 1.0062978 | 7.0E-5 |
+| 7.1 | 2.3672901E-5 | 2.0334484E-5 | 3.0334282E-5 | 1.4917654 | 1.0E-5 | 1.0145135E-4 | 8.7144894E-5 | 9.7144024E-5 | 1.1147414 | 1.0E-5 | 0.0012344702 | 0.0010604752 | 0.0010904435 | 1.0282592 | 3.0E-5 | 0.0122763505 | 0.010907886 | 0.010977122 | 1.0063474 | 7.0E-5 |
+| 7.2 | 2.2717244E-5 | 1.9561707E-5 | 2.9561512E-5 | 1.5111928 | 1.0E-5 | 9.735599E-5 | 8.3833205E-5 | 9.3832365E-5 | 1.1192745 | 1.0E-5 | 0.0011846646 | 0.0010201937 | 0.0010501631 | 1.0293761 | 3.0E-5 | 0.01178369 | 0.010505172 | 0.010574437 | 1.0065933 | 7.0E-5 |
+| 7.3 | 2.1016205E-5 | 1.8403072E-5 | 2.8402888E-5 | 1.5433775 | 1.0E-5 | 9.006634E-5 | 7.886794E-5 | 8.886715E-5 | 1.1267842 | 1.0E-5 | 0.001096006 | 9.5979625E-4 | 9.897675E-4 | 1.0312266 | 3.0E-5 | 0.010906163 | 0.009900665 | 0.009969972 | 1.0070002 | 7.0E-5 |
+| 7.4 | 2.0683625E-5 | 1.820554E-5 | 2.8205357E-5 | 1.5492734 | 1.0E-5 | 8.86411E-5 | 7.802142E-5 | 8.8020635E-5 | 1.1281599 | 1.0E-5 | 0.001078671 | 9.4949885E-4 | 9.794703E-4 | 1.0315657 | 3.0E-5 | 0.010734501 | 0.009797363 | 0.009866676 | 1.0070748 | 7.0E-5 |
+| 7.5 | 1.9993966E-5 | 1.7800401E-5 | 2.7800224E-5 | 1.5617751 | 1.0E-5 | 8.568561E-5 | 7.6285214E-5 | 8.628445E-5 | 1.131077 | 1.0E-5 | 0.001042723 | 9.283788E-4 | 9.5835095E-4 | 1.0322844 | 3.0E-5 | 0.010378438 | 0.0095842015 | 0.00965353 | 1.0072337 | 7.0E-5 |
+| 7.6 | 1.788966E-5 | 1.6453148E-5 | 2.6452984E-5 | 1.6077764 | 1.0E-5 | 7.666772E-5 | 7.05116E-5 | 8.0510894E-5 | 1.1418107 | 1.0E-5 | 9.3302975E-4 | 8.581424E-4 | 8.8811666E-4 | 1.0349293 | 3.0E-5 | 0.00929122 | 0.008875836 | 0.008945215 | 1.0078166 | 7.0E-5 |
+| 7.7 | 1.5125781E-5 | 1.4254682E-5 | 2.425454E-5 | 1.7015139 | 1.0E-5 | 6.4823165E-5 | 6.109007E-5 | 7.108946E-5 | 1.1636827 | 1.0E-5 | 7.889362E-4 | 7.435186E-4 | 7.734963E-4 | 1.0403187 | 3.0E-5 | 0.007861412 | 0.0077232756 | 0.007792735 | 1.0089935 | 7.0E-5 |
+| 7.8 | 1.250089E-5 | 1.2647167E-5 | 2.264704E-5 | 1.790681 | 1.0E-5 | 5.3574146E-5 | 5.420102E-5 | 6.4200474E-5 | 1.1844884 | 1.0E-5 | 6.5207E-4 | 6.596982E-4 | 6.896785E-4 | 1.0454453 | 3.0E-5 | 0.006501599 | 0.0068765106 | 0.0069460296 | 1.0101095 | 7.0E-5 |
+| 7.9 | 9.561E-6 | 9.769368E-6 | 1.976927E-5 | 2.0235977 | 1.0E-5 | 4.0975072E-5 | 4.186805E-5 | 5.186763E-5 | 1.2388356 | 1.0E-5 | 4.987573E-4 | 5.096249E-4 | 5.396096E-4 | 1.0588368 | 3.0E-5 | 0.0049763937 | 0.0053601125 | 0.0054297373 | 1.0129894 | 7.0E-5 |
+| 8.0 | 8.01699E-6 | 8.306909E-6 | 1.8306826E-5 | 2.2038074 | 1.0E-5 | 3.4358076E-5 | 3.5600555E-5 | 4.5600198E-5 | 1.2808845 | 1.0E-5 | 4.1822926E-4 | 4.333511E-4 | 4.6333807E-4 | 1.0691979 | 3.0E-5 | 0.0041744304 | 0.004580452 | 0.004650132 | 1.0152123 | 7.0E-5 |
+| 8.1 | 6.541947E-6 | 6.4732235E-6 | 6.4732235E-6 | 1.0 | 0.0 | 2.8036617E-5 | 2.7742095E-5 | 2.7742095E-5 | 1.0 | 0.0 | 3.4129233E-4 | 3.3770816E-4 | 3.577014E-4 | 1.0592028 | 2.0E-5 | 0.0034076865 | 0.0035865188 | 0.0036363394 | 1.0138911 | 5.0E-5 |
+| 8.2 | 1.7968189E-6 | 7.9922734E-7 | 7.9922734E-7 | 1.0 | 0.0 | 7.70063E-6 | 3.4252555E-6 | 3.4252555E-6 | 1.0 | 0.0 | 9.3751136E-5 | 4.170171E-5 | 4.170171E-5 | 1.0 | 0.0 | 9.371159E-4 | 4.7237758E-4 | 4.7237758E-4 | 1.0 | 0.0 |
+| 8.3 | 1.5167889E-7 | 4.9126783E-8 | 4.9126783E-8 | 1.0 | 0.0 | 6.500522E-7 | 2.1054335E-7 | 2.1054335E-7 | 1.0 | 0.0 | 7.9143565E-6 | 2.5633626E-6 | 2.5633626E-6 | 1.0 | 0.0 | 7.914075E-5 | 2.9780846E-5 | 2.9780846E-5 | 1.0 | 0.0 |
+
 ## Mission Creek
 *[(top)](#table-of-contents)*
 
@@ -1984,84 +2018,6 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 6.5 | 1.2288092E-5 | 1.378173E-5 | 1.378173E-5 | 1.0 | 0.0 | 5.2662188E-5 | 5.9063746E-5 | 5.9063746E-5 | 1.0 | 0.0 | 6.409735E-4 | 7.189577E-4 | 7.389433E-4 | 1.027798 | 2.0E-5 | 0.006391279 | 0.007175524 | 0.0072053084 | 1.0041509 | 3.0E-5 |
 | 6.6 | 8.58281E-6 | 9.634208E-6 | 9.634208E-6 | 1.0 | 0.0 | 3.6782953E-5 | 4.128928E-5 | 4.128928E-5 | 1.0 | 0.0 | 4.4774043E-4 | 5.0266425E-4 | 5.226542E-4 | 1.039768 | 2.0E-5 | 0.0044683935 | 0.0050234334 | 0.0050532827 | 1.005942 | 3.0E-5 |
 | 6.7 | 7.205685E-6 | 8.088669E-6 | 8.088669E-6 | 1.0 | 0.0 | 3.088114E-5 | 3.466573E-5 | 3.466573E-5 | 1.0 | 0.0 | 3.7591302E-4 | 4.2205522E-4 | 4.420468E-4 | 1.0473672 | 2.0E-5 | 0.0037527776 | 0.0042205523 | 0.004250426 | 1.007078 | 3.0E-5 |
-
-## San Jacinto (Borrego)
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](San_Jacinto_Borrego_1wk.png) | ![MPD](San_Jacinto_Borrego_1mo.png) | ![MPD](San_Jacinto_Borrego_1yr.png) | ![MPD](San_Jacinto_Borrego_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 3.543992E-5 | 2.7947624E-5 | 3.7947346E-5 | 1.3578022 | 1.0E-5 | 1.5187653E-4 | 1.19770106E-4 | 1.297689E-4 | 1.0834833 | 1.0E-5 | 0.0018475284 | 0.0014572379 | 0.0014871942 | 1.0205569 | 3.0E-5 | 0.018322436 | 0.014880617 | 0.014949576 | 1.0046341 | 7.0E-5 |
-| 6.1 | 3.542281E-5 | 2.7947624E-5 | 3.7947346E-5 | 1.3578022 | 1.0E-5 | 1.5180321E-4 | 1.19770106E-4 | 1.297689E-4 | 1.0834833 | 1.0E-5 | 0.0018466372 | 0.0014572379 | 0.0014871942 | 1.0205569 | 3.0E-5 | 0.018313672 | 0.014880617 | 0.014949576 | 1.0046341 | 7.0E-5 |
-| 6.2 | 3.4688688E-5 | 2.7947624E-5 | 3.7947346E-5 | 1.3578022 | 1.0E-5 | 1.4865733E-4 | 1.19770106E-4 | 1.297689E-4 | 1.0834833 | 1.0E-5 | 0.0018084005 | 0.0014572379 | 0.0014871942 | 1.0205569 | 3.0E-5 | 0.017937548 | 0.014880617 | 0.014949576 | 1.0046341 | 7.0E-5 |
-| 6.3 | 3.2087122E-5 | 2.7792965E-5 | 3.7792684E-5 | 1.3597933 | 1.0E-5 | 1.3750899E-4 | 1.1910733E-4 | 1.2910615E-4 | 1.0839479 | 1.0E-5 | 0.0016728862 | 0.0014491794 | 0.001479136 | 1.0206714 | 3.0E-5 | 0.016603488 | 0.0148016475 | 0.014870611 | 1.0046592 | 7.0E-5 |
-| 6.4 | 3.1828724E-5 | 2.7759947E-5 | 3.775967E-5 | 1.3602213 | 1.0E-5 | 1.364017E-4 | 1.1896584E-4 | 1.2896465E-4 | 1.0840478 | 1.0E-5 | 0.0016594254 | 0.001447459 | 0.0014774156 | 1.0206959 | 3.0E-5 | 0.016470885 | 0.0147847235 | 0.014853689 | 1.0046647 | 7.0E-5 |
-| 6.5 | 3.1563577E-5 | 2.7499631E-5 | 3.7499358E-5 | 1.3636312 | 1.0E-5 | 1.3526545E-4 | 1.1785031E-4 | 1.2784913E-4 | 1.0848434 | 1.0E-5 | 0.0016456128 | 0.0014338953 | 0.0014638524 | 1.020892 | 3.0E-5 | 0.0163348 | 0.014651294 | 0.014720269 | 1.0047077 | 7.0E-5 |
-| 6.6 | 3.1467625E-5 | 2.734384E-5 | 3.734357E-5 | 1.3657031 | 1.0E-5 | 1.3485427E-4 | 1.17182695E-4 | 1.2718153E-4 | 1.0853268 | 1.0E-5 | 0.0016406142 | 0.0014257778 | 0.001455735 | 1.0210111 | 3.0E-5 | 0.016285548 | 0.014571534 | 0.014640514 | 1.0047339 | 7.0E-5 |
-| 6.7 | 3.1223695E-5 | 2.6961829E-5 | 3.696156E-5 | 1.3708848 | 1.0E-5 | 1.3380898E-4 | 1.1554564E-4 | 1.2554448E-4 | 1.0865359 | 1.0E-5 | 0.0016279068 | 0.0014058725 | 0.0014358304 | 1.021309 | 3.0E-5 | 0.01616033 | 0.014375892 | 0.014444886 | 1.0047992 | 7.0E-5 |
-| 6.8 | 3.1015585E-5 | 2.6782798E-5 | 3.678253E-5 | 1.373364 | 1.0E-5 | 1.3291716E-4 | 1.1477844E-4 | 1.2477729E-4 | 1.0871143 | 1.0E-5 | 0.001617065 | 0.0013965438 | 0.0014265019 | 1.0214516 | 3.0E-5 | 0.016053487 | 0.014283154 | 0.014352154 | 1.0048308 | 7.0E-5 |
-| 6.9 | 2.6641965E-5 | 2.2203956E-5 | 3.2203734E-5 | 1.4503602 | 1.0E-5 | 1.1417485E-4 | 9.515636E-5 | 1.0515541E-4 | 1.1050801 | 1.0E-5 | 0.0013891924 | 0.001157917 | 0.0011878822 | 1.0258785 | 3.0E-5 | 0.0138054015 | 0.011892728 | 0.011961895 | 1.005816 | 7.0E-5 |
-| 7.0 | 2.3854353E-5 | 2.0498017E-5 | 3.0497813E-5 | 1.4878421 | 1.0E-5 | 1.02228936E-4 | 8.784571E-5 | 9.784482E-5 | 1.1138259 | 1.0E-5 | 0.0012439266 | 0.0010689993 | 0.0010989672 | 1.0280336 | 3.0E-5 | 0.012369866 | 0.01099272 | 0.01106195 | 1.0062978 | 7.0E-5 |
-| 7.1 | 2.3672901E-5 | 2.0334484E-5 | 3.0334282E-5 | 1.4917654 | 1.0E-5 | 1.0145135E-4 | 8.7144894E-5 | 9.7144024E-5 | 1.1147414 | 1.0E-5 | 0.0012344702 | 0.0010604752 | 0.0010904435 | 1.0282592 | 3.0E-5 | 0.0122763505 | 0.010907886 | 0.010977122 | 1.0063474 | 7.0E-5 |
-| 7.2 | 2.2717244E-5 | 1.9561707E-5 | 2.9561512E-5 | 1.5111928 | 1.0E-5 | 9.735599E-5 | 8.3833205E-5 | 9.3832365E-5 | 1.1192745 | 1.0E-5 | 0.0011846646 | 0.0010201937 | 0.0010501631 | 1.0293761 | 3.0E-5 | 0.01178369 | 0.010505172 | 0.010574437 | 1.0065933 | 7.0E-5 |
-| 7.3 | 2.1016205E-5 | 1.8403072E-5 | 2.8402888E-5 | 1.5433775 | 1.0E-5 | 9.006634E-5 | 7.886794E-5 | 8.886715E-5 | 1.1267842 | 1.0E-5 | 0.001096006 | 9.5979625E-4 | 9.897675E-4 | 1.0312266 | 3.0E-5 | 0.010906163 | 0.009900665 | 0.009969972 | 1.0070002 | 7.0E-5 |
-| 7.4 | 2.0683625E-5 | 1.820554E-5 | 2.8205357E-5 | 1.5492734 | 1.0E-5 | 8.86411E-5 | 7.802142E-5 | 8.8020635E-5 | 1.1281599 | 1.0E-5 | 0.001078671 | 9.4949885E-4 | 9.794703E-4 | 1.0315657 | 3.0E-5 | 0.010734501 | 0.009797363 | 0.009866676 | 1.0070748 | 7.0E-5 |
-| 7.5 | 1.9993966E-5 | 1.7800401E-5 | 2.7800224E-5 | 1.5617751 | 1.0E-5 | 8.568561E-5 | 7.6285214E-5 | 8.628445E-5 | 1.131077 | 1.0E-5 | 0.001042723 | 9.283788E-4 | 9.5835095E-4 | 1.0322844 | 3.0E-5 | 0.010378438 | 0.0095842015 | 0.00965353 | 1.0072337 | 7.0E-5 |
-| 7.6 | 1.788966E-5 | 1.6453148E-5 | 2.6452984E-5 | 1.6077764 | 1.0E-5 | 7.666772E-5 | 7.05116E-5 | 8.0510894E-5 | 1.1418107 | 1.0E-5 | 9.3302975E-4 | 8.581424E-4 | 8.8811666E-4 | 1.0349293 | 3.0E-5 | 0.00929122 | 0.008875836 | 0.008945215 | 1.0078166 | 7.0E-5 |
-| 7.7 | 1.5125781E-5 | 1.4254682E-5 | 2.425454E-5 | 1.7015139 | 1.0E-5 | 6.4823165E-5 | 6.109007E-5 | 7.108946E-5 | 1.1636827 | 1.0E-5 | 7.889362E-4 | 7.435186E-4 | 7.734963E-4 | 1.0403187 | 3.0E-5 | 0.007861412 | 0.0077232756 | 0.007792735 | 1.0089935 | 7.0E-5 |
-| 7.8 | 1.250089E-5 | 1.2647167E-5 | 2.264704E-5 | 1.790681 | 1.0E-5 | 5.3574146E-5 | 5.420102E-5 | 6.4200474E-5 | 1.1844884 | 1.0E-5 | 6.5207E-4 | 6.596982E-4 | 6.896785E-4 | 1.0454453 | 3.0E-5 | 0.006501599 | 0.0068765106 | 0.0069460296 | 1.0101095 | 7.0E-5 |
-| 7.9 | 9.561E-6 | 9.769368E-6 | 1.976927E-5 | 2.0235977 | 1.0E-5 | 4.0975072E-5 | 4.186805E-5 | 5.186763E-5 | 1.2388356 | 1.0E-5 | 4.987573E-4 | 5.096249E-4 | 5.396096E-4 | 1.0588368 | 3.0E-5 | 0.0049763937 | 0.0053601125 | 0.0054297373 | 1.0129894 | 7.0E-5 |
-| 8.0 | 8.01699E-6 | 8.306909E-6 | 1.8306826E-5 | 2.2038074 | 1.0E-5 | 3.4358076E-5 | 3.5600555E-5 | 4.5600198E-5 | 1.2808845 | 1.0E-5 | 4.1822926E-4 | 4.333511E-4 | 4.6333807E-4 | 1.0691979 | 3.0E-5 | 0.0041744304 | 0.004580452 | 0.004650132 | 1.0152123 | 7.0E-5 |
-| 8.1 | 6.541947E-6 | 6.4732235E-6 | 6.4732235E-6 | 1.0 | 0.0 | 2.8036617E-5 | 2.7742095E-5 | 2.7742095E-5 | 1.0 | 0.0 | 3.4129233E-4 | 3.3770816E-4 | 3.577014E-4 | 1.0592028 | 2.0E-5 | 0.0034076865 | 0.0035865188 | 0.0036363394 | 1.0138911 | 5.0E-5 |
-| 8.2 | 1.7968189E-6 | 7.9922734E-7 | 7.9922734E-7 | 1.0 | 0.0 | 7.70063E-6 | 3.4252555E-6 | 3.4252555E-6 | 1.0 | 0.0 | 9.3751136E-5 | 4.170171E-5 | 4.170171E-5 | 1.0 | 0.0 | 9.371159E-4 | 4.7237758E-4 | 4.7237758E-4 | 1.0 | 0.0 |
-| 8.3 | 1.5167889E-7 | 4.9126783E-8 | 4.9126783E-8 | 1.0 | 0.0 | 6.500522E-7 | 2.1054335E-7 | 2.1054335E-7 | 1.0 | 0.0 | 7.9143565E-6 | 2.5633626E-6 | 2.5633626E-6 | 1.0 | 0.0 | 7.914075E-5 | 2.9780846E-5 | 2.9780846E-5 | 1.0 | 0.0 |
-
-## Palos Verdes
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Palos_Verdes_1wk.png) | ![MPD](Palos_Verdes_1mo.png) | ![MPD](Palos_Verdes_1yr.png) | ![MPD](Palos_Verdes_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 6.126063E-5 | 7.623313E-5 | 7.623313E-5 | 1.0 | 0.0 | 2.6251914E-4 | 3.266759E-4 | 3.3667262E-4 | 1.0306014 | 1.0E-5 | 0.0031914865 | 0.0039705248 | 0.0039904453 | 1.0050172 | 2.0E-5 | 0.031460393 | 0.039052334 | 0.03910999 | 1.0014764 | 6.0E-5 |
-| 6.1 | 6.126063E-5 | 7.623313E-5 | 7.623313E-5 | 1.0 | 0.0 | 2.6251914E-4 | 3.266759E-4 | 3.3667262E-4 | 1.0306014 | 1.0E-5 | 0.0031914865 | 0.0039705248 | 0.0039904453 | 1.0050172 | 2.0E-5 | 0.031460393 | 0.039052334 | 0.03910999 | 1.0014764 | 6.0E-5 |
-| 6.2 | 6.126063E-5 | 7.623313E-5 | 7.623313E-5 | 1.0 | 0.0 | 2.6251914E-4 | 3.266759E-4 | 3.3667262E-4 | 1.0306014 | 1.0E-5 | 0.0031914865 | 0.0039705248 | 0.0039904453 | 1.0050172 | 2.0E-5 | 0.031460393 | 0.039052334 | 0.03910999 | 1.0014764 | 6.0E-5 |
-| 6.3 | 4.0838047E-5 | 4.9753515E-5 | 4.9753515E-5 | 1.0 | 0.0 | 1.7500846E-4 | 2.1321319E-4 | 2.2321107E-4 | 1.0468915 | 1.0E-5 | 0.0021286458 | 0.0025929878 | 0.002612936 | 1.007693 | 2.0E-5 | 0.021083709 | 0.025648735 | 0.025697453 | 1.0018994 | 5.0E-5 |
-| 6.4 | 4.0838047E-5 | 4.9753515E-5 | 4.9753515E-5 | 1.0 | 0.0 | 1.7500846E-4 | 2.1321319E-4 | 2.2321107E-4 | 1.0468915 | 1.0E-5 | 0.0021286458 | 0.0025929878 | 0.002612936 | 1.007693 | 2.0E-5 | 0.021083709 | 0.025648735 | 0.025697453 | 1.0018994 | 5.0E-5 |
-| 6.5 | 3.0512005E-5 | 3.6564343E-5 | 3.6564343E-5 | 1.0 | 0.0 | 1.3075917E-4 | 1.5669558E-4 | 1.5669558E-4 | 1.0 | 0.0 | 0.0015908304 | 0.0019062175 | 0.0019161984 | 1.005236 | 1.0E-5 | 0.015794903 | 0.018910542 | 0.018949786 | 1.0020752 | 4.0E-5 |
-| 6.6 | 2.9255087E-5 | 3.5157078E-5 | 3.5157078E-5 | 1.0 | 0.0 | 1.2537291E-4 | 1.5066515E-4 | 1.5066515E-4 | 1.0 | 0.0 | 0.0015253464 | 0.0018329205 | 0.001842902 | 1.0054457 | 1.0E-5 | 0.015149189 | 0.018189583 | 0.018219037 | 1.0016193 | 3.0E-5 |
-| 6.7 | 2.287198E-5 | 2.7250231E-5 | 2.7250231E-5 | 1.0 | 0.0 | 9.801909E-5 | 1.16781994E-4 | 1.16781994E-4 | 1.0 | 0.0 | 0.001192729 | 0.0014209851 | 0.001430971 | 1.0070274 | 1.0E-5 | 0.011863477 | 0.014128223 | 0.014157799 | 1.0020934 | 3.0E-5 |
-| 6.8 | 2.1325764E-5 | 2.543371E-5 | 2.543371E-5 | 1.0 | 0.0 | 9.139293E-5 | 1.0899757E-4 | 1.0899757E-4 | 1.0 | 0.0 | 0.001112141 | 0.0013263278 | 0.0013363146 | 1.0075296 | 1.0E-5 | 0.011065915 | 0.013193157 | 0.0132227605 | 1.0022439 | 3.0E-5 |
-| 6.9 | 1.9009392E-5 | 2.2615155E-5 | 2.2615155E-5 | 1.0 | 0.0 | 8.1466285E-5 | 9.691898E-5 | 9.691898E-5 | 1.0 | 0.0 | 9.914007E-4 | 0.0011794372 | 0.0011894254 | 1.0084686 | 1.0E-5 | 0.009869894 | 0.011740462 | 0.011760227 | 1.0016835 | 2.0E-5 |
-| 7.0 | 1.7098473E-5 | 2.0320791E-5 | 2.0320791E-5 | 1.0 | 0.0 | 7.3277115E-5 | 8.708668E-5 | 8.708668E-5 | 1.0 | 0.0 | 8.917837E-4 | 0.0010598497 | 0.0010698392 | 1.0094253 | 1.0E-5 | 0.008882134 | 0.010556389 | 0.010576178 | 1.0018746 | 2.0E-5 |
-| 7.1 | 1.5982785E-5 | 1.8996103E-5 | 1.8996103E-5 | 1.0 | 0.0 | 6.849585E-5 | 8.140981E-5 | 8.140981E-5 | 1.0 | 0.0 | 8.336179E-4 | 9.907985E-4 | 0.0010007885 | 1.0100828 | 1.0E-5 | 0.008304977 | 0.009872175 | 0.0098919775 | 1.0020059 | 2.0E-5 |
-| 7.2 | 1.4468002E-5 | 1.7198454E-5 | 1.7198454E-5 | 1.0 | 0.0 | 6.200425E-5 | 7.370605E-5 | 7.370605E-5 | 1.0 | 0.0 | 7.546402E-4 | 8.970857E-4 | 9.070767E-4 | 1.0111372 | 1.0E-5 | 0.007520827 | 0.008942914 | 0.0089627355 | 1.0022165 | 2.0E-5 |
-| 7.3 | 5.288233E-6 | 6.204084E-6 | 6.204084E-6 | 1.0 | 0.0 | 2.2663658E-5 | 2.6588856E-5 | 2.6588856E-5 | 1.0 | 0.0 | 2.7589512E-4 | 3.2370616E-4 | 3.3370292E-4 | 1.0308822 | 1.0E-5 | 0.0027555283 | 0.0032357695 | 0.0032457372 | 1.0030805 | 1.0E-5 |
-| 7.4 | 8.279556E-7 | 8.408395E-7 | 8.408395E-7 | 1.0 | 0.0 | 3.5483763E-6 | 3.6035933E-6 | 3.6035933E-6 | 1.0 | 0.0 | 4.3200624E-5 | 4.387294E-5 | 4.387294E-5 | 1.0 | 0.0 | 4.3192226E-4 | 4.3865E-4 | 4.3865E-4 | 1.0 | 0.0 |
-| 7.5 | 6.559831E-7 | 6.667269E-7 | 6.667269E-7 | 1.0 | 0.0 | 2.8113532E-6 | 2.8573984E-6 | 2.8573984E-6 | 1.0 | 0.0 | 3.4227687E-5 | 3.4788336E-5 | 3.4788336E-5 | 1.0 | 0.0 | 3.4222414E-4 | 3.4783554E-4 | 3.4783554E-4 | 1.0 | 0.0 |
-| 7.6 | 3.5018968E-7 | 3.5620255E-7 | 3.5620255E-7 | 1.0 | 0.0 | 1.500812E-6 | 1.5265817E-6 | 1.5265817E-6 | 1.0 | 0.0 | 1.8272232E-5 | 1.858602E-5 | 1.858602E-5 | 1.0 | 0.0 | 1.8270731E-4 | 1.8584926E-4 | 1.8584926E-4 | 1.0 | 0.0 |
-| 7.7 | 1.1986104E-7 | 1.2198457E-7 | 1.2198457E-7 | 1.0 | 0.0 | 5.1369005E-7 | 5.227909E-7 | 5.227909E-7 | 1.0 | 0.0 | 6.2541585E-6 | 6.364961E-6 | 6.364961E-6 | 1.0 | 0.0 | 6.2539824E-5 | 6.364783E-5 | 6.364783E-5 | 1.0 | 0.0 |
-| 7.8 | 3.0445005E-8 | 3.1027806E-8 | 3.1027806E-8 | 1.0 | 0.0 | 1.3047858E-7 | 1.329763E-7 | 1.329763E-7 | 1.0 | 0.0 | 1.5885756E-6 | 1.6189855E-6 | 1.6189855E-6 | 1.0 | 0.0 | 1.5885644E-5 | 1.6189757E-5 | 1.6189757E-5 | 1.0 | 0.0 |
-
-## Cleghorn Pass
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Cleghorn_Pass_1wk.png) | ![MPD](Cleghorn_Pass_1mo.png) | ![MPD](Cleghorn_Pass_1yr.png) | ![MPD](Cleghorn_Pass_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.0522846E-5 | 1.1040844E-5 | 1.1040844E-5 | 1.0 | 0.0 | 4.509713E-5 | 4.731734E-5 | 5.7316865E-5 | 1.211329 | 1.0E-5 | 5.4891926E-4 | 5.7598896E-4 | 5.959775E-4 | 1.0347029 | 2.0E-5 | 0.0054756533 | 0.0057501267 | 0.0057998393 | 1.0086454 | 5.0E-5 |
-| 6.1 | 1.0522846E-5 | 1.1040844E-5 | 1.1040844E-5 | 1.0 | 0.0 | 4.509713E-5 | 4.731734E-5 | 5.7316865E-5 | 1.211329 | 1.0E-5 | 5.4891926E-4 | 5.7598896E-4 | 5.959775E-4 | 1.0347029 | 2.0E-5 | 0.0054756533 | 0.0057501267 | 0.0057998393 | 1.0086454 | 5.0E-5 |
-| 6.2 | 2.1045846E-6 | 2.208243E-6 | 2.208243E-6 | 1.0 | 0.0 | 9.019617E-6 | 9.463887E-6 | 9.463887E-6 | 1.0 | 0.0 | 1.098083E-4 | 1.1522093E-4 | 1.1522093E-4 | 1.0 | 0.0 | 0.0010975406 | 0.0011520233 | 0.0011520233 | 1.0 | 0.0 |
-| 6.3 | 2.1045846E-6 | 2.208243E-6 | 2.208243E-6 | 1.0 | 0.0 | 9.019617E-6 | 9.463887E-6 | 9.463887E-6 | 1.0 | 0.0 | 1.098083E-4 | 1.1522093E-4 | 1.1522093E-4 | 1.0 | 0.0 | 0.0010975406 | 0.0011520233 | 0.0011520233 | 1.0 | 0.0 |
-| 6.4 | 1.7259927E-6 | 1.8109101E-6 | 1.8109101E-6 | 1.0 | 0.0 | 7.3970905E-6 | 7.761044E-6 | 7.761044E-6 | 1.0 | 0.0 | 9.005586E-5 | 9.449071E-5 | 9.449071E-5 | 1.0 | 0.0 | 9.001937E-4 | 9.449071E-4 | 9.449071E-4 | 1.0 | 0.0 |
 
 ## Santa Rosa Island
 *[(top)](#table-of-contents)*
@@ -2126,36 +2082,49 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.2 | 6.1294963E-7 | 2.1876858E-7 | 2.1876858E-7 | 1.0 | 0.0 | 2.6269242E-6 | 9.375793E-7 | 9.375793E-7 | 1.0 | 0.0 | 3.1982334E-5 | 1.1414968E-5 | 1.1414968E-5 | 1.0 | 0.0 | 3.1977732E-4 | 1.2820825E-4 | 1.2820825E-4 | 1.0 | 0.0 |
 | 8.3 | 1.762871E-7 | 4.7708813E-8 | 4.7708813E-8 | 1.0 | 0.0 | 7.5551594E-7 | 2.0446633E-7 | 2.0446633E-7 | 1.0 | 0.0 | 9.1983675E-6 | 2.4893748E-6 | 2.4893748E-6 | 1.0 | 0.0 | 9.197987E-5 | 2.8780514E-5 | 2.8780514E-5 | 1.0 | 0.0 |
 
-## Ventura-Pitas Point
+## Cleghorn Pass
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Ventura_Pitas_Point_1wk.png) | ![MPD](Ventura_Pitas_Point_1mo.png) | ![MPD](Ventura_Pitas_Point_1yr.png) | ![MPD](Ventura_Pitas_Point_10yr.png) |
+| ![MPD](Cleghorn_Pass_1wk.png) | ![MPD](Cleghorn_Pass_1mo.png) | ![MPD](Cleghorn_Pass_1yr.png) | ![MPD](Cleghorn_Pass_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 3.3179622E-5 | 3.3736957E-5 | 3.3736957E-5 | 1.0 | 0.0 | 1.4219063E-4 | 1.445804E-4 | 1.445804E-4 | 1.0 | 0.0 | 0.0017297962 | 0.001759102 | 0.0017690844 | 1.0056747 | 1.0E-5 | 0.017163932 | 0.017477313 | 0.017526438 | 1.0028108 | 5.0E-5 |
-| 6.1 | 3.3179622E-5 | 3.3736957E-5 | 3.3736957E-5 | 1.0 | 0.0 | 1.4219063E-4 | 1.445804E-4 | 1.445804E-4 | 1.0 | 0.0 | 0.0017297962 | 0.001759102 | 0.0017690844 | 1.0056747 | 1.0E-5 | 0.017163932 | 0.017477313 | 0.017526438 | 1.0028108 | 5.0E-5 |
-| 6.2 | 3.3179622E-5 | 3.3736957E-5 | 3.3736957E-5 | 1.0 | 0.0 | 1.4219063E-4 | 1.445804E-4 | 1.445804E-4 | 1.0 | 0.0 | 0.0017297962 | 0.001759102 | 0.0017690844 | 1.0056747 | 1.0E-5 | 0.017163932 | 0.017477313 | 0.017526438 | 1.0028108 | 5.0E-5 |
-| 6.3 | 3.3179622E-5 | 3.3736957E-5 | 3.3736957E-5 | 1.0 | 0.0 | 1.4219063E-4 | 1.445804E-4 | 1.445804E-4 | 1.0 | 0.0 | 0.0017297962 | 0.001759102 | 0.0017690844 | 1.0056747 | 1.0E-5 | 0.017163932 | 0.017477313 | 0.017526438 | 1.0028108 | 5.0E-5 |
-| 6.4 | 1.8754668E-5 | 1.7020395E-5 | 1.7020395E-5 | 1.0 | 0.0 | 8.037467E-5 | 7.294264E-5 | 7.294264E-5 | 1.0 | 0.0 | 9.781223E-4 | 8.877379E-4 | 8.9772907E-4 | 1.0112545 | 1.0E-5 | 0.009738282 | 0.008844254 | 0.008873989 | 1.003362 | 3.0E-5 |
-| 6.5 | 1.8754668E-5 | 1.7020395E-5 | 1.7020395E-5 | 1.0 | 0.0 | 8.037467E-5 | 7.294264E-5 | 7.294264E-5 | 1.0 | 0.0 | 9.781223E-4 | 8.877379E-4 | 8.9772907E-4 | 1.0112545 | 1.0E-5 | 0.009738282 | 0.008844254 | 0.008873989 | 1.003362 | 3.0E-5 |
-| 6.6 | 1.4361558E-5 | 1.212285E-5 | 1.212285E-5 | 1.0 | 0.0 | 6.154808E-5 | 5.195405E-5 | 5.195405E-5 | 1.0 | 0.0 | 7.490902E-4 | 6.323593E-4 | 6.323593E-4 | 1.0 | 0.0 | 0.0074657016 | 0.006305856 | 0.006315793 | 1.0015758 | 1.0E-5 |
-| 6.7 | 1.4361558E-5 | 1.212285E-5 | 1.212285E-5 | 1.0 | 0.0 | 6.154808E-5 | 5.195405E-5 | 5.195405E-5 | 1.0 | 0.0 | 7.490902E-4 | 6.323593E-4 | 6.323593E-4 | 1.0 | 0.0 | 0.0074657016 | 0.006305856 | 0.006315793 | 1.0015758 | 1.0E-5 |
-| 6.8 | 1.3663846E-5 | 1.13449605E-5 | 1.13449605E-5 | 1.0 | 0.0 | 5.8558027E-5 | 4.8620364E-5 | 4.8620364E-5 | 1.0 | 0.0 | 7.127108E-4 | 5.917941E-4 | 5.917941E-4 | 1.0 | 0.0 | 0.007104293 | 0.0059023974 | 0.0059123384 | 1.0016842 | 1.0E-5 |
-| 6.9 | 1.3644157E-5 | 1.132306E-5 | 1.132306E-5 | 1.0 | 0.0 | 5.8473648E-5 | 4.8526508E-5 | 4.8526508E-5 | 1.0 | 0.0 | 7.116841E-4 | 5.90652E-4 | 5.90652E-4 | 1.0 | 0.0 | 0.007094092 | 0.0058910376 | 0.0059009786 | 1.0016875 | 1.0E-5 |
-| 7.0 | 1.3568845E-5 | 1.1242622E-5 | 1.1242622E-5 | 1.0 | 0.0 | 5.8150898E-5 | 4.818179E-5 | 4.818179E-5 | 1.0 | 0.0 | 7.077572E-4 | 5.864573E-4 | 5.864573E-4 | 1.0 | 0.0 | 0.007055073 | 0.005849312 | 0.0058592535 | 1.0016996 | 1.0E-5 |
-| 7.1 | 1.306572E-5 | 1.0721052E-5 | 1.0721052E-5 | 1.0 | 0.0 | 5.599474E-5 | 4.5946563E-5 | 4.5946563E-5 | 1.0 | 0.0 | 6.815227E-4 | 5.592577E-4 | 5.592577E-4 | 1.0 | 0.0 | 0.0067943637 | 0.005578708 | 0.005588652 | 1.0017825 | 1.0E-5 |
-| 7.2 | 1.232604E-5 | 9.995608E-6 | 9.995608E-6 | 1.0 | 0.0 | 5.2824813E-5 | 4.2837626E-5 | 4.2837626E-5 | 1.0 | 0.0 | 6.429523E-4 | 5.214251E-4 | 5.214251E-4 | 1.0 | 0.0 | 0.0064109527 | 0.005202208 | 0.005212156 | 1.0019122 | 1.0E-5 |
-| 7.3 | 1.0917261E-5 | 8.844227E-6 | 8.844227E-6 | 1.0 | 0.0 | 4.678742E-5 | 3.7903286E-5 | 3.7903286E-5 | 1.0 | 0.0 | 5.69488E-4 | 4.6137636E-4 | 4.6137636E-4 | 1.0 | 0.0 | 0.0056803077 | 0.004604351 | 0.0046143048 | 1.0021619 | 1.0E-5 |
-| 7.4 | 1.039959E-5 | 8.423923E-6 | 8.423923E-6 | 1.0 | 0.0 | 4.456891E-5 | 3.6102032E-5 | 3.6102032E-5 | 1.0 | 0.0 | 5.424914E-4 | 4.3945515E-4 | 4.3945515E-4 | 1.0 | 0.0 | 0.0054116896 | 0.004386023 | 0.004395979 | 1.00227 | 1.0E-5 |
-| 7.5 | 9.015877E-6 | 7.297813E-6 | 7.297813E-6 | 1.0 | 0.0 | 3.86389E-5 | 3.1275977E-5 | 3.1275977E-5 | 1.0 | 0.0 | 4.7032707E-4 | 3.8071987E-4 | 3.8071987E-4 | 1.0 | 0.0 | 0.004693329 | 0.0038008215 | 0.0038107834 | 1.002621 | 1.0E-5 |
-| 7.6 | 4.900162E-6 | 3.874221E-6 | 3.874221E-6 | 1.0 | 0.0 | 2.1000526E-5 | 1.6603699E-5 | 1.6603699E-5 | 1.0 | 0.0 | 2.556514E-4 | 2.0213141E-4 | 2.0213141E-4 | 1.0 | 0.0 | 0.0025535747 | 0.0020194892 | 0.002029469 | 1.0049417 | 1.0E-5 |
-| 7.7 | 3.8850626E-6 | 3.1268125E-6 | 3.1268125E-6 | 1.0 | 0.0 | 1.6650163E-5 | 1.3400557E-5 | 1.3400557E-5 | 1.0 | 0.0 | 2.0269687E-4 | 1.6313966E-4 | 1.6313966E-4 | 1.0 | 0.0 | 0.002025121 | 0.0016302082 | 0.001640192 | 1.0061241 | 1.0E-5 |
-| 7.8 | 2.4654719E-6 | 2.0299221E-6 | 2.0299221E-6 | 1.0 | 0.0 | 1.0566265E-5 | 8.699638E-6 | 8.699638E-6 | 1.0 | 0.0 | 1.2863669E-4 | 1.05912986E-4 | 1.05912986E-4 | 1.0 | 0.0 | 0.0012856225 | 0.0010586298 | 0.0010686192 | 1.0094361 | 1.0E-5 |
-| 7.9 | 4.095894E-7 | 3.2765558E-7 | 3.2765558E-7 | 1.0 | 0.0 | 1.7553821E-6 | 1.4042374E-6 | 1.4042374E-6 | 1.0 | 0.0 | 2.1371567E-5 | 1.709646E-5 | 1.709646E-5 | 1.0 | 0.0 | 2.1369511E-4 | 1.7095175E-4 | 1.7095175E-4 | 1.0 | 0.0 |
-| 8.0 | 7.791402E-9 | 5.6836544E-9 | 5.6836544E-9 | 1.0 | 0.0 | 3.3391725E-8 | 2.4358519E-8 | 2.4358519E-8 | 1.0 | 0.0 | 4.0654416E-7 | 2.9656493E-7 | 2.9656493E-7 | 1.0 | 0.0 | 4.065434E-6 | 2.9656476E-6 | 2.9656476E-6 | 1.0 | 0.0 |
+| 6.0 | 1.0522846E-5 | 1.1040844E-5 | 1.1040844E-5 | 1.0 | 0.0 | 4.509713E-5 | 4.731734E-5 | 5.7316865E-5 | 1.211329 | 1.0E-5 | 5.4891926E-4 | 5.7598896E-4 | 5.959775E-4 | 1.0347029 | 2.0E-5 | 0.0054756533 | 0.0057501267 | 0.0057998393 | 1.0086454 | 5.0E-5 |
+| 6.1 | 1.0522846E-5 | 1.1040844E-5 | 1.1040844E-5 | 1.0 | 0.0 | 4.509713E-5 | 4.731734E-5 | 5.7316865E-5 | 1.211329 | 1.0E-5 | 5.4891926E-4 | 5.7598896E-4 | 5.959775E-4 | 1.0347029 | 2.0E-5 | 0.0054756533 | 0.0057501267 | 0.0057998393 | 1.0086454 | 5.0E-5 |
+| 6.2 | 2.1045846E-6 | 2.208243E-6 | 2.208243E-6 | 1.0 | 0.0 | 9.019617E-6 | 9.463887E-6 | 9.463887E-6 | 1.0 | 0.0 | 1.098083E-4 | 1.1522093E-4 | 1.1522093E-4 | 1.0 | 0.0 | 0.0010975406 | 0.0011520233 | 0.0011520233 | 1.0 | 0.0 |
+| 6.3 | 2.1045846E-6 | 2.208243E-6 | 2.208243E-6 | 1.0 | 0.0 | 9.019617E-6 | 9.463887E-6 | 9.463887E-6 | 1.0 | 0.0 | 1.098083E-4 | 1.1522093E-4 | 1.1522093E-4 | 1.0 | 0.0 | 0.0010975406 | 0.0011520233 | 0.0011520233 | 1.0 | 0.0 |
+| 6.4 | 1.7259927E-6 | 1.8109101E-6 | 1.8109101E-6 | 1.0 | 0.0 | 7.3970905E-6 | 7.761044E-6 | 7.761044E-6 | 1.0 | 0.0 | 9.005586E-5 | 9.449071E-5 | 9.449071E-5 | 1.0 | 0.0 | 9.001937E-4 | 9.449071E-4 | 9.449071E-4 | 1.0 | 0.0 |
+
+## Palos Verdes
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Palos_Verdes_1wk.png) | ![MPD](Palos_Verdes_1mo.png) | ![MPD](Palos_Verdes_1yr.png) | ![MPD](Palos_Verdes_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 6.126063E-5 | 7.623313E-5 | 7.623313E-5 | 1.0 | 0.0 | 2.6251914E-4 | 3.266759E-4 | 3.3667262E-4 | 1.0306014 | 1.0E-5 | 0.0031914865 | 0.0039705248 | 0.0039904453 | 1.0050172 | 2.0E-5 | 0.031460393 | 0.039052334 | 0.03910999 | 1.0014764 | 6.0E-5 |
+| 6.1 | 6.126063E-5 | 7.623313E-5 | 7.623313E-5 | 1.0 | 0.0 | 2.6251914E-4 | 3.266759E-4 | 3.3667262E-4 | 1.0306014 | 1.0E-5 | 0.0031914865 | 0.0039705248 | 0.0039904453 | 1.0050172 | 2.0E-5 | 0.031460393 | 0.039052334 | 0.03910999 | 1.0014764 | 6.0E-5 |
+| 6.2 | 6.126063E-5 | 7.623313E-5 | 7.623313E-5 | 1.0 | 0.0 | 2.6251914E-4 | 3.266759E-4 | 3.3667262E-4 | 1.0306014 | 1.0E-5 | 0.0031914865 | 0.0039705248 | 0.0039904453 | 1.0050172 | 2.0E-5 | 0.031460393 | 0.039052334 | 0.03910999 | 1.0014764 | 6.0E-5 |
+| 6.3 | 4.0838047E-5 | 4.9753515E-5 | 4.9753515E-5 | 1.0 | 0.0 | 1.7500846E-4 | 2.1321319E-4 | 2.2321107E-4 | 1.0468915 | 1.0E-5 | 0.0021286458 | 0.0025929878 | 0.002612936 | 1.007693 | 2.0E-5 | 0.021083709 | 0.025648735 | 0.025697453 | 1.0018994 | 5.0E-5 |
+| 6.4 | 4.0838047E-5 | 4.9753515E-5 | 4.9753515E-5 | 1.0 | 0.0 | 1.7500846E-4 | 2.1321319E-4 | 2.2321107E-4 | 1.0468915 | 1.0E-5 | 0.0021286458 | 0.0025929878 | 0.002612936 | 1.007693 | 2.0E-5 | 0.021083709 | 0.025648735 | 0.025697453 | 1.0018994 | 5.0E-5 |
+| 6.5 | 3.0512005E-5 | 3.6564343E-5 | 3.6564343E-5 | 1.0 | 0.0 | 1.3075917E-4 | 1.5669558E-4 | 1.5669558E-4 | 1.0 | 0.0 | 0.0015908304 | 0.0019062175 | 0.0019161984 | 1.005236 | 1.0E-5 | 0.015794903 | 0.018910542 | 0.018949786 | 1.0020752 | 4.0E-5 |
+| 6.6 | 2.9255087E-5 | 3.5157078E-5 | 3.5157078E-5 | 1.0 | 0.0 | 1.2537291E-4 | 1.5066515E-4 | 1.5066515E-4 | 1.0 | 0.0 | 0.0015253464 | 0.0018329205 | 0.001842902 | 1.0054457 | 1.0E-5 | 0.015149189 | 0.018189583 | 0.018219037 | 1.0016193 | 3.0E-5 |
+| 6.7 | 2.287198E-5 | 2.7250231E-5 | 2.7250231E-5 | 1.0 | 0.0 | 9.801909E-5 | 1.16781994E-4 | 1.16781994E-4 | 1.0 | 0.0 | 0.001192729 | 0.0014209851 | 0.001430971 | 1.0070274 | 1.0E-5 | 0.011863477 | 0.014128223 | 0.014157799 | 1.0020934 | 3.0E-5 |
+| 6.8 | 2.1325764E-5 | 2.543371E-5 | 2.543371E-5 | 1.0 | 0.0 | 9.139293E-5 | 1.0899757E-4 | 1.0899757E-4 | 1.0 | 0.0 | 0.001112141 | 0.0013263278 | 0.0013363146 | 1.0075296 | 1.0E-5 | 0.011065915 | 0.013193157 | 0.0132227605 | 1.0022439 | 3.0E-5 |
+| 6.9 | 1.9009392E-5 | 2.2615155E-5 | 2.2615155E-5 | 1.0 | 0.0 | 8.1466285E-5 | 9.691898E-5 | 9.691898E-5 | 1.0 | 0.0 | 9.914007E-4 | 0.0011794372 | 0.0011894254 | 1.0084686 | 1.0E-5 | 0.009869894 | 0.011740462 | 0.011760227 | 1.0016835 | 2.0E-5 |
+| 7.0 | 1.7098473E-5 | 2.0320791E-5 | 2.0320791E-5 | 1.0 | 0.0 | 7.3277115E-5 | 8.708668E-5 | 8.708668E-5 | 1.0 | 0.0 | 8.917837E-4 | 0.0010598497 | 0.0010698392 | 1.0094253 | 1.0E-5 | 0.008882134 | 0.010556389 | 0.010576178 | 1.0018746 | 2.0E-5 |
+| 7.1 | 1.5982785E-5 | 1.8996103E-5 | 1.8996103E-5 | 1.0 | 0.0 | 6.849585E-5 | 8.140981E-5 | 8.140981E-5 | 1.0 | 0.0 | 8.336179E-4 | 9.907985E-4 | 0.0010007885 | 1.0100828 | 1.0E-5 | 0.008304977 | 0.009872175 | 0.0098919775 | 1.0020059 | 2.0E-5 |
+| 7.2 | 1.4468002E-5 | 1.7198454E-5 | 1.7198454E-5 | 1.0 | 0.0 | 6.200425E-5 | 7.370605E-5 | 7.370605E-5 | 1.0 | 0.0 | 7.546402E-4 | 8.970857E-4 | 9.070767E-4 | 1.0111372 | 1.0E-5 | 0.007520827 | 0.008942914 | 0.0089627355 | 1.0022165 | 2.0E-5 |
+| 7.3 | 5.288233E-6 | 6.204084E-6 | 6.204084E-6 | 1.0 | 0.0 | 2.2663658E-5 | 2.6588856E-5 | 2.6588856E-5 | 1.0 | 0.0 | 2.7589512E-4 | 3.2370616E-4 | 3.3370292E-4 | 1.0308822 | 1.0E-5 | 0.0027555283 | 0.0032357695 | 0.0032457372 | 1.0030805 | 1.0E-5 |
+| 7.4 | 8.279556E-7 | 8.408395E-7 | 8.408395E-7 | 1.0 | 0.0 | 3.5483763E-6 | 3.6035933E-6 | 3.6035933E-6 | 1.0 | 0.0 | 4.3200624E-5 | 4.387294E-5 | 4.387294E-5 | 1.0 | 0.0 | 4.3192226E-4 | 4.3865E-4 | 4.3865E-4 | 1.0 | 0.0 |
+| 7.5 | 6.559831E-7 | 6.667269E-7 | 6.667269E-7 | 1.0 | 0.0 | 2.8113532E-6 | 2.8573984E-6 | 2.8573984E-6 | 1.0 | 0.0 | 3.4227687E-5 | 3.4788336E-5 | 3.4788336E-5 | 1.0 | 0.0 | 3.4222414E-4 | 3.4783554E-4 | 3.4783554E-4 | 1.0 | 0.0 |
+| 7.6 | 3.5018968E-7 | 3.5620255E-7 | 3.5620255E-7 | 1.0 | 0.0 | 1.500812E-6 | 1.5265817E-6 | 1.5265817E-6 | 1.0 | 0.0 | 1.8272232E-5 | 1.858602E-5 | 1.858602E-5 | 1.0 | 0.0 | 1.8270731E-4 | 1.8584926E-4 | 1.8584926E-4 | 1.0 | 0.0 |
+| 7.7 | 1.1986104E-7 | 1.2198457E-7 | 1.2198457E-7 | 1.0 | 0.0 | 5.1369005E-7 | 5.227909E-7 | 5.227909E-7 | 1.0 | 0.0 | 6.2541585E-6 | 6.364961E-6 | 6.364961E-6 | 1.0 | 0.0 | 6.2539824E-5 | 6.364783E-5 | 6.364783E-5 | 1.0 | 0.0 |
+| 7.8 | 3.0445005E-8 | 3.1027806E-8 | 3.1027806E-8 | 1.0 | 0.0 | 1.3047858E-7 | 1.329763E-7 | 1.329763E-7 | 1.0 | 0.0 | 1.5885756E-6 | 1.6189855E-6 | 1.6189855E-6 | 1.0 | 0.0 | 1.5885644E-5 | 1.6189757E-5 | 1.6189757E-5 | 1.0 | 0.0 |
 
 ## San Pedro Basin
 *[(top)](#table-of-contents)*
@@ -2185,49 +2154,6 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.6 | 6.755009E-7 | 6.7695646E-7 | 6.7695646E-7 | 1.0 | 0.0 | 2.8950008E-6 | 2.901239E-6 | 2.901239E-6 | 1.0 | 0.0 | 3.5246063E-5 | 3.532207E-5 | 3.532207E-5 | 1.0 | 0.0 | 3.5240475E-4 | 3.531703E-4 | 3.531703E-4 | 1.0 | 0.0 |
 | 7.7 | 6.211885E-8 | 4.570046E-8 | 4.570046E-8 | 1.0 | 0.0 | 2.6622362E-7 | 1.958591E-7 | 1.958591E-7 | 1.0 | 0.0 | 3.2412677E-6 | 2.384582E-6 | 2.384582E-6 | 1.0 | 0.0 | 3.2412205E-5 | 2.3845587E-5 | 2.3845587E-5 | 1.0 | 0.0 |
 | 7.8 | 2.6580573E-9 | 1.5139615E-9 | 1.5139615E-9 | 1.0 | 0.0 | 1.1391674E-8 | 6.4884063E-9 | 6.4884063E-9 | 1.0 | 0.0 | 1.3869362E-7 | 7.8996344E-8 | 7.8996344E-8 | 1.0 | 0.0 | 1.3869354E-6 | 7.8996345E-7 | 7.8996345E-7 | 1.0 | 0.0 |
-
-## Deep Springs
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Deep_Springs_1wk.png) | ![MPD](Deep_Springs_1mo.png) | ![MPD](Deep_Springs_1yr.png) | ![MPD](Deep_Springs_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.9810619E-5 | 2.3113951E-5 | 2.3113951E-5 | 1.0 | 0.0 | 8.489989E-5 | 9.905889E-5 | 9.905889E-5 | 1.0 | 0.0 | 0.001033166 | 0.0012058825 | 0.0012258585 | 1.0165653 | 2.0E-5 | 0.010283757 | 0.012043169 | 0.012092567 | 1.0041018 | 5.0E-5 |
-| 6.1 | 1.9810619E-5 | 2.3113951E-5 | 2.3113951E-5 | 1.0 | 0.0 | 8.489989E-5 | 9.905889E-5 | 9.905889E-5 | 1.0 | 0.0 | 0.001033166 | 0.0012058825 | 0.0012258585 | 1.0165653 | 2.0E-5 | 0.010283757 | 0.012043169 | 0.012092567 | 1.0041018 | 5.0E-5 |
-| 6.2 | 1.9810619E-5 | 2.3113951E-5 | 2.3113951E-5 | 1.0 | 0.0 | 8.489989E-5 | 9.905889E-5 | 9.905889E-5 | 1.0 | 0.0 | 0.001033166 | 0.0012058825 | 0.0012258585 | 1.0165653 | 2.0E-5 | 0.010283757 | 0.012043169 | 0.012092567 | 1.0041018 | 5.0E-5 |
-| 6.3 | 1.9810619E-5 | 2.3113951E-5 | 2.3113951E-5 | 1.0 | 0.0 | 8.489989E-5 | 9.905889E-5 | 9.905889E-5 | 1.0 | 0.0 | 0.001033166 | 0.0012058825 | 0.0012258585 | 1.0165653 | 2.0E-5 | 0.010283757 | 0.012043169 | 0.012092567 | 1.0041018 | 5.0E-5 |
-| 6.4 | 1.9810619E-5 | 2.3113951E-5 | 2.3113951E-5 | 1.0 | 0.0 | 8.489989E-5 | 9.905889E-5 | 9.905889E-5 | 1.0 | 0.0 | 0.001033166 | 0.0012058825 | 0.0012258585 | 1.0165653 | 2.0E-5 | 0.010283757 | 0.012043169 | 0.012092567 | 1.0041018 | 5.0E-5 |
-| 6.5 | 1.7190405E-5 | 2.0051795E-5 | 2.0051795E-5 | 1.0 | 0.0 | 7.367108E-5 | 8.593626E-5 | 8.593626E-5 | 1.0 | 0.0 | 8.9657627E-4 | 0.001046274 | 0.001066253 | 1.0190954 | 2.0E-5 | 0.008929676 | 0.010462702 | 0.01051218 | 1.0047289 | 5.0E-5 |
-| 6.6 | 1.7190405E-5 | 2.0051795E-5 | 2.0051795E-5 | 1.0 | 0.0 | 7.367108E-5 | 8.593626E-5 | 8.593626E-5 | 1.0 | 0.0 | 8.9657627E-4 | 0.001046274 | 0.001066253 | 1.0190954 | 2.0E-5 | 0.008929676 | 0.010462702 | 0.01051218 | 1.0047289 | 5.0E-5 |
-
-## Tin Mountain
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Tin_Mountain_1wk.png) | ![MPD](Tin_Mountain_1mo.png) | ![MPD](Tin_Mountain_1yr.png) | ![MPD](Tin_Mountain_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.083776E-6 | 4.181574E-6 | 4.181574E-6 | 1.0 | 0.0 | 1.750178E-5 | 1.792093E-5 | 1.792093E-5 | 1.0 | 0.0 | 2.1306332E-4 | 2.181692E-4 | 2.28167E-4 | 1.045826 | 1.0E-5 | 0.0021285915 | 0.0021799158 | 0.0022298067 | 1.0228866 | 5.0E-5 |
-| 6.1 | 4.083776E-6 | 4.181574E-6 | 4.181574E-6 | 1.0 | 0.0 | 1.750178E-5 | 1.792093E-5 | 1.792093E-5 | 1.0 | 0.0 | 2.1306332E-4 | 2.181692E-4 | 2.28167E-4 | 1.045826 | 1.0E-5 | 0.0021285915 | 0.0021799158 | 0.0022298067 | 1.0228866 | 5.0E-5 |
-| 6.2 | 4.083776E-6 | 4.181574E-6 | 4.181574E-6 | 1.0 | 0.0 | 1.750178E-5 | 1.792093E-5 | 1.792093E-5 | 1.0 | 0.0 | 2.1306332E-4 | 2.181692E-4 | 2.28167E-4 | 1.045826 | 1.0E-5 | 0.0021285915 | 0.0021799158 | 0.0022298067 | 1.0228866 | 5.0E-5 |
-| 6.3 | 4.083776E-6 | 4.181574E-6 | 4.181574E-6 | 1.0 | 0.0 | 1.750178E-5 | 1.792093E-5 | 1.792093E-5 | 1.0 | 0.0 | 2.1306332E-4 | 2.181692E-4 | 2.28167E-4 | 1.045826 | 1.0E-5 | 0.0021285915 | 0.0021799158 | 0.0022298067 | 1.0228866 | 5.0E-5 |
-| 6.4 | 4.083776E-6 | 4.181574E-6 | 4.181574E-6 | 1.0 | 0.0 | 1.750178E-5 | 1.792093E-5 | 1.792093E-5 | 1.0 | 0.0 | 2.1306332E-4 | 2.181692E-4 | 2.28167E-4 | 1.045826 | 1.0E-5 | 0.0021285915 | 0.0021799158 | 0.0022298067 | 1.0228866 | 5.0E-5 |
-| 6.5 | 2.3143427E-6 | 2.3731798E-6 | 2.3731798E-6 | 1.0 | 0.0 | 9.9185745E-6 | 1.0170735E-5 | 1.0170735E-5 | 1.0 | 0.0 | 1.2075195E-4 | 1.2382244E-4 | 1.3382119E-4 | 1.0807508 | 1.0E-5 | 0.0012068636 | 0.0012376104 | 0.0012775608 | 1.0322803 | 4.0E-5 |
-| 6.6 | 2.3143427E-6 | 2.3731798E-6 | 2.3731798E-6 | 1.0 | 0.0 | 9.9185745E-6 | 1.0170735E-5 | 1.0170735E-5 | 1.0 | 0.0 | 1.2075195E-4 | 1.2382244E-4 | 1.3382119E-4 | 1.0807508 | 1.0E-5 | 0.0012068636 | 0.0012376104 | 0.0012775608 | 1.0322803 | 4.0E-5 |
-| 6.7 | 1.7029532E-6 | 1.7498095E-6 | 1.7498095E-6 | 1.0 | 0.0 | 7.2983503E-6 | 7.499165E-6 | 7.499165E-6 | 1.0 | 0.0 | 8.885379E-5 | 9.129904E-5 | 1.0129813E-4 | 1.1095202 | 1.0E-5 | 8.881827E-4 | 9.12668E-4 | 9.5263147E-4 | 1.0437876 | 4.0E-5 |
-| 6.8 | 1.2914646E-6 | 1.3299526E-6 | 1.3299526E-6 | 1.0 | 0.0 | 5.534837E-6 | 5.6997874E-6 | 5.6997874E-6 | 1.0 | 0.0 | 6.738455E-5 | 6.939314E-5 | 6.939314E-5 | 1.0 | 0.0 | 6.736412E-4 | 6.937581E-4 | 7.137442E-4 | 1.0288085 | 2.0E-5 |
-| 6.9 | 5.8708974E-7 | 6.117089E-7 | 6.117089E-7 | 1.0 | 0.0 | 2.5160964E-6 | 2.6216073E-6 | 2.6216073E-6 | 1.0 | 0.0 | 3.0633044E-5 | 3.1917643E-5 | 3.1917643E-5 | 1.0 | 0.0 | 3.0628822E-4 | 3.191347E-4 | 3.391283E-4 | 1.0626495 | 2.0E-5 |
-| 7.0 | 4.6248786E-7 | 4.832096E-7 | 4.832096E-7 | 1.0 | 0.0 | 1.9820893E-6 | 2.0708967E-6 | 2.0708967E-6 | 1.0 | 0.0 | 2.413167E-5 | 2.5212914E-5 | 2.5212914E-5 | 1.0 | 0.0 | 2.412905E-4 | 2.5210422E-4 | 2.621017E-4 | 1.0396562 | 1.0E-5 |
-| 7.1 | 3.804606E-7 | 3.9872182E-7 | 3.9872182E-7 | 1.0 | 0.0 | 1.6305444E-6 | 1.7088068E-6 | 1.7088068E-6 | 1.0 | 0.0 | 1.9851697E-5 | 2.0804559E-5 | 2.0804559E-5 | 1.0 | 0.0 | 1.9849923E-4 | 2.0802947E-4 | 2.0802947E-4 | 1.0 | 0.0 |
-| 7.2 | 3.5864858E-7 | 3.7617545E-7 | 3.7617545E-7 | 1.0 | 0.0 | 1.5370645E-6 | 1.6121797E-6 | 1.6121797E-6 | 1.0 | 0.0 | 1.87136E-5 | 1.9628145E-5 | 1.9628145E-5 | 1.0 | 0.0 | 1.8712023E-4 | 1.9626743E-4 | 1.9626743E-4 | 1.0 | 0.0 |
-| 7.3 | 3.342063E-7 | 3.5064113E-7 | 3.5064113E-7 | 1.0 | 0.0 | 1.4323119E-6 | 1.5027471E-6 | 1.5027471E-6 | 1.0 | 0.0 | 1.7438259E-5 | 1.8295825E-5 | 1.8295825E-5 | 1.0 | 0.0 | 1.743689E-4 | 1.8294649E-4 | 1.8294649E-4 | 1.0 | 0.0 |
-| 7.4 | 2.971242E-7 | 3.1166385E-7 | 3.1166385E-7 | 1.0 | 0.0 | 1.2733886E-6 | 1.3357017E-6 | 1.3357017E-6 | 1.0 | 0.0 | 1.5503398E-5 | 1.626208E-5 | 1.626208E-5 | 1.0 | 0.0 | 1.5502315E-4 | 1.6261218E-4 | 1.6261218E-4 | 1.0 | 0.0 |
-| 7.5 | 1.4326713E-7 | 1.501279E-7 | 1.501279E-7 | 1.0 | 0.0 | 6.140018E-7 | 6.434053E-7 | 6.434053E-7 | 1.0 | 0.0 | 7.4754466E-6 | 7.83346E-6 | 7.83346E-6 | 1.0 | 0.0 | 7.475195E-5 | 7.83346E-5 | 7.83346E-5 | 1.0 | 0.0 |
 
 ## Hosgri
 *[(top)](#table-of-contents)*
@@ -2260,6 +2186,71 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.9 | 1.1818757E-6 | 5.298197E-7 | 5.298197E-7 | 1.0 | 0.0 | 5.0651715E-6 | 2.2706538E-6 | 2.2706538E-6 | 1.0 | 0.0 | 6.1666724E-5 | 2.7644859E-5 | 2.7644859E-5 | 1.0 | 0.0 | 6.1649614E-4 | 2.7710275E-4 | 2.7710275E-4 | 1.0 | 0.0 |
 | 8.0 | 6.962958E-7 | 2.71605E-7 | 2.71605E-7 | 1.0 | 0.0 | 2.9841215E-6 | 1.1640208E-6 | 1.1640208E-6 | 1.0 | 0.0 | 3.6331072E-5 | 1.4171861E-5 | 1.4171861E-5 | 1.0 | 0.0 | 3.6325134E-4 | 1.4228027E-4 | 1.4228027E-4 | 1.0 | 0.0 |
 | 8.1 | 1.5033264E-7 | 6.532006E-8 | 6.532006E-8 | 1.0 | 0.0 | 6.442826E-7 | 2.7994307E-7 | 2.7994307E-7 | 1.0 | 0.0 | 7.844113E-6 | 3.4083016E-6 | 3.4083016E-6 | 1.0 | 0.0 | 7.843835E-5 | 3.40998E-5 | 3.40998E-5 | 1.0 | 0.0 |
+
+## Brawley (Seismic Zone) alt 1
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Brawley_Seismic_Zone_alt_1_1wk.png) | ![MPD](Brawley_Seismic_Zone_alt_1_1mo.png) | ![MPD](Brawley_Seismic_Zone_alt_1_1yr.png) | ![MPD](Brawley_Seismic_Zone_alt_1_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 2.2521618E-4 | 4.7657057E-4 | 4.7657057E-4 | 1.0 | 0.0 | 9.6485513E-4 | 0.0020408838 | 0.0020508633 | 1.0048898 | 1.0E-5 | 0.011683988 | 0.02455872 | 0.024597736 | 1.0015887 | 4.0E-5 | 0.11088423 | 0.21358448 | 0.21361594 | 1.0001472 | 4.0E-5 |
+| 6.1 | 2.2521618E-4 | 4.7657057E-4 | 4.7657057E-4 | 1.0 | 0.0 | 9.6485513E-4 | 0.0020408838 | 0.0020508633 | 1.0048898 | 1.0E-5 | 0.011683988 | 0.02455872 | 0.024597736 | 1.0015887 | 4.0E-5 | 0.11088423 | 0.21358448 | 0.21361594 | 1.0001472 | 4.0E-5 |
+| 6.2 | 2.198148E-4 | 4.67411E-4 | 4.67411E-4 | 1.0 | 0.0 | 9.417233E-4 | 0.0020016888 | 0.0020116689 | 1.0049858 | 1.0E-5 | 0.011405343 | 0.024092708 | 0.024131743 | 1.0016203 | 4.0E-5 | 0.10837428 | 0.21001986 | 0.21005146 | 1.0001504 | 4.0E-5 |
+| 6.3 | 2.1704129E-4 | 4.6176696E-4 | 4.6176696E-4 | 1.0 | 0.0 | 9.298453E-4 | 0.001977537 | 0.001987517 | 1.0050468 | 1.0E-5 | 0.011262234 | 0.023805823 | 0.02384487 | 1.0016403 | 4.0E-5 | 0.107082725 | 0.2079108 | 0.20794249 | 1.0001523 | 4.0E-5 |
+| 6.4 | 1.876142E-4 | 4.0068117E-4 | 4.0068117E-4 | 1.0 | 0.0 | 8.038131E-4 | 0.0017160892 | 0.001726072 | 1.0058172 | 1.0E-5 | 0.00974259 | 0.020692257 | 0.020721637 | 1.0014198 | 3.0E-5 | 0.093263686 | 0.18466182 | 0.18468629 | 1.0001324 | 3.0E-5 |
+| 6.5 | 1.7390939E-4 | 3.7499474E-4 | 3.7499474E-4 | 1.0 | 0.0 | 7.45113E-4 | 0.0016061426 | 0.0016161266 | 1.006216 | 1.0E-5 | 0.009034078 | 0.019380184 | 0.019409603 | 1.001518 | 3.0E-5 | 0.086755216 | 0.17448258 | 0.17450735 | 1.000142 | 3.0E-5 |
+| 6.6 | 1.591791E-4 | 3.4913234E-4 | 3.4913234E-4 | 1.0 | 0.0 | 6.8201777E-4 | 0.0014954335 | 0.0015054186 | 1.006677 | 1.0E-5 | 0.008271996 | 0.018056469 | 0.018085929 | 1.0016315 | 3.0E-5 | 0.07970774 | 0.1638883 | 0.1639134 | 1.0001531 | 3.0E-5 |
+| 6.7 | 1.4268003E-4 | 3.2078187E-4 | 3.2078187E-4 | 1.0 | 0.0 | 6.1134255E-4 | 0.0013740633 | 0.0013840497 | 1.0072677 | 1.0E-5 | 0.007417723 | 0.01660286 | 0.016632363 | 1.0017769 | 3.0E-5 | 0.07174956 | 0.15200984 | 0.15203528 | 1.0001674 | 3.0E-5 |
+| 6.8 | 1.239713E-4 | 2.9070597E-4 | 2.9070597E-4 | 1.0 | 0.0 | 5.3119735E-4 | 0.001245294 | 0.0012552816 | 1.0080203 | 1.0E-5 | 0.0064481674 | 0.015057488 | 0.015087036 | 1.0019624 | 3.0E-5 | 0.06264243 | 0.13844487 | 0.13847072 | 1.0001867 | 3.0E-5 |
+| 6.9 | 1.0180238E-4 | 2.6267522E-4 | 2.6267522E-4 | 1.0 | 0.0 | 4.3622297E-4 | 0.0011252696 | 0.0011352582 | 1.0088768 | 1.0E-5 | 0.005298089 | 0.013615097 | 0.013644689 | 1.0021734 | 3.0E-5 | 0.05173543 | 0.12501492 | 0.12504117 | 1.0002099 | 3.0E-5 |
+| 7.0 | 7.6619996E-5 | 2.2409327E-4 | 2.2409327E-4 | 1.0 | 0.0 | 3.283301E-4 | 9.6004945E-4 | 9.700398E-4 | 1.0104061 | 1.0E-5 | 0.0039900932 | 0.011626668 | 0.01165632 | 1.0025502 | 3.0E-5 | 0.039192066 | 0.10730799 | 0.10733477 | 1.0002496 | 3.0E-5 |
+| 7.1 | 7.5127435E-5 | 2.2092364E-4 | 2.2092364E-4 | 1.0 | 0.0 | 3.2193496E-4 | 9.464752E-4 | 9.564657E-4 | 1.0105555 | 1.0E-5 | 0.0039125155 | 0.011463152 | 0.011492808 | 1.0025871 | 3.0E-5 | 0.038443442 | 0.10587153 | 0.10589835 | 1.0002533 | 3.0E-5 |
+| 7.2 | 6.788582E-5 | 2.021975E-4 | 2.021975E-4 | 1.0 | 0.0 | 2.9090676E-4 | 8.66276E-4 | 8.762673E-4 | 1.0115336 | 1.0E-5 | 0.0035360386 | 0.010496546 | 0.010526231 | 1.0028281 | 3.0E-5 | 0.034803 | 0.09754102 | 0.097568095 | 1.0002775 | 3.0E-5 |
+| 7.3 | 6.399602E-5 | 1.8850298E-4 | 1.8850298E-4 | 1.0 | 0.0 | 2.7423984E-4 | 8.076226E-4 | 8.1761455E-4 | 1.012372 | 1.0E-5 | 0.0033337586 | 0.009789065 | 0.009818772 | 1.0030346 | 3.0E-5 | 0.03284188 | 0.091434605 | 0.09146186 | 1.0002981 | 3.0E-5 |
+| 7.4 | 4.506759E-5 | 1.2536443E-4 | 1.2536443E-4 | 1.0 | 0.0 | 1.9313251E-4 | 5.371664E-4 | 5.4716103E-4 | 1.0186062 | 1.0E-5 | 0.0023488526 | 0.006520564 | 0.006550369 | 1.0045708 | 3.0E-5 | 0.023241805 | 0.06239545 | 0.062423576 | 1.0004508 | 3.0E-5 |
+| 7.5 | 3.43289E-5 | 9.341529E-5 | 9.341529E-5 | 1.0 | 0.0 | 1.4711556E-4 | 4.0029016E-4 | 4.1028613E-4 | 1.0249718 | 1.0E-5 | 0.0017896603 | 0.0048627043 | 0.004882607 | 1.0040929 | 2.0E-5 | 0.01775316 | 0.047082577 | 0.047101635 | 1.0004048 | 2.0E-5 |
+| 7.6 | 2.5980507E-5 | 7.058434E-5 | 7.058434E-5 | 1.0 | 0.0 | 1.1134028E-4 | 3.024694E-4 | 3.1246635E-4 | 1.0330513 | 1.0E-5 | 0.001354725 | 0.0036763707 | 0.0036962973 | 1.0054201 | 2.0E-5 | 0.013464959 | 0.03586497 | 0.035884257 | 1.0005376 | 2.0E-5 |
+| 7.7 | 1.7292105E-5 | 4.9452825E-5 | 4.9452825E-5 | 1.0 | 0.0 | 7.4106916E-5 | 2.1192349E-4 | 2.2192138E-4 | 1.0471768 | 1.0E-5 | 9.018782E-4 | 0.0025771211 | 0.0025970696 | 1.0077406 | 2.0E-5 | 0.008982267 | 0.025311116 | 0.025330609 | 1.0007702 | 2.0E-5 |
+| 7.8 | 1.2927471E-5 | 3.9732924E-5 | 3.9732924E-5 | 1.0 | 0.0 | 5.5402274E-5 | 1.7027286E-4 | 1.8027116E-4 | 1.0587193 | 1.0E-5 | 6.743139E-4 | 0.0020711035 | 0.0020910623 | 1.0096366 | 2.0E-5 | 0.0067227143 | 0.020449795 | 0.020469386 | 1.000958 | 2.0E-5 |
+| 7.9 | 1.0200774E-5 | 2.8777797E-5 | 2.8777797E-5 | 1.0 | 0.0 | 4.371687E-5 | 1.2332758E-4 | 1.2332758E-4 | 1.0 | 0.0 | 5.321229E-4 | 0.0015004803 | 0.0015104653 | 1.0066545 | 1.0E-5 | 0.005308505 | 0.0150065 | 0.01501635 | 1.0006564 | 1.0E-5 |
+| 8.0 | 8.650396E-6 | 2.3304925E-5 | 2.3304925E-5 | 1.0 | 0.0 | 3.70726E-5 | 9.987443E-5 | 9.987443E-5 | 1.0 | 0.0 | 4.5126543E-4 | 0.0012152938 | 0.0012252816 | 1.0082184 | 1.0E-5 | 0.0045035016 | 0.012223941 | 0.012233819 | 1.0008081 | 1.0E-5 |
+| 8.1 | 3.9368224E-6 | 7.339901E-6 | 7.339901E-6 | 1.0 | 0.0 | 1.6871985E-5 | 3.145634E-5 | 3.145634E-5 | 1.0 | 0.0 | 2.0539707E-4 | 3.8291377E-4 | 3.8291377E-4 | 1.0 | 0.0 | 0.0020520731 | 0.004007097 | 0.004007097 | 1.0 | 0.0 |
+| 8.2 | 1.7101195E-6 | 2.222576E-6 | 2.222576E-6 | 1.0 | 0.0 | 7.329063E-6 | 9.525292E-6 | 9.525292E-6 | 1.0 | 0.0 | 8.922769E-5 | 1.15964285E-4 | 1.15964285E-4 | 1.0 | 0.0 | 8.9191867E-4 | 0.0012690878 | 0.0012690878 | 1.0 | 0.0 |
+| 8.3 | 3.0346666E-8 | 1.7264131E-8 | 1.7264131E-8 | 1.0 | 0.0 | 1.3005713E-7 | 7.3989135E-8 | 7.3989135E-8 | 1.0 | 0.0 | 1.5834444E-6 | 9.0081767E-7 | 9.0081767E-7 | 1.0 | 0.0 | 1.5834332E-5 | 9.393475E-6 | 9.393475E-6 | 1.0 | 0.0 |
+
+## Ventura-Pitas Point
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Ventura_Pitas_Point_1wk.png) | ![MPD](Ventura_Pitas_Point_1mo.png) | ![MPD](Ventura_Pitas_Point_1yr.png) | ![MPD](Ventura_Pitas_Point_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 3.3179622E-5 | 3.3736957E-5 | 3.3736957E-5 | 1.0 | 0.0 | 1.4219063E-4 | 1.445804E-4 | 1.445804E-4 | 1.0 | 0.0 | 0.0017297962 | 0.001759102 | 0.0017690844 | 1.0056747 | 1.0E-5 | 0.017163932 | 0.017477313 | 0.017526438 | 1.0028108 | 5.0E-5 |
+| 6.1 | 3.3179622E-5 | 3.3736957E-5 | 3.3736957E-5 | 1.0 | 0.0 | 1.4219063E-4 | 1.445804E-4 | 1.445804E-4 | 1.0 | 0.0 | 0.0017297962 | 0.001759102 | 0.0017690844 | 1.0056747 | 1.0E-5 | 0.017163932 | 0.017477313 | 0.017526438 | 1.0028108 | 5.0E-5 |
+| 6.2 | 3.3179622E-5 | 3.3736957E-5 | 3.3736957E-5 | 1.0 | 0.0 | 1.4219063E-4 | 1.445804E-4 | 1.445804E-4 | 1.0 | 0.0 | 0.0017297962 | 0.001759102 | 0.0017690844 | 1.0056747 | 1.0E-5 | 0.017163932 | 0.017477313 | 0.017526438 | 1.0028108 | 5.0E-5 |
+| 6.3 | 3.3179622E-5 | 3.3736957E-5 | 3.3736957E-5 | 1.0 | 0.0 | 1.4219063E-4 | 1.445804E-4 | 1.445804E-4 | 1.0 | 0.0 | 0.0017297962 | 0.001759102 | 0.0017690844 | 1.0056747 | 1.0E-5 | 0.017163932 | 0.017477313 | 0.017526438 | 1.0028108 | 5.0E-5 |
+| 6.4 | 1.8754668E-5 | 1.7020395E-5 | 1.7020395E-5 | 1.0 | 0.0 | 8.037467E-5 | 7.294264E-5 | 7.294264E-5 | 1.0 | 0.0 | 9.781223E-4 | 8.877379E-4 | 8.9772907E-4 | 1.0112545 | 1.0E-5 | 0.009738282 | 0.008844254 | 0.008873989 | 1.003362 | 3.0E-5 |
+| 6.5 | 1.8754668E-5 | 1.7020395E-5 | 1.7020395E-5 | 1.0 | 0.0 | 8.037467E-5 | 7.294264E-5 | 7.294264E-5 | 1.0 | 0.0 | 9.781223E-4 | 8.877379E-4 | 8.9772907E-4 | 1.0112545 | 1.0E-5 | 0.009738282 | 0.008844254 | 0.008873989 | 1.003362 | 3.0E-5 |
+| 6.6 | 1.4361558E-5 | 1.212285E-5 | 1.212285E-5 | 1.0 | 0.0 | 6.154808E-5 | 5.195405E-5 | 5.195405E-5 | 1.0 | 0.0 | 7.490902E-4 | 6.323593E-4 | 6.323593E-4 | 1.0 | 0.0 | 0.0074657016 | 0.006305856 | 0.006315793 | 1.0015758 | 1.0E-5 |
+| 6.7 | 1.4361558E-5 | 1.212285E-5 | 1.212285E-5 | 1.0 | 0.0 | 6.154808E-5 | 5.195405E-5 | 5.195405E-5 | 1.0 | 0.0 | 7.490902E-4 | 6.323593E-4 | 6.323593E-4 | 1.0 | 0.0 | 0.0074657016 | 0.006305856 | 0.006315793 | 1.0015758 | 1.0E-5 |
+| 6.8 | 1.3663846E-5 | 1.13449605E-5 | 1.13449605E-5 | 1.0 | 0.0 | 5.8558027E-5 | 4.8620364E-5 | 4.8620364E-5 | 1.0 | 0.0 | 7.127108E-4 | 5.917941E-4 | 5.917941E-4 | 1.0 | 0.0 | 0.007104293 | 0.0059023974 | 0.0059123384 | 1.0016842 | 1.0E-5 |
+| 6.9 | 1.3644157E-5 | 1.132306E-5 | 1.132306E-5 | 1.0 | 0.0 | 5.8473648E-5 | 4.8526508E-5 | 4.8526508E-5 | 1.0 | 0.0 | 7.116841E-4 | 5.90652E-4 | 5.90652E-4 | 1.0 | 0.0 | 0.007094092 | 0.0058910376 | 0.0059009786 | 1.0016875 | 1.0E-5 |
+| 7.0 | 1.3568845E-5 | 1.1242622E-5 | 1.1242622E-5 | 1.0 | 0.0 | 5.8150898E-5 | 4.818179E-5 | 4.818179E-5 | 1.0 | 0.0 | 7.077572E-4 | 5.864573E-4 | 5.864573E-4 | 1.0 | 0.0 | 0.007055073 | 0.005849312 | 0.0058592535 | 1.0016996 | 1.0E-5 |
+| 7.1 | 1.306572E-5 | 1.0721052E-5 | 1.0721052E-5 | 1.0 | 0.0 | 5.599474E-5 | 4.5946563E-5 | 4.5946563E-5 | 1.0 | 0.0 | 6.815227E-4 | 5.592577E-4 | 5.592577E-4 | 1.0 | 0.0 | 0.0067943637 | 0.005578708 | 0.005588652 | 1.0017825 | 1.0E-5 |
+| 7.2 | 1.232604E-5 | 9.995608E-6 | 9.995608E-6 | 1.0 | 0.0 | 5.2824813E-5 | 4.2837626E-5 | 4.2837626E-5 | 1.0 | 0.0 | 6.429523E-4 | 5.214251E-4 | 5.214251E-4 | 1.0 | 0.0 | 0.0064109527 | 0.005202208 | 0.005212156 | 1.0019122 | 1.0E-5 |
+| 7.3 | 1.0917261E-5 | 8.844227E-6 | 8.844227E-6 | 1.0 | 0.0 | 4.678742E-5 | 3.7903286E-5 | 3.7903286E-5 | 1.0 | 0.0 | 5.69488E-4 | 4.6137636E-4 | 4.6137636E-4 | 1.0 | 0.0 | 0.0056803077 | 0.004604351 | 0.0046143048 | 1.0021619 | 1.0E-5 |
+| 7.4 | 1.039959E-5 | 8.423923E-6 | 8.423923E-6 | 1.0 | 0.0 | 4.456891E-5 | 3.6102032E-5 | 3.6102032E-5 | 1.0 | 0.0 | 5.424914E-4 | 4.3945515E-4 | 4.3945515E-4 | 1.0 | 0.0 | 0.0054116896 | 0.004386023 | 0.004395979 | 1.00227 | 1.0E-5 |
+| 7.5 | 9.015877E-6 | 7.297813E-6 | 7.297813E-6 | 1.0 | 0.0 | 3.86389E-5 | 3.1275977E-5 | 3.1275977E-5 | 1.0 | 0.0 | 4.7032707E-4 | 3.8071987E-4 | 3.8071987E-4 | 1.0 | 0.0 | 0.004693329 | 0.0038008215 | 0.0038107834 | 1.002621 | 1.0E-5 |
+| 7.6 | 4.900162E-6 | 3.874221E-6 | 3.874221E-6 | 1.0 | 0.0 | 2.1000526E-5 | 1.6603699E-5 | 1.6603699E-5 | 1.0 | 0.0 | 2.556514E-4 | 2.0213141E-4 | 2.0213141E-4 | 1.0 | 0.0 | 0.0025535747 | 0.0020194892 | 0.002029469 | 1.0049417 | 1.0E-5 |
+| 7.7 | 3.8850626E-6 | 3.1268125E-6 | 3.1268125E-6 | 1.0 | 0.0 | 1.6650163E-5 | 1.3400557E-5 | 1.3400557E-5 | 1.0 | 0.0 | 2.0269687E-4 | 1.6313966E-4 | 1.6313966E-4 | 1.0 | 0.0 | 0.002025121 | 0.0016302082 | 0.001640192 | 1.0061241 | 1.0E-5 |
+| 7.8 | 2.4654719E-6 | 2.0299221E-6 | 2.0299221E-6 | 1.0 | 0.0 | 1.0566265E-5 | 8.699638E-6 | 8.699638E-6 | 1.0 | 0.0 | 1.2863669E-4 | 1.05912986E-4 | 1.05912986E-4 | 1.0 | 0.0 | 0.0012856225 | 0.0010586298 | 0.0010686192 | 1.0094361 | 1.0E-5 |
+| 7.9 | 4.095894E-7 | 3.2765558E-7 | 3.2765558E-7 | 1.0 | 0.0 | 1.7553821E-6 | 1.4042374E-6 | 1.4042374E-6 | 1.0 | 0.0 | 2.1371567E-5 | 1.709646E-5 | 1.709646E-5 | 1.0 | 0.0 | 2.1369511E-4 | 1.7095175E-4 | 1.7095175E-4 | 1.0 | 0.0 |
+| 8.0 | 7.791402E-9 | 5.6836544E-9 | 5.6836544E-9 | 1.0 | 0.0 | 3.3391725E-8 | 2.4358519E-8 | 2.4358519E-8 | 1.0 | 0.0 | 4.0654416E-7 | 2.9656493E-7 | 2.9656493E-7 | 1.0 | 0.0 | 4.065434E-6 | 2.9656476E-6 | 2.9656476E-6 | 1.0 | 0.0 |
 
 ## Imperial
 *[(top)](#table-of-contents)*
@@ -2326,33 +2317,22 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.9 | 1.2057845E-7 | 4.6236803E-8 | 4.6236803E-8 | 1.0 | 0.0 | 5.1676466E-7 | 1.9815772E-7 | 1.9815772E-7 | 1.0 | 0.0 | 6.2915915E-6 | 2.4125675E-6 | 2.4125675E-6 | 1.0 | 0.0 | 6.2914136E-5 | 2.4126719E-5 | 2.4126719E-5 | 1.0 | 0.0 |
 | 8.0 | 3.3806387E-9 | 9.0207886E-10 | 9.0207886E-10 | 1.0 | 0.0 | 1.4488451E-8 | 3.866053E-9 | 3.866053E-9 | 1.0 | 0.0 | 1.7639688E-7 | 4.706919E-8 | 4.706919E-8 | 1.0 | 0.0 | 1.7639674E-6 | 4.717863E-7 | 4.717863E-7 | 1.0 | 0.0 |
 
-## Pinto Mtn
+## Deep Springs
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Pinto_Mtn_1wk.png) | ![MPD](Pinto_Mtn_1mo.png) | ![MPD](Pinto_Mtn_1yr.png) | ![MPD](Pinto_Mtn_10yr.png) |
+| ![MPD](Deep_Springs_1wk.png) | ![MPD](Deep_Springs_1mo.png) | ![MPD](Deep_Springs_1yr.png) | ![MPD](Deep_Springs_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.4194956E-5 | 4.7858128E-5 | 4.7858128E-5 | 1.0 | 0.0 | 1.893932E-4 | 2.0509107E-4 | 2.0509107E-4 | 1.0 | 0.0 | 0.0023034236 | 0.0024942888 | 0.002514239 | 1.0079983 | 2.0E-5 | 0.022796938 | 0.024680441 | 0.024729207 | 1.0019759 | 5.0E-5 |
-| 6.1 | 4.4194956E-5 | 4.7858128E-5 | 4.7858128E-5 | 1.0 | 0.0 | 1.893932E-4 | 2.0509107E-4 | 2.0509107E-4 | 1.0 | 0.0 | 0.0023034236 | 0.0024942888 | 0.002514239 | 1.0079983 | 2.0E-5 | 0.022796938 | 0.024680441 | 0.024729207 | 1.0019759 | 5.0E-5 |
-| 6.2 | 4.4194956E-5 | 4.7858128E-5 | 4.7858128E-5 | 1.0 | 0.0 | 1.893932E-4 | 2.0509107E-4 | 2.0509107E-4 | 1.0 | 0.0 | 0.0023034236 | 0.0024942888 | 0.002514239 | 1.0079983 | 2.0E-5 | 0.022796938 | 0.024680441 | 0.024729207 | 1.0019759 | 5.0E-5 |
-| 6.3 | 4.4194956E-5 | 4.7858128E-5 | 4.7858128E-5 | 1.0 | 0.0 | 1.893932E-4 | 2.0509107E-4 | 2.0509107E-4 | 1.0 | 0.0 | 0.0023034236 | 0.0024942888 | 0.002514239 | 1.0079983 | 2.0E-5 | 0.022796938 | 0.024680441 | 0.024729207 | 1.0019759 | 5.0E-5 |
-| 6.4 | 3.729929E-5 | 3.960709E-5 | 3.960709E-5 | 1.0 | 0.0 | 1.5984432E-4 | 1.6973416E-4 | 1.6973416E-4 | 1.0 | 0.0 | 0.0019443673 | 0.0020646483 | 0.002084607 | 1.0096669 | 2.0E-5 | 0.019274427 | 0.020464687 | 0.020513665 | 1.0023932 | 5.0E-5 |
-| 6.5 | 3.729929E-5 | 3.960709E-5 | 3.960709E-5 | 1.0 | 0.0 | 1.5984432E-4 | 1.6973416E-4 | 1.6973416E-4 | 1.0 | 0.0 | 0.0019443673 | 0.0020646483 | 0.002084607 | 1.0096669 | 2.0E-5 | 0.019274427 | 0.020464687 | 0.020513665 | 1.0023932 | 5.0E-5 |
-| 6.6 | 3.0204548E-5 | 3.120863E-5 | 3.120863E-5 | 1.0 | 0.0 | 1.2944164E-4 | 1.337446E-4 | 1.337446E-4 | 1.0 | 0.0 | 0.0015748127 | 0.0016271591 | 0.0016371427 | 1.0061357 | 1.0E-5 | 0.015636992 | 0.01615632 | 0.016175997 | 1.001218 | 2.0E-5 |
-| 6.7 | 2.9857754E-5 | 3.0817995E-5 | 3.0817995E-5 | 1.0 | 0.0 | 1.2795553E-4 | 1.3207064E-4 | 1.3207064E-4 | 1.0 | 0.0 | 0.0015567453 | 0.0016068085 | 0.0016167925 | 1.0062135 | 1.0E-5 | 0.015458848 | 0.01595575 | 0.01597543 | 1.0012335 | 2.0E-5 |
-| 6.8 | 2.4819734E-5 | 2.5012347E-5 | 2.5012347E-5 | 1.0 | 0.0 | 1.0636595E-4 | 1.0719149E-4 | 1.0719149E-4 | 1.0 | 0.0 | 0.0012942362 | 0.0013042967 | 0.0013042967 | 1.0 | 0.0 | 0.012867244 | 0.012968784 | 0.012968784 | 1.0 | 0.0 |
-| 6.9 | 2.331124E-5 | 2.3340557E-5 | 2.3340557E-5 | 1.0 | 0.0 | 9.990149E-5 | 1.00027246E-4 | 1.00027246E-4 | 1.0 | 0.0 | 0.001215622 | 0.0012171717 | 0.0012171717 | 1.0 | 0.0 | 0.012089936 | 0.012107245 | 0.012107245 | 1.0 | 0.0 |
-| 7.0 | 2.1818534E-5 | 2.1763632E-5 | 2.1763632E-5 | 1.0 | 0.0 | 9.3504656E-5 | 9.326948E-5 | 9.326948E-5 | 1.0 | 0.0 | 0.0011378246 | 0.0011349842 | 0.0011349842 | 1.0 | 0.0 | 0.011320163 | 0.011293979 | 0.011293979 | 1.0 | 0.0 |
-| 7.1 | 2.066081E-5 | 2.0543222E-5 | 2.0543222E-5 | 1.0 | 0.0 | 8.854332E-5 | 8.8039524E-5 | 8.8039524E-5 | 1.0 | 0.0 | 0.0010774818 | 0.0010713737 | 0.0010713737 | 1.0 | 0.0 | 0.010722724 | 0.010664137 | 0.010664137 | 1.0 | 0.0 |
-| 7.2 | 1.8990233E-5 | 1.9056453E-5 | 1.9056453E-5 | 1.0 | 0.0 | 8.138417E-5 | 8.166807E-5 | 8.166807E-5 | 1.0 | 0.0 | 9.904018E-4 | 9.938745E-4 | 9.938745E-4 | 1.0 | 0.0 | 0.009859995 | 0.009896295 | 0.009896295 | 1.0 | 0.0 |
-| 7.3 | 1.3335872E-5 | 1.4908904E-5 | 1.4908904E-5 | 1.0 | 0.0 | 5.7152483E-5 | 6.389381E-5 | 6.389381E-5 | 1.0 | 0.0 | 6.956093E-4 | 7.7764224E-4 | 7.7764224E-4 | 1.0 | 0.0 | 0.006934359 | 0.0077505107 | 0.0077505107 | 1.0 | 0.0 |
-| 7.4 | 9.414066E-6 | 1.1863018E-5 | 1.1863018E-5 | 1.0 | 0.0 | 4.0345374E-5 | 5.084057E-5 | 5.084057E-5 | 1.0 | 0.0 | 4.910942E-4 | 6.188175E-4 | 6.188175E-4 | 1.0 | 0.0 | 0.0049001034 | 0.006171893 | 0.006171893 | 1.0 | 0.0 |
-| 7.5 | 7.2101157E-6 | 9.160243E-6 | 9.160243E-6 | 1.0 | 0.0 | 3.090013E-5 | 3.925764E-5 | 3.925764E-5 | 1.0 | 0.0 | 3.7614413E-4 | 4.7786476E-4 | 4.7786476E-4 | 1.0 | 0.0 | 0.0037550807 | 0.0047691474 | 0.0047691474 | 1.0 | 0.0 |
-| 7.6 | 3.296375E-6 | 4.54757E-6 | 4.54757E-6 | 1.0 | 0.0 | 1.4127245E-5 | 1.9489447E-5 | 1.9489447E-5 | 1.0 | 0.0 | 1.7198564E-4 | 2.3725958E-4 | 2.3725958E-4 | 1.0 | 0.0 | 0.0017185259 | 0.0023702004 | 0.0023702004 | 1.0 | 0.0 |
-| 7.7 | 2.5741092E-6 | 3.586373E-6 | 3.586373E-6 | 1.0 | 0.0 | 1.103185E-5 | 1.5370086E-5 | 1.5370086E-5 | 1.0 | 0.0 | 1.3430449E-4 | 1.8711605E-4 | 1.8711605E-4 | 1.0 | 0.0 | 0.0013422335 | 0.001869715 | 0.001869715 | 1.0 | 0.0 |
+| 6.0 | 1.9810619E-5 | 2.3113951E-5 | 2.3113951E-5 | 1.0 | 0.0 | 8.489989E-5 | 9.905889E-5 | 9.905889E-5 | 1.0 | 0.0 | 0.001033166 | 0.0012058825 | 0.0012258585 | 1.0165653 | 2.0E-5 | 0.010283757 | 0.012043169 | 0.012092567 | 1.0041018 | 5.0E-5 |
+| 6.1 | 1.9810619E-5 | 2.3113951E-5 | 2.3113951E-5 | 1.0 | 0.0 | 8.489989E-5 | 9.905889E-5 | 9.905889E-5 | 1.0 | 0.0 | 0.001033166 | 0.0012058825 | 0.0012258585 | 1.0165653 | 2.0E-5 | 0.010283757 | 0.012043169 | 0.012092567 | 1.0041018 | 5.0E-5 |
+| 6.2 | 1.9810619E-5 | 2.3113951E-5 | 2.3113951E-5 | 1.0 | 0.0 | 8.489989E-5 | 9.905889E-5 | 9.905889E-5 | 1.0 | 0.0 | 0.001033166 | 0.0012058825 | 0.0012258585 | 1.0165653 | 2.0E-5 | 0.010283757 | 0.012043169 | 0.012092567 | 1.0041018 | 5.0E-5 |
+| 6.3 | 1.9810619E-5 | 2.3113951E-5 | 2.3113951E-5 | 1.0 | 0.0 | 8.489989E-5 | 9.905889E-5 | 9.905889E-5 | 1.0 | 0.0 | 0.001033166 | 0.0012058825 | 0.0012258585 | 1.0165653 | 2.0E-5 | 0.010283757 | 0.012043169 | 0.012092567 | 1.0041018 | 5.0E-5 |
+| 6.4 | 1.9810619E-5 | 2.3113951E-5 | 2.3113951E-5 | 1.0 | 0.0 | 8.489989E-5 | 9.905889E-5 | 9.905889E-5 | 1.0 | 0.0 | 0.001033166 | 0.0012058825 | 0.0012258585 | 1.0165653 | 2.0E-5 | 0.010283757 | 0.012043169 | 0.012092567 | 1.0041018 | 5.0E-5 |
+| 6.5 | 1.7190405E-5 | 2.0051795E-5 | 2.0051795E-5 | 1.0 | 0.0 | 7.367108E-5 | 8.593626E-5 | 8.593626E-5 | 1.0 | 0.0 | 8.9657627E-4 | 0.001046274 | 0.001066253 | 1.0190954 | 2.0E-5 | 0.008929676 | 0.010462702 | 0.01051218 | 1.0047289 | 5.0E-5 |
+| 6.6 | 1.7190405E-5 | 2.0051795E-5 | 2.0051795E-5 | 1.0 | 0.0 | 7.367108E-5 | 8.593626E-5 | 8.593626E-5 | 1.0 | 0.0 | 8.9657627E-4 | 0.001046274 | 0.001066253 | 1.0190954 | 2.0E-5 | 0.008929676 | 0.010462702 | 0.01051218 | 1.0047289 | 5.0E-5 |
 
 ## Great Valley 09 (Laguna Seca)
 *[(top)](#table-of-contents)*
@@ -2379,40 +2359,6 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.3 | 1.7087556E-6 | 6.5792227E-7 | 6.5792227E-7 | 1.0 | 0.0 | 7.3232177E-6 | 2.819664E-6 | 2.819664E-6 | 1.0 | 0.0 | 8.915652E-5 | 3.432891E-5 | 3.432891E-5 | 1.0 | 0.0 | 8.9120766E-4 | 3.432401E-4 | 3.432401E-4 | 1.0 | 0.0 |
 | 7.4 | 1.3804846E-6 | 6.0741337E-7 | 6.0741337E-7 | 1.0 | 0.0 | 5.916349E-6 | 2.6031978E-6 | 2.6031978E-6 | 1.0 | 0.0 | 7.2029165E-5 | 3.1693515E-5 | 3.1693515E-5 | 1.0 | 0.0 | 7.200583E-4 | 3.1689394E-4 | 3.1689394E-4 | 1.0 | 0.0 |
 | 7.5 | 1.3804846E-6 | 6.0741337E-7 | 6.0741337E-7 | 1.0 | 0.0 | 5.916349E-6 | 2.6031978E-6 | 2.6031978E-6 | 1.0 | 0.0 | 7.2029165E-5 | 3.1693515E-5 | 3.1693515E-5 | 1.0 | 0.0 | 7.200583E-4 | 3.1689394E-4 | 3.1689394E-4 | 1.0 | 0.0 |
-
-## Brawley (Seismic Zone) alt 1
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Brawley_Seismic_Zone_alt_1_1wk.png) | ![MPD](Brawley_Seismic_Zone_alt_1_1mo.png) | ![MPD](Brawley_Seismic_Zone_alt_1_1yr.png) | ![MPD](Brawley_Seismic_Zone_alt_1_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.2521618E-4 | 4.7657057E-4 | 4.7657057E-4 | 1.0 | 0.0 | 9.6485513E-4 | 0.0020408838 | 0.0020508633 | 1.0048898 | 1.0E-5 | 0.011683988 | 0.02455872 | 0.024597736 | 1.0015887 | 4.0E-5 | 0.11088423 | 0.21358448 | 0.21361594 | 1.0001472 | 4.0E-5 |
-| 6.1 | 2.2521618E-4 | 4.7657057E-4 | 4.7657057E-4 | 1.0 | 0.0 | 9.6485513E-4 | 0.0020408838 | 0.0020508633 | 1.0048898 | 1.0E-5 | 0.011683988 | 0.02455872 | 0.024597736 | 1.0015887 | 4.0E-5 | 0.11088423 | 0.21358448 | 0.21361594 | 1.0001472 | 4.0E-5 |
-| 6.2 | 2.198148E-4 | 4.67411E-4 | 4.67411E-4 | 1.0 | 0.0 | 9.417233E-4 | 0.0020016888 | 0.0020116689 | 1.0049858 | 1.0E-5 | 0.011405343 | 0.024092708 | 0.024131743 | 1.0016203 | 4.0E-5 | 0.10837428 | 0.21001986 | 0.21005146 | 1.0001504 | 4.0E-5 |
-| 6.3 | 2.1704129E-4 | 4.6176696E-4 | 4.6176696E-4 | 1.0 | 0.0 | 9.298453E-4 | 0.001977537 | 0.001987517 | 1.0050468 | 1.0E-5 | 0.011262234 | 0.023805823 | 0.02384487 | 1.0016403 | 4.0E-5 | 0.107082725 | 0.2079108 | 0.20794249 | 1.0001523 | 4.0E-5 |
-| 6.4 | 1.876142E-4 | 4.0068117E-4 | 4.0068117E-4 | 1.0 | 0.0 | 8.038131E-4 | 0.0017160892 | 0.001726072 | 1.0058172 | 1.0E-5 | 0.00974259 | 0.020692257 | 0.020721637 | 1.0014198 | 3.0E-5 | 0.093263686 | 0.18466182 | 0.18468629 | 1.0001324 | 3.0E-5 |
-| 6.5 | 1.7390939E-4 | 3.7499474E-4 | 3.7499474E-4 | 1.0 | 0.0 | 7.45113E-4 | 0.0016061426 | 0.0016161266 | 1.006216 | 1.0E-5 | 0.009034078 | 0.019380184 | 0.019409603 | 1.001518 | 3.0E-5 | 0.086755216 | 0.17448258 | 0.17450735 | 1.000142 | 3.0E-5 |
-| 6.6 | 1.591791E-4 | 3.4913234E-4 | 3.4913234E-4 | 1.0 | 0.0 | 6.8201777E-4 | 0.0014954335 | 0.0015054186 | 1.006677 | 1.0E-5 | 0.008271996 | 0.018056469 | 0.018085929 | 1.0016315 | 3.0E-5 | 0.07970774 | 0.1638883 | 0.1639134 | 1.0001531 | 3.0E-5 |
-| 6.7 | 1.4268003E-4 | 3.2078187E-4 | 3.2078187E-4 | 1.0 | 0.0 | 6.1134255E-4 | 0.0013740633 | 0.0013840497 | 1.0072677 | 1.0E-5 | 0.007417723 | 0.01660286 | 0.016632363 | 1.0017769 | 3.0E-5 | 0.07174956 | 0.15200984 | 0.15203528 | 1.0001674 | 3.0E-5 |
-| 6.8 | 1.239713E-4 | 2.9070597E-4 | 2.9070597E-4 | 1.0 | 0.0 | 5.3119735E-4 | 0.001245294 | 0.0012552816 | 1.0080203 | 1.0E-5 | 0.0064481674 | 0.015057488 | 0.015087036 | 1.0019624 | 3.0E-5 | 0.06264243 | 0.13844487 | 0.13847072 | 1.0001867 | 3.0E-5 |
-| 6.9 | 1.0180238E-4 | 2.6267522E-4 | 2.6267522E-4 | 1.0 | 0.0 | 4.3622297E-4 | 0.0011252696 | 0.0011352582 | 1.0088768 | 1.0E-5 | 0.005298089 | 0.013615097 | 0.013644689 | 1.0021734 | 3.0E-5 | 0.05173543 | 0.12501492 | 0.12504117 | 1.0002099 | 3.0E-5 |
-| 7.0 | 7.6619996E-5 | 2.2409327E-4 | 2.2409327E-4 | 1.0 | 0.0 | 3.283301E-4 | 9.6004945E-4 | 9.700398E-4 | 1.0104061 | 1.0E-5 | 0.0039900932 | 0.011626668 | 0.01165632 | 1.0025502 | 3.0E-5 | 0.039192066 | 0.10730799 | 0.10733477 | 1.0002496 | 3.0E-5 |
-| 7.1 | 7.5127435E-5 | 2.2092364E-4 | 2.2092364E-4 | 1.0 | 0.0 | 3.2193496E-4 | 9.464752E-4 | 9.564657E-4 | 1.0105555 | 1.0E-5 | 0.0039125155 | 0.011463152 | 0.011492808 | 1.0025871 | 3.0E-5 | 0.038443442 | 0.10587153 | 0.10589835 | 1.0002533 | 3.0E-5 |
-| 7.2 | 6.788582E-5 | 2.021975E-4 | 2.021975E-4 | 1.0 | 0.0 | 2.9090676E-4 | 8.66276E-4 | 8.762673E-4 | 1.0115336 | 1.0E-5 | 0.0035360386 | 0.010496546 | 0.010526231 | 1.0028281 | 3.0E-5 | 0.034803 | 0.09754102 | 0.097568095 | 1.0002775 | 3.0E-5 |
-| 7.3 | 6.399602E-5 | 1.8850298E-4 | 1.8850298E-4 | 1.0 | 0.0 | 2.7423984E-4 | 8.076226E-4 | 8.1761455E-4 | 1.012372 | 1.0E-5 | 0.0033337586 | 0.009789065 | 0.009818772 | 1.0030346 | 3.0E-5 | 0.03284188 | 0.091434605 | 0.09146186 | 1.0002981 | 3.0E-5 |
-| 7.4 | 4.506759E-5 | 1.2536443E-4 | 1.2536443E-4 | 1.0 | 0.0 | 1.9313251E-4 | 5.371664E-4 | 5.4716103E-4 | 1.0186062 | 1.0E-5 | 0.0023488526 | 0.006520564 | 0.006550369 | 1.0045708 | 3.0E-5 | 0.023241805 | 0.06239545 | 0.062423576 | 1.0004508 | 3.0E-5 |
-| 7.5 | 3.43289E-5 | 9.341529E-5 | 9.341529E-5 | 1.0 | 0.0 | 1.4711556E-4 | 4.0029016E-4 | 4.1028613E-4 | 1.0249718 | 1.0E-5 | 0.0017896603 | 0.0048627043 | 0.004882607 | 1.0040929 | 2.0E-5 | 0.01775316 | 0.047082577 | 0.047101635 | 1.0004048 | 2.0E-5 |
-| 7.6 | 2.5980507E-5 | 7.058434E-5 | 7.058434E-5 | 1.0 | 0.0 | 1.1134028E-4 | 3.024694E-4 | 3.1246635E-4 | 1.0330513 | 1.0E-5 | 0.001354725 | 0.0036763707 | 0.0036962973 | 1.0054201 | 2.0E-5 | 0.013464959 | 0.03586497 | 0.035884257 | 1.0005376 | 2.0E-5 |
-| 7.7 | 1.7292105E-5 | 4.9452825E-5 | 4.9452825E-5 | 1.0 | 0.0 | 7.4106916E-5 | 2.1192349E-4 | 2.2192138E-4 | 1.0471768 | 1.0E-5 | 9.018782E-4 | 0.0025771211 | 0.0025970696 | 1.0077406 | 2.0E-5 | 0.008982267 | 0.025311116 | 0.025330609 | 1.0007702 | 2.0E-5 |
-| 7.8 | 1.2927471E-5 | 3.9732924E-5 | 3.9732924E-5 | 1.0 | 0.0 | 5.5402274E-5 | 1.7027286E-4 | 1.8027116E-4 | 1.0587193 | 1.0E-5 | 6.743139E-4 | 0.0020711035 | 0.0020910623 | 1.0096366 | 2.0E-5 | 0.0067227143 | 0.020449795 | 0.020469386 | 1.000958 | 2.0E-5 |
-| 7.9 | 1.0200774E-5 | 2.8777797E-5 | 2.8777797E-5 | 1.0 | 0.0 | 4.371687E-5 | 1.2332758E-4 | 1.2332758E-4 | 1.0 | 0.0 | 5.321229E-4 | 0.0015004803 | 0.0015104653 | 1.0066545 | 1.0E-5 | 0.005308505 | 0.0150065 | 0.01501635 | 1.0006564 | 1.0E-5 |
-| 8.0 | 8.650396E-6 | 2.3304925E-5 | 2.3304925E-5 | 1.0 | 0.0 | 3.70726E-5 | 9.987443E-5 | 9.987443E-5 | 1.0 | 0.0 | 4.5126543E-4 | 0.0012152938 | 0.0012252816 | 1.0082184 | 1.0E-5 | 0.0045035016 | 0.012223941 | 0.012233819 | 1.0008081 | 1.0E-5 |
-| 8.1 | 3.9368224E-6 | 7.339901E-6 | 7.339901E-6 | 1.0 | 0.0 | 1.6871985E-5 | 3.145634E-5 | 3.145634E-5 | 1.0 | 0.0 | 2.0539707E-4 | 3.8291377E-4 | 3.8291377E-4 | 1.0 | 0.0 | 0.0020520731 | 0.004007097 | 0.004007097 | 1.0 | 0.0 |
-| 8.2 | 1.7101195E-6 | 2.222576E-6 | 2.222576E-6 | 1.0 | 0.0 | 7.329063E-6 | 9.525292E-6 | 9.525292E-6 | 1.0 | 0.0 | 8.922769E-5 | 1.15964285E-4 | 1.15964285E-4 | 1.0 | 0.0 | 8.9191867E-4 | 0.0012690878 | 0.0012690878 | 1.0 | 0.0 |
-| 8.3 | 3.0346666E-8 | 1.7264131E-8 | 1.7264131E-8 | 1.0 | 0.0 | 1.3005713E-7 | 7.3989135E-8 | 7.3989135E-8 | 1.0 | 0.0 | 1.5834444E-6 | 9.0081767E-7 | 9.0081767E-7 | 1.0 | 0.0 | 1.5834332E-5 | 9.393475E-6 | 9.393475E-6 | 1.0 | 0.0 |
 
 ## Kern Canyon (North Kern) 2011
 *[(top)](#table-of-contents)*
@@ -2497,55 +2443,59 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.7 | 5.3302307E-7 | 5.612249E-7 | 5.612249E-7 | 1.0 | 0.0 | 2.2843826E-6 | 2.4052476E-6 | 2.4052476E-6 | 1.0 | 0.0 | 2.7812002E-5 | 2.9283532E-5 | 2.9283532E-5 | 1.0 | 0.0 | 2.7808524E-4 | 2.928003E-4 | 2.928003E-4 | 1.0 | 0.0 |
 | 7.8 | 4.613933E-8 | 4.803083E-8 | 4.803083E-8 | 1.0 | 0.0 | 1.9773998E-7 | 2.0584639E-7 | 2.0584639E-7 | 1.0 | 0.0 | 2.4074816E-6 | 2.506177E-6 | 2.506177E-6 | 1.0 | 0.0 | 2.4074554E-5 | 2.5061498E-5 | 2.5061498E-5 | 1.0 | 0.0 |
 
-## Cleghorn Lake
+## Pinto Mtn
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Cleghorn_Lake_1wk.png) | ![MPD](Cleghorn_Lake_1mo.png) | ![MPD](Cleghorn_Lake_1yr.png) | ![MPD](Cleghorn_Lake_10yr.png) |
+| ![MPD](Pinto_Mtn_1wk.png) | ![MPD](Pinto_Mtn_1mo.png) | ![MPD](Pinto_Mtn_1yr.png) | ![MPD](Pinto_Mtn_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.5467183E-5 | 1.679474E-5 | 1.679474E-5 | 1.0 | 0.0 | 6.6286244E-5 | 7.197578E-5 | 8.1975064E-5 | 1.1389257 | 1.0E-5 | 8.067362E-4 | 8.760077E-4 | 8.9599023E-4 | 1.0228108 | 2.0E-5 | 0.008038137 | 0.008730974 | 0.008770624 | 1.0045414 | 4.0E-5 |
-| 6.1 | 1.5467183E-5 | 1.679474E-5 | 1.679474E-5 | 1.0 | 0.0 | 6.6286244E-5 | 7.197578E-5 | 8.1975064E-5 | 1.1389257 | 1.0E-5 | 8.067362E-4 | 8.760077E-4 | 8.9599023E-4 | 1.0228108 | 2.0E-5 | 0.008038137 | 0.008730974 | 0.008770624 | 1.0045414 | 4.0E-5 |
-| 6.2 | 1.2624631E-5 | 1.3681972E-5 | 1.3681972E-5 | 1.0 | 0.0 | 5.410444E-5 | 5.863598E-5 | 6.863539E-5 | 1.1705338 | 1.0E-5 | 6.585225E-4 | 7.137079E-4 | 7.336936E-4 | 1.0280026 | 2.0E-5 | 0.0065657445 | 0.0071189534 | 0.0071586687 | 1.0055788 | 4.0E-5 |
-| 6.3 | 1.2624631E-5 | 1.3681972E-5 | 1.3681972E-5 | 1.0 | 0.0 | 5.410444E-5 | 5.863598E-5 | 6.863539E-5 | 1.1705338 | 1.0E-5 | 6.585225E-4 | 7.137079E-4 | 7.336936E-4 | 1.0280026 | 2.0E-5 | 0.0065657445 | 0.0071189534 | 0.0071586687 | 1.0055788 | 4.0E-5 |
-| 6.4 | 9.417684E-6 | 1.0170421E-5 | 1.0170421E-5 | 1.0 | 0.0 | 4.036088E-5 | 4.358702E-5 | 5.3586584E-5 | 1.2294161 | 1.0E-5 | 4.912829E-4 | 5.3058384E-4 | 5.505732E-4 | 1.0376743 | 2.0E-5 | 0.004901982 | 0.005297207 | 0.005317101 | 1.0037556 | 2.0E-5 |
-| 6.5 | 9.368219E-6 | 1.0117847E-5 | 1.0117847E-5 | 1.0 | 0.0 | 4.014889E-5 | 4.336171E-5 | 5.3361277E-5 | 1.2306082 | 1.0E-5 | 4.8870314E-4 | 5.27842E-4 | 5.4783147E-4 | 1.0378702 | 2.0E-5 | 0.004876298 | 0.0052699186 | 0.005289813 | 1.0037751 | 2.0E-5 |
-| 6.6 | 7.803798E-6 | 8.442088E-6 | 8.442088E-6 | 1.0 | 0.0 | 3.3444423E-5 | 3.6180103E-5 | 4.617974E-5 | 1.2763851 | 1.0E-5 | 4.0710976E-4 | 4.4044363E-4 | 4.5043923E-4 | 1.0226943 | 1.0E-5 | 0.0040636472 | 0.004399624 | 0.0044095805 | 1.002263 | 1.0E-5 |
-| 6.7 | 2.3108669E-6 | 2.443886E-6 | 2.443886E-6 | 1.0 | 0.0 | 9.903678E-6 | 1.04737555E-5 | 1.04737555E-5 | 1.0 | 0.0 | 1.205706E-4 | 1.275107E-4 | 1.275107E-4 | 1.0 | 0.0 | 0.001205052 | 0.001274394 | 0.001274394 | 1.0 | 0.0 |
-| 6.8 | 2.0882828E-6 | 2.2063284E-6 | 2.2063284E-6 | 1.0 | 0.0 | 8.949753E-6 | 9.455661E-6 | 9.455661E-6 | 1.0 | 0.0 | 1.08957785E-4 | 1.1511675E-4 | 1.1511675E-4 | 1.0 | 0.0 | 0.0010890438 | 0.001150588 | 0.001150588 | 1.0 | 0.0 |
-| 6.9 | 1.876935E-6 | 1.9810918E-6 | 1.9810918E-6 | 1.0 | 0.0 | 8.043982E-6 | 8.490367E-6 | 8.490367E-6 | 1.0 | 0.0 | 9.7931086E-5 | 1.0336548E-4 | 1.0336548E-4 | 1.0 | 0.0 | 9.788794E-4 | 0.0010331899 | 0.0010331899 | 1.0 | 0.0 |
-| 7.0 | 1.5357559E-6 | 1.6203138E-6 | 1.6203138E-6 | 1.0 | 0.0 | 6.5817944E-6 | 6.9441844E-6 | 6.9441844E-6 | 1.0 | 0.0 | 8.01304E-5 | 8.454229E-5 | 8.454229E-5 | 1.0 | 0.0 | 8.010151E-4 | 8.4511377E-4 | 8.4511377E-4 | 1.0 | 0.0 |
-| 7.1 | 1.0905424E-6 | 1.1497851E-6 | 1.1497851E-6 | 1.0 | 0.0 | 4.6737446E-6 | 4.927642E-6 | 4.927642E-6 | 1.0 | 0.0 | 5.6901354E-5 | 5.999249E-5 | 5.999249E-5 | 1.0 | 0.0 | 5.6886784E-4 | 5.997727E-4 | 5.997727E-4 | 1.0 | 0.0 |
-| 7.2 | 6.06668E-7 | 6.387403E-7 | 6.387403E-7 | 1.0 | 0.0 | 2.600003E-6 | 2.7374558E-6 | 2.7374558E-6 | 1.0 | 0.0 | 3.1654577E-5 | 3.3328084E-5 | 3.3328084E-5 | 1.0 | 0.0 | 3.1650066E-4 | 3.3323772E-4 | 3.3323772E-4 | 1.0 | 0.0 |
+| 6.0 | 4.4194956E-5 | 4.7858128E-5 | 4.7858128E-5 | 1.0 | 0.0 | 1.893932E-4 | 2.0509107E-4 | 2.0509107E-4 | 1.0 | 0.0 | 0.0023034236 | 0.0024942888 | 0.002514239 | 1.0079983 | 2.0E-5 | 0.022796938 | 0.024680441 | 0.024729207 | 1.0019759 | 5.0E-5 |
+| 6.1 | 4.4194956E-5 | 4.7858128E-5 | 4.7858128E-5 | 1.0 | 0.0 | 1.893932E-4 | 2.0509107E-4 | 2.0509107E-4 | 1.0 | 0.0 | 0.0023034236 | 0.0024942888 | 0.002514239 | 1.0079983 | 2.0E-5 | 0.022796938 | 0.024680441 | 0.024729207 | 1.0019759 | 5.0E-5 |
+| 6.2 | 4.4194956E-5 | 4.7858128E-5 | 4.7858128E-5 | 1.0 | 0.0 | 1.893932E-4 | 2.0509107E-4 | 2.0509107E-4 | 1.0 | 0.0 | 0.0023034236 | 0.0024942888 | 0.002514239 | 1.0079983 | 2.0E-5 | 0.022796938 | 0.024680441 | 0.024729207 | 1.0019759 | 5.0E-5 |
+| 6.3 | 4.4194956E-5 | 4.7858128E-5 | 4.7858128E-5 | 1.0 | 0.0 | 1.893932E-4 | 2.0509107E-4 | 2.0509107E-4 | 1.0 | 0.0 | 0.0023034236 | 0.0024942888 | 0.002514239 | 1.0079983 | 2.0E-5 | 0.022796938 | 0.024680441 | 0.024729207 | 1.0019759 | 5.0E-5 |
+| 6.4 | 3.729929E-5 | 3.960709E-5 | 3.960709E-5 | 1.0 | 0.0 | 1.5984432E-4 | 1.6973416E-4 | 1.6973416E-4 | 1.0 | 0.0 | 0.0019443673 | 0.0020646483 | 0.002084607 | 1.0096669 | 2.0E-5 | 0.019274427 | 0.020464687 | 0.020513665 | 1.0023932 | 5.0E-5 |
+| 6.5 | 3.729929E-5 | 3.960709E-5 | 3.960709E-5 | 1.0 | 0.0 | 1.5984432E-4 | 1.6973416E-4 | 1.6973416E-4 | 1.0 | 0.0 | 0.0019443673 | 0.0020646483 | 0.002084607 | 1.0096669 | 2.0E-5 | 0.019274427 | 0.020464687 | 0.020513665 | 1.0023932 | 5.0E-5 |
+| 6.6 | 3.0204548E-5 | 3.120863E-5 | 3.120863E-5 | 1.0 | 0.0 | 1.2944164E-4 | 1.337446E-4 | 1.337446E-4 | 1.0 | 0.0 | 0.0015748127 | 0.0016271591 | 0.0016371427 | 1.0061357 | 1.0E-5 | 0.015636992 | 0.01615632 | 0.016175997 | 1.001218 | 2.0E-5 |
+| 6.7 | 2.9857754E-5 | 3.0817995E-5 | 3.0817995E-5 | 1.0 | 0.0 | 1.2795553E-4 | 1.3207064E-4 | 1.3207064E-4 | 1.0 | 0.0 | 0.0015567453 | 0.0016068085 | 0.0016167925 | 1.0062135 | 1.0E-5 | 0.015458848 | 0.01595575 | 0.01597543 | 1.0012335 | 2.0E-5 |
+| 6.8 | 2.4819734E-5 | 2.5012347E-5 | 2.5012347E-5 | 1.0 | 0.0 | 1.0636595E-4 | 1.0719149E-4 | 1.0719149E-4 | 1.0 | 0.0 | 0.0012942362 | 0.0013042967 | 0.0013042967 | 1.0 | 0.0 | 0.012867244 | 0.012968784 | 0.012968784 | 1.0 | 0.0 |
+| 6.9 | 2.331124E-5 | 2.3340557E-5 | 2.3340557E-5 | 1.0 | 0.0 | 9.990149E-5 | 1.00027246E-4 | 1.00027246E-4 | 1.0 | 0.0 | 0.001215622 | 0.0012171717 | 0.0012171717 | 1.0 | 0.0 | 0.012089936 | 0.012107245 | 0.012107245 | 1.0 | 0.0 |
+| 7.0 | 2.1818534E-5 | 2.1763632E-5 | 2.1763632E-5 | 1.0 | 0.0 | 9.3504656E-5 | 9.326948E-5 | 9.326948E-5 | 1.0 | 0.0 | 0.0011378246 | 0.0011349842 | 0.0011349842 | 1.0 | 0.0 | 0.011320163 | 0.011293979 | 0.011293979 | 1.0 | 0.0 |
+| 7.1 | 2.066081E-5 | 2.0543222E-5 | 2.0543222E-5 | 1.0 | 0.0 | 8.854332E-5 | 8.8039524E-5 | 8.8039524E-5 | 1.0 | 0.0 | 0.0010774818 | 0.0010713737 | 0.0010713737 | 1.0 | 0.0 | 0.010722724 | 0.010664137 | 0.010664137 | 1.0 | 0.0 |
+| 7.2 | 1.8990233E-5 | 1.9056453E-5 | 1.9056453E-5 | 1.0 | 0.0 | 8.138417E-5 | 8.166807E-5 | 8.166807E-5 | 1.0 | 0.0 | 9.904018E-4 | 9.938745E-4 | 9.938745E-4 | 1.0 | 0.0 | 0.009859995 | 0.009896295 | 0.009896295 | 1.0 | 0.0 |
+| 7.3 | 1.3335872E-5 | 1.4908904E-5 | 1.4908904E-5 | 1.0 | 0.0 | 5.7152483E-5 | 6.389381E-5 | 6.389381E-5 | 1.0 | 0.0 | 6.956093E-4 | 7.7764224E-4 | 7.7764224E-4 | 1.0 | 0.0 | 0.006934359 | 0.0077505107 | 0.0077505107 | 1.0 | 0.0 |
+| 7.4 | 9.414066E-6 | 1.1863018E-5 | 1.1863018E-5 | 1.0 | 0.0 | 4.0345374E-5 | 5.084057E-5 | 5.084057E-5 | 1.0 | 0.0 | 4.910942E-4 | 6.188175E-4 | 6.188175E-4 | 1.0 | 0.0 | 0.0049001034 | 0.006171893 | 0.006171893 | 1.0 | 0.0 |
+| 7.5 | 7.2101157E-6 | 9.160243E-6 | 9.160243E-6 | 1.0 | 0.0 | 3.090013E-5 | 3.925764E-5 | 3.925764E-5 | 1.0 | 0.0 | 3.7614413E-4 | 4.7786476E-4 | 4.7786476E-4 | 1.0 | 0.0 | 0.0037550807 | 0.0047691474 | 0.0047691474 | 1.0 | 0.0 |
+| 7.6 | 3.296375E-6 | 4.54757E-6 | 4.54757E-6 | 1.0 | 0.0 | 1.4127245E-5 | 1.9489447E-5 | 1.9489447E-5 | 1.0 | 0.0 | 1.7198564E-4 | 2.3725958E-4 | 2.3725958E-4 | 1.0 | 0.0 | 0.0017185259 | 0.0023702004 | 0.0023702004 | 1.0 | 0.0 |
+| 7.7 | 2.5741092E-6 | 3.586373E-6 | 3.586373E-6 | 1.0 | 0.0 | 1.103185E-5 | 1.5370086E-5 | 1.5370086E-5 | 1.0 | 0.0 | 1.3430449E-4 | 1.8711605E-4 | 1.8711605E-4 | 1.0 | 0.0 | 0.0013422335 | 0.001869715 | 0.001869715 | 1.0 | 0.0 |
 
-## Kern Canyon (South Kern) 2011
+## Tin Mountain
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Kern_Canyon_South_Kern_2011_1wk.png) | ![MPD](Kern_Canyon_South_Kern_2011_1mo.png) | ![MPD](Kern_Canyon_South_Kern_2011_1yr.png) | ![MPD](Kern_Canyon_South_Kern_2011_10yr.png) |
+| ![MPD](Tin_Mountain_1wk.png) | ![MPD](Tin_Mountain_1mo.png) | ![MPD](Tin_Mountain_1yr.png) | ![MPD](Tin_Mountain_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.105075E-6 | 4.113755E-6 | 1.4113714E-5 | 3.430859 | 1.0E-5 | 1.7593058E-5 | 1.7630264E-5 | 3.762991E-5 | 2.134393 | 2.0E-5 | 2.1417443E-4 | 2.1462796E-4 | 2.446215E-4 | 1.1397468 | 3.0E-5 | 0.0021396813 | 0.0021442706 | 0.002184185 | 1.0186144 | 4.0E-5 |
-| 6.1 | 4.105075E-6 | 4.113755E-6 | 1.4113714E-5 | 3.430859 | 1.0E-5 | 1.7593058E-5 | 1.7630264E-5 | 3.762991E-5 | 2.134393 | 2.0E-5 | 2.1417443E-4 | 2.1462796E-4 | 2.446215E-4 | 1.1397468 | 3.0E-5 | 0.0021396813 | 0.0021442706 | 0.002184185 | 1.0186144 | 4.0E-5 |
-| 6.2 | 4.105075E-6 | 4.113755E-6 | 1.4113714E-5 | 3.430859 | 1.0E-5 | 1.7593058E-5 | 1.7630264E-5 | 3.762991E-5 | 2.134393 | 2.0E-5 | 2.1417443E-4 | 2.1462796E-4 | 2.446215E-4 | 1.1397468 | 3.0E-5 | 0.0021396813 | 0.0021442706 | 0.002184185 | 1.0186144 | 4.0E-5 |
-| 6.3 | 4.105075E-6 | 4.113755E-6 | 1.4113714E-5 | 3.430859 | 1.0E-5 | 1.7593058E-5 | 1.7630264E-5 | 3.762991E-5 | 2.134393 | 2.0E-5 | 2.1417443E-4 | 2.1462796E-4 | 2.446215E-4 | 1.1397468 | 3.0E-5 | 0.0021396813 | 0.0021442706 | 0.002184185 | 1.0186144 | 4.0E-5 |
-| 6.4 | 4.105075E-6 | 4.113755E-6 | 1.4113714E-5 | 3.430859 | 1.0E-5 | 1.7593058E-5 | 1.7630264E-5 | 3.762991E-5 | 2.134393 | 2.0E-5 | 2.1417443E-4 | 2.1462796E-4 | 2.446215E-4 | 1.1397468 | 3.0E-5 | 0.0021396813 | 0.0021442706 | 0.002184185 | 1.0186144 | 4.0E-5 |
-| 6.5 | 2.9849807E-6 | 2.9731757E-6 | 1.2973146E-5 | 4.363397 | 1.0E-5 | 1.2792712E-5 | 1.274212E-5 | 3.2741864E-5 | 2.5695775 | 2.0E-5 | 1.5574014E-4 | 1.5512442E-4 | 1.7512131E-4 | 1.1289088 | 2.0E-5 | 0.0015563103 | 0.0015501765 | 0.0015701456 | 1.0128818 | 2.0E-5 |
-| 6.6 | 2.9849807E-6 | 2.9731757E-6 | 1.2973146E-5 | 4.363397 | 1.0E-5 | 1.2792712E-5 | 1.274212E-5 | 3.2741864E-5 | 2.5695775 | 2.0E-5 | 1.5574014E-4 | 1.5512442E-4 | 1.7512131E-4 | 1.1289088 | 2.0E-5 | 0.0015563103 | 0.0015501765 | 0.0015701456 | 1.0128818 | 2.0E-5 |
-| 6.7 | 2.6756725E-6 | 2.6582397E-6 | 1.2658213E-5 | 4.761878 | 1.0E-5 | 1.1467117E-5 | 1.1392406E-5 | 3.1392177E-5 | 2.7555354 | 2.0E-5 | 1.396032E-4 | 1.3869382E-4 | 1.5869105E-4 | 1.1441826 | 2.0E-5 | 0.0013951553 | 0.0013860837 | 0.0014060559 | 1.0144092 | 2.0E-5 |
-| 6.8 | 2.3283721E-6 | 2.3047953E-6 | 1.2304772E-5 | 5.33877 | 1.0E-5 | 9.9787E-6 | 9.877657E-6 | 2.987746E-5 | 3.0247517 | 2.0E-5 | 1.214839E-4 | 1.2025392E-4 | 1.4025152E-4 | 1.1662947 | 2.0E-5 | 0.001214175 | 0.0012018959 | 0.0012218719 | 1.0166204 | 2.0E-5 |
-| 6.9 | 2.0972677E-6 | 2.0696561E-6 | 2.0696561E-6 | 1.0 | 0.0 | 8.988259E-6 | 8.869925E-6 | 1.8869836E-5 | 2.1273952 | 1.0E-5 | 1.0942656E-4 | 1.07986045E-4 | 1.17984964E-4 | 1.0925945 | 1.0E-5 | 0.0010937268 | 0.0010793415 | 0.0010893308 | 1.0092549 | 1.0E-5 |
-| 7.0 | 1.7132242E-6 | 1.678716E-6 | 1.678716E-6 | 1.0 | 0.0 | 7.3423685E-6 | 7.1944773E-6 | 1.7194405E-5 | 2.389945 | 1.0E-5 | 8.938967E-5 | 8.758928E-5 | 9.75884E-5 | 1.1141592 | 1.0E-5 | 8.935372E-4 | 8.755514E-4 | 8.8554266E-4 | 1.0114114 | 1.0E-5 |
-| 7.1 | 1.4215541E-6 | 1.3815855E-6 | 1.3815855E-6 | 1.0 | 0.0 | 6.0923603E-6 | 5.921068E-6 | 5.921068E-6 | 1.0 | 0.0 | 7.417196E-5 | 7.2086645E-5 | 7.2086645E-5 | 1.0 | 0.0 | 7.414721E-4 | 7.206353E-4 | 7.206353E-4 | 1.0 | 0.0 |
-| 7.2 | 9.097853E-7 | 8.603844E-7 | 8.603844E-7 | 1.0 | 0.0 | 3.899074E-6 | 3.6873564E-6 | 3.6873564E-6 | 1.0 | 0.0 | 4.7470192E-5 | 4.489265E-5 | 4.489265E-5 | 1.0 | 0.0 | 4.7460053E-4 | 4.488369E-4 | 4.488369E-4 | 1.0 | 0.0 |
-| 7.3 | 6.144169E-7 | 5.6282533E-7 | 5.6282533E-7 | 1.0 | 0.0 | 2.6332125E-6 | 2.4121064E-6 | 2.4121064E-6 | 1.0 | 0.0 | 3.205889E-5 | 2.9367004E-5 | 2.9367004E-5 | 1.0 | 0.0 | 3.2054266E-4 | 2.9363175E-4 | 2.9363175E-4 | 1.0 | 0.0 |
-| 7.4 | 4.049844E-7 | 3.5728635E-7 | 3.5728635E-7 | 1.0 | 0.0 | 1.7356463E-6 | 1.5312263E-6 | 1.5312263E-6 | 1.0 | 0.0 | 2.1131287E-5 | 1.8642522E-5 | 1.8642522E-5 | 1.0 | 0.0 | 2.1129279E-4 | 1.8640984E-4 | 1.8640984E-4 | 1.0 | 0.0 |
-| 7.5 | 1.9871162E-7 | 1.583061E-7 | 1.583061E-7 | 1.0 | 0.0 | 8.5162094E-7 | 6.784545E-7 | 6.784545E-7 | 1.0 | 0.0 | 1.0368436E-5 | 8.260154E-6 | 8.260154E-6 | 1.0 | 0.0 | 1.0367952E-4 | 8.259855E-5 | 8.259855E-5 | 1.0 | 0.0 |
-| 7.6 | 2.572245E-8 | 1.7352786E-8 | 1.7352786E-8 | 1.0 | 0.0 | 1.10239064E-7 | 7.4369076E-8 | 7.4369076E-8 | 1.0 | 0.0 | 1.3421597E-6 | 9.054432E-7 | 9.054432E-7 | 1.0 | 0.0 | 1.3421517E-5 | 9.054401E-6 | 9.054401E-6 | 1.0 | 0.0 |
+| 6.0 | 4.083776E-6 | 4.181574E-6 | 4.181574E-6 | 1.0 | 0.0 | 1.750178E-5 | 1.792093E-5 | 1.792093E-5 | 1.0 | 0.0 | 2.1306332E-4 | 2.181692E-4 | 2.28167E-4 | 1.045826 | 1.0E-5 | 0.0021285915 | 0.0021799158 | 0.0022298067 | 1.0228866 | 5.0E-5 |
+| 6.1 | 4.083776E-6 | 4.181574E-6 | 4.181574E-6 | 1.0 | 0.0 | 1.750178E-5 | 1.792093E-5 | 1.792093E-5 | 1.0 | 0.0 | 2.1306332E-4 | 2.181692E-4 | 2.28167E-4 | 1.045826 | 1.0E-5 | 0.0021285915 | 0.0021799158 | 0.0022298067 | 1.0228866 | 5.0E-5 |
+| 6.2 | 4.083776E-6 | 4.181574E-6 | 4.181574E-6 | 1.0 | 0.0 | 1.750178E-5 | 1.792093E-5 | 1.792093E-5 | 1.0 | 0.0 | 2.1306332E-4 | 2.181692E-4 | 2.28167E-4 | 1.045826 | 1.0E-5 | 0.0021285915 | 0.0021799158 | 0.0022298067 | 1.0228866 | 5.0E-5 |
+| 6.3 | 4.083776E-6 | 4.181574E-6 | 4.181574E-6 | 1.0 | 0.0 | 1.750178E-5 | 1.792093E-5 | 1.792093E-5 | 1.0 | 0.0 | 2.1306332E-4 | 2.181692E-4 | 2.28167E-4 | 1.045826 | 1.0E-5 | 0.0021285915 | 0.0021799158 | 0.0022298067 | 1.0228866 | 5.0E-5 |
+| 6.4 | 4.083776E-6 | 4.181574E-6 | 4.181574E-6 | 1.0 | 0.0 | 1.750178E-5 | 1.792093E-5 | 1.792093E-5 | 1.0 | 0.0 | 2.1306332E-4 | 2.181692E-4 | 2.28167E-4 | 1.045826 | 1.0E-5 | 0.0021285915 | 0.0021799158 | 0.0022298067 | 1.0228866 | 5.0E-5 |
+| 6.5 | 2.3143427E-6 | 2.3731798E-6 | 2.3731798E-6 | 1.0 | 0.0 | 9.9185745E-6 | 1.0170735E-5 | 1.0170735E-5 | 1.0 | 0.0 | 1.2075195E-4 | 1.2382244E-4 | 1.3382119E-4 | 1.0807508 | 1.0E-5 | 0.0012068636 | 0.0012376104 | 0.0012775608 | 1.0322803 | 4.0E-5 |
+| 6.6 | 2.3143427E-6 | 2.3731798E-6 | 2.3731798E-6 | 1.0 | 0.0 | 9.9185745E-6 | 1.0170735E-5 | 1.0170735E-5 | 1.0 | 0.0 | 1.2075195E-4 | 1.2382244E-4 | 1.3382119E-4 | 1.0807508 | 1.0E-5 | 0.0012068636 | 0.0012376104 | 0.0012775608 | 1.0322803 | 4.0E-5 |
+| 6.7 | 1.7029532E-6 | 1.7498095E-6 | 1.7498095E-6 | 1.0 | 0.0 | 7.2983503E-6 | 7.499165E-6 | 7.499165E-6 | 1.0 | 0.0 | 8.885379E-5 | 9.129904E-5 | 1.0129813E-4 | 1.1095202 | 1.0E-5 | 8.881827E-4 | 9.12668E-4 | 9.5263147E-4 | 1.0437876 | 4.0E-5 |
+| 6.8 | 1.2914646E-6 | 1.3299526E-6 | 1.3299526E-6 | 1.0 | 0.0 | 5.534837E-6 | 5.6997874E-6 | 5.6997874E-6 | 1.0 | 0.0 | 6.738455E-5 | 6.939314E-5 | 6.939314E-5 | 1.0 | 0.0 | 6.736412E-4 | 6.937581E-4 | 7.137442E-4 | 1.0288085 | 2.0E-5 |
+| 6.9 | 5.8708974E-7 | 6.117089E-7 | 6.117089E-7 | 1.0 | 0.0 | 2.5160964E-6 | 2.6216073E-6 | 2.6216073E-6 | 1.0 | 0.0 | 3.0633044E-5 | 3.1917643E-5 | 3.1917643E-5 | 1.0 | 0.0 | 3.0628822E-4 | 3.191347E-4 | 3.391283E-4 | 1.0626495 | 2.0E-5 |
+| 7.0 | 4.6248786E-7 | 4.832096E-7 | 4.832096E-7 | 1.0 | 0.0 | 1.9820893E-6 | 2.0708967E-6 | 2.0708967E-6 | 1.0 | 0.0 | 2.413167E-5 | 2.5212914E-5 | 2.5212914E-5 | 1.0 | 0.0 | 2.412905E-4 | 2.5210422E-4 | 2.621017E-4 | 1.0396562 | 1.0E-5 |
+| 7.1 | 3.804606E-7 | 3.9872182E-7 | 3.9872182E-7 | 1.0 | 0.0 | 1.6305444E-6 | 1.7088068E-6 | 1.7088068E-6 | 1.0 | 0.0 | 1.9851697E-5 | 2.0804559E-5 | 2.0804559E-5 | 1.0 | 0.0 | 1.9849923E-4 | 2.0802947E-4 | 2.0802947E-4 | 1.0 | 0.0 |
+| 7.2 | 3.5864858E-7 | 3.7617545E-7 | 3.7617545E-7 | 1.0 | 0.0 | 1.5370645E-6 | 1.6121797E-6 | 1.6121797E-6 | 1.0 | 0.0 | 1.87136E-5 | 1.9628145E-5 | 1.9628145E-5 | 1.0 | 0.0 | 1.8712023E-4 | 1.9626743E-4 | 1.9626743E-4 | 1.0 | 0.0 |
+| 7.3 | 3.342063E-7 | 3.5064113E-7 | 3.5064113E-7 | 1.0 | 0.0 | 1.4323119E-6 | 1.5027471E-6 | 1.5027471E-6 | 1.0 | 0.0 | 1.7438259E-5 | 1.8295825E-5 | 1.8295825E-5 | 1.0 | 0.0 | 1.743689E-4 | 1.8294649E-4 | 1.8294649E-4 | 1.0 | 0.0 |
+| 7.4 | 2.971242E-7 | 3.1166385E-7 | 3.1166385E-7 | 1.0 | 0.0 | 1.2733886E-6 | 1.3357017E-6 | 1.3357017E-6 | 1.0 | 0.0 | 1.5503398E-5 | 1.626208E-5 | 1.626208E-5 | 1.0 | 0.0 | 1.5502315E-4 | 1.6261218E-4 | 1.6261218E-4 | 1.0 | 0.0 |
+| 7.5 | 1.4326713E-7 | 1.501279E-7 | 1.501279E-7 | 1.0 | 0.0 | 6.140018E-7 | 6.434053E-7 | 6.434053E-7 | 1.0 | 0.0 | 7.4754466E-6 | 7.83346E-6 | 7.83346E-6 | 1.0 | 0.0 | 7.475195E-5 | 7.83346E-5 | 7.83346E-5 | 1.0 | 0.0 |
 
 ## Elysian Park (Upper)
 *[(top)](#table-of-contents)*
@@ -2576,6 +2526,127 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.7 | 8.2312795E-8 | 7.38696E-8 | 7.38696E-8 | 1.0 | 0.0 | 3.527691E-7 | 3.1658396E-7 | 3.1658396E-7 | 1.0 | 0.0 | 4.294955E-6 | 3.854404E-6 | 3.854404E-6 | 1.0 | 0.0 | 4.2948723E-5 | 3.8543487E-5 | 3.8543487E-5 | 1.0 | 0.0 |
 | 7.8 | 2.7819295E-8 | 1.7569661E-8 | 1.7569661E-8 | 1.0 | 0.0 | 1.1922555E-7 | 7.5298544E-8 | 7.5298544E-8 | 1.0 | 0.0 | 1.45157E-6 | 9.167595E-7 | 9.167595E-7 | 1.0 | 0.0 | 1.45156055E-5 | 9.167572E-6 | 9.167572E-6 | 1.0 | 0.0 |
 
+## Pisgah-Bullion Mtn-Mesquite Lk
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Pisgah_Bullion_Mtn_Mesquite_Lk_1wk.png) | ![MPD](Pisgah_Bullion_Mtn_Mesquite_Lk_1mo.png) | ![MPD](Pisgah_Bullion_Mtn_Mesquite_Lk_1yr.png) | ![MPD](Pisgah_Bullion_Mtn_Mesquite_Lk_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 3.0240792E-5 | 2.4092184E-5 | 2.4092184E-5 | 1.0 | 0.0 | 1.2959696E-4 | 1.032487E-4 | 1.032487E-4 | 1.0 | 0.0 | 0.0015767008 | 0.0012564284 | 0.0012664158 | 1.0079491 | 1.0E-5 | 0.015655609 | 0.012503273 | 0.012542773 | 1.0031592 | 4.0E-5 |
+| 6.1 | 3.0240792E-5 | 2.4092184E-5 | 2.4092184E-5 | 1.0 | 0.0 | 1.2959696E-4 | 1.032487E-4 | 1.032487E-4 | 1.0 | 0.0 | 0.0015767008 | 0.0012564284 | 0.0012664158 | 1.0079491 | 1.0E-5 | 0.015655609 | 0.012503273 | 0.012542773 | 1.0031592 | 4.0E-5 |
+| 6.2 | 3.0240792E-5 | 2.4092184E-5 | 2.4092184E-5 | 1.0 | 0.0 | 1.2959696E-4 | 1.032487E-4 | 1.032487E-4 | 1.0 | 0.0 | 0.0015767008 | 0.0012564284 | 0.0012664158 | 1.0079491 | 1.0E-5 | 0.015655609 | 0.012503273 | 0.012542773 | 1.0031592 | 4.0E-5 |
+| 6.3 | 2.0498217E-5 | 1.3638587E-5 | 1.3638587E-5 | 1.0 | 0.0 | 8.784654E-5 | 5.844987E-5 | 5.844987E-5 | 1.0 | 0.0 | 0.0010690069 | 7.11411E-4 | 7.11411E-4 | 1.0 | 0.0 | 0.01063879 | 0.007092963 | 0.007112821 | 1.0027997 | 2.0E-5 |
+| 6.4 | 2.0498217E-5 | 1.3638587E-5 | 1.3638587E-5 | 1.0 | 0.0 | 8.784654E-5 | 5.844987E-5 | 5.844987E-5 | 1.0 | 0.0 | 0.0010690069 | 7.11411E-4 | 7.11411E-4 | 1.0 | 0.0 | 0.01063879 | 0.007092963 | 0.007112821 | 1.0027997 | 2.0E-5 |
+| 6.5 | 1.7316182E-5 | 1.0477421E-5 | 1.0477421E-5 | 1.0 | 0.0 | 7.42101E-5 | 4.4902514E-5 | 4.4902514E-5 | 1.0 | 0.0 | 9.0313336E-4 | 5.46561E-4 | 5.46561E-4 | 1.0 | 0.0 | 0.008994718 | 0.0054531633 | 0.0054631084 | 1.0018238 | 1.0E-5 |
+| 6.6 | 1.5251077E-5 | 8.414566E-6 | 8.414566E-6 | 1.0 | 0.0 | 6.536012E-5 | 3.606197E-5 | 3.606197E-5 | 1.0 | 0.0 | 7.9546886E-4 | 4.3897325E-4 | 4.3897325E-4 | 1.0 | 0.0 | 0.007926274 | 0.0043817786 | 0.004391735 | 1.0022721 | 1.0E-5 |
+| 6.7 | 1.2997425E-5 | 6.411711E-6 | 6.411711E-6 | 1.0 | 0.0 | 5.570206E-5 | 2.74785E-5 | 2.74785E-5 | 1.0 | 0.0 | 6.7796157E-4 | 3.3450403E-4 | 3.3450403E-4 | 1.0 | 0.0 | 0.0067589693 | 0.0033404655 | 0.0033404655 | 1.0 | 0.0 |
+| 6.8 | 1.035386E-5 | 4.333397E-6 | 4.333397E-6 | 1.0 | 0.0 | 4.437293E-5 | 1.8571576E-5 | 1.8571576E-5 | 1.0 | 0.0 | 5.401065E-4 | 2.2608634E-4 | 2.2608634E-4 | 1.0 | 0.0 | 0.0053879567 | 0.00225865 | 0.00225865 | 1.0 | 0.0 |
+| 6.9 | 8.816252E-6 | 3.5807898E-6 | 3.5807898E-6 | 1.0 | 0.0 | 3.778339E-5 | 1.5346155E-5 | 1.5346155E-5 | 1.0 | 0.0 | 4.5991567E-4 | 1.86824E-4 | 1.86824E-4 | 1.0 | 0.0 | 0.00458965 | 0.001866728 | 0.001866728 | 1.0 | 0.0 |
+| 7.0 | 6.8232207E-6 | 2.5677002E-6 | 2.5677002E-6 | 1.0 | 0.0 | 2.9242048E-5 | 1.1004385E-5 | 1.1004385E-5 | 1.0 | 0.0 | 3.5596377E-4 | 1.3397046E-4 | 1.3397046E-4 | 1.0 | 0.0 | 0.0035539411 | 0.001338928 | 0.001338928 | 1.0 | 0.0 |
+| 7.1 | 5.837013E-6 | 2.2274799E-6 | 2.2274799E-6 | 1.0 | 0.0 | 2.501553E-5 | 9.546308E-6 | 9.546308E-6 | 1.0 | 0.0 | 3.045215E-4 | 1.16220406E-4 | 1.16220406E-4 | 1.0 | 0.0 | 0.0030410455 | 0.0011616253 | 0.0011616253 | 1.0 | 0.0 |
+| 7.2 | 4.278052E-6 | 1.6276423E-6 | 1.6276423E-6 | 1.0 | 0.0 | 1.833438E-5 | 6.9755924E-6 | 6.9755924E-6 | 1.0 | 0.0 | 2.231982E-4 | 8.4924766E-5 | 8.4924766E-5 | 1.0 | 0.0 | 0.0022297418 | 8.4894634E-4 | 8.4894634E-4 | 1.0 | 0.0 |
+| 7.3 | 1.8803692E-6 | 8.3452414E-7 | 8.3452414E-7 | 1.0 | 0.0 | 8.0587E-6 | 3.5765281E-6 | 3.5765281E-6 | 1.0 | 0.0 | 9.811026E-5 | 4.3543507E-5 | 4.3543507E-5 | 1.0 | 0.0 | 9.806695E-4 | 4.353642E-4 | 4.353642E-4 | 1.0 | 0.0 |
+
+## Ortigalita (North)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Ortigalita_North_1wk.png) | ![MPD](Ortigalita_North_1mo.png) | ![MPD](Ortigalita_North_1yr.png) | ![MPD](Ortigalita_North_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 7.711876E-5 | 1.0507971E-4 | 1.0507971E-4 | 1.0 | 0.0 | 3.3046713E-4 | 4.5027473E-4 | 4.6027024E-4 | 1.0221987 | 1.0E-5 | 0.004016016 | 0.0054687066 | 0.0054985425 | 1.0054557 | 3.0E-5 | 0.039442103 | 0.053461075 | 0.053498935 | 1.0007082 | 4.0E-5 |
+| 6.1 | 4.607858E-5 | 6.0246308E-5 | 6.0246308E-5 | 1.0 | 0.0 | 1.9746469E-4 | 2.581757E-4 | 2.681731E-4 | 1.0387233 | 1.0E-5 | 0.0024014818 | 0.0031391045 | 0.0031490729 | 1.0031756 | 1.0E-5 | 0.023756953 | 0.030978423 | 0.030997803 | 1.0006256 | 2.0E-5 |
+| 6.2 | 4.607858E-5 | 6.0246308E-5 | 6.0246308E-5 | 1.0 | 0.0 | 1.9746469E-4 | 2.581757E-4 | 2.681731E-4 | 1.0387233 | 1.0E-5 | 0.0024014818 | 0.0031391045 | 0.0031490729 | 1.0031756 | 1.0E-5 | 0.023756953 | 0.030978423 | 0.030997803 | 1.0006256 | 2.0E-5 |
+| 6.3 | 3.327423E-5 | 4.2479634E-5 | 4.2479634E-5 | 1.0 | 0.0 | 1.4259605E-4 | 1.8204462E-4 | 1.8204462E-4 | 1.0 | 0.0 | 0.0017347244 | 0.0022144287 | 0.0022144287 | 1.0 | 0.0 | 0.017212452 | 0.021947866 | 0.021947866 | 1.0 | 0.0 |
+| 6.4 | 2.7732503E-5 | 3.5002122E-5 | 3.5002122E-5 | 1.0 | 0.0 | 1.1884817E-4 | 1.5000197E-4 | 1.5000197E-4 | 1.0 | 0.0 | 0.001446016 | 0.0018249901 | 0.0018249901 | 1.0 | 0.0 | 0.014366428 | 0.018122995 | 0.018122995 | 1.0 | 0.0 |
+| 6.5 | 2.7689714E-5 | 3.4951932E-5 | 3.4951932E-5 | 1.0 | 0.0 | 1.186648E-4 | 1.4978691E-4 | 1.4978691E-4 | 1.0 | 0.0 | 0.0014437864 | 0.001822376 | 0.001822376 | 1.0 | 0.0 | 0.014344421 | 0.01809728 | 0.01809728 | 1.0 | 0.0 |
+| 6.6 | 2.2976905E-5 | 2.8721039E-5 | 2.8721039E-5 | 1.0 | 0.0 | 9.846873E-5 | 1.2308579E-4 | 1.2308579E-4 | 1.0 | 0.0 | 0.0011981975 | 0.0014977782 | 0.0014977782 | 1.0 | 0.0 | 0.011917574 | 0.014900108 | 0.014900108 | 1.0 | 0.0 |
+| 6.7 | 1.9871539E-5 | 2.4906842E-5 | 2.4906842E-5 | 1.0 | 0.0 | 8.516096E-5 | 1.0674064E-4 | 1.0674064E-4 | 1.0 | 0.0 | 0.0010363415 | 0.0012990412 | 0.0012990412 | 1.0 | 0.0 | 0.010315218 | 0.012938168 | 0.012938168 | 1.0 | 0.0 |
+| 6.8 | 6.5640475E-6 | 7.6059414E-6 | 7.6059414E-6 | 1.0 | 0.0 | 2.813133E-5 | 3.25965E-5 | 3.25965E-5 | 1.0 | 0.0 | 3.424451E-4 | 3.9679298E-4 | 3.9679298E-4 | 1.0 | 0.0 | 0.0034191788 | 0.0039611324 | 0.0039611324 | 1.0 | 0.0 |
+| 6.9 | 5.6219683E-6 | 6.5022164E-6 | 6.5022164E-6 | 1.0 | 0.0 | 2.4093928E-5 | 2.7866357E-5 | 2.7866357E-5 | 1.0 | 0.0 | 2.933041E-4 | 3.3922266E-4 | 3.3922266E-4 | 1.0 | 0.0 | 0.0029291727 | 0.0033873057 | 0.0033873057 | 1.0 | 0.0 |
+| 7.0 | 3.875591E-6 | 4.485017E-6 | 4.485017E-6 | 1.0 | 0.0 | 1.6609569E-5 | 1.9221372E-5 | 1.9221372E-5 | 1.0 | 0.0 | 2.0220275E-4 | 2.3399718E-4 | 2.3399718E-4 | 1.0 | 0.0 | 0.0020201886 | 0.0023377163 | 0.0023377163 | 1.0 | 0.0 |
+| 7.1 | 1.6017933E-6 | 1.8571518E-6 | 1.8571518E-6 | 1.0 | 0.0 | 6.8648105E-6 | 7.959204E-6 | 7.959204E-6 | 1.0 | 0.0 | 8.357586E-5 | 9.690007E-5 | 9.690007E-5 | 1.0 | 0.0 | 8.3544437E-4 | 9.686828E-4 | 9.686828E-4 | 1.0 | 0.0 |
+
+## Ortigalita (South)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Ortigalita_South_1wk.png) | ![MPD](Ortigalita_South_1mo.png) | ![MPD](Ortigalita_South_1yr.png) | ![MPD](Ortigalita_South_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 3.72394E-5 | 4.3258227E-5 | 4.3258227E-5 | 1.0 | 0.0 | 1.5958765E-4 | 1.8538011E-4 | 1.9537826E-4 | 1.0539333 | 1.0E-5 | 0.0019412481 | 0.0022548232 | 0.002274778 | 1.0088499 | 2.0E-5 | 0.019243775 | 0.02233583 | 0.022374935 | 1.0017508 | 4.0E-5 |
+| 6.1 | 2.7299884E-5 | 3.1493844E-5 | 3.1493844E-5 | 1.0 | 0.0 | 1.16994255E-4 | 1.3496695E-4 | 1.449656E-4 | 1.0740823 | 1.0E-5 | 0.0014234743 | 0.0016420395 | 0.0016620067 | 1.01216 | 2.0E-5 | 0.014143906 | 0.016304996 | 0.016334508 | 1.00181 | 3.0E-5 |
+| 6.2 | 2.7299884E-5 | 3.1493844E-5 | 3.1493844E-5 | 1.0 | 0.0 | 1.16994255E-4 | 1.3496695E-4 | 1.449656E-4 | 1.0740823 | 1.0E-5 | 0.0014234743 | 0.0016420395 | 0.0016620067 | 1.01216 | 2.0E-5 | 0.014143906 | 0.016304996 | 0.016334508 | 1.00181 | 3.0E-5 |
+| 6.3 | 2.0546433E-5 | 2.3632772E-5 | 2.3632772E-5 | 1.0 | 0.0 | 8.805317E-5 | 1.0127949E-4 | 1.0127949E-4 | 1.0 | 0.0 | 0.00107152 | 0.0012323993 | 0.0012423869 | 1.0081042 | 1.0E-5 | 0.010663681 | 0.012257712 | 0.012277467 | 1.0016116 | 2.0E-5 |
+| 6.4 | 2.0546433E-5 | 2.3632772E-5 | 2.3632772E-5 | 1.0 | 0.0 | 8.805317E-5 | 1.0127949E-4 | 1.0127949E-4 | 1.0 | 0.0 | 0.00107152 | 0.0012323993 | 0.0012423869 | 1.0081042 | 1.0E-5 | 0.010663681 | 0.012257712 | 0.012277467 | 1.0016116 | 2.0E-5 |
+| 6.5 | 1.7779594E-5 | 2.0448117E-5 | 2.0448117E-5 | 1.0 | 0.0 | 7.619603E-5 | 8.7631925E-5 | 8.7631925E-5 | 1.0 | 0.0 | 9.272918E-4 | 0.00106641 | 0.0010763993 | 1.0093672 | 1.0E-5 | 0.009234319 | 0.010614393 | 0.010634181 | 1.0018642 | 2.0E-5 |
+| 6.6 | 1.6272212E-5 | 1.8716015E-5 | 1.8716015E-5 | 1.0 | 0.0 | 6.973618E-5 | 8.0209094E-5 | 8.0209094E-5 | 1.0 | 0.0 | 8.487073E-4 | 9.761204E-4 | 9.761204E-4 | 1.0 | 0.0 | 0.008454733 | 0.009719632 | 0.009729534 | 1.0010189 | 1.0E-5 |
+| 6.7 | 1.3051484E-5 | 1.5039612E-5 | 1.5039612E-5 | 1.0 | 0.0 | 5.593373E-5 | 6.445394E-5 | 6.445394E-5 | 1.0 | 0.0 | 6.807804E-4 | 7.844537E-4 | 7.844537E-4 | 1.0 | 0.0 | 0.006786986 | 0.00781783 | 0.00781783 | 1.0 | 0.0 |
+| 6.8 | 1.04277415E-5 | 1.1987902E-5 | 1.1987902E-5 | 1.0 | 0.0 | 4.4689557E-5 | 5.1375755E-5 | 5.1375755E-5 | 1.0 | 0.0 | 5.439595E-4 | 6.2532775E-4 | 6.2532775E-4 | 1.0 | 0.0 | 0.0054262993 | 0.006236436 | 0.006236436 | 1.0 | 0.0 |
+| 6.9 | 7.639968E-6 | 8.791996E-6 | 8.791996E-6 | 1.0 | 0.0 | 3.274231E-5 | 3.7679474E-5 | 3.7679474E-5 | 1.0 | 0.0 | 3.9856473E-4 | 4.586569E-4 | 4.586569E-4 | 1.0 | 0.0 | 0.003978506 | 0.0045776893 | 0.0045776893 | 1.0 | 0.0 |
+| 7.0 | 3.919831E-6 | 4.533665E-6 | 4.533665E-6 | 1.0 | 0.0 | 1.679917E-5 | 1.9429861E-5 | 1.9429861E-5 | 1.0 | 0.0 | 2.045107E-4 | 2.36535E-4 | 2.36535E-4 | 1.0 | 0.0 | 0.0020432258 | 0.002363041 | 0.002363041 | 1.0 | 0.0 |
+| 7.1 | 1.6017933E-6 | 1.8571518E-6 | 1.8571518E-6 | 1.0 | 0.0 | 6.8648105E-6 | 7.959204E-6 | 7.959204E-6 | 1.0 | 0.0 | 8.357586E-5 | 9.690007E-5 | 9.690007E-5 | 1.0 | 0.0 | 8.3544437E-4 | 9.686828E-4 | 9.686828E-4 | 1.0 | 0.0 |
+
+## Whittier alt 1
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Whittier_alt_1_1wk.png) | ![MPD](Whittier_alt_1_1mo.png) | ![MPD](Whittier_alt_1_1yr.png) | ![MPD](Whittier_alt_1_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 4.2554693E-5 | 4.7255566E-5 | 4.7255566E-5 | 1.0 | 0.0 | 1.8236451E-4 | 2.0250995E-4 | 2.0250995E-4 | 1.0 | 0.0 | 0.002218027 | 0.0024630916 | 0.002473067 | 1.0040499 | 1.0E-5 | 0.02196019 | 0.02439196 | 0.024430985 | 1.0015999 | 4.0E-5 |
+| 6.1 | 4.2554693E-5 | 4.7255566E-5 | 4.7255566E-5 | 1.0 | 0.0 | 1.8236451E-4 | 2.0250995E-4 | 2.0250995E-4 | 1.0 | 0.0 | 0.002218027 | 0.0024630916 | 0.002473067 | 1.0040499 | 1.0E-5 | 0.02196019 | 0.02439196 | 0.024430985 | 1.0015999 | 4.0E-5 |
+| 6.2 | 4.2554693E-5 | 4.7255566E-5 | 4.7255566E-5 | 1.0 | 0.0 | 1.8236451E-4 | 2.0250995E-4 | 2.0250995E-4 | 1.0 | 0.0 | 0.002218027 | 0.0024630916 | 0.002473067 | 1.0040499 | 1.0E-5 | 0.02196019 | 0.02439196 | 0.024430985 | 1.0015999 | 4.0E-5 |
+| 6.3 | 1.9617712E-5 | 1.8270406E-5 | 1.8270406E-5 | 1.0 | 0.0 | 8.40732E-5 | 7.82995E-5 | 7.82995E-5 | 1.0 | 0.0 | 0.0010231105 | 9.528985E-4 | 9.528985E-4 | 1.0 | 0.0 | 0.01018413 | 0.00949141 | 0.00951122 | 1.0020871 | 2.0E-5 |
+| 6.4 | 1.5611336E-5 | 1.3605806E-5 | 1.3605806E-5 | 1.0 | 0.0 | 6.690401E-5 | 5.8309328E-5 | 5.8309328E-5 | 1.0 | 0.0 | 8.142519E-4 | 7.0969085E-4 | 7.0969085E-4 | 1.0 | 0.0 | 0.008112748 | 0.0070762085 | 0.007096067 | 1.0028064 | 2.0E-5 |
+| 6.5 | 1.5150166E-5 | 1.3102443E-5 | 1.3102443E-5 | 1.0 | 0.0 | 6.492767E-5 | 5.6152152E-5 | 5.6152152E-5 | 1.0 | 0.0 | 7.9020765E-4 | 6.834439E-4 | 6.834439E-4 | 1.0 | 0.0 | 0.007874036 | 0.0068153697 | 0.0068352334 | 1.0029145 | 2.0E-5 |
+| 6.6 | 1.295588E-5 | 1.0381985E-5 | 1.0381985E-5 | 1.0 | 0.0 | 5.552402E-5 | 4.449347E-5 | 4.449347E-5 | 1.0 | 0.0 | 6.7579525E-4 | 5.415753E-4 | 5.415753E-4 | 1.0 | 0.0 | 0.006737438 | 0.005403989 | 0.0054238806 | 1.003681 | 2.0E-5 |
+| 6.7 | 1.2542085E-5 | 9.900597E-6 | 9.900597E-6 | 1.0 | 0.0 | 5.3750682E-5 | 4.2430453E-5 | 4.2430453E-5 | 1.0 | 0.0 | 6.542181E-4 | 5.164702E-4 | 5.164702E-4 | 1.0 | 0.0 | 0.006522954 | 0.0051541165 | 0.005174014 | 1.0038604 | 2.0E-5 |
+| 6.8 | 1.2195878E-5 | 9.496602E-6 | 9.496602E-6 | 1.0 | 0.0 | 5.2267E-5 | 4.0699095E-5 | 4.0699095E-5 | 1.0 | 0.0 | 6.36165E-4 | 4.954007E-4 | 4.954007E-4 | 1.0 | 0.0 | 0.0063434686 | 0.0049443045 | 0.0049642054 | 1.0040251 | 2.0E-5 |
+| 6.9 | 1.1580298E-5 | 8.774055E-6 | 8.774055E-6 | 1.0 | 0.0 | 4.9628903E-5 | 3.760256E-5 | 3.760256E-5 | 1.0 | 0.0 | 6.040644E-4 | 4.5771664E-4 | 4.5771664E-4 | 1.0 | 0.0 | 0.00602425 | 0.0045689982 | 0.004588907 | 1.0043573 | 2.0E-5 |
+| 7.0 | 1.0964795E-5 | 8.08506E-6 | 8.08506E-6 | 1.0 | 0.0 | 4.6991136E-5 | 3.46498E-5 | 3.46498E-5 | 1.0 | 0.0 | 5.7196687E-4 | 4.217812E-4 | 4.217812E-4 | 1.0 | 0.0 | 0.0057049696 | 0.004211015 | 0.004230931 | 1.0047294 | 2.0E-5 |
+| 7.1 | 1.0230601E-5 | 7.327553E-6 | 7.327553E-6 | 1.0 | 0.0 | 4.3844695E-5 | 3.1403426E-5 | 3.1403426E-5 | 1.0 | 0.0 | 5.336784E-4 | 3.8227096E-4 | 3.8227096E-4 | 1.0 | 0.0 | 0.005323986 | 0.0038172973 | 0.0038372208 | 1.0052193 | 2.0E-5 |
+| 7.2 | 9.40865E-6 | 6.5440786E-6 | 6.5440786E-6 | 1.0 | 0.0 | 4.032216E-5 | 2.8045757E-5 | 2.8045757E-5 | 1.0 | 0.0 | 4.908117E-4 | 3.414048E-4 | 3.414048E-4 | 1.0 | 0.0 | 0.0048972913 | 0.0034098956 | 0.0034198617 | 1.0029227 | 1.0E-5 |
+| 7.3 | 8.237384E-6 | 5.598426E-6 | 5.598426E-6 | 1.0 | 0.0 | 3.5302593E-5 | 2.399304E-5 | 2.399304E-5 | 1.0 | 0.0 | 4.2972428E-4 | 2.9207714E-4 | 2.9207714E-4 | 1.0 | 0.0 | 0.0042889426 | 0.0029172536 | 0.0029272244 | 1.0034178 | 1.0E-5 |
+| 7.4 | 7.5316966E-6 | 5.028428E-6 | 5.028428E-6 | 1.0 | 0.0 | 3.2278298E-5 | 2.1550233E-5 | 2.1550233E-5 | 1.0 | 0.0 | 3.9291743E-4 | 2.6234353E-4 | 2.6234353E-4 | 1.0 | 0.0 | 0.0039222343 | 0.00262045 | 0.002630424 | 1.0038061 | 1.0E-5 |
+| 7.5 | 6.149649E-6 | 3.934318E-6 | 3.934318E-6 | 1.0 | 0.0 | 2.6355372E-5 | 1.686126E-5 | 1.686126E-5 | 1.0 | 0.0 | 3.208294E-4 | 2.0526741E-4 | 2.0526741E-4 | 1.0 | 0.0 | 0.003203666 | 0.0020508673 | 0.0020508673 | 1.0 | 0.0 |
+| 7.6 | 5.457711E-6 | 3.395795E-6 | 3.395795E-6 | 1.0 | 0.0 | 2.338998E-5 | 1.455333E-5 | 1.455333E-5 | 1.0 | 0.0 | 2.8473578E-4 | 1.771732E-4 | 1.771732E-4 | 1.0 | 0.0 | 0.0028437122 | 0.0017704003 | 0.0017704003 | 1.0 | 0.0 |
+| 7.7 | 4.1676276E-6 | 2.3335126E-6 | 2.3335126E-6 | 1.0 | 0.0 | 1.7861139E-5 | 1.0000734E-5 | 1.0000734E-5 | 1.0 | 0.0 | 2.1743766E-4 | 1.2175288E-4 | 1.2175288E-4 | 1.0 | 0.0 | 0.0021722503 | 0.0012169348 | 0.0012169348 | 1.0 | 0.0 |
+| 7.8 | 2.2692414E-7 | 9.386795E-8 | 9.386795E-8 | 1.0 | 0.0 | 9.725317E-7 | 4.0229116E-7 | 4.0229116E-7 | 1.0 | 0.0 | 1.1840509E-5 | 4.8978873E-6 | 4.8978873E-6 | 1.0 | 0.0 | 1.1839878E-4 | 4.897812E-5 | 4.897812E-5 | 1.0 | 0.0 |
+| 7.9 | 6.676829E-9 | 3.440201E-9 | 3.440201E-9 | 1.0 | 0.0 | 2.861498E-8 | 1.4743717E-8 | 1.4743717E-8 | 1.0 | 0.0 | 3.4838732E-7 | 1.7950475E-7 | 1.7950475E-7 | 1.0 | 0.0 | 3.4838679E-6 | 1.7950462E-6 | 1.7950462E-6 | 1.0 | 0.0 |
+
+## Cleghorn Lake
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Cleghorn_Lake_1wk.png) | ![MPD](Cleghorn_Lake_1mo.png) | ![MPD](Cleghorn_Lake_1yr.png) | ![MPD](Cleghorn_Lake_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.5467183E-5 | 1.679474E-5 | 1.679474E-5 | 1.0 | 0.0 | 6.6286244E-5 | 7.197578E-5 | 8.1975064E-5 | 1.1389257 | 1.0E-5 | 8.067362E-4 | 8.760077E-4 | 8.9599023E-4 | 1.0228108 | 2.0E-5 | 0.008038137 | 0.008730974 | 0.008770624 | 1.0045414 | 4.0E-5 |
+| 6.1 | 1.5467183E-5 | 1.679474E-5 | 1.679474E-5 | 1.0 | 0.0 | 6.6286244E-5 | 7.197578E-5 | 8.1975064E-5 | 1.1389257 | 1.0E-5 | 8.067362E-4 | 8.760077E-4 | 8.9599023E-4 | 1.0228108 | 2.0E-5 | 0.008038137 | 0.008730974 | 0.008770624 | 1.0045414 | 4.0E-5 |
+| 6.2 | 1.2624631E-5 | 1.3681972E-5 | 1.3681972E-5 | 1.0 | 0.0 | 5.410444E-5 | 5.863598E-5 | 6.863539E-5 | 1.1705338 | 1.0E-5 | 6.585225E-4 | 7.137079E-4 | 7.336936E-4 | 1.0280026 | 2.0E-5 | 0.0065657445 | 0.0071189534 | 0.0071586687 | 1.0055788 | 4.0E-5 |
+| 6.3 | 1.2624631E-5 | 1.3681972E-5 | 1.3681972E-5 | 1.0 | 0.0 | 5.410444E-5 | 5.863598E-5 | 6.863539E-5 | 1.1705338 | 1.0E-5 | 6.585225E-4 | 7.137079E-4 | 7.336936E-4 | 1.0280026 | 2.0E-5 | 0.0065657445 | 0.0071189534 | 0.0071586687 | 1.0055788 | 4.0E-5 |
+| 6.4 | 9.417684E-6 | 1.0170421E-5 | 1.0170421E-5 | 1.0 | 0.0 | 4.036088E-5 | 4.358702E-5 | 5.3586584E-5 | 1.2294161 | 1.0E-5 | 4.912829E-4 | 5.3058384E-4 | 5.505732E-4 | 1.0376743 | 2.0E-5 | 0.004901982 | 0.005297207 | 0.005317101 | 1.0037556 | 2.0E-5 |
+| 6.5 | 9.368219E-6 | 1.0117847E-5 | 1.0117847E-5 | 1.0 | 0.0 | 4.014889E-5 | 4.336171E-5 | 5.3361277E-5 | 1.2306082 | 1.0E-5 | 4.8870314E-4 | 5.27842E-4 | 5.4783147E-4 | 1.0378702 | 2.0E-5 | 0.004876298 | 0.0052699186 | 0.005289813 | 1.0037751 | 2.0E-5 |
+| 6.6 | 7.803798E-6 | 8.442088E-6 | 8.442088E-6 | 1.0 | 0.0 | 3.3444423E-5 | 3.6180103E-5 | 4.617974E-5 | 1.2763851 | 1.0E-5 | 4.0710976E-4 | 4.4044363E-4 | 4.5043923E-4 | 1.0226943 | 1.0E-5 | 0.0040636472 | 0.004399624 | 0.0044095805 | 1.002263 | 1.0E-5 |
+| 6.7 | 2.3108669E-6 | 2.443886E-6 | 2.443886E-6 | 1.0 | 0.0 | 9.903678E-6 | 1.04737555E-5 | 1.04737555E-5 | 1.0 | 0.0 | 1.205706E-4 | 1.275107E-4 | 1.275107E-4 | 1.0 | 0.0 | 0.001205052 | 0.001274394 | 0.001274394 | 1.0 | 0.0 |
+| 6.8 | 2.0882828E-6 | 2.2063284E-6 | 2.2063284E-6 | 1.0 | 0.0 | 8.949753E-6 | 9.455661E-6 | 9.455661E-6 | 1.0 | 0.0 | 1.08957785E-4 | 1.1511675E-4 | 1.1511675E-4 | 1.0 | 0.0 | 0.0010890438 | 0.001150588 | 0.001150588 | 1.0 | 0.0 |
+| 6.9 | 1.876935E-6 | 1.9810918E-6 | 1.9810918E-6 | 1.0 | 0.0 | 8.043982E-6 | 8.490367E-6 | 8.490367E-6 | 1.0 | 0.0 | 9.7931086E-5 | 1.0336548E-4 | 1.0336548E-4 | 1.0 | 0.0 | 9.788794E-4 | 0.0010331899 | 0.0010331899 | 1.0 | 0.0 |
+| 7.0 | 1.5357559E-6 | 1.6203138E-6 | 1.6203138E-6 | 1.0 | 0.0 | 6.5817944E-6 | 6.9441844E-6 | 6.9441844E-6 | 1.0 | 0.0 | 8.01304E-5 | 8.454229E-5 | 8.454229E-5 | 1.0 | 0.0 | 8.010151E-4 | 8.4511377E-4 | 8.4511377E-4 | 1.0 | 0.0 |
+| 7.1 | 1.0905424E-6 | 1.1497851E-6 | 1.1497851E-6 | 1.0 | 0.0 | 4.6737446E-6 | 4.927642E-6 | 4.927642E-6 | 1.0 | 0.0 | 5.6901354E-5 | 5.999249E-5 | 5.999249E-5 | 1.0 | 0.0 | 5.6886784E-4 | 5.997727E-4 | 5.997727E-4 | 1.0 | 0.0 |
+| 7.2 | 6.06668E-7 | 6.387403E-7 | 6.387403E-7 | 1.0 | 0.0 | 2.600003E-6 | 2.7374558E-6 | 2.7374558E-6 | 1.0 | 0.0 | 3.1654577E-5 | 3.3328084E-5 | 3.3328084E-5 | 1.0 | 0.0 | 3.1650066E-4 | 3.3323772E-4 | 3.3323772E-4 | 1.0 | 0.0 |
+
 ## Big Pine (Central)
 *[(top)](#table-of-contents)*
 
@@ -2605,6 +2676,24 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.7 | 1.7972785E-7 | 5.0831034E-7 | 5.0831034E-7 | 1.0 | 0.0 | 7.70262E-7 | 2.178471E-6 | 2.178471E-6 | 1.0 | 0.0 | 9.377899E-6 | 2.6522574E-5 | 2.6522574E-5 | 1.0 | 0.0 | 9.377503E-5 | 2.6656085E-4 | 2.6656085E-4 | 1.0 | 0.0 |
 | 7.8 | 4.9230927E-8 | 1.1993416E-7 | 1.1993416E-7 | 1.0 | 0.0 | 2.1098968E-7 | 5.1400343E-7 | 5.1400343E-7 | 1.0 | 0.0 | 2.5687964E-6 | 6.2579757E-6 | 6.2579757E-6 | 1.0 | 0.0 | 2.5687666E-5 | 6.3018786E-5 | 6.3018786E-5 | 1.0 | 0.0 |
 | 7.9 | 3.6805972E-9 | 4.1102663E-9 | 4.1102663E-9 | 1.0 | 0.0 | 1.5773987E-8 | 1.7615427E-8 | 1.7615427E-8 | 1.0 | 0.0 | 1.9204828E-7 | 2.1446782E-7 | 2.1446782E-7 | 1.0 | 0.0 | 1.920481E-6 | 2.1926676E-6 | 2.1926676E-6 | 1.0 | 0.0 |
+
+## Dry Mountain
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Dry_Mountain_1wk.png) | ![MPD](Dry_Mountain_1mo.png) | ![MPD](Dry_Mountain_1yr.png) | ![MPD](Dry_Mountain_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 6.222801E-6 | 6.4394644E-6 | 1.64394E-5 | 2.5529141 | 1.0E-5 | 2.6668875E-5 | 2.7597504E-5 | 4.759695E-5 | 1.7246833 | 2.0E-5 | 3.2464517E-4 | 3.359637E-4 | 3.7595027E-4 | 1.1190205 | 4.0E-5 | 0.0032417132 | 0.00335612 | 0.003395986 | 1.0118785 | 4.0E-5 |
+| 6.1 | 6.222801E-6 | 6.4394644E-6 | 1.64394E-5 | 2.5529141 | 1.0E-5 | 2.6668875E-5 | 2.7597504E-5 | 4.759695E-5 | 1.7246833 | 2.0E-5 | 3.2464517E-4 | 3.359637E-4 | 3.7595027E-4 | 1.1190205 | 4.0E-5 | 0.0032417132 | 0.00335612 | 0.003395986 | 1.0118785 | 4.0E-5 |
+| 6.2 | 6.222801E-6 | 6.4394644E-6 | 1.64394E-5 | 2.5529141 | 1.0E-5 | 2.6668875E-5 | 2.7597504E-5 | 4.759695E-5 | 1.7246833 | 2.0E-5 | 3.2464517E-4 | 3.359637E-4 | 3.7595027E-4 | 1.1190205 | 4.0E-5 | 0.0032417132 | 0.00335612 | 0.003395986 | 1.0118785 | 4.0E-5 |
+| 6.3 | 6.222801E-6 | 6.4394644E-6 | 1.64394E-5 | 2.5529141 | 1.0E-5 | 2.6668875E-5 | 2.7597504E-5 | 4.759695E-5 | 1.7246833 | 2.0E-5 | 3.2464517E-4 | 3.359637E-4 | 3.7595027E-4 | 1.1190205 | 4.0E-5 | 0.0032417132 | 0.00335612 | 0.003395986 | 1.0118785 | 4.0E-5 |
+| 6.4 | 6.222801E-6 | 6.4394644E-6 | 1.64394E-5 | 2.5529141 | 1.0E-5 | 2.6668875E-5 | 2.7597504E-5 | 4.759695E-5 | 1.7246833 | 2.0E-5 | 3.2464517E-4 | 3.359637E-4 | 3.7595027E-4 | 1.1190205 | 4.0E-5 | 0.0032417132 | 0.00335612 | 0.003395986 | 1.0118785 | 4.0E-5 |
+| 6.5 | 2.8528623E-6 | 2.9522066E-6 | 2.9522066E-6 | 1.0 | 0.0 | 1.22264955E-5 | 1.2652302E-5 | 2.2652175E-5 | 1.7903601 | 1.0E-5 | 1.4884741E-4 | 1.5403959E-4 | 1.8403496E-4 | 1.1947252 | 3.0E-5 | 0.0014874774 | 0.0015401816 | 0.0015701354 | 1.0194483 | 3.0E-5 |
+| 6.6 | 2.8528623E-6 | 2.9522066E-6 | 2.9522066E-6 | 1.0 | 0.0 | 1.22264955E-5 | 1.2652302E-5 | 2.2652175E-5 | 1.7903601 | 1.0E-5 | 1.4884741E-4 | 1.5403959E-4 | 1.8403496E-4 | 1.1947252 | 3.0E-5 | 0.0014874774 | 0.0015401816 | 0.0015701354 | 1.0194483 | 3.0E-5 |
+| 6.7 | 2.541E-6 | 2.629392E-6 | 2.629392E-6 | 1.0 | 0.0 | 1.0889954E-5 | 1.1268822E-5 | 2.126871E-5 | 1.8873942 | 1.0E-5 | 1.3257713E-4 | 1.3719792E-4 | 1.671938E-4 | 1.2186322 | 3.0E-5 | 0.0013249806 | 0.0013719791 | 0.0014019379 | 1.0218363 | 3.0E-5 |
 
 ## Oak Ridge (Onshore)
 *[(top)](#table-of-contents)*
@@ -2637,99 +2726,32 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.9 | 2.721225E-7 | 2.2617105E-7 | 2.2617105E-7 | 1.0 | 0.0 | 1.1662388E-6 | 9.693042E-7 | 9.693042E-7 | 1.0 | 0.0 | 1.4198865E-5 | 1.1801218E-5 | 1.1801218E-5 | 1.0 | 0.0 | 1.4197957E-4 | 1.1800619E-4 | 1.1800619E-4 | 1.0 | 0.0 |
 | 8.0 | 9.364255E-9 | 5.1213855E-9 | 5.1213855E-9 | 1.0 | 0.0 | 4.0132523E-8 | 2.1948797E-8 | 2.1948797E-8 | 1.0 | 0.0 | 4.8861335E-7 | 2.6722657E-7 | 2.6722657E-7 | 1.0 | 0.0 | 4.8861225E-6 | 2.6722628E-6 | 2.6722628E-6 | 1.0 | 0.0 |
 
-## Ortigalita (North)
+## Kern Canyon (South Kern) 2011
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Ortigalita_North_1wk.png) | ![MPD](Ortigalita_North_1mo.png) | ![MPD](Ortigalita_North_1yr.png) | ![MPD](Ortigalita_North_10yr.png) |
+| ![MPD](Kern_Canyon_South_Kern_2011_1wk.png) | ![MPD](Kern_Canyon_South_Kern_2011_1mo.png) | ![MPD](Kern_Canyon_South_Kern_2011_1yr.png) | ![MPD](Kern_Canyon_South_Kern_2011_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 7.711876E-5 | 1.0507971E-4 | 1.0507971E-4 | 1.0 | 0.0 | 3.3046713E-4 | 4.5027473E-4 | 4.6027024E-4 | 1.0221987 | 1.0E-5 | 0.004016016 | 0.0054687066 | 0.0054985425 | 1.0054557 | 3.0E-5 | 0.039442103 | 0.053461075 | 0.053498935 | 1.0007082 | 4.0E-5 |
-| 6.1 | 4.607858E-5 | 6.0246308E-5 | 6.0246308E-5 | 1.0 | 0.0 | 1.9746469E-4 | 2.581757E-4 | 2.681731E-4 | 1.0387233 | 1.0E-5 | 0.0024014818 | 0.0031391045 | 0.0031490729 | 1.0031756 | 1.0E-5 | 0.023756953 | 0.030978423 | 0.030997803 | 1.0006256 | 2.0E-5 |
-| 6.2 | 4.607858E-5 | 6.0246308E-5 | 6.0246308E-5 | 1.0 | 0.0 | 1.9746469E-4 | 2.581757E-4 | 2.681731E-4 | 1.0387233 | 1.0E-5 | 0.0024014818 | 0.0031391045 | 0.0031490729 | 1.0031756 | 1.0E-5 | 0.023756953 | 0.030978423 | 0.030997803 | 1.0006256 | 2.0E-5 |
-| 6.3 | 3.327423E-5 | 4.2479634E-5 | 4.2479634E-5 | 1.0 | 0.0 | 1.4259605E-4 | 1.8204462E-4 | 1.8204462E-4 | 1.0 | 0.0 | 0.0017347244 | 0.0022144287 | 0.0022144287 | 1.0 | 0.0 | 0.017212452 | 0.021947866 | 0.021947866 | 1.0 | 0.0 |
-| 6.4 | 2.7732503E-5 | 3.5002122E-5 | 3.5002122E-5 | 1.0 | 0.0 | 1.1884817E-4 | 1.5000197E-4 | 1.5000197E-4 | 1.0 | 0.0 | 0.001446016 | 0.0018249901 | 0.0018249901 | 1.0 | 0.0 | 0.014366428 | 0.018122995 | 0.018122995 | 1.0 | 0.0 |
-| 6.5 | 2.7689714E-5 | 3.4951932E-5 | 3.4951932E-5 | 1.0 | 0.0 | 1.186648E-4 | 1.4978691E-4 | 1.4978691E-4 | 1.0 | 0.0 | 0.0014437864 | 0.001822376 | 0.001822376 | 1.0 | 0.0 | 0.014344421 | 0.01809728 | 0.01809728 | 1.0 | 0.0 |
-| 6.6 | 2.2976905E-5 | 2.8721039E-5 | 2.8721039E-5 | 1.0 | 0.0 | 9.846873E-5 | 1.2308579E-4 | 1.2308579E-4 | 1.0 | 0.0 | 0.0011981975 | 0.0014977782 | 0.0014977782 | 1.0 | 0.0 | 0.011917574 | 0.014900108 | 0.014900108 | 1.0 | 0.0 |
-| 6.7 | 1.9871539E-5 | 2.4906842E-5 | 2.4906842E-5 | 1.0 | 0.0 | 8.516096E-5 | 1.0674064E-4 | 1.0674064E-4 | 1.0 | 0.0 | 0.0010363415 | 0.0012990412 | 0.0012990412 | 1.0 | 0.0 | 0.010315218 | 0.012938168 | 0.012938168 | 1.0 | 0.0 |
-| 6.8 | 6.5640475E-6 | 7.6059414E-6 | 7.6059414E-6 | 1.0 | 0.0 | 2.813133E-5 | 3.25965E-5 | 3.25965E-5 | 1.0 | 0.0 | 3.424451E-4 | 3.9679298E-4 | 3.9679298E-4 | 1.0 | 0.0 | 0.0034191788 | 0.0039611324 | 0.0039611324 | 1.0 | 0.0 |
-| 6.9 | 5.6219683E-6 | 6.5022164E-6 | 6.5022164E-6 | 1.0 | 0.0 | 2.4093928E-5 | 2.7866357E-5 | 2.7866357E-5 | 1.0 | 0.0 | 2.933041E-4 | 3.3922266E-4 | 3.3922266E-4 | 1.0 | 0.0 | 0.0029291727 | 0.0033873057 | 0.0033873057 | 1.0 | 0.0 |
-| 7.0 | 3.875591E-6 | 4.485017E-6 | 4.485017E-6 | 1.0 | 0.0 | 1.6609569E-5 | 1.9221372E-5 | 1.9221372E-5 | 1.0 | 0.0 | 2.0220275E-4 | 2.3399718E-4 | 2.3399718E-4 | 1.0 | 0.0 | 0.0020201886 | 0.0023377163 | 0.0023377163 | 1.0 | 0.0 |
-| 7.1 | 1.6017933E-6 | 1.8571518E-6 | 1.8571518E-6 | 1.0 | 0.0 | 6.8648105E-6 | 7.959204E-6 | 7.959204E-6 | 1.0 | 0.0 | 8.357586E-5 | 9.690007E-5 | 9.690007E-5 | 1.0 | 0.0 | 8.3544437E-4 | 9.686828E-4 | 9.686828E-4 | 1.0 | 0.0 |
-
-## Dry Mountain
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Dry_Mountain_1wk.png) | ![MPD](Dry_Mountain_1mo.png) | ![MPD](Dry_Mountain_1yr.png) | ![MPD](Dry_Mountain_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 6.222801E-6 | 6.4394644E-6 | 1.64394E-5 | 2.5529141 | 1.0E-5 | 2.6668875E-5 | 2.7597504E-5 | 4.759695E-5 | 1.7246833 | 2.0E-5 | 3.2464517E-4 | 3.359637E-4 | 3.7595027E-4 | 1.1190205 | 4.0E-5 | 0.0032417132 | 0.00335612 | 0.003395986 | 1.0118785 | 4.0E-5 |
-| 6.1 | 6.222801E-6 | 6.4394644E-6 | 1.64394E-5 | 2.5529141 | 1.0E-5 | 2.6668875E-5 | 2.7597504E-5 | 4.759695E-5 | 1.7246833 | 2.0E-5 | 3.2464517E-4 | 3.359637E-4 | 3.7595027E-4 | 1.1190205 | 4.0E-5 | 0.0032417132 | 0.00335612 | 0.003395986 | 1.0118785 | 4.0E-5 |
-| 6.2 | 6.222801E-6 | 6.4394644E-6 | 1.64394E-5 | 2.5529141 | 1.0E-5 | 2.6668875E-5 | 2.7597504E-5 | 4.759695E-5 | 1.7246833 | 2.0E-5 | 3.2464517E-4 | 3.359637E-4 | 3.7595027E-4 | 1.1190205 | 4.0E-5 | 0.0032417132 | 0.00335612 | 0.003395986 | 1.0118785 | 4.0E-5 |
-| 6.3 | 6.222801E-6 | 6.4394644E-6 | 1.64394E-5 | 2.5529141 | 1.0E-5 | 2.6668875E-5 | 2.7597504E-5 | 4.759695E-5 | 1.7246833 | 2.0E-5 | 3.2464517E-4 | 3.359637E-4 | 3.7595027E-4 | 1.1190205 | 4.0E-5 | 0.0032417132 | 0.00335612 | 0.003395986 | 1.0118785 | 4.0E-5 |
-| 6.4 | 6.222801E-6 | 6.4394644E-6 | 1.64394E-5 | 2.5529141 | 1.0E-5 | 2.6668875E-5 | 2.7597504E-5 | 4.759695E-5 | 1.7246833 | 2.0E-5 | 3.2464517E-4 | 3.359637E-4 | 3.7595027E-4 | 1.1190205 | 4.0E-5 | 0.0032417132 | 0.00335612 | 0.003395986 | 1.0118785 | 4.0E-5 |
-| 6.5 | 2.8528623E-6 | 2.9522066E-6 | 2.9522066E-6 | 1.0 | 0.0 | 1.22264955E-5 | 1.2652302E-5 | 2.2652175E-5 | 1.7903601 | 1.0E-5 | 1.4884741E-4 | 1.5403959E-4 | 1.8403496E-4 | 1.1947252 | 3.0E-5 | 0.0014874774 | 0.0015401816 | 0.0015701354 | 1.0194483 | 3.0E-5 |
-| 6.6 | 2.8528623E-6 | 2.9522066E-6 | 2.9522066E-6 | 1.0 | 0.0 | 1.22264955E-5 | 1.2652302E-5 | 2.2652175E-5 | 1.7903601 | 1.0E-5 | 1.4884741E-4 | 1.5403959E-4 | 1.8403496E-4 | 1.1947252 | 3.0E-5 | 0.0014874774 | 0.0015401816 | 0.0015701354 | 1.0194483 | 3.0E-5 |
-| 6.7 | 2.541E-6 | 2.629392E-6 | 2.629392E-6 | 1.0 | 0.0 | 1.0889954E-5 | 1.1268822E-5 | 2.126871E-5 | 1.8873942 | 1.0E-5 | 1.3257713E-4 | 1.3719792E-4 | 1.671938E-4 | 1.2186322 | 3.0E-5 | 0.0013249806 | 0.0013719791 | 0.0014019379 | 1.0218363 | 3.0E-5 |
-
-## Whittier alt 1
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Whittier_alt_1_1wk.png) | ![MPD](Whittier_alt_1_1mo.png) | ![MPD](Whittier_alt_1_1yr.png) | ![MPD](Whittier_alt_1_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.2554693E-5 | 4.7255566E-5 | 4.7255566E-5 | 1.0 | 0.0 | 1.8236451E-4 | 2.0250995E-4 | 2.0250995E-4 | 1.0 | 0.0 | 0.002218027 | 0.0024630916 | 0.002473067 | 1.0040499 | 1.0E-5 | 0.02196019 | 0.02439196 | 0.024430985 | 1.0015999 | 4.0E-5 |
-| 6.1 | 4.2554693E-5 | 4.7255566E-5 | 4.7255566E-5 | 1.0 | 0.0 | 1.8236451E-4 | 2.0250995E-4 | 2.0250995E-4 | 1.0 | 0.0 | 0.002218027 | 0.0024630916 | 0.002473067 | 1.0040499 | 1.0E-5 | 0.02196019 | 0.02439196 | 0.024430985 | 1.0015999 | 4.0E-5 |
-| 6.2 | 4.2554693E-5 | 4.7255566E-5 | 4.7255566E-5 | 1.0 | 0.0 | 1.8236451E-4 | 2.0250995E-4 | 2.0250995E-4 | 1.0 | 0.0 | 0.002218027 | 0.0024630916 | 0.002473067 | 1.0040499 | 1.0E-5 | 0.02196019 | 0.02439196 | 0.024430985 | 1.0015999 | 4.0E-5 |
-| 6.3 | 1.9617712E-5 | 1.8270406E-5 | 1.8270406E-5 | 1.0 | 0.0 | 8.40732E-5 | 7.82995E-5 | 7.82995E-5 | 1.0 | 0.0 | 0.0010231105 | 9.528985E-4 | 9.528985E-4 | 1.0 | 0.0 | 0.01018413 | 0.00949141 | 0.00951122 | 1.0020871 | 2.0E-5 |
-| 6.4 | 1.5611336E-5 | 1.3605806E-5 | 1.3605806E-5 | 1.0 | 0.0 | 6.690401E-5 | 5.8309328E-5 | 5.8309328E-5 | 1.0 | 0.0 | 8.142519E-4 | 7.0969085E-4 | 7.0969085E-4 | 1.0 | 0.0 | 0.008112748 | 0.0070762085 | 0.007096067 | 1.0028064 | 2.0E-5 |
-| 6.5 | 1.5150166E-5 | 1.3102443E-5 | 1.3102443E-5 | 1.0 | 0.0 | 6.492767E-5 | 5.6152152E-5 | 5.6152152E-5 | 1.0 | 0.0 | 7.9020765E-4 | 6.834439E-4 | 6.834439E-4 | 1.0 | 0.0 | 0.007874036 | 0.0068153697 | 0.0068352334 | 1.0029145 | 2.0E-5 |
-| 6.6 | 1.295588E-5 | 1.0381985E-5 | 1.0381985E-5 | 1.0 | 0.0 | 5.552402E-5 | 4.449347E-5 | 4.449347E-5 | 1.0 | 0.0 | 6.7579525E-4 | 5.415753E-4 | 5.415753E-4 | 1.0 | 0.0 | 0.006737438 | 0.005403989 | 0.0054238806 | 1.003681 | 2.0E-5 |
-| 6.7 | 1.2542085E-5 | 9.900597E-6 | 9.900597E-6 | 1.0 | 0.0 | 5.3750682E-5 | 4.2430453E-5 | 4.2430453E-5 | 1.0 | 0.0 | 6.542181E-4 | 5.164702E-4 | 5.164702E-4 | 1.0 | 0.0 | 0.006522954 | 0.0051541165 | 0.005174014 | 1.0038604 | 2.0E-5 |
-| 6.8 | 1.2195878E-5 | 9.496602E-6 | 9.496602E-6 | 1.0 | 0.0 | 5.2267E-5 | 4.0699095E-5 | 4.0699095E-5 | 1.0 | 0.0 | 6.36165E-4 | 4.954007E-4 | 4.954007E-4 | 1.0 | 0.0 | 0.0063434686 | 0.0049443045 | 0.0049642054 | 1.0040251 | 2.0E-5 |
-| 6.9 | 1.1580298E-5 | 8.774055E-6 | 8.774055E-6 | 1.0 | 0.0 | 4.9628903E-5 | 3.760256E-5 | 3.760256E-5 | 1.0 | 0.0 | 6.040644E-4 | 4.5771664E-4 | 4.5771664E-4 | 1.0 | 0.0 | 0.00602425 | 0.0045689982 | 0.004588907 | 1.0043573 | 2.0E-5 |
-| 7.0 | 1.0964795E-5 | 8.08506E-6 | 8.08506E-6 | 1.0 | 0.0 | 4.6991136E-5 | 3.46498E-5 | 3.46498E-5 | 1.0 | 0.0 | 5.7196687E-4 | 4.217812E-4 | 4.217812E-4 | 1.0 | 0.0 | 0.0057049696 | 0.004211015 | 0.004230931 | 1.0047294 | 2.0E-5 |
-| 7.1 | 1.0230601E-5 | 7.327553E-6 | 7.327553E-6 | 1.0 | 0.0 | 4.3844695E-5 | 3.1403426E-5 | 3.1403426E-5 | 1.0 | 0.0 | 5.336784E-4 | 3.8227096E-4 | 3.8227096E-4 | 1.0 | 0.0 | 0.005323986 | 0.0038172973 | 0.0038372208 | 1.0052193 | 2.0E-5 |
-| 7.2 | 9.40865E-6 | 6.5440786E-6 | 6.5440786E-6 | 1.0 | 0.0 | 4.032216E-5 | 2.8045757E-5 | 2.8045757E-5 | 1.0 | 0.0 | 4.908117E-4 | 3.414048E-4 | 3.414048E-4 | 1.0 | 0.0 | 0.0048972913 | 0.0034098956 | 0.0034198617 | 1.0029227 | 1.0E-5 |
-| 7.3 | 8.237384E-6 | 5.598426E-6 | 5.598426E-6 | 1.0 | 0.0 | 3.5302593E-5 | 2.399304E-5 | 2.399304E-5 | 1.0 | 0.0 | 4.2972428E-4 | 2.9207714E-4 | 2.9207714E-4 | 1.0 | 0.0 | 0.0042889426 | 0.0029172536 | 0.0029272244 | 1.0034178 | 1.0E-5 |
-| 7.4 | 7.5316966E-6 | 5.028428E-6 | 5.028428E-6 | 1.0 | 0.0 | 3.2278298E-5 | 2.1550233E-5 | 2.1550233E-5 | 1.0 | 0.0 | 3.9291743E-4 | 2.6234353E-4 | 2.6234353E-4 | 1.0 | 0.0 | 0.0039222343 | 0.00262045 | 0.002630424 | 1.0038061 | 1.0E-5 |
-| 7.5 | 6.149649E-6 | 3.934318E-6 | 3.934318E-6 | 1.0 | 0.0 | 2.6355372E-5 | 1.686126E-5 | 1.686126E-5 | 1.0 | 0.0 | 3.208294E-4 | 2.0526741E-4 | 2.0526741E-4 | 1.0 | 0.0 | 0.003203666 | 0.0020508673 | 0.0020508673 | 1.0 | 0.0 |
-| 7.6 | 5.457711E-6 | 3.395795E-6 | 3.395795E-6 | 1.0 | 0.0 | 2.338998E-5 | 1.455333E-5 | 1.455333E-5 | 1.0 | 0.0 | 2.8473578E-4 | 1.771732E-4 | 1.771732E-4 | 1.0 | 0.0 | 0.0028437122 | 0.0017704003 | 0.0017704003 | 1.0 | 0.0 |
-| 7.7 | 4.1676276E-6 | 2.3335126E-6 | 2.3335126E-6 | 1.0 | 0.0 | 1.7861139E-5 | 1.0000734E-5 | 1.0000734E-5 | 1.0 | 0.0 | 2.1743766E-4 | 1.2175288E-4 | 1.2175288E-4 | 1.0 | 0.0 | 0.0021722503 | 0.0012169348 | 0.0012169348 | 1.0 | 0.0 |
-| 7.8 | 2.2692414E-7 | 9.386795E-8 | 9.386795E-8 | 1.0 | 0.0 | 9.725317E-7 | 4.0229116E-7 | 4.0229116E-7 | 1.0 | 0.0 | 1.1840509E-5 | 4.8978873E-6 | 4.8978873E-6 | 1.0 | 0.0 | 1.1839878E-4 | 4.897812E-5 | 4.897812E-5 | 1.0 | 0.0 |
-| 7.9 | 6.676829E-9 | 3.440201E-9 | 3.440201E-9 | 1.0 | 0.0 | 2.861498E-8 | 1.4743717E-8 | 1.4743717E-8 | 1.0 | 0.0 | 3.4838732E-7 | 1.7950475E-7 | 1.7950475E-7 | 1.0 | 0.0 | 3.4838679E-6 | 1.7950462E-6 | 1.7950462E-6 | 1.0 | 0.0 |
-
-## Pisgah-Bullion Mtn-Mesquite Lk
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Pisgah_Bullion_Mtn_Mesquite_Lk_1wk.png) | ![MPD](Pisgah_Bullion_Mtn_Mesquite_Lk_1mo.png) | ![MPD](Pisgah_Bullion_Mtn_Mesquite_Lk_1yr.png) | ![MPD](Pisgah_Bullion_Mtn_Mesquite_Lk_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 3.0240792E-5 | 2.4092184E-5 | 2.4092184E-5 | 1.0 | 0.0 | 1.2959696E-4 | 1.032487E-4 | 1.032487E-4 | 1.0 | 0.0 | 0.0015767008 | 0.0012564284 | 0.0012664158 | 1.0079491 | 1.0E-5 | 0.015655609 | 0.012503273 | 0.012542773 | 1.0031592 | 4.0E-5 |
-| 6.1 | 3.0240792E-5 | 2.4092184E-5 | 2.4092184E-5 | 1.0 | 0.0 | 1.2959696E-4 | 1.032487E-4 | 1.032487E-4 | 1.0 | 0.0 | 0.0015767008 | 0.0012564284 | 0.0012664158 | 1.0079491 | 1.0E-5 | 0.015655609 | 0.012503273 | 0.012542773 | 1.0031592 | 4.0E-5 |
-| 6.2 | 3.0240792E-5 | 2.4092184E-5 | 2.4092184E-5 | 1.0 | 0.0 | 1.2959696E-4 | 1.032487E-4 | 1.032487E-4 | 1.0 | 0.0 | 0.0015767008 | 0.0012564284 | 0.0012664158 | 1.0079491 | 1.0E-5 | 0.015655609 | 0.012503273 | 0.012542773 | 1.0031592 | 4.0E-5 |
-| 6.3 | 2.0498217E-5 | 1.3638587E-5 | 1.3638587E-5 | 1.0 | 0.0 | 8.784654E-5 | 5.844987E-5 | 5.844987E-5 | 1.0 | 0.0 | 0.0010690069 | 7.11411E-4 | 7.11411E-4 | 1.0 | 0.0 | 0.01063879 | 0.007092963 | 0.007112821 | 1.0027997 | 2.0E-5 |
-| 6.4 | 2.0498217E-5 | 1.3638587E-5 | 1.3638587E-5 | 1.0 | 0.0 | 8.784654E-5 | 5.844987E-5 | 5.844987E-5 | 1.0 | 0.0 | 0.0010690069 | 7.11411E-4 | 7.11411E-4 | 1.0 | 0.0 | 0.01063879 | 0.007092963 | 0.007112821 | 1.0027997 | 2.0E-5 |
-| 6.5 | 1.7316182E-5 | 1.0477421E-5 | 1.0477421E-5 | 1.0 | 0.0 | 7.42101E-5 | 4.4902514E-5 | 4.4902514E-5 | 1.0 | 0.0 | 9.0313336E-4 | 5.46561E-4 | 5.46561E-4 | 1.0 | 0.0 | 0.008994718 | 0.0054531633 | 0.0054631084 | 1.0018238 | 1.0E-5 |
-| 6.6 | 1.5251077E-5 | 8.414566E-6 | 8.414566E-6 | 1.0 | 0.0 | 6.536012E-5 | 3.606197E-5 | 3.606197E-5 | 1.0 | 0.0 | 7.9546886E-4 | 4.3897325E-4 | 4.3897325E-4 | 1.0 | 0.0 | 0.007926274 | 0.0043817786 | 0.004391735 | 1.0022721 | 1.0E-5 |
-| 6.7 | 1.2997425E-5 | 6.411711E-6 | 6.411711E-6 | 1.0 | 0.0 | 5.570206E-5 | 2.74785E-5 | 2.74785E-5 | 1.0 | 0.0 | 6.7796157E-4 | 3.3450403E-4 | 3.3450403E-4 | 1.0 | 0.0 | 0.0067589693 | 0.0033404655 | 0.0033404655 | 1.0 | 0.0 |
-| 6.8 | 1.035386E-5 | 4.333397E-6 | 4.333397E-6 | 1.0 | 0.0 | 4.437293E-5 | 1.8571576E-5 | 1.8571576E-5 | 1.0 | 0.0 | 5.401065E-4 | 2.2608634E-4 | 2.2608634E-4 | 1.0 | 0.0 | 0.0053879567 | 0.00225865 | 0.00225865 | 1.0 | 0.0 |
-| 6.9 | 8.816252E-6 | 3.5807898E-6 | 3.5807898E-6 | 1.0 | 0.0 | 3.778339E-5 | 1.5346155E-5 | 1.5346155E-5 | 1.0 | 0.0 | 4.5991567E-4 | 1.86824E-4 | 1.86824E-4 | 1.0 | 0.0 | 0.00458965 | 0.001866728 | 0.001866728 | 1.0 | 0.0 |
-| 7.0 | 6.8232207E-6 | 2.5677002E-6 | 2.5677002E-6 | 1.0 | 0.0 | 2.9242048E-5 | 1.1004385E-5 | 1.1004385E-5 | 1.0 | 0.0 | 3.5596377E-4 | 1.3397046E-4 | 1.3397046E-4 | 1.0 | 0.0 | 0.0035539411 | 0.001338928 | 0.001338928 | 1.0 | 0.0 |
-| 7.1 | 5.837013E-6 | 2.2274799E-6 | 2.2274799E-6 | 1.0 | 0.0 | 2.501553E-5 | 9.546308E-6 | 9.546308E-6 | 1.0 | 0.0 | 3.045215E-4 | 1.16220406E-4 | 1.16220406E-4 | 1.0 | 0.0 | 0.0030410455 | 0.0011616253 | 0.0011616253 | 1.0 | 0.0 |
-| 7.2 | 4.278052E-6 | 1.6276423E-6 | 1.6276423E-6 | 1.0 | 0.0 | 1.833438E-5 | 6.9755924E-6 | 6.9755924E-6 | 1.0 | 0.0 | 2.231982E-4 | 8.4924766E-5 | 8.4924766E-5 | 1.0 | 0.0 | 0.0022297418 | 8.4894634E-4 | 8.4894634E-4 | 1.0 | 0.0 |
-| 7.3 | 1.8803692E-6 | 8.3452414E-7 | 8.3452414E-7 | 1.0 | 0.0 | 8.0587E-6 | 3.5765281E-6 | 3.5765281E-6 | 1.0 | 0.0 | 9.811026E-5 | 4.3543507E-5 | 4.3543507E-5 | 1.0 | 0.0 | 9.806695E-4 | 4.353642E-4 | 4.353642E-4 | 1.0 | 0.0 |
+| 6.0 | 4.105075E-6 | 4.113755E-6 | 1.4113714E-5 | 3.430859 | 1.0E-5 | 1.7593058E-5 | 1.7630264E-5 | 3.762991E-5 | 2.134393 | 2.0E-5 | 2.1417443E-4 | 2.1462796E-4 | 2.446215E-4 | 1.1397468 | 3.0E-5 | 0.0021396813 | 0.0021442706 | 0.002184185 | 1.0186144 | 4.0E-5 |
+| 6.1 | 4.105075E-6 | 4.113755E-6 | 1.4113714E-5 | 3.430859 | 1.0E-5 | 1.7593058E-5 | 1.7630264E-5 | 3.762991E-5 | 2.134393 | 2.0E-5 | 2.1417443E-4 | 2.1462796E-4 | 2.446215E-4 | 1.1397468 | 3.0E-5 | 0.0021396813 | 0.0021442706 | 0.002184185 | 1.0186144 | 4.0E-5 |
+| 6.2 | 4.105075E-6 | 4.113755E-6 | 1.4113714E-5 | 3.430859 | 1.0E-5 | 1.7593058E-5 | 1.7630264E-5 | 3.762991E-5 | 2.134393 | 2.0E-5 | 2.1417443E-4 | 2.1462796E-4 | 2.446215E-4 | 1.1397468 | 3.0E-5 | 0.0021396813 | 0.0021442706 | 0.002184185 | 1.0186144 | 4.0E-5 |
+| 6.3 | 4.105075E-6 | 4.113755E-6 | 1.4113714E-5 | 3.430859 | 1.0E-5 | 1.7593058E-5 | 1.7630264E-5 | 3.762991E-5 | 2.134393 | 2.0E-5 | 2.1417443E-4 | 2.1462796E-4 | 2.446215E-4 | 1.1397468 | 3.0E-5 | 0.0021396813 | 0.0021442706 | 0.002184185 | 1.0186144 | 4.0E-5 |
+| 6.4 | 4.105075E-6 | 4.113755E-6 | 1.4113714E-5 | 3.430859 | 1.0E-5 | 1.7593058E-5 | 1.7630264E-5 | 3.762991E-5 | 2.134393 | 2.0E-5 | 2.1417443E-4 | 2.1462796E-4 | 2.446215E-4 | 1.1397468 | 3.0E-5 | 0.0021396813 | 0.0021442706 | 0.002184185 | 1.0186144 | 4.0E-5 |
+| 6.5 | 2.9849807E-6 | 2.9731757E-6 | 1.2973146E-5 | 4.363397 | 1.0E-5 | 1.2792712E-5 | 1.274212E-5 | 3.2741864E-5 | 2.5695775 | 2.0E-5 | 1.5574014E-4 | 1.5512442E-4 | 1.7512131E-4 | 1.1289088 | 2.0E-5 | 0.0015563103 | 0.0015501765 | 0.0015701456 | 1.0128818 | 2.0E-5 |
+| 6.6 | 2.9849807E-6 | 2.9731757E-6 | 1.2973146E-5 | 4.363397 | 1.0E-5 | 1.2792712E-5 | 1.274212E-5 | 3.2741864E-5 | 2.5695775 | 2.0E-5 | 1.5574014E-4 | 1.5512442E-4 | 1.7512131E-4 | 1.1289088 | 2.0E-5 | 0.0015563103 | 0.0015501765 | 0.0015701456 | 1.0128818 | 2.0E-5 |
+| 6.7 | 2.6756725E-6 | 2.6582397E-6 | 1.2658213E-5 | 4.761878 | 1.0E-5 | 1.1467117E-5 | 1.1392406E-5 | 3.1392177E-5 | 2.7555354 | 2.0E-5 | 1.396032E-4 | 1.3869382E-4 | 1.5869105E-4 | 1.1441826 | 2.0E-5 | 0.0013951553 | 0.0013860837 | 0.0014060559 | 1.0144092 | 2.0E-5 |
+| 6.8 | 2.3283721E-6 | 2.3047953E-6 | 1.2304772E-5 | 5.33877 | 1.0E-5 | 9.9787E-6 | 9.877657E-6 | 2.987746E-5 | 3.0247517 | 2.0E-5 | 1.214839E-4 | 1.2025392E-4 | 1.4025152E-4 | 1.1662947 | 2.0E-5 | 0.001214175 | 0.0012018959 | 0.0012218719 | 1.0166204 | 2.0E-5 |
+| 6.9 | 2.0972677E-6 | 2.0696561E-6 | 2.0696561E-6 | 1.0 | 0.0 | 8.988259E-6 | 8.869925E-6 | 1.8869836E-5 | 2.1273952 | 1.0E-5 | 1.0942656E-4 | 1.07986045E-4 | 1.17984964E-4 | 1.0925945 | 1.0E-5 | 0.0010937268 | 0.0010793415 | 0.0010893308 | 1.0092549 | 1.0E-5 |
+| 7.0 | 1.7132242E-6 | 1.678716E-6 | 1.678716E-6 | 1.0 | 0.0 | 7.3423685E-6 | 7.1944773E-6 | 1.7194405E-5 | 2.389945 | 1.0E-5 | 8.938967E-5 | 8.758928E-5 | 9.75884E-5 | 1.1141592 | 1.0E-5 | 8.935372E-4 | 8.755514E-4 | 8.8554266E-4 | 1.0114114 | 1.0E-5 |
+| 7.1 | 1.4215541E-6 | 1.3815855E-6 | 1.3815855E-6 | 1.0 | 0.0 | 6.0923603E-6 | 5.921068E-6 | 5.921068E-6 | 1.0 | 0.0 | 7.417196E-5 | 7.2086645E-5 | 7.2086645E-5 | 1.0 | 0.0 | 7.414721E-4 | 7.206353E-4 | 7.206353E-4 | 1.0 | 0.0 |
+| 7.2 | 9.097853E-7 | 8.603844E-7 | 8.603844E-7 | 1.0 | 0.0 | 3.899074E-6 | 3.6873564E-6 | 3.6873564E-6 | 1.0 | 0.0 | 4.7470192E-5 | 4.489265E-5 | 4.489265E-5 | 1.0 | 0.0 | 4.7460053E-4 | 4.488369E-4 | 4.488369E-4 | 1.0 | 0.0 |
+| 7.3 | 6.144169E-7 | 5.6282533E-7 | 5.6282533E-7 | 1.0 | 0.0 | 2.6332125E-6 | 2.4121064E-6 | 2.4121064E-6 | 1.0 | 0.0 | 3.205889E-5 | 2.9367004E-5 | 2.9367004E-5 | 1.0 | 0.0 | 3.2054266E-4 | 2.9363175E-4 | 2.9363175E-4 | 1.0 | 0.0 |
+| 7.4 | 4.049844E-7 | 3.5728635E-7 | 3.5728635E-7 | 1.0 | 0.0 | 1.7356463E-6 | 1.5312263E-6 | 1.5312263E-6 | 1.0 | 0.0 | 2.1131287E-5 | 1.8642522E-5 | 1.8642522E-5 | 1.0 | 0.0 | 2.1129279E-4 | 1.8640984E-4 | 1.8640984E-4 | 1.0 | 0.0 |
+| 7.5 | 1.9871162E-7 | 1.583061E-7 | 1.583061E-7 | 1.0 | 0.0 | 8.5162094E-7 | 6.784545E-7 | 6.784545E-7 | 1.0 | 0.0 | 1.0368436E-5 | 8.260154E-6 | 8.260154E-6 | 1.0 | 0.0 | 1.0367952E-4 | 8.259855E-5 | 8.259855E-5 | 1.0 | 0.0 |
+| 7.6 | 2.572245E-8 | 1.7352786E-8 | 1.7352786E-8 | 1.0 | 0.0 | 1.10239064E-7 | 7.4369076E-8 | 7.4369076E-8 | 1.0 | 0.0 | 1.3421597E-6 | 9.054432E-7 | 9.054432E-7 | 1.0 | 0.0 | 1.3421517E-5 | 9.054401E-6 | 9.054401E-6 | 1.0 | 0.0 |
 
 ## Channel Islands Thrust
 *[(top)](#table-of-contents)*
@@ -2760,60 +2782,138 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.7 | 2.2170494E-7 | 2.2608398E-7 | 2.2608398E-7 | 1.0 | 0.0 | 9.5016367E-7 | 9.689311E-7 | 9.689311E-7 | 1.0 | 0.0 | 1.1568181E-5 | 1.1796683E-5 | 1.1796683E-5 | 1.0 | 0.0 | 1.1567579E-4 | 1.17961674E-4 | 1.17961674E-4 | 1.0 | 0.0 |
 | 7.8 | 2.1613102E-8 | 1.546698E-8 | 1.546698E-8 | 1.0 | 0.0 | 9.262757E-8 | 6.628706E-8 | 6.628706E-8 | 1.0 | 0.0 | 1.1277401E-6 | 8.0704467E-7 | 8.0704467E-7 | 1.0 | 0.0 | 1.1277344E-5 | 8.070425E-6 | 8.070425E-6 | 1.0 | 0.0 |
 
-## Ortigalita (South)
+## Blue Cut
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Ortigalita_South_1wk.png) | ![MPD](Ortigalita_South_1mo.png) | ![MPD](Ortigalita_South_1yr.png) | ![MPD](Ortigalita_South_10yr.png) |
+| ![MPD](Blue_Cut_1wk.png) | ![MPD](Blue_Cut_1mo.png) | ![MPD](Blue_Cut_1yr.png) | ![MPD](Blue_Cut_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 3.72394E-5 | 4.3258227E-5 | 4.3258227E-5 | 1.0 | 0.0 | 1.5958765E-4 | 1.8538011E-4 | 1.9537826E-4 | 1.0539333 | 1.0E-5 | 0.0019412481 | 0.0022548232 | 0.002274778 | 1.0088499 | 2.0E-5 | 0.019243775 | 0.02233583 | 0.022374935 | 1.0017508 | 4.0E-5 |
-| 6.1 | 2.7299884E-5 | 3.1493844E-5 | 3.1493844E-5 | 1.0 | 0.0 | 1.16994255E-4 | 1.3496695E-4 | 1.449656E-4 | 1.0740823 | 1.0E-5 | 0.0014234743 | 0.0016420395 | 0.0016620067 | 1.01216 | 2.0E-5 | 0.014143906 | 0.016304996 | 0.016334508 | 1.00181 | 3.0E-5 |
-| 6.2 | 2.7299884E-5 | 3.1493844E-5 | 3.1493844E-5 | 1.0 | 0.0 | 1.16994255E-4 | 1.3496695E-4 | 1.449656E-4 | 1.0740823 | 1.0E-5 | 0.0014234743 | 0.0016420395 | 0.0016620067 | 1.01216 | 2.0E-5 | 0.014143906 | 0.016304996 | 0.016334508 | 1.00181 | 3.0E-5 |
-| 6.3 | 2.0546433E-5 | 2.3632772E-5 | 2.3632772E-5 | 1.0 | 0.0 | 8.805317E-5 | 1.0127949E-4 | 1.0127949E-4 | 1.0 | 0.0 | 0.00107152 | 0.0012323993 | 0.0012423869 | 1.0081042 | 1.0E-5 | 0.010663681 | 0.012257712 | 0.012277467 | 1.0016116 | 2.0E-5 |
-| 6.4 | 2.0546433E-5 | 2.3632772E-5 | 2.3632772E-5 | 1.0 | 0.0 | 8.805317E-5 | 1.0127949E-4 | 1.0127949E-4 | 1.0 | 0.0 | 0.00107152 | 0.0012323993 | 0.0012423869 | 1.0081042 | 1.0E-5 | 0.010663681 | 0.012257712 | 0.012277467 | 1.0016116 | 2.0E-5 |
-| 6.5 | 1.7779594E-5 | 2.0448117E-5 | 2.0448117E-5 | 1.0 | 0.0 | 7.619603E-5 | 8.7631925E-5 | 8.7631925E-5 | 1.0 | 0.0 | 9.272918E-4 | 0.00106641 | 0.0010763993 | 1.0093672 | 1.0E-5 | 0.009234319 | 0.010614393 | 0.010634181 | 1.0018642 | 2.0E-5 |
-| 6.6 | 1.6272212E-5 | 1.8716015E-5 | 1.8716015E-5 | 1.0 | 0.0 | 6.973618E-5 | 8.0209094E-5 | 8.0209094E-5 | 1.0 | 0.0 | 8.487073E-4 | 9.761204E-4 | 9.761204E-4 | 1.0 | 0.0 | 0.008454733 | 0.009719632 | 0.009729534 | 1.0010189 | 1.0E-5 |
-| 6.7 | 1.3051484E-5 | 1.5039612E-5 | 1.5039612E-5 | 1.0 | 0.0 | 5.593373E-5 | 6.445394E-5 | 6.445394E-5 | 1.0 | 0.0 | 6.807804E-4 | 7.844537E-4 | 7.844537E-4 | 1.0 | 0.0 | 0.006786986 | 0.00781783 | 0.00781783 | 1.0 | 0.0 |
-| 6.8 | 1.04277415E-5 | 1.1987902E-5 | 1.1987902E-5 | 1.0 | 0.0 | 4.4689557E-5 | 5.1375755E-5 | 5.1375755E-5 | 1.0 | 0.0 | 5.439595E-4 | 6.2532775E-4 | 6.2532775E-4 | 1.0 | 0.0 | 0.0054262993 | 0.006236436 | 0.006236436 | 1.0 | 0.0 |
-| 6.9 | 7.639968E-6 | 8.791996E-6 | 8.791996E-6 | 1.0 | 0.0 | 3.274231E-5 | 3.7679474E-5 | 3.7679474E-5 | 1.0 | 0.0 | 3.9856473E-4 | 4.586569E-4 | 4.586569E-4 | 1.0 | 0.0 | 0.003978506 | 0.0045776893 | 0.0045776893 | 1.0 | 0.0 |
-| 7.0 | 3.919831E-6 | 4.533665E-6 | 4.533665E-6 | 1.0 | 0.0 | 1.679917E-5 | 1.9429861E-5 | 1.9429861E-5 | 1.0 | 0.0 | 2.045107E-4 | 2.36535E-4 | 2.36535E-4 | 1.0 | 0.0 | 0.0020432258 | 0.002363041 | 0.002363041 | 1.0 | 0.0 |
-| 7.1 | 1.6017933E-6 | 1.8571518E-6 | 1.8571518E-6 | 1.0 | 0.0 | 6.8648105E-6 | 7.959204E-6 | 7.959204E-6 | 1.0 | 0.0 | 8.357586E-5 | 9.690007E-5 | 9.690007E-5 | 1.0 | 0.0 | 8.3544437E-4 | 9.686828E-4 | 9.686828E-4 | 1.0 | 0.0 |
+| 6.0 | 2.1227985E-5 | 2.2720169E-5 | 2.2720169E-5 | 1.0 | 0.0 | 9.097391E-5 | 9.7368844E-5 | 9.7368844E-5 | 1.0 | 0.0 | 0.0011070445 | 0.0011848791 | 0.0012048554 | 1.0168594 | 2.0E-5 | 0.011015458 | 0.011791458 | 0.011821104 | 1.0025142 | 3.0E-5 |
+| 6.1 | 2.1227985E-5 | 2.2720169E-5 | 2.2720169E-5 | 1.0 | 0.0 | 9.097391E-5 | 9.7368844E-5 | 9.7368844E-5 | 1.0 | 0.0 | 0.0011070445 | 0.0011848791 | 0.0012048554 | 1.0168594 | 2.0E-5 | 0.011015458 | 0.011791458 | 0.011821104 | 1.0025142 | 3.0E-5 |
+| 6.2 | 2.1227985E-5 | 2.2720169E-5 | 2.2720169E-5 | 1.0 | 0.0 | 9.097391E-5 | 9.7368844E-5 | 9.7368844E-5 | 1.0 | 0.0 | 0.0011070445 | 0.0011848791 | 0.0012048554 | 1.0168594 | 2.0E-5 | 0.011015458 | 0.011791458 | 0.011821104 | 1.0025142 | 3.0E-5 |
+| 6.3 | 1.1613981E-5 | 1.2353834E-5 | 1.2353834E-5 | 1.0 | 0.0 | 4.9773254E-5 | 5.2944E-5 | 5.2944E-5 | 1.0 | 0.0 | 6.0582085E-4 | 6.4441503E-4 | 6.6440215E-4 | 1.0310159 | 2.0E-5 | 0.0060417196 | 0.006426711 | 0.006456518 | 1.0046381 | 3.0E-5 |
+| 6.4 | 1.1613981E-5 | 1.2353834E-5 | 1.2353834E-5 | 1.0 | 0.0 | 4.9773254E-5 | 5.2944E-5 | 5.2944E-5 | 1.0 | 0.0 | 6.0582085E-4 | 6.4441503E-4 | 6.6440215E-4 | 1.0310159 | 2.0E-5 | 0.0060417196 | 0.006426711 | 0.006456518 | 1.0046381 | 3.0E-5 |
+| 6.5 | 8.931326E-6 | 9.481817E-6 | 9.481817E-6 | 1.0 | 0.0 | 3.8276554E-5 | 4.0635776E-5 | 4.0635776E-5 | 1.0 | 0.0 | 4.6591737E-4 | 4.946374E-4 | 5.1462755E-4 | 1.0404136 | 2.0E-5 | 0.0046494175 | 0.0049362737 | 0.004956175 | 1.0040317 | 2.0E-5 |
+| 6.6 | 7.345353E-6 | 7.790454E-6 | 7.790454E-6 | 1.0 | 0.0 | 3.1479703E-5 | 3.338728E-5 | 3.338728E-5 | 1.0 | 0.0 | 3.83198E-4 | 4.0642233E-4 | 4.1641828E-4 | 1.0245949 | 1.0E-5 | 0.0038253788 | 0.004057582 | 0.0040675416 | 1.0024545 | 1.0E-5 |
+| 6.7 | 6.2775666E-6 | 6.6552975E-6 | 6.6552975E-6 | 1.0 | 0.0 | 2.690358E-5 | 2.8522436E-5 | 2.8522436E-5 | 1.0 | 0.0 | 3.2750185E-4 | 3.4721283E-4 | 3.5720936E-4 | 1.0287908 | 1.0E-5 | 0.0032701963 | 0.0034674446 | 0.0034774097 | 1.002874 | 1.0E-5 |
+| 6.8 | 5.5234095E-6 | 5.855242E-6 | 5.855242E-6 | 1.0 | 0.0 | 2.367154E-5 | 2.5093694E-5 | 2.5093694E-5 | 1.0 | 0.0 | 2.8816288E-4 | 3.0548018E-4 | 3.0548018E-4 | 1.0 | 0.0 | 0.002877895 | 0.0030513185 | 0.0030513185 | 1.0 | 0.0 |
+| 6.9 | 4.7780054E-6 | 5.0655335E-6 | 5.0655335E-6 | 1.0 | 0.0 | 2.0477004E-5 | 2.170929E-5 | 2.170929E-5 | 1.0 | 0.0 | 2.4927902E-4 | 2.642856E-4 | 2.642856E-4 | 1.0 | 0.0 | 0.0024899957 | 0.002640405 | 0.002640405 | 1.0 | 0.0 |
+| 7.0 | 3.883171E-6 | 4.11858E-6 | 4.11858E-6 | 1.0 | 0.0 | 1.6642054E-5 | 1.7650977E-5 | 1.7650977E-5 | 1.0 | 0.0 | 2.0259817E-4 | 2.1488633E-4 | 2.1488633E-4 | 1.0 | 0.0 | 0.0020241356 | 0.002147461 | 0.002147461 | 1.0 | 0.0 |
+| 7.1 | 2.8358215E-6 | 3.0097845E-6 | 3.0097845E-6 | 1.0 | 0.0 | 1.2153464E-5 | 1.289905E-5 | 1.289905E-5 | 1.0 | 0.0 | 1.4795837E-4 | 1.5704118E-4 | 1.5704118E-4 | 1.0 | 0.0 | 0.001478599 | 0.0015699473 | 0.0015699473 | 1.0 | 0.0 |
 
-## Cleghorn
+## Rinconada 2011 CFM
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Cleghorn_1wk.png) | ![MPD](Cleghorn_1mo.png) | ![MPD](Cleghorn_1yr.png) | ![MPD](Cleghorn_10yr.png) |
+| ![MPD](Rinconada_2011_CFM_1wk.png) | ![MPD](Rinconada_2011_CFM_1mo.png) | ![MPD](Rinconada_2011_CFM_1yr.png) | ![MPD](Rinconada_2011_CFM_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 7.9267165E-6 | 9.837177E-6 | 9.837177E-6 | 1.0 | 0.0 | 3.39712E-5 | 4.2158706E-5 | 4.2158706E-5 | 1.0 | 0.0 | 4.1352084E-4 | 5.13172E-4 | 5.3316174E-4 | 1.0389533 | 2.0E-5 | 0.004127522 | 0.0051349266 | 0.0051647727 | 1.0058123 | 3.0E-5 |
-| 6.1 | 7.9267165E-6 | 9.837177E-6 | 9.837177E-6 | 1.0 | 0.0 | 3.39712E-5 | 4.2158706E-5 | 4.2158706E-5 | 1.0 | 0.0 | 4.1352084E-4 | 5.13172E-4 | 5.3316174E-4 | 1.0389533 | 2.0E-5 | 0.004127522 | 0.0051349266 | 0.0051647727 | 1.0058123 | 3.0E-5 |
-| 6.2 | 7.9267165E-6 | 9.837177E-6 | 9.837177E-6 | 1.0 | 0.0 | 3.39712E-5 | 4.2158706E-5 | 4.2158706E-5 | 1.0 | 0.0 | 4.1352084E-4 | 5.13172E-4 | 5.3316174E-4 | 1.0389533 | 2.0E-5 | 0.004127522 | 0.0051349266 | 0.0051647727 | 1.0058123 | 3.0E-5 |
-| 6.3 | 7.9267165E-6 | 9.837177E-6 | 9.837177E-6 | 1.0 | 0.0 | 3.39712E-5 | 4.2158706E-5 | 4.2158706E-5 | 1.0 | 0.0 | 4.1352084E-4 | 5.13172E-4 | 5.3316174E-4 | 1.0389533 | 2.0E-5 | 0.004127522 | 0.0051349266 | 0.0051647727 | 1.0058123 | 3.0E-5 |
-| 6.4 | 4.3445207E-6 | 6.0969764E-6 | 6.0969764E-6 | 1.0 | 0.0 | 1.8619241E-5 | 2.6129643E-5 | 2.6129643E-5 | 1.0 | 0.0 | 2.2666567E-4 | 3.1808298E-4 | 3.1808298E-4 | 1.0 | 0.0 | 0.0022643462 | 0.0031904106 | 0.0032003787 | 1.0031244 | 1.0E-5 |
-| 6.5 | 4.3445207E-6 | 6.0969764E-6 | 6.0969764E-6 | 1.0 | 0.0 | 1.8619241E-5 | 2.6129643E-5 | 2.6129643E-5 | 1.0 | 0.0 | 2.2666567E-4 | 3.1808298E-4 | 3.1808298E-4 | 1.0 | 0.0 | 0.0022643462 | 0.0031904106 | 0.0032003787 | 1.0031244 | 1.0E-5 |
-| 6.6 | 4.040109E-6 | 5.779379E-6 | 5.779379E-6 | 1.0 | 0.0 | 1.7314638E-5 | 2.4768537E-5 | 2.4768537E-5 | 1.0 | 0.0 | 2.1078532E-4 | 3.0151615E-4 | 3.0151615E-4 | 1.0 | 0.0 | 0.002105855 | 0.0030251981 | 0.003035168 | 1.0032955 | 1.0E-5 |
-| 6.7 | 3.3632055E-6 | 5.0728645E-6 | 5.0728645E-6 | 1.0 | 0.0 | 1.4413658E-5 | 2.1740669E-5 | 2.1740669E-5 | 1.0 | 0.0 | 1.7547216E-4 | 2.646608E-4 | 2.646608E-4 | 1.0 | 0.0 | 0.0017533366 | 0.0026575273 | 0.0026675009 | 1.003753 | 1.0E-5 |
-| 6.8 | 3.2902772E-6 | 4.9947703E-6 | 4.9947703E-6 | 1.0 | 0.0 | 1.4101111E-5 | 2.1405984E-5 | 2.1405984E-5 | 1.0 | 0.0 | 1.716675E-4 | 2.60587E-4 | 2.60587E-4 | 1.0 | 0.0 | 0.0017153495 | 0.0026168854 | 0.0026268591 | 1.0038114 | 1.0E-5 |
-| 6.9 | 3.031547E-6 | 4.696313E-6 | 4.696313E-6 | 1.0 | 0.0 | 1.299228E-5 | 2.0126903E-5 | 2.0126903E-5 | 1.0 | 0.0 | 1.5816953E-4 | 2.4501776E-4 | 2.4501776E-4 | 1.0 | 0.0 | 0.00158057 | 0.0024615454 | 0.0024715206 | 1.0040525 | 1.0E-5 |
-| 7.0 | 2.8259715E-6 | 4.3753325E-6 | 4.3753325E-6 | 1.0 | 0.0 | 1.211125E-5 | 1.8751292E-5 | 1.8751292E-5 | 1.0 | 0.0 | 1.4744449E-4 | 2.282733E-4 | 2.282733E-4 | 1.0 | 0.0 | 0.001473467 | 0.002294456 | 0.002304433 | 1.0043483 | 1.0E-5 |
-| 7.1 | 2.5962665E-6 | 4.0703308E-6 | 4.0703308E-6 | 1.0 | 0.0 | 1.1126809E-5 | 1.744416E-5 | 1.744416E-5 | 1.0 | 0.0 | 1.3546048E-4 | 2.1236215E-4 | 2.1236215E-4 | 1.0 | 0.0 | 0.0013537793 | 0.002135665 | 0.0021456436 | 1.0046724 | 1.0E-5 |
-| 7.2 | 2.3247253E-6 | 3.6806362E-6 | 3.6806362E-6 | 1.0 | 0.0 | 9.96307E-6 | 1.577406E-5 | 1.577406E-5 | 1.0 | 0.0 | 1.21293626E-4 | 1.9203244E-4 | 1.9203244E-4 | 1.0 | 0.0 | 0.0012122744 | 0.0019327591 | 0.0019427397 | 1.0051639 | 1.0E-5 |
-| 7.3 | 2.056928E-6 | 3.2388728E-6 | 3.2388728E-6 | 1.0 | 0.0 | 8.815376E-6 | 1.3880811E-5 | 1.3880811E-5 | 1.0 | 0.0 | 1.0732192E-4 | 1.6898592E-4 | 1.6898592E-4 | 1.0 | 0.0 | 0.001072701 | 0.0017027346 | 0.0017127176 | 1.005863 | 1.0E-5 |
-| 7.4 | 1.8055999E-6 | 2.828866E-6 | 2.828866E-6 | 1.0 | 0.0 | 7.738263E-6 | 1.2123656E-5 | 1.2123656E-5 | 1.0 | 0.0 | 9.4209274E-5 | 1.4759565E-4 | 1.4759565E-4 | 1.0 | 0.0 | 9.4169343E-4 | 0.0014892742 | 0.0014892742 | 1.0 | 0.0 |
-| 7.5 | 1.4683443E-6 | 2.4279263E-6 | 2.4279263E-6 | 1.0 | 0.0 | 6.292889E-6 | 1.0405358E-5 | 1.0405358E-5 | 1.0 | 0.0 | 7.661323E-5 | 1.2667796E-4 | 1.2667796E-4 | 1.0 | 0.0 | 7.658682E-4 | 0.0012803981 | 0.0012803981 | 1.0 | 0.0 |
-| 7.6 | 9.804088E-7 | 1.9033644E-6 | 1.9033644E-6 | 1.0 | 0.0 | 4.201745E-6 | 8.157251E-6 | 8.157251E-6 | 1.0 | 0.0 | 5.1155046E-5 | 9.931005E-5 | 9.931005E-5 | 1.0 | 0.0 | 5.114327E-4 | 0.0010070323 | 0.0010070323 | 1.0 | 0.0 |
-| 7.7 | 7.3434086E-7 | 1.6314445E-6 | 1.6314445E-6 | 1.0 | 0.0 | 3.1471714E-6 | 6.9918865E-6 | 6.9918865E-6 | 1.0 | 0.0 | 3.831614E-5 | 8.512292E-5 | 8.512292E-5 | 1.0 | 0.0 | 3.8309532E-4 | 8.653134E-4 | 8.653134E-4 | 1.0 | 0.0 |
-| 7.8 | 6.434184E-7 | 1.5248431E-6 | 1.5248431E-6 | 1.0 | 0.0 | 2.7575045E-6 | 6.535026E-6 | 6.535026E-6 | 1.0 | 0.0 | 3.35721E-5 | 7.956106E-5 | 7.956106E-5 | 1.0 | 0.0 | 3.3567028E-4 | 8.093966E-4 | 8.093966E-4 | 1.0 | 0.0 |
-| 7.9 | 3.4943926E-7 | 7.5890904E-7 | 7.5890904E-7 | 1.0 | 0.0 | 1.497596E-6 | 3.252463E-6 | 3.252463E-6 | 1.0 | 0.0 | 1.8233079E-5 | 3.9598028E-5 | 3.9598028E-5 | 1.0 | 0.0 | 1.8231584E-4 | 4.0475116E-4 | 4.0475116E-4 | 1.0 | 0.0 |
-| 8.0 | 6.717524E-8 | 5.853563E-8 | 5.853563E-8 | 1.0 | 0.0 | 2.8789387E-7 | 2.5086695E-7 | 2.5086695E-7 | 1.0 | 0.0 | 3.505102E-6 | 3.054301E-6 | 3.054301E-6 | 1.0 | 0.0 | 3.5050467E-5 | 3.2814176E-5 | 3.2814176E-5 | 1.0 | 0.0 |
-| 8.1 | 3.1984914E-8 | 1.300408E-8 | 1.300408E-8 | 1.0 | 0.0 | 1.370782E-7 | 5.5731768E-8 | 5.5731768E-8 | 1.0 | 0.0 | 1.6689258E-6 | 6.7853404E-7 | 6.7853404E-7 | 1.0 | 0.0 | 1.6689133E-5 | 7.771629E-6 | 7.771629E-6 | 1.0 | 0.0 |
-| 8.2 | 1.21887656E-8 | 3.6643266E-9 | 3.6643266E-9 | 1.0 | 0.0 | 5.2237567E-8 | 1.5704257E-8 | 1.5704257E-8 | 1.0 | 0.0 | 6.359922E-7 | 1.9119932E-7 | 1.9119932E-7 | 1.0 | 0.0 | 6.3599036E-6 | 2.2556399E-6 | 2.2556399E-6 | 1.0 | 0.0 |
+| 6.0 | 1.5752368E-5 | 1.6274917E-5 | 1.6274917E-5 | 1.0 | 0.0 | 6.75084E-5 | 6.9747795E-5 | 6.9747795E-5 | 1.0 | 0.0 | 8.2160486E-4 | 8.4885175E-4 | 8.4885175E-4 | 1.0 | 0.0 | 0.008185739 | 0.008456474 | 0.008486221 | 1.0035176 | 3.0E-5 |
+| 6.1 | 1.0966133E-5 | 1.1323166E-5 | 1.1323166E-5 | 1.0 | 0.0 | 4.6996865E-5 | 4.852696E-5 | 4.852696E-5 | 1.0 | 0.0 | 5.720366E-4 | 5.906563E-4 | 5.906563E-4 | 1.0 | 0.0 | 0.0057056635 | 0.0058909603 | 0.0059108427 | 1.003375 | 2.0E-5 |
+| 6.2 | 1.0966133E-5 | 1.1323166E-5 | 1.1323166E-5 | 1.0 | 0.0 | 4.6996865E-5 | 4.852696E-5 | 4.852696E-5 | 1.0 | 0.0 | 5.720366E-4 | 5.906563E-4 | 5.906563E-4 | 1.0 | 0.0 | 0.0057056635 | 0.0058909603 | 0.0059108427 | 1.003375 | 2.0E-5 |
+| 6.3 | 8.926149E-6 | 9.212882E-6 | 9.212882E-6 | 1.0 | 0.0 | 3.8254362E-5 | 3.9483184E-5 | 3.9483184E-5 | 1.0 | 0.0 | 4.6564735E-4 | 4.806021E-4 | 4.806021E-4 | 1.0 | 0.0 | 0.0046467283 | 0.004795672 | 0.004815576 | 1.0041504 | 2.0E-5 |
+| 6.4 | 7.676955E-6 | 7.920285E-6 | 7.920285E-6 | 1.0 | 0.0 | 3.290082E-5 | 3.3943637E-5 | 3.3943637E-5 | 1.0 | 0.0 | 4.0049385E-4 | 4.131856E-4 | 4.131856E-4 | 1.0 | 0.0 | 0.0039977287 | 0.0041242 | 0.0041441177 | 1.0048294 | 2.0E-5 |
+| 6.5 | 6.1671026E-6 | 6.359029E-6 | 6.359029E-6 | 1.0 | 0.0 | 2.6430173E-5 | 2.7252698E-5 | 2.7252698E-5 | 1.0 | 0.0 | 3.2173982E-4 | 3.3175116E-4 | 3.3175116E-4 | 1.0 | 0.0 | 0.003212744 | 0.0033125712 | 0.003322538 | 1.0030088 | 1.0E-5 |
+| 6.6 | 5.553456E-6 | 5.724879E-6 | 5.724879E-6 | 1.0 | 0.0 | 2.3800309E-5 | 2.4534966E-5 | 2.4534966E-5 | 1.0 | 0.0 | 2.897302E-4 | 2.9867233E-4 | 2.9867233E-4 | 1.0 | 0.0 | 0.0028935277 | 0.0029827177 | 0.002992688 | 1.0033426 | 1.0E-5 |
+| 6.7 | 4.787857E-6 | 4.933366E-6 | 4.933366E-6 | 1.0 | 0.0 | 2.0519226E-5 | 2.1142827E-5 | 2.1142827E-5 | 1.0 | 0.0 | 2.4979294E-4 | 2.5738354E-4 | 2.5738354E-4 | 1.0 | 0.0 | 0.0024951235 | 0.00257086 | 0.0025808346 | 1.0038798 | 1.0E-5 |
+| 6.8 | 3.9955166E-6 | 4.113522E-6 | 4.113522E-6 | 1.0 | 0.0 | 1.7123532E-5 | 1.7629261E-5 | 1.7629261E-5 | 1.0 | 0.0 | 2.0845905E-4 | 2.1461514E-4 | 2.1461514E-4 | 1.0 | 0.0 | 0.002082636 | 0.0021440824 | 0.0021540609 | 1.004654 | 1.0E-5 |
+| 6.9 | 3.4250072E-6 | 3.5224843E-6 | 3.5224843E-6 | 1.0 | 0.0 | 1.46785205E-5 | 1.5096274E-5 | 1.5096274E-5 | 1.0 | 0.0 | 1.7869633E-4 | 1.8378165E-4 | 1.8378165E-4 | 1.0 | 0.0 | 0.001785527 | 0.0018362992 | 0.0018362992 | 1.0 | 0.0 |
+| 7.0 | 2.7712713E-6 | 2.8467296E-6 | 2.8467296E-6 | 1.0 | 0.0 | 1.1876823E-5 | 1.2200212E-5 | 1.2200212E-5 | 1.0 | 0.0 | 1.4459073E-4 | 1.4852747E-4 | 1.4852747E-4 | 1.0 | 0.0 | 0.0014449668 | 0.0014842836 | 0.0014842836 | 1.0 | 0.0 |
+| 7.1 | 2.227358E-6 | 2.2857214E-6 | 2.2857214E-6 | 1.0 | 0.0 | 9.545785E-6 | 9.795912E-6 | 9.795912E-6 | 1.0 | 0.0 | 1.16213734E-4 | 1.19258715E-4 | 1.19258715E-4 | 1.0 | 0.0 | 0.0011615298 | 0.0011919482 | 0.0011919482 | 1.0 | 0.0 |
+| 7.2 | 1.581796E-6 | 1.6209167E-6 | 1.6209167E-6 | 1.0 | 0.0 | 6.779108E-6 | 6.9467674E-6 | 6.9467674E-6 | 1.0 | 0.0 | 8.253252E-5 | 8.4573614E-5 | 8.4573614E-5 | 1.0 | 0.0 | 8.250187E-4 | 8.454149E-4 | 8.454149E-4 | 1.0 | 0.0 |
+| 7.3 | 1.0306567E-6 | 1.0546574E-6 | 1.0546574E-6 | 1.0 | 0.0 | 4.4170924E-6 | 4.5199527E-6 | 4.5199527E-6 | 1.0 | 0.0 | 5.3776774E-5 | 5.502904E-5 | 5.502904E-5 | 1.0 | 0.0 | 5.376376E-4 | 5.5015436E-4 | 5.5015436E-4 | 1.0 | 0.0 |
+| 7.4 | 6.535541E-7 | 6.6828045E-7 | 6.6828045E-7 | 1.0 | 0.0 | 2.800943E-6 | 2.864056E-6 | 2.864056E-6 | 1.0 | 0.0 | 3.4100947E-5 | 3.4869325E-5 | 3.4869325E-5 | 1.0 | 0.0 | 3.4095717E-4 | 3.4863866E-4 | 3.4863866E-4 | 1.0 | 0.0 |
+| 7.5 | 3.2656962E-7 | 3.3317002E-7 | 3.3317002E-7 | 1.0 | 0.0 | 1.3995833E-6 | 1.4278708E-6 | 1.4278708E-6 | 1.0 | 0.0 | 1.7039794E-5 | 1.7384187E-5 | 1.7384187E-5 | 1.0 | 0.0 | 1.7038487E-4 | 1.7382832E-4 | 1.7382832E-4 | 1.0 | 0.0 |
+| 7.6 | 9.754343E-8 | 9.8210805E-8 | 9.8210805E-8 | 1.0 | 0.0 | 4.180432E-7 | 4.2090338E-7 | 4.2090338E-7 | 1.0 | 0.0 | 5.089664E-6 | 5.1244865E-6 | 5.1244865E-6 | 1.0 | 0.0 | 5.0895473E-5 | 5.1243693E-5 | 5.1243693E-5 | 1.0 | 0.0 |
+| 7.7 | 6.0001453E-9 | 5.849116E-9 | 5.849116E-9 | 1.0 | 0.0 | 2.5714908E-8 | 2.5067639E-8 | 2.5067639E-8 | 1.0 | 0.0 | 3.1307894E-7 | 3.0519845E-7 | 3.0519845E-7 | 1.0 | 0.0 | 3.1307852E-6 | 3.0519807E-6 | 3.0519807E-6 | 1.0 | 0.0 |
+| 7.8 | 7.400003E-11 | 7.465473E-11 | 7.465473E-11 | 1.0 | 0.0 | 3.171432E-10 | 3.1994873E-10 | 3.1994873E-10 | 1.0 | 0.0 | 3.861218E-9 | 3.895376E-9 | 3.895376E-9 | 1.0 | 0.0 | 3.861218E-8 | 3.895376E-8 | 3.895376E-8 | 1.0 | 0.0 |
+
+## Santa Cruz Catalina Ridge alt1
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Santa_Cruz_Catalina_Ridge_alt1_1wk.png) | ![MPD](Santa_Cruz_Catalina_Ridge_alt1_1mo.png) | ![MPD](Santa_Cruz_Catalina_Ridge_alt1_1yr.png) | ![MPD](Santa_Cruz_Catalina_Ridge_alt1_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 3.2833184E-5 | 3.6559963E-5 | 3.6559963E-5 | 1.0 | 0.0 | 1.4070606E-4 | 1.5667708E-4 | 1.5667708E-4 | 1.0 | 0.0 | 0.00171175 | 0.001906041 | 0.0019260029 | 1.010473 | 2.0E-5 | 0.016986247 | 0.018913832 | 0.018943265 | 1.0015562 | 3.0E-5 |
+| 6.1 | 1.9835548E-5 | 2.1660251E-5 | 2.1660251E-5 | 1.0 | 0.0 | 8.500672E-5 | 9.2826456E-5 | 9.2826456E-5 | 1.0 | 0.0 | 0.0010344655 | 0.0011295964 | 0.001139585 | 1.0088427 | 1.0E-5 | 0.010296632 | 0.011240681 | 0.0112604555 | 1.0017593 | 2.0E-5 |
+| 6.2 | 1.9835548E-5 | 2.1660251E-5 | 2.1660251E-5 | 1.0 | 0.0 | 8.500672E-5 | 9.2826456E-5 | 9.2826456E-5 | 1.0 | 0.0 | 0.0010344655 | 0.0011295964 | 0.001139585 | 1.0088427 | 1.0E-5 | 0.010296632 | 0.011240681 | 0.0112604555 | 1.0017593 | 2.0E-5 |
+| 6.3 | 1.5728183E-5 | 1.7034477E-5 | 1.7034477E-5 | 1.0 | 0.0 | 6.7404755E-5 | 7.300289E-5 | 7.300289E-5 | 1.0 | 0.0 | 8.2034385E-4 | 8.884539E-4 | 8.98445E-4 | 1.0112455 | 1.0E-5 | 0.008173222 | 0.0088497 | 0.008859611 | 1.00112 | 1.0E-5 |
+| 6.4 | 1.5728183E-5 | 1.7034477E-5 | 1.7034477E-5 | 1.0 | 0.0 | 6.7404755E-5 | 7.300289E-5 | 7.300289E-5 | 1.0 | 0.0 | 8.2034385E-4 | 8.884539E-4 | 8.98445E-4 | 1.0112455 | 1.0E-5 | 0.008173222 | 0.0088497 | 0.008859611 | 1.00112 | 1.0E-5 |
+| 6.5 | 1.3707734E-5 | 1.4794959E-5 | 1.4794959E-5 | 1.0 | 0.0 | 5.8746107E-5 | 6.3405445E-5 | 6.3405445E-5 | 1.0 | 0.0 | 7.1499916E-4 | 7.7169144E-4 | 7.816837E-4 | 1.0129485 | 1.0E-5 | 0.0071270303 | 0.007690516 | 0.007700439 | 1.0012903 | 1.0E-5 |
+| 6.6 | 1.2539813E-5 | 1.3510608E-5 | 1.3510608E-5 | 1.0 | 0.0 | 5.3740947E-5 | 5.790134E-5 | 5.790134E-5 | 1.0 | 0.0 | 6.540996E-4 | 7.0472347E-4 | 7.1471644E-4 | 1.01418 | 1.0E-5 | 0.0065217763 | 0.00702519 | 0.00703512 | 1.0014135 | 1.0E-5 |
+| 6.7 | 1.1504083E-5 | 1.23777245E-5 | 1.23777245E-5 | 1.0 | 0.0 | 4.930228E-5 | 5.3046326E-5 | 5.3046326E-5 | 1.0 | 0.0 | 6.0008996E-4 | 6.456496E-4 | 6.556432E-4 | 1.0154783 | 1.0E-5 | 0.005984721 | 0.0064379675 | 0.006447903 | 1.0015433 | 1.0E-5 |
+| 6.8 | 1.012739E-5 | 1.0877371E-5 | 1.0877371E-5 | 1.0 | 0.0 | 4.340238E-5 | 4.661648E-5 | 4.661648E-5 | 1.0 | 0.0 | 5.282958E-4 | 5.674093E-4 | 5.774037E-4 | 1.017614 | 1.0E-5 | 0.0052704164 | 0.005659775 | 0.0056697186 | 1.0017569 | 1.0E-5 |
+| 6.9 | 8.9607865E-6 | 9.609376E-6 | 9.609376E-6 | 1.0 | 0.0 | 3.8402806E-5 | 4.1182397E-5 | 4.1182397E-5 | 1.0 | 0.0 | 4.6745385E-4 | 5.012814E-4 | 5.1127636E-4 | 1.0199388 | 1.0E-5 | 0.0046647177 | 0.005001626 | 0.005011576 | 1.0019894 | 1.0E-5 |
+| 7.0 | 8.046829E-6 | 8.619974E-6 | 8.619974E-6 | 1.0 | 0.0 | 3.4485955E-5 | 3.6942227E-5 | 3.6942227E-5 | 1.0 | 0.0 | 4.1978562E-4 | 4.4967962E-4 | 4.5967512E-4 | 1.022228 | 1.0E-5 | 0.004189935 | 0.0044877874 | 0.0044977427 | 1.0022182 | 1.0E-5 |
+| 7.1 | 7.136131E-6 | 7.637856E-6 | 7.637856E-6 | 1.0 | 0.0 | 3.0583058E-5 | 3.273326E-5 | 3.273326E-5 | 1.0 | 0.0 | 3.7228514E-4 | 3.9845527E-4 | 4.084513E-4 | 1.0250869 | 1.0E-5 | 0.0037166206 | 0.003977485 | 0.0039874455 | 1.0025041 | 1.0E-5 |
+| 7.2 | 6.362014E-6 | 6.805135E-6 | 6.805135E-6 | 1.0 | 0.0 | 2.726549E-5 | 2.9164541E-5 | 2.9164541E-5 | 1.0 | 0.0 | 3.3190678E-4 | 3.550211E-4 | 3.6501753E-4 | 1.0281574 | 1.0E-5 | 0.0033141149 | 0.0035446077 | 0.0035545724 | 1.0028112 | 1.0E-5 |
+| 7.3 | 5.004101E-6 | 5.3518534E-6 | 5.3518534E-6 | 1.0 | 0.0 | 2.1445969E-5 | 2.2936316E-5 | 2.2936316E-5 | 1.0 | 0.0 | 2.6107338E-4 | 2.792144E-4 | 2.892116E-4 | 1.0358047 | 1.0E-5 | 0.002607669 | 0.0027886906 | 0.0027986628 | 1.0035759 | 1.0E-5 |
+| 7.4 | 3.4901443E-6 | 3.7321488E-6 | 3.7321488E-6 | 1.0 | 0.0 | 1.4957676E-5 | 1.5994827E-5 | 1.5994827E-5 | 1.0 | 0.0 | 1.8209449E-4 | 1.9472E-4 | 2.0471806E-4 | 1.0513458 | 1.0E-5 | 0.0018194534 | 0.0019455325 | 0.0019555131 | 1.0051299 | 1.0E-5 |
+| 7.5 | 1.1215045E-6 | 1.1894139E-6 | 1.1894139E-6 | 1.0 | 0.0 | 4.806439E-6 | 5.097478E-6 | 5.097478E-6 | 1.0 | 0.0 | 5.851682E-5 | 6.206006E-5 | 7.205944E-5 | 1.1611242 | 1.0E-5 | 5.850142E-4 | 6.204304E-4 | 6.304242E-4 | 1.0161078 | 1.0E-5 |
+| 7.6 | 2.8599047E-7 | 2.995252E-7 | 2.995252E-7 | 1.0 | 0.0 | 1.2256729E-6 | 1.2836788E-6 | 1.2836788E-6 | 1.0 | 0.0 | 1.4922465E-5 | 1.5628679E-5 | 1.5628679E-5 | 1.0 | 0.0 | 1.4921463E-4 | 1.5627593E-4 | 1.5627593E-4 | 1.0 | 0.0 |
+| 7.7 | 2.0781519E-7 | 2.1744698E-7 | 2.1744698E-7 | 1.0 | 0.0 | 8.906362E-7 | 9.319153E-7 | 9.319153E-7 | 1.0 | 0.0 | 1.08434415E-5 | 1.134601E-5 | 1.134601E-5 | 1.0 | 0.0 | 1.0842913E-4 | 1.1345441E-4 | 1.1345441E-4 | 1.0 | 0.0 |
+| 7.8 | 3.614776E-8 | 3.7641595E-8 | 3.7641595E-8 | 1.0 | 0.0 | 1.5491896E-7 | 1.6132111E-7 | 1.6132111E-7 | 1.0 | 0.0 | 1.8861368E-6 | 1.964083E-6 | 1.964083E-6 | 1.0 | 0.0 | 1.8861208E-5 | 1.9640667E-5 | 1.9640667E-5 | 1.0 | 0.0 |
+
+## Sheephole
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Sheephole_1wk.png) | ![MPD](Sheephole_1mo.png) | ![MPD](Sheephole_1yr.png) | ![MPD](Sheephole_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 4.5579695E-6 | 4.7413337E-6 | 4.7413337E-6 | 1.0 | 0.0 | 1.9534009E-5 | 2.0319874E-5 | 3.031967E-5 | 1.4921191 | 1.0E-5 | 2.3780059E-4 | 2.4737194E-4 | 2.6736697E-4 | 1.08083 | 2.0E-5 | 0.0023754628 | 0.00247151 | 0.002501436 | 1.0121083 | 3.0E-5 |
+| 6.1 | 4.5579695E-6 | 4.7413337E-6 | 4.7413337E-6 | 1.0 | 0.0 | 1.9534009E-5 | 2.0319874E-5 | 3.031967E-5 | 1.4921191 | 1.0E-5 | 2.3780059E-4 | 2.4737194E-4 | 2.6736697E-4 | 1.08083 | 2.0E-5 | 0.0023754628 | 0.00247151 | 0.002501436 | 1.0121083 | 3.0E-5 |
+| 6.2 | 2.6677674E-6 | 2.7874407E-6 | 2.7874407E-6 | 1.0 | 0.0 | 1.1433239E-5 | 1.1946126E-5 | 1.1946126E-5 | 1.0 | 0.0 | 1.3919079E-4 | 1.4543545E-4 | 1.4543545E-4 | 1.0 | 0.0 | 0.0013910364 | 0.0014535086 | 0.0014535086 | 1.0 | 0.0 |
+| 6.3 | 2.6677674E-6 | 2.7874407E-6 | 2.7874407E-6 | 1.0 | 0.0 | 1.1433239E-5 | 1.1946126E-5 | 1.1946126E-5 | 1.0 | 0.0 | 1.3919079E-4 | 1.4543545E-4 | 1.4543545E-4 | 1.0 | 0.0 | 0.0013910364 | 0.0014535086 | 0.0014535086 | 1.0 | 0.0 |
+| 6.4 | 2.2159759E-6 | 2.3229204E-6 | 2.3229204E-6 | 1.0 | 0.0 | 9.497005E-6 | 9.95534E-6 | 9.95534E-6 | 1.0 | 0.0 | 1.156199E-4 | 1.21200326E-4 | 1.21200326E-4 | 1.0 | 0.0 | 0.0011555976 | 0.0012114216 | 0.0012114216 | 1.0 | 0.0 |
+| 6.5 | 2.1986082E-6 | 2.3048003E-6 | 2.3048003E-6 | 1.0 | 0.0 | 9.4225725E-6 | 9.877684E-6 | 9.877684E-6 | 1.0 | 0.0 | 1.1471378E-4 | 1.2025496E-4 | 1.2025496E-4 | 1.0 | 0.0 | 0.0011465458 | 0.0012019782 | 0.0012019782 | 1.0 | 0.0 |
+| 6.6 | 1.5232331E-6 | 1.6019226E-6 | 1.6019226E-6 | 1.0 | 0.0 | 6.5281256E-6 | 6.8653653E-6 | 6.8653653E-6 | 1.0 | 0.0 | 7.947703E-5 | 8.358281E-5 | 8.358281E-5 | 1.0 | 0.0 | 7.9448614E-4 | 8.3553244E-4 | 8.3553244E-4 | 1.0 | 0.0 |
+| 6.7 | 1.3137362E-6 | 1.3828461E-6 | 1.3828461E-6 | 1.0 | 0.0 | 5.6302856E-6 | 5.9264703E-6 | 5.9264703E-6 | 1.0 | 0.0 | 6.854657E-5 | 7.215253E-5 | 7.215253E-5 | 1.0 | 0.0 | 6.8525434E-4 | 7.213049E-4 | 7.213049E-4 | 1.0 | 0.0 |
+| 6.8 | 1.2275751E-6 | 1.29231E-6 | 1.29231E-6 | 1.0 | 0.0 | 5.2610258E-6 | 5.5384603E-6 | 5.5384603E-6 | 1.0 | 0.0 | 6.4051106E-5 | 6.74288E-5 | 6.74288E-5 | 1.0 | 0.0 | 6.4032647E-4 | 6.740968E-4 | 6.740968E-4 | 1.0 | 0.0 |
+| 6.9 | 1.1837088E-6 | 1.2461264E-6 | 1.2461264E-6 | 1.0 | 0.0 | 5.0730278E-6 | 5.3405315E-6 | 5.3405315E-6 | 1.0 | 0.0 | 6.176237E-5 | 6.5019165E-5 | 6.5019165E-5 | 1.0 | 0.0 | 6.17452E-4 | 6.5001455E-4 | 6.5001455E-4 | 1.0 | 0.0 |
+| 7.0 | 9.849371E-7 | 1.036649E-6 | 1.036649E-6 | 1.0 | 0.0 | 4.2211523E-6 | 4.4427743E-6 | 4.4427743E-6 | 1.0 | 0.0 | 5.1391315E-5 | 5.4089538E-5 | 5.4089538E-5 | 1.0 | 0.0 | 5.137943E-4 | 5.4077385E-4 | 5.4077385E-4 | 1.0 | 0.0 |
+| 7.1 | 8.1643645E-7 | 8.591836E-7 | 8.591836E-7 | 1.0 | 0.0 | 3.4990085E-6 | 3.6822107E-6 | 3.6822107E-6 | 1.0 | 0.0 | 4.2599597E-5 | 4.483008E-5 | 4.483008E-5 | 1.0 | 0.0 | 4.259143E-4 | 4.48219E-4 | 4.48219E-4 | 1.0 | 0.0 |
+| 7.2 | 5.7295756E-7 | 6.029619E-7 | 6.029619E-7 | 1.0 | 0.0 | 2.45553E-6 | 2.5841202E-6 | 2.5841202E-6 | 1.0 | 0.0 | 2.9895667E-5 | 3.1461277E-5 | 3.1461277E-5 | 1.0 | 0.0 | 2.9891645E-4 | 3.1457492E-4 | 3.1457492E-4 | 1.0 | 0.0 |
+
+## Big Pine (East)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Big_Pine_East_1wk.png) | ![MPD](Big_Pine_East_1mo.png) | ![MPD](Big_Pine_East_1yr.png) | ![MPD](Big_Pine_East_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 9.916913E-6 | 1.2820476E-5 | 1.2820476E-5 | 1.0 | 0.0 | 4.250036E-5 | 5.4943863E-5 | 5.4943863E-5 | 1.0 | 0.0 | 5.173191E-4 | 6.687583E-4 | 6.687583E-4 | 1.0 | 0.0 | 0.0051611643 | 0.006672221 | 0.0067020208 | 1.0044663 | 3.0E-5 |
+| 6.1 | 9.916913E-6 | 1.2820476E-5 | 1.2820476E-5 | 1.0 | 0.0 | 4.250036E-5 | 5.4943863E-5 | 5.4943863E-5 | 1.0 | 0.0 | 5.173191E-4 | 6.687583E-4 | 6.687583E-4 | 1.0 | 0.0 | 0.0051611643 | 0.006672221 | 0.0067020208 | 1.0044663 | 3.0E-5 |
+| 6.2 | 9.916913E-6 | 1.2820476E-5 | 1.2820476E-5 | 1.0 | 0.0 | 4.250036E-5 | 5.4943863E-5 | 5.4943863E-5 | 1.0 | 0.0 | 5.173191E-4 | 6.687583E-4 | 6.687583E-4 | 1.0 | 0.0 | 0.0051611643 | 0.006672221 | 0.0067020208 | 1.0044663 | 3.0E-5 |
+| 6.3 | 5.479711E-6 | 8.116337E-6 | 8.116337E-6 | 1.0 | 0.0 | 2.3484265E-5 | 3.4783858E-5 | 3.4783858E-5 | 1.0 | 0.0 | 2.858834E-4 | 4.2341437E-4 | 4.2341437E-4 | 1.0 | 0.0 | 0.0028551589 | 0.004228973 | 0.0042588464 | 1.0070639 | 3.0E-5 |
+| 6.4 | 5.465009E-6 | 8.10063E-6 | 8.10063E-6 | 1.0 | 0.0 | 2.3421257E-5 | 3.4716544E-5 | 3.4716544E-5 | 1.0 | 0.0 | 2.851165E-4 | 4.2259513E-4 | 4.2259513E-4 | 1.0 | 0.0 | 0.0028475097 | 0.004220812 | 0.004250685 | 1.0070777 | 3.0E-5 |
+| 6.5 | 4.826767E-6 | 7.4256723E-6 | 7.4256723E-6 | 1.0 | 0.0 | 2.068598E-5 | 3.1823936E-5 | 3.1823936E-5 | 1.0 | 0.0 | 2.518227E-4 | 3.8739032E-4 | 3.8739032E-4 | 1.0 | 0.0 | 0.0025153751 | 0.0038700053 | 0.0038998893 | 1.0077219 | 3.0E-5 |
+| 6.6 | 4.3146847E-6 | 6.8855975E-6 | 6.8855975E-6 | 1.0 | 0.0 | 1.8491375E-5 | 2.9509383E-5 | 2.9509383E-5 | 1.0 | 0.0 | 2.2510924E-4 | 3.5921996E-4 | 3.5921996E-4 | 1.0 | 0.0 | 0.0022488134 | 0.0035892157 | 0.003609144 | 1.0055523 | 2.0E-5 |
+| 6.7 | 3.6968106E-6 | 5.9986346E-6 | 5.9986346E-6 | 1.0 | 0.0 | 1.5843378E-5 | 2.570819E-5 | 2.570819E-5 | 1.0 | 0.0 | 1.9287605E-4 | 3.1295378E-4 | 3.1295378E-4 | 1.0 | 0.0 | 0.0019270873 | 0.003127863 | 0.0031478005 | 1.0063741 | 2.0E-5 |
+| 6.8 | 3.4671132E-6 | 5.7052534E-6 | 5.7052534E-6 | 1.0 | 0.0 | 1.4858972E-5 | 2.4450865E-5 | 2.4450865E-5 | 1.0 | 0.0 | 1.8089297E-4 | 2.9765005E-4 | 2.9765005E-4 | 1.0 | 0.0 | 0.0018074579 | 0.0029752376 | 0.002995178 | 1.0067022 | 2.0E-5 |
+| 6.9 | 2.7686972E-6 | 4.828063E-6 | 4.828063E-6 | 1.0 | 0.0 | 1.1865792E-5 | 2.069154E-5 | 2.069154E-5 | 1.0 | 0.0 | 1.4445644E-4 | 2.5189112E-4 | 2.5189112E-4 | 1.0 | 0.0 | 0.0014436257 | 0.0025187118 | 0.0025386615 | 1.0079206 | 2.0E-5 |
+| 7.0 | 2.1472624E-6 | 3.9876204E-6 | 3.9876204E-6 | 1.0 | 0.0 | 9.20252E-6 | 1.7089693E-5 | 1.7089693E-5 | 1.0 | 0.0 | 1.12034926E-4 | 2.080477E-4 | 2.080477E-4 | 1.0 | 0.0 | 0.0011197845 | 0.0020811528 | 0.002091132 | 1.0047951 | 1.0E-5 |
+| 7.1 | 1.7018335E-6 | 3.3472238E-6 | 3.3472238E-6 | 1.0 | 0.0 | 7.293552E-6 | 1.4345168E-5 | 1.4345168E-5 | 1.0 | 0.0 | 8.879537E-5 | 1.7463879E-4 | 1.7463879E-4 | 1.0 | 0.0 | 8.87599E-4 | 0.0017476075 | 0.00175759 | 1.0057122 | 1.0E-5 |
+| 7.2 | 1.25603E-6 | 2.7967021E-6 | 2.7967021E-6 | 1.0 | 0.0 | 5.3829745E-6 | 1.1985812E-5 | 1.1985812E-5 | 1.0 | 0.0 | 6.553574E-5 | 1.4591771E-4 | 1.4591771E-4 | 1.0 | 0.0 | 6.551642E-4 | 0.0014607868 | 0.0014707722 | 1.0068356 | 1.0E-5 |
+| 7.3 | 1.112297E-6 | 2.6124264E-6 | 2.6124264E-6 | 1.0 | 0.0 | 4.7669787E-6 | 1.1196066E-5 | 1.1196066E-5 | 1.0 | 0.0 | 5.803642E-5 | 1.363038E-4 | 1.363038E-4 | 1.0 | 0.0 | 5.802127E-4 | 0.0013646018 | 0.0013745881 | 1.0073181 | 1.0E-5 |
+| 7.4 | 1.0137181E-6 | 2.4854962E-6 | 2.4854962E-6 | 1.0 | 0.0 | 4.3444993E-6 | 1.0652085E-5 | 1.0652085E-5 | 1.0 | 0.0 | 5.2892992E-5 | 1.2968163E-4 | 1.2968163E-4 | 1.0 | 0.0 | 5.288041E-4 | 0.0012982433 | 0.0013082303 | 1.0076927 | 1.0E-5 |
+| 7.5 | 9.598608E-7 | 2.4090932E-6 | 2.4090932E-6 | 1.0 | 0.0 | 4.1136827E-6 | 1.0324645E-5 | 1.0324645E-5 | 1.0 | 0.0 | 5.0082934E-5 | 1.2569551E-4 | 1.2569551E-4 | 1.0 | 0.0 | 5.007165E-4 | 0.0012582362 | 0.0012682237 | 1.0079377 | 1.0E-5 |
+| 7.6 | 7.929459E-7 | 2.0465766E-6 | 2.0465766E-6 | 1.0 | 0.0 | 3.3983351E-6 | 8.771014E-6 | 8.771014E-6 | 1.0 | 0.0 | 4.1373947E-5 | 1.0678204E-4 | 1.0678204E-4 | 1.0 | 0.0 | 4.1366243E-4 | 0.0010693908 | 0.0010693908 | 1.0 | 0.0 |
+| 7.7 | 4.155788E-7 | 1.1617767E-6 | 1.1617767E-6 | 1.0 | 0.0 | 1.7810507E-6 | 4.9790337E-6 | 4.9790337E-6 | 1.0 | 0.0 | 2.1684076E-5 | 6.0618087E-5 | 6.0618087E-5 | 1.0 | 0.0 | 2.1681961E-4 | 6.091878E-4 | 6.091878E-4 | 1.0 | 0.0 |
+| 7.8 | 1.14666925E-7 | 2.59475E-7 | 2.59475E-7 | 1.0 | 0.0 | 4.914296E-7 | 1.1120353E-6 | 1.1120353E-6 | 1.0 | 0.0 | 5.9831386E-6 | 1.353895E-5 | 1.353895E-5 | 1.0 | 0.0 | 5.9829777E-5 | 1.3648138E-4 | 1.3648138E-4 | 1.0 | 0.0 |
+| 7.9 | 2.9231824E-8 | 4.150957E-8 | 4.150957E-8 | 1.0 | 0.0 | 1.2527924E-7 | 1.7789813E-7 | 1.7789813E-7 | 1.0 | 0.0 | 1.5252737E-6 | 2.1659077E-6 | 2.1659077E-6 | 1.0 | 0.0 | 1.5252632E-5 | 2.1991611E-5 | 2.1991611E-5 | 1.0 | 0.0 |
 
 ## Santa Cruz Island
 *[(top)](#table-of-contents)*
@@ -2845,37 +2945,62 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.8 | 4.1522263E-8 | 3.965715E-8 | 3.965715E-8 | 1.0 | 0.0 | 1.7795254E-7 | 1.6995921E-7 | 1.6995921E-7 | 1.0 | 0.0 | 2.16657E-6 | 2.0692517E-6 | 2.0692517E-6 | 1.0 | 0.0 | 2.1665488E-5 | 2.0692343E-5 | 2.0692343E-5 | 1.0 | 0.0 |
 | 7.9 | 7.7242046E-10 | 5.9469063E-10 | 5.9469063E-10 | 1.0 | 0.0 | 3.3103735E-9 | 2.5486744E-9 | 2.5486744E-9 | 1.0 | 0.0 | 4.0303796E-8 | 3.1030112E-8 | 3.1030112E-8 | 1.0 | 0.0 | 4.030379E-7 | 3.103011E-7 | 3.103011E-7 | 1.0 | 0.0 |
 
-## Calaveras (So) - Paicines extension 2011 CFM
+## Newport-Inglewood alt 1
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Calaveras_So_Paicines_extension_2011_CFM_1wk.png) | ![MPD](Calaveras_So_Paicines_extension_2011_CFM_1mo.png) | ![MPD](Calaveras_So_Paicines_extension_2011_CFM_1yr.png) | ![MPD](Calaveras_So_Paicines_extension_2011_CFM_10yr.png) |
+| ![MPD](Newport_Inglewood_alt_1_1wk.png) | ![MPD](Newport_Inglewood_alt_1_1mo.png) | ![MPD](Newport_Inglewood_alt_1_1yr.png) | ![MPD](Newport_Inglewood_alt_1_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.5183659E-4 | 3.052773E-4 | 3.052773E-4 | 1.0 | 0.0 | 6.5056595E-4 | 0.0013076358 | 0.0013076358 | 1.0 | 0.0 | 0.007891912 | 0.01570158 | 0.01570158 | 1.0 | 0.0 | 0.076174594 | 0.13853289 | 0.13855013 | 1.0001243 | 2.0E-5 |
-| 6.1 | 1.5024997E-4 | 3.02217E-4 | 3.02217E-4 | 1.0 | 0.0 | 6.437695E-4 | 0.0012945335 | 0.0012945335 | 1.0 | 0.0 | 0.0078097614 | 0.015544962 | 0.015544962 | 1.0 | 0.0 | 0.075409345 | 0.13720244 | 0.1372197 | 1.0001258 | 2.0E-5 |
-| 6.2 | 1.2743923E-4 | 2.533313E-4 | 2.533313E-4 | 1.0 | 0.0 | 5.460538E-4 | 0.0010852051 | 0.0010852051 | 1.0 | 0.0 | 0.0066279583 | 0.013052239 | 0.013052239 | 1.0 | 0.0 | 0.064337276 | 0.11730083 | 0.11730966 | 1.0000752 | 1.0E-5 |
-| 6.3 | 1.1525114E-4 | 2.2617549E-4 | 2.2617549E-4 | 1.0 | 0.0 | 4.9383997E-4 | 9.6894085E-4 | 9.6894085E-4 | 1.0 | 0.0 | 0.0059959386 | 0.011673429 | 0.011673429 | 1.0 | 0.0 | 0.058367174 | 0.106417134 | 0.106426075 | 1.0000839 | 1.0E-5 |
-| 6.4 | 1.07200925E-4 | 2.085579E-4 | 2.085579E-4 | 1.0 | 0.0 | 4.5935164E-4 | 8.9349016E-4 | 8.9349016E-4 | 1.0 | 0.0 | 0.0055782744 | 0.01077823 | 0.01077823 | 1.0 | 0.0 | 0.0544031 | 0.09923991 | 0.099248916 | 1.0000907 | 1.0E-5 |
-| 6.5 | 9.69631E-5 | 1.8746332E-4 | 1.8746332E-4 | 1.0 | 0.0 | 4.1548995E-4 | 8.0314995E-4 | 8.0314995E-4 | 1.0 | 0.0 | 0.0050468626 | 0.009700045 | 0.009700045 | 1.0 | 0.0 | 0.04933773 | 0.090131566 | 0.09014066 | 1.000101 | 1.0E-5 |
-| 6.6 | 8.0552316E-5 | 1.5081883E-4 | 1.5081883E-4 | 1.0 | 0.0 | 3.4517853E-4 | 6.4618274E-4 | 6.4618274E-4 | 1.0 | 0.0 | 0.0041944524 | 0.007831711 | 0.007831711 | 1.0 | 0.0 | 0.04116161 | 0.07490183 | 0.07491108 | 1.0001235 | 1.0E-5 |
-| 6.7 | 7.815757E-5 | 1.462194E-4 | 1.462194E-4 | 1.0 | 0.0 | 3.34918E-4 | 6.2650174E-4 | 6.2650174E-4 | 1.0 | 0.0 | 0.004070005 | 0.007594524 | 0.007594524 | 1.0 | 0.0 | 0.039962657 | 0.07275128 | 0.07276055 | 1.0001274 | 1.0E-5 |
-| 6.8 | 6.965264E-5 | 1.2731973E-4 | 1.2731973E-4 | 1.0 | 0.0 | 2.9847719E-4 | 5.4554077E-4 | 5.4554077E-4 | 1.0 | 0.0 | 0.0036279052 | 0.006618584 | 0.006618584 | 1.0 | 0.0 | 0.03569247 | 0.06384469 | 0.06385405 | 1.0001466 | 1.0E-5 |
-| 6.9 | 5.8000453E-5 | 1.01523416E-4 | 1.01523416E-4 | 1.0 | 0.0 | 2.4854968E-4 | 4.3502837E-4 | 4.3502837E-4 | 1.0 | 0.0 | 0.0030218933 | 0.0052837124 | 0.0052837124 | 1.0 | 0.0 | 0.029811295 | 0.051542826 | 0.05155231 | 1.000184 | 1.0E-5 |
-| 7.0 | 4.9865852E-5 | 8.5763946E-5 | 8.5763946E-5 | 1.0 | 0.0 | 2.1369329E-4 | 3.6750847E-4 | 3.6750847E-4 | 1.0 | 0.0 | 0.0025986114 | 0.004465325 | 0.004465325 | 1.0 | 0.0 | 0.025684336 | 0.043822676 | 0.04383224 | 1.0002182 | 1.0E-5 |
-| 7.1 | 4.283875E-5 | 7.1186725E-5 | 7.1186725E-5 | 1.0 | 0.0 | 1.8358172E-4 | 3.050506E-4 | 3.050506E-4 | 1.0 | 0.0 | 0.0022328163 | 0.0037077225 | 0.0037077225 | 1.0 | 0.0 | 0.022105146 | 0.03676716 | 0.03677679 | 1.000262 | 1.0E-5 |
-| 7.2 | 3.450115E-5 | 5.5839675E-5 | 5.5839675E-5 | 1.0 | 0.0 | 1.478537E-4 | 2.392911E-4 | 2.392911E-4 | 1.0 | 0.0 | 0.0017986323 | 0.002909506 | 0.002909506 | 1.0 | 0.0 | 0.017841442 | 0.02911007 | 0.02911978 | 1.0003335 | 1.0E-5 |
-| 7.3 | 2.5709045E-5 | 4.0644358E-5 | 4.0644358E-5 | 1.0 | 0.0 | 1.1017697E-4 | 1.7417857E-4 | 1.7417857E-4 | 1.0 | 0.0 | 0.0013405791 | 0.0021185784 | 0.0021185784 | 1.0 | 0.0 | 0.013325208 | 0.021324893 | 0.02133468 | 1.000459 | 1.0E-5 |
-| 7.4 | 1.8003093E-5 | 2.853691E-5 | 2.853691E-5 | 1.0 | 0.0 | 7.715383E-5 | 1.2229531E-4 | 1.2229531E-4 | 1.0 | 0.0 | 9.3894306E-4 | 0.0014879309 | 0.0014879309 | 1.0 | 0.0 | 0.009349857 | 0.015065318 | 0.015075168 | 1.0006537 | 1.0E-5 |
-| 7.5 | 1.5595824E-5 | 2.5848529E-5 | 2.5848529E-5 | 1.0 | 0.0 | 6.683753E-5 | 1.10774716E-4 | 1.10774716E-4 | 1.0 | 0.0 | 8.134431E-4 | 0.00134785 | 0.00134785 | 1.0 | 0.0 | 0.008104719 | 0.013664801 | 0.013674664 | 1.0007218 | 1.0E-5 |
-| 7.6 | 1.1110309E-5 | 1.9245095E-5 | 1.9245095E-5 | 1.0 | 0.0 | 4.761474E-5 | 8.2476385E-5 | 8.2476385E-5 | 1.0 | 0.0 | 5.795553E-4 | 0.0010036888 | 0.0010036888 | 1.0 | 0.0 | 0.0057804612 | 0.010215148 | 0.010225046 | 1.0009689 | 1.0E-5 |
-| 7.7 | 6.2140443E-6 | 1.04531455E-5 | 1.04531455E-5 | 1.0 | 0.0 | 2.6631347E-5 | 4.4798424E-5 | 4.4798424E-5 | 1.0 | 0.0 | 3.241884E-4 | 5.452844E-4 | 5.452844E-4 | 1.0 | 0.0 | 0.0032371588 | 0.0056276857 | 0.0056376294 | 1.0017669 | 1.0E-5 |
-| 7.8 | 5.305533E-6 | 9.447369E-6 | 9.447369E-6 | 1.0 | 0.0 | 2.27378E-5 | 4.0488096E-5 | 4.0488096E-5 | 1.0 | 0.0 | 2.7679754E-4 | 4.9283117E-4 | 4.9283117E-4 | 1.0 | 0.0 | 0.0027645302 | 0.005081297 | 0.005091246 | 1.001958 | 1.0E-5 |
-| 7.9 | 3.363505E-6 | 7.39551E-6 | 7.39551E-6 | 1.0 | 0.0 | 1.4414942E-5 | 3.1694657E-5 | 3.1694657E-5 | 1.0 | 0.0 | 1.7548777E-4 | 3.858142E-4 | 3.858142E-4 | 1.0 | 0.0 | 0.0017534926 | 0.0039536534 | 0.003963614 | 1.0025192 | 1.0E-5 |
-| 8.0 | 2.0271132E-6 | 4.4191597E-6 | 4.4191597E-6 | 1.0 | 0.0 | 8.687599E-6 | 1.893912E-5 | 1.893912E-5 | 1.0 | 0.0 | 1.05766376E-4 | 2.3055942E-4 | 2.3055942E-4 | 1.0 | 0.0 | 0.0010571606 | 0.0023540538 | 0.0023540538 | 1.0 | 0.0 |
-| 8.1 | 1.2206116E-6 | 2.3784507E-6 | 2.3784507E-6 | 1.0 | 0.0 | 5.2311816E-6 | 1.019332E-5 | 1.019332E-5 | 1.0 | 0.0 | 6.3687774E-5 | 1.2409665E-4 | 1.2409665E-4 | 1.0 | 0.0 | 6.366953E-4 | 0.0012722017 | 0.0012722017 | 1.0 | 0.0 |
+| 6.0 | 2.9668912E-5 | 3.0406676E-5 | 3.0406676E-5 | 1.0 | 0.0 | 1.2714628E-4 | 1.3031055E-4 | 1.3031055E-4 | 1.0 | 0.0 | 0.0015469068 | 0.0015858584 | 0.0016058268 | 1.0125915 | 2.0E-5 | 0.015361829 | 0.015793001 | 0.015822528 | 1.0018696 | 3.0E-5 |
+| 6.1 | 2.9668912E-5 | 3.0406676E-5 | 3.0406676E-5 | 1.0 | 0.0 | 1.2714628E-4 | 1.3031055E-4 | 1.3031055E-4 | 1.0 | 0.0 | 0.0015469068 | 0.0015858584 | 0.0016058268 | 1.0125915 | 2.0E-5 | 0.015361829 | 0.015793001 | 0.015822528 | 1.0018696 | 3.0E-5 |
+| 6.2 | 2.9668912E-5 | 3.0406676E-5 | 3.0406676E-5 | 1.0 | 0.0 | 1.2714628E-4 | 1.3031055E-4 | 1.3031055E-4 | 1.0 | 0.0 | 0.0015469068 | 0.0015858584 | 0.0016058268 | 1.0125915 | 2.0E-5 | 0.015361829 | 0.015793001 | 0.015822528 | 1.0018696 | 3.0E-5 |
+| 6.3 | 2.9668912E-5 | 3.0406676E-5 | 3.0406676E-5 | 1.0 | 0.0 | 1.2714628E-4 | 1.3031055E-4 | 1.3031055E-4 | 1.0 | 0.0 | 0.0015469068 | 0.0015858584 | 0.0016058268 | 1.0125915 | 2.0E-5 | 0.015361829 | 0.015793001 | 0.015822528 | 1.0018696 | 3.0E-5 |
+| 6.4 | 1.275942E-5 | 1.027286E-5 | 1.027286E-5 | 1.0 | 0.0 | 5.4682085E-5 | 4.4025823E-5 | 4.4025823E-5 | 1.0 | 0.0 | 6.65551E-4 | 5.3588673E-4 | 5.55876E-4 | 1.0373013 | 2.0E-5 | 0.0066356123 | 0.00534637 | 0.0053762095 | 1.0055813 | 3.0E-5 |
+| 6.5 | 1.275942E-5 | 1.027286E-5 | 1.027286E-5 | 1.0 | 0.0 | 5.4682085E-5 | 4.4025823E-5 | 4.4025823E-5 | 1.0 | 0.0 | 6.65551E-4 | 5.3588673E-4 | 5.55876E-4 | 1.0373013 | 2.0E-5 | 0.0066356123 | 0.00534637 | 0.0053762095 | 1.0055813 | 3.0E-5 |
+| 6.6 | 1.1255358E-5 | 8.662163E-6 | 8.662163E-6 | 1.0 | 0.0 | 4.8236358E-5 | 3.7123038E-5 | 3.7123038E-5 | 1.0 | 0.0 | 5.871194E-4 | 4.5188097E-4 | 4.7187193E-4 | 1.0442394 | 2.0E-5 | 0.005855706 | 0.0045097983 | 0.004539663 | 1.0066222 | 3.0E-5 |
+| 6.7 | 1.0504745E-5 | 7.9000465E-6 | 7.9000465E-6 | 1.0 | 0.0 | 4.5019555E-5 | 3.3856908E-5 | 3.3856908E-5 | 1.0 | 0.0 | 5.4797524E-4 | 4.1213114E-4 | 4.321229E-4 | 1.0485083 | 2.0E-5 | 0.0054662596 | 0.0041137985 | 0.004143675 | 1.0072626 | 3.0E-5 |
+| 6.8 | 1.0476007E-5 | 7.881427E-6 | 7.881427E-6 | 1.0 | 0.0 | 4.4896402E-5 | 3.3777113E-5 | 3.3777113E-5 | 1.0 | 0.0 | 5.464766E-4 | 4.1116E-4 | 4.3115177E-4 | 1.0486228 | 2.0E-5 | 0.005451347 | 0.004104123 | 0.004134 | 1.0072798 | 3.0E-5 |
+| 6.9 | 9.076797E-6 | 6.489834E-6 | 6.489834E-6 | 1.0 | 0.0 | 3.889998E-5 | 2.781328E-5 | 2.781328E-5 | 1.0 | 0.0 | 4.7350433E-4 | 3.3857438E-4 | 3.5856763E-4 | 1.0590512 | 2.0E-5 | 0.004724967 | 0.003380623 | 0.0034005553 | 1.0058961 | 2.0E-5 |
+| 7.0 | 8.73795E-6 | 6.212212E-6 | 6.212212E-6 | 1.0 | 0.0 | 3.7447822E-5 | 2.6623497E-5 | 2.6623497E-5 | 1.0 | 0.0 | 4.5583185E-4 | 3.2409313E-4 | 3.4408664E-4 | 1.0616907 | 2.0E-5 | 0.0045489795 | 0.0032362365 | 0.0032561717 | 1.00616 | 2.0E-5 |
+| 7.1 | 8.391299E-6 | 5.955984E-6 | 5.955984E-6 | 1.0 | 0.0 | 3.5962214E-5 | 2.5525398E-5 | 2.5525398E-5 | 1.0 | 0.0 | 4.37752E-4 | 3.1072766E-4 | 3.3072144E-4 | 1.064345 | 2.0E-5 | 0.004368907 | 0.0031029615 | 0.0031228994 | 1.0064255 | 2.0E-5 |
+| 7.2 | 7.796882E-6 | 5.49672E-6 | 5.49672E-6 | 1.0 | 0.0 | 3.341478E-5 | 2.355716E-5 | 2.355716E-5 | 1.0 | 0.0 | 4.06749E-4 | 2.867709E-4 | 3.0676514E-4 | 1.069722 | 2.0E-5 | 0.0040600533 | 0.0028640323 | 0.002883975 | 1.0069631 | 2.0E-5 |
+| 7.3 | 6.4738833E-6 | 4.647925E-6 | 4.647925E-6 | 1.0 | 0.0 | 2.774492E-5 | 1.9919527E-5 | 1.9919527E-5 | 1.0 | 0.0 | 3.3774204E-4 | 2.4249342E-4 | 2.6248855E-4 | 1.0824565 | 2.0E-5 | 0.0033722918 | 0.0024223048 | 0.0024422563 | 1.0082366 | 2.0E-5 |
+| 7.4 | 5.382145E-6 | 3.885849E-6 | 3.885849E-6 | 1.0 | 0.0 | 2.3066134E-5 | 1.6653532E-5 | 1.6653532E-5 | 1.0 | 0.0 | 2.8079396E-4 | 2.0273803E-4 | 2.12736E-4 | 1.0493147 | 1.0E-5 | 0.0028043943 | 0.0020255453 | 0.002035525 | 1.0049269 | 1.0E-5 |
+| 7.5 | 3.648244E-6 | 2.573842E-6 | 2.573842E-6 | 1.0 | 0.0 | 1.5635238E-5 | 1.10307055E-5 | 1.10307055E-5 | 1.0 | 0.0 | 1.9034238E-4 | 1.3429066E-4 | 1.3429066E-4 | 1.0 | 0.0 | 0.0019017943 | 0.0013421056 | 0.0013421056 | 1.0 | 0.0 |
+| 7.6 | 2.2906888E-6 | 1.5480238E-6 | 1.5480238E-6 | 1.0 | 0.0 | 9.817201E-6 | 6.634371E-6 | 6.634371E-6 | 1.0 | 0.0 | 1.1951787E-4 | 8.0770544E-5 | 8.0770544E-5 | 1.0 | 0.0 | 0.0011945361 | 8.0741855E-4 | 8.0741855E-4 | 1.0 | 0.0 |
+| 7.7 | 6.0479874E-7 | 3.3976116E-7 | 3.3976116E-7 | 1.0 | 0.0 | 2.5919921E-6 | 1.4561185E-6 | 1.4561185E-6 | 1.0 | 0.0 | 3.1557047E-5 | 1.7728113E-5 | 1.7728113E-5 | 1.0 | 0.0 | 3.1552566E-4 | 1.7726836E-4 | 1.7726836E-4 | 1.0 | 0.0 |
+| 7.8 | 1.16056995E-8 | 9.782426E-9 | 9.782426E-9 | 1.0 | 0.0 | 4.9738713E-8 | 4.1924682E-8 | 4.1924682E-8 | 1.0 | 0.0 | 6.0556863E-7 | 5.1043304E-7 | 5.1043304E-7 | 1.0 | 0.0 | 6.05567E-6 | 5.1043303E-6 | 5.1043303E-6 | 1.0 | 0.0 |
+
+## Rose Canyon
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Rose_Canyon_1wk.png) | ![MPD](Rose_Canyon_1mo.png) | ![MPD](Rose_Canyon_1yr.png) | ![MPD](Rose_Canyon_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 4.5923203E-5 | 4.971889E-5 | 4.971889E-5 | 1.0 | 0.0 | 1.9679888E-4 | 2.1306289E-4 | 2.1306289E-4 | 1.0 | 0.0 | 0.0023933933 | 0.0025911625 | 0.0026111105 | 1.0076985 | 2.0E-5 | 0.023677798 | 0.025642276 | 0.025671506 | 1.00114 | 3.0E-5 |
+| 6.1 | 4.5923203E-5 | 4.971889E-5 | 4.971889E-5 | 1.0 | 0.0 | 1.9679888E-4 | 2.1306289E-4 | 2.1306289E-4 | 1.0 | 0.0 | 0.0023933933 | 0.0025911625 | 0.0026111105 | 1.0076985 | 2.0E-5 | 0.023677798 | 0.025642276 | 0.025661763 | 1.00076 | 2.0E-5 |
+| 6.2 | 2.8844734E-5 | 2.9670931E-5 | 2.9670931E-5 | 1.0 | 0.0 | 1.2361443E-4 | 1.2715312E-4 | 1.2715312E-4 | 1.0 | 0.0 | 0.0015039665 | 0.0015470065 | 0.0015669756 | 1.0129082 | 2.0E-5 | 0.0149382865 | 0.015375392 | 0.015395083 | 1.0012808 | 2.0E-5 |
+| 6.3 | 2.3171577E-5 | 2.3162687E-5 | 2.3162687E-5 | 1.0 | 0.0 | 9.9302975E-5 | 9.926496E-5 | 9.926496E-5 | 1.0 | 0.0 | 0.0012083431 | 0.0012078941 | 0.00122787 | 1.0165378 | 2.0E-5 | 0.012017938 | 0.012023181 | 0.012042941 | 1.0016434 | 2.0E-5 |
+| 6.4 | 2.0066604E-5 | 1.9668267E-5 | 1.9668267E-5 | 1.0 | 0.0 | 8.599689E-5 | 8.42899E-5 | 8.42899E-5 | 1.0 | 0.0 | 0.0010465092 | 0.0010257565 | 0.0010457359 | 1.0194778 | 2.0E-5 | 0.010415946 | 0.010218199 | 0.010237996 | 1.0019373 | 2.0E-5 |
+| 6.5 | 1.776989E-5 | 1.7114877E-5 | 1.7114877E-5 | 1.0 | 0.0 | 7.615444E-5 | 7.334745E-5 | 7.334745E-5 | 1.0 | 0.0 | 9.267859E-4 | 8.926463E-4 | 9.126284E-4 | 1.0223852 | 2.0E-5 | 0.009229303 | 0.008896765 | 0.008916587 | 1.002228 | 2.0E-5 |
+| 6.6 | 1.5227364E-5 | 1.4339947E-5 | 1.4339947E-5 | 1.0 | 0.0 | 6.52585E-5 | 6.1455496E-5 | 6.1455496E-5 | 1.0 | 0.0 | 7.942326E-4 | 7.47969E-4 | 7.6795404E-4 | 1.0267191 | 2.0E-5 | 0.007914 | 0.0074587152 | 0.0074785664 | 1.0026615 | 2.0E-5 |
+| 6.7 | 1.2703898E-5 | 1.1673768E-5 | 1.1673768E-5 | 1.0 | 0.0 | 5.4444143E-5 | 5.00295E-5 | 5.00295E-5 | 1.0 | 0.0 | 6.626558E-4 | 6.0894317E-4 | 6.28931E-4 | 1.0328238 | 2.0E-5 | 0.006606833 | 0.0060753413 | 0.00609522 | 1.0032719 | 2.0E-5 |
+| 6.8 | 1.1554917E-5 | 1.0609752E-5 | 1.0609752E-5 | 1.0 | 0.0 | 4.9520135E-5 | 4.5469595E-5 | 4.5469595E-5 | 1.0 | 0.0 | 6.0274085E-4 | 5.534558E-4 | 5.734447E-4 | 1.0361166 | 2.0E-5 | 0.0060110865 | 0.0055227824 | 0.005542672 | 1.0036013 | 2.0E-5 |
+| 6.9 | 8.732078E-6 | 7.881612E-6 | 7.881612E-6 | 1.0 | 0.0 | 3.7422655E-5 | 3.3777913E-5 | 3.3777913E-5 | 1.0 | 0.0 | 4.5552556E-4 | 4.1117144E-4 | 4.311632E-4 | 1.0486215 | 2.0E-5 | 0.0045459294 | 0.00410494 | 0.004124858 | 1.0048522 | 2.0E-5 |
+| 7.0 | 5.9337494E-6 | 5.107613E-6 | 5.107613E-6 | 1.0 | 0.0 | 2.5430107E-5 | 2.1889588E-5 | 2.1889588E-5 | 1.0 | 0.0 | 3.0956755E-4 | 2.6647327E-4 | 2.8646793E-4 | 1.0750344 | 2.0E-5 | 0.0030913667 | 0.002661553 | 0.0026814998 | 1.0074944 | 2.0E-5 |
+| 7.1 | 5.013409E-6 | 4.1774847E-6 | 4.1774847E-6 | 1.0 | 0.0 | 2.1485863E-5 | 1.7903383E-5 | 1.7903383E-5 | 1.0 | 0.0 | 2.6155898E-4 | 2.17952E-4 | 2.3794764E-4 | 1.0917434 | 2.0E-5 | 0.0026125133 | 0.002177394 | 0.0021973504 | 1.0091653 | 2.0E-5 |
+| 7.2 | 4.120763E-6 | 3.2822204E-6 | 3.2822204E-6 | 1.0 | 0.0 | 1.7660293E-5 | 1.4066584E-5 | 1.4066584E-5 | 1.0 | 0.0 | 2.1499286E-4 | 1.7124729E-4 | 1.9124386E-4 | 1.1167701 | 2.0E-5 | 0.0021478499 | 0.0017111629 | 0.0017311285 | 1.011668 | 2.0E-5 |
+| 7.3 | 3.2081239E-6 | 2.4406E-6 | 2.4406E-6 | 1.0 | 0.0 | 1.374903E-5 | 1.0459672E-5 | 1.0459672E-5 | 1.0 | 0.0 | 1.6738157E-4 | 1.2733914E-4 | 1.4733658E-4 | 1.157041 | 2.0E-5 | 0.0016725556 | 0.0012726687 | 0.0012926433 | 1.015695 | 2.0E-5 |
+| 7.4 | 2.4194755E-6 | 1.7681109E-6 | 1.7681109E-6 | 1.0 | 0.0 | 1.0369139E-5 | 7.5775965E-6 | 7.5775965E-6 | 1.0 | 0.0 | 1.2623696E-4 | 9.225339E-5 | 1.0225247E-4 | 1.1083871 | 1.0E-5 | 0.0012616527 | 9.2215627E-4 | 9.32147E-4 | 1.0108341 | 1.0E-5 |
+| 7.5 | 1.3842889E-6 | 9.3789356E-7 | 9.3789356E-7 | 1.0 | 0.0 | 5.9326535E-6 | 4.0195378E-6 | 4.0195378E-6 | 1.0 | 0.0 | 7.222766E-5 | 4.893681E-5 | 4.893681E-5 | 1.0 | 0.0 | 7.220419E-4 | 4.8926385E-4 | 4.8926385E-4 | 1.0 | 0.0 |
+| 7.6 | 1.0021575E-6 | 6.4117023E-7 | 6.4117023E-7 | 1.0 | 0.0 | 4.2949537E-6 | 2.7478698E-6 | 2.7478698E-6 | 1.0 | 0.0 | 5.2289808E-5 | 3.345482E-5 | 3.345482E-5 | 1.0 | 0.0 | 5.2277505E-4 | 3.345E-4 | 3.345E-4 | 1.0 | 0.0 |
+| 7.7 | 8.7620116E-8 | 6.449362E-8 | 6.449362E-8 | 1.0 | 0.0 | 3.7551473E-7 | 2.764012E-7 | 2.764012E-7 | 1.0 | 0.0 | 4.5718825E-6 | 3.36518E-6 | 3.36518E-6 | 1.0 | 0.0 | 4.5717883E-5 | 3.365132E-5 | 3.365132E-5 | 1.0 | 0.0 |
 
 ## San Andreas (Santa Cruz Mts) 2011 CFM
 *[(top)](#table-of-contents)*
@@ -2911,64 +3036,6 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.2 | 8.63836E-6 | 5.4831444E-6 | 5.4831444E-6 | 1.0 | 0.0 | 3.7021015E-5 | 2.3498978E-5 | 2.3498978E-5 | 1.0 | 0.0 | 4.5063766E-4 | 2.860626E-4 | 2.860626E-4 | 1.0 | 0.0 | 0.004497249 | 0.0032533836 | 0.0032533836 | 1.0 | 0.0 |
 | 8.3 | 1.983087E-6 | 7.68342E-7 | 7.68342E-7 | 1.0 | 0.0 | 8.498917E-6 | 3.2928901E-6 | 3.2928901E-6 | 1.0 | 0.0 | 1.034694E-4 | 4.0090217E-5 | 4.0090217E-5 | 1.0 | 0.0 | 0.0010342124 | 4.7331754E-4 | 4.7331754E-4 | 1.0 | 0.0 |
 
-## Newport-Inglewood alt 1
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Newport_Inglewood_alt_1_1wk.png) | ![MPD](Newport_Inglewood_alt_1_1mo.png) | ![MPD](Newport_Inglewood_alt_1_1yr.png) | ![MPD](Newport_Inglewood_alt_1_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.9668912E-5 | 3.0406676E-5 | 3.0406676E-5 | 1.0 | 0.0 | 1.2714628E-4 | 1.3031055E-4 | 1.3031055E-4 | 1.0 | 0.0 | 0.0015469068 | 0.0015858584 | 0.0016058268 | 1.0125915 | 2.0E-5 | 0.015361829 | 0.015793001 | 0.015822528 | 1.0018696 | 3.0E-5 |
-| 6.1 | 2.9668912E-5 | 3.0406676E-5 | 3.0406676E-5 | 1.0 | 0.0 | 1.2714628E-4 | 1.3031055E-4 | 1.3031055E-4 | 1.0 | 0.0 | 0.0015469068 | 0.0015858584 | 0.0016058268 | 1.0125915 | 2.0E-5 | 0.015361829 | 0.015793001 | 0.015822528 | 1.0018696 | 3.0E-5 |
-| 6.2 | 2.9668912E-5 | 3.0406676E-5 | 3.0406676E-5 | 1.0 | 0.0 | 1.2714628E-4 | 1.3031055E-4 | 1.3031055E-4 | 1.0 | 0.0 | 0.0015469068 | 0.0015858584 | 0.0016058268 | 1.0125915 | 2.0E-5 | 0.015361829 | 0.015793001 | 0.015822528 | 1.0018696 | 3.0E-5 |
-| 6.3 | 2.9668912E-5 | 3.0406676E-5 | 3.0406676E-5 | 1.0 | 0.0 | 1.2714628E-4 | 1.3031055E-4 | 1.3031055E-4 | 1.0 | 0.0 | 0.0015469068 | 0.0015858584 | 0.0016058268 | 1.0125915 | 2.0E-5 | 0.015361829 | 0.015793001 | 0.015822528 | 1.0018696 | 3.0E-5 |
-| 6.4 | 1.275942E-5 | 1.027286E-5 | 1.027286E-5 | 1.0 | 0.0 | 5.4682085E-5 | 4.4025823E-5 | 4.4025823E-5 | 1.0 | 0.0 | 6.65551E-4 | 5.3588673E-4 | 5.55876E-4 | 1.0373013 | 2.0E-5 | 0.0066356123 | 0.00534637 | 0.0053762095 | 1.0055813 | 3.0E-5 |
-| 6.5 | 1.275942E-5 | 1.027286E-5 | 1.027286E-5 | 1.0 | 0.0 | 5.4682085E-5 | 4.4025823E-5 | 4.4025823E-5 | 1.0 | 0.0 | 6.65551E-4 | 5.3588673E-4 | 5.55876E-4 | 1.0373013 | 2.0E-5 | 0.0066356123 | 0.00534637 | 0.0053762095 | 1.0055813 | 3.0E-5 |
-| 6.6 | 1.1255358E-5 | 8.662163E-6 | 8.662163E-6 | 1.0 | 0.0 | 4.8236358E-5 | 3.7123038E-5 | 3.7123038E-5 | 1.0 | 0.0 | 5.871194E-4 | 4.5188097E-4 | 4.7187193E-4 | 1.0442394 | 2.0E-5 | 0.005855706 | 0.0045097983 | 0.004539663 | 1.0066222 | 3.0E-5 |
-| 6.7 | 1.0504745E-5 | 7.9000465E-6 | 7.9000465E-6 | 1.0 | 0.0 | 4.5019555E-5 | 3.3856908E-5 | 3.3856908E-5 | 1.0 | 0.0 | 5.4797524E-4 | 4.1213114E-4 | 4.321229E-4 | 1.0485083 | 2.0E-5 | 0.0054662596 | 0.0041137985 | 0.004143675 | 1.0072626 | 3.0E-5 |
-| 6.8 | 1.0476007E-5 | 7.881427E-6 | 7.881427E-6 | 1.0 | 0.0 | 4.4896402E-5 | 3.3777113E-5 | 3.3777113E-5 | 1.0 | 0.0 | 5.464766E-4 | 4.1116E-4 | 4.3115177E-4 | 1.0486228 | 2.0E-5 | 0.005451347 | 0.004104123 | 0.004134 | 1.0072798 | 3.0E-5 |
-| 6.9 | 9.076797E-6 | 6.489834E-6 | 6.489834E-6 | 1.0 | 0.0 | 3.889998E-5 | 2.781328E-5 | 2.781328E-5 | 1.0 | 0.0 | 4.7350433E-4 | 3.3857438E-4 | 3.5856763E-4 | 1.0590512 | 2.0E-5 | 0.004724967 | 0.003380623 | 0.0034005553 | 1.0058961 | 2.0E-5 |
-| 7.0 | 8.73795E-6 | 6.212212E-6 | 6.212212E-6 | 1.0 | 0.0 | 3.7447822E-5 | 2.6623497E-5 | 2.6623497E-5 | 1.0 | 0.0 | 4.5583185E-4 | 3.2409313E-4 | 3.4408664E-4 | 1.0616907 | 2.0E-5 | 0.0045489795 | 0.0032362365 | 0.0032561717 | 1.00616 | 2.0E-5 |
-| 7.1 | 8.391299E-6 | 5.955984E-6 | 5.955984E-6 | 1.0 | 0.0 | 3.5962214E-5 | 2.5525398E-5 | 2.5525398E-5 | 1.0 | 0.0 | 4.37752E-4 | 3.1072766E-4 | 3.3072144E-4 | 1.064345 | 2.0E-5 | 0.004368907 | 0.0031029615 | 0.0031228994 | 1.0064255 | 2.0E-5 |
-| 7.2 | 7.796882E-6 | 5.49672E-6 | 5.49672E-6 | 1.0 | 0.0 | 3.341478E-5 | 2.355716E-5 | 2.355716E-5 | 1.0 | 0.0 | 4.06749E-4 | 2.867709E-4 | 3.0676514E-4 | 1.069722 | 2.0E-5 | 0.0040600533 | 0.0028640323 | 0.002883975 | 1.0069631 | 2.0E-5 |
-| 7.3 | 6.4738833E-6 | 4.647925E-6 | 4.647925E-6 | 1.0 | 0.0 | 2.774492E-5 | 1.9919527E-5 | 1.9919527E-5 | 1.0 | 0.0 | 3.3774204E-4 | 2.4249342E-4 | 2.6248855E-4 | 1.0824565 | 2.0E-5 | 0.0033722918 | 0.0024223048 | 0.0024422563 | 1.0082366 | 2.0E-5 |
-| 7.4 | 5.382145E-6 | 3.885849E-6 | 3.885849E-6 | 1.0 | 0.0 | 2.3066134E-5 | 1.6653532E-5 | 1.6653532E-5 | 1.0 | 0.0 | 2.8079396E-4 | 2.0273803E-4 | 2.12736E-4 | 1.0493147 | 1.0E-5 | 0.0028043943 | 0.0020255453 | 0.002035525 | 1.0049269 | 1.0E-5 |
-| 7.5 | 3.648244E-6 | 2.573842E-6 | 2.573842E-6 | 1.0 | 0.0 | 1.5635238E-5 | 1.10307055E-5 | 1.10307055E-5 | 1.0 | 0.0 | 1.9034238E-4 | 1.3429066E-4 | 1.3429066E-4 | 1.0 | 0.0 | 0.0019017943 | 0.0013421056 | 0.0013421056 | 1.0 | 0.0 |
-| 7.6 | 2.2906888E-6 | 1.5480238E-6 | 1.5480238E-6 | 1.0 | 0.0 | 9.817201E-6 | 6.634371E-6 | 6.634371E-6 | 1.0 | 0.0 | 1.1951787E-4 | 8.0770544E-5 | 8.0770544E-5 | 1.0 | 0.0 | 0.0011945361 | 8.0741855E-4 | 8.0741855E-4 | 1.0 | 0.0 |
-| 7.7 | 6.0479874E-7 | 3.3976116E-7 | 3.3976116E-7 | 1.0 | 0.0 | 2.5919921E-6 | 1.4561185E-6 | 1.4561185E-6 | 1.0 | 0.0 | 3.1557047E-5 | 1.7728113E-5 | 1.7728113E-5 | 1.0 | 0.0 | 3.1552566E-4 | 1.7726836E-4 | 1.7726836E-4 | 1.0 | 0.0 |
-| 7.8 | 1.16056995E-8 | 9.782426E-9 | 9.782426E-9 | 1.0 | 0.0 | 4.9738713E-8 | 4.1924682E-8 | 4.1924682E-8 | 1.0 | 0.0 | 6.0556863E-7 | 5.1043304E-7 | 5.1043304E-7 | 1.0 | 0.0 | 6.05567E-6 | 5.1043303E-6 | 5.1043303E-6 | 1.0 | 0.0 |
-
-## Rinconada 2011 CFM
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Rinconada_2011_CFM_1wk.png) | ![MPD](Rinconada_2011_CFM_1mo.png) | ![MPD](Rinconada_2011_CFM_1yr.png) | ![MPD](Rinconada_2011_CFM_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.5752368E-5 | 1.6274917E-5 | 1.6274917E-5 | 1.0 | 0.0 | 6.75084E-5 | 6.9747795E-5 | 6.9747795E-5 | 1.0 | 0.0 | 8.2160486E-4 | 8.4885175E-4 | 8.4885175E-4 | 1.0 | 0.0 | 0.008185739 | 0.008456474 | 0.008486221 | 1.0035176 | 3.0E-5 |
-| 6.1 | 1.0966133E-5 | 1.1323166E-5 | 1.1323166E-5 | 1.0 | 0.0 | 4.6996865E-5 | 4.852696E-5 | 4.852696E-5 | 1.0 | 0.0 | 5.720366E-4 | 5.906563E-4 | 5.906563E-4 | 1.0 | 0.0 | 0.0057056635 | 0.0058909603 | 0.0059108427 | 1.003375 | 2.0E-5 |
-| 6.2 | 1.0966133E-5 | 1.1323166E-5 | 1.1323166E-5 | 1.0 | 0.0 | 4.6996865E-5 | 4.852696E-5 | 4.852696E-5 | 1.0 | 0.0 | 5.720366E-4 | 5.906563E-4 | 5.906563E-4 | 1.0 | 0.0 | 0.0057056635 | 0.0058909603 | 0.0059108427 | 1.003375 | 2.0E-5 |
-| 6.3 | 8.926149E-6 | 9.212882E-6 | 9.212882E-6 | 1.0 | 0.0 | 3.8254362E-5 | 3.9483184E-5 | 3.9483184E-5 | 1.0 | 0.0 | 4.6564735E-4 | 4.806021E-4 | 4.806021E-4 | 1.0 | 0.0 | 0.0046467283 | 0.004795672 | 0.004815576 | 1.0041504 | 2.0E-5 |
-| 6.4 | 7.676955E-6 | 7.920285E-6 | 7.920285E-6 | 1.0 | 0.0 | 3.290082E-5 | 3.3943637E-5 | 3.3943637E-5 | 1.0 | 0.0 | 4.0049385E-4 | 4.131856E-4 | 4.131856E-4 | 1.0 | 0.0 | 0.0039977287 | 0.0041242 | 0.0041441177 | 1.0048294 | 2.0E-5 |
-| 6.5 | 6.1671026E-6 | 6.359029E-6 | 6.359029E-6 | 1.0 | 0.0 | 2.6430173E-5 | 2.7252698E-5 | 2.7252698E-5 | 1.0 | 0.0 | 3.2173982E-4 | 3.3175116E-4 | 3.3175116E-4 | 1.0 | 0.0 | 0.003212744 | 0.0033125712 | 0.003322538 | 1.0030088 | 1.0E-5 |
-| 6.6 | 5.553456E-6 | 5.724879E-6 | 5.724879E-6 | 1.0 | 0.0 | 2.3800309E-5 | 2.4534966E-5 | 2.4534966E-5 | 1.0 | 0.0 | 2.897302E-4 | 2.9867233E-4 | 2.9867233E-4 | 1.0 | 0.0 | 0.0028935277 | 0.0029827177 | 0.002992688 | 1.0033426 | 1.0E-5 |
-| 6.7 | 4.787857E-6 | 4.933366E-6 | 4.933366E-6 | 1.0 | 0.0 | 2.0519226E-5 | 2.1142827E-5 | 2.1142827E-5 | 1.0 | 0.0 | 2.4979294E-4 | 2.5738354E-4 | 2.5738354E-4 | 1.0 | 0.0 | 0.0024951235 | 0.00257086 | 0.0025808346 | 1.0038798 | 1.0E-5 |
-| 6.8 | 3.9955166E-6 | 4.113522E-6 | 4.113522E-6 | 1.0 | 0.0 | 1.7123532E-5 | 1.7629261E-5 | 1.7629261E-5 | 1.0 | 0.0 | 2.0845905E-4 | 2.1461514E-4 | 2.1461514E-4 | 1.0 | 0.0 | 0.002082636 | 0.0021440824 | 0.0021540609 | 1.004654 | 1.0E-5 |
-| 6.9 | 3.4250072E-6 | 3.5224843E-6 | 3.5224843E-6 | 1.0 | 0.0 | 1.46785205E-5 | 1.5096274E-5 | 1.5096274E-5 | 1.0 | 0.0 | 1.7869633E-4 | 1.8378165E-4 | 1.8378165E-4 | 1.0 | 0.0 | 0.001785527 | 0.0018362992 | 0.0018362992 | 1.0 | 0.0 |
-| 7.0 | 2.7712713E-6 | 2.8467296E-6 | 2.8467296E-6 | 1.0 | 0.0 | 1.1876823E-5 | 1.2200212E-5 | 1.2200212E-5 | 1.0 | 0.0 | 1.4459073E-4 | 1.4852747E-4 | 1.4852747E-4 | 1.0 | 0.0 | 0.0014449668 | 0.0014842836 | 0.0014842836 | 1.0 | 0.0 |
-| 7.1 | 2.227358E-6 | 2.2857214E-6 | 2.2857214E-6 | 1.0 | 0.0 | 9.545785E-6 | 9.795912E-6 | 9.795912E-6 | 1.0 | 0.0 | 1.16213734E-4 | 1.19258715E-4 | 1.19258715E-4 | 1.0 | 0.0 | 0.0011615298 | 0.0011919482 | 0.0011919482 | 1.0 | 0.0 |
-| 7.2 | 1.581796E-6 | 1.6209167E-6 | 1.6209167E-6 | 1.0 | 0.0 | 6.779108E-6 | 6.9467674E-6 | 6.9467674E-6 | 1.0 | 0.0 | 8.253252E-5 | 8.4573614E-5 | 8.4573614E-5 | 1.0 | 0.0 | 8.250187E-4 | 8.454149E-4 | 8.454149E-4 | 1.0 | 0.0 |
-| 7.3 | 1.0306567E-6 | 1.0546574E-6 | 1.0546574E-6 | 1.0 | 0.0 | 4.4170924E-6 | 4.5199527E-6 | 4.5199527E-6 | 1.0 | 0.0 | 5.3776774E-5 | 5.502904E-5 | 5.502904E-5 | 1.0 | 0.0 | 5.376376E-4 | 5.5015436E-4 | 5.5015436E-4 | 1.0 | 0.0 |
-| 7.4 | 6.535541E-7 | 6.6828045E-7 | 6.6828045E-7 | 1.0 | 0.0 | 2.800943E-6 | 2.864056E-6 | 2.864056E-6 | 1.0 | 0.0 | 3.4100947E-5 | 3.4869325E-5 | 3.4869325E-5 | 1.0 | 0.0 | 3.4095717E-4 | 3.4863866E-4 | 3.4863866E-4 | 1.0 | 0.0 |
-| 7.5 | 3.2656962E-7 | 3.3317002E-7 | 3.3317002E-7 | 1.0 | 0.0 | 1.3995833E-6 | 1.4278708E-6 | 1.4278708E-6 | 1.0 | 0.0 | 1.7039794E-5 | 1.7384187E-5 | 1.7384187E-5 | 1.0 | 0.0 | 1.7038487E-4 | 1.7382832E-4 | 1.7382832E-4 | 1.0 | 0.0 |
-| 7.6 | 9.754343E-8 | 9.8210805E-8 | 9.8210805E-8 | 1.0 | 0.0 | 4.180432E-7 | 4.2090338E-7 | 4.2090338E-7 | 1.0 | 0.0 | 5.089664E-6 | 5.1244865E-6 | 5.1244865E-6 | 1.0 | 0.0 | 5.0895473E-5 | 5.1243693E-5 | 5.1243693E-5 | 1.0 | 0.0 |
-| 7.7 | 6.0001453E-9 | 5.849116E-9 | 5.849116E-9 | 1.0 | 0.0 | 2.5714908E-8 | 2.5067639E-8 | 2.5067639E-8 | 1.0 | 0.0 | 3.1307894E-7 | 3.0519845E-7 | 3.0519845E-7 | 1.0 | 0.0 | 3.1307852E-6 | 3.0519807E-6 | 3.0519807E-6 | 1.0 | 0.0 |
-| 7.8 | 7.400003E-11 | 7.465473E-11 | 7.465473E-11 | 1.0 | 0.0 | 3.171432E-10 | 3.1994873E-10 | 3.1994873E-10 | 1.0 | 0.0 | 3.861218E-9 | 3.895376E-9 | 3.895376E-9 | 1.0 | 0.0 | 3.861218E-8 | 3.895376E-8 | 3.895376E-8 | 1.0 | 0.0 |
-
 ## Monterey Bay-Tularcitos
 *[(top)](#table-of-contents)*
 
@@ -2997,35 +3064,6 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.6 | 4.636058E-8 | 3.337065E-8 | 3.337065E-8 | 1.0 | 0.0 | 1.9868818E-7 | 1.4301706E-7 | 1.4301706E-7 | 1.0 | 0.0 | 2.419026E-6 | 1.7412314E-6 | 1.7412314E-6 | 1.0 | 0.0 | 2.4189996E-5 | 1.741218E-5 | 1.741218E-5 | 1.0 | 0.0 |
 | 7.7 | 1.8588572E-8 | 8.007671E-9 | 8.007671E-9 | 1.0 | 0.0 | 7.9665305E-8 | 3.431859E-8 | 3.431859E-8 | 1.0 | 0.0 | 9.699246E-7 | 4.1782872E-7 | 4.1782872E-7 | 1.0 | 0.0 | 9.699204E-6 | 4.1782796E-6 | 4.1782796E-6 | 1.0 | 0.0 |
 | 7.8 | 2.7960154E-9 | 7.616562E-10 | 7.616562E-10 | 1.0 | 0.0 | 1.1982923E-8 | 3.2642404E-9 | 3.2642404E-9 | 1.0 | 0.0 | 1.4589209E-7 | 3.9742126E-8 | 3.9742126E-8 | 1.0 | 0.0 | 1.4589199E-6 | 3.9742122E-7 | 3.9742122E-7 | 1.0 | 0.0 |
-
-## Santa Cruz Catalina Ridge alt1
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Santa_Cruz_Catalina_Ridge_alt1_1wk.png) | ![MPD](Santa_Cruz_Catalina_Ridge_alt1_1mo.png) | ![MPD](Santa_Cruz_Catalina_Ridge_alt1_1yr.png) | ![MPD](Santa_Cruz_Catalina_Ridge_alt1_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 3.2833184E-5 | 3.6559963E-5 | 3.6559963E-5 | 1.0 | 0.0 | 1.4070606E-4 | 1.5667708E-4 | 1.5667708E-4 | 1.0 | 0.0 | 0.00171175 | 0.001906041 | 0.0019260029 | 1.010473 | 2.0E-5 | 0.016986247 | 0.018913832 | 0.018943265 | 1.0015562 | 3.0E-5 |
-| 6.1 | 1.9835548E-5 | 2.1660251E-5 | 2.1660251E-5 | 1.0 | 0.0 | 8.500672E-5 | 9.2826456E-5 | 9.2826456E-5 | 1.0 | 0.0 | 0.0010344655 | 0.0011295964 | 0.001139585 | 1.0088427 | 1.0E-5 | 0.010296632 | 0.011240681 | 0.0112604555 | 1.0017593 | 2.0E-5 |
-| 6.2 | 1.9835548E-5 | 2.1660251E-5 | 2.1660251E-5 | 1.0 | 0.0 | 8.500672E-5 | 9.2826456E-5 | 9.2826456E-5 | 1.0 | 0.0 | 0.0010344655 | 0.0011295964 | 0.001139585 | 1.0088427 | 1.0E-5 | 0.010296632 | 0.011240681 | 0.0112604555 | 1.0017593 | 2.0E-5 |
-| 6.3 | 1.5728183E-5 | 1.7034477E-5 | 1.7034477E-5 | 1.0 | 0.0 | 6.7404755E-5 | 7.300289E-5 | 7.300289E-5 | 1.0 | 0.0 | 8.2034385E-4 | 8.884539E-4 | 8.98445E-4 | 1.0112455 | 1.0E-5 | 0.008173222 | 0.0088497 | 0.008859611 | 1.00112 | 1.0E-5 |
-| 6.4 | 1.5728183E-5 | 1.7034477E-5 | 1.7034477E-5 | 1.0 | 0.0 | 6.7404755E-5 | 7.300289E-5 | 7.300289E-5 | 1.0 | 0.0 | 8.2034385E-4 | 8.884539E-4 | 8.98445E-4 | 1.0112455 | 1.0E-5 | 0.008173222 | 0.0088497 | 0.008859611 | 1.00112 | 1.0E-5 |
-| 6.5 | 1.3707734E-5 | 1.4794959E-5 | 1.4794959E-5 | 1.0 | 0.0 | 5.8746107E-5 | 6.3405445E-5 | 6.3405445E-5 | 1.0 | 0.0 | 7.1499916E-4 | 7.7169144E-4 | 7.816837E-4 | 1.0129485 | 1.0E-5 | 0.0071270303 | 0.007690516 | 0.007700439 | 1.0012903 | 1.0E-5 |
-| 6.6 | 1.2539813E-5 | 1.3510608E-5 | 1.3510608E-5 | 1.0 | 0.0 | 5.3740947E-5 | 5.790134E-5 | 5.790134E-5 | 1.0 | 0.0 | 6.540996E-4 | 7.0472347E-4 | 7.1471644E-4 | 1.01418 | 1.0E-5 | 0.0065217763 | 0.00702519 | 0.00703512 | 1.0014135 | 1.0E-5 |
-| 6.7 | 1.1504083E-5 | 1.23777245E-5 | 1.23777245E-5 | 1.0 | 0.0 | 4.930228E-5 | 5.3046326E-5 | 5.3046326E-5 | 1.0 | 0.0 | 6.0008996E-4 | 6.456496E-4 | 6.556432E-4 | 1.0154783 | 1.0E-5 | 0.005984721 | 0.0064379675 | 0.006447903 | 1.0015433 | 1.0E-5 |
-| 6.8 | 1.012739E-5 | 1.0877371E-5 | 1.0877371E-5 | 1.0 | 0.0 | 4.340238E-5 | 4.661648E-5 | 4.661648E-5 | 1.0 | 0.0 | 5.282958E-4 | 5.674093E-4 | 5.774037E-4 | 1.017614 | 1.0E-5 | 0.0052704164 | 0.005659775 | 0.0056697186 | 1.0017569 | 1.0E-5 |
-| 6.9 | 8.9607865E-6 | 9.609376E-6 | 9.609376E-6 | 1.0 | 0.0 | 3.8402806E-5 | 4.1182397E-5 | 4.1182397E-5 | 1.0 | 0.0 | 4.6745385E-4 | 5.012814E-4 | 5.1127636E-4 | 1.0199388 | 1.0E-5 | 0.0046647177 | 0.005001626 | 0.005011576 | 1.0019894 | 1.0E-5 |
-| 7.0 | 8.046829E-6 | 8.619974E-6 | 8.619974E-6 | 1.0 | 0.0 | 3.4485955E-5 | 3.6942227E-5 | 3.6942227E-5 | 1.0 | 0.0 | 4.1978562E-4 | 4.4967962E-4 | 4.5967512E-4 | 1.022228 | 1.0E-5 | 0.004189935 | 0.0044877874 | 0.0044977427 | 1.0022182 | 1.0E-5 |
-| 7.1 | 7.136131E-6 | 7.637856E-6 | 7.637856E-6 | 1.0 | 0.0 | 3.0583058E-5 | 3.273326E-5 | 3.273326E-5 | 1.0 | 0.0 | 3.7228514E-4 | 3.9845527E-4 | 4.084513E-4 | 1.0250869 | 1.0E-5 | 0.0037166206 | 0.003977485 | 0.0039874455 | 1.0025041 | 1.0E-5 |
-| 7.2 | 6.362014E-6 | 6.805135E-6 | 6.805135E-6 | 1.0 | 0.0 | 2.726549E-5 | 2.9164541E-5 | 2.9164541E-5 | 1.0 | 0.0 | 3.3190678E-4 | 3.550211E-4 | 3.6501753E-4 | 1.0281574 | 1.0E-5 | 0.0033141149 | 0.0035446077 | 0.0035545724 | 1.0028112 | 1.0E-5 |
-| 7.3 | 5.004101E-6 | 5.3518534E-6 | 5.3518534E-6 | 1.0 | 0.0 | 2.1445969E-5 | 2.2936316E-5 | 2.2936316E-5 | 1.0 | 0.0 | 2.6107338E-4 | 2.792144E-4 | 2.892116E-4 | 1.0358047 | 1.0E-5 | 0.002607669 | 0.0027886906 | 0.0027986628 | 1.0035759 | 1.0E-5 |
-| 7.4 | 3.4901443E-6 | 3.7321488E-6 | 3.7321488E-6 | 1.0 | 0.0 | 1.4957676E-5 | 1.5994827E-5 | 1.5994827E-5 | 1.0 | 0.0 | 1.8209449E-4 | 1.9472E-4 | 2.0471806E-4 | 1.0513458 | 1.0E-5 | 0.0018194534 | 0.0019455325 | 0.0019555131 | 1.0051299 | 1.0E-5 |
-| 7.5 | 1.1215045E-6 | 1.1894139E-6 | 1.1894139E-6 | 1.0 | 0.0 | 4.806439E-6 | 5.097478E-6 | 5.097478E-6 | 1.0 | 0.0 | 5.851682E-5 | 6.206006E-5 | 7.205944E-5 | 1.1611242 | 1.0E-5 | 5.850142E-4 | 6.204304E-4 | 6.304242E-4 | 1.0161078 | 1.0E-5 |
-| 7.6 | 2.8599047E-7 | 2.995252E-7 | 2.995252E-7 | 1.0 | 0.0 | 1.2256729E-6 | 1.2836788E-6 | 1.2836788E-6 | 1.0 | 0.0 | 1.4922465E-5 | 1.5628679E-5 | 1.5628679E-5 | 1.0 | 0.0 | 1.4921463E-4 | 1.5627593E-4 | 1.5627593E-4 | 1.0 | 0.0 |
-| 7.7 | 2.0781519E-7 | 2.1744698E-7 | 2.1744698E-7 | 1.0 | 0.0 | 8.906362E-7 | 9.319153E-7 | 9.319153E-7 | 1.0 | 0.0 | 1.08434415E-5 | 1.134601E-5 | 1.134601E-5 | 1.0 | 0.0 | 1.0842913E-4 | 1.1345441E-4 | 1.1345441E-4 | 1.0 | 0.0 |
-| 7.8 | 3.614776E-8 | 3.7641595E-8 | 3.7641595E-8 | 1.0 | 0.0 | 1.5491896E-7 | 1.6132111E-7 | 1.6132111E-7 | 1.0 | 0.0 | 1.8861368E-6 | 1.964083E-6 | 1.964083E-6 | 1.0 | 0.0 | 1.8861208E-5 | 1.9640667E-5 | 1.9640667E-5 | 1.0 | 0.0 |
 
 ## San Gabriel
 *[(top)](#table-of-contents)*
@@ -3060,165 +3098,133 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.1 | 3.3162388E-7 | 4.165347E-8 | 4.165347E-8 | 1.0 | 0.0 | 1.4212444E-6 | 1.7851485E-7 | 1.7851485E-7 | 1.0 | 0.0 | 1.7303513E-5 | 2.173416E-6 | 2.173416E-6 | 1.0 | 0.0 | 1.7302166E-4 | 2.3051865E-5 | 2.3051865E-5 | 1.0 | 0.0 |
 | 8.2 | 1.0235345E-7 | 1.4092453E-8 | 1.4092453E-8 | 1.0 | 0.0 | 4.3865757E-7 | 6.0396225E-8 | 6.0396225E-8 | 1.0 | 0.0 | 5.340643E-6 | 7.353238E-7 | 7.353238E-7 | 1.0 | 0.0 | 5.3405143E-5 | 7.954484E-6 | 7.954484E-6 | 1.0 | 0.0 |
 
-## Rose Canyon
+## Calaveras (So) - Paicines extension 2011 CFM
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Rose_Canyon_1wk.png) | ![MPD](Rose_Canyon_1mo.png) | ![MPD](Rose_Canyon_1yr.png) | ![MPD](Rose_Canyon_10yr.png) |
+| ![MPD](Calaveras_So_Paicines_extension_2011_CFM_1wk.png) | ![MPD](Calaveras_So_Paicines_extension_2011_CFM_1mo.png) | ![MPD](Calaveras_So_Paicines_extension_2011_CFM_1yr.png) | ![MPD](Calaveras_So_Paicines_extension_2011_CFM_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.5923203E-5 | 4.971889E-5 | 4.971889E-5 | 1.0 | 0.0 | 1.9679888E-4 | 2.1306289E-4 | 2.1306289E-4 | 1.0 | 0.0 | 0.0023933933 | 0.0025911625 | 0.0026111105 | 1.0076985 | 2.0E-5 | 0.023677798 | 0.025642276 | 0.025671506 | 1.00114 | 3.0E-5 |
-| 6.1 | 4.5923203E-5 | 4.971889E-5 | 4.971889E-5 | 1.0 | 0.0 | 1.9679888E-4 | 2.1306289E-4 | 2.1306289E-4 | 1.0 | 0.0 | 0.0023933933 | 0.0025911625 | 0.0026111105 | 1.0076985 | 2.0E-5 | 0.023677798 | 0.025642276 | 0.025661763 | 1.00076 | 2.0E-5 |
-| 6.2 | 2.8844734E-5 | 2.9670931E-5 | 2.9670931E-5 | 1.0 | 0.0 | 1.2361443E-4 | 1.2715312E-4 | 1.2715312E-4 | 1.0 | 0.0 | 0.0015039665 | 0.0015470065 | 0.0015669756 | 1.0129082 | 2.0E-5 | 0.0149382865 | 0.015375392 | 0.015395083 | 1.0012808 | 2.0E-5 |
-| 6.3 | 2.3171577E-5 | 2.3162687E-5 | 2.3162687E-5 | 1.0 | 0.0 | 9.9302975E-5 | 9.926496E-5 | 9.926496E-5 | 1.0 | 0.0 | 0.0012083431 | 0.0012078941 | 0.00122787 | 1.0165378 | 2.0E-5 | 0.012017938 | 0.012023181 | 0.012042941 | 1.0016434 | 2.0E-5 |
-| 6.4 | 2.0066604E-5 | 1.9668267E-5 | 1.9668267E-5 | 1.0 | 0.0 | 8.599689E-5 | 8.42899E-5 | 8.42899E-5 | 1.0 | 0.0 | 0.0010465092 | 0.0010257565 | 0.0010457359 | 1.0194778 | 2.0E-5 | 0.010415946 | 0.010218199 | 0.010237996 | 1.0019373 | 2.0E-5 |
-| 6.5 | 1.776989E-5 | 1.7114877E-5 | 1.7114877E-5 | 1.0 | 0.0 | 7.615444E-5 | 7.334745E-5 | 7.334745E-5 | 1.0 | 0.0 | 9.267859E-4 | 8.926463E-4 | 9.126284E-4 | 1.0223852 | 2.0E-5 | 0.009229303 | 0.008896765 | 0.008916587 | 1.002228 | 2.0E-5 |
-| 6.6 | 1.5227364E-5 | 1.4339947E-5 | 1.4339947E-5 | 1.0 | 0.0 | 6.52585E-5 | 6.1455496E-5 | 6.1455496E-5 | 1.0 | 0.0 | 7.942326E-4 | 7.47969E-4 | 7.6795404E-4 | 1.0267191 | 2.0E-5 | 0.007914 | 0.0074587152 | 0.0074785664 | 1.0026615 | 2.0E-5 |
-| 6.7 | 1.2703898E-5 | 1.1673768E-5 | 1.1673768E-5 | 1.0 | 0.0 | 5.4444143E-5 | 5.00295E-5 | 5.00295E-5 | 1.0 | 0.0 | 6.626558E-4 | 6.0894317E-4 | 6.28931E-4 | 1.0328238 | 2.0E-5 | 0.006606833 | 0.0060753413 | 0.00609522 | 1.0032719 | 2.0E-5 |
-| 6.8 | 1.1554917E-5 | 1.0609752E-5 | 1.0609752E-5 | 1.0 | 0.0 | 4.9520135E-5 | 4.5469595E-5 | 4.5469595E-5 | 1.0 | 0.0 | 6.0274085E-4 | 5.534558E-4 | 5.734447E-4 | 1.0361166 | 2.0E-5 | 0.0060110865 | 0.0055227824 | 0.005542672 | 1.0036013 | 2.0E-5 |
-| 6.9 | 8.732078E-6 | 7.881612E-6 | 7.881612E-6 | 1.0 | 0.0 | 3.7422655E-5 | 3.3777913E-5 | 3.3777913E-5 | 1.0 | 0.0 | 4.5552556E-4 | 4.1117144E-4 | 4.311632E-4 | 1.0486215 | 2.0E-5 | 0.0045459294 | 0.00410494 | 0.004124858 | 1.0048522 | 2.0E-5 |
-| 7.0 | 5.9337494E-6 | 5.107613E-6 | 5.107613E-6 | 1.0 | 0.0 | 2.5430107E-5 | 2.1889588E-5 | 2.1889588E-5 | 1.0 | 0.0 | 3.0956755E-4 | 2.6647327E-4 | 2.8646793E-4 | 1.0750344 | 2.0E-5 | 0.0030913667 | 0.002661553 | 0.0026814998 | 1.0074944 | 2.0E-5 |
-| 7.1 | 5.013409E-6 | 4.1774847E-6 | 4.1774847E-6 | 1.0 | 0.0 | 2.1485863E-5 | 1.7903383E-5 | 1.7903383E-5 | 1.0 | 0.0 | 2.6155898E-4 | 2.17952E-4 | 2.3794764E-4 | 1.0917434 | 2.0E-5 | 0.0026125133 | 0.002177394 | 0.0021973504 | 1.0091653 | 2.0E-5 |
-| 7.2 | 4.120763E-6 | 3.2822204E-6 | 3.2822204E-6 | 1.0 | 0.0 | 1.7660293E-5 | 1.4066584E-5 | 1.4066584E-5 | 1.0 | 0.0 | 2.1499286E-4 | 1.7124729E-4 | 1.9124386E-4 | 1.1167701 | 2.0E-5 | 0.0021478499 | 0.0017111629 | 0.0017311285 | 1.011668 | 2.0E-5 |
-| 7.3 | 3.2081239E-6 | 2.4406E-6 | 2.4406E-6 | 1.0 | 0.0 | 1.374903E-5 | 1.0459672E-5 | 1.0459672E-5 | 1.0 | 0.0 | 1.6738157E-4 | 1.2733914E-4 | 1.4733658E-4 | 1.157041 | 2.0E-5 | 0.0016725556 | 0.0012726687 | 0.0012926433 | 1.015695 | 2.0E-5 |
-| 7.4 | 2.4194755E-6 | 1.7681109E-6 | 1.7681109E-6 | 1.0 | 0.0 | 1.0369139E-5 | 7.5775965E-6 | 7.5775965E-6 | 1.0 | 0.0 | 1.2623696E-4 | 9.225339E-5 | 1.0225247E-4 | 1.1083871 | 1.0E-5 | 0.0012616527 | 9.2215627E-4 | 9.32147E-4 | 1.0108341 | 1.0E-5 |
-| 7.5 | 1.3842889E-6 | 9.3789356E-7 | 9.3789356E-7 | 1.0 | 0.0 | 5.9326535E-6 | 4.0195378E-6 | 4.0195378E-6 | 1.0 | 0.0 | 7.222766E-5 | 4.893681E-5 | 4.893681E-5 | 1.0 | 0.0 | 7.220419E-4 | 4.8926385E-4 | 4.8926385E-4 | 1.0 | 0.0 |
-| 7.6 | 1.0021575E-6 | 6.4117023E-7 | 6.4117023E-7 | 1.0 | 0.0 | 4.2949537E-6 | 2.7478698E-6 | 2.7478698E-6 | 1.0 | 0.0 | 5.2289808E-5 | 3.345482E-5 | 3.345482E-5 | 1.0 | 0.0 | 5.2277505E-4 | 3.345E-4 | 3.345E-4 | 1.0 | 0.0 |
-| 7.7 | 8.7620116E-8 | 6.449362E-8 | 6.449362E-8 | 1.0 | 0.0 | 3.7551473E-7 | 2.764012E-7 | 2.764012E-7 | 1.0 | 0.0 | 4.5718825E-6 | 3.36518E-6 | 3.36518E-6 | 1.0 | 0.0 | 4.5717883E-5 | 3.365132E-5 | 3.365132E-5 | 1.0 | 0.0 |
+| 6.0 | 1.5183659E-4 | 3.052773E-4 | 3.052773E-4 | 1.0 | 0.0 | 6.5056595E-4 | 0.0013076358 | 0.0013076358 | 1.0 | 0.0 | 0.007891912 | 0.01570158 | 0.01570158 | 1.0 | 0.0 | 0.076174594 | 0.13853289 | 0.13855013 | 1.0001243 | 2.0E-5 |
+| 6.1 | 1.5024997E-4 | 3.02217E-4 | 3.02217E-4 | 1.0 | 0.0 | 6.437695E-4 | 0.0012945335 | 0.0012945335 | 1.0 | 0.0 | 0.0078097614 | 0.015544962 | 0.015544962 | 1.0 | 0.0 | 0.075409345 | 0.13720244 | 0.1372197 | 1.0001258 | 2.0E-5 |
+| 6.2 | 1.2743923E-4 | 2.533313E-4 | 2.533313E-4 | 1.0 | 0.0 | 5.460538E-4 | 0.0010852051 | 0.0010852051 | 1.0 | 0.0 | 0.0066279583 | 0.013052239 | 0.013052239 | 1.0 | 0.0 | 0.064337276 | 0.11730083 | 0.11730966 | 1.0000752 | 1.0E-5 |
+| 6.3 | 1.1525114E-4 | 2.2617549E-4 | 2.2617549E-4 | 1.0 | 0.0 | 4.9383997E-4 | 9.6894085E-4 | 9.6894085E-4 | 1.0 | 0.0 | 0.0059959386 | 0.011673429 | 0.011673429 | 1.0 | 0.0 | 0.058367174 | 0.106417134 | 0.106426075 | 1.0000839 | 1.0E-5 |
+| 6.4 | 1.07200925E-4 | 2.085579E-4 | 2.085579E-4 | 1.0 | 0.0 | 4.5935164E-4 | 8.9349016E-4 | 8.9349016E-4 | 1.0 | 0.0 | 0.0055782744 | 0.01077823 | 0.01077823 | 1.0 | 0.0 | 0.0544031 | 0.09923991 | 0.099248916 | 1.0000907 | 1.0E-5 |
+| 6.5 | 9.69631E-5 | 1.8746332E-4 | 1.8746332E-4 | 1.0 | 0.0 | 4.1548995E-4 | 8.0314995E-4 | 8.0314995E-4 | 1.0 | 0.0 | 0.0050468626 | 0.009700045 | 0.009700045 | 1.0 | 0.0 | 0.04933773 | 0.090131566 | 0.09014066 | 1.000101 | 1.0E-5 |
+| 6.6 | 8.0552316E-5 | 1.5081883E-4 | 1.5081883E-4 | 1.0 | 0.0 | 3.4517853E-4 | 6.4618274E-4 | 6.4618274E-4 | 1.0 | 0.0 | 0.0041944524 | 0.007831711 | 0.007831711 | 1.0 | 0.0 | 0.04116161 | 0.07490183 | 0.07491108 | 1.0001235 | 1.0E-5 |
+| 6.7 | 7.815757E-5 | 1.462194E-4 | 1.462194E-4 | 1.0 | 0.0 | 3.34918E-4 | 6.2650174E-4 | 6.2650174E-4 | 1.0 | 0.0 | 0.004070005 | 0.007594524 | 0.007594524 | 1.0 | 0.0 | 0.039962657 | 0.07275128 | 0.07276055 | 1.0001274 | 1.0E-5 |
+| 6.8 | 6.965264E-5 | 1.2731973E-4 | 1.2731973E-4 | 1.0 | 0.0 | 2.9847719E-4 | 5.4554077E-4 | 5.4554077E-4 | 1.0 | 0.0 | 0.0036279052 | 0.006618584 | 0.006618584 | 1.0 | 0.0 | 0.03569247 | 0.06384469 | 0.06385405 | 1.0001466 | 1.0E-5 |
+| 6.9 | 5.8000453E-5 | 1.01523416E-4 | 1.01523416E-4 | 1.0 | 0.0 | 2.4854968E-4 | 4.3502837E-4 | 4.3502837E-4 | 1.0 | 0.0 | 0.0030218933 | 0.0052837124 | 0.0052837124 | 1.0 | 0.0 | 0.029811295 | 0.051542826 | 0.05155231 | 1.000184 | 1.0E-5 |
+| 7.0 | 4.9865852E-5 | 8.5763946E-5 | 8.5763946E-5 | 1.0 | 0.0 | 2.1369329E-4 | 3.6750847E-4 | 3.6750847E-4 | 1.0 | 0.0 | 0.0025986114 | 0.004465325 | 0.004465325 | 1.0 | 0.0 | 0.025684336 | 0.043822676 | 0.04383224 | 1.0002182 | 1.0E-5 |
+| 7.1 | 4.283875E-5 | 7.1186725E-5 | 7.1186725E-5 | 1.0 | 0.0 | 1.8358172E-4 | 3.050506E-4 | 3.050506E-4 | 1.0 | 0.0 | 0.0022328163 | 0.0037077225 | 0.0037077225 | 1.0 | 0.0 | 0.022105146 | 0.03676716 | 0.03677679 | 1.000262 | 1.0E-5 |
+| 7.2 | 3.450115E-5 | 5.5839675E-5 | 5.5839675E-5 | 1.0 | 0.0 | 1.478537E-4 | 2.392911E-4 | 2.392911E-4 | 1.0 | 0.0 | 0.0017986323 | 0.002909506 | 0.002909506 | 1.0 | 0.0 | 0.017841442 | 0.02911007 | 0.02911978 | 1.0003335 | 1.0E-5 |
+| 7.3 | 2.5709045E-5 | 4.0644358E-5 | 4.0644358E-5 | 1.0 | 0.0 | 1.1017697E-4 | 1.7417857E-4 | 1.7417857E-4 | 1.0 | 0.0 | 0.0013405791 | 0.0021185784 | 0.0021185784 | 1.0 | 0.0 | 0.013325208 | 0.021324893 | 0.02133468 | 1.000459 | 1.0E-5 |
+| 7.4 | 1.8003093E-5 | 2.853691E-5 | 2.853691E-5 | 1.0 | 0.0 | 7.715383E-5 | 1.2229531E-4 | 1.2229531E-4 | 1.0 | 0.0 | 9.3894306E-4 | 0.0014879309 | 0.0014879309 | 1.0 | 0.0 | 0.009349857 | 0.015065318 | 0.015075168 | 1.0006537 | 1.0E-5 |
+| 7.5 | 1.5595824E-5 | 2.5848529E-5 | 2.5848529E-5 | 1.0 | 0.0 | 6.683753E-5 | 1.10774716E-4 | 1.10774716E-4 | 1.0 | 0.0 | 8.134431E-4 | 0.00134785 | 0.00134785 | 1.0 | 0.0 | 0.008104719 | 0.013664801 | 0.013674664 | 1.0007218 | 1.0E-5 |
+| 7.6 | 1.1110309E-5 | 1.9245095E-5 | 1.9245095E-5 | 1.0 | 0.0 | 4.761474E-5 | 8.2476385E-5 | 8.2476385E-5 | 1.0 | 0.0 | 5.795553E-4 | 0.0010036888 | 0.0010036888 | 1.0 | 0.0 | 0.0057804612 | 0.010215148 | 0.010225046 | 1.0009689 | 1.0E-5 |
+| 7.7 | 6.2140443E-6 | 1.04531455E-5 | 1.04531455E-5 | 1.0 | 0.0 | 2.6631347E-5 | 4.4798424E-5 | 4.4798424E-5 | 1.0 | 0.0 | 3.241884E-4 | 5.452844E-4 | 5.452844E-4 | 1.0 | 0.0 | 0.0032371588 | 0.0056276857 | 0.0056376294 | 1.0017669 | 1.0E-5 |
+| 7.8 | 5.305533E-6 | 9.447369E-6 | 9.447369E-6 | 1.0 | 0.0 | 2.27378E-5 | 4.0488096E-5 | 4.0488096E-5 | 1.0 | 0.0 | 2.7679754E-4 | 4.9283117E-4 | 4.9283117E-4 | 1.0 | 0.0 | 0.0027645302 | 0.005081297 | 0.005091246 | 1.001958 | 1.0E-5 |
+| 7.9 | 3.363505E-6 | 7.39551E-6 | 7.39551E-6 | 1.0 | 0.0 | 1.4414942E-5 | 3.1694657E-5 | 3.1694657E-5 | 1.0 | 0.0 | 1.7548777E-4 | 3.858142E-4 | 3.858142E-4 | 1.0 | 0.0 | 0.0017534926 | 0.0039536534 | 0.003963614 | 1.0025192 | 1.0E-5 |
+| 8.0 | 2.0271132E-6 | 4.4191597E-6 | 4.4191597E-6 | 1.0 | 0.0 | 8.687599E-6 | 1.893912E-5 | 1.893912E-5 | 1.0 | 0.0 | 1.05766376E-4 | 2.3055942E-4 | 2.3055942E-4 | 1.0 | 0.0 | 0.0010571606 | 0.0023540538 | 0.0023540538 | 1.0 | 0.0 |
+| 8.1 | 1.2206116E-6 | 2.3784507E-6 | 2.3784507E-6 | 1.0 | 0.0 | 5.2311816E-6 | 1.019332E-5 | 1.019332E-5 | 1.0 | 0.0 | 6.3687774E-5 | 1.2409665E-4 | 1.2409665E-4 | 1.0 | 0.0 | 6.366953E-4 | 0.0012722017 | 0.0012722017 | 1.0 | 0.0 |
 
-## Big Pine (East)
+## Cleghorn
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Big_Pine_East_1wk.png) | ![MPD](Big_Pine_East_1mo.png) | ![MPD](Big_Pine_East_1yr.png) | ![MPD](Big_Pine_East_10yr.png) |
+| ![MPD](Cleghorn_1wk.png) | ![MPD](Cleghorn_1mo.png) | ![MPD](Cleghorn_1yr.png) | ![MPD](Cleghorn_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 9.916913E-6 | 1.2820476E-5 | 1.2820476E-5 | 1.0 | 0.0 | 4.250036E-5 | 5.4943863E-5 | 5.4943863E-5 | 1.0 | 0.0 | 5.173191E-4 | 6.687583E-4 | 6.687583E-4 | 1.0 | 0.0 | 0.0051611643 | 0.006672221 | 0.0067020208 | 1.0044663 | 3.0E-5 |
-| 6.1 | 9.916913E-6 | 1.2820476E-5 | 1.2820476E-5 | 1.0 | 0.0 | 4.250036E-5 | 5.4943863E-5 | 5.4943863E-5 | 1.0 | 0.0 | 5.173191E-4 | 6.687583E-4 | 6.687583E-4 | 1.0 | 0.0 | 0.0051611643 | 0.006672221 | 0.0067020208 | 1.0044663 | 3.0E-5 |
-| 6.2 | 9.916913E-6 | 1.2820476E-5 | 1.2820476E-5 | 1.0 | 0.0 | 4.250036E-5 | 5.4943863E-5 | 5.4943863E-5 | 1.0 | 0.0 | 5.173191E-4 | 6.687583E-4 | 6.687583E-4 | 1.0 | 0.0 | 0.0051611643 | 0.006672221 | 0.0067020208 | 1.0044663 | 3.0E-5 |
-| 6.3 | 5.479711E-6 | 8.116337E-6 | 8.116337E-6 | 1.0 | 0.0 | 2.3484265E-5 | 3.4783858E-5 | 3.4783858E-5 | 1.0 | 0.0 | 2.858834E-4 | 4.2341437E-4 | 4.2341437E-4 | 1.0 | 0.0 | 0.0028551589 | 0.004228973 | 0.0042588464 | 1.0070639 | 3.0E-5 |
-| 6.4 | 5.465009E-6 | 8.10063E-6 | 8.10063E-6 | 1.0 | 0.0 | 2.3421257E-5 | 3.4716544E-5 | 3.4716544E-5 | 1.0 | 0.0 | 2.851165E-4 | 4.2259513E-4 | 4.2259513E-4 | 1.0 | 0.0 | 0.0028475097 | 0.004220812 | 0.004250685 | 1.0070777 | 3.0E-5 |
-| 6.5 | 4.826767E-6 | 7.4256723E-6 | 7.4256723E-6 | 1.0 | 0.0 | 2.068598E-5 | 3.1823936E-5 | 3.1823936E-5 | 1.0 | 0.0 | 2.518227E-4 | 3.8739032E-4 | 3.8739032E-4 | 1.0 | 0.0 | 0.0025153751 | 0.0038700053 | 0.0038998893 | 1.0077219 | 3.0E-5 |
-| 6.6 | 4.3146847E-6 | 6.8855975E-6 | 6.8855975E-6 | 1.0 | 0.0 | 1.8491375E-5 | 2.9509383E-5 | 2.9509383E-5 | 1.0 | 0.0 | 2.2510924E-4 | 3.5921996E-4 | 3.5921996E-4 | 1.0 | 0.0 | 0.0022488134 | 0.0035892157 | 0.003609144 | 1.0055523 | 2.0E-5 |
-| 6.7 | 3.6968106E-6 | 5.9986346E-6 | 5.9986346E-6 | 1.0 | 0.0 | 1.5843378E-5 | 2.570819E-5 | 2.570819E-5 | 1.0 | 0.0 | 1.9287605E-4 | 3.1295378E-4 | 3.1295378E-4 | 1.0 | 0.0 | 0.0019270873 | 0.003127863 | 0.0031478005 | 1.0063741 | 2.0E-5 |
-| 6.8 | 3.4671132E-6 | 5.7052534E-6 | 5.7052534E-6 | 1.0 | 0.0 | 1.4858972E-5 | 2.4450865E-5 | 2.4450865E-5 | 1.0 | 0.0 | 1.8089297E-4 | 2.9765005E-4 | 2.9765005E-4 | 1.0 | 0.0 | 0.0018074579 | 0.0029752376 | 0.002995178 | 1.0067022 | 2.0E-5 |
-| 6.9 | 2.7686972E-6 | 4.828063E-6 | 4.828063E-6 | 1.0 | 0.0 | 1.1865792E-5 | 2.069154E-5 | 2.069154E-5 | 1.0 | 0.0 | 1.4445644E-4 | 2.5189112E-4 | 2.5189112E-4 | 1.0 | 0.0 | 0.0014436257 | 0.0025187118 | 0.0025386615 | 1.0079206 | 2.0E-5 |
-| 7.0 | 2.1472624E-6 | 3.9876204E-6 | 3.9876204E-6 | 1.0 | 0.0 | 9.20252E-6 | 1.7089693E-5 | 1.7089693E-5 | 1.0 | 0.0 | 1.12034926E-4 | 2.080477E-4 | 2.080477E-4 | 1.0 | 0.0 | 0.0011197845 | 0.0020811528 | 0.002091132 | 1.0047951 | 1.0E-5 |
-| 7.1 | 1.7018335E-6 | 3.3472238E-6 | 3.3472238E-6 | 1.0 | 0.0 | 7.293552E-6 | 1.4345168E-5 | 1.4345168E-5 | 1.0 | 0.0 | 8.879537E-5 | 1.7463879E-4 | 1.7463879E-4 | 1.0 | 0.0 | 8.87599E-4 | 0.0017476075 | 0.00175759 | 1.0057122 | 1.0E-5 |
-| 7.2 | 1.25603E-6 | 2.7967021E-6 | 2.7967021E-6 | 1.0 | 0.0 | 5.3829745E-6 | 1.1985812E-5 | 1.1985812E-5 | 1.0 | 0.0 | 6.553574E-5 | 1.4591771E-4 | 1.4591771E-4 | 1.0 | 0.0 | 6.551642E-4 | 0.0014607868 | 0.0014707722 | 1.0068356 | 1.0E-5 |
-| 7.3 | 1.112297E-6 | 2.6124264E-6 | 2.6124264E-6 | 1.0 | 0.0 | 4.7669787E-6 | 1.1196066E-5 | 1.1196066E-5 | 1.0 | 0.0 | 5.803642E-5 | 1.363038E-4 | 1.363038E-4 | 1.0 | 0.0 | 5.802127E-4 | 0.0013646018 | 0.0013745881 | 1.0073181 | 1.0E-5 |
-| 7.4 | 1.0137181E-6 | 2.4854962E-6 | 2.4854962E-6 | 1.0 | 0.0 | 4.3444993E-6 | 1.0652085E-5 | 1.0652085E-5 | 1.0 | 0.0 | 5.2892992E-5 | 1.2968163E-4 | 1.2968163E-4 | 1.0 | 0.0 | 5.288041E-4 | 0.0012982433 | 0.0013082303 | 1.0076927 | 1.0E-5 |
-| 7.5 | 9.598608E-7 | 2.4090932E-6 | 2.4090932E-6 | 1.0 | 0.0 | 4.1136827E-6 | 1.0324645E-5 | 1.0324645E-5 | 1.0 | 0.0 | 5.0082934E-5 | 1.2569551E-4 | 1.2569551E-4 | 1.0 | 0.0 | 5.007165E-4 | 0.0012582362 | 0.0012682237 | 1.0079377 | 1.0E-5 |
-| 7.6 | 7.929459E-7 | 2.0465766E-6 | 2.0465766E-6 | 1.0 | 0.0 | 3.3983351E-6 | 8.771014E-6 | 8.771014E-6 | 1.0 | 0.0 | 4.1373947E-5 | 1.0678204E-4 | 1.0678204E-4 | 1.0 | 0.0 | 4.1366243E-4 | 0.0010693908 | 0.0010693908 | 1.0 | 0.0 |
-| 7.7 | 4.155788E-7 | 1.1617767E-6 | 1.1617767E-6 | 1.0 | 0.0 | 1.7810507E-6 | 4.9790337E-6 | 4.9790337E-6 | 1.0 | 0.0 | 2.1684076E-5 | 6.0618087E-5 | 6.0618087E-5 | 1.0 | 0.0 | 2.1681961E-4 | 6.091878E-4 | 6.091878E-4 | 1.0 | 0.0 |
-| 7.8 | 1.14666925E-7 | 2.59475E-7 | 2.59475E-7 | 1.0 | 0.0 | 4.914296E-7 | 1.1120353E-6 | 1.1120353E-6 | 1.0 | 0.0 | 5.9831386E-6 | 1.353895E-5 | 1.353895E-5 | 1.0 | 0.0 | 5.9829777E-5 | 1.3648138E-4 | 1.3648138E-4 | 1.0 | 0.0 |
-| 7.9 | 2.9231824E-8 | 4.150957E-8 | 4.150957E-8 | 1.0 | 0.0 | 1.2527924E-7 | 1.7789813E-7 | 1.7789813E-7 | 1.0 | 0.0 | 1.5252737E-6 | 2.1659077E-6 | 2.1659077E-6 | 1.0 | 0.0 | 1.5252632E-5 | 2.1991611E-5 | 2.1991611E-5 | 1.0 | 0.0 |
+| 6.0 | 7.9267165E-6 | 9.837177E-6 | 9.837177E-6 | 1.0 | 0.0 | 3.39712E-5 | 4.2158706E-5 | 4.2158706E-5 | 1.0 | 0.0 | 4.1352084E-4 | 5.13172E-4 | 5.3316174E-4 | 1.0389533 | 2.0E-5 | 0.004127522 | 0.0051349266 | 0.0051647727 | 1.0058123 | 3.0E-5 |
+| 6.1 | 7.9267165E-6 | 9.837177E-6 | 9.837177E-6 | 1.0 | 0.0 | 3.39712E-5 | 4.2158706E-5 | 4.2158706E-5 | 1.0 | 0.0 | 4.1352084E-4 | 5.13172E-4 | 5.3316174E-4 | 1.0389533 | 2.0E-5 | 0.004127522 | 0.0051349266 | 0.0051647727 | 1.0058123 | 3.0E-5 |
+| 6.2 | 7.9267165E-6 | 9.837177E-6 | 9.837177E-6 | 1.0 | 0.0 | 3.39712E-5 | 4.2158706E-5 | 4.2158706E-5 | 1.0 | 0.0 | 4.1352084E-4 | 5.13172E-4 | 5.3316174E-4 | 1.0389533 | 2.0E-5 | 0.004127522 | 0.0051349266 | 0.0051647727 | 1.0058123 | 3.0E-5 |
+| 6.3 | 7.9267165E-6 | 9.837177E-6 | 9.837177E-6 | 1.0 | 0.0 | 3.39712E-5 | 4.2158706E-5 | 4.2158706E-5 | 1.0 | 0.0 | 4.1352084E-4 | 5.13172E-4 | 5.3316174E-4 | 1.0389533 | 2.0E-5 | 0.004127522 | 0.0051349266 | 0.0051647727 | 1.0058123 | 3.0E-5 |
+| 6.4 | 4.3445207E-6 | 6.0969764E-6 | 6.0969764E-6 | 1.0 | 0.0 | 1.8619241E-5 | 2.6129643E-5 | 2.6129643E-5 | 1.0 | 0.0 | 2.2666567E-4 | 3.1808298E-4 | 3.1808298E-4 | 1.0 | 0.0 | 0.0022643462 | 0.0031904106 | 0.0032003787 | 1.0031244 | 1.0E-5 |
+| 6.5 | 4.3445207E-6 | 6.0969764E-6 | 6.0969764E-6 | 1.0 | 0.0 | 1.8619241E-5 | 2.6129643E-5 | 2.6129643E-5 | 1.0 | 0.0 | 2.2666567E-4 | 3.1808298E-4 | 3.1808298E-4 | 1.0 | 0.0 | 0.0022643462 | 0.0031904106 | 0.0032003787 | 1.0031244 | 1.0E-5 |
+| 6.6 | 4.040109E-6 | 5.779379E-6 | 5.779379E-6 | 1.0 | 0.0 | 1.7314638E-5 | 2.4768537E-5 | 2.4768537E-5 | 1.0 | 0.0 | 2.1078532E-4 | 3.0151615E-4 | 3.0151615E-4 | 1.0 | 0.0 | 0.002105855 | 0.0030251981 | 0.003035168 | 1.0032955 | 1.0E-5 |
+| 6.7 | 3.3632055E-6 | 5.0728645E-6 | 5.0728645E-6 | 1.0 | 0.0 | 1.4413658E-5 | 2.1740669E-5 | 2.1740669E-5 | 1.0 | 0.0 | 1.7547216E-4 | 2.646608E-4 | 2.646608E-4 | 1.0 | 0.0 | 0.0017533366 | 0.0026575273 | 0.0026675009 | 1.003753 | 1.0E-5 |
+| 6.8 | 3.2902772E-6 | 4.9947703E-6 | 4.9947703E-6 | 1.0 | 0.0 | 1.4101111E-5 | 2.1405984E-5 | 2.1405984E-5 | 1.0 | 0.0 | 1.716675E-4 | 2.60587E-4 | 2.60587E-4 | 1.0 | 0.0 | 0.0017153495 | 0.0026168854 | 0.0026268591 | 1.0038114 | 1.0E-5 |
+| 6.9 | 3.031547E-6 | 4.696313E-6 | 4.696313E-6 | 1.0 | 0.0 | 1.299228E-5 | 2.0126903E-5 | 2.0126903E-5 | 1.0 | 0.0 | 1.5816953E-4 | 2.4501776E-4 | 2.4501776E-4 | 1.0 | 0.0 | 0.00158057 | 0.0024615454 | 0.0024715206 | 1.0040525 | 1.0E-5 |
+| 7.0 | 2.8259715E-6 | 4.3753325E-6 | 4.3753325E-6 | 1.0 | 0.0 | 1.211125E-5 | 1.8751292E-5 | 1.8751292E-5 | 1.0 | 0.0 | 1.4744449E-4 | 2.282733E-4 | 2.282733E-4 | 1.0 | 0.0 | 0.001473467 | 0.002294456 | 0.002304433 | 1.0043483 | 1.0E-5 |
+| 7.1 | 2.5962665E-6 | 4.0703308E-6 | 4.0703308E-6 | 1.0 | 0.0 | 1.1126809E-5 | 1.744416E-5 | 1.744416E-5 | 1.0 | 0.0 | 1.3546048E-4 | 2.1236215E-4 | 2.1236215E-4 | 1.0 | 0.0 | 0.0013537793 | 0.002135665 | 0.0021456436 | 1.0046724 | 1.0E-5 |
+| 7.2 | 2.3247253E-6 | 3.6806362E-6 | 3.6806362E-6 | 1.0 | 0.0 | 9.96307E-6 | 1.577406E-5 | 1.577406E-5 | 1.0 | 0.0 | 1.21293626E-4 | 1.9203244E-4 | 1.9203244E-4 | 1.0 | 0.0 | 0.0012122744 | 0.0019327591 | 0.0019427397 | 1.0051639 | 1.0E-5 |
+| 7.3 | 2.056928E-6 | 3.2388728E-6 | 3.2388728E-6 | 1.0 | 0.0 | 8.815376E-6 | 1.3880811E-5 | 1.3880811E-5 | 1.0 | 0.0 | 1.0732192E-4 | 1.6898592E-4 | 1.6898592E-4 | 1.0 | 0.0 | 0.001072701 | 0.0017027346 | 0.0017127176 | 1.005863 | 1.0E-5 |
+| 7.4 | 1.8055999E-6 | 2.828866E-6 | 2.828866E-6 | 1.0 | 0.0 | 7.738263E-6 | 1.2123656E-5 | 1.2123656E-5 | 1.0 | 0.0 | 9.4209274E-5 | 1.4759565E-4 | 1.4759565E-4 | 1.0 | 0.0 | 9.4169343E-4 | 0.0014892742 | 0.0014892742 | 1.0 | 0.0 |
+| 7.5 | 1.4683443E-6 | 2.4279263E-6 | 2.4279263E-6 | 1.0 | 0.0 | 6.292889E-6 | 1.0405358E-5 | 1.0405358E-5 | 1.0 | 0.0 | 7.661323E-5 | 1.2667796E-4 | 1.2667796E-4 | 1.0 | 0.0 | 7.658682E-4 | 0.0012803981 | 0.0012803981 | 1.0 | 0.0 |
+| 7.6 | 9.804088E-7 | 1.9033644E-6 | 1.9033644E-6 | 1.0 | 0.0 | 4.201745E-6 | 8.157251E-6 | 8.157251E-6 | 1.0 | 0.0 | 5.1155046E-5 | 9.931005E-5 | 9.931005E-5 | 1.0 | 0.0 | 5.114327E-4 | 0.0010070323 | 0.0010070323 | 1.0 | 0.0 |
+| 7.7 | 7.3434086E-7 | 1.6314445E-6 | 1.6314445E-6 | 1.0 | 0.0 | 3.1471714E-6 | 6.9918865E-6 | 6.9918865E-6 | 1.0 | 0.0 | 3.831614E-5 | 8.512292E-5 | 8.512292E-5 | 1.0 | 0.0 | 3.8309532E-4 | 8.653134E-4 | 8.653134E-4 | 1.0 | 0.0 |
+| 7.8 | 6.434184E-7 | 1.5248431E-6 | 1.5248431E-6 | 1.0 | 0.0 | 2.7575045E-6 | 6.535026E-6 | 6.535026E-6 | 1.0 | 0.0 | 3.35721E-5 | 7.956106E-5 | 7.956106E-5 | 1.0 | 0.0 | 3.3567028E-4 | 8.093966E-4 | 8.093966E-4 | 1.0 | 0.0 |
+| 7.9 | 3.4943926E-7 | 7.5890904E-7 | 7.5890904E-7 | 1.0 | 0.0 | 1.497596E-6 | 3.252463E-6 | 3.252463E-6 | 1.0 | 0.0 | 1.8233079E-5 | 3.9598028E-5 | 3.9598028E-5 | 1.0 | 0.0 | 1.8231584E-4 | 4.0475116E-4 | 4.0475116E-4 | 1.0 | 0.0 |
+| 8.0 | 6.717524E-8 | 5.853563E-8 | 5.853563E-8 | 1.0 | 0.0 | 2.8789387E-7 | 2.5086695E-7 | 2.5086695E-7 | 1.0 | 0.0 | 3.505102E-6 | 3.054301E-6 | 3.054301E-6 | 1.0 | 0.0 | 3.5050467E-5 | 3.2814176E-5 | 3.2814176E-5 | 1.0 | 0.0 |
+| 8.1 | 3.1984914E-8 | 1.300408E-8 | 1.300408E-8 | 1.0 | 0.0 | 1.370782E-7 | 5.5731768E-8 | 5.5731768E-8 | 1.0 | 0.0 | 1.6689258E-6 | 6.7853404E-7 | 6.7853404E-7 | 1.0 | 0.0 | 1.6689133E-5 | 7.771629E-6 | 7.771629E-6 | 1.0 | 0.0 |
+| 8.2 | 1.21887656E-8 | 3.6643266E-9 | 3.6643266E-9 | 1.0 | 0.0 | 5.2237567E-8 | 1.5704257E-8 | 1.5704257E-8 | 1.0 | 0.0 | 6.359922E-7 | 1.9119932E-7 | 1.9119932E-7 | 1.0 | 0.0 | 6.3599036E-6 | 2.2556399E-6 | 2.2556399E-6 | 1.0 | 0.0 |
 
-## Sheephole
+## Verdugo
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Sheephole_1wk.png) | ![MPD](Sheephole_1mo.png) | ![MPD](Sheephole_1yr.png) | ![MPD](Sheephole_10yr.png) |
+| ![MPD](Verdugo_1wk.png) | ![MPD](Verdugo_1mo.png) | ![MPD](Verdugo_1yr.png) | ![MPD](Verdugo_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.5579695E-6 | 4.7413337E-6 | 4.7413337E-6 | 1.0 | 0.0 | 1.9534009E-5 | 2.0319874E-5 | 3.031967E-5 | 1.4921191 | 1.0E-5 | 2.3780059E-4 | 2.4737194E-4 | 2.6736697E-4 | 1.08083 | 2.0E-5 | 0.0023754628 | 0.00247151 | 0.002501436 | 1.0121083 | 3.0E-5 |
-| 6.1 | 4.5579695E-6 | 4.7413337E-6 | 4.7413337E-6 | 1.0 | 0.0 | 1.9534009E-5 | 2.0319874E-5 | 3.031967E-5 | 1.4921191 | 1.0E-5 | 2.3780059E-4 | 2.4737194E-4 | 2.6736697E-4 | 1.08083 | 2.0E-5 | 0.0023754628 | 0.00247151 | 0.002501436 | 1.0121083 | 3.0E-5 |
-| 6.2 | 2.6677674E-6 | 2.7874407E-6 | 2.7874407E-6 | 1.0 | 0.0 | 1.1433239E-5 | 1.1946126E-5 | 1.1946126E-5 | 1.0 | 0.0 | 1.3919079E-4 | 1.4543545E-4 | 1.4543545E-4 | 1.0 | 0.0 | 0.0013910364 | 0.0014535086 | 0.0014535086 | 1.0 | 0.0 |
-| 6.3 | 2.6677674E-6 | 2.7874407E-6 | 2.7874407E-6 | 1.0 | 0.0 | 1.1433239E-5 | 1.1946126E-5 | 1.1946126E-5 | 1.0 | 0.0 | 1.3919079E-4 | 1.4543545E-4 | 1.4543545E-4 | 1.0 | 0.0 | 0.0013910364 | 0.0014535086 | 0.0014535086 | 1.0 | 0.0 |
-| 6.4 | 2.2159759E-6 | 2.3229204E-6 | 2.3229204E-6 | 1.0 | 0.0 | 9.497005E-6 | 9.95534E-6 | 9.95534E-6 | 1.0 | 0.0 | 1.156199E-4 | 1.21200326E-4 | 1.21200326E-4 | 1.0 | 0.0 | 0.0011555976 | 0.0012114216 | 0.0012114216 | 1.0 | 0.0 |
-| 6.5 | 2.1986082E-6 | 2.3048003E-6 | 2.3048003E-6 | 1.0 | 0.0 | 9.4225725E-6 | 9.877684E-6 | 9.877684E-6 | 1.0 | 0.0 | 1.1471378E-4 | 1.2025496E-4 | 1.2025496E-4 | 1.0 | 0.0 | 0.0011465458 | 0.0012019782 | 0.0012019782 | 1.0 | 0.0 |
-| 6.6 | 1.5232331E-6 | 1.6019226E-6 | 1.6019226E-6 | 1.0 | 0.0 | 6.5281256E-6 | 6.8653653E-6 | 6.8653653E-6 | 1.0 | 0.0 | 7.947703E-5 | 8.358281E-5 | 8.358281E-5 | 1.0 | 0.0 | 7.9448614E-4 | 8.3553244E-4 | 8.3553244E-4 | 1.0 | 0.0 |
-| 6.7 | 1.3137362E-6 | 1.3828461E-6 | 1.3828461E-6 | 1.0 | 0.0 | 5.6302856E-6 | 5.9264703E-6 | 5.9264703E-6 | 1.0 | 0.0 | 6.854657E-5 | 7.215253E-5 | 7.215253E-5 | 1.0 | 0.0 | 6.8525434E-4 | 7.213049E-4 | 7.213049E-4 | 1.0 | 0.0 |
-| 6.8 | 1.2275751E-6 | 1.29231E-6 | 1.29231E-6 | 1.0 | 0.0 | 5.2610258E-6 | 5.5384603E-6 | 5.5384603E-6 | 1.0 | 0.0 | 6.4051106E-5 | 6.74288E-5 | 6.74288E-5 | 1.0 | 0.0 | 6.4032647E-4 | 6.740968E-4 | 6.740968E-4 | 1.0 | 0.0 |
-| 6.9 | 1.1837088E-6 | 1.2461264E-6 | 1.2461264E-6 | 1.0 | 0.0 | 5.0730278E-6 | 5.3405315E-6 | 5.3405315E-6 | 1.0 | 0.0 | 6.176237E-5 | 6.5019165E-5 | 6.5019165E-5 | 1.0 | 0.0 | 6.17452E-4 | 6.5001455E-4 | 6.5001455E-4 | 1.0 | 0.0 |
-| 7.0 | 9.849371E-7 | 1.036649E-6 | 1.036649E-6 | 1.0 | 0.0 | 4.2211523E-6 | 4.4427743E-6 | 4.4427743E-6 | 1.0 | 0.0 | 5.1391315E-5 | 5.4089538E-5 | 5.4089538E-5 | 1.0 | 0.0 | 5.137943E-4 | 5.4077385E-4 | 5.4077385E-4 | 1.0 | 0.0 |
-| 7.1 | 8.1643645E-7 | 8.591836E-7 | 8.591836E-7 | 1.0 | 0.0 | 3.4990085E-6 | 3.6822107E-6 | 3.6822107E-6 | 1.0 | 0.0 | 4.2599597E-5 | 4.483008E-5 | 4.483008E-5 | 1.0 | 0.0 | 4.259143E-4 | 4.48219E-4 | 4.48219E-4 | 1.0 | 0.0 |
-| 7.2 | 5.7295756E-7 | 6.029619E-7 | 6.029619E-7 | 1.0 | 0.0 | 2.45553E-6 | 2.5841202E-6 | 2.5841202E-6 | 1.0 | 0.0 | 2.9895667E-5 | 3.1461277E-5 | 3.1461277E-5 | 1.0 | 0.0 | 2.9891645E-4 | 3.1457492E-4 | 3.1457492E-4 | 1.0 | 0.0 |
+| 6.0 | 5.392987E-6 | 4.216773E-6 | 4.216773E-6 | 1.0 | 0.0 | 2.3112598E-5 | 1.8071762E-5 | 1.8071762E-5 | 1.0 | 0.0 | 2.8135953E-4 | 2.2000197E-4 | 2.3999756E-4 | 1.0908883 | 2.0E-5 | 0.0028100356 | 0.0021978894 | 0.0022178455 | 1.0090797 | 2.0E-5 |
+| 6.1 | 5.392987E-6 | 4.216773E-6 | 4.216773E-6 | 1.0 | 0.0 | 2.3112598E-5 | 1.8071762E-5 | 1.8071762E-5 | 1.0 | 0.0 | 2.8135953E-4 | 2.2000197E-4 | 2.3999756E-4 | 1.0908883 | 2.0E-5 | 0.0028100356 | 0.0021978894 | 0.0022178455 | 1.0090797 | 2.0E-5 |
+| 6.2 | 5.392987E-6 | 4.216773E-6 | 4.216773E-6 | 1.0 | 0.0 | 2.3112598E-5 | 1.8071762E-5 | 1.8071762E-5 | 1.0 | 0.0 | 2.8135953E-4 | 2.2000197E-4 | 2.3999756E-4 | 1.0908883 | 2.0E-5 | 0.0028100356 | 0.0021978894 | 0.0022178455 | 1.0090797 | 2.0E-5 |
+| 6.3 | 5.392987E-6 | 4.216773E-6 | 4.216773E-6 | 1.0 | 0.0 | 2.3112598E-5 | 1.8071762E-5 | 1.8071762E-5 | 1.0 | 0.0 | 2.8135953E-4 | 2.2000197E-4 | 2.3999756E-4 | 1.0908883 | 2.0E-5 | 0.0028100356 | 0.0021978894 | 0.0022178455 | 1.0090797 | 2.0E-5 |
+| 6.4 | 5.392987E-6 | 4.216773E-6 | 4.216773E-6 | 1.0 | 0.0 | 2.3112598E-5 | 1.8071762E-5 | 1.8071762E-5 | 1.0 | 0.0 | 2.8135953E-4 | 2.2000197E-4 | 2.3999756E-4 | 1.0908883 | 2.0E-5 | 0.0028100356 | 0.0021978894 | 0.0022178455 | 1.0090797 | 2.0E-5 |
+| 6.5 | 4.9154837E-6 | 3.7227146E-6 | 3.7227146E-6 | 1.0 | 0.0 | 2.1066187E-5 | 1.5954394E-5 | 1.5954394E-5 | 1.0 | 0.0 | 2.5645064E-4 | 1.9422764E-4 | 2.042257E-4 | 1.051476 | 1.0E-5 | 0.002561549 | 0.0019405998 | 0.0019505804 | 1.005143 | 1.0E-5 |
+| 6.6 | 4.9154837E-6 | 3.7227146E-6 | 3.7227146E-6 | 1.0 | 0.0 | 2.1066187E-5 | 1.5954394E-5 | 1.5954394E-5 | 1.0 | 0.0 | 2.5645064E-4 | 1.9422764E-4 | 2.042257E-4 | 1.051476 | 1.0E-5 | 0.002561549 | 0.0019405998 | 0.0019505804 | 1.005143 | 1.0E-5 |
+| 6.7 | 4.817006E-6 | 3.6209E-6 | 3.6209E-6 | 1.0 | 0.0 | 2.0644147E-5 | 1.5518051E-5 | 1.5518051E-5 | 1.0 | 0.0 | 2.513135E-4 | 1.8891609E-4 | 1.989142E-4 | 1.0529236 | 1.0E-5 | 0.0025102948 | 0.0018875746 | 0.0018975558 | 1.0052878 | 1.0E-5 |
+| 6.8 | 4.507407E-6 | 3.3073463E-6 | 3.3073463E-6 | 1.0 | 0.0 | 1.9317316E-5 | 1.4174265E-5 | 1.4174265E-5 | 1.0 | 0.0 | 2.3516294E-4 | 1.7255815E-4 | 1.8255642E-4 | 1.0579414 | 1.0E-5 | 0.0023491425 | 0.001724256 | 0.0017342387 | 1.0057896 | 1.0E-5 |
+| 6.9 | 4.3573054E-6 | 3.1612503E-6 | 3.1612503E-6 | 1.0 | 0.0 | 1.8674033E-5 | 1.3548146E-5 | 1.3548146E-5 | 1.0 | 0.0 | 2.2733262E-4 | 1.6493631E-4 | 1.7493466E-4 | 1.0606195 | 1.0E-5 | 0.0022710022 | 0.0016481513 | 0.0016581349 | 1.0060574 | 1.0E-5 |
+| 7.0 | 4.171527E-6 | 2.9839064E-6 | 2.9839064E-6 | 1.0 | 0.0 | 1.787785E-5 | 1.2788108E-5 | 1.2788108E-5 | 1.0 | 0.0 | 2.1764109E-4 | 1.556842E-4 | 1.6568265E-4 | 1.0642226 | 1.0E-5 | 0.0021742806 | 0.0015557626 | 0.0015657471 | 1.0064178 | 1.0E-5 |
+| 7.1 | 4.0405484E-6 | 2.8824945E-6 | 2.8824945E-6 | 1.0 | 0.0 | 1.731652E-5 | 1.235349E-5 | 1.235349E-5 | 1.0 | 0.0 | 2.1080824E-4 | 1.5039346E-4 | 1.6039197E-4 | 1.0664823 | 1.0E-5 | 0.0021060838 | 0.001502928 | 0.0015129129 | 1.0066437 | 1.0E-5 |
+| 7.2 | 3.8306007E-6 | 2.7020742E-6 | 2.7020742E-6 | 1.0 | 0.0 | 1.6416758E-5 | 1.1580268E-5 | 1.1580268E-5 | 1.0 | 0.0 | 1.9985568E-4 | 1.4098074E-4 | 1.5097934E-4 | 1.0709217 | 1.0E-5 | 0.0019967605 | 0.0014089238 | 0.0014189096 | 1.0070876 | 1.0E-5 |
+| 7.3 | 3.5750938E-6 | 2.5124E-6 | 2.5124E-6 | 1.0 | 0.0 | 1.532174E-5 | 1.0767384E-5 | 1.0767384E-5 | 1.0 | 0.0 | 1.8652623E-4 | 1.3108512E-4 | 1.3108512E-4 | 1.0 | 0.0 | 0.0018636974 | 0.0013100886 | 0.0013100886 | 1.0 | 0.0 |
+| 7.4 | 3.3510041E-6 | 2.341078E-6 | 2.341078E-6 | 1.0 | 0.0 | 1.4361368E-5 | 1.0033154E-5 | 1.0033154E-5 | 1.0 | 0.0 | 1.7483562E-4 | 1.221469E-4 | 1.221469E-4 | 1.0 | 0.0 | 0.0017469813 | 0.0012208081 | 0.0012208081 | 1.0 | 0.0 |
+| 7.5 | 2.948287E-6 | 2.0392013E-6 | 2.0392013E-6 | 1.0 | 0.0 | 1.2635454E-5 | 8.739405E-6 | 8.739405E-6 | 1.0 | 0.0 | 1.538258E-4 | 1.06397165E-4 | 1.06397165E-4 | 1.0 | 0.0 | 0.0015371935 | 0.0010634725 | 0.0010634725 | 1.0 | 0.0 |
+| 7.6 | 2.0134323E-6 | 1.4471889E-6 | 1.4471889E-6 | 1.0 | 0.0 | 8.628967E-6 | 6.2022236E-6 | 6.2022236E-6 | 1.0 | 0.0 | 1.05052604E-4 | 7.5509546E-5 | 7.5509546E-5 | 1.0 | 0.0 | 0.0010500296 | 7.548477E-4 | 7.548477E-4 | 1.0 | 0.0 |
+| 7.7 | 5.726436E-7 | 4.04542E-7 | 4.04542E-7 | 1.0 | 0.0 | 2.4541846E-6 | 1.7337504E-6 | 1.7337504E-6 | 1.0 | 0.0 | 2.9879287E-5 | 2.1108233E-5 | 2.1108233E-5 | 1.0 | 0.0 | 2.987527E-4 | 2.1106482E-4 | 2.1106482E-4 | 1.0 | 0.0 |
+| 7.8 | 1.6248204E-7 | 1.06887995E-7 | 1.06887995E-7 | 1.0 | 0.0 | 6.963514E-7 | 4.5809134E-7 | 4.5809134E-7 | 1.0 | 0.0 | 8.478045E-6 | 5.577248E-6 | 5.577248E-6 | 1.0 | 0.0 | 8.477722E-5 | 5.5771114E-5 | 5.5771114E-5 | 1.0 | 0.0 |
+| 7.9 | 4.4475744E-8 | 3.0376174E-8 | 3.0376174E-8 | 1.0 | 0.0 | 1.9061031E-7 | 1.301836E-7 | 1.301836E-7 | 1.0 | 0.0 | 2.320678E-6 | 1.5849843E-6 | 1.5849843E-6 | 1.0 | 0.0 | 2.3206538E-5 | 1.5849742E-5 | 1.5849742E-5 | 1.0 | 0.0 |
 
-## Blue Cut
+## Pleito
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Blue_Cut_1wk.png) | ![MPD](Blue_Cut_1mo.png) | ![MPD](Blue_Cut_1yr.png) | ![MPD](Blue_Cut_10yr.png) |
+| ![MPD](Pleito_1wk.png) | ![MPD](Pleito_1mo.png) | ![MPD](Pleito_1yr.png) | ![MPD](Pleito_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.1227985E-5 | 2.2720169E-5 | 2.2720169E-5 | 1.0 | 0.0 | 9.097391E-5 | 9.7368844E-5 | 9.7368844E-5 | 1.0 | 0.0 | 0.0011070445 | 0.0011848791 | 0.0012048554 | 1.0168594 | 2.0E-5 | 0.011015458 | 0.011791458 | 0.011821104 | 1.0025142 | 3.0E-5 |
-| 6.1 | 2.1227985E-5 | 2.2720169E-5 | 2.2720169E-5 | 1.0 | 0.0 | 9.097391E-5 | 9.7368844E-5 | 9.7368844E-5 | 1.0 | 0.0 | 0.0011070445 | 0.0011848791 | 0.0012048554 | 1.0168594 | 2.0E-5 | 0.011015458 | 0.011791458 | 0.011821104 | 1.0025142 | 3.0E-5 |
-| 6.2 | 2.1227985E-5 | 2.2720169E-5 | 2.2720169E-5 | 1.0 | 0.0 | 9.097391E-5 | 9.7368844E-5 | 9.7368844E-5 | 1.0 | 0.0 | 0.0011070445 | 0.0011848791 | 0.0012048554 | 1.0168594 | 2.0E-5 | 0.011015458 | 0.011791458 | 0.011821104 | 1.0025142 | 3.0E-5 |
-| 6.3 | 1.1613981E-5 | 1.2353834E-5 | 1.2353834E-5 | 1.0 | 0.0 | 4.9773254E-5 | 5.2944E-5 | 5.2944E-5 | 1.0 | 0.0 | 6.0582085E-4 | 6.4441503E-4 | 6.6440215E-4 | 1.0310159 | 2.0E-5 | 0.0060417196 | 0.006426711 | 0.006456518 | 1.0046381 | 3.0E-5 |
-| 6.4 | 1.1613981E-5 | 1.2353834E-5 | 1.2353834E-5 | 1.0 | 0.0 | 4.9773254E-5 | 5.2944E-5 | 5.2944E-5 | 1.0 | 0.0 | 6.0582085E-4 | 6.4441503E-4 | 6.6440215E-4 | 1.0310159 | 2.0E-5 | 0.0060417196 | 0.006426711 | 0.006456518 | 1.0046381 | 3.0E-5 |
-| 6.5 | 8.931326E-6 | 9.481817E-6 | 9.481817E-6 | 1.0 | 0.0 | 3.8276554E-5 | 4.0635776E-5 | 4.0635776E-5 | 1.0 | 0.0 | 4.6591737E-4 | 4.946374E-4 | 5.1462755E-4 | 1.0404136 | 2.0E-5 | 0.0046494175 | 0.0049362737 | 0.004956175 | 1.0040317 | 2.0E-5 |
-| 6.6 | 7.345353E-6 | 7.790454E-6 | 7.790454E-6 | 1.0 | 0.0 | 3.1479703E-5 | 3.338728E-5 | 3.338728E-5 | 1.0 | 0.0 | 3.83198E-4 | 4.0642233E-4 | 4.1641828E-4 | 1.0245949 | 1.0E-5 | 0.0038253788 | 0.004057582 | 0.0040675416 | 1.0024545 | 1.0E-5 |
-| 6.7 | 6.2775666E-6 | 6.6552975E-6 | 6.6552975E-6 | 1.0 | 0.0 | 2.690358E-5 | 2.8522436E-5 | 2.8522436E-5 | 1.0 | 0.0 | 3.2750185E-4 | 3.4721283E-4 | 3.5720936E-4 | 1.0287908 | 1.0E-5 | 0.0032701963 | 0.0034674446 | 0.0034774097 | 1.002874 | 1.0E-5 |
-| 6.8 | 5.5234095E-6 | 5.855242E-6 | 5.855242E-6 | 1.0 | 0.0 | 2.367154E-5 | 2.5093694E-5 | 2.5093694E-5 | 1.0 | 0.0 | 2.8816288E-4 | 3.0548018E-4 | 3.0548018E-4 | 1.0 | 0.0 | 0.002877895 | 0.0030513185 | 0.0030513185 | 1.0 | 0.0 |
-| 6.9 | 4.7780054E-6 | 5.0655335E-6 | 5.0655335E-6 | 1.0 | 0.0 | 2.0477004E-5 | 2.170929E-5 | 2.170929E-5 | 1.0 | 0.0 | 2.4927902E-4 | 2.642856E-4 | 2.642856E-4 | 1.0 | 0.0 | 0.0024899957 | 0.002640405 | 0.002640405 | 1.0 | 0.0 |
-| 7.0 | 3.883171E-6 | 4.11858E-6 | 4.11858E-6 | 1.0 | 0.0 | 1.6642054E-5 | 1.7650977E-5 | 1.7650977E-5 | 1.0 | 0.0 | 2.0259817E-4 | 2.1488633E-4 | 2.1488633E-4 | 1.0 | 0.0 | 0.0020241356 | 0.002147461 | 0.002147461 | 1.0 | 0.0 |
-| 7.1 | 2.8358215E-6 | 3.0097845E-6 | 3.0097845E-6 | 1.0 | 0.0 | 1.2153464E-5 | 1.289905E-5 | 1.289905E-5 | 1.0 | 0.0 | 1.4795837E-4 | 1.5704118E-4 | 1.5704118E-4 | 1.0 | 0.0 | 0.001478599 | 0.0015699473 | 0.0015699473 | 1.0 | 0.0 |
-
-## Green Valley 2011 CFM
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Green_Valley_2011_CFM_1wk.png) | ![MPD](Green_Valley_2011_CFM_1mo.png) | ![MPD](Green_Valley_2011_CFM_1yr.png) | ![MPD](Green_Valley_2011_CFM_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 9.9629346E-5 | 1.7305705E-4 | 1.7305705E-4 | 1.0 | 0.0 | 4.2691303E-4 | 7.414668E-4 | 7.414668E-4 | 1.0 | 0.0 | 0.0051852856 | 0.008987168 | 0.008997078 | 1.0011027 | 1.0E-5 | 0.050659515 | 0.08552724 | 0.08554553 | 1.0002139 | 2.0E-5 |
-| 6.1 | 9.88615E-5 | 1.7153013E-4 | 1.7153013E-4 | 1.0 | 0.0 | 4.2362334E-4 | 7.349266E-4 | 7.349266E-4 | 1.0 | 0.0 | 0.0051454236 | 0.008908194 | 0.008918105 | 1.0011126 | 1.0E-5 | 0.050279044 | 0.08481485 | 0.08483315 | 1.0002158 | 2.0E-5 |
-| 6.2 | 9.696895E-5 | 1.6792017E-4 | 1.6792017E-4 | 1.0 | 0.0 | 4.15515E-4 | 7.194639E-4 | 7.194639E-4 | 1.0 | 0.0 | 0.0050471667 | 0.008721567 | 0.00873148 | 1.0011365 | 1.0E-5 | 0.04934063 | 0.08312371 | 0.08314204 | 1.0002207 | 2.0E-5 |
-| 6.3 | 9.275224E-5 | 1.5971335E-4 | 1.5971335E-4 | 1.0 | 0.0 | 3.9744904E-4 | 6.843105E-4 | 6.843105E-4 | 1.0 | 0.0 | 0.0048282105 | 0.008296883 | 0.0083068 | 1.0011953 | 1.0E-5 | 0.047246475 | 0.07926211 | 0.079280525 | 1.0002323 | 2.0E-5 |
-| 6.4 | 8.391499E-5 | 1.436941E-4 | 1.436941E-4 | 1.0 | 0.0 | 3.595861E-4 | 6.156939E-4 | 6.156939E-4 | 1.0 | 0.0 | 0.004369175 | 0.0074675 | 0.0074774255 | 1.0013292 | 1.0E-5 | 0.04284265 | 0.0716356 | 0.07165416 | 1.0002592 | 2.0E-5 |
-| 6.5 | 5.9519385E-5 | 9.935359E-5 | 9.935359E-5 | 1.0 | 0.0 | 2.5505814E-4 | 4.2573572E-4 | 4.2573572E-4 | 1.0 | 0.0 | 0.0031009112 | 0.0051686377 | 0.0051686377 | 1.0 | 0.0 | 0.030579966 | 0.05014978 | 0.05014978 | 1.0 | 0.0 |
-| 6.6 | 4.5361558E-5 | 7.4036536E-5 | 7.4036536E-5 | 1.0 | 0.0 | 1.9439218E-4 | 3.172637E-4 | 3.172637E-4 | 1.0 | 0.0 | 0.0023641558 | 0.0038542415 | 0.0038542415 | 1.0 | 0.0 | 0.023391623 | 0.037669353 | 0.037669353 | 1.0 | 0.0 |
-| 6.7 | 3.8808106E-5 | 6.2660576E-5 | 6.2660576E-5 | 1.0 | 0.0 | 1.6630985E-4 | 2.685203E-4 | 2.685203E-4 | 1.0 | 0.0 | 0.0020229418 | 0.0032629308 | 0.0032629308 | 1.0 | 0.0 | 0.020046256 | 0.032008827 | 0.032008827 | 1.0 | 0.0 |
-| 6.8 | 2.2284667E-5 | 3.128642E-5 | 3.128642E-5 | 1.0 | 0.0 | 9.550222E-5 | 1.3407787E-4 | 1.3407787E-4 | 1.0 | 0.0 | 0.0011621192 | 0.0016311664 | 0.0016311664 | 1.0 | 0.0 | 0.011560607 | 0.016166577 | 0.016166577 | 1.0 | 0.0 |
-| 6.9 | 1.8050168E-5 | 2.4448911E-5 | 2.4448911E-5 | 1.0 | 0.0 | 7.735557E-5 | 1.0477688E-4 | 1.0477688E-4 | 1.0 | 0.0 | 9.4139716E-4 | 0.0012749154 | 0.0012749154 | 1.0 | 0.0 | 0.009374191 | 0.012668268 | 0.012668268 | 1.0 | 0.0 |
-| 7.0 | 1.4763166E-5 | 1.958358E-5 | 1.958358E-5 | 1.0 | 0.0 | 6.326917E-5 | 8.392695E-5 | 8.392695E-5 | 1.0 | 0.0 | 7.7002996E-4 | 0.0010213346 | 0.0010213346 | 1.0 | 0.0 | 0.007673672 | 0.010165716 | 0.010165716 | 1.0 | 0.0 |
-| 7.1 | 1.2399713E-5 | 1.6304351E-5 | 1.6304351E-5 | 1.0 | 0.0 | 5.3140546E-5 | 6.987393E-5 | 6.987393E-5 | 1.0 | 0.0 | 6.467941E-4 | 8.50385E-4 | 8.50385E-4 | 1.0 | 0.0 | 0.006449148 | 0.008471588 | 0.008471588 | 1.0 | 0.0 |
-| 7.2 | 1.0584195E-5 | 1.3922341E-5 | 1.3922341E-5 | 1.0 | 0.0 | 4.5360044E-5 | 5.966582E-5 | 5.966582E-5 | 1.0 | 0.0 | 5.521186E-4 | 7.2619086E-4 | 7.2619086E-4 | 1.0 | 0.0 | 0.0055074887 | 0.0072385953 | 0.0072385953 | 1.0 | 0.0 |
-| 7.3 | 7.998173E-6 | 1.0544554E-5 | 1.0544554E-5 | 1.0 | 0.0 | 3.4277433E-5 | 4.519017E-5 | 4.519017E-5 | 1.0 | 0.0 | 4.1724785E-4 | 5.500525E-4 | 5.500525E-4 | 1.0 | 0.0 | 0.004164653 | 0.005487176 | 0.005487176 | 1.0 | 0.0 |
-| 7.4 | 6.7571127E-6 | 8.933202E-6 | 8.933202E-6 | 1.0 | 0.0 | 2.8958733E-5 | 3.8284594E-5 | 3.8284594E-5 | 1.0 | 0.0 | 3.5251552E-4 | 4.6601618E-4 | 4.6601618E-4 | 1.0 | 0.0 | 0.0035195686 | 0.004650593 | 0.004650593 | 1.0 | 0.0 |
-| 7.5 | 5.69878E-6 | 7.516771E-6 | 7.516771E-6 | 1.0 | 0.0 | 2.4423114E-5 | 3.221434E-5 | 3.221434E-5 | 1.0 | 0.0 | 2.9731085E-4 | 3.921399E-4 | 3.921399E-4 | 1.0 | 0.0 | 0.002969134 | 0.003914631 | 0.003914631 | 1.0 | 0.0 |
-| 7.6 | 4.503664E-6 | 5.935934E-6 | 5.935934E-6 | 1.0 | 0.0 | 1.9301275E-5 | 2.5439474E-5 | 2.5439474E-5 | 1.0 | 0.0 | 2.3496768E-4 | 3.0968242E-4 | 3.0968242E-4 | 1.0 | 0.0 | 0.002347194 | 0.0030926338 | 0.0030926338 | 1.0 | 0.0 |
-| 7.7 | 1.0873546E-6 | 1.4107341E-6 | 1.4107341E-6 | 1.0 | 0.0 | 4.6600826E-6 | 6.0459893E-6 | 6.0459893E-6 | 1.0 | 0.0 | 5.6735033E-5 | 7.360746E-5 | 7.360746E-5 | 1.0 | 0.0 | 5.672055E-4 | 7.3583284E-4 | 7.3583284E-4 | 1.0 | 0.0 |
-| 7.8 | 4.9373917E-8 | 6.177918E-8 | 6.177918E-8 | 1.0 | 0.0 | 2.1160248E-7 | 2.6476792E-7 | 2.6476792E-7 | 1.0 | 0.0 | 2.5762572E-6 | 3.2235457E-6 | 3.2235457E-6 | 1.0 | 0.0 | 2.5762274E-5 | 3.223337E-5 | 3.223337E-5 | 1.0 | 0.0 |
-
-## Newport-Inglewood (Offshore)
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Newport_Inglewood_Offshore_1wk.png) | ![MPD](Newport_Inglewood_Offshore_1mo.png) | ![MPD](Newport_Inglewood_Offshore_1yr.png) | ![MPD](Newport_Inglewood_Offshore_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.9626508E-5 | 1.8965913E-5 | 1.8965913E-5 | 1.0 | 0.0 | 8.411089E-5 | 8.128002E-5 | 8.128002E-5 | 1.0 | 0.0 | 0.001023569 | 9.891476E-4 | 0.0010091278 | 1.0201994 | 2.0E-5 | 0.010188672 | 0.009848791 | 0.009868595 | 1.0020107 | 2.0E-5 |
-| 6.1 | 1.331886E-5 | 1.2218475E-5 | 1.2218475E-5 | 1.0 | 0.0 | 5.707958E-5 | 5.236385E-5 | 5.236385E-5 | 1.0 | 0.0 | 6.947222E-4 | 6.3734484E-4 | 6.5733213E-4 | 1.0313601 | 2.0E-5 | 0.006925544 | 0.0063553476 | 0.00637522 | 1.003127 | 2.0E-5 |
-| 6.2 | 1.2250852E-5 | 1.1076382E-5 | 1.1076382E-5 | 1.0 | 0.0 | 5.2502597E-5 | 4.746935E-5 | 4.746935E-5 | 1.0 | 0.0 | 6.3903164E-4 | 5.777871E-4 | 5.9777556E-4 | 1.0345948 | 2.0E-5 | 0.006371971 | 0.00576297 | 0.0057828547 | 1.0034504 | 2.0E-5 |
-| 6.3 | 1.2106258E-5 | 1.0919239E-5 | 1.0919239E-5 | 1.0 | 0.0 | 5.1882926E-5 | 4.6795903E-5 | 4.6795903E-5 | 1.0 | 0.0 | 6.3149154E-4 | 5.695922E-4 | 5.895808E-4 | 1.0350928 | 2.0E-5 | 0.0062970007 | 0.00568144 | 0.005701326 | 1.0035002 | 2.0E-5 |
-| 6.4 | 1.1348758E-5 | 1.0109689E-5 | 1.0109689E-5 | 1.0 | 0.0 | 4.8636626E-5 | 4.3326523E-5 | 4.3326523E-5 | 1.0 | 0.0 | 5.919901E-4 | 5.273736E-4 | 5.47363E-4 | 1.0379038 | 2.0E-5 | 0.005904155 | 0.0052613164 | 0.005281211 | 1.0037813 | 2.0E-5 |
-| 6.5 | 1.100837E-5 | 9.743706E-6 | 9.743706E-6 | 1.0 | 0.0 | 4.7177873E-5 | 4.1758078E-5 | 4.1758078E-5 | 1.0 | 0.0 | 5.7423924E-4 | 5.0828676E-4 | 5.282766E-4 | 1.0393279 | 2.0E-5 | 0.005727576 | 0.005071333 | 0.005091232 | 1.0039238 | 2.0E-5 |
-| 6.6 | 1.0634696E-5 | 9.345849E-6 | 9.345849E-6 | 1.0 | 0.0 | 4.557647E-5 | 4.005303E-5 | 4.005303E-5 | 1.0 | 0.0 | 5.5475225E-4 | 4.8753724E-4 | 5.075275E-4 | 1.0410025 | 2.0E-5 | 0.0055336943 | 0.0048647635 | 0.0048846663 | 1.0040911 | 2.0E-5 |
-| 6.7 | 9.9780855E-6 | 8.6681985E-6 | 8.6681985E-6 | 1.0 | 0.0 | 4.276252E-5 | 3.7148897E-5 | 3.7148897E-5 | 1.0 | 0.0 | 5.205093E-4 | 4.5219465E-4 | 4.721856E-4 | 1.0442088 | 2.0E-5 | 0.0051929182 | 0.0045128246 | 0.004532734 | 1.0044118 | 2.0E-5 |
-| 6.8 | 9.59546E-6 | 8.273229E-6 | 8.273229E-6 | 1.0 | 0.0 | 4.1122752E-5 | 3.5456218E-5 | 3.5456218E-5 | 1.0 | 0.0 | 5.0055445E-4 | 4.315946E-4 | 4.5158598E-4 | 1.0463197 | 2.0E-5 | 0.004994285 | 0.00430764 | 0.004327554 | 1.0046229 | 2.0E-5 |
-| 6.9 | 9.000614E-6 | 7.7071E-6 | 7.7071E-6 | 1.0 | 0.0 | 3.857349E-5 | 3.3030014E-5 | 3.3030014E-5 | 1.0 | 0.0 | 4.6953102E-4 | 4.0206686E-4 | 4.2205883E-4 | 1.0497229 | 2.0E-5 | 0.004685402 | 0.0040134657 | 0.004033386 | 1.0049633 | 2.0E-5 |
-| 7.0 | 7.4070194E-6 | 6.1491064E-6 | 6.1491064E-6 | 1.0 | 0.0 | 3.1743984E-5 | 2.6353047E-5 | 2.6353047E-5 | 1.0 | 0.0 | 3.8641447E-4 | 3.2080128E-4 | 3.4079485E-4 | 1.0623239 | 2.0E-5 | 0.0038574322 | 0.0032034016 | 0.0032233375 | 1.0062233 | 2.0E-5 |
-| 7.1 | 6.299615E-6 | 5.0567664E-6 | 5.0567664E-6 | 1.0 | 0.0 | 2.699807E-5 | 2.1671676E-5 | 2.1671676E-5 | 1.0 | 0.0 | 3.2865192E-4 | 2.6382084E-4 | 2.8381558E-4 | 1.075789 | 2.0E-5 | 0.003281663 | 0.0026350913 | 0.0026550386 | 1.0075699 | 2.0E-5 |
-| 7.2 | 5.096653E-6 | 3.8929193E-6 | 3.8929193E-6 | 1.0 | 0.0 | 2.1842614E-5 | 1.6683834E-5 | 1.6683834E-5 | 1.0 | 0.0 | 2.6590136E-4 | 2.0310686E-4 | 2.2310279E-4 | 1.0984503 | 2.0E-5 | 0.0026558342 | 0.0020292234 | 0.0020491828 | 1.009836 | 2.0E-5 |
-| 7.3 | 3.9753018E-6 | 2.9099924E-6 | 2.9099924E-6 | 1.0 | 0.0 | 1.7036897E-5 | 1.2471336E-5 | 1.2471336E-5 | 1.0 | 0.0 | 2.0740448E-4 | 1.5182802E-4 | 1.7182498E-4 | 1.131708 | 2.0E-5 | 0.00207211 | 0.001517251 | 0.0015372207 | 1.0131618 | 2.0E-5 |
-| 7.4 | 3.0568392E-6 | 2.1450614E-6 | 2.1450614E-6 | 1.0 | 0.0 | 1.3100675E-5 | 9.193088E-6 | 9.193088E-6 | 1.0 | 0.0 | 1.5948903E-4 | 1.1192016E-4 | 1.2191904E-4 | 1.0893394 | 1.0E-5 | 0.0015937461 | 0.0011186443 | 0.001128633 | 1.0089294 | 1.0E-5 |
-| 7.5 | 1.7279019E-6 | 1.1470257E-6 | 1.1470257E-6 | 1.0 | 0.0 | 7.405273E-6 | 4.9158157E-6 | 4.9158157E-6 | 1.0 | 0.0 | 9.015547E-5 | 5.984845E-5 | 5.984845E-5 | 1.0 | 0.0 | 9.01189E-4 | 5.983272E-4 | 5.983272E-4 | 1.0 | 0.0 |
-| 7.6 | 1.1156416E-6 | 7.223269E-7 | 7.223269E-7 | 1.0 | 0.0 | 4.7813123E-6 | 3.095683E-6 | 3.095683E-6 | 1.0 | 0.0 | 5.821092E-5 | 3.768931E-5 | 3.768931E-5 | 1.0 | 0.0 | 5.8195676E-4 | 3.7683154E-4 | 3.7683154E-4 | 1.0 | 0.0 |
-| 7.7 | 9.117973E-8 | 6.734269E-8 | 6.734269E-8 | 1.0 | 0.0 | 3.907702E-7 | 2.886115E-7 | 2.886115E-7 | 1.0 | 0.0 | 4.757617E-6 | 3.5138394E-6 | 3.5138394E-6 | 1.0 | 0.0 | 4.7575148E-5 | 3.513787E-5 | 3.513787E-5 | 1.0 | 0.0 |
+| 6.0 | 1.6763008E-5 | 2.4782541E-5 | 2.4782541E-5 | 1.0 | 0.0 | 7.183948E-5 | 1.0620697E-4 | 1.0620697E-4 | 1.0 | 0.0 | 8.742947E-4 | 0.0012923749 | 0.001302362 | 1.0077277 | 1.0E-5 | 0.00870863 | 0.01296333 | 0.012983072 | 1.0015228 | 2.0E-5 |
+| 6.1 | 1.6763008E-5 | 2.4782541E-5 | 2.4782541E-5 | 1.0 | 0.0 | 7.183948E-5 | 1.0620697E-4 | 1.0620697E-4 | 1.0 | 0.0 | 8.742947E-4 | 0.0012923749 | 0.001302362 | 1.0077277 | 1.0E-5 | 0.00870863 | 0.01296333 | 0.012983072 | 1.0015228 | 2.0E-5 |
+| 6.2 | 1.6763008E-5 | 2.4782541E-5 | 2.4782541E-5 | 1.0 | 0.0 | 7.183948E-5 | 1.0620697E-4 | 1.0620697E-4 | 1.0 | 0.0 | 8.742947E-4 | 0.0012923749 | 0.001302362 | 1.0077277 | 1.0E-5 | 0.00870863 | 0.01296333 | 0.012983072 | 1.0015228 | 2.0E-5 |
+| 6.3 | 1.6763008E-5 | 2.4782541E-5 | 2.4782541E-5 | 1.0 | 0.0 | 7.183948E-5 | 1.0620697E-4 | 1.0620697E-4 | 1.0 | 0.0 | 8.742947E-4 | 0.0012923749 | 0.001302362 | 1.0077277 | 1.0E-5 | 0.00870863 | 0.01296333 | 0.012983072 | 1.0015228 | 2.0E-5 |
+| 6.4 | 1.6763008E-5 | 2.4782541E-5 | 2.4782541E-5 | 1.0 | 0.0 | 7.183948E-5 | 1.0620697E-4 | 1.0620697E-4 | 1.0 | 0.0 | 8.742947E-4 | 0.0012923749 | 0.001302362 | 1.0077277 | 1.0E-5 | 0.00870863 | 0.01296333 | 0.012983072 | 1.0015228 | 2.0E-5 |
+| 6.5 | 1.6763008E-5 | 2.4782541E-5 | 2.4782541E-5 | 1.0 | 0.0 | 7.183948E-5 | 1.0620697E-4 | 1.0620697E-4 | 1.0 | 0.0 | 8.742947E-4 | 0.0012923749 | 0.001302362 | 1.0077277 | 1.0E-5 | 0.00870863 | 0.01296333 | 0.012983072 | 1.0015228 | 2.0E-5 |
+| 6.6 | 9.910213E-6 | 1.723304E-5 | 1.723304E-5 | 1.0 | 0.0 | 4.247165E-5 | 7.3853815E-5 | 7.3853815E-5 | 1.0 | 0.0 | 5.169696E-4 | 8.98803E-4 | 9.0879406E-4 | 1.0111159 | 1.0E-5 | 0.0051576863 | 0.009060032 | 0.00907985 | 1.0021875 | 2.0E-5 |
+| 6.7 | 9.910213E-6 | 1.723304E-5 | 1.723304E-5 | 1.0 | 0.0 | 4.247165E-5 | 7.3853815E-5 | 7.3853815E-5 | 1.0 | 0.0 | 5.169696E-4 | 8.98803E-4 | 9.0879406E-4 | 1.0111159 | 1.0E-5 | 0.0051576863 | 0.009060032 | 0.00907985 | 1.0021875 | 2.0E-5 |
+| 6.8 | 8.300162E-6 | 1.5492597E-5 | 1.5492597E-5 | 1.0 | 0.0 | 3.557164E-5 | 6.6395165E-5 | 6.6395165E-5 | 1.0 | 0.0 | 4.3299864E-4 | 8.0806273E-4 | 8.1805466E-4 | 1.0123652 | 1.0E-5 | 0.004321559 | 0.00815945 | 0.0081792865 | 1.0024312 | 2.0E-5 |
+| 6.9 | 8.183114E-6 | 1.5363803E-5 | 1.5363803E-5 | 1.0 | 0.0 | 3.5070017E-5 | 6.584322E-5 | 6.584322E-5 | 1.0 | 0.0 | 4.2689382E-4 | 8.013478E-4 | 8.1133976E-4 | 1.0124689 | 1.0E-5 | 0.0042607468 | 0.008092791 | 0.008112629 | 1.0024513 | 2.0E-5 |
+| 7.0 | 7.1748823E-6 | 1.4150565E-5 | 1.4150565E-5 | 1.0 | 0.0 | 3.0749135E-5 | 6.064387E-5 | 6.064387E-5 | 1.0 | 0.0 | 3.743064E-4 | 7.3808955E-4 | 7.3808955E-4 | 1.0 | 0.0 | 0.0037367654 | 0.007464133 | 0.0074740583 | 1.0013298 | 1.0E-5 |
+| 7.1 | 7.1671807E-6 | 1.4140933E-5 | 1.4140933E-5 | 1.0 | 0.0 | 3.0716128E-5 | 6.0602593E-5 | 6.0602593E-5 | 1.0 | 0.0 | 3.7390468E-4 | 7.3758734E-4 | 7.3758734E-4 | 1.0 | 0.0 | 0.0037327618 | 0.0074591446 | 0.00746907 | 1.0013306 | 1.0E-5 |
+| 7.2 | 7.0649667E-6 | 1.3988164E-5 | 1.3988164E-5 | 1.0 | 0.0 | 3.0278077E-5 | 5.99479E-5 | 5.99479E-5 | 1.0 | 0.0 | 3.6857324E-4 | 7.296218E-4 | 7.296218E-4 | 1.0 | 0.0 | 0.0036796255 | 0.007379872 | 0.0073897983 | 1.001345 | 1.0E-5 |
+| 7.3 | 7.02082E-6 | 1.3931584E-5 | 1.3931584E-5 | 1.0 | 0.0 | 3.008888E-5 | 5.9705428E-5 | 5.9705428E-5 | 1.0 | 0.0 | 3.6627054E-4 | 7.2667166E-4 | 7.2667166E-4 | 1.0 | 0.0 | 0.0036566744 | 0.0073503535 | 0.00736028 | 1.0013505 | 1.0E-5 |
+| 7.4 | 6.987146E-6 | 1.3891126E-5 | 1.3891126E-5 | 1.0 | 0.0 | 2.9944567E-5 | 5.953204E-5 | 5.953204E-5 | 1.0 | 0.0 | 3.6451413E-4 | 7.245621E-4 | 7.245621E-4 | 1.0 | 0.0 | 0.0036391679 | 0.007329279 | 0.0073392056 | 1.0013543 | 1.0E-5 |
+| 7.5 | 6.9494554E-6 | 1.3848016E-5 | 1.3848016E-5 | 1.0 | 0.0 | 2.9783041E-5 | 5.9347298E-5 | 5.9347298E-5 | 1.0 | 0.0 | 3.625482E-4 | 7.223143E-4 | 7.223143E-4 | 1.0 | 0.0 | 0.0036195726 | 0.0073069 | 0.007316827 | 1.0013586 | 1.0E-5 |
+| 7.6 | 6.92694E-6 | 1.3807103E-5 | 1.3807103E-5 | 1.0 | 0.0 | 2.9686547E-5 | 5.9171958E-5 | 5.9171958E-5 | 1.0 | 0.0 | 3.6137376E-4 | 7.20181E-4 | 7.20181E-4 | 1.0 | 0.0 | 0.0036078666 | 0.007285639 | 0.007295566 | 1.0013626 | 1.0E-5 |
+| 7.7 | 6.395867E-6 | 1.268542E-5 | 1.268542E-5 | 1.0 | 0.0 | 2.741057E-5 | 5.4364955E-5 | 5.4364955E-5 | 1.0 | 0.0 | 3.336726E-4 | 6.6169264E-4 | 6.6169264E-4 | 1.0 | 0.0 | 0.0033317201 | 0.006703919 | 0.0067138514 | 1.0014817 | 1.0E-5 |
+| 7.8 | 5.8664327E-6 | 1.1551571E-5 | 1.1551571E-5 | 1.0 | 0.0 | 2.5141611E-5 | 4.9505794E-5 | 4.9505794E-5 | 1.0 | 0.0 | 3.060561E-4 | 6.025666E-4 | 6.025666E-4 | 1.0 | 0.0 | 0.0030563495 | 0.0061086505 | 0.006118589 | 1.001627 | 1.0E-5 |
+| 7.9 | 3.7167474E-6 | 7.1235727E-6 | 7.1235727E-6 | 1.0 | 0.0 | 1.592882E-5 | 3.052924E-5 | 3.052924E-5 | 1.0 | 0.0 | 1.9391612E-4 | 3.7163027E-4 | 3.7163027E-4 | 1.0 | 0.0 | 0.0019374699 | 0.0037723172 | 0.0037822796 | 1.0026408 | 1.0E-5 |
+| 8.0 | 1.0903841E-6 | 1.2900235E-6 | 1.2900235E-6 | 1.0 | 0.0 | 4.6730665E-6 | 5.5286605E-6 | 5.5286605E-6 | 1.0 | 0.0 | 5.68931E-5 | 6.7309375E-5 | 6.7309375E-5 | 1.0 | 0.0 | 5.6878536E-4 | 6.952896E-4 | 6.952896E-4 | 1.0 | 0.0 |
+| 8.1 | 2.6894583E-7 | 1.1095561E-7 | 1.1095561E-7 | 1.0 | 0.0 | 1.1526245E-6 | 4.7552396E-7 | 4.7552396E-7 | 1.0 | 0.0 | 1.4033113E-5 | 5.789489E-6 | 5.789489E-6 | 1.0 | 0.0 | 1.4032227E-4 | 6.476579E-5 | 6.476579E-5 | 1.0 | 0.0 |
+| 8.2 | 5.2967013E-9 | 2.466248E-9 | 2.466248E-9 | 1.0 | 0.0 | 2.2700148E-8 | 1.0569635E-8 | 1.0569635E-8 | 1.0 | 0.0 | 2.7637427E-7 | 1.286853E-7 | 1.286853E-7 | 1.0 | 0.0 | 2.7637393E-6 | 1.4639884E-6 | 1.4639884E-6 | 1.0 | 0.0 |
 
 ## Elsinore (Temecula) rev
 *[(top)](#table-of-contents)*
@@ -3250,61 +3256,36 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.8 | 2.2692414E-7 | 9.386795E-8 | 9.386795E-8 | 1.0 | 0.0 | 9.725317E-7 | 4.0229116E-7 | 4.0229116E-7 | 1.0 | 0.0 | 1.1840509E-5 | 4.8978873E-6 | 4.8978873E-6 | 1.0 | 0.0 | 1.1839878E-4 | 4.897812E-5 | 4.897812E-5 | 1.0 | 0.0 |
 | 7.9 | 6.676829E-9 | 3.440201E-9 | 3.440201E-9 | 1.0 | 0.0 | 2.861498E-8 | 1.4743717E-8 | 1.4743717E-8 | 1.0 | 0.0 | 3.4838732E-7 | 1.7950475E-7 | 1.7950475E-7 | 1.0 | 0.0 | 3.4838679E-6 | 1.7950462E-6 | 1.7950462E-6 | 1.0 | 0.0 |
 
-## North Salt Lake
+## Sierra Madre
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](North_Salt_Lake_1wk.png) | ![MPD](North_Salt_Lake_1mo.png) | ![MPD](North_Salt_Lake_1yr.png) | ![MPD](North_Salt_Lake_10yr.png) |
+| ![MPD](Sierra_Madre_1wk.png) | ![MPD](Sierra_Madre_1mo.png) | ![MPD](Sierra_Madre_1yr.png) | ![MPD](Sierra_Madre_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.849599E-6 | 1.9556126E-6 | 1.1955593E-5 | 6.113477 | 1.0E-5 | 7.926829E-6 | 8.381182E-6 | 1.8381097E-5 | 2.193139 | 1.0E-5 | 9.650487E-5 | 1.02038124E-4 | 1.120371E-4 | 1.0979925 | 1.0E-5 | 9.646297E-4 | 0.0010201106 | 0.0010400901 | 1.0195857 | 2.0E-5 |
-| 6.1 | 1.849599E-6 | 1.9556126E-6 | 1.1955593E-5 | 6.113477 | 1.0E-5 | 7.926829E-6 | 8.381182E-6 | 1.8381097E-5 | 2.193139 | 1.0E-5 | 9.650487E-5 | 1.02038124E-4 | 1.120371E-4 | 1.0979925 | 1.0E-5 | 9.646297E-4 | 0.0010201106 | 0.0010301004 | 1.0097928 | 1.0E-5 |
-| 6.2 | 1.849599E-6 | 1.9556126E-6 | 1.1955593E-5 | 6.113477 | 1.0E-5 | 7.926829E-6 | 8.381182E-6 | 1.8381097E-5 | 2.193139 | 1.0E-5 | 9.650487E-5 | 1.02038124E-4 | 1.120371E-4 | 1.0979925 | 1.0E-5 | 9.646297E-4 | 0.0010201106 | 0.0010301004 | 1.0097928 | 1.0E-5 |
-| 6.3 | 1.849599E-6 | 1.9556126E-6 | 1.1955593E-5 | 6.113477 | 1.0E-5 | 7.926829E-6 | 8.381182E-6 | 1.8381097E-5 | 2.193139 | 1.0E-5 | 9.650487E-5 | 1.02038124E-4 | 1.120371E-4 | 1.0979925 | 1.0E-5 | 9.646297E-4 | 0.0010201106 | 0.0010301004 | 1.0097928 | 1.0E-5 |
-| 6.4 | 1.7803909E-6 | 1.8861124E-6 | 1.18860935E-5 | 6.301901 | 1.0E-5 | 7.630225E-6 | 8.083325E-6 | 1.8083245E-5 | 2.2371047 | 1.0E-5 | 9.289402E-5 | 9.841205E-5 | 1.0841106E-4 | 1.1016036 | 1.0E-5 | 9.28552E-4 | 9.838819E-4 | 9.938721E-4 | 1.0101538 | 1.0E-5 |
-| 6.5 | 5.9157696E-7 | 6.3003364E-7 | 6.3003364E-7 | 1.0 | 0.0 | 2.5353274E-6 | 2.7001417E-6 | 2.7001417E-6 | 1.0 | 0.0 | 3.0867173E-5 | 3.287377E-5 | 3.287377E-5 | 1.0 | 0.0 | 3.0862886E-4 | 3.28693E-4 | 3.28693E-4 | 1.0 | 0.0 |
-| 6.6 | 5.9157696E-7 | 6.3003364E-7 | 6.3003364E-7 | 1.0 | 0.0 | 2.5353274E-6 | 2.7001417E-6 | 2.7001417E-6 | 1.0 | 0.0 | 3.0867173E-5 | 3.287377E-5 | 3.287377E-5 | 1.0 | 0.0 | 3.0862886E-4 | 3.28693E-4 | 3.28693E-4 | 1.0 | 0.0 |
-| 6.7 | 5.9157696E-7 | 6.3003364E-7 | 6.3003364E-7 | 1.0 | 0.0 | 2.5353274E-6 | 2.7001417E-6 | 2.7001417E-6 | 1.0 | 0.0 | 3.0867173E-5 | 3.287377E-5 | 3.287377E-5 | 1.0 | 0.0 | 3.0862886E-4 | 3.28693E-4 | 3.28693E-4 | 1.0 | 0.0 |
-| 6.8 | 4.7536267E-7 | 5.066143E-7 | 5.066143E-7 | 1.0 | 0.0 | 2.037267E-6 | 2.1712026E-6 | 2.1712026E-6 | 1.0 | 0.0 | 2.4803443E-5 | 2.6434096E-5 | 2.6434096E-5 | 1.0 | 0.0 | 2.4800675E-4 | 2.6431197E-4 | 2.6431197E-4 | 1.0 | 0.0 |
-| 6.9 | 3.6345344E-7 | 3.8751006E-7 | 3.8751006E-7 | 1.0 | 0.0 | 1.5576567E-6 | 1.6607564E-6 | 1.6607564E-6 | 1.0 | 0.0 | 1.8964305E-5 | 2.0219539E-5 | 2.0219539E-5 | 1.0 | 0.0 | 1.8962687E-4 | 2.021787E-4 | 2.021787E-4 | 1.0 | 0.0 |
-| 7.0 | 2.4087325E-7 | 2.570998E-7 | 2.570998E-7 | 1.0 | 0.0 | 1.0323135E-6 | 1.1018559E-6 | 1.1018559E-6 | 1.0 | 0.0 | 1.25683455E-5 | 1.3415026E-5 | 1.3415026E-5 | 1.0 | 0.0 | 1.2567634E-4 | 1.3414343E-4 | 1.3414343E-4 | 1.0 | 0.0 |
-| 7.1 | 8.551555E-8 | 9.044672E-8 | 9.044672E-8 | 1.0 | 0.0 | 3.6649516E-7 | 3.8762875E-7 | 3.8762875E-7 | 1.0 | 0.0 | 4.4620692E-6 | 4.7193707E-6 | 4.7193707E-6 | 1.0 | 0.0 | 4.46198E-5 | 4.7192825E-5 | 4.7192825E-5 | 1.0 | 0.0 |
-| 7.2 | 2.475279E-8 | 2.5893618E-8 | 2.5893618E-8 | 1.0 | 0.0 | 1.0608338E-7 | 1.1097265E-7 | 1.1097265E-7 | 1.0 | 0.0 | 1.2915643E-6 | 1.3510912E-6 | 1.3510912E-6 | 1.0 | 0.0 | 1.2915569E-5 | 1.3510837E-5 | 1.3510837E-5 | 1.0 | 0.0 |
-| 7.3 | 1.5212393E-8 | 1.5847736E-8 | 1.5847736E-8 | 1.0 | 0.0 | 6.519597E-8 | 6.791887E-8 | 6.791887E-8 | 1.0 | 0.0 | 7.9376065E-7 | 8.2691196E-7 | 8.2691196E-7 | 1.0 | 0.0 | 7.937579E-6 | 8.269092E-6 | 8.269092E-6 | 1.0 | 0.0 |
-| 7.4 | 8.182E-9 | 8.447396E-9 | 8.447396E-9 | 1.0 | 0.0 | 3.5065714E-8 | 3.6203126E-8 | 3.6203126E-8 | 1.0 | 0.0 | 4.26925E-7 | 4.4077296E-7 | 4.4077296E-7 | 1.0 | 0.0 | 4.269242E-6 | 4.4077215E-6 | 4.4077215E-6 | 1.0 | 0.0 |
-| 7.5 | 5.479913E-9 | 5.6681158E-9 | 5.6681158E-9 | 1.0 | 0.0 | 2.3485342E-8 | 2.4291925E-8 | 2.4291925E-8 | 1.0 | 0.0 | 2.85934E-7 | 2.9575415E-7 | 2.9575415E-7 | 1.0 | 0.0 | 2.8593363E-6 | 2.9575378E-6 | 2.9575378E-6 | 1.0 | 0.0 |
-| 7.6 | 2.6813562E-10 | 2.7732305E-10 | 2.7732305E-10 | 1.0 | 0.0 | 1.1491527E-9 | 1.1885273E-9 | 1.1885273E-9 | 1.0 | 0.0 | 1.3990933E-8 | 1.4470319E-8 | 1.4470319E-8 | 1.0 | 0.0 | 1.3990932E-7 | 1.447032E-7 | 1.447032E-7 | 1.0 | 0.0 |
-
-## Redondo Canyon alt 1
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Redondo_Canyon_alt_1_1wk.png) | ![MPD](Redondo_Canyon_alt_1_1mo.png) | ![MPD](Redondo_Canyon_alt_1_1yr.png) | ![MPD](Redondo_Canyon_alt_1_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.0346246E-5 | 1.0981754E-5 | 1.0981754E-5 | 1.0 | 0.0 | 4.43403E-5 | 4.7064255E-5 | 4.7064255E-5 | 1.0 | 0.0 | 5.3970946E-4 | 5.7293556E-4 | 5.7293556E-4 | 1.0 | 0.0 | 0.0053840056 | 0.0057223244 | 0.00574221 | 1.0034751 | 2.0E-5 |
-| 6.1 | 1.0346246E-5 | 1.0981754E-5 | 1.0981754E-5 | 1.0 | 0.0 | 4.43403E-5 | 4.7064255E-5 | 4.7064255E-5 | 1.0 | 0.0 | 5.3970946E-4 | 5.7293556E-4 | 5.7293556E-4 | 1.0 | 0.0 | 0.0053840056 | 0.0057223244 | 0.00574221 | 1.0034751 | 2.0E-5 |
-| 6.2 | 1.0346246E-5 | 1.0981754E-5 | 1.0981754E-5 | 1.0 | 0.0 | 4.43403E-5 | 4.7064255E-5 | 4.7064255E-5 | 1.0 | 0.0 | 5.3970946E-4 | 5.7293556E-4 | 5.7293556E-4 | 1.0 | 0.0 | 0.0053840056 | 0.0057223244 | 0.00574221 | 1.0034751 | 2.0E-5 |
-| 6.3 | 3.2052794E-6 | 3.2362834E-6 | 3.2362834E-6 | 1.0 | 0.0 | 1.373684E-5 | 1.3869735E-5 | 1.3869735E-5 | 1.0 | 0.0 | 1.6723319E-4 | 1.6885491E-4 | 1.6885491E-4 | 1.0 | 0.0 | 0.001671074 | 0.0016876558 | 0.0016976389 | 1.0059154 | 1.0E-5 |
-| 6.4 | 3.2052794E-6 | 3.2362834E-6 | 3.2362834E-6 | 1.0 | 0.0 | 1.373684E-5 | 1.3869735E-5 | 1.3869735E-5 | 1.0 | 0.0 | 1.6723319E-4 | 1.6885491E-4 | 1.6885491E-4 | 1.0 | 0.0 | 0.001671074 | 0.0016876558 | 0.0016976389 | 1.0059154 | 1.0E-5 |
-| 6.5 | 3.2052794E-6 | 3.2362834E-6 | 3.2362834E-6 | 1.0 | 0.0 | 1.373684E-5 | 1.3869735E-5 | 1.3869735E-5 | 1.0 | 0.0 | 1.6723319E-4 | 1.6885491E-4 | 1.6885491E-4 | 1.0 | 0.0 | 0.001671074 | 0.0016876558 | 0.0016976389 | 1.0059154 | 1.0E-5 |
-| 6.6 | 1.948328E-6 | 1.8289716E-6 | 1.8289716E-6 | 1.0 | 0.0 | 8.349951E-6 | 7.838435E-6 | 7.838435E-6 | 1.0 | 0.0 | 1.016559E-4 | 9.543026E-5 | 9.543026E-5 | 1.0 | 0.0 | 0.0010160941 | 9.540398E-4 | 9.540398E-4 | 1.0 | 0.0 |
-| 6.7 | 1.948328E-6 | 1.8289716E-6 | 1.8289716E-6 | 1.0 | 0.0 | 8.349951E-6 | 7.838435E-6 | 7.838435E-6 | 1.0 | 0.0 | 1.016559E-4 | 9.543026E-5 | 9.543026E-5 | 1.0 | 0.0 | 0.0010160941 | 9.540398E-4 | 9.540398E-4 | 1.0 | 0.0 |
-| 6.8 | 1.1278219E-6 | 9.0336715E-7 | 9.0336715E-7 | 1.0 | 0.0 | 4.8335132E-6 | 3.8715702E-6 | 3.8715702E-6 | 1.0 | 0.0 | 5.8846435E-5 | 4.7135774E-5 | 4.7135774E-5 | 1.0 | 0.0 | 5.8830855E-4 | 4.712998E-4 | 4.712998E-4 | 1.0 | 0.0 |
-| 6.9 | 1.1278219E-6 | 9.0336715E-7 | 9.0336715E-7 | 1.0 | 0.0 | 4.8335132E-6 | 3.8715702E-6 | 3.8715702E-6 | 1.0 | 0.0 | 5.8846435E-5 | 4.7135774E-5 | 4.7135774E-5 | 1.0 | 0.0 | 5.8830855E-4 | 4.712998E-4 | 4.712998E-4 | 1.0 | 0.0 |
-| 7.0 | 1.1278219E-6 | 9.0336715E-7 | 9.0336715E-7 | 1.0 | 0.0 | 4.8335132E-6 | 3.8715702E-6 | 3.8715702E-6 | 1.0 | 0.0 | 5.8846435E-5 | 4.7135774E-5 | 4.7135774E-5 | 1.0 | 0.0 | 5.8830855E-4 | 4.712998E-4 | 4.712998E-4 | 1.0 | 0.0 |
-| 7.1 | 1.0545139E-6 | 8.5698196E-7 | 8.5698196E-7 | 1.0 | 0.0 | 4.5193374E-6 | 3.672777E-6 | 3.672777E-6 | 1.0 | 0.0 | 5.5021545E-5 | 4.471557E-5 | 4.471557E-5 | 1.0 | 0.0 | 5.500792E-4 | 4.4710745E-4 | 4.4710745E-4 | 1.0 | 0.0 |
-| 7.2 | 1.0545139E-6 | 8.5698196E-7 | 8.5698196E-7 | 1.0 | 0.0 | 4.5193374E-6 | 3.672777E-6 | 3.672777E-6 | 1.0 | 0.0 | 5.5021545E-5 | 4.471557E-5 | 4.471557E-5 | 1.0 | 0.0 | 5.500792E-4 | 4.4710745E-4 | 4.4710745E-4 | 1.0 | 0.0 |
-| 7.3 | 9.505161E-8 | 5.896212E-8 | 5.896212E-8 | 1.0 | 0.0 | 4.0736398E-7 | 2.5269478E-7 | 2.5269478E-7 | 1.0 | 0.0 | 4.959645E-6 | 3.0765557E-6 | 3.0765557E-6 | 1.0 | 0.0 | 4.9595343E-5 | 3.076525E-5 | 3.076525E-5 | 1.0 | 0.0 |
-| 7.4 | 3.9520785E-8 | 2.6990074E-8 | 2.6990074E-8 | 1.0 | 0.0 | 1.6937479E-7 | 1.1567174E-7 | 1.1567174E-7 | 1.0 | 0.0 | 2.062136E-6 | 1.4083028E-6 | 1.4083028E-6 | 1.0 | 0.0 | 2.062117E-5 | 1.4082965E-5 | 1.4082965E-5 | 1.0 | 0.0 |
-| 7.5 | 5.6133214E-9 | 3.7371777E-9 | 3.7371777E-9 | 1.0 | 0.0 | 2.4057092E-8 | 1.6016475E-8 | 1.6016475E-8 | 1.0 | 0.0 | 2.9289507E-7 | 1.9500058E-7 | 1.9500058E-7 | 1.0 | 0.0 | 2.9289467E-6 | 1.9500044E-6 | 1.9500044E-6 | 1.0 | 0.0 |
-| 7.6 | 4.1064334E-9 | 2.596027E-9 | 2.596027E-9 | 1.0 | 0.0 | 1.7599E-8 | 1.112583E-8 | 1.112583E-8 | 1.0 | 0.0 | 2.142678E-7 | 1.3545697E-7 | 1.3545697E-7 | 1.0 | 0.0 | 2.1426758E-6 | 1.3545691E-6 | 1.3545691E-6 | 1.0 | 0.0 |
-| 7.7 | 1.361975E-9 | 6.361647E-10 | 6.361647E-10 | 1.0 | 0.0 | 5.8370353E-9 | 2.72642E-9 | 2.72642E-9 | 1.0 | 0.0 | 7.1065905E-8 | 3.3194166E-8 | 3.3194166E-8 | 1.0 | 0.0 | 7.106588E-7 | 3.319416E-7 | 3.319416E-7 | 1.0 | 0.0 |
-| 7.8 | 1.361975E-9 | 6.361647E-10 | 6.361647E-10 | 1.0 | 0.0 | 5.8370353E-9 | 2.72642E-9 | 2.72642E-9 | 1.0 | 0.0 | 7.1065905E-8 | 3.3194166E-8 | 3.3194166E-8 | 1.0 | 0.0 | 7.106588E-7 | 3.319416E-7 | 3.319416E-7 | 1.0 | 0.0 |
+| 6.0 | 1.3379373E-5 | 1.1001739E-5 | 1.1001739E-5 | 1.0 | 0.0 | 5.7338908E-5 | 4.7149464E-5 | 4.7149464E-5 | 1.0 | 0.0 | 6.978776E-4 | 5.73895E-4 | 5.8388925E-4 | 1.0174148 | 1.0E-5 | 0.0069569005 | 0.005724494 | 0.0057443795 | 1.0034738 | 2.0E-5 |
+| 6.1 | 1.3379373E-5 | 1.1001739E-5 | 1.1001739E-5 | 1.0 | 0.0 | 5.7338908E-5 | 4.7149464E-5 | 4.7149464E-5 | 1.0 | 0.0 | 6.978776E-4 | 5.73895E-4 | 5.8388925E-4 | 1.0174148 | 1.0E-5 | 0.0069569005 | 0.005724494 | 0.0057443795 | 1.0034738 | 2.0E-5 |
+| 6.2 | 1.3379373E-5 | 1.1001739E-5 | 1.1001739E-5 | 1.0 | 0.0 | 5.7338908E-5 | 4.7149464E-5 | 4.7149464E-5 | 1.0 | 0.0 | 6.978776E-4 | 5.73895E-4 | 5.8388925E-4 | 1.0174148 | 1.0E-5 | 0.0069569005 | 0.005724494 | 0.0057443795 | 1.0034738 | 2.0E-5 |
+| 6.3 | 1.3379373E-5 | 1.1001739E-5 | 1.1001739E-5 | 1.0 | 0.0 | 5.7338908E-5 | 4.7149464E-5 | 4.7149464E-5 | 1.0 | 0.0 | 6.978776E-4 | 5.73895E-4 | 5.8388925E-4 | 1.0174148 | 1.0E-5 | 0.0069569005 | 0.005724494 | 0.0057443795 | 1.0034738 | 2.0E-5 |
+| 6.4 | 1.3379373E-5 | 1.1001739E-5 | 1.1001739E-5 | 1.0 | 0.0 | 5.7338908E-5 | 4.7149464E-5 | 4.7149464E-5 | 1.0 | 0.0 | 6.978776E-4 | 5.73895E-4 | 5.8388925E-4 | 1.0174148 | 1.0E-5 | 0.0069569005 | 0.005724494 | 0.0057443795 | 1.0034738 | 2.0E-5 |
+| 6.5 | 1.26563245E-5 | 1.0231176E-5 | 1.0231176E-5 | 1.0 | 0.0 | 5.4240263E-5 | 4.3847165E-5 | 4.3847165E-5 | 1.0 | 0.0 | 6.601751E-4 | 5.3370954E-4 | 5.437042E-4 | 1.0187268 | 1.0E-5 | 0.006582173 | 0.0053246 | 0.0053444933 | 1.0037361 | 2.0E-5 |
+| 6.6 | 1.26563245E-5 | 1.0231176E-5 | 1.0231176E-5 | 1.0 | 0.0 | 5.4240263E-5 | 4.3847165E-5 | 4.3847165E-5 | 1.0 | 0.0 | 6.601751E-4 | 5.3370954E-4 | 5.437042E-4 | 1.0187268 | 1.0E-5 | 0.006582173 | 0.0053246 | 0.0053444933 | 1.0037361 | 2.0E-5 |
+| 6.7 | 1.2502474E-5 | 1.0067316E-5 | 1.0067316E-5 | 1.0 | 0.0 | 5.3580934E-5 | 4.3144933E-5 | 4.3144933E-5 | 1.0 | 0.0 | 6.521526E-4 | 5.25164E-4 | 5.3515873E-4 | 1.0190316 | 1.0E-5 | 0.0065024206 | 0.005239549 | 0.005259444 | 1.0037972 | 2.0E-5 |
+| 6.8 | 1.2454966E-5 | 1.00196E-5 | 1.00196E-5 | 1.0 | 0.0 | 5.3377335E-5 | 4.2940443E-5 | 4.2940443E-5 | 1.0 | 0.0 | 6.4967526E-4 | 5.226756E-4 | 5.3267035E-4 | 1.0191224 | 1.0E-5 | 0.006477792 | 0.005214781 | 0.005234677 | 1.0038153 | 2.0E-5 |
+| 6.9 | 1.2225574E-5 | 9.793572E-6 | 9.793572E-6 | 1.0 | 0.0 | 5.2394265E-5 | 4.197178E-5 | 4.197178E-5 | 1.0 | 0.0 | 6.3771347E-4 | 5.1088765E-4 | 5.2088255E-4 | 1.0195638 | 1.0E-5 | 0.006358865 | 0.005097448 | 0.005117346 | 1.0039035 | 2.0E-5 |
+| 7.0 | 1.182946E-5 | 9.400103E-6 | 9.400103E-6 | 1.0 | 0.0 | 5.06967E-5 | 4.028554E-5 | 4.028554E-5 | 1.0 | 0.0 | 6.1705755E-4 | 4.903671E-4 | 5.003622E-4 | 1.0203829 | 1.0E-5 | 0.006153469 | 0.0048931623 | 0.0049130647 | 1.0040673 | 2.0E-5 |
+| 7.1 | 1.14369095E-5 | 8.9870955E-6 | 8.9870955E-6 | 1.0 | 0.0 | 4.9014405E-5 | 3.851556E-5 | 3.851556E-5 | 1.0 | 0.0 | 5.9658696E-4 | 4.6882703E-4 | 4.7882236E-4 | 1.0213199 | 1.0E-5 | 0.005949879 | 0.0046786857 | 0.004698592 | 1.0042547 | 2.0E-5 |
+| 7.2 | 1.0836419E-5 | 8.400468E-6 | 8.400468E-6 | 1.0 | 0.0 | 4.644097E-5 | 3.6001515E-5 | 3.6001515E-5 | 1.0 | 0.0 | 5.652721E-4 | 4.382312E-4 | 4.482268E-4 | 1.022809 | 1.0E-5 | 0.0056383642 | 0.0043739676 | 0.0043938803 | 1.0045525 | 2.0E-5 |
+| 7.3 | 1.0403439E-5 | 8.021717E-6 | 8.021717E-6 | 1.0 | 0.0 | 4.4585406E-5 | 3.4378336E-5 | 3.4378336E-5 | 1.0 | 0.0 | 5.426921E-4 | 4.1847676E-4 | 4.1847676E-4 | 1.0 | 0.0 | 0.005413687 | 0.004177183 | 0.004187141 | 1.002384 | 1.0E-5 |
+| 7.4 | 9.768864E-6 | 7.41532E-6 | 7.41532E-6 | 1.0 | 0.0 | 4.186589E-5 | 3.177956E-5 | 3.177956E-5 | 1.0 | 0.0 | 5.09598E-4 | 3.8684835E-4 | 3.8684835E-4 | 1.0 | 0.0 | 0.0050843097 | 0.0038620413 | 0.0038720025 | 1.0025793 | 1.0E-5 |
+| 7.5 | 8.687089E-6 | 6.450897E-6 | 6.450897E-6 | 1.0 | 0.0 | 3.722985E-5 | 2.7646412E-5 | 2.7646412E-5 | 1.0 | 0.0 | 4.5317915E-4 | 3.3654395E-4 | 3.3654395E-4 | 1.0 | 0.0 | 0.004522561 | 0.0033606302 | 0.0033705966 | 1.0029657 | 1.0E-5 |
+| 7.6 | 6.3506063E-6 | 4.4309877E-6 | 4.4309877E-6 | 1.0 | 0.0 | 2.72166E-5 | 1.8989811E-5 | 1.8989811E-5 | 1.0 | 0.0 | 3.3131172E-4 | 2.3117667E-4 | 2.3117667E-4 | 1.0 | 0.0 | 0.003308182 | 0.0023095869 | 0.0023195636 | 1.0043198 | 1.0E-5 |
+| 7.7 | 4.62223E-6 | 2.9335897E-6 | 2.9335897E-6 | 1.0 | 0.0 | 1.9809406E-5 | 1.2572466E-5 | 1.2572466E-5 | 1.0 | 0.0 | 2.4115283E-4 | 1.5305905E-4 | 1.5305905E-4 | 1.0 | 0.0 | 0.0024089129 | 0.0015297374 | 0.0015397221 | 1.0065271 | 1.0E-5 |
+| 7.8 | 3.2145008E-6 | 1.9498889E-6 | 1.9498889E-6 | 1.0 | 0.0 | 1.3776359E-5 | 8.356639E-6 | 8.356639E-6 | 1.0 | 0.0 | 1.6771426E-4 | 1.0173735E-4 | 1.0173735E-4 | 1.0 | 0.0 | 0.0016758774 | 0.0010170521 | 0.0010170521 | 1.0 | 0.0 |
+| 7.9 | 1.0391769E-6 | 5.603997E-7 | 5.603997E-7 | 1.0 | 0.0 | 4.4536077E-6 | 2.4017108E-6 | 2.4017108E-6 | 1.0 | 0.0 | 5.4221324E-5 | 2.924044E-5 | 2.924044E-5 | 1.0 | 0.0 | 5.4208096E-4 | 2.9236634E-4 | 2.9236634E-4 | 1.0 | 0.0 |
+| 8.0 | 1.210983E-7 | 6.614803E-8 | 6.614803E-8 | 1.0 | 0.0 | 5.1899264E-7 | 2.8349154E-7 | 2.8349154E-7 | 1.0 | 0.0 | 6.3187167E-6 | 3.4515042E-6 | 3.4515042E-6 | 1.0 | 0.0 | 6.318537E-5 | 3.4514524E-5 | 3.4514524E-5 | 1.0 | 0.0 |
 
 ## Pitas Point (Lower West)
 *[(top)](#table-of-contents)*
@@ -3337,6 +3318,58 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.9 | 4.045984E-7 | 3.2424532E-7 | 3.2424532E-7 | 1.0 | 0.0 | 1.733992E-6 | 1.3896221E-6 | 1.3896221E-6 | 1.0 | 0.0 | 2.1111147E-5 | 1.691852E-5 | 1.691852E-5 | 1.0 | 0.0 | 2.1109142E-4 | 1.6917264E-4 | 1.6917264E-4 | 1.0 | 0.0 |
 | 8.0 | 7.791402E-9 | 5.6836544E-9 | 5.6836544E-9 | 1.0 | 0.0 | 3.3391725E-8 | 2.4358519E-8 | 2.4358519E-8 | 1.0 | 0.0 | 4.0654416E-7 | 2.9656493E-7 | 2.9656493E-7 | 1.0 | 0.0 | 4.065434E-6 | 2.9656476E-6 | 2.9656476E-6 | 1.0 | 0.0 |
 
+## Great Valley 08 (Quinto)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Great_Valley_08_Quinto_1wk.png) | ![MPD](Great_Valley_08_Quinto_1mo.png) | ![MPD](Great_Valley_08_Quinto_1yr.png) | ![MPD](Great_Valley_08_Quinto_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 7.737697E-6 | 8.253242E-6 | 8.253242E-6 | 1.0 | 0.0 | 3.3161137E-5 | 3.5370667E-5 | 3.5370667E-5 | 1.0 | 0.0 | 4.0366207E-4 | 4.3057164E-4 | 4.4056732E-4 | 1.0232149 | 1.0E-5 | 0.004029296 | 0.004299227 | 0.004319141 | 1.004632 | 2.0E-5 |
+| 6.1 | 7.737697E-6 | 8.253242E-6 | 8.253242E-6 | 1.0 | 0.0 | 3.3161137E-5 | 3.5370667E-5 | 3.5370667E-5 | 1.0 | 0.0 | 4.0366207E-4 | 4.3057164E-4 | 4.4056732E-4 | 1.0232149 | 1.0E-5 | 0.004029296 | 0.004299227 | 0.004319141 | 1.004632 | 2.0E-5 |
+| 6.2 | 7.737697E-6 | 8.253242E-6 | 8.253242E-6 | 1.0 | 0.0 | 3.3161137E-5 | 3.5370667E-5 | 3.5370667E-5 | 1.0 | 0.0 | 4.0366207E-4 | 4.3057164E-4 | 4.4056732E-4 | 1.0232149 | 1.0E-5 | 0.004029296 | 0.004299227 | 0.004319141 | 1.004632 | 2.0E-5 |
+| 6.3 | 5.374012E-6 | 5.7507236E-6 | 5.7507236E-6 | 1.0 | 0.0 | 2.3031276E-5 | 2.464579E-5 | 2.464579E-5 | 1.0 | 0.0 | 2.803697E-4 | 3.000323E-4 | 3.100293E-4 | 1.0333197 | 1.0E-5 | 0.0028001624 | 0.0029973655 | 0.0030073356 | 1.0033263 | 1.0E-5 |
+| 6.4 | 5.374012E-6 | 5.7507236E-6 | 5.7507236E-6 | 1.0 | 0.0 | 2.3031276E-5 | 2.464579E-5 | 2.464579E-5 | 1.0 | 0.0 | 2.803697E-4 | 3.000323E-4 | 3.100293E-4 | 1.0333197 | 1.0E-5 | 0.0028001624 | 0.0029973655 | 0.0030073356 | 1.0033263 | 1.0E-5 |
+| 6.5 | 3.65427E-6 | 3.941439E-6 | 3.941439E-6 | 1.0 | 0.0 | 1.5661062E-5 | 1.6891812E-5 | 1.6891812E-5 | 1.0 | 0.0 | 1.9065675E-4 | 2.0564545E-4 | 2.0564545E-4 | 1.0 | 0.0 | 0.0019049325 | 0.0020552434 | 0.0020552434 | 1.0 | 0.0 |
+| 6.6 | 3.6143538E-6 | 3.8986245E-6 | 3.8986245E-6 | 1.0 | 0.0 | 1.5489995E-5 | 1.6708324E-5 | 1.6708324E-5 | 1.0 | 0.0 | 1.8857437E-4 | 2.034119E-4 | 2.034119E-4 | 1.0 | 0.0 | 0.0018841444 | 0.0020329487 | 0.0020329487 | 1.0 | 0.0 |
+| 6.7 | 2.4821015E-6 | 2.6857888E-6 | 2.6857888E-6 | 1.0 | 0.0 | 1.0637535E-5 | 1.1510504E-5 | 1.1510504E-5 | 1.0 | 0.0 | 1.2950429E-4 | 1.4013704E-4 | 1.4013704E-4 | 1.0 | 0.0 | 0.0012942884 | 0.0014010416 | 0.0014010416 | 1.0 | 0.0 |
+| 6.8 | 4.7110538E-7 | 5.193218E-7 | 5.193218E-7 | 1.0 | 0.0 | 2.0190216E-6 | 2.2256631E-6 | 2.2256631E-6 | 1.0 | 0.0 | 2.458131E-5 | 2.709713E-5 | 2.709713E-5 | 1.0 | 0.0 | 2.457859E-4 | 2.7094007E-4 | 2.7094007E-4 | 1.0 | 0.0 |
+| 6.9 | 3.958685E-7 | 4.3705143E-7 | 4.3705143E-7 | 1.0 | 0.0 | 1.6965782E-6 | 1.8730763E-6 | 1.8730763E-6 | 1.0 | 0.0 | 2.0655643E-5 | 2.2804481E-5 | 2.2804481E-5 | 1.0 | 0.0 | 2.0653724E-4 | 2.2802303E-4 | 2.2802303E-4 | 1.0 | 0.0 |
+| 7.0 | 2.70294E-7 | 2.9921196E-7 | 2.9921196E-7 | 1.0 | 0.0 | 1.1584025E-6 | 1.2823365E-6 | 1.2823365E-6 | 1.0 | 0.0 | 1.4103458E-5 | 1.5612348E-5 | 1.5612348E-5 | 1.0 | 0.0 | 1.4102564E-4 | 1.5611379E-4 | 1.5611379E-4 | 1.0 | 0.0 |
+| 7.1 | 1.4828602E-7 | 1.6469784E-7 | 1.6469784E-7 | 1.0 | 0.0 | 6.3551136E-7 | 7.0584775E-7 | 7.0584775E-7 | 1.0 | 0.0 | 7.737323E-6 | 8.593671E-6 | 8.593671E-6 | 1.0 | 0.0 | 7.737054E-5 | 8.593418E-5 | 8.593418E-5 | 1.0 | 0.0 |
+
+## Hollywood
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Hollywood_1wk.png) | ![MPD](Hollywood_1mo.png) | ![MPD](Hollywood_1yr.png) | ![MPD](Hollywood_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.24487615E-5 | 1.2593661E-5 | 2.2593536E-5 | 1.7940402 | 1.0E-5 | 5.3350745E-5 | 5.3971744E-5 | 6.397121E-5 | 1.1852721 | 1.0E-5 | 6.4935174E-4 | 6.569125E-4 | 6.768994E-4 | 1.0304254 | 2.0E-5 | 0.0064745755 | 0.0065501947 | 0.006570064 | 1.0030334 | 2.0E-5 |
+| 6.1 | 1.24487615E-5 | 1.2593661E-5 | 2.2593536E-5 | 1.7940402 | 1.0E-5 | 5.3350745E-5 | 5.3971744E-5 | 6.397121E-5 | 1.1852721 | 1.0E-5 | 6.4935174E-4 | 6.569125E-4 | 6.768994E-4 | 1.0304254 | 2.0E-5 | 0.0064745755 | 0.0065501947 | 0.006570064 | 1.0030334 | 2.0E-5 |
+| 6.2 | 1.24487615E-5 | 1.2593661E-5 | 2.2593536E-5 | 1.7940402 | 1.0E-5 | 5.3350745E-5 | 5.3971744E-5 | 6.397121E-5 | 1.1852721 | 1.0E-5 | 6.4935174E-4 | 6.569125E-4 | 6.768994E-4 | 1.0304254 | 2.0E-5 | 0.0064745755 | 0.0065501947 | 0.006570064 | 1.0030334 | 2.0E-5 |
+| 6.3 | 1.24487615E-5 | 1.2593661E-5 | 2.2593536E-5 | 1.7940402 | 1.0E-5 | 5.3350745E-5 | 5.3971744E-5 | 6.397121E-5 | 1.1852721 | 1.0E-5 | 6.4935174E-4 | 6.569125E-4 | 6.768994E-4 | 1.0304254 | 2.0E-5 | 0.0064745755 | 0.0065501947 | 0.006570064 | 1.0030334 | 2.0E-5 |
+| 6.4 | 1.2431024E-5 | 1.25742745E-5 | 2.2574148E-5 | 1.7952645 | 1.0E-5 | 5.327473E-5 | 5.388866E-5 | 6.3888125E-5 | 1.1855578 | 1.0E-5 | 6.4842677E-4 | 6.5590156E-4 | 6.7588844E-4 | 1.0304724 | 2.0E-5 | 0.0064653796 | 0.006540145 | 0.006560014 | 1.003038 | 2.0E-5 |
+| 6.5 | 1.1242222E-5 | 1.1318209E-5 | 1.1318209E-5 | 1.0 | 0.0 | 4.8180063E-5 | 4.8505724E-5 | 4.8505724E-5 | 1.0 | 0.0 | 5.864344E-4 | 5.9039984E-4 | 6.003939E-4 | 1.0169277 | 1.0E-5 | 0.0058488925 | 0.0058886 | 0.0058985413 | 1.0016882 | 1.0E-5 |
+| 6.6 | 1.1234066E-5 | 1.1309323E-5 | 1.1309323E-5 | 1.0 | 0.0 | 4.8145106E-5 | 4.846764E-5 | 4.846764E-5 | 1.0 | 0.0 | 5.86009E-4 | 5.8993645E-4 | 5.999305E-4 | 1.016941 | 1.0E-5 | 0.005844661 | 0.0058839903 | 0.0058939317 | 1.0016896 | 1.0E-5 |
+| 6.7 | 1.12294E-5 | 1.1304066E-5 | 1.1304066E-5 | 1.0 | 0.0 | 4.812511E-5 | 4.8445112E-5 | 4.8445112E-5 | 1.0 | 0.0 | 5.857657E-4 | 5.896623E-4 | 5.9965637E-4 | 1.0169488 | 1.0E-5 | 0.0058422405 | 0.0058812634 | 0.005891205 | 1.0016903 | 1.0E-5 |
+| 6.8 | 1.0252819E-5 | 1.0218808E-5 | 1.0218808E-5 | 1.0 | 0.0 | 4.3939912E-5 | 4.3794167E-5 | 4.3794167E-5 | 1.0 | 0.0 | 5.3483713E-4 | 5.3306564E-4 | 5.430603E-4 | 1.0187494 | 1.0E-5 | 0.005335517 | 0.005318096 | 0.005328043 | 1.0018704 | 1.0E-5 |
+| 6.9 | 9.252289E-6 | 9.110625E-6 | 9.110625E-6 | 1.0 | 0.0 | 3.9652066E-5 | 3.904496E-5 | 3.904496E-5 | 1.0 | 0.0 | 4.8265693E-4 | 4.7527032E-4 | 4.8526557E-4 | 1.0210307 | 1.0E-5 | 0.0048161 | 0.0047427122 | 0.004752665 | 1.0020984 | 1.0E-5 |
+| 7.0 | 8.474604E-6 | 8.258546E-6 | 8.258546E-6 | 1.0 | 0.0 | 3.6319227E-5 | 3.5393292E-5 | 3.5393292E-5 | 1.0 | 0.0 | 4.4209688E-4 | 4.308296E-4 | 4.4082527E-4 | 1.023201 | 1.0E-5 | 0.004412184 | 0.0043000937 | 0.004310051 | 1.0023155 | 1.0E-5 |
+| 7.1 | 6.643643E-6 | 6.2685863E-6 | 6.2685863E-6 | 1.0 | 0.0 | 2.8472443E-5 | 2.6865095E-5 | 2.6865095E-5 | 1.0 | 0.0 | 3.4659685E-4 | 3.2703386E-4 | 3.370306E-4 | 1.0305679 | 1.0E-5 | 0.0034605677 | 0.003265572 | 0.0032755395 | 1.0030522 | 1.0E-5 |
+| 7.2 | 5.549002E-6 | 5.1088914E-6 | 5.1088914E-6 | 1.0 | 0.0 | 2.378122E-5 | 2.1895066E-5 | 2.1895066E-5 | 1.0 | 0.0 | 2.8949787E-4 | 2.6653998E-4 | 2.6653998E-4 | 1.0 | 0.0 | 0.0028912104 | 0.0026622193 | 0.0026622193 | 1.0 | 0.0 |
+| 7.3 | 4.3059727E-6 | 3.960039E-6 | 3.960039E-6 | 1.0 | 0.0 | 1.8454039E-5 | 1.6971486E-5 | 1.6971486E-5 | 1.0 | 0.0 | 2.2465475E-4 | 2.0660834E-4 | 2.0660834E-4 | 1.0 | 0.0 | 0.0022442779 | 0.0020641726 | 0.0020641726 | 1.0 | 0.0 |
+| 7.4 | 2.8550733E-6 | 2.7014153E-6 | 2.7014153E-6 | 1.0 | 0.0 | 1.2235971E-5 | 1.1577443E-5 | 1.1577443E-5 | 1.0 | 0.0 | 1.4896276E-4 | 1.409463E-4 | 1.409463E-4 | 1.0 | 0.0 | 0.0014886294 | 0.0014085742 | 0.0014085742 | 1.0 | 0.0 |
+| 7.5 | 1.9927045E-6 | 1.8977307E-6 | 1.8977307E-6 | 1.0 | 0.0 | 8.540134E-6 | 8.133106E-6 | 8.133106E-6 | 1.0 | 0.0 | 1.0397117E-4 | 9.9016106E-5 | 9.9016106E-5 | 1.0 | 0.0 | 0.0010392254 | 9.897235E-4 | 9.897235E-4 | 1.0 | 0.0 |
+| 7.6 | 1.345084E-6 | 1.221666E-6 | 1.221666E-6 | 1.0 | 0.0 | 5.764633E-6 | 5.235701E-6 | 5.235701E-6 | 1.0 | 0.0 | 7.018215E-5 | 6.374282E-5 | 6.374282E-5 | 1.0 | 0.0 | 7.0159987E-4 | 6.372473E-4 | 6.372473E-4 | 1.0 | 0.0 |
+| 7.7 | 7.6835164E-7 | 6.278186E-7 | 6.278186E-7 | 1.0 | 0.0 | 3.2929315E-6 | 2.6906484E-6 | 2.6906484E-6 | 1.0 | 0.0 | 4.00907E-5 | 3.275817E-5 | 3.275817E-5 | 1.0 | 0.0 | 4.0083472E-4 | 3.2753486E-4 | 3.2753486E-4 | 1.0 | 0.0 |
+| 7.8 | 3.6562128E-7 | 2.453882E-7 | 2.453882E-7 | 1.0 | 0.0 | 1.5669474E-6 | 1.0516633E-6 | 1.0516633E-6 | 1.0 | 0.0 | 1.9077417E-5 | 1.2803929E-5 | 1.2803929E-5 | 1.0 | 0.0 | 1.907578E-4 | 1.2803229E-4 | 1.2803229E-4 | 1.0 | 0.0 |
+| 7.9 | 7.5024424E-8 | 5.382534E-8 | 5.382534E-8 | 1.0 | 0.0 | 3.215332E-7 | 2.3068002E-7 | 2.3068002E-7 | 1.0 | 0.0 | 3.91466E-6 | 2.808527E-6 | 2.808527E-6 | 1.0 | 0.0 | 3.9145907E-5 | 2.8085044E-5 | 2.8085044E-5 | 1.0 | 0.0 |
+
 ## Los Alamos 2011 CFM
 *[(top)](#table-of-contents)*
 
@@ -3367,6 +3400,468 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.8 | 2.0707465E-7 | 1.9778815E-7 | 1.9778815E-7 | 1.0 | 0.0 | 8.874625E-7 | 8.476632E-7 | 8.476632E-7 | 1.0 | 0.0 | 1.08048025E-5 | 1.0320251E-5 | 1.0320251E-5 | 1.0 | 0.0 | 1.0804277E-4 | 1.03197766E-4 | 1.03197766E-4 | 1.0 | 0.0 |
 | 7.9 | 3.9821284E-8 | 3.4331745E-8 | 3.4331745E-8 | 1.0 | 0.0 | 1.7066264E-7 | 1.4713603E-7 | 1.4713603E-7 | 1.0 | 0.0 | 2.0778157E-6 | 1.7913799E-6 | 1.7913799E-6 | 1.0 | 0.0 | 2.0777963E-5 | 1.791366E-5 | 1.791366E-5 | 1.0 | 0.0 |
 | 8.0 | 7.880441E-11 | 8.235457E-11 | 8.235457E-11 | 1.0 | 0.0 | 3.3773329E-10 | 3.52948E-10 | 3.52948E-10 | 1.0 | 0.0 | 4.1119033E-9 | 4.2971413E-9 | 4.2971413E-9 | 1.0 | 0.0 | 4.1119034E-8 | 4.2971415E-8 | 4.2971415E-8 | 1.0 | 0.0 |
+
+## Kern Canyon (Lake Isabella) 2011
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Kern_Canyon_Lake_Isabella_2011_1wk.png) | ![MPD](Kern_Canyon_Lake_Isabella_2011_1mo.png) | ![MPD](Kern_Canyon_Lake_Isabella_2011_1yr.png) | ![MPD](Kern_Canyon_Lake_Isabella_2011_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 4.2387383E-6 | 4.0016726E-6 | 4.0016726E-6 | 1.0 | 0.0 | 1.8165894E-5 | 1.7149921E-5 | 1.7149921E-5 | 1.0 | 0.0 | 2.2114732E-4 | 2.0878216E-4 | 2.28778E-4 | 1.0957736 | 2.0E-5 | 0.0022092736 | 0.002086044 | 0.0021060023 | 1.0095675 | 2.0E-5 |
+| 6.1 | 4.2387383E-6 | 4.0016726E-6 | 4.0016726E-6 | 1.0 | 0.0 | 1.8165894E-5 | 1.7149921E-5 | 1.7149921E-5 | 1.0 | 0.0 | 2.2114732E-4 | 2.0878216E-4 | 2.28778E-4 | 1.0957736 | 2.0E-5 | 0.0022092736 | 0.002086044 | 0.0021060023 | 1.0095675 | 2.0E-5 |
+| 6.2 | 4.2387383E-6 | 4.0016726E-6 | 4.0016726E-6 | 1.0 | 0.0 | 1.8165894E-5 | 1.7149921E-5 | 1.7149921E-5 | 1.0 | 0.0 | 2.2114732E-4 | 2.0878216E-4 | 2.28778E-4 | 1.0957736 | 2.0E-5 | 0.0022092736 | 0.002086044 | 0.0021060023 | 1.0095675 | 2.0E-5 |
+| 6.3 | 4.2387383E-6 | 4.0016726E-6 | 4.0016726E-6 | 1.0 | 0.0 | 1.8165894E-5 | 1.7149921E-5 | 1.7149921E-5 | 1.0 | 0.0 | 2.2114732E-4 | 2.0878216E-4 | 2.28778E-4 | 1.0957736 | 2.0E-5 | 0.0022092736 | 0.002086044 | 0.0021060023 | 1.0095675 | 2.0E-5 |
+| 6.4 | 4.2387383E-6 | 4.0016726E-6 | 4.0016726E-6 | 1.0 | 0.0 | 1.8165894E-5 | 1.7149921E-5 | 1.7149921E-5 | 1.0 | 0.0 | 2.2114732E-4 | 2.0878216E-4 | 2.28778E-4 | 1.0957736 | 2.0E-5 | 0.0022092736 | 0.002086044 | 0.0021060023 | 1.0095675 | 2.0E-5 |
+| 6.5 | 2.7857532E-6 | 2.5178888E-6 | 2.5178888E-6 | 1.0 | 0.0 | 1.1938888E-5 | 1.079091E-5 | 1.079091E-5 | 1.0 | 0.0 | 1.4534626E-4 | 1.3137174E-4 | 1.4137042E-4 | 1.0761099 | 1.0E-5 | 0.0014525123 | 0.0013129734 | 0.0013229604 | 1.0076063 | 1.0E-5 |
+| 6.6 | 2.2233348E-6 | 1.9441413E-6 | 1.9441413E-6 | 1.0 | 0.0 | 9.528543E-6 | 8.332008E-6 | 8.332008E-6 | 1.0 | 0.0 | 1.1600384E-4 | 1.0143756E-4 | 1.0143756E-4 | 1.0 | 0.0 | 0.001159433 | 0.0010139212 | 0.0010139212 | 1.0 | 0.0 |
+| 6.7 | 2.1635126E-6 | 1.883521E-6 | 1.883521E-6 | 1.0 | 0.0 | 9.272164E-6 | 8.072208E-6 | 8.072208E-6 | 1.0 | 0.0 | 1.1288274E-4 | 9.827478E-5 | 9.827478E-5 | 1.0 | 0.0 | 0.0011282542 | 9.823214E-4 | 9.823214E-4 | 1.0 | 0.0 |
+| 6.8 | 1.8685711E-6 | 1.5831579E-6 | 1.5831579E-6 | 1.0 | 0.0 | 8.008137E-6 | 6.784945E-6 | 6.784945E-6 | 1.0 | 0.0 | 9.74947E-5 | 8.260362E-5 | 8.260362E-5 | 1.0 | 0.0 | 9.745194E-4 | 8.257341E-4 | 8.257341E-4 | 1.0 | 0.0 |
+| 6.9 | 1.5815071E-6 | 1.306506E-6 | 1.306506E-6 | 1.0 | 0.0 | 6.77787E-6 | 5.599299E-6 | 5.599299E-6 | 1.0 | 0.0 | 8.251744E-5 | 6.8169364E-5 | 6.8169364E-5 | 1.0 | 0.0 | 8.248681E-4 | 6.814872E-4 | 6.814872E-4 | 1.0 | 0.0 |
+| 7.0 | 1.3772564E-6 | 1.1210832E-6 | 1.1210832E-6 | 1.0 | 0.0 | 5.9025137E-6 | 4.8046336E-6 | 4.8046336E-6 | 1.0 | 0.0 | 7.186073E-5 | 5.849486E-5 | 5.849486E-5 | 1.0 | 0.0 | 7.18375E-4 | 5.847967E-4 | 5.847967E-4 | 1.0 | 0.0 |
+| 7.1 | 1.0916998E-6 | 8.7638637E-7 | 8.7638637E-7 | 1.0 | 0.0 | 4.678705E-6 | 3.7559364E-6 | 3.7559364E-6 | 1.0 | 0.0 | 5.6961744E-5 | 4.572758E-5 | 4.572758E-5 | 1.0 | 0.0 | 5.6947145E-4 | 4.5718305E-4 | 4.5718305E-4 | 1.0 | 0.0 |
+| 7.2 | 7.6277024E-7 | 5.901513E-7 | 5.901513E-7 | 1.0 | 0.0 | 3.2690114E-6 | 2.5292175E-6 | 2.5292175E-6 | 1.0 | 0.0 | 3.9799485E-5 | 3.079279E-5 | 3.079279E-5 | 1.0 | 0.0 | 3.9792358E-4 | 3.0788587E-4 | 3.0788587E-4 | 1.0 | 0.0 |
+| 7.3 | 5.3265916E-7 | 4.382483E-7 | 4.382483E-7 | 1.0 | 0.0 | 2.282823E-6 | 1.8782057E-6 | 1.8782057E-6 | 1.0 | 0.0 | 2.7793016E-5 | 2.2866918E-5 | 2.2866918E-5 | 1.0 | 0.0 | 2.778954E-4 | 2.2864602E-4 | 2.2864602E-4 | 1.0 | 0.0 |
+| 7.4 | 3.4946007E-7 | 3.0065988E-7 | 3.0065988E-7 | 1.0 | 0.0 | 1.497685E-6 | 1.2885417E-6 | 1.2885417E-6 | 1.0 | 0.0 | 1.8234163E-5 | 1.5687885E-5 | 1.5687885E-5 | 1.0 | 0.0 | 1.8232666E-4 | 1.5686799E-4 | 1.5686799E-4 | 1.0 | 0.0 |
+| 7.5 | 1.8317026E-7 | 1.424497E-7 | 1.424497E-7 | 1.0 | 0.0 | 7.850152E-7 | 6.1049855E-7 | 6.1049855E-7 | 1.0 | 0.0 | 9.557518E-6 | 7.4327954E-6 | 7.4327954E-6 | 1.0 | 0.0 | 9.5571064E-5 | 7.4325544E-5 | 7.4325544E-5 | 1.0 | 0.0 |
+| 7.6 | 2.572245E-8 | 1.7352786E-8 | 1.7352786E-8 | 1.0 | 0.0 | 1.10239064E-7 | 7.4369076E-8 | 7.4369076E-8 | 1.0 | 0.0 | 1.3421597E-6 | 9.054432E-7 | 9.054432E-7 | 1.0 | 0.0 | 1.3421517E-5 | 9.054401E-6 | 9.054401E-6 | 1.0 | 0.0 |
+
+## Elsinore (Stepovers Combined)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Elsinore_Stepovers_Combined_1wk.png) | ![MPD](Elsinore_Stepovers_Combined_1mo.png) | ![MPD](Elsinore_Stepovers_Combined_1yr.png) | ![MPD](Elsinore_Stepovers_Combined_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 2.144392E-5 | 1.9762472E-5 | 1.9762472E-5 | 1.0 | 0.0 | 9.189928E-5 | 8.469368E-5 | 8.469368E-5 | 1.0 | 0.0 | 0.0011182994 | 0.0010306796 | 0.0010306796 | 1.0 | 0.0 | 0.011126885 | 0.010266087 | 0.010285882 | 1.0019282 | 2.0E-5 |
+| 6.1 | 2.144392E-5 | 1.9762472E-5 | 1.9762472E-5 | 1.0 | 0.0 | 9.189928E-5 | 8.469368E-5 | 8.469368E-5 | 1.0 | 0.0 | 0.0011182994 | 0.0010306796 | 0.0010306796 | 1.0 | 0.0 | 0.011126885 | 0.010266087 | 0.010285882 | 1.0019282 | 2.0E-5 |
+| 6.2 | 2.144392E-5 | 1.9762472E-5 | 1.9762472E-5 | 1.0 | 0.0 | 9.189928E-5 | 8.469368E-5 | 8.469368E-5 | 1.0 | 0.0 | 0.0011182994 | 0.0010306796 | 0.0010306796 | 1.0 | 0.0 | 0.011126885 | 0.010266087 | 0.010285882 | 1.0019282 | 2.0E-5 |
+| 6.3 | 1.9751555E-5 | 1.7743587E-5 | 1.7743587E-5 | 1.0 | 0.0 | 8.4646774E-5 | 7.604182E-5 | 7.604182E-5 | 1.0 | 0.0 | 0.0010300872 | 9.254326E-4 | 9.254326E-4 | 1.0 | 0.0 | 0.010253254 | 0.009222372 | 0.009242188 | 1.0021486 | 2.0E-5 |
+| 6.4 | 1.9751555E-5 | 1.7743587E-5 | 1.7743587E-5 | 1.0 | 0.0 | 8.4646774E-5 | 7.604182E-5 | 7.604182E-5 | 1.0 | 0.0 | 0.0010300872 | 9.254326E-4 | 9.254326E-4 | 1.0 | 0.0 | 0.010253254 | 0.009222372 | 0.009242188 | 1.0021486 | 2.0E-5 |
+| 6.5 | 1.9751555E-5 | 1.7743587E-5 | 1.7743587E-5 | 1.0 | 0.0 | 8.4646774E-5 | 7.604182E-5 | 7.604182E-5 | 1.0 | 0.0 | 0.0010300872 | 9.254326E-4 | 9.254326E-4 | 1.0 | 0.0 | 0.010253254 | 0.009222372 | 0.009242188 | 1.0021486 | 2.0E-5 |
+| 6.6 | 1.9188685E-5 | 1.700544E-5 | 1.700544E-5 | 1.0 | 0.0 | 8.2234634E-5 | 7.2878516E-5 | 7.2878516E-5 | 1.0 | 0.0 | 0.0010007467 | 8.8695093E-4 | 8.8695093E-4 | 1.0 | 0.0 | 0.00996252 | 0.008840903 | 0.008860726 | 1.0022422 | 2.0E-5 |
+| 6.7 | 1.7608272E-5 | 1.4734398E-5 | 1.4734398E-5 | 1.0 | 0.0 | 7.546184E-5 | 6.314595E-5 | 6.314595E-5 | 1.0 | 0.0 | 9.183606E-4 | 7.685405E-4 | 7.685405E-4 | 1.0 | 0.0 | 0.009145746 | 0.0076658325 | 0.007685679 | 1.002589 | 2.0E-5 |
+| 6.8 | 1.697165E-5 | 1.378502E-5 | 1.378502E-5 | 1.0 | 0.0 | 7.273361E-5 | 5.9077367E-5 | 5.9077367E-5 | 1.0 | 0.0 | 8.8517193E-4 | 7.1903825E-4 | 7.1903825E-4 | 1.0 | 0.0 | 0.008816543 | 0.007173533 | 0.0071933893 | 1.002768 | 2.0E-5 |
+| 6.9 | 1.600365E-5 | 1.2848269E-5 | 1.2848269E-5 | 1.0 | 0.0 | 6.858527E-5 | 5.506289E-5 | 5.506289E-5 | 1.0 | 0.0 | 8.347058E-4 | 6.701923E-4 | 6.701923E-4 | 1.0 | 0.0 | 0.008315775 | 0.0066875946 | 0.006707461 | 1.0029706 | 2.0E-5 |
+| 7.0 | 1.3314581E-5 | 1.0448936E-5 | 1.0448936E-5 | 1.0 | 0.0 | 5.7061243E-5 | 4.4780405E-5 | 4.4780405E-5 | 1.0 | 0.0 | 6.944992E-4 | 5.450677E-4 | 5.450677E-4 | 1.0 | 0.0 | 0.006923327 | 0.0054412354 | 0.0054611266 | 1.0036557 | 2.0E-5 |
+| 7.1 | 1.2865345E-5 | 9.938764E-6 | 9.938764E-6 | 1.0 | 0.0 | 5.5136024E-5 | 4.2594027E-5 | 4.2594027E-5 | 1.0 | 0.0 | 6.710743E-4 | 5.184614E-4 | 5.184614E-4 | 1.0 | 0.0 | 0.0066905143 | 0.0051758513 | 0.0051957476 | 1.0038441 | 2.0E-5 |
+| 7.2 | 1.1650051E-5 | 8.63485E-6 | 8.63485E-6 | 1.0 | 0.0 | 4.9927836E-5 | 3.7005986E-5 | 3.7005986E-5 | 1.0 | 0.0 | 6.0770183E-4 | 4.5045651E-4 | 4.5045651E-4 | 1.0 | 0.0 | 0.0060604266 | 0.004496858 | 0.004506813 | 1.0022137 | 1.0E-5 |
+| 7.3 | 1.0008533E-5 | 7.2018906E-6 | 7.2018906E-6 | 1.0 | 0.0 | 4.2893007E-5 | 3.086489E-5 | 3.086489E-5 | 1.0 | 0.0 | 5.220972E-4 | 3.7571666E-4 | 3.7571666E-4 | 1.0 | 0.0 | 0.005208723 | 0.0037512018 | 0.0037512018 | 1.0 | 0.0 |
+| 7.4 | 9.116759E-6 | 6.4108067E-6 | 6.4108067E-6 | 1.0 | 0.0 | 3.907124E-5 | 2.7474603E-5 | 2.7474603E-5 | 1.0 | 0.0 | 4.7558855E-4 | 3.3445333E-4 | 3.3445333E-4 | 1.0 | 0.0 | 0.00474572 | 0.003339652 | 0.003339652 | 1.0 | 0.0 |
+| 7.5 | 7.870524E-6 | 5.383148E-6 | 5.383148E-6 | 1.0 | 0.0 | 3.3730383E-5 | 2.3070439E-5 | 2.3070439E-5 | 1.0 | 0.0 | 4.1059E-4 | 2.8084766E-4 | 2.8084766E-4 | 1.0 | 0.0 | 0.0040983222 | 0.002805054 | 0.002805054 | 1.0 | 0.0 |
+| 7.6 | 6.9774537E-6 | 4.678146E-6 | 4.678146E-6 | 1.0 | 0.0 | 2.990303E-5 | 2.004905E-5 | 2.004905E-5 | 1.0 | 0.0 | 3.640086E-4 | 2.4407101E-4 | 2.4407101E-4 | 1.0 | 0.0 | 0.003634129 | 0.002438146 | 0.002438146 | 1.0 | 0.0 |
+| 7.7 | 4.1616954E-6 | 2.3286575E-6 | 2.3286575E-6 | 1.0 | 0.0 | 1.7835715E-5 | 9.979926E-6 | 9.979926E-6 | 1.0 | 0.0 | 2.171282E-4 | 1.2149957E-4 | 1.2149957E-4 | 1.0 | 0.0 | 0.0021691616 | 0.0012144046 | 0.0012144046 | 1.0 | 0.0 |
+| 7.8 | 2.2692414E-7 | 9.386795E-8 | 9.386795E-8 | 1.0 | 0.0 | 9.725317E-7 | 4.0229116E-7 | 4.0229116E-7 | 1.0 | 0.0 | 1.1840509E-5 | 4.8978873E-6 | 4.8978873E-6 | 1.0 | 0.0 | 1.1839878E-4 | 4.897812E-5 | 4.897812E-5 | 1.0 | 0.0 |
+| 7.9 | 6.676829E-9 | 3.440201E-9 | 3.440201E-9 | 1.0 | 0.0 | 2.861498E-8 | 1.4743717E-8 | 1.4743717E-8 | 1.0 | 0.0 | 3.4838732E-7 | 1.7950475E-7 | 1.7950475E-7 | 1.0 | 0.0 | 3.4838679E-6 | 1.7950462E-6 | 1.7950462E-6 | 1.0 | 0.0 |
+
+## Puente Hills
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Puente_Hills_1wk.png) | ![MPD](Puente_Hills_1mo.png) | ![MPD](Puente_Hills_1yr.png) | ![MPD](Puente_Hills_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.2101656E-5 | 8.099071E-6 | 8.099071E-6 | 1.0 | 0.0 | 5.1863204E-5 | 3.4709876E-5 | 3.4709876E-5 | 1.0 | 0.0 | 6.312516E-4 | 4.2251643E-4 | 4.325122E-4 | 1.0236577 | 1.0E-5 | 0.0062946146 | 0.0042176917 | 0.004237607 | 1.0047219 | 2.0E-5 |
+| 6.1 | 1.2101656E-5 | 8.099071E-6 | 8.099071E-6 | 1.0 | 0.0 | 5.1863204E-5 | 3.4709876E-5 | 3.4709876E-5 | 1.0 | 0.0 | 6.312516E-4 | 4.2251643E-4 | 4.325122E-4 | 1.0236577 | 1.0E-5 | 0.0062946146 | 0.0042176917 | 0.004237607 | 1.0047219 | 2.0E-5 |
+| 6.2 | 1.2101656E-5 | 8.099071E-6 | 8.099071E-6 | 1.0 | 0.0 | 5.1863204E-5 | 3.4709876E-5 | 3.4709876E-5 | 1.0 | 0.0 | 6.312516E-4 | 4.2251643E-4 | 4.325122E-4 | 1.0236577 | 1.0E-5 | 0.0062946146 | 0.0042176917 | 0.004237607 | 1.0047219 | 2.0E-5 |
+| 6.3 | 1.2101656E-5 | 8.099071E-6 | 8.099071E-6 | 1.0 | 0.0 | 5.1863204E-5 | 3.4709876E-5 | 3.4709876E-5 | 1.0 | 0.0 | 6.312516E-4 | 4.2251643E-4 | 4.325122E-4 | 1.0236577 | 1.0E-5 | 0.0062946146 | 0.0042176917 | 0.004237607 | 1.0047219 | 2.0E-5 |
+| 6.4 | 1.2101656E-5 | 8.099071E-6 | 8.099071E-6 | 1.0 | 0.0 | 5.1863204E-5 | 3.4709876E-5 | 3.4709876E-5 | 1.0 | 0.0 | 6.312516E-4 | 4.2251643E-4 | 4.325122E-4 | 1.0236577 | 1.0E-5 | 0.0062946146 | 0.0042176917 | 0.004237607 | 1.0047219 | 2.0E-5 |
+| 6.5 | 1.2101656E-5 | 8.099071E-6 | 8.099071E-6 | 1.0 | 0.0 | 5.1863204E-5 | 3.4709876E-5 | 3.4709876E-5 | 1.0 | 0.0 | 6.312516E-4 | 4.2251643E-4 | 4.325122E-4 | 1.0236577 | 1.0E-5 | 0.0062946146 | 0.0042176917 | 0.004237607 | 1.0047219 | 2.0E-5 |
+| 6.6 | 1.0222488E-5 | 6.399588E-6 | 6.399588E-6 | 1.0 | 0.0 | 4.3809923E-5 | 2.7426531E-5 | 2.7426531E-5 | 1.0 | 0.0 | 5.332553E-4 | 3.338693E-4 | 3.4386598E-4 | 1.0299418 | 1.0E-5 | 0.0053197746 | 0.0033339222 | 0.0033538556 | 1.005979 | 2.0E-5 |
+| 6.7 | 1.0222488E-5 | 6.399588E-6 | 6.399588E-6 | 1.0 | 0.0 | 4.3809923E-5 | 2.7426531E-5 | 2.7426531E-5 | 1.0 | 0.0 | 5.332553E-4 | 3.338693E-4 | 3.4386598E-4 | 1.0299418 | 1.0E-5 | 0.0053197746 | 0.0033339222 | 0.0033538556 | 1.005979 | 2.0E-5 |
+| 6.8 | 8.6367845E-6 | 5.0286094E-6 | 5.0286094E-6 | 1.0 | 0.0 | 3.7014266E-5 | 2.1551008E-5 | 2.1551008E-5 | 1.0 | 0.0 | 4.505555E-4 | 2.623525E-4 | 2.7234986E-4 | 1.0381067 | 1.0E-5 | 0.004496431 | 0.002620484 | 0.0026404315 | 1.0076122 | 2.0E-5 |
+| 6.9 | 8.066481E-6 | 4.836463E-6 | 4.836463E-6 | 1.0 | 0.0 | 3.4570177E-5 | 2.0727537E-5 | 2.0727537E-5 | 1.0 | 0.0 | 4.2081063E-4 | 2.5232908E-4 | 2.6232656E-4 | 1.0396208 | 1.0E-5 | 0.0042001465 | 0.0025204795 | 0.0025404291 | 1.007915 | 2.0E-5 |
+| 7.0 | 7.393828E-6 | 4.4176263E-6 | 4.4176263E-6 | 1.0 | 0.0 | 3.168745E-5 | 1.893255E-5 | 1.893255E-5 | 1.0 | 0.0 | 3.857264E-4 | 2.3047985E-4 | 2.4047754E-4 | 1.0433778 | 1.0E-5 | 0.0038505755 | 0.0023024536 | 0.0023224077 | 1.0086664 | 2.0E-5 |
+| 7.1 | 6.4660953E-6 | 3.8047303E-6 | 3.8047303E-6 | 1.0 | 0.0 | 2.7711543E-5 | 1.6305887E-5 | 1.6305887E-5 | 1.0 | 0.0 | 3.373358E-4 | 1.9850644E-4 | 2.0850447E-4 | 1.0503662 | 1.0E-5 | 0.0033682417 | 0.001983327 | 0.0020032874 | 1.010064 | 2.0E-5 |
+| 7.2 | 5.143232E-6 | 2.7867638E-6 | 2.7867638E-6 | 1.0 | 0.0 | 2.2042237E-5 | 1.194322E-5 | 1.194322E-5 | 1.0 | 0.0 | 2.6833118E-4 | 1.4539908E-4 | 1.4539908E-4 | 1.0 | 0.0 | 0.002680074 | 0.0014530494 | 0.0014630348 | 1.006872 | 1.0E-5 |
+| 7.3 | 3.928255E-6 | 2.0915647E-6 | 2.0915647E-6 | 1.0 | 0.0 | 1.683527E-5 | 8.963818E-6 | 8.963818E-6 | 1.0 | 0.0 | 2.0495013E-4 | 1.0912908E-4 | 1.0912908E-4 | 1.0 | 0.0 | 0.002047612 | 0.0010907616 | 0.0011007508 | 1.0091579 | 1.0E-5 |
+| 7.4 | 2.7894434E-6 | 1.354835E-6 | 1.354835E-6 | 1.0 | 0.0 | 1.1954703E-5 | 5.8064234E-6 | 5.8064234E-6 | 1.0 | 0.0 | 1.4553878E-4 | 7.0690956E-5 | 7.0690956E-5 | 1.0 | 0.0 | 0.001454435 | 7.066891E-4 | 7.16682E-4 | 1.0141405 | 1.0E-5 |
+| 7.5 | 2.041735E-6 | 8.788577E-7 | 8.788577E-7 | 1.0 | 0.0 | 8.750263E-6 | 3.7665277E-6 | 3.7665277E-6 | 1.0 | 0.0 | 1.06529245E-4 | 4.5856545E-5 | 4.5856545E-5 | 1.0 | 0.0 | 0.0010647819 | 4.5847415E-4 | 4.5847415E-4 | 1.0 | 0.0 |
+| 7.6 | 1.6959062E-6 | 6.699691E-7 | 6.699691E-7 | 1.0 | 0.0 | 7.268149E-6 | 2.8712932E-6 | 2.8712932E-6 | 1.0 | 0.0 | 8.848612E-5 | 3.4957462E-5 | 3.4957462E-5 | 1.0 | 0.0 | 8.84509E-4 | 3.495225E-4 | 3.495225E-4 | 1.0 | 0.0 |
+| 7.7 | 1.4767965E-6 | 5.4085115E-7 | 5.4085115E-7 | 1.0 | 0.0 | 6.3291122E-6 | 2.3179316E-6 | 2.3179316E-6 | 1.0 | 0.0 | 7.705422E-5 | 2.8220478E-5 | 2.8220478E-5 | 1.0 | 0.0 | 7.702751E-4 | 2.821715E-4 | 2.821715E-4 | 1.0 | 0.0 |
+| 7.8 | 1.8432911E-7 | 7.283086E-8 | 7.283086E-8 | 1.0 | 0.0 | 7.8998164E-7 | 3.1213222E-7 | 3.1213222E-7 | 1.0 | 0.0 | 9.617985E-6 | 3.8002065E-6 | 3.8002065E-6 | 1.0 | 0.0 | 9.617568E-5 | 3.800174E-5 | 3.800174E-5 | 1.0 | 0.0 |
+
+## Likely 2011 CFM
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Likely_2011_CFM_1wk.png) | ![MPD](Likely_2011_CFM_1mo.png) | ![MPD](Likely_2011_CFM_1yr.png) | ![MPD](Likely_2011_CFM_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 2.5315949E-5 | 2.7105461E-5 | 2.7105461E-5 | 1.0 | 0.0 | 1.0849241E-4 | 1.1616134E-4 | 1.1616134E-4 | 1.0 | 0.0 | 0.0013200947 | 0.0014133913 | 0.0014233772 | 1.0070652 | 1.0E-5 | 0.013122803 | 0.014048677 | 0.014068397 | 1.0014036 | 2.0E-5 |
+| 6.1 | 2.5315949E-5 | 2.7105461E-5 | 2.7105461E-5 | 1.0 | 0.0 | 1.0849241E-4 | 1.1616134E-4 | 1.1616134E-4 | 1.0 | 0.0 | 0.0013200947 | 0.0014133913 | 0.0014233772 | 1.0070652 | 1.0E-5 | 0.013122803 | 0.014048677 | 0.014068397 | 1.0014036 | 2.0E-5 |
+| 6.2 | 1.6375941E-5 | 1.7466275E-5 | 1.7466275E-5 | 1.0 | 0.0 | 7.0180715E-5 | 7.4853386E-5 | 7.4853386E-5 | 1.0 | 0.0 | 8.5411523E-4 | 9.109712E-4 | 9.109712E-4 | 1.0 | 0.0 | 0.008508399 | 0.009073656 | 0.009073656 | 1.0 | 0.0 |
+| 6.3 | 1.1945543E-5 | 1.2712891E-5 | 1.2712891E-5 | 1.0 | 0.0 | 5.119418E-5 | 5.448271E-5 | 5.448271E-5 | 1.0 | 0.0 | 6.2311086E-4 | 6.631304E-4 | 6.631304E-4 | 1.0 | 0.0 | 0.0062136655 | 0.006612072 | 0.006612072 | 1.0 | 0.0 |
+| 6.4 | 9.192729E-6 | 9.768715E-6 | 9.768715E-6 | 1.0 | 0.0 | 3.939681E-5 | 4.1865267E-5 | 4.1865267E-5 | 1.0 | 0.0 | 4.7955062E-4 | 5.095931E-4 | 5.095931E-4 | 1.0 | 0.0 | 0.004785171 | 0.005084527 | 0.005084527 | 1.0 | 0.0 |
+| 6.5 | 7.67906E-6 | 8.152809E-6 | 8.152809E-6 | 1.0 | 0.0 | 3.2909844E-5 | 3.4940153E-5 | 3.4940153E-5 | 1.0 | 0.0 | 4.006037E-4 | 4.253152E-4 | 4.253152E-4 | 1.0 | 0.0 | 0.0039988225 | 0.0042452053 | 0.0042452053 | 1.0 | 0.0 |
+| 6.6 | 6.4884057E-6 | 6.8849067E-6 | 6.8849067E-6 | 1.0 | 0.0 | 2.7807157E-5 | 2.9506418E-5 | 2.9506418E-5 | 1.0 | 0.0 | 3.3849955E-4 | 3.5918286E-4 | 3.5918286E-4 | 1.0 | 0.0 | 0.003379844 | 0.003586168 | 0.003586168 | 1.0 | 0.0 |
+| 6.7 | 4.6060636E-6 | 4.8841507E-6 | 4.8841507E-6 | 1.0 | 0.0 | 1.9740122E-5 | 2.0931911E-5 | 2.0931911E-5 | 1.0 | 0.0 | 2.403095E-4 | 2.5481705E-4 | 2.5481705E-4 | 1.0 | 0.0 | 0.002400498 | 0.0025453316 | 0.0025453316 | 1.0 | 0.0 |
+| 6.8 | 3.2795615E-6 | 3.477451E-6 | 3.477451E-6 | 1.0 | 0.0 | 1.4055187E-5 | 1.4903279E-5 | 1.4903279E-5 | 1.0 | 0.0 | 1.7110848E-4 | 1.8143287E-4 | 1.8143287E-4 | 1.0 | 0.0 | 0.0017097679 | 0.0018129027 | 0.0018129027 | 1.0 | 0.0 |
+| 6.9 | 2.3289967E-6 | 2.4706126E-6 | 2.4706126E-6 | 1.0 | 0.0 | 9.981376E-6 | 1.0588299E-5 | 1.0588299E-5 | 1.0 | 0.0 | 1.2151648E-4 | 1.2890536E-4 | 1.2890536E-4 | 1.0 | 0.0 | 0.0012145005 | 0.0012883488 | 0.0012883488 | 1.0 | 0.0 |
+| 7.0 | 1.211292E-6 | 1.2864253E-6 | 1.2864253E-6 | 1.0 | 0.0 | 5.1912407E-6 | 5.513242E-6 | 5.513242E-6 | 1.0 | 0.0 | 6.320152E-5 | 6.712195E-5 | 6.712195E-5 | 1.0 | 0.0 | 6.3183554E-4 | 6.7104667E-4 | 6.7104667E-4 | 1.0 | 0.0 |
+
+## Greenville (So) 2011 CFM
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Greenville_So_2011_CFM_1wk.png) | ![MPD](Greenville_So_2011_CFM_1mo.png) | ![MPD](Greenville_So_2011_CFM_1yr.png) | ![MPD](Greenville_So_2011_CFM_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 4.279693E-5 | 5.504568E-5 | 5.504568E-5 | 1.0 | 0.0 | 1.8340252E-4 | 2.3589072E-4 | 2.3589072E-4 | 1.0 | 0.0 | 0.0022306389 | 0.0028685203 | 0.002888463 | 1.0069523 | 2.0E-5 | 0.022083808 | 0.02834083 | 0.028360263 | 1.0006857 | 2.0E-5 |
+| 6.1 | 3.4037297E-5 | 4.3196407E-5 | 4.3196407E-5 | 1.0 | 0.0 | 1.4586597E-4 | 1.851155E-4 | 1.851155E-4 | 1.0 | 0.0 | 0.0017744715 | 0.002251635 | 0.00227159 | 1.0088624 | 2.0E-5 | 0.01760369 | 0.022304548 | 0.022324102 | 1.0008767 | 2.0E-5 |
+| 6.2 | 3.4037297E-5 | 4.3196407E-5 | 4.3196407E-5 | 1.0 | 0.0 | 1.4586597E-4 | 1.851155E-4 | 1.851155E-4 | 1.0 | 0.0 | 0.0017744715 | 0.002251635 | 0.00227159 | 1.0088624 | 2.0E-5 | 0.01760369 | 0.022304548 | 0.022324102 | 1.0008767 | 2.0E-5 |
+| 6.3 | 2.5956324E-5 | 3.2431584E-5 | 3.2431584E-5 | 1.0 | 0.0 | 1.11236644E-4 | 1.389855E-4 | 1.389855E-4 | 1.0 | 0.0 | 0.0013534647 | 0.0016909101 | 0.0017008932 | 1.005904 | 1.0E-5 | 0.013452509 | 0.016787242 | 0.016797073 | 1.0005857 | 1.0E-5 |
+| 6.4 | 2.1145053E-5 | 2.619967E-5 | 2.619967E-5 | 1.0 | 0.0 | 9.061851E-5 | 1.1227964E-4 | 1.1227964E-4 | 1.0 | 0.0 | 0.0011027219 | 0.0013661786 | 0.001376165 | 1.0073097 | 1.0E-5 | 0.01097266 | 0.013581203 | 0.013591067 | 1.0007263 | 1.0E-5 |
+| 6.5 | 2.0030959E-5 | 2.4797639E-5 | 2.4797639E-5 | 1.0 | 0.0 | 8.584414E-5 | 1.0627143E-4 | 1.0627143E-4 | 1.0 | 0.0 | 0.0010446513 | 0.0012931189 | 0.001303106 | 1.0077232 | 1.0E-5 | 0.010397541 | 0.012859294 | 0.012869165 | 1.0007676 | 1.0E-5 |
+| 6.6 | 1.8395405E-5 | 2.2756136E-5 | 2.2756136E-5 | 1.0 | 0.0 | 7.8835066E-5 | 9.752279E-5 | 9.752279E-5 | 1.0 | 0.0 | 9.5939427E-4 | 0.0011867218 | 0.0011967099 | 1.0084165 | 1.0E-5 | 0.009552629 | 0.0118069025 | 0.011816784 | 1.000837 | 1.0E-5 |
+| 6.7 | 1.7883482E-5 | 2.2127128E-5 | 2.2127128E-5 | 1.0 | 0.0 | 7.664124E-5 | 9.4827235E-5 | 9.4827235E-5 | 1.0 | 0.0 | 9.3270757E-4 | 0.0011539387 | 0.0011539387 | 1.0 | 0.0 | 0.009288026 | 0.011482523 | 0.011482523 | 1.0 | 0.0 |
+| 6.8 | 1.3373564E-5 | 1.6507069E-5 | 1.6507069E-5 | 1.0 | 0.0 | 5.7314013E-5 | 7.074274E-5 | 7.074274E-5 | 1.0 | 0.0 | 6.975747E-4 | 8.609673E-4 | 8.609673E-4 | 1.0 | 0.0 | 0.0069538904 | 0.008577928 | 0.008577928 | 1.0 | 0.0 |
+| 6.9 | 1.06692905E-5 | 1.3153386E-5 | 1.3153386E-5 | 1.0 | 0.0 | 4.5724726E-5 | 5.6370493E-5 | 5.6370493E-5 | 1.0 | 0.0 | 5.5655633E-4 | 6.861059E-4 | 6.861059E-4 | 1.0 | 0.0 | 0.005551645 | 0.0068411096 | 0.0068411096 | 1.0 | 0.0 |
+| 7.0 | 8.157512E-6 | 1.0063179E-5 | 1.0063179E-5 | 1.0 | 0.0 | 3.4960296E-5 | 4.312721E-5 | 4.312721E-5 | 1.0 | 0.0 | 4.2555845E-4 | 5.2495097E-4 | 5.2495097E-4 | 1.0 | 0.0 | 0.004247444 | 0.0052375873 | 0.0052375873 | 1.0 | 0.0 |
+| 7.1 | 6.1467113E-6 | 7.6277793E-6 | 7.6277793E-6 | 1.0 | 0.0 | 2.6342783E-5 | 3.2690077E-5 | 3.2690077E-5 | 1.0 | 0.0 | 3.206762E-4 | 3.9792983E-4 | 3.9792983E-4 | 1.0 | 0.0 | 0.0032021382 | 0.0039723613 | 0.0039723613 | 1.0 | 0.0 |
+| 7.2 | 4.713467E-6 | 5.914416E-6 | 5.914416E-6 | 1.0 | 0.0 | 2.0200418E-5 | 2.5347254E-5 | 2.5347254E-5 | 1.0 | 0.0 | 2.4591232E-4 | 3.085597E-4 | 3.085597E-4 | 1.0 | 0.0 | 0.0024564038 | 0.003081466 | 0.003081466 | 1.0 | 0.0 |
+| 7.3 | 2.3266216E-6 | 2.954166E-6 | 2.954166E-6 | 1.0 | 0.0 | 9.971197E-6 | 1.266065E-5 | 1.266065E-5 | 1.0 | 0.0 | 1.2139256E-4 | 1.5413266E-4 | 1.5413266E-4 | 1.0 | 0.0 | 0.0012132627 | 0.0015403271 | 0.0015403271 | 1.0 | 0.0 |
+| 7.4 | 1.3314E-6 | 1.718079E-6 | 1.718079E-6 | 1.0 | 0.0 | 5.7059874E-6 | 7.3631754E-6 | 7.3631754E-6 | 1.0 | 0.0 | 6.946818E-5 | 8.964302E-5 | 8.964302E-5 | 1.0 | 0.0 | 6.9446466E-4 | 8.961074E-4 | 8.961074E-4 | 1.0 | 0.0 |
+| 7.5 | 1.0362941E-6 | 1.3469978E-6 | 1.3469978E-6 | 1.0 | 0.0 | 4.4412527E-6 | 5.7728353E-6 | 5.7728353E-6 | 1.0 | 0.0 | 5.407091E-5 | 7.028205E-5 | 7.028205E-5 | 1.0 | 0.0 | 5.405776E-4 | 7.026284E-4 | 7.026284E-4 | 1.0 | 0.0 |
+| 7.6 | 7.764784E-7 | 1.0089714E-6 | 1.0089714E-6 | 1.0 | 0.0 | 3.3277602E-6 | 4.324156E-6 | 4.324156E-6 | 1.0 | 0.0 | 4.0514726E-5 | 5.264537E-5 | 5.264537E-5 | 1.0 | 0.0 | 4.050734E-4 | 5.2635034E-4 | 5.2635034E-4 | 1.0 | 0.0 |
+| 7.7 | 1.6927763E-7 | 2.2139474E-7 | 2.2139474E-7 | 1.0 | 0.0 | 7.2547533E-7 | 9.4883427E-7 | 9.4883427E-7 | 1.0 | 0.0 | 8.832627E-6 | 1.1551999E-5 | 1.1551999E-5 | 1.0 | 0.0 | 8.8322755E-5 | 1.15516705E-4 | 1.15516705E-4 | 1.0 | 0.0 |
+
+## Redondo Canyon alt 1
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Redondo_Canyon_alt_1_1wk.png) | ![MPD](Redondo_Canyon_alt_1_1mo.png) | ![MPD](Redondo_Canyon_alt_1_1yr.png) | ![MPD](Redondo_Canyon_alt_1_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.0346246E-5 | 1.0981754E-5 | 1.0981754E-5 | 1.0 | 0.0 | 4.43403E-5 | 4.7064255E-5 | 4.7064255E-5 | 1.0 | 0.0 | 5.3970946E-4 | 5.7293556E-4 | 5.7293556E-4 | 1.0 | 0.0 | 0.0053840056 | 0.0057223244 | 0.00574221 | 1.0034751 | 2.0E-5 |
+| 6.1 | 1.0346246E-5 | 1.0981754E-5 | 1.0981754E-5 | 1.0 | 0.0 | 4.43403E-5 | 4.7064255E-5 | 4.7064255E-5 | 1.0 | 0.0 | 5.3970946E-4 | 5.7293556E-4 | 5.7293556E-4 | 1.0 | 0.0 | 0.0053840056 | 0.0057223244 | 0.00574221 | 1.0034751 | 2.0E-5 |
+| 6.2 | 1.0346246E-5 | 1.0981754E-5 | 1.0981754E-5 | 1.0 | 0.0 | 4.43403E-5 | 4.7064255E-5 | 4.7064255E-5 | 1.0 | 0.0 | 5.3970946E-4 | 5.7293556E-4 | 5.7293556E-4 | 1.0 | 0.0 | 0.0053840056 | 0.0057223244 | 0.00574221 | 1.0034751 | 2.0E-5 |
+| 6.3 | 3.2052794E-6 | 3.2362834E-6 | 3.2362834E-6 | 1.0 | 0.0 | 1.373684E-5 | 1.3869735E-5 | 1.3869735E-5 | 1.0 | 0.0 | 1.6723319E-4 | 1.6885491E-4 | 1.6885491E-4 | 1.0 | 0.0 | 0.001671074 | 0.0016876558 | 0.0016976389 | 1.0059154 | 1.0E-5 |
+| 6.4 | 3.2052794E-6 | 3.2362834E-6 | 3.2362834E-6 | 1.0 | 0.0 | 1.373684E-5 | 1.3869735E-5 | 1.3869735E-5 | 1.0 | 0.0 | 1.6723319E-4 | 1.6885491E-4 | 1.6885491E-4 | 1.0 | 0.0 | 0.001671074 | 0.0016876558 | 0.0016976389 | 1.0059154 | 1.0E-5 |
+| 6.5 | 3.2052794E-6 | 3.2362834E-6 | 3.2362834E-6 | 1.0 | 0.0 | 1.373684E-5 | 1.3869735E-5 | 1.3869735E-5 | 1.0 | 0.0 | 1.6723319E-4 | 1.6885491E-4 | 1.6885491E-4 | 1.0 | 0.0 | 0.001671074 | 0.0016876558 | 0.0016976389 | 1.0059154 | 1.0E-5 |
+| 6.6 | 1.948328E-6 | 1.8289716E-6 | 1.8289716E-6 | 1.0 | 0.0 | 8.349951E-6 | 7.838435E-6 | 7.838435E-6 | 1.0 | 0.0 | 1.016559E-4 | 9.543026E-5 | 9.543026E-5 | 1.0 | 0.0 | 0.0010160941 | 9.540398E-4 | 9.540398E-4 | 1.0 | 0.0 |
+| 6.7 | 1.948328E-6 | 1.8289716E-6 | 1.8289716E-6 | 1.0 | 0.0 | 8.349951E-6 | 7.838435E-6 | 7.838435E-6 | 1.0 | 0.0 | 1.016559E-4 | 9.543026E-5 | 9.543026E-5 | 1.0 | 0.0 | 0.0010160941 | 9.540398E-4 | 9.540398E-4 | 1.0 | 0.0 |
+| 6.8 | 1.1278219E-6 | 9.0336715E-7 | 9.0336715E-7 | 1.0 | 0.0 | 4.8335132E-6 | 3.8715702E-6 | 3.8715702E-6 | 1.0 | 0.0 | 5.8846435E-5 | 4.7135774E-5 | 4.7135774E-5 | 1.0 | 0.0 | 5.8830855E-4 | 4.712998E-4 | 4.712998E-4 | 1.0 | 0.0 |
+| 6.9 | 1.1278219E-6 | 9.0336715E-7 | 9.0336715E-7 | 1.0 | 0.0 | 4.8335132E-6 | 3.8715702E-6 | 3.8715702E-6 | 1.0 | 0.0 | 5.8846435E-5 | 4.7135774E-5 | 4.7135774E-5 | 1.0 | 0.0 | 5.8830855E-4 | 4.712998E-4 | 4.712998E-4 | 1.0 | 0.0 |
+| 7.0 | 1.1278219E-6 | 9.0336715E-7 | 9.0336715E-7 | 1.0 | 0.0 | 4.8335132E-6 | 3.8715702E-6 | 3.8715702E-6 | 1.0 | 0.0 | 5.8846435E-5 | 4.7135774E-5 | 4.7135774E-5 | 1.0 | 0.0 | 5.8830855E-4 | 4.712998E-4 | 4.712998E-4 | 1.0 | 0.0 |
+| 7.1 | 1.0545139E-6 | 8.5698196E-7 | 8.5698196E-7 | 1.0 | 0.0 | 4.5193374E-6 | 3.672777E-6 | 3.672777E-6 | 1.0 | 0.0 | 5.5021545E-5 | 4.471557E-5 | 4.471557E-5 | 1.0 | 0.0 | 5.500792E-4 | 4.4710745E-4 | 4.4710745E-4 | 1.0 | 0.0 |
+| 7.2 | 1.0545139E-6 | 8.5698196E-7 | 8.5698196E-7 | 1.0 | 0.0 | 4.5193374E-6 | 3.672777E-6 | 3.672777E-6 | 1.0 | 0.0 | 5.5021545E-5 | 4.471557E-5 | 4.471557E-5 | 1.0 | 0.0 | 5.500792E-4 | 4.4710745E-4 | 4.4710745E-4 | 1.0 | 0.0 |
+| 7.3 | 9.505161E-8 | 5.896212E-8 | 5.896212E-8 | 1.0 | 0.0 | 4.0736398E-7 | 2.5269478E-7 | 2.5269478E-7 | 1.0 | 0.0 | 4.959645E-6 | 3.0765557E-6 | 3.0765557E-6 | 1.0 | 0.0 | 4.9595343E-5 | 3.076525E-5 | 3.076525E-5 | 1.0 | 0.0 |
+| 7.4 | 3.9520785E-8 | 2.6990074E-8 | 2.6990074E-8 | 1.0 | 0.0 | 1.6937479E-7 | 1.1567174E-7 | 1.1567174E-7 | 1.0 | 0.0 | 2.062136E-6 | 1.4083028E-6 | 1.4083028E-6 | 1.0 | 0.0 | 2.062117E-5 | 1.4082965E-5 | 1.4082965E-5 | 1.0 | 0.0 |
+| 7.5 | 5.6133214E-9 | 3.7371777E-9 | 3.7371777E-9 | 1.0 | 0.0 | 2.4057092E-8 | 1.6016475E-8 | 1.6016475E-8 | 1.0 | 0.0 | 2.9289507E-7 | 1.9500058E-7 | 1.9500058E-7 | 1.0 | 0.0 | 2.9289467E-6 | 1.9500044E-6 | 1.9500044E-6 | 1.0 | 0.0 |
+| 7.6 | 4.1064334E-9 | 2.596027E-9 | 2.596027E-9 | 1.0 | 0.0 | 1.7599E-8 | 1.112583E-8 | 1.112583E-8 | 1.0 | 0.0 | 2.142678E-7 | 1.3545697E-7 | 1.3545697E-7 | 1.0 | 0.0 | 2.1426758E-6 | 1.3545691E-6 | 1.3545691E-6 | 1.0 | 0.0 |
+| 7.7 | 1.361975E-9 | 6.361647E-10 | 6.361647E-10 | 1.0 | 0.0 | 5.8370353E-9 | 2.72642E-9 | 2.72642E-9 | 1.0 | 0.0 | 7.1065905E-8 | 3.3194166E-8 | 3.3194166E-8 | 1.0 | 0.0 | 7.106588E-7 | 3.319416E-7 | 3.319416E-7 | 1.0 | 0.0 |
+| 7.8 | 1.361975E-9 | 6.361647E-10 | 6.361647E-10 | 1.0 | 0.0 | 5.8370353E-9 | 2.72642E-9 | 2.72642E-9 | 1.0 | 0.0 | 7.1065905E-8 | 3.3194166E-8 | 3.3194166E-8 | 1.0 | 0.0 | 7.106588E-7 | 3.319416E-7 | 3.319416E-7 | 1.0 | 0.0 |
+
+## San Luis Range 2011 CFM
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](San_Luis_Range_2011_CFM_1wk.png) | ![MPD](San_Luis_Range_2011_CFM_1mo.png) | ![MPD](San_Luis_Range_2011_CFM_1yr.png) | ![MPD](San_Luis_Range_2011_CFM_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 8.8368415E-6 | 8.96552E-6 | 8.96552E-6 | 1.0 | 0.0 | 3.787163E-5 | 3.8423135E-5 | 3.8423135E-5 | 1.0 | 0.0 | 4.609895E-4 | 4.6770912E-4 | 4.6770912E-4 | 1.0 | 0.0 | 0.0046003438 | 0.0046680304 | 0.004687937 | 1.0042645 | 2.0E-5 |
+| 6.1 | 8.8368415E-6 | 8.96552E-6 | 8.96552E-6 | 1.0 | 0.0 | 3.787163E-5 | 3.8423135E-5 | 3.8423135E-5 | 1.0 | 0.0 | 4.609895E-4 | 4.6770912E-4 | 4.6770912E-4 | 1.0 | 0.0 | 0.0046003438 | 0.0046680304 | 0.004687937 | 1.0042645 | 2.0E-5 |
+| 6.2 | 8.8368415E-6 | 8.96552E-6 | 8.96552E-6 | 1.0 | 0.0 | 3.787163E-5 | 3.8423135E-5 | 3.8423135E-5 | 1.0 | 0.0 | 4.609895E-4 | 4.6770912E-4 | 4.6770912E-4 | 1.0 | 0.0 | 0.0046003438 | 0.0046680304 | 0.004687937 | 1.0042645 | 2.0E-5 |
+| 6.3 | 8.8368415E-6 | 8.96552E-6 | 8.96552E-6 | 1.0 | 0.0 | 3.787163E-5 | 3.8423135E-5 | 3.8423135E-5 | 1.0 | 0.0 | 4.609895E-4 | 4.6770912E-4 | 4.6770912E-4 | 1.0 | 0.0 | 0.0046003438 | 0.0046680304 | 0.004687937 | 1.0042645 | 2.0E-5 |
+| 6.4 | 3.9094193E-6 | 3.941232E-6 | 3.941232E-6 | 1.0 | 0.0 | 1.6754546E-5 | 1.6890886E-5 | 1.6890886E-5 | 1.0 | 0.0 | 2.039675E-4 | 2.0562741E-4 | 2.0562741E-4 | 1.0 | 0.0 | 0.0020378039 | 0.0020544003 | 0.0020544003 | 1.0 | 0.0 |
+| 6.5 | 3.9094193E-6 | 3.941232E-6 | 3.941232E-6 | 1.0 | 0.0 | 1.6754546E-5 | 1.6890886E-5 | 1.6890886E-5 | 1.0 | 0.0 | 2.039675E-4 | 2.0562741E-4 | 2.0562741E-4 | 1.0 | 0.0 | 0.0020378039 | 0.0020544003 | 0.0020544003 | 1.0 | 0.0 |
+| 6.6 | 3.0587726E-6 | 3.0754118E-6 | 3.0754118E-6 | 1.0 | 0.0 | 1.3108959E-5 | 1.318027E-5 | 1.318027E-5 | 1.0 | 0.0 | 1.595899E-4 | 1.6045809E-4 | 1.6045809E-4 | 1.0 | 0.0 | 0.0015947534 | 0.0016034343 | 0.0016034343 | 1.0 | 0.0 |
+| 6.7 | 2.6160574E-6 | 2.625148E-6 | 2.625148E-6 | 1.0 | 0.0 | 1.1211626E-5 | 1.1250586E-5 | 1.1250586E-5 | 1.0 | 0.0 | 1.3649299E-4 | 1.3696733E-4 | 1.3696733E-4 | 1.0 | 0.0 | 0.0013640919 | 0.0013688353 | 0.0013688353 | 1.0 | 0.0 |
+| 6.8 | 2.5110312E-6 | 2.51816E-6 | 2.51816E-6 | 1.0 | 0.0 | 1.0761518E-5 | 1.079207E-5 | 1.079207E-5 | 1.0 | 0.0 | 1.310136E-4 | 1.3138559E-4 | 1.3138559E-4 | 1.0 | 0.0 | 0.0013093639 | 0.001313085 | 0.001313085 | 1.0 | 0.0 |
+| 6.9 | 1.8564405E-6 | 1.8525027E-6 | 1.8525027E-6 | 1.0 | 0.0 | 7.95615E-6 | 7.939273E-6 | 7.939273E-6 | 1.0 | 0.0 | 9.686181E-5 | 9.665638E-5 | 9.665638E-5 | 1.0 | 0.0 | 9.68196E-4 | 9.661454E-4 | 9.661454E-4 | 1.0 | 0.0 |
+| 7.0 | 1.546127E-6 | 1.5369675E-6 | 1.5369675E-6 | 1.0 | 0.0 | 6.626242E-6 | 6.5869867E-6 | 6.5869867E-6 | 1.0 | 0.0 | 8.06715E-5 | 8.019362E-5 | 8.019362E-5 | 1.0 | 0.0 | 8.0642226E-4 | 8.016475E-4 | 8.016475E-4 | 1.0 | 0.0 |
+| 7.1 | 1.3368208E-6 | 1.3235447E-6 | 1.3235447E-6 | 1.0 | 0.0 | 5.7292195E-6 | 5.672322E-6 | 5.672322E-6 | 1.0 | 0.0 | 6.975101E-5 | 6.905834E-5 | 6.905834E-5 | 1.0 | 0.0 | 6.972912E-4 | 6.903693E-4 | 6.903693E-4 | 1.0 | 0.0 |
+| 7.2 | 1.0623363E-6 | 1.0454469E-6 | 1.0454469E-6 | 1.0 | 0.0 | 4.5528623E-6 | 4.4804788E-6 | 4.4804788E-6 | 1.0 | 0.0 | 5.5429686E-5 | 5.4548465E-5 | 5.4548465E-5 | 1.0 | 0.0 | 5.5415864E-4 | 5.45351E-4 | 5.45351E-4 | 1.0 | 0.0 |
+| 7.3 | 7.831679E-7 | 7.727471E-7 | 7.727471E-7 | 1.0 | 0.0 | 3.3564295E-6 | 3.3117692E-6 | 3.3117692E-6 | 1.0 | 0.0 | 4.086376E-5 | 4.0320043E-5 | 4.0320043E-5 | 1.0 | 0.0 | 4.0856248E-4 | 4.0312743E-4 | 4.0312743E-4 | 1.0 | 0.0 |
+| 7.4 | 5.9558846E-7 | 5.910703E-7 | 5.910703E-7 | 1.0 | 0.0 | 2.5525194E-6 | 2.533156E-6 | 2.533156E-6 | 1.0 | 0.0 | 3.107648E-5 | 3.084074E-5 | 3.084074E-5 | 1.0 | 0.0 | 3.1072134E-4 | 3.083647E-4 | 3.083647E-4 | 1.0 | 0.0 |
+| 7.5 | 4.1616502E-7 | 4.1196856E-7 | 4.1196856E-7 | 1.0 | 0.0 | 1.7835631E-6 | 1.7655783E-6 | 1.7655783E-6 | 1.0 | 0.0 | 2.1714664E-5 | 2.1495704E-5 | 2.1495704E-5 | 1.0 | 0.0 | 2.1712543E-4 | 2.149363E-4 | 2.149363E-4 | 1.0 | 0.0 |
+| 7.6 | 2.3816014E-7 | 2.3376965E-7 | 2.3376965E-7 | 1.0 | 0.0 | 1.0206859E-6 | 1.0018695E-6 | 1.0018695E-6 | 1.0 | 0.0 | 1.242678E-5 | 1.2197693E-5 | 1.2197693E-5 | 1.0 | 0.0 | 1.2426086E-4 | 1.2197026E-4 | 1.2197026E-4 | 1.0 | 0.0 |
+| 7.7 | 9.918777E-8 | 9.3870696E-8 | 9.3870696E-8 | 1.0 | 0.0 | 4.2509038E-7 | 4.023029E-7 | 4.023029E-7 | 1.0 | 0.0 | 5.1754632E-6 | 4.898027E-6 | 4.898027E-6 | 1.0 | 0.0 | 5.1753424E-5 | 4.8979193E-5 | 4.8979193E-5 | 1.0 | 0.0 |
+| 7.8 | 3.4982556E-8 | 2.9689085E-8 | 2.9689085E-8 | 1.0 | 0.0 | 1.4992524E-7 | 1.2723893E-7 | 1.2723893E-7 | 1.0 | 0.0 | 1.8253382E-6 | 1.5491328E-6 | 1.5491328E-6 | 1.0 | 0.0 | 1.8253233E-5 | 1.5491221E-5 | 1.5491221E-5 | 1.0 | 0.0 |
+| 7.9 | 1.6624908E-8 | 1.1479339E-8 | 1.1479339E-8 | 1.0 | 0.0 | 7.12496E-8 | 4.9197165E-8 | 4.9197165E-8 | 1.0 | 0.0 | 8.6746354E-7 | 5.989753E-7 | 5.989753E-7 | 1.0 | 0.0 | 8.674601E-6 | 5.9897375E-6 | 5.9897375E-6 | 1.0 | 0.0 |
+| 8.0 | 6.3352315E-9 | 3.0902623E-9 | 3.0902623E-9 | 1.0 | 0.0 | 2.715099E-8 | 1.3243979E-8 | 1.3243979E-8 | 1.0 | 0.0 | 3.3056327E-7 | 1.6124542E-7 | 1.6124542E-7 | 1.0 | 0.0 | 3.3056278E-6 | 1.612453E-6 | 1.612453E-6 | 1.0 | 0.0 |
+
+## San Jacinto (Superstition Mtn)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](San_Jacinto_Superstition_Mtn_1wk.png) | ![MPD](San_Jacinto_Superstition_Mtn_1mo.png) | ![MPD](San_Jacinto_Superstition_Mtn_1yr.png) | ![MPD](San_Jacinto_Superstition_Mtn_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 6.4193904E-5 | 9.6014155E-5 | 9.6014155E-5 | 1.0 | 0.0 | 2.7508775E-4 | 4.1143413E-4 | 4.1143413E-4 | 1.0 | 0.0 | 0.0033440501 | 0.004999107 | 0.0050190073 | 1.0039808 | 2.0E-5 | 0.03294174 | 0.048833773 | 0.048852798 | 1.0003896 | 2.0E-5 |
+| 6.1 | 6.4193904E-5 | 9.6014155E-5 | 9.6014155E-5 | 1.0 | 0.0 | 2.7508775E-4 | 4.1143413E-4 | 4.1143413E-4 | 1.0 | 0.0 | 0.0033440501 | 0.004999107 | 0.0050190073 | 1.0039808 | 2.0E-5 | 0.03294174 | 0.048833773 | 0.048852798 | 1.0003896 | 2.0E-5 |
+| 6.2 | 5.7023593E-5 | 8.3162966E-5 | 8.3162966E-5 | 1.0 | 0.0 | 2.4436394E-4 | 3.5637344E-4 | 3.5637344E-4 | 1.0 | 0.0 | 0.002971072 | 0.004331852 | 0.0043517654 | 1.004597 | 2.0E-5 | 0.029316625 | 0.04251328 | 0.042532433 | 1.0004505 | 2.0E-5 |
+| 6.3 | 5.6940098E-5 | 8.3008315E-5 | 8.3008315E-5 | 1.0 | 0.0 | 2.4400617E-4 | 3.5571083E-4 | 3.5571083E-4 | 1.0 | 0.0 | 0.002966728 | 0.004323817 | 0.0043437304 | 1.0046055 | 2.0E-5 | 0.029274331 | 0.04243653 | 0.04245568 | 1.0004513 | 2.0E-5 |
+| 6.4 | 5.4171585E-5 | 7.75018E-5 | 7.75018E-5 | 1.0 | 0.0 | 2.3214328E-4 | 3.3211758E-4 | 3.3211758E-4 | 1.0 | 0.0 | 0.0028226813 | 0.004037683 | 0.0040576025 | 1.0049334 | 2.0E-5 | 0.02787096 | 0.0397257 | 0.039744906 | 1.0004834 | 2.0E-5 |
+| 6.5 | 4.375144E-5 | 5.6439036E-5 | 5.6439036E-5 | 1.0 | 0.0 | 1.874927E-4 | 2.4186578E-4 | 2.4186578E-4 | 1.0 | 0.0 | 0.0022803338 | 0.0029419153 | 0.0029618563 | 1.0067782 | 2.0E-5 | 0.022570757 | 0.029245816 | 0.029265232 | 1.0006639 | 2.0E-5 |
+| 6.6 | 2.772192E-5 | 2.55052E-5 | 2.55052E-5 | 1.0 | 0.0 | 1.1880282E-4 | 1.09303524E-4 | 1.09303524E-4 | 1.0 | 0.0 | 0.0014454646 | 0.0013299774 | 0.0013399641 | 1.0075089 | 1.0E-5 | 0.014360986 | 0.01354923 | 0.013559095 | 1.000728 | 1.0E-5 |
+| 6.7 | 2.7124124E-5 | 2.471615E-5 | 2.471615E-5 | 1.0 | 0.0 | 1.1624106E-4 | 1.0592216E-4 | 1.0592216E-4 | 1.0 | 0.0 | 0.0014143161 | 0.0012888586 | 0.0012988457 | 1.0077488 | 1.0E-5 | 0.014053487 | 0.013142647 | 0.0131525155 | 1.0007509 | 1.0E-5 |
+| 6.8 | 2.5475807E-5 | 2.2180813E-5 | 2.2180813E-5 | 1.0 | 0.0 | 1.0917746E-4 | 9.5057236E-5 | 9.5057236E-5 | 1.0 | 0.0 | 0.001328425 | 0.0011567194 | 0.0011667077 | 1.0086352 | 1.0E-5 | 0.0132051185 | 0.011830691 | 0.011840573 | 1.0008353 | 1.0E-5 |
+| 6.9 | 2.1162023E-5 | 1.7641334E-5 | 1.7641334E-5 | 1.0 | 0.0 | 9.069123E-5 | 7.560355E-5 | 7.560355E-5 | 1.0 | 0.0 | 0.0011036064 | 9.200883E-4 | 9.3007914E-4 | 1.0108585 | 1.0E-5 | 0.010981417 | 0.009454764 | 0.00946467 | 1.0010476 | 1.0E-5 |
+| 7.0 | 1.8754288E-5 | 1.6175962E-5 | 1.6175962E-5 | 1.0 | 0.0 | 8.037304E-5 | 6.932372E-5 | 6.932372E-5 | 1.0 | 0.0 | 9.781026E-4 | 8.43692E-4 | 8.5368357E-4 | 1.0118426 | 1.0E-5 | 0.009738087 | 0.008677567 | 0.008687481 | 1.0011424 | 1.0E-5 |
+| 7.1 | 1.8678527E-5 | 1.610109E-5 | 1.610109E-5 | 1.0 | 0.0 | 8.0048376E-5 | 6.900286E-5 | 6.900286E-5 | 1.0 | 0.0 | 9.7415317E-4 | 8.397885E-4 | 8.4978016E-4 | 1.0118978 | 1.0E-5 | 0.009698939 | 0.008638517 | 0.008648431 | 1.0011476 | 1.0E-5 |
+| 7.2 | 1.7804578E-5 | 1.5395515E-5 | 1.5395515E-5 | 1.0 | 0.0 | 7.6303106E-5 | 6.5979126E-5 | 6.5979126E-5 | 1.0 | 0.0 | 9.285943E-4 | 8.0300204E-4 | 8.12994E-4 | 1.0124433 | 1.0E-5 | 0.009247236 | 0.008269752 | 0.00827967 | 1.0011992 | 1.0E-5 |
+| 7.3 | 1.6583685E-5 | 1.4544454E-5 | 1.4544454E-5 | 1.0 | 0.0 | 7.1070994E-5 | 6.233189E-5 | 6.233189E-5 | 1.0 | 0.0 | 8.649459E-4 | 7.586286E-4 | 7.68621E-4 | 1.0131717 | 1.0E-5 | 0.00861587 | 0.007824981 | 0.007834902 | 1.0012679 | 1.0E-5 |
+| 7.4 | 1.6387552E-5 | 1.4409311E-5 | 1.4409311E-5 | 1.0 | 0.0 | 7.023047E-5 | 6.175274E-5 | 6.175274E-5 | 1.0 | 0.0 | 8.5472054E-4 | 7.5158227E-4 | 7.615748E-4 | 1.0132953 | 1.0E-5 | 0.008514405 | 0.007754348 | 0.007764271 | 1.0012796 | 1.0E-5 |
+| 7.5 | 1.5790754E-5 | 1.4049853E-5 | 1.4049853E-5 | 1.0 | 0.0 | 6.767291E-5 | 6.021228E-5 | 6.021228E-5 | 1.0 | 0.0 | 8.236062E-4 | 7.3283986E-4 | 7.4283255E-4 | 1.0136355 | 1.0E-5 | 0.008205604 | 0.0075648366 | 0.007574761 | 1.0013119 | 1.0E-5 |
+| 7.6 | 1.4248672E-5 | 1.3068457E-5 | 1.3068457E-5 | 1.0 | 0.0 | 6.106431E-5 | 5.6006476E-5 | 5.6006476E-5 | 1.0 | 0.0 | 7.432043E-4 | 6.816673E-4 | 6.9166045E-4 | 1.0146599 | 1.0E-5 | 0.007407237 | 0.0070472364 | 0.007057166 | 1.001409 | 1.0E-5 |
+| 7.7 | 1.15449975E-5 | 1.09166585E-5 | 1.09166585E-5 | 1.0 | 0.0 | 4.947762E-5 | 4.6784844E-5 | 4.6784844E-5 | 1.0 | 0.0 | 6.022235E-4 | 5.6945736E-4 | 5.794517E-4 | 1.0175506 | 1.0E-5 | 0.006005941 | 0.005916985 | 0.0059269257 | 1.00168 | 1.0E-5 |
+| 7.8 | 9.1391985E-6 | 9.5267715E-6 | 9.5267715E-6 | 1.0 | 0.0 | 3.9167408E-5 | 4.0828385E-5 | 4.0828385E-5 | 1.0 | 0.0 | 4.767588E-4 | 4.969728E-4 | 5.0696783E-4 | 1.0201118 | 1.0E-5 | 0.0047573727 | 0.0051832297 | 0.005193178 | 1.0019193 | 1.0E-5 |
+| 7.9 | 6.973017E-6 | 7.3932424E-6 | 7.3932424E-6 | 1.0 | 0.0 | 2.9884017E-5 | 3.1684944E-5 | 3.1684944E-5 | 1.0 | 0.0 | 3.6377716E-4 | 3.8569642E-4 | 3.9569256E-4 | 1.0259172 | 1.0E-5 | 0.0036318225 | 0.004057612 | 0.0040675714 | 1.0024545 | 1.0E-5 |
+| 8.0 | 5.7638235E-6 | 6.2700688E-6 | 6.2700688E-6 | 1.0 | 0.0 | 2.4701867E-5 | 2.687145E-5 | 2.687145E-5 | 1.0 | 0.0 | 3.0070372E-4 | 3.2711128E-4 | 3.37108E-4 | 1.0305606 | 1.0E-5 | 0.0030029714 | 0.0034587646 | 0.00346873 | 1.0028812 | 1.0E-5 |
+| 8.1 | 5.1124434E-6 | 5.5048636E-6 | 5.5048636E-6 | 1.0 | 0.0 | 2.1910288E-5 | 2.3592062E-5 | 2.3592062E-5 | 1.0 | 0.0 | 2.6672508E-4 | 2.87196E-4 | 2.971931E-4 | 1.0348095 | 1.0E-5 | 0.0026640517 | 0.0030451815 | 0.003055151 | 1.0032738 | 1.0E-5 |
+| 8.2 | 1.1075938E-6 | 5.3500304E-7 | 5.3500304E-7 | 1.0 | 0.0 | 4.7468216E-6 | 2.2928682E-6 | 2.2928682E-6 | 1.0 | 0.0 | 5.779102E-5 | 2.7915336E-5 | 2.7915336E-5 | 1.0 | 0.0 | 5.777599E-4 | 3.142146E-4 | 3.142146E-4 | 1.0 | 0.0 |
+| 8.3 | 1.3584393E-8 | 4.4866955E-9 | 4.4866955E-9 | 1.0 | 0.0 | 5.8218827E-8 | 1.9228695E-8 | 1.9228695E-8 | 1.0 | 0.0 | 7.0881396E-7 | 2.3410936E-7 | 2.3410936E-7 | 1.0 | 0.0 | 7.0881174E-6 | 2.6235152E-6 | 2.6235152E-6 | 1.0 | 0.0 |
+
+## San Diego Trough south
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](San_Diego_Trough_south_1wk.png) | ![MPD](San_Diego_Trough_south_1mo.png) | ![MPD](San_Diego_Trough_south_1yr.png) | ![MPD](San_Diego_Trough_south_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 8.279495E-5 | 1.0425189E-4 | 1.0425189E-4 | 1.0 | 0.0 | 3.5478722E-4 | 4.467223E-4 | 4.467223E-4 | 1.0 | 0.0 | 0.004310982 | 0.005426155 | 0.005436101 | 1.001833 | 1.0E-5 | 0.042283054 | 0.052996993 | 0.053015932 | 1.0003574 | 2.0E-5 |
+| 6.1 | 4.6961468E-5 | 5.773456E-5 | 5.773456E-5 | 1.0 | 0.0 | 2.0124791E-4 | 2.474113E-4 | 2.474113E-4 | 1.0 | 0.0 | 0.00244744 | 0.0030082306 | 0.0030182004 | 1.0033143 | 1.0E-5 | 0.024206603 | 0.029681915 | 0.029701322 | 1.0006539 | 2.0E-5 |
+| 6.2 | 3.5079658E-5 | 4.2144766E-5 | 4.2144766E-5 | 1.0 | 0.0 | 1.5033272E-4 | 1.8060819E-4 | 1.8060819E-4 | 1.0 | 0.0 | 0.0018287642 | 0.0021967308 | 0.0022067088 | 1.0045422 | 1.0E-5 | 0.018137876 | 0.02175273 | 0.021772295 | 1.0008994 | 2.0E-5 |
+| 6.3 | 3.5079658E-5 | 4.2144766E-5 | 4.2144766E-5 | 1.0 | 0.0 | 1.5033272E-4 | 1.8060819E-4 | 1.8060819E-4 | 1.0 | 0.0 | 0.0018287642 | 0.0021967308 | 0.0022067088 | 1.0045422 | 1.0E-5 | 0.018137876 | 0.02175273 | 0.021772295 | 1.0008994 | 2.0E-5 |
+| 6.4 | 2.7196904E-5 | 3.2089334E-5 | 3.2089334E-5 | 1.0 | 0.0 | 1.16552954E-4 | 1.3751857E-4 | 1.3751857E-4 | 1.0 | 0.0 | 0.0014181085 | 0.0016730167 | 0.0016730167 | 1.0 | 0.0 | 0.014090929 | 0.01660575 | 0.016615583 | 1.0005922 | 1.0E-5 |
+| 6.5 | 2.5584688E-5 | 3.0103636E-5 | 3.0103636E-5 | 1.0 | 0.0 | 1.0964406E-4 | 1.2900929E-4 | 1.2900929E-4 | 1.0 | 0.0 | 0.0013340989 | 0.001569569 | 0.001569569 | 1.0 | 0.0 | 0.013261181 | 0.015586334 | 0.015596178 | 1.0006316 | 1.0E-5 |
+| 6.6 | 2.2034688E-5 | 2.5744363E-5 | 2.5744363E-5 | 1.0 | 0.0 | 9.443096E-5 | 1.1032836E-4 | 1.1032836E-4 | 1.0 | 0.0 | 0.0011490905 | 0.0013424265 | 0.0013424265 | 1.0 | 0.0 | 0.011431668 | 0.013344152 | 0.013354018 | 1.0007393 | 1.0E-5 |
+| 6.7 | 1.9394853E-5 | 2.2543129E-5 | 2.2543129E-5 | 1.0 | 0.0 | 8.311815E-5 | 9.660986E-5 | 9.660986E-5 | 1.0 | 0.0 | 0.0010114936 | 0.0011755956 | 0.0011755956 | 1.0 | 0.0 | 0.01006902 | 0.011694471 | 0.011704355 | 1.0008451 | 1.0E-5 |
+| 6.8 | 1.7615313E-5 | 2.0404388E-5 | 2.0404388E-5 | 1.0 | 0.0 | 7.549201E-5 | 8.7444474E-5 | 8.7444474E-5 | 1.0 | 0.0 | 9.1872766E-4 | 0.0010641208 | 0.0010641208 | 1.0 | 0.0 | 0.009149387 | 0.010590821 | 0.010600715 | 1.0009342 | 1.0E-5 |
+| 6.9 | 1.5621423E-5 | 1.802715E-5 | 1.802715E-5 | 1.0 | 0.0 | 6.6947236E-5 | 7.725695E-5 | 7.725695E-5 | 1.0 | 0.0 | 8.147778E-4 | 9.40201E-4 | 9.40201E-4 | 1.0 | 0.0 | 0.008117969 | 0.009362677 | 0.009362677 | 1.0 | 0.0 |
+| 7.0 | 1.3444376E-5 | 1.5448948E-5 | 1.5448948E-5 | 1.0 | 0.0 | 5.7617483E-5 | 6.620811E-5 | 6.620811E-5 | 1.0 | 0.0 | 7.0126704E-4 | 8.057884E-4 | 8.057884E-4 | 1.0 | 0.0 | 0.006990582 | 0.008029 | 0.008029 | 1.0 | 0.0 |
+| 7.1 | 1.2268361E-5 | 1.4073802E-5 | 1.4073802E-5 | 1.0 | 0.0 | 5.2577634E-5 | 6.0314913E-5 | 6.0314913E-5 | 1.0 | 0.0 | 6.399447E-4 | 7.340893E-4 | 7.340893E-4 | 1.0 | 0.0 | 0.0063810493 | 0.007316949 | 0.007316949 | 1.0 | 0.0 |
+| 7.2 | 1.0922655E-5 | 1.2514242E-5 | 1.2514242E-5 | 1.0 | 0.0 | 4.681054E-5 | 5.3631382E-5 | 5.3631382E-5 | 1.0 | 0.0 | 5.697693E-4 | 6.52769E-4 | 6.52769E-4 | 1.0 | 0.0 | 0.0056831064 | 0.006508796 | 0.006508796 | 1.0 | 0.0 |
+| 7.3 | 6.1106753E-6 | 6.9292714E-6 | 6.9292714E-6 | 1.0 | 0.0 | 2.6188345E-5 | 2.969654E-5 | 2.969654E-5 | 1.0 | 0.0 | 3.1879646E-4 | 3.614958E-4 | 3.614958E-4 | 1.0 | 0.0 | 0.0031833951 | 0.003609123 | 0.003609123 | 1.0 | 0.0 |
+| 7.4 | 4.933187E-6 | 5.5898304E-6 | 5.5898304E-6 | 1.0 | 0.0 | 2.114206E-5 | 2.3956198E-5 | 2.3956198E-5 | 1.0 | 0.0 | 2.5737417E-4 | 2.9162806E-4 | 2.9162806E-4 | 1.0 | 0.0 | 0.002570763 | 0.002912495 | 0.002912495 | 1.0 | 0.0 |
+| 7.5 | 1.7489613E-6 | 1.9697716E-6 | 1.9697716E-6 | 1.0 | 0.0 | 7.495527E-6 | 8.441852E-6 | 8.441852E-6 | 1.0 | 0.0 | 9.125422E-5 | 1.0277492E-4 | 1.0277492E-4 | 1.0 | 0.0 | 9.1216754E-4 | 0.001027296 | 0.001027296 | 1.0 | 0.0 |
+| 7.6 | 1.6988751E-7 | 1.7534032E-7 | 1.7534032E-7 | 1.0 | 0.0 | 7.2808916E-7 | 7.5145834E-7 | 7.5145834E-7 | 1.0 | 0.0 | 8.864449E-6 | 9.148969E-6 | 9.148969E-6 | 1.0 | 0.0 | 8.8640954E-5 | 9.1486116E-5 | 9.1486116E-5 | 1.0 | 0.0 |
+
+## Newport-Inglewood (Offshore)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Newport_Inglewood_Offshore_1wk.png) | ![MPD](Newport_Inglewood_Offshore_1mo.png) | ![MPD](Newport_Inglewood_Offshore_1yr.png) | ![MPD](Newport_Inglewood_Offshore_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.9626508E-5 | 1.8965913E-5 | 1.8965913E-5 | 1.0 | 0.0 | 8.411089E-5 | 8.128002E-5 | 8.128002E-5 | 1.0 | 0.0 | 0.001023569 | 9.891476E-4 | 0.0010091278 | 1.0201994 | 2.0E-5 | 0.010188672 | 0.009848791 | 0.009868595 | 1.0020107 | 2.0E-5 |
+| 6.1 | 1.331886E-5 | 1.2218475E-5 | 1.2218475E-5 | 1.0 | 0.0 | 5.707958E-5 | 5.236385E-5 | 5.236385E-5 | 1.0 | 0.0 | 6.947222E-4 | 6.3734484E-4 | 6.5733213E-4 | 1.0313601 | 2.0E-5 | 0.006925544 | 0.0063553476 | 0.00637522 | 1.003127 | 2.0E-5 |
+| 6.2 | 1.2250852E-5 | 1.1076382E-5 | 1.1076382E-5 | 1.0 | 0.0 | 5.2502597E-5 | 4.746935E-5 | 4.746935E-5 | 1.0 | 0.0 | 6.3903164E-4 | 5.777871E-4 | 5.9777556E-4 | 1.0345948 | 2.0E-5 | 0.006371971 | 0.00576297 | 0.0057828547 | 1.0034504 | 2.0E-5 |
+| 6.3 | 1.2106258E-5 | 1.0919239E-5 | 1.0919239E-5 | 1.0 | 0.0 | 5.1882926E-5 | 4.6795903E-5 | 4.6795903E-5 | 1.0 | 0.0 | 6.3149154E-4 | 5.695922E-4 | 5.895808E-4 | 1.0350928 | 2.0E-5 | 0.0062970007 | 0.00568144 | 0.005701326 | 1.0035002 | 2.0E-5 |
+| 6.4 | 1.1348758E-5 | 1.0109689E-5 | 1.0109689E-5 | 1.0 | 0.0 | 4.8636626E-5 | 4.3326523E-5 | 4.3326523E-5 | 1.0 | 0.0 | 5.919901E-4 | 5.273736E-4 | 5.47363E-4 | 1.0379038 | 2.0E-5 | 0.005904155 | 0.0052613164 | 0.005281211 | 1.0037813 | 2.0E-5 |
+| 6.5 | 1.100837E-5 | 9.743706E-6 | 9.743706E-6 | 1.0 | 0.0 | 4.7177873E-5 | 4.1758078E-5 | 4.1758078E-5 | 1.0 | 0.0 | 5.7423924E-4 | 5.0828676E-4 | 5.282766E-4 | 1.0393279 | 2.0E-5 | 0.005727576 | 0.005071333 | 0.005091232 | 1.0039238 | 2.0E-5 |
+| 6.6 | 1.0634696E-5 | 9.345849E-6 | 9.345849E-6 | 1.0 | 0.0 | 4.557647E-5 | 4.005303E-5 | 4.005303E-5 | 1.0 | 0.0 | 5.5475225E-4 | 4.8753724E-4 | 5.075275E-4 | 1.0410025 | 2.0E-5 | 0.0055336943 | 0.0048647635 | 0.0048846663 | 1.0040911 | 2.0E-5 |
+| 6.7 | 9.9780855E-6 | 8.6681985E-6 | 8.6681985E-6 | 1.0 | 0.0 | 4.276252E-5 | 3.7148897E-5 | 3.7148897E-5 | 1.0 | 0.0 | 5.205093E-4 | 4.5219465E-4 | 4.721856E-4 | 1.0442088 | 2.0E-5 | 0.0051929182 | 0.0045128246 | 0.004532734 | 1.0044118 | 2.0E-5 |
+| 6.8 | 9.59546E-6 | 8.273229E-6 | 8.273229E-6 | 1.0 | 0.0 | 4.1122752E-5 | 3.5456218E-5 | 3.5456218E-5 | 1.0 | 0.0 | 5.0055445E-4 | 4.315946E-4 | 4.5158598E-4 | 1.0463197 | 2.0E-5 | 0.004994285 | 0.00430764 | 0.004327554 | 1.0046229 | 2.0E-5 |
+| 6.9 | 9.000614E-6 | 7.7071E-6 | 7.7071E-6 | 1.0 | 0.0 | 3.857349E-5 | 3.3030014E-5 | 3.3030014E-5 | 1.0 | 0.0 | 4.6953102E-4 | 4.0206686E-4 | 4.2205883E-4 | 1.0497229 | 2.0E-5 | 0.004685402 | 0.0040134657 | 0.004033386 | 1.0049633 | 2.0E-5 |
+| 7.0 | 7.4070194E-6 | 6.1491064E-6 | 6.1491064E-6 | 1.0 | 0.0 | 3.1743984E-5 | 2.6353047E-5 | 2.6353047E-5 | 1.0 | 0.0 | 3.8641447E-4 | 3.2080128E-4 | 3.4079485E-4 | 1.0623239 | 2.0E-5 | 0.0038574322 | 0.0032034016 | 0.0032233375 | 1.0062233 | 2.0E-5 |
+| 7.1 | 6.299615E-6 | 5.0567664E-6 | 5.0567664E-6 | 1.0 | 0.0 | 2.699807E-5 | 2.1671676E-5 | 2.1671676E-5 | 1.0 | 0.0 | 3.2865192E-4 | 2.6382084E-4 | 2.8381558E-4 | 1.075789 | 2.0E-5 | 0.003281663 | 0.0026350913 | 0.0026550386 | 1.0075699 | 2.0E-5 |
+| 7.2 | 5.096653E-6 | 3.8929193E-6 | 3.8929193E-6 | 1.0 | 0.0 | 2.1842614E-5 | 1.6683834E-5 | 1.6683834E-5 | 1.0 | 0.0 | 2.6590136E-4 | 2.0310686E-4 | 2.2310279E-4 | 1.0984503 | 2.0E-5 | 0.0026558342 | 0.0020292234 | 0.0020491828 | 1.009836 | 2.0E-5 |
+| 7.3 | 3.9753018E-6 | 2.9099924E-6 | 2.9099924E-6 | 1.0 | 0.0 | 1.7036897E-5 | 1.2471336E-5 | 1.2471336E-5 | 1.0 | 0.0 | 2.0740448E-4 | 1.5182802E-4 | 1.7182498E-4 | 1.131708 | 2.0E-5 | 0.00207211 | 0.001517251 | 0.0015372207 | 1.0131618 | 2.0E-5 |
+| 7.4 | 3.0568392E-6 | 2.1450614E-6 | 2.1450614E-6 | 1.0 | 0.0 | 1.3100675E-5 | 9.193088E-6 | 9.193088E-6 | 1.0 | 0.0 | 1.5948903E-4 | 1.1192016E-4 | 1.2191904E-4 | 1.0893394 | 1.0E-5 | 0.0015937461 | 0.0011186443 | 0.001128633 | 1.0089294 | 1.0E-5 |
+| 7.5 | 1.7279019E-6 | 1.1470257E-6 | 1.1470257E-6 | 1.0 | 0.0 | 7.405273E-6 | 4.9158157E-6 | 4.9158157E-6 | 1.0 | 0.0 | 9.015547E-5 | 5.984845E-5 | 5.984845E-5 | 1.0 | 0.0 | 9.01189E-4 | 5.983272E-4 | 5.983272E-4 | 1.0 | 0.0 |
+| 7.6 | 1.1156416E-6 | 7.223269E-7 | 7.223269E-7 | 1.0 | 0.0 | 4.7813123E-6 | 3.095683E-6 | 3.095683E-6 | 1.0 | 0.0 | 5.821092E-5 | 3.768931E-5 | 3.768931E-5 | 1.0 | 0.0 | 5.8195676E-4 | 3.7683154E-4 | 3.7683154E-4 | 1.0 | 0.0 |
+| 7.7 | 9.117973E-8 | 6.734269E-8 | 6.734269E-8 | 1.0 | 0.0 | 3.907702E-7 | 2.886115E-7 | 2.886115E-7 | 1.0 | 0.0 | 4.757617E-6 | 3.5138394E-6 | 3.5138394E-6 | 1.0 | 0.0 | 4.7575148E-5 | 3.513787E-5 | 3.513787E-5 | 1.0 | 0.0 |
+
+## San Diego Trough north alt1
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](San_Diego_Trough_north_alt1_1wk.png) | ![MPD](San_Diego_Trough_north_alt1_1mo.png) | ![MPD](San_Diego_Trough_north_alt1_1yr.png) | ![MPD](San_Diego_Trough_north_alt1_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 7.329252E-5 | 8.821782E-5 | 8.821782E-5 | 1.0 | 0.0 | 3.14073E-4 | 3.7802523E-4 | 3.7802523E-4 | 1.0 | 0.0 | 0.0038171355 | 0.0045933835 | 0.0046033375 | 1.002167 | 1.0E-5 | 0.03752231 | 0.045048345 | 0.04506744 | 1.0004239 | 2.0E-5 |
+| 6.1 | 3.7940346E-5 | 4.4888136E-5 | 4.4888136E-5 | 1.0 | 0.0 | 1.6259136E-4 | 1.9236411E-4 | 1.9236411E-4 | 1.0 | 0.0 | 0.0019777524 | 0.002339605 | 0.0023495816 | 1.0042642 | 1.0E-5 | 0.019602431 | 0.02315826 | 0.023177797 | 1.0008436 | 2.0E-5 |
+| 6.2 | 2.8645263E-5 | 3.3298827E-5 | 3.3298827E-5 | 1.0 | 0.0 | 1.2275964E-4 | 1.4270161E-4 | 1.4270161E-4 | 1.0 | 0.0 | 0.0014935739 | 0.0017360242 | 0.0017360242 | 1.0 | 0.0 | 0.0148357535 | 0.01722729 | 0.017237118 | 1.0005704 | 1.0E-5 |
+| 6.3 | 2.8645263E-5 | 3.3298827E-5 | 3.3298827E-5 | 1.0 | 0.0 | 1.2275964E-4 | 1.4270161E-4 | 1.4270161E-4 | 1.0 | 0.0 | 0.0014935739 | 0.0017360242 | 0.0017360242 | 1.0 | 0.0 | 0.0148357535 | 0.01722729 | 0.017237118 | 1.0005704 | 1.0E-5 |
+| 6.4 | 2.2204576E-5 | 2.5449715E-5 | 2.5449715E-5 | 1.0 | 0.0 | 9.5159E-5 | 1.0906571E-4 | 1.0906571E-4 | 1.0 | 0.0 | 0.001157945 | 0.0013270761 | 0.0013270761 | 1.0 | 0.0 | 0.011519298 | 0.013192673 | 0.013192673 | 1.0 | 0.0 |
+| 6.5 | 2.1004838E-5 | 2.4025992E-5 | 2.4025992E-5 | 1.0 | 0.0 | 9.0017624E-5 | 1.0296453E-4 | 1.0296453E-4 | 1.0 | 0.0 | 0.0010954136 | 0.0012528815 | 0.0012528815 | 1.0 | 0.0 | 0.010900296 | 0.012459257 | 0.012459257 | 1.0 | 0.0 |
+| 6.6 | 1.820557E-5 | 2.0705853E-5 | 2.0705853E-5 | 1.0 | 0.0 | 7.802154E-5 | 8.873638E-5 | 8.873638E-5 | 1.0 | 0.0 | 9.4949827E-4 | 0.0010798355 | 0.0010798355 | 1.0 | 0.0 | 0.009454516 | 0.0107465545 | 0.0107465545 | 1.0 | 0.0 |
+| 6.7 | 1.5884485E-5 | 1.7984537E-5 | 1.7984537E-5 | 1.0 | 0.0 | 6.807459E-5 | 7.707433E-5 | 7.707433E-5 | 1.0 | 0.0 | 8.284929E-4 | 9.379787E-4 | 9.379787E-4 | 1.0 | 0.0 | 0.008254109 | 0.009340564 | 0.009340564 | 1.0 | 0.0 |
+| 6.8 | 1.4331171E-5 | 1.6201857E-5 | 1.6201857E-5 | 1.0 | 0.0 | 6.141786E-5 | 6.943469E-5 | 6.943469E-5 | 1.0 | 0.0 | 7.4750587E-4 | 8.450415E-4 | 8.450415E-4 | 1.0 | 0.0 | 0.0074499645 | 0.008418549 | 0.008418549 | 1.0 | 0.0 |
+| 6.9 | 1.2574203E-5 | 1.4206525E-5 | 1.4206525E-5 | 1.0 | 0.0 | 5.3888325E-5 | 6.0883693E-5 | 6.0883693E-5 | 1.0 | 0.0 | 6.558929E-4 | 7.4100826E-4 | 7.4100826E-4 | 1.0 | 0.0 | 0.0065396037 | 0.0073855603 | 0.0073855603 | 1.0 | 0.0 |
+| 7.0 | 1.0883844E-5 | 1.2289855E-5 | 1.2289855E-5 | 1.0 | 0.0 | 4.664421E-5 | 5.2669748E-5 | 5.2669748E-5 | 1.0 | 0.0 | 5.677453E-4 | 6.410665E-4 | 6.410665E-4 | 1.0 | 0.0 | 0.00566297 | 0.0063923006 | 0.0063923006 | 1.0 | 0.0 |
+| 7.1 | 9.393088E-6 | 1.0607533E-5 | 1.0607533E-5 | 1.0 | 0.0 | 4.025547E-5 | 4.5460067E-5 | 4.5460067E-5 | 1.0 | 0.0 | 4.900001E-4 | 5.533365E-4 | 5.533365E-4 | 1.0 | 0.0 | 0.0048892107 | 0.005519684 | 0.005519684 | 1.0 | 0.0 |
+| 7.2 | 8.190791E-6 | 9.259077E-6 | 9.259077E-6 | 1.0 | 0.0 | 3.510292E-5 | 3.9681163E-5 | 3.9681163E-5 | 1.0 | 0.0 | 4.2729423E-4 | 4.830117E-4 | 4.830117E-4 | 1.0 | 0.0 | 0.0042647356 | 0.004819699 | 0.004819699 | 1.0 | 0.0 |
+| 7.3 | 6.268162E-6 | 7.0900633E-6 | 7.0900633E-6 | 1.0 | 0.0 | 2.6863276E-5 | 3.0385634E-5 | 3.0385634E-5 | 1.0 | 0.0 | 3.2701128E-4 | 3.698827E-4 | 3.698827E-4 | 1.0 | 0.0 | 0.003265305 | 0.0036927166 | 0.0036927166 | 1.0 | 0.0 |
+| 7.4 | 4.985186E-6 | 5.64296E-6 | 5.64296E-6 | 1.0 | 0.0 | 2.1364907E-5 | 2.4183892E-5 | 2.4183892E-5 | 1.0 | 0.0 | 2.600867E-4 | 2.9439948E-4 | 2.9439948E-4 | 1.0 | 0.0 | 0.002597825 | 0.0029401362 | 0.0029401362 | 1.0 | 0.0 |
+| 7.5 | 1.7489613E-6 | 1.9697716E-6 | 1.9697716E-6 | 1.0 | 0.0 | 7.495527E-6 | 8.441852E-6 | 8.441852E-6 | 1.0 | 0.0 | 9.125422E-5 | 1.0277492E-4 | 1.0277492E-4 | 1.0 | 0.0 | 9.1216754E-4 | 0.001027296 | 0.001027296 | 1.0 | 0.0 |
+| 7.6 | 1.6988751E-7 | 1.7534032E-7 | 1.7534032E-7 | 1.0 | 0.0 | 7.2808916E-7 | 7.5145834E-7 | 7.5145834E-7 | 1.0 | 0.0 | 8.864449E-6 | 9.148969E-6 | 9.148969E-6 | 1.0 | 0.0 | 8.8640954E-5 | 9.1486116E-5 | 9.1486116E-5 | 1.0 | 0.0 |
+
+## Pitas Point (Lower)-Montalvo
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Pitas_Point_Lower_Montalvo_1wk.png) | ![MPD](Pitas_Point_Lower_Montalvo_1mo.png) | ![MPD](Pitas_Point_Lower_Montalvo_1yr.png) | ![MPD](Pitas_Point_Lower_Montalvo_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
+| 6.1 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
+| 6.2 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
+| 6.3 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
+| 6.4 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
+| 6.5 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
+| 6.6 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
+| 6.7 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
+| 6.8 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
+| 6.9 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
+| 7.0 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
+| 7.1 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
+| 7.2 | 5.2458695E-6 | 4.8291377E-6 | 4.8291377E-6 | 1.0 | 0.0 | 2.2482105E-5 | 2.0696141E-5 | 2.0696141E-5 | 1.0 | 0.0 | 2.7368523E-4 | 2.519467E-4 | 2.519467E-4 | 1.0 | 0.0 | 0.0027334841 | 0.0025166431 | 0.0025365928 | 1.0079271 | 2.0E-5 |
+| 7.3 | 5.22665E-6 | 4.8090546E-6 | 4.8090546E-6 | 1.0 | 0.0 | 2.2399736E-5 | 2.0610072E-5 | 2.0610072E-5 | 1.0 | 0.0 | 2.7268266E-4 | 2.5089906E-4 | 2.5089906E-4 | 1.0 | 0.0 | 0.002723483 | 0.0025061904 | 0.0025261403 | 1.0079602 | 2.0E-5 |
+| 7.4 | 5.210642E-6 | 4.7922667E-6 | 4.7922667E-6 | 1.0 | 0.0 | 2.233113E-5 | 2.0538126E-5 | 2.0538126E-5 | 1.0 | 0.0 | 2.718476E-4 | 2.500233E-4 | 2.500233E-4 | 1.0 | 0.0 | 0.002715153 | 0.0024974525 | 0.0025174026 | 1.0079882 | 2.0E-5 |
+| 7.5 | 5.1226016E-6 | 4.7001517E-6 | 4.7001517E-6 | 1.0 | 0.0 | 2.1953823E-5 | 2.0143352E-5 | 2.0143352E-5 | 1.0 | 0.0 | 2.67255E-4 | 2.4521802E-4 | 2.4521802E-4 | 1.0 | 0.0 | 0.0026693381 | 0.0024495062 | 0.0024694572 | 1.0081449 | 2.0E-5 |
+| 7.6 | 4.8796987E-6 | 4.4450467E-6 | 4.4450467E-6 | 1.0 | 0.0 | 2.0912828E-5 | 1.9050061E-5 | 1.9050061E-5 | 1.0 | 0.0 | 2.5458392E-4 | 2.3191012E-4 | 2.3191012E-4 | 1.0 | 0.0 | 0.0025429246 | 0.0023167117 | 0.0023366653 | 1.0086129 | 2.0E-5 |
+| 7.7 | 4.0834398E-6 | 3.609201E-6 | 3.609201E-6 | 1.0 | 0.0 | 1.7500339E-5 | 1.5467915E-5 | 1.5467915E-5 | 1.0 | 0.0 | 2.1304579E-4 | 1.8830581E-4 | 1.8830581E-4 | 1.0 | 0.0 | 0.0021284167 | 0.0018814863 | 0.0019014486 | 1.0106099 | 2.0E-5 |
+| 7.8 | 2.5445438E-6 | 2.1212766E-6 | 2.1212766E-6 | 1.0 | 0.0 | 1.0905142E-5 | 9.0911535E-6 | 9.0911535E-6 | 1.0 | 0.0 | 1.3276201E-4 | 1.1067922E-4 | 1.1067922E-4 | 1.0 | 0.0 | 0.0013268272 | 0.0011062457 | 0.0011162346 | 1.0090296 | 1.0E-5 |
+| 7.9 | 4.1677114E-7 | 3.32945E-7 | 3.32945E-7 | 1.0 | 0.0 | 1.7861609E-6 | 1.4269064E-6 | 1.4269064E-6 | 1.0 | 0.0 | 2.1746291E-5 | 1.737245E-5 | 1.737245E-5 | 1.0 | 0.0 | 2.1744163E-4 | 1.7371123E-4 | 1.7371123E-4 | 1.0 | 0.0 |
+| 8.0 | 7.791402E-9 | 5.6836544E-9 | 5.6836544E-9 | 1.0 | 0.0 | 3.3391725E-8 | 2.4358519E-8 | 2.4358519E-8 | 1.0 | 0.0 | 4.0654416E-7 | 2.9656493E-7 | 2.9656493E-7 | 1.0 | 0.0 | 4.065434E-6 | 2.9656476E-6 | 2.9656476E-6 | 1.0 | 0.0 |
+
+## North Salt Lake
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](North_Salt_Lake_1wk.png) | ![MPD](North_Salt_Lake_1mo.png) | ![MPD](North_Salt_Lake_1yr.png) | ![MPD](North_Salt_Lake_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.849599E-6 | 1.9556126E-6 | 1.1955593E-5 | 6.113477 | 1.0E-5 | 7.926829E-6 | 8.381182E-6 | 1.8381097E-5 | 2.193139 | 1.0E-5 | 9.650487E-5 | 1.02038124E-4 | 1.120371E-4 | 1.0979925 | 1.0E-5 | 9.646297E-4 | 0.0010201106 | 0.0010400901 | 1.0195857 | 2.0E-5 |
+| 6.1 | 1.849599E-6 | 1.9556126E-6 | 1.1955593E-5 | 6.113477 | 1.0E-5 | 7.926829E-6 | 8.381182E-6 | 1.8381097E-5 | 2.193139 | 1.0E-5 | 9.650487E-5 | 1.02038124E-4 | 1.120371E-4 | 1.0979925 | 1.0E-5 | 9.646297E-4 | 0.0010201106 | 0.0010301004 | 1.0097928 | 1.0E-5 |
+| 6.2 | 1.849599E-6 | 1.9556126E-6 | 1.1955593E-5 | 6.113477 | 1.0E-5 | 7.926829E-6 | 8.381182E-6 | 1.8381097E-5 | 2.193139 | 1.0E-5 | 9.650487E-5 | 1.02038124E-4 | 1.120371E-4 | 1.0979925 | 1.0E-5 | 9.646297E-4 | 0.0010201106 | 0.0010301004 | 1.0097928 | 1.0E-5 |
+| 6.3 | 1.849599E-6 | 1.9556126E-6 | 1.1955593E-5 | 6.113477 | 1.0E-5 | 7.926829E-6 | 8.381182E-6 | 1.8381097E-5 | 2.193139 | 1.0E-5 | 9.650487E-5 | 1.02038124E-4 | 1.120371E-4 | 1.0979925 | 1.0E-5 | 9.646297E-4 | 0.0010201106 | 0.0010301004 | 1.0097928 | 1.0E-5 |
+| 6.4 | 1.7803909E-6 | 1.8861124E-6 | 1.18860935E-5 | 6.301901 | 1.0E-5 | 7.630225E-6 | 8.083325E-6 | 1.8083245E-5 | 2.2371047 | 1.0E-5 | 9.289402E-5 | 9.841205E-5 | 1.0841106E-4 | 1.1016036 | 1.0E-5 | 9.28552E-4 | 9.838819E-4 | 9.938721E-4 | 1.0101538 | 1.0E-5 |
+| 6.5 | 5.9157696E-7 | 6.3003364E-7 | 6.3003364E-7 | 1.0 | 0.0 | 2.5353274E-6 | 2.7001417E-6 | 2.7001417E-6 | 1.0 | 0.0 | 3.0867173E-5 | 3.287377E-5 | 3.287377E-5 | 1.0 | 0.0 | 3.0862886E-4 | 3.28693E-4 | 3.28693E-4 | 1.0 | 0.0 |
+| 6.6 | 5.9157696E-7 | 6.3003364E-7 | 6.3003364E-7 | 1.0 | 0.0 | 2.5353274E-6 | 2.7001417E-6 | 2.7001417E-6 | 1.0 | 0.0 | 3.0867173E-5 | 3.287377E-5 | 3.287377E-5 | 1.0 | 0.0 | 3.0862886E-4 | 3.28693E-4 | 3.28693E-4 | 1.0 | 0.0 |
+| 6.7 | 5.9157696E-7 | 6.3003364E-7 | 6.3003364E-7 | 1.0 | 0.0 | 2.5353274E-6 | 2.7001417E-6 | 2.7001417E-6 | 1.0 | 0.0 | 3.0867173E-5 | 3.287377E-5 | 3.287377E-5 | 1.0 | 0.0 | 3.0862886E-4 | 3.28693E-4 | 3.28693E-4 | 1.0 | 0.0 |
+| 6.8 | 4.7536267E-7 | 5.066143E-7 | 5.066143E-7 | 1.0 | 0.0 | 2.037267E-6 | 2.1712026E-6 | 2.1712026E-6 | 1.0 | 0.0 | 2.4803443E-5 | 2.6434096E-5 | 2.6434096E-5 | 1.0 | 0.0 | 2.4800675E-4 | 2.6431197E-4 | 2.6431197E-4 | 1.0 | 0.0 |
+| 6.9 | 3.6345344E-7 | 3.8751006E-7 | 3.8751006E-7 | 1.0 | 0.0 | 1.5576567E-6 | 1.6607564E-6 | 1.6607564E-6 | 1.0 | 0.0 | 1.8964305E-5 | 2.0219539E-5 | 2.0219539E-5 | 1.0 | 0.0 | 1.8962687E-4 | 2.021787E-4 | 2.021787E-4 | 1.0 | 0.0 |
+| 7.0 | 2.4087325E-7 | 2.570998E-7 | 2.570998E-7 | 1.0 | 0.0 | 1.0323135E-6 | 1.1018559E-6 | 1.1018559E-6 | 1.0 | 0.0 | 1.25683455E-5 | 1.3415026E-5 | 1.3415026E-5 | 1.0 | 0.0 | 1.2567634E-4 | 1.3414343E-4 | 1.3414343E-4 | 1.0 | 0.0 |
+| 7.1 | 8.551555E-8 | 9.044672E-8 | 9.044672E-8 | 1.0 | 0.0 | 3.6649516E-7 | 3.8762875E-7 | 3.8762875E-7 | 1.0 | 0.0 | 4.4620692E-6 | 4.7193707E-6 | 4.7193707E-6 | 1.0 | 0.0 | 4.46198E-5 | 4.7192825E-5 | 4.7192825E-5 | 1.0 | 0.0 |
+| 7.2 | 2.475279E-8 | 2.5893618E-8 | 2.5893618E-8 | 1.0 | 0.0 | 1.0608338E-7 | 1.1097265E-7 | 1.1097265E-7 | 1.0 | 0.0 | 1.2915643E-6 | 1.3510912E-6 | 1.3510912E-6 | 1.0 | 0.0 | 1.2915569E-5 | 1.3510837E-5 | 1.3510837E-5 | 1.0 | 0.0 |
+| 7.3 | 1.5212393E-8 | 1.5847736E-8 | 1.5847736E-8 | 1.0 | 0.0 | 6.519597E-8 | 6.791887E-8 | 6.791887E-8 | 1.0 | 0.0 | 7.9376065E-7 | 8.2691196E-7 | 8.2691196E-7 | 1.0 | 0.0 | 7.937579E-6 | 8.269092E-6 | 8.269092E-6 | 1.0 | 0.0 |
+| 7.4 | 8.182E-9 | 8.447396E-9 | 8.447396E-9 | 1.0 | 0.0 | 3.5065714E-8 | 3.6203126E-8 | 3.6203126E-8 | 1.0 | 0.0 | 4.26925E-7 | 4.4077296E-7 | 4.4077296E-7 | 1.0 | 0.0 | 4.269242E-6 | 4.4077215E-6 | 4.4077215E-6 | 1.0 | 0.0 |
+| 7.5 | 5.479913E-9 | 5.6681158E-9 | 5.6681158E-9 | 1.0 | 0.0 | 2.3485342E-8 | 2.4291925E-8 | 2.4291925E-8 | 1.0 | 0.0 | 2.85934E-7 | 2.9575415E-7 | 2.9575415E-7 | 1.0 | 0.0 | 2.8593363E-6 | 2.9575378E-6 | 2.9575378E-6 | 1.0 | 0.0 |
+| 7.6 | 2.6813562E-10 | 2.7732305E-10 | 2.7732305E-10 | 1.0 | 0.0 | 1.1491527E-9 | 1.1885273E-9 | 1.1885273E-9 | 1.0 | 0.0 | 1.3990933E-8 | 1.4470319E-8 | 1.4470319E-8 | 1.0 | 0.0 | 1.3990932E-7 | 1.447032E-7 | 1.447032E-7 | 1.0 | 0.0 |
+
+## Monte Vista - Shannon 2011 CFM
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Monte_Vista_Shannon_2011_CFM_1wk.png) | ![MPD](Monte_Vista_Shannon_2011_CFM_1mo.png) | ![MPD](Monte_Vista_Shannon_2011_CFM_1yr.png) | ![MPD](Monte_Vista_Shannon_2011_CFM_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 2.7907707E-5 | 2.7586655E-5 | 2.7586655E-5 | 1.0 | 0.0 | 1.19598975E-4 | 1.1822386E-4 | 1.1822386E-4 | 1.0 | 0.0 | 0.0014551448 | 0.0014385489 | 0.0014485345 | 1.0069414 | 1.0E-5 | 0.014456532 | 0.014321466 | 0.01434118 | 1.0013765 | 2.0E-5 |
+| 6.1 | 2.7907707E-5 | 2.7586655E-5 | 2.7586655E-5 | 1.0 | 0.0 | 1.19598975E-4 | 1.1822386E-4 | 1.1822386E-4 | 1.0 | 0.0 | 0.0014551448 | 0.0014385489 | 0.0014485345 | 1.0069414 | 1.0E-5 | 0.014456532 | 0.014321466 | 0.01434118 | 1.0013765 | 2.0E-5 |
+| 6.2 | 2.7907707E-5 | 2.7586655E-5 | 2.7586655E-5 | 1.0 | 0.0 | 1.19598975E-4 | 1.1822386E-4 | 1.1822386E-4 | 1.0 | 0.0 | 0.0014551448 | 0.0014385489 | 0.0014485345 | 1.0069414 | 1.0E-5 | 0.014456532 | 0.014321466 | 0.01434118 | 1.0013765 | 2.0E-5 |
+| 6.3 | 2.7907707E-5 | 2.7586655E-5 | 2.7586655E-5 | 1.0 | 0.0 | 1.19598975E-4 | 1.1822386E-4 | 1.1822386E-4 | 1.0 | 0.0 | 0.0014551448 | 0.0014385489 | 0.0014485345 | 1.0069414 | 1.0E-5 | 0.014456532 | 0.014321466 | 0.01434118 | 1.0013765 | 2.0E-5 |
+| 6.4 | 2.7907707E-5 | 2.7586655E-5 | 2.7586655E-5 | 1.0 | 0.0 | 1.19598975E-4 | 1.1822386E-4 | 1.1822386E-4 | 1.0 | 0.0 | 0.0014551448 | 0.0014385489 | 0.0014485345 | 1.0069414 | 1.0E-5 | 0.014456532 | 0.014321466 | 0.01434118 | 1.0013765 | 2.0E-5 |
+| 6.5 | 1.7990213E-5 | 1.664191E-5 | 1.664191E-5 | 1.0 | 0.0 | 7.709863E-5 | 7.1320894E-5 | 7.1320894E-5 | 1.0 | 0.0 | 9.382716E-4 | 8.680523E-4 | 8.680523E-4 | 1.0 | 0.0 | 0.0093431985 | 0.008670001 | 0.008670001 | 1.0 | 0.0 |
+| 6.6 | 9.650407E-6 | 7.4588243E-6 | 7.4588243E-6 | 1.0 | 0.0 | 4.135823E-5 | 3.1966043E-5 | 3.1966043E-5 | 1.0 | 0.0 | 5.0342013E-4 | 3.891249E-4 | 3.891249E-4 | 1.0 | 0.0 | 0.005022812 | 0.0039021273 | 0.0039021273 | 1.0 | 0.0 |
+| 6.7 | 9.62828E-6 | 7.436737E-6 | 7.436737E-6 | 1.0 | 0.0 | 4.1263404E-5 | 3.1871386E-5 | 3.1871386E-5 | 1.0 | 0.0 | 5.022661E-4 | 3.8797286E-4 | 3.8797286E-4 | 1.0 | 0.0 | 0.0050113243 | 0.0038906476 | 0.0038906476 | 1.0 | 0.0 |
+| 6.8 | 6.887523E-6 | 4.463149E-6 | 4.463149E-6 | 1.0 | 0.0 | 2.9517621E-5 | 1.9127654E-5 | 1.9127654E-5 | 1.0 | 0.0 | 3.5931775E-4 | 2.3285652E-4 | 2.3285652E-4 | 1.0 | 0.0 | 0.0035873733 | 0.0023432903 | 0.0023432903 | 1.0 | 0.0 |
+| 6.9 | 6.2722347E-6 | 3.8049966E-6 | 3.8049966E-6 | 1.0 | 0.0 | 2.6880729E-5 | 1.6307038E-5 | 1.6307038E-5 | 1.0 | 0.0 | 3.2722374E-4 | 1.9852213E-4 | 1.9852213E-4 | 1.0 | 0.0 | 0.003267423 | 0.002000599 | 0.002000599 | 1.0 | 0.0 |
+| 7.0 | 5.5320347E-6 | 3.0321132E-6 | 3.0321132E-6 | 1.0 | 0.0 | 2.3708504E-5 | 1.2994717E-5 | 1.2994717E-5 | 1.0 | 0.0 | 2.8861282E-4 | 1.5820102E-4 | 1.5820102E-4 | 1.0 | 0.0 | 0.0028823826 | 0.0015980211 | 0.0015980211 | 1.0 | 0.0 |
+| 7.1 | 3.8794055E-6 | 1.2852364E-6 | 1.2852364E-6 | 1.0 | 0.0 | 1.6625918E-5 | 5.5081446E-6 | 5.5081446E-6 | 1.0 | 0.0 | 2.0240174E-4 | 6.705961E-5 | 6.705961E-5 | 1.0 | 0.0 | 0.002022175 | 6.8735634E-4 | 6.8735634E-4 | 1.0 | 0.0 |
+| 7.2 | 3.4813652E-6 | 9.684858E-7 | 9.684858E-7 | 1.0 | 0.0 | 1.49200505E-5 | 4.150647E-6 | 4.150647E-6 | 1.0 | 0.0 | 1.8163648E-4 | 5.0532963E-5 | 5.0532963E-5 | 1.0 | 0.0 | 0.0018148809 | 5.2216504E-4 | 5.2216504E-4 | 1.0 | 0.0 |
+| 7.3 | 3.1682148E-6 | 7.7324756E-7 | 7.7324756E-7 | 1.0 | 0.0 | 1.3577992E-5 | 3.313914E-6 | 3.313914E-6 | 1.0 | 0.0 | 1.6529951E-4 | 4.0346156E-5 | 4.0346156E-5 | 1.0 | 0.0 | 0.0016517661 | 4.2031374E-4 | 4.2031374E-4 | 1.0 | 0.0 |
+| 7.4 | 2.9707667E-6 | 7.3587034E-7 | 7.3587034E-7 | 1.0 | 0.0 | 1.2731795E-5 | 3.153726E-6 | 3.153726E-6 | 1.0 | 0.0 | 1.5499859E-4 | 3.839594E-5 | 3.839594E-5 | 1.0 | 0.0 | 0.0015489052 | 4.0061006E-4 | 4.0061006E-4 | 1.0 | 0.0 |
+| 7.5 | 2.3462758E-6 | 6.0189757E-7 | 6.0189757E-7 | 1.0 | 0.0 | 1.0055429E-5 | 2.5795584E-6 | 2.5795584E-6 | 1.0 | 0.0 | 1.2241797E-4 | 3.1405674E-5 | 3.1405674E-5 | 1.0 | 0.0 | 0.0012235056 | 3.2898266E-4 | 3.2898266E-4 | 1.0 | 0.0 |
+| 7.6 | 2.112783E-6 | 5.261996E-7 | 5.261996E-7 | 1.0 | 0.0 | 9.054753E-6 | 2.2551392E-6 | 2.2551392E-6 | 1.0 | 0.0 | 1.1023604E-4 | 2.7455975E-5 | 2.7455975E-5 | 1.0 | 0.0 | 0.0011018137 | 2.8906539E-4 | 2.8906539E-4 | 1.0 | 0.0 |
+| 7.7 | 1.7022471E-6 | 4.2406643E-7 | 4.2406643E-7 | 1.0 | 0.0 | 7.2953244E-6 | 1.8174262E-6 | 1.8174262E-6 | 1.0 | 0.0 | 8.881695E-5 | 2.212694E-5 | 2.212694E-5 | 1.0 | 0.0 | 8.878146E-4 | 2.3446612E-4 | 2.3446612E-4 | 1.0 | 0.0 |
+| 7.8 | 7.230914E-7 | 3.7367803E-7 | 3.7367803E-7 | 1.0 | 0.0 | 3.0989595E-6 | 1.6014762E-6 | 1.6014762E-6 | 1.0 | 0.0 | 3.772918E-5 | 1.94978E-5 | 1.94978E-5 | 1.0 | 0.0 | 3.7722773E-4 | 2.0770078E-4 | 2.0770078E-4 | 1.0 | 0.0 |
+| 7.9 | 4.3588446E-7 | 3.4377132E-7 | 3.4377132E-7 | 1.0 | 0.0 | 1.868075E-6 | 1.4733048E-6 | 1.4733048E-6 | 1.0 | 0.0 | 2.2743576E-5 | 1.793734E-5 | 1.793734E-5 | 1.0 | 0.0 | 2.2741247E-4 | 1.9032517E-4 | 1.9032517E-4 | 1.0 | 0.0 |
+| 8.0 | 2.3317523E-7 | 3.157609E-7 | 3.157609E-7 | 1.0 | 0.0 | 9.99322E-7 | 1.3532604E-6 | 1.3532604E-6 | 1.0 | 0.0 | 1.2166677E-5 | 1.647582E-5 | 1.647582E-5 | 1.0 | 0.0 | 1.21660116E-4 | 1.7431752E-4 | 1.7431752E-4 | 1.0 | 0.0 |
+| 8.1 | 1.4662456E-7 | 2.0345128E-7 | 2.0345128E-7 | 1.0 | 0.0 | 6.283908E-7 | 8.7193376E-7 | 8.7193376E-7 | 1.0 | 0.0 | 7.650631E-6 | 1.0615743E-5 | 1.0615743E-5 | 1.0 | 0.0 | 7.650368E-5 | 1.1151567E-4 | 1.1151567E-4 | 1.0 | 0.0 |
+| 8.2 | 5.4931775E-9 | 5.085425E-9 | 5.085425E-9 | 1.0 | 0.0 | 2.3542189E-8 | 2.1794678E-8 | 2.1794678E-8 | 1.0 | 0.0 | 2.8662612E-7 | 2.653502E-7 | 2.653502E-7 | 1.0 | 0.0 | 2.8662573E-6 | 2.7590645E-6 | 2.7590645E-6 | 1.0 | 0.0 |
+
+## Simi-Santa Rosa
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Simi_Santa_Rosa_1wk.png) | ![MPD](Simi_Santa_Rosa_1mo.png) | ![MPD](Simi_Santa_Rosa_1yr.png) | ![MPD](Simi_Santa_Rosa_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 2.198912E-5 | 2.2276581E-5 | 3.227636E-5 | 1.4488919 | 1.0E-5 | 9.4235686E-5 | 9.546781E-5 | 1.0546686E-4 | 1.1047374 | 1.0E-5 | 0.0011467156 | 0.0011617447 | 0.0011717331 | 1.0085977 | 1.0E-5 | 0.011408163 | 0.011561163 | 0.011580931 | 1.0017099 | 2.0E-5 |
+| 6.1 | 2.198912E-5 | 2.2276581E-5 | 3.227636E-5 | 1.4488919 | 1.0E-5 | 9.4235686E-5 | 9.546781E-5 | 1.0546686E-4 | 1.1047374 | 1.0E-5 | 0.0011467156 | 0.0011617447 | 0.0011717331 | 1.0085977 | 1.0E-5 | 0.011408163 | 0.011561163 | 0.011580931 | 1.0017099 | 2.0E-5 |
+| 6.2 | 1.69983E-5 | 1.666944E-5 | 2.6669273E-5 | 1.5998901 | 1.0E-5 | 7.284782E-5 | 7.143867E-5 | 8.143795E-5 | 1.1399702 | 1.0E-5 | 8.865613E-4 | 8.694479E-4 | 8.794392E-4 | 1.0114915 | 1.0E-5 | 0.008830327 | 0.008663383 | 0.00868321 | 1.0022886 | 2.0E-5 |
+| 6.3 | 1.69983E-5 | 1.666944E-5 | 2.6669273E-5 | 1.5998901 | 1.0E-5 | 7.284782E-5 | 7.143867E-5 | 8.143795E-5 | 1.1399702 | 1.0E-5 | 8.865613E-4 | 8.694479E-4 | 8.794392E-4 | 1.0114915 | 1.0E-5 | 0.008830327 | 0.008663383 | 0.00868321 | 1.0022886 | 2.0E-5 |
+| 6.4 | 1.4666188E-5 | 1.4053306E-5 | 2.4053164E-5 | 1.7115663 | 1.0E-5 | 6.285358E-5 | 6.02272E-5 | 7.02266E-5 | 1.1660279 | 1.0E-5 | 7.6497364E-4 | 7.330444E-4 | 7.430371E-4 | 1.0136317 | 1.0E-5 | 0.0076234564 | 0.0073087392 | 0.007328593 | 1.0027164 | 2.0E-5 |
+| 6.5 | 1.4666188E-5 | 1.4053306E-5 | 2.4053164E-5 | 1.7115663 | 1.0E-5 | 6.285358E-5 | 6.02272E-5 | 7.02266E-5 | 1.1660279 | 1.0E-5 | 7.6497364E-4 | 7.330444E-4 | 7.430371E-4 | 1.0136317 | 1.0E-5 | 0.0076234564 | 0.0073087392 | 0.007328593 | 1.0027164 | 2.0E-5 |
+| 6.6 | 1.4377586E-5 | 1.37303305E-5 | 2.3730194E-5 | 1.7283046 | 1.0E-5 | 6.1616774E-5 | 5.884309E-5 | 6.88425E-5 | 1.1699334 | 1.0E-5 | 7.4992597E-4 | 7.1620394E-4 | 7.261968E-4 | 1.0139525 | 1.0E-5 | 0.007474003 | 0.007141426 | 0.0071612834 | 1.0027806 | 2.0E-5 |
+| 6.7 | 1.3881404E-5 | 1.3208275E-5 | 2.3208144E-5 | 1.7570912 | 1.0E-5 | 5.9490372E-5 | 5.6605804E-5 | 6.660524E-5 | 1.1766503 | 1.0E-5 | 7.240546E-4 | 6.889825E-4 | 6.989756E-4 | 1.0145042 | 1.0E-5 | 0.007217 | 0.006870914 | 0.0068907766 | 1.0028908 | 2.0E-5 |
+| 6.8 | 1.0176516E-5 | 9.154684E-6 | 1.9154593E-5 | 2.0923269 | 1.0E-5 | 4.3612912E-5 | 3.9233866E-5 | 4.9233473E-5 | 1.2548718 | 1.0E-5 | 5.308578E-4 | 4.775842E-4 | 4.875794E-4 | 1.0209287 | 1.0E-5 | 0.0052959146 | 0.0047672116 | 0.0047871163 | 1.0041753 | 2.0E-5 |
+| 6.9 | 9.699797E-6 | 8.7752305E-6 | 1.8775143E-5 | 2.1395612 | 1.0E-5 | 4.15699E-5 | 3.7607682E-5 | 4.7607307E-5 | 1.2658931 | 1.0E-5 | 5.05996E-4 | 4.577938E-4 | 4.677892E-4 | 1.0218339 | 1.0E-5 | 0.005048454 | 0.004570125 | 0.004590034 | 1.0043563 | 2.0E-5 |
+| 7.0 | 7.4049476E-6 | 6.5597224E-6 | 6.5597224E-6 | 1.0 | 0.0 | 3.1735104E-5 | 2.8112865E-5 | 2.8112865E-5 | 1.0 | 0.0 | 3.8630638E-4 | 3.4223302E-4 | 3.4223302E-4 | 1.0 | 0.0 | 0.0038563553 | 0.0034183022 | 0.003428268 | 1.0029154 | 1.0E-5 |
+| 7.1 | 3.873439E-6 | 2.7596984E-6 | 2.7596984E-6 | 1.0 | 0.0 | 1.6600346E-5 | 1.1827226E-5 | 1.1827226E-5 | 1.0 | 0.0 | 2.0209046E-4 | 1.439872E-4 | 1.439872E-4 | 1.0 | 0.0 | 0.0020190678 | 0.0014389626 | 0.0014489483 | 1.0069394 | 1.0E-5 |
+| 7.2 | 3.417706E-6 | 2.367821E-6 | 2.367821E-6 | 1.0 | 0.0 | 1.4647229E-5 | 1.0147766E-5 | 1.0147766E-5 | 1.0 | 0.0 | 1.7831543E-4 | 1.2354228E-4 | 1.2354228E-4 | 1.0 | 0.0 | 0.0017817242 | 0.0012347583 | 0.0012447459 | 1.0080887 | 1.0E-5 |
+| 7.3 | 1.90225E-6 | 1.4075075E-6 | 1.4075075E-6 | 1.0 | 0.0 | 8.152474E-6 | 6.0321613E-6 | 6.0321613E-6 | 1.0 | 0.0 | 9.9251854E-5 | 7.343911E-5 | 7.343911E-5 | 1.0 | 0.0 | 9.920754E-4 | 7.3415064E-4 | 7.441433E-4 | 1.0136112 | 1.0E-5 |
+| 7.4 | 1.5170556E-6 | 1.1026005E-6 | 1.1026005E-6 | 1.0 | 0.0 | 6.5016507E-6 | 4.725422E-6 | 4.725422E-6 | 1.0 | 0.0 | 7.915472E-5 | 5.7530506E-5 | 5.7530506E-5 | 1.0 | 0.0 | 7.9126534E-4 | 5.7515723E-4 | 5.851515E-4 | 1.0173765 | 1.0E-5 |
+| 7.5 | 1.178732E-6 | 8.5362774E-7 | 8.5362774E-7 | 1.0 | 0.0 | 5.0516987E-6 | 3.6583995E-6 | 3.6583995E-6 | 1.0 | 0.0 | 6.1502695E-5 | 4.4540113E-5 | 4.4540113E-5 | 1.0 | 0.0 | 6.148568E-4 | 4.453128E-4 | 4.5530836E-4 | 1.0224462 | 1.0E-5 |
+| 7.6 | 6.8722386E-7 | 4.7942876E-7 | 4.7942876E-7 | 1.0 | 0.0 | 2.9452417E-6 | 2.054693E-6 | 2.054693E-6 | 1.0 | 0.0 | 3.5857727E-5 | 2.50156E-5 | 2.50156E-5 | 1.0 | 0.0 | 3.5851944E-4 | 2.5012798E-4 | 2.6012547E-4 | 1.0399696 | 1.0E-5 |
+| 7.7 | 5.5126515E-7 | 3.6741855E-7 | 3.6741855E-7 | 1.0 | 0.0 | 2.3625628E-6 | 1.57465E-6 | 1.57465E-6 | 1.0 | 0.0 | 2.8763823E-5 | 1.9171197E-5 | 1.9171197E-5 | 1.0 | 0.0 | 2.87601E-4 | 1.9169554E-4 | 2.0169362E-4 | 1.0521561 | 1.0E-5 |
+| 7.8 | 3.3860243E-7 | 2.0083374E-7 | 2.0083374E-7 | 1.0 | 0.0 | 1.4511525E-6 | 8.607158E-7 | 8.607158E-7 | 1.0 | 0.0 | 1.7667637E-5 | 1.0479164E-5 | 1.0479164E-5 | 1.0 | 0.0 | 1.7666233E-4 | 1.04786755E-4 | 1.04786755E-4 | 1.0 | 0.0 |
+| 7.9 | 2.7955386E-7 | 1.4656113E-7 | 1.4656113E-7 | 1.0 | 0.0 | 1.1980875E-6 | 6.28119E-7 | 6.28119E-7 | 1.0 | 0.0 | 1.4586617E-5 | 7.6473225E-6 | 7.6473225E-6 | 1.0 | 0.0 | 1.458566E-4 | 7.6470635E-5 | 7.6470635E-5 | 1.0 | 0.0 |
+| 8.0 | 5.6259015E-8 | 3.3360266E-8 | 3.3360266E-8 | 1.0 | 0.0 | 2.4111003E-7 | 1.4297257E-7 | 1.4297257E-7 | 1.0 | 0.0 | 2.9355108E-6 | 1.7406898E-6 | 1.7406898E-6 | 1.0 | 0.0 | 2.935472E-5 | 1.7406775E-5 | 1.7406775E-5 | 1.0 | 0.0 |
+
+## Green Valley 2011 CFM
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Green_Valley_2011_CFM_1wk.png) | ![MPD](Green_Valley_2011_CFM_1mo.png) | ![MPD](Green_Valley_2011_CFM_1yr.png) | ![MPD](Green_Valley_2011_CFM_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 9.9629346E-5 | 1.7305705E-4 | 1.7305705E-4 | 1.0 | 0.0 | 4.2691303E-4 | 7.414668E-4 | 7.414668E-4 | 1.0 | 0.0 | 0.0051852856 | 0.008987168 | 0.008997078 | 1.0011027 | 1.0E-5 | 0.050659515 | 0.08552724 | 0.08554553 | 1.0002139 | 2.0E-5 |
+| 6.1 | 9.88615E-5 | 1.7153013E-4 | 1.7153013E-4 | 1.0 | 0.0 | 4.2362334E-4 | 7.349266E-4 | 7.349266E-4 | 1.0 | 0.0 | 0.0051454236 | 0.008908194 | 0.008918105 | 1.0011126 | 1.0E-5 | 0.050279044 | 0.08481485 | 0.08483315 | 1.0002158 | 2.0E-5 |
+| 6.2 | 9.696895E-5 | 1.6792017E-4 | 1.6792017E-4 | 1.0 | 0.0 | 4.15515E-4 | 7.194639E-4 | 7.194639E-4 | 1.0 | 0.0 | 0.0050471667 | 0.008721567 | 0.00873148 | 1.0011365 | 1.0E-5 | 0.04934063 | 0.08312371 | 0.08314204 | 1.0002207 | 2.0E-5 |
+| 6.3 | 9.275224E-5 | 1.5971335E-4 | 1.5971335E-4 | 1.0 | 0.0 | 3.9744904E-4 | 6.843105E-4 | 6.843105E-4 | 1.0 | 0.0 | 0.0048282105 | 0.008296883 | 0.0083068 | 1.0011953 | 1.0E-5 | 0.047246475 | 0.07926211 | 0.079280525 | 1.0002323 | 2.0E-5 |
+| 6.4 | 8.391499E-5 | 1.436941E-4 | 1.436941E-4 | 1.0 | 0.0 | 3.595861E-4 | 6.156939E-4 | 6.156939E-4 | 1.0 | 0.0 | 0.004369175 | 0.0074675 | 0.0074774255 | 1.0013292 | 1.0E-5 | 0.04284265 | 0.0716356 | 0.07165416 | 1.0002592 | 2.0E-5 |
+| 6.5 | 5.9519385E-5 | 9.935359E-5 | 9.935359E-5 | 1.0 | 0.0 | 2.5505814E-4 | 4.2573572E-4 | 4.2573572E-4 | 1.0 | 0.0 | 0.0031009112 | 0.0051686377 | 0.0051686377 | 1.0 | 0.0 | 0.030579966 | 0.05014978 | 0.05014978 | 1.0 | 0.0 |
+| 6.6 | 4.5361558E-5 | 7.4036536E-5 | 7.4036536E-5 | 1.0 | 0.0 | 1.9439218E-4 | 3.172637E-4 | 3.172637E-4 | 1.0 | 0.0 | 0.0023641558 | 0.0038542415 | 0.0038542415 | 1.0 | 0.0 | 0.023391623 | 0.037669353 | 0.037669353 | 1.0 | 0.0 |
+| 6.7 | 3.8808106E-5 | 6.2660576E-5 | 6.2660576E-5 | 1.0 | 0.0 | 1.6630985E-4 | 2.685203E-4 | 2.685203E-4 | 1.0 | 0.0 | 0.0020229418 | 0.0032629308 | 0.0032629308 | 1.0 | 0.0 | 0.020046256 | 0.032008827 | 0.032008827 | 1.0 | 0.0 |
+| 6.8 | 2.2284667E-5 | 3.128642E-5 | 3.128642E-5 | 1.0 | 0.0 | 9.550222E-5 | 1.3407787E-4 | 1.3407787E-4 | 1.0 | 0.0 | 0.0011621192 | 0.0016311664 | 0.0016311664 | 1.0 | 0.0 | 0.011560607 | 0.016166577 | 0.016166577 | 1.0 | 0.0 |
+| 6.9 | 1.8050168E-5 | 2.4448911E-5 | 2.4448911E-5 | 1.0 | 0.0 | 7.735557E-5 | 1.0477688E-4 | 1.0477688E-4 | 1.0 | 0.0 | 9.4139716E-4 | 0.0012749154 | 0.0012749154 | 1.0 | 0.0 | 0.009374191 | 0.012668268 | 0.012668268 | 1.0 | 0.0 |
+| 7.0 | 1.4763166E-5 | 1.958358E-5 | 1.958358E-5 | 1.0 | 0.0 | 6.326917E-5 | 8.392695E-5 | 8.392695E-5 | 1.0 | 0.0 | 7.7002996E-4 | 0.0010213346 | 0.0010213346 | 1.0 | 0.0 | 0.007673672 | 0.010165716 | 0.010165716 | 1.0 | 0.0 |
+| 7.1 | 1.2399713E-5 | 1.6304351E-5 | 1.6304351E-5 | 1.0 | 0.0 | 5.3140546E-5 | 6.987393E-5 | 6.987393E-5 | 1.0 | 0.0 | 6.467941E-4 | 8.50385E-4 | 8.50385E-4 | 1.0 | 0.0 | 0.006449148 | 0.008471588 | 0.008471588 | 1.0 | 0.0 |
+| 7.2 | 1.0584195E-5 | 1.3922341E-5 | 1.3922341E-5 | 1.0 | 0.0 | 4.5360044E-5 | 5.966582E-5 | 5.966582E-5 | 1.0 | 0.0 | 5.521186E-4 | 7.2619086E-4 | 7.2619086E-4 | 1.0 | 0.0 | 0.0055074887 | 0.0072385953 | 0.0072385953 | 1.0 | 0.0 |
+| 7.3 | 7.998173E-6 | 1.0544554E-5 | 1.0544554E-5 | 1.0 | 0.0 | 3.4277433E-5 | 4.519017E-5 | 4.519017E-5 | 1.0 | 0.0 | 4.1724785E-4 | 5.500525E-4 | 5.500525E-4 | 1.0 | 0.0 | 0.004164653 | 0.005487176 | 0.005487176 | 1.0 | 0.0 |
+| 7.4 | 6.7571127E-6 | 8.933202E-6 | 8.933202E-6 | 1.0 | 0.0 | 2.8958733E-5 | 3.8284594E-5 | 3.8284594E-5 | 1.0 | 0.0 | 3.5251552E-4 | 4.6601618E-4 | 4.6601618E-4 | 1.0 | 0.0 | 0.0035195686 | 0.004650593 | 0.004650593 | 1.0 | 0.0 |
+| 7.5 | 5.69878E-6 | 7.516771E-6 | 7.516771E-6 | 1.0 | 0.0 | 2.4423114E-5 | 3.221434E-5 | 3.221434E-5 | 1.0 | 0.0 | 2.9731085E-4 | 3.921399E-4 | 3.921399E-4 | 1.0 | 0.0 | 0.002969134 | 0.003914631 | 0.003914631 | 1.0 | 0.0 |
+| 7.6 | 4.503664E-6 | 5.935934E-6 | 5.935934E-6 | 1.0 | 0.0 | 1.9301275E-5 | 2.5439474E-5 | 2.5439474E-5 | 1.0 | 0.0 | 2.3496768E-4 | 3.0968242E-4 | 3.0968242E-4 | 1.0 | 0.0 | 0.002347194 | 0.0030926338 | 0.0030926338 | 1.0 | 0.0 |
+| 7.7 | 1.0873546E-6 | 1.4107341E-6 | 1.4107341E-6 | 1.0 | 0.0 | 4.6600826E-6 | 6.0459893E-6 | 6.0459893E-6 | 1.0 | 0.0 | 5.6735033E-5 | 7.360746E-5 | 7.360746E-5 | 1.0 | 0.0 | 5.672055E-4 | 7.3583284E-4 | 7.3583284E-4 | 1.0 | 0.0 |
+| 7.8 | 4.9373917E-8 | 6.177918E-8 | 6.177918E-8 | 1.0 | 0.0 | 2.1160248E-7 | 2.6476792E-7 | 2.6476792E-7 | 1.0 | 0.0 | 2.5762572E-6 | 3.2235457E-6 | 3.2235457E-6 | 1.0 | 0.0 | 2.5762274E-5 | 3.223337E-5 | 3.223337E-5 | 1.0 | 0.0 |
 
 ## Coronado Bank alt1
 *[(top)](#table-of-contents)*
@@ -3422,27 +3917,6 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.5 | 1.086975E-7 | 6.659825E-8 | 6.659825E-8 | 1.0 | 0.0 | 4.6584634E-7 | 2.8542104E-7 | 2.8542104E-7 | 1.0 | 0.0 | 5.6716644E-6 | 3.4749958E-6 | 3.4749958E-6 | 1.0 | 0.0 | 5.6715195E-5 | 3.474944E-5 | 3.474944E-5 | 1.0 | 0.0 |
 | 7.6 | 2.4217808E-8 | 1.5820985E-8 | 1.5820985E-8 | 1.0 | 0.0 | 1.03790605E-7 | 6.7804216E-8 | 6.7804216E-8 | 1.0 | 0.0 | 1.2636499E-6 | 8.255161E-7 | 8.255161E-7 | 1.0 | 0.0 | 1.2636427E-5 | 8.255135E-6 | 8.255135E-6 | 1.0 | 0.0 |
 
-## Likely 2011 CFM
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Likely_2011_CFM_1wk.png) | ![MPD](Likely_2011_CFM_1mo.png) | ![MPD](Likely_2011_CFM_1yr.png) | ![MPD](Likely_2011_CFM_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.5315949E-5 | 2.7105461E-5 | 2.7105461E-5 | 1.0 | 0.0 | 1.0849241E-4 | 1.1616134E-4 | 1.1616134E-4 | 1.0 | 0.0 | 0.0013200947 | 0.0014133913 | 0.0014233772 | 1.0070652 | 1.0E-5 | 0.013122803 | 0.014048677 | 0.014068397 | 1.0014036 | 2.0E-5 |
-| 6.1 | 2.5315949E-5 | 2.7105461E-5 | 2.7105461E-5 | 1.0 | 0.0 | 1.0849241E-4 | 1.1616134E-4 | 1.1616134E-4 | 1.0 | 0.0 | 0.0013200947 | 0.0014133913 | 0.0014233772 | 1.0070652 | 1.0E-5 | 0.013122803 | 0.014048677 | 0.014068397 | 1.0014036 | 2.0E-5 |
-| 6.2 | 1.6375941E-5 | 1.7466275E-5 | 1.7466275E-5 | 1.0 | 0.0 | 7.0180715E-5 | 7.4853386E-5 | 7.4853386E-5 | 1.0 | 0.0 | 8.5411523E-4 | 9.109712E-4 | 9.109712E-4 | 1.0 | 0.0 | 0.008508399 | 0.009073656 | 0.009073656 | 1.0 | 0.0 |
-| 6.3 | 1.1945543E-5 | 1.2712891E-5 | 1.2712891E-5 | 1.0 | 0.0 | 5.119418E-5 | 5.448271E-5 | 5.448271E-5 | 1.0 | 0.0 | 6.2311086E-4 | 6.631304E-4 | 6.631304E-4 | 1.0 | 0.0 | 0.0062136655 | 0.006612072 | 0.006612072 | 1.0 | 0.0 |
-| 6.4 | 9.192729E-6 | 9.768715E-6 | 9.768715E-6 | 1.0 | 0.0 | 3.939681E-5 | 4.1865267E-5 | 4.1865267E-5 | 1.0 | 0.0 | 4.7955062E-4 | 5.095931E-4 | 5.095931E-4 | 1.0 | 0.0 | 0.004785171 | 0.005084527 | 0.005084527 | 1.0 | 0.0 |
-| 6.5 | 7.67906E-6 | 8.152809E-6 | 8.152809E-6 | 1.0 | 0.0 | 3.2909844E-5 | 3.4940153E-5 | 3.4940153E-5 | 1.0 | 0.0 | 4.006037E-4 | 4.253152E-4 | 4.253152E-4 | 1.0 | 0.0 | 0.0039988225 | 0.0042452053 | 0.0042452053 | 1.0 | 0.0 |
-| 6.6 | 6.4884057E-6 | 6.8849067E-6 | 6.8849067E-6 | 1.0 | 0.0 | 2.7807157E-5 | 2.9506418E-5 | 2.9506418E-5 | 1.0 | 0.0 | 3.3849955E-4 | 3.5918286E-4 | 3.5918286E-4 | 1.0 | 0.0 | 0.003379844 | 0.003586168 | 0.003586168 | 1.0 | 0.0 |
-| 6.7 | 4.6060636E-6 | 4.8841507E-6 | 4.8841507E-6 | 1.0 | 0.0 | 1.9740122E-5 | 2.0931911E-5 | 2.0931911E-5 | 1.0 | 0.0 | 2.403095E-4 | 2.5481705E-4 | 2.5481705E-4 | 1.0 | 0.0 | 0.002400498 | 0.0025453316 | 0.0025453316 | 1.0 | 0.0 |
-| 6.8 | 3.2795615E-6 | 3.477451E-6 | 3.477451E-6 | 1.0 | 0.0 | 1.4055187E-5 | 1.4903279E-5 | 1.4903279E-5 | 1.0 | 0.0 | 1.7110848E-4 | 1.8143287E-4 | 1.8143287E-4 | 1.0 | 0.0 | 0.0017097679 | 0.0018129027 | 0.0018129027 | 1.0 | 0.0 |
-| 6.9 | 2.3289967E-6 | 2.4706126E-6 | 2.4706126E-6 | 1.0 | 0.0 | 9.981376E-6 | 1.0588299E-5 | 1.0588299E-5 | 1.0 | 0.0 | 1.2151648E-4 | 1.2890536E-4 | 1.2890536E-4 | 1.0 | 0.0 | 0.0012145005 | 0.0012883488 | 0.0012883488 | 1.0 | 0.0 |
-| 7.0 | 1.211292E-6 | 1.2864253E-6 | 1.2864253E-6 | 1.0 | 0.0 | 5.1912407E-6 | 5.513242E-6 | 5.513242E-6 | 1.0 | 0.0 | 6.320152E-5 | 6.712195E-5 | 6.712195E-5 | 1.0 | 0.0 | 6.3183554E-4 | 6.7104667E-4 | 6.7104667E-4 | 1.0 | 0.0 |
-
 ## La Panza 2011
 *[(top)](#table-of-contents)*
 
@@ -3473,183 +3947,6 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.8 | 5.489079E-9 | 2.0177415E-10 | 2.0177415E-10 | 1.0 | 0.0 | 2.3524624E-8 | 8.6474716E-10 | 8.6474716E-10 | 1.0 | 0.0 | 2.8641225E-7 | 1.0528295E-8 | 1.0528295E-8 | 1.0 | 0.0 | 2.8641189E-6 | 1.0528294E-7 | 1.0528294E-7 | 1.0 | 0.0 |
 | 7.9 | 2.5081048E-9 | 6.708767E-11 | 6.708767E-11 | 1.0 | 0.0 | 1.0749021E-8 | 2.8751934E-10 | 2.8751934E-10 | 1.0 | 0.0 | 1.3086932E-7 | 3.5005474E-9 | 3.5005474E-9 | 1.0 | 0.0 | 1.3086925E-6 | 3.5005474E-8 | 3.5005474E-8 | 1.0 | 0.0 |
 
-## Great Valley 08 (Quinto)
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Great_Valley_08_Quinto_1wk.png) | ![MPD](Great_Valley_08_Quinto_1mo.png) | ![MPD](Great_Valley_08_Quinto_1yr.png) | ![MPD](Great_Valley_08_Quinto_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 7.737697E-6 | 8.253242E-6 | 8.253242E-6 | 1.0 | 0.0 | 3.3161137E-5 | 3.5370667E-5 | 3.5370667E-5 | 1.0 | 0.0 | 4.0366207E-4 | 4.3057164E-4 | 4.4056732E-4 | 1.0232149 | 1.0E-5 | 0.004029296 | 0.004299227 | 0.004319141 | 1.004632 | 2.0E-5 |
-| 6.1 | 7.737697E-6 | 8.253242E-6 | 8.253242E-6 | 1.0 | 0.0 | 3.3161137E-5 | 3.5370667E-5 | 3.5370667E-5 | 1.0 | 0.0 | 4.0366207E-4 | 4.3057164E-4 | 4.4056732E-4 | 1.0232149 | 1.0E-5 | 0.004029296 | 0.004299227 | 0.004319141 | 1.004632 | 2.0E-5 |
-| 6.2 | 7.737697E-6 | 8.253242E-6 | 8.253242E-6 | 1.0 | 0.0 | 3.3161137E-5 | 3.5370667E-5 | 3.5370667E-5 | 1.0 | 0.0 | 4.0366207E-4 | 4.3057164E-4 | 4.4056732E-4 | 1.0232149 | 1.0E-5 | 0.004029296 | 0.004299227 | 0.004319141 | 1.004632 | 2.0E-5 |
-| 6.3 | 5.374012E-6 | 5.7507236E-6 | 5.7507236E-6 | 1.0 | 0.0 | 2.3031276E-5 | 2.464579E-5 | 2.464579E-5 | 1.0 | 0.0 | 2.803697E-4 | 3.000323E-4 | 3.100293E-4 | 1.0333197 | 1.0E-5 | 0.0028001624 | 0.0029973655 | 0.0030073356 | 1.0033263 | 1.0E-5 |
-| 6.4 | 5.374012E-6 | 5.7507236E-6 | 5.7507236E-6 | 1.0 | 0.0 | 2.3031276E-5 | 2.464579E-5 | 2.464579E-5 | 1.0 | 0.0 | 2.803697E-4 | 3.000323E-4 | 3.100293E-4 | 1.0333197 | 1.0E-5 | 0.0028001624 | 0.0029973655 | 0.0030073356 | 1.0033263 | 1.0E-5 |
-| 6.5 | 3.65427E-6 | 3.941439E-6 | 3.941439E-6 | 1.0 | 0.0 | 1.5661062E-5 | 1.6891812E-5 | 1.6891812E-5 | 1.0 | 0.0 | 1.9065675E-4 | 2.0564545E-4 | 2.0564545E-4 | 1.0 | 0.0 | 0.0019049325 | 0.0020552434 | 0.0020552434 | 1.0 | 0.0 |
-| 6.6 | 3.6143538E-6 | 3.8986245E-6 | 3.8986245E-6 | 1.0 | 0.0 | 1.5489995E-5 | 1.6708324E-5 | 1.6708324E-5 | 1.0 | 0.0 | 1.8857437E-4 | 2.034119E-4 | 2.034119E-4 | 1.0 | 0.0 | 0.0018841444 | 0.0020329487 | 0.0020329487 | 1.0 | 0.0 |
-| 6.7 | 2.4821015E-6 | 2.6857888E-6 | 2.6857888E-6 | 1.0 | 0.0 | 1.0637535E-5 | 1.1510504E-5 | 1.1510504E-5 | 1.0 | 0.0 | 1.2950429E-4 | 1.4013704E-4 | 1.4013704E-4 | 1.0 | 0.0 | 0.0012942884 | 0.0014010416 | 0.0014010416 | 1.0 | 0.0 |
-| 6.8 | 4.7110538E-7 | 5.193218E-7 | 5.193218E-7 | 1.0 | 0.0 | 2.0190216E-6 | 2.2256631E-6 | 2.2256631E-6 | 1.0 | 0.0 | 2.458131E-5 | 2.709713E-5 | 2.709713E-5 | 1.0 | 0.0 | 2.457859E-4 | 2.7094007E-4 | 2.7094007E-4 | 1.0 | 0.0 |
-| 6.9 | 3.958685E-7 | 4.3705143E-7 | 4.3705143E-7 | 1.0 | 0.0 | 1.6965782E-6 | 1.8730763E-6 | 1.8730763E-6 | 1.0 | 0.0 | 2.0655643E-5 | 2.2804481E-5 | 2.2804481E-5 | 1.0 | 0.0 | 2.0653724E-4 | 2.2802303E-4 | 2.2802303E-4 | 1.0 | 0.0 |
-| 7.0 | 2.70294E-7 | 2.9921196E-7 | 2.9921196E-7 | 1.0 | 0.0 | 1.1584025E-6 | 1.2823365E-6 | 1.2823365E-6 | 1.0 | 0.0 | 1.4103458E-5 | 1.5612348E-5 | 1.5612348E-5 | 1.0 | 0.0 | 1.4102564E-4 | 1.5611379E-4 | 1.5611379E-4 | 1.0 | 0.0 |
-| 7.1 | 1.4828602E-7 | 1.6469784E-7 | 1.6469784E-7 | 1.0 | 0.0 | 6.3551136E-7 | 7.0584775E-7 | 7.0584775E-7 | 1.0 | 0.0 | 7.737323E-6 | 8.593671E-6 | 8.593671E-6 | 1.0 | 0.0 | 7.737054E-5 | 8.593418E-5 | 8.593418E-5 | 1.0 | 0.0 |
-
-## Simi-Santa Rosa
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Simi_Santa_Rosa_1wk.png) | ![MPD](Simi_Santa_Rosa_1mo.png) | ![MPD](Simi_Santa_Rosa_1yr.png) | ![MPD](Simi_Santa_Rosa_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.198912E-5 | 2.2276581E-5 | 3.227636E-5 | 1.4488919 | 1.0E-5 | 9.4235686E-5 | 9.546781E-5 | 1.0546686E-4 | 1.1047374 | 1.0E-5 | 0.0011467156 | 0.0011617447 | 0.0011717331 | 1.0085977 | 1.0E-5 | 0.011408163 | 0.011561163 | 0.011580931 | 1.0017099 | 2.0E-5 |
-| 6.1 | 2.198912E-5 | 2.2276581E-5 | 3.227636E-5 | 1.4488919 | 1.0E-5 | 9.4235686E-5 | 9.546781E-5 | 1.0546686E-4 | 1.1047374 | 1.0E-5 | 0.0011467156 | 0.0011617447 | 0.0011717331 | 1.0085977 | 1.0E-5 | 0.011408163 | 0.011561163 | 0.011580931 | 1.0017099 | 2.0E-5 |
-| 6.2 | 1.69983E-5 | 1.666944E-5 | 2.6669273E-5 | 1.5998901 | 1.0E-5 | 7.284782E-5 | 7.143867E-5 | 8.143795E-5 | 1.1399702 | 1.0E-5 | 8.865613E-4 | 8.694479E-4 | 8.794392E-4 | 1.0114915 | 1.0E-5 | 0.008830327 | 0.008663383 | 0.00868321 | 1.0022886 | 2.0E-5 |
-| 6.3 | 1.69983E-5 | 1.666944E-5 | 2.6669273E-5 | 1.5998901 | 1.0E-5 | 7.284782E-5 | 7.143867E-5 | 8.143795E-5 | 1.1399702 | 1.0E-5 | 8.865613E-4 | 8.694479E-4 | 8.794392E-4 | 1.0114915 | 1.0E-5 | 0.008830327 | 0.008663383 | 0.00868321 | 1.0022886 | 2.0E-5 |
-| 6.4 | 1.4666188E-5 | 1.4053306E-5 | 2.4053164E-5 | 1.7115663 | 1.0E-5 | 6.285358E-5 | 6.02272E-5 | 7.02266E-5 | 1.1660279 | 1.0E-5 | 7.6497364E-4 | 7.330444E-4 | 7.430371E-4 | 1.0136317 | 1.0E-5 | 0.0076234564 | 0.0073087392 | 0.007328593 | 1.0027164 | 2.0E-5 |
-| 6.5 | 1.4666188E-5 | 1.4053306E-5 | 2.4053164E-5 | 1.7115663 | 1.0E-5 | 6.285358E-5 | 6.02272E-5 | 7.02266E-5 | 1.1660279 | 1.0E-5 | 7.6497364E-4 | 7.330444E-4 | 7.430371E-4 | 1.0136317 | 1.0E-5 | 0.0076234564 | 0.0073087392 | 0.007328593 | 1.0027164 | 2.0E-5 |
-| 6.6 | 1.4377586E-5 | 1.37303305E-5 | 2.3730194E-5 | 1.7283046 | 1.0E-5 | 6.1616774E-5 | 5.884309E-5 | 6.88425E-5 | 1.1699334 | 1.0E-5 | 7.4992597E-4 | 7.1620394E-4 | 7.261968E-4 | 1.0139525 | 1.0E-5 | 0.007474003 | 0.007141426 | 0.0071612834 | 1.0027806 | 2.0E-5 |
-| 6.7 | 1.3881404E-5 | 1.3208275E-5 | 2.3208144E-5 | 1.7570912 | 1.0E-5 | 5.9490372E-5 | 5.6605804E-5 | 6.660524E-5 | 1.1766503 | 1.0E-5 | 7.240546E-4 | 6.889825E-4 | 6.989756E-4 | 1.0145042 | 1.0E-5 | 0.007217 | 0.006870914 | 0.0068907766 | 1.0028908 | 2.0E-5 |
-| 6.8 | 1.0176516E-5 | 9.154684E-6 | 1.9154593E-5 | 2.0923269 | 1.0E-5 | 4.3612912E-5 | 3.9233866E-5 | 4.9233473E-5 | 1.2548718 | 1.0E-5 | 5.308578E-4 | 4.775842E-4 | 4.875794E-4 | 1.0209287 | 1.0E-5 | 0.0052959146 | 0.0047672116 | 0.0047871163 | 1.0041753 | 2.0E-5 |
-| 6.9 | 9.699797E-6 | 8.7752305E-6 | 1.8775143E-5 | 2.1395612 | 1.0E-5 | 4.15699E-5 | 3.7607682E-5 | 4.7607307E-5 | 1.2658931 | 1.0E-5 | 5.05996E-4 | 4.577938E-4 | 4.677892E-4 | 1.0218339 | 1.0E-5 | 0.005048454 | 0.004570125 | 0.004590034 | 1.0043563 | 2.0E-5 |
-| 7.0 | 7.4049476E-6 | 6.5597224E-6 | 6.5597224E-6 | 1.0 | 0.0 | 3.1735104E-5 | 2.8112865E-5 | 2.8112865E-5 | 1.0 | 0.0 | 3.8630638E-4 | 3.4223302E-4 | 3.4223302E-4 | 1.0 | 0.0 | 0.0038563553 | 0.0034183022 | 0.003428268 | 1.0029154 | 1.0E-5 |
-| 7.1 | 3.873439E-6 | 2.7596984E-6 | 2.7596984E-6 | 1.0 | 0.0 | 1.6600346E-5 | 1.1827226E-5 | 1.1827226E-5 | 1.0 | 0.0 | 2.0209046E-4 | 1.439872E-4 | 1.439872E-4 | 1.0 | 0.0 | 0.0020190678 | 0.0014389626 | 0.0014489483 | 1.0069394 | 1.0E-5 |
-| 7.2 | 3.417706E-6 | 2.367821E-6 | 2.367821E-6 | 1.0 | 0.0 | 1.4647229E-5 | 1.0147766E-5 | 1.0147766E-5 | 1.0 | 0.0 | 1.7831543E-4 | 1.2354228E-4 | 1.2354228E-4 | 1.0 | 0.0 | 0.0017817242 | 0.0012347583 | 0.0012447459 | 1.0080887 | 1.0E-5 |
-| 7.3 | 1.90225E-6 | 1.4075075E-6 | 1.4075075E-6 | 1.0 | 0.0 | 8.152474E-6 | 6.0321613E-6 | 6.0321613E-6 | 1.0 | 0.0 | 9.9251854E-5 | 7.343911E-5 | 7.343911E-5 | 1.0 | 0.0 | 9.920754E-4 | 7.3415064E-4 | 7.441433E-4 | 1.0136112 | 1.0E-5 |
-| 7.4 | 1.5170556E-6 | 1.1026005E-6 | 1.1026005E-6 | 1.0 | 0.0 | 6.5016507E-6 | 4.725422E-6 | 4.725422E-6 | 1.0 | 0.0 | 7.915472E-5 | 5.7530506E-5 | 5.7530506E-5 | 1.0 | 0.0 | 7.9126534E-4 | 5.7515723E-4 | 5.851515E-4 | 1.0173765 | 1.0E-5 |
-| 7.5 | 1.178732E-6 | 8.5362774E-7 | 8.5362774E-7 | 1.0 | 0.0 | 5.0516987E-6 | 3.6583995E-6 | 3.6583995E-6 | 1.0 | 0.0 | 6.1502695E-5 | 4.4540113E-5 | 4.4540113E-5 | 1.0 | 0.0 | 6.148568E-4 | 4.453128E-4 | 4.5530836E-4 | 1.0224462 | 1.0E-5 |
-| 7.6 | 6.8722386E-7 | 4.7942876E-7 | 4.7942876E-7 | 1.0 | 0.0 | 2.9452417E-6 | 2.054693E-6 | 2.054693E-6 | 1.0 | 0.0 | 3.5857727E-5 | 2.50156E-5 | 2.50156E-5 | 1.0 | 0.0 | 3.5851944E-4 | 2.5012798E-4 | 2.6012547E-4 | 1.0399696 | 1.0E-5 |
-| 7.7 | 5.5126515E-7 | 3.6741855E-7 | 3.6741855E-7 | 1.0 | 0.0 | 2.3625628E-6 | 1.57465E-6 | 1.57465E-6 | 1.0 | 0.0 | 2.8763823E-5 | 1.9171197E-5 | 1.9171197E-5 | 1.0 | 0.0 | 2.87601E-4 | 1.9169554E-4 | 2.0169362E-4 | 1.0521561 | 1.0E-5 |
-| 7.8 | 3.3860243E-7 | 2.0083374E-7 | 2.0083374E-7 | 1.0 | 0.0 | 1.4511525E-6 | 8.607158E-7 | 8.607158E-7 | 1.0 | 0.0 | 1.7667637E-5 | 1.0479164E-5 | 1.0479164E-5 | 1.0 | 0.0 | 1.7666233E-4 | 1.04786755E-4 | 1.04786755E-4 | 1.0 | 0.0 |
-| 7.9 | 2.7955386E-7 | 1.4656113E-7 | 1.4656113E-7 | 1.0 | 0.0 | 1.1980875E-6 | 6.28119E-7 | 6.28119E-7 | 1.0 | 0.0 | 1.4586617E-5 | 7.6473225E-6 | 7.6473225E-6 | 1.0 | 0.0 | 1.458566E-4 | 7.6470635E-5 | 7.6470635E-5 | 1.0 | 0.0 |
-| 8.0 | 5.6259015E-8 | 3.3360266E-8 | 3.3360266E-8 | 1.0 | 0.0 | 2.4111003E-7 | 1.4297257E-7 | 1.4297257E-7 | 1.0 | 0.0 | 2.9355108E-6 | 1.7406898E-6 | 1.7406898E-6 | 1.0 | 0.0 | 2.935472E-5 | 1.7406775E-5 | 1.7406775E-5 | 1.0 | 0.0 |
-
-## Elsinore (Stepovers Combined)
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Elsinore_Stepovers_Combined_1wk.png) | ![MPD](Elsinore_Stepovers_Combined_1mo.png) | ![MPD](Elsinore_Stepovers_Combined_1yr.png) | ![MPD](Elsinore_Stepovers_Combined_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.144392E-5 | 1.9762472E-5 | 1.9762472E-5 | 1.0 | 0.0 | 9.189928E-5 | 8.469368E-5 | 8.469368E-5 | 1.0 | 0.0 | 0.0011182994 | 0.0010306796 | 0.0010306796 | 1.0 | 0.0 | 0.011126885 | 0.010266087 | 0.010285882 | 1.0019282 | 2.0E-5 |
-| 6.1 | 2.144392E-5 | 1.9762472E-5 | 1.9762472E-5 | 1.0 | 0.0 | 9.189928E-5 | 8.469368E-5 | 8.469368E-5 | 1.0 | 0.0 | 0.0011182994 | 0.0010306796 | 0.0010306796 | 1.0 | 0.0 | 0.011126885 | 0.010266087 | 0.010285882 | 1.0019282 | 2.0E-5 |
-| 6.2 | 2.144392E-5 | 1.9762472E-5 | 1.9762472E-5 | 1.0 | 0.0 | 9.189928E-5 | 8.469368E-5 | 8.469368E-5 | 1.0 | 0.0 | 0.0011182994 | 0.0010306796 | 0.0010306796 | 1.0 | 0.0 | 0.011126885 | 0.010266087 | 0.010285882 | 1.0019282 | 2.0E-5 |
-| 6.3 | 1.9751555E-5 | 1.7743587E-5 | 1.7743587E-5 | 1.0 | 0.0 | 8.4646774E-5 | 7.604182E-5 | 7.604182E-5 | 1.0 | 0.0 | 0.0010300872 | 9.254326E-4 | 9.254326E-4 | 1.0 | 0.0 | 0.010253254 | 0.009222372 | 0.009242188 | 1.0021486 | 2.0E-5 |
-| 6.4 | 1.9751555E-5 | 1.7743587E-5 | 1.7743587E-5 | 1.0 | 0.0 | 8.4646774E-5 | 7.604182E-5 | 7.604182E-5 | 1.0 | 0.0 | 0.0010300872 | 9.254326E-4 | 9.254326E-4 | 1.0 | 0.0 | 0.010253254 | 0.009222372 | 0.009242188 | 1.0021486 | 2.0E-5 |
-| 6.5 | 1.9751555E-5 | 1.7743587E-5 | 1.7743587E-5 | 1.0 | 0.0 | 8.4646774E-5 | 7.604182E-5 | 7.604182E-5 | 1.0 | 0.0 | 0.0010300872 | 9.254326E-4 | 9.254326E-4 | 1.0 | 0.0 | 0.010253254 | 0.009222372 | 0.009242188 | 1.0021486 | 2.0E-5 |
-| 6.6 | 1.9188685E-5 | 1.700544E-5 | 1.700544E-5 | 1.0 | 0.0 | 8.2234634E-5 | 7.2878516E-5 | 7.2878516E-5 | 1.0 | 0.0 | 0.0010007467 | 8.8695093E-4 | 8.8695093E-4 | 1.0 | 0.0 | 0.00996252 | 0.008840903 | 0.008860726 | 1.0022422 | 2.0E-5 |
-| 6.7 | 1.7608272E-5 | 1.4734398E-5 | 1.4734398E-5 | 1.0 | 0.0 | 7.546184E-5 | 6.314595E-5 | 6.314595E-5 | 1.0 | 0.0 | 9.183606E-4 | 7.685405E-4 | 7.685405E-4 | 1.0 | 0.0 | 0.009145746 | 0.0076658325 | 0.007685679 | 1.002589 | 2.0E-5 |
-| 6.8 | 1.697165E-5 | 1.378502E-5 | 1.378502E-5 | 1.0 | 0.0 | 7.273361E-5 | 5.9077367E-5 | 5.9077367E-5 | 1.0 | 0.0 | 8.8517193E-4 | 7.1903825E-4 | 7.1903825E-4 | 1.0 | 0.0 | 0.008816543 | 0.007173533 | 0.0071933893 | 1.002768 | 2.0E-5 |
-| 6.9 | 1.600365E-5 | 1.2848269E-5 | 1.2848269E-5 | 1.0 | 0.0 | 6.858527E-5 | 5.506289E-5 | 5.506289E-5 | 1.0 | 0.0 | 8.347058E-4 | 6.701923E-4 | 6.701923E-4 | 1.0 | 0.0 | 0.008315775 | 0.0066875946 | 0.006707461 | 1.0029706 | 2.0E-5 |
-| 7.0 | 1.3314581E-5 | 1.0448936E-5 | 1.0448936E-5 | 1.0 | 0.0 | 5.7061243E-5 | 4.4780405E-5 | 4.4780405E-5 | 1.0 | 0.0 | 6.944992E-4 | 5.450677E-4 | 5.450677E-4 | 1.0 | 0.0 | 0.006923327 | 0.0054412354 | 0.0054611266 | 1.0036557 | 2.0E-5 |
-| 7.1 | 1.2865345E-5 | 9.938764E-6 | 9.938764E-6 | 1.0 | 0.0 | 5.5136024E-5 | 4.2594027E-5 | 4.2594027E-5 | 1.0 | 0.0 | 6.710743E-4 | 5.184614E-4 | 5.184614E-4 | 1.0 | 0.0 | 0.0066905143 | 0.0051758513 | 0.0051957476 | 1.0038441 | 2.0E-5 |
-| 7.2 | 1.1650051E-5 | 8.63485E-6 | 8.63485E-6 | 1.0 | 0.0 | 4.9927836E-5 | 3.7005986E-5 | 3.7005986E-5 | 1.0 | 0.0 | 6.0770183E-4 | 4.5045651E-4 | 4.5045651E-4 | 1.0 | 0.0 | 0.0060604266 | 0.004496858 | 0.004506813 | 1.0022137 | 1.0E-5 |
-| 7.3 | 1.0008533E-5 | 7.2018906E-6 | 7.2018906E-6 | 1.0 | 0.0 | 4.2893007E-5 | 3.086489E-5 | 3.086489E-5 | 1.0 | 0.0 | 5.220972E-4 | 3.7571666E-4 | 3.7571666E-4 | 1.0 | 0.0 | 0.005208723 | 0.0037512018 | 0.0037512018 | 1.0 | 0.0 |
-| 7.4 | 9.116759E-6 | 6.4108067E-6 | 6.4108067E-6 | 1.0 | 0.0 | 3.907124E-5 | 2.7474603E-5 | 2.7474603E-5 | 1.0 | 0.0 | 4.7558855E-4 | 3.3445333E-4 | 3.3445333E-4 | 1.0 | 0.0 | 0.00474572 | 0.003339652 | 0.003339652 | 1.0 | 0.0 |
-| 7.5 | 7.870524E-6 | 5.383148E-6 | 5.383148E-6 | 1.0 | 0.0 | 3.3730383E-5 | 2.3070439E-5 | 2.3070439E-5 | 1.0 | 0.0 | 4.1059E-4 | 2.8084766E-4 | 2.8084766E-4 | 1.0 | 0.0 | 0.0040983222 | 0.002805054 | 0.002805054 | 1.0 | 0.0 |
-| 7.6 | 6.9774537E-6 | 4.678146E-6 | 4.678146E-6 | 1.0 | 0.0 | 2.990303E-5 | 2.004905E-5 | 2.004905E-5 | 1.0 | 0.0 | 3.640086E-4 | 2.4407101E-4 | 2.4407101E-4 | 1.0 | 0.0 | 0.003634129 | 0.002438146 | 0.002438146 | 1.0 | 0.0 |
-| 7.7 | 4.1616954E-6 | 2.3286575E-6 | 2.3286575E-6 | 1.0 | 0.0 | 1.7835715E-5 | 9.979926E-6 | 9.979926E-6 | 1.0 | 0.0 | 2.171282E-4 | 1.2149957E-4 | 1.2149957E-4 | 1.0 | 0.0 | 0.0021691616 | 0.0012144046 | 0.0012144046 | 1.0 | 0.0 |
-| 7.8 | 2.2692414E-7 | 9.386795E-8 | 9.386795E-8 | 1.0 | 0.0 | 9.725317E-7 | 4.0229116E-7 | 4.0229116E-7 | 1.0 | 0.0 | 1.1840509E-5 | 4.8978873E-6 | 4.8978873E-6 | 1.0 | 0.0 | 1.1839878E-4 | 4.897812E-5 | 4.897812E-5 | 1.0 | 0.0 |
-| 7.9 | 6.676829E-9 | 3.440201E-9 | 3.440201E-9 | 1.0 | 0.0 | 2.861498E-8 | 1.4743717E-8 | 1.4743717E-8 | 1.0 | 0.0 | 3.4838732E-7 | 1.7950475E-7 | 1.7950475E-7 | 1.0 | 0.0 | 3.4838679E-6 | 1.7950462E-6 | 1.7950462E-6 | 1.0 | 0.0 |
-
-## San Diego Trough north alt1
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](San_Diego_Trough_north_alt1_1wk.png) | ![MPD](San_Diego_Trough_north_alt1_1mo.png) | ![MPD](San_Diego_Trough_north_alt1_1yr.png) | ![MPD](San_Diego_Trough_north_alt1_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 7.329252E-5 | 8.821782E-5 | 8.821782E-5 | 1.0 | 0.0 | 3.14073E-4 | 3.7802523E-4 | 3.7802523E-4 | 1.0 | 0.0 | 0.0038171355 | 0.0045933835 | 0.0046033375 | 1.002167 | 1.0E-5 | 0.03752231 | 0.045048345 | 0.04506744 | 1.0004239 | 2.0E-5 |
-| 6.1 | 3.7940346E-5 | 4.4888136E-5 | 4.4888136E-5 | 1.0 | 0.0 | 1.6259136E-4 | 1.9236411E-4 | 1.9236411E-4 | 1.0 | 0.0 | 0.0019777524 | 0.002339605 | 0.0023495816 | 1.0042642 | 1.0E-5 | 0.019602431 | 0.02315826 | 0.023177797 | 1.0008436 | 2.0E-5 |
-| 6.2 | 2.8645263E-5 | 3.3298827E-5 | 3.3298827E-5 | 1.0 | 0.0 | 1.2275964E-4 | 1.4270161E-4 | 1.4270161E-4 | 1.0 | 0.0 | 0.0014935739 | 0.0017360242 | 0.0017360242 | 1.0 | 0.0 | 0.0148357535 | 0.01722729 | 0.017237118 | 1.0005704 | 1.0E-5 |
-| 6.3 | 2.8645263E-5 | 3.3298827E-5 | 3.3298827E-5 | 1.0 | 0.0 | 1.2275964E-4 | 1.4270161E-4 | 1.4270161E-4 | 1.0 | 0.0 | 0.0014935739 | 0.0017360242 | 0.0017360242 | 1.0 | 0.0 | 0.0148357535 | 0.01722729 | 0.017237118 | 1.0005704 | 1.0E-5 |
-| 6.4 | 2.2204576E-5 | 2.5449715E-5 | 2.5449715E-5 | 1.0 | 0.0 | 9.5159E-5 | 1.0906571E-4 | 1.0906571E-4 | 1.0 | 0.0 | 0.001157945 | 0.0013270761 | 0.0013270761 | 1.0 | 0.0 | 0.011519298 | 0.013192673 | 0.013192673 | 1.0 | 0.0 |
-| 6.5 | 2.1004838E-5 | 2.4025992E-5 | 2.4025992E-5 | 1.0 | 0.0 | 9.0017624E-5 | 1.0296453E-4 | 1.0296453E-4 | 1.0 | 0.0 | 0.0010954136 | 0.0012528815 | 0.0012528815 | 1.0 | 0.0 | 0.010900296 | 0.012459257 | 0.012459257 | 1.0 | 0.0 |
-| 6.6 | 1.820557E-5 | 2.0705853E-5 | 2.0705853E-5 | 1.0 | 0.0 | 7.802154E-5 | 8.873638E-5 | 8.873638E-5 | 1.0 | 0.0 | 9.4949827E-4 | 0.0010798355 | 0.0010798355 | 1.0 | 0.0 | 0.009454516 | 0.0107465545 | 0.0107465545 | 1.0 | 0.0 |
-| 6.7 | 1.5884485E-5 | 1.7984537E-5 | 1.7984537E-5 | 1.0 | 0.0 | 6.807459E-5 | 7.707433E-5 | 7.707433E-5 | 1.0 | 0.0 | 8.284929E-4 | 9.379787E-4 | 9.379787E-4 | 1.0 | 0.0 | 0.008254109 | 0.009340564 | 0.009340564 | 1.0 | 0.0 |
-| 6.8 | 1.4331171E-5 | 1.6201857E-5 | 1.6201857E-5 | 1.0 | 0.0 | 6.141786E-5 | 6.943469E-5 | 6.943469E-5 | 1.0 | 0.0 | 7.4750587E-4 | 8.450415E-4 | 8.450415E-4 | 1.0 | 0.0 | 0.0074499645 | 0.008418549 | 0.008418549 | 1.0 | 0.0 |
-| 6.9 | 1.2574203E-5 | 1.4206525E-5 | 1.4206525E-5 | 1.0 | 0.0 | 5.3888325E-5 | 6.0883693E-5 | 6.0883693E-5 | 1.0 | 0.0 | 6.558929E-4 | 7.4100826E-4 | 7.4100826E-4 | 1.0 | 0.0 | 0.0065396037 | 0.0073855603 | 0.0073855603 | 1.0 | 0.0 |
-| 7.0 | 1.0883844E-5 | 1.2289855E-5 | 1.2289855E-5 | 1.0 | 0.0 | 4.664421E-5 | 5.2669748E-5 | 5.2669748E-5 | 1.0 | 0.0 | 5.677453E-4 | 6.410665E-4 | 6.410665E-4 | 1.0 | 0.0 | 0.00566297 | 0.0063923006 | 0.0063923006 | 1.0 | 0.0 |
-| 7.1 | 9.393088E-6 | 1.0607533E-5 | 1.0607533E-5 | 1.0 | 0.0 | 4.025547E-5 | 4.5460067E-5 | 4.5460067E-5 | 1.0 | 0.0 | 4.900001E-4 | 5.533365E-4 | 5.533365E-4 | 1.0 | 0.0 | 0.0048892107 | 0.005519684 | 0.005519684 | 1.0 | 0.0 |
-| 7.2 | 8.190791E-6 | 9.259077E-6 | 9.259077E-6 | 1.0 | 0.0 | 3.510292E-5 | 3.9681163E-5 | 3.9681163E-5 | 1.0 | 0.0 | 4.2729423E-4 | 4.830117E-4 | 4.830117E-4 | 1.0 | 0.0 | 0.0042647356 | 0.004819699 | 0.004819699 | 1.0 | 0.0 |
-| 7.3 | 6.268162E-6 | 7.0900633E-6 | 7.0900633E-6 | 1.0 | 0.0 | 2.6863276E-5 | 3.0385634E-5 | 3.0385634E-5 | 1.0 | 0.0 | 3.2701128E-4 | 3.698827E-4 | 3.698827E-4 | 1.0 | 0.0 | 0.003265305 | 0.0036927166 | 0.0036927166 | 1.0 | 0.0 |
-| 7.4 | 4.985186E-6 | 5.64296E-6 | 5.64296E-6 | 1.0 | 0.0 | 2.1364907E-5 | 2.4183892E-5 | 2.4183892E-5 | 1.0 | 0.0 | 2.600867E-4 | 2.9439948E-4 | 2.9439948E-4 | 1.0 | 0.0 | 0.002597825 | 0.0029401362 | 0.0029401362 | 1.0 | 0.0 |
-| 7.5 | 1.7489613E-6 | 1.9697716E-6 | 1.9697716E-6 | 1.0 | 0.0 | 7.495527E-6 | 8.441852E-6 | 8.441852E-6 | 1.0 | 0.0 | 9.125422E-5 | 1.0277492E-4 | 1.0277492E-4 | 1.0 | 0.0 | 9.1216754E-4 | 0.001027296 | 0.001027296 | 1.0 | 0.0 |
-| 7.6 | 1.6988751E-7 | 1.7534032E-7 | 1.7534032E-7 | 1.0 | 0.0 | 7.2808916E-7 | 7.5145834E-7 | 7.5145834E-7 | 1.0 | 0.0 | 8.864449E-6 | 9.148969E-6 | 9.148969E-6 | 1.0 | 0.0 | 8.8640954E-5 | 9.1486116E-5 | 9.1486116E-5 | 1.0 | 0.0 |
-
-## San Jacinto (Superstition Mtn)
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](San_Jacinto_Superstition_Mtn_1wk.png) | ![MPD](San_Jacinto_Superstition_Mtn_1mo.png) | ![MPD](San_Jacinto_Superstition_Mtn_1yr.png) | ![MPD](San_Jacinto_Superstition_Mtn_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 6.4193904E-5 | 9.6014155E-5 | 9.6014155E-5 | 1.0 | 0.0 | 2.7508775E-4 | 4.1143413E-4 | 4.1143413E-4 | 1.0 | 0.0 | 0.0033440501 | 0.004999107 | 0.0050190073 | 1.0039808 | 2.0E-5 | 0.03294174 | 0.048833773 | 0.048852798 | 1.0003896 | 2.0E-5 |
-| 6.1 | 6.4193904E-5 | 9.6014155E-5 | 9.6014155E-5 | 1.0 | 0.0 | 2.7508775E-4 | 4.1143413E-4 | 4.1143413E-4 | 1.0 | 0.0 | 0.0033440501 | 0.004999107 | 0.0050190073 | 1.0039808 | 2.0E-5 | 0.03294174 | 0.048833773 | 0.048852798 | 1.0003896 | 2.0E-5 |
-| 6.2 | 5.7023593E-5 | 8.3162966E-5 | 8.3162966E-5 | 1.0 | 0.0 | 2.4436394E-4 | 3.5637344E-4 | 3.5637344E-4 | 1.0 | 0.0 | 0.002971072 | 0.004331852 | 0.0043517654 | 1.004597 | 2.0E-5 | 0.029316625 | 0.04251328 | 0.042532433 | 1.0004505 | 2.0E-5 |
-| 6.3 | 5.6940098E-5 | 8.3008315E-5 | 8.3008315E-5 | 1.0 | 0.0 | 2.4400617E-4 | 3.5571083E-4 | 3.5571083E-4 | 1.0 | 0.0 | 0.002966728 | 0.004323817 | 0.0043437304 | 1.0046055 | 2.0E-5 | 0.029274331 | 0.04243653 | 0.04245568 | 1.0004513 | 2.0E-5 |
-| 6.4 | 5.4171585E-5 | 7.75018E-5 | 7.75018E-5 | 1.0 | 0.0 | 2.3214328E-4 | 3.3211758E-4 | 3.3211758E-4 | 1.0 | 0.0 | 0.0028226813 | 0.004037683 | 0.0040576025 | 1.0049334 | 2.0E-5 | 0.02787096 | 0.0397257 | 0.039744906 | 1.0004834 | 2.0E-5 |
-| 6.5 | 4.375144E-5 | 5.6439036E-5 | 5.6439036E-5 | 1.0 | 0.0 | 1.874927E-4 | 2.4186578E-4 | 2.4186578E-4 | 1.0 | 0.0 | 0.0022803338 | 0.0029419153 | 0.0029618563 | 1.0067782 | 2.0E-5 | 0.022570757 | 0.029245816 | 0.029265232 | 1.0006639 | 2.0E-5 |
-| 6.6 | 2.772192E-5 | 2.55052E-5 | 2.55052E-5 | 1.0 | 0.0 | 1.1880282E-4 | 1.09303524E-4 | 1.09303524E-4 | 1.0 | 0.0 | 0.0014454646 | 0.0013299774 | 0.0013399641 | 1.0075089 | 1.0E-5 | 0.014360986 | 0.01354923 | 0.013559095 | 1.000728 | 1.0E-5 |
-| 6.7 | 2.7124124E-5 | 2.471615E-5 | 2.471615E-5 | 1.0 | 0.0 | 1.1624106E-4 | 1.0592216E-4 | 1.0592216E-4 | 1.0 | 0.0 | 0.0014143161 | 0.0012888586 | 0.0012988457 | 1.0077488 | 1.0E-5 | 0.014053487 | 0.013142647 | 0.0131525155 | 1.0007509 | 1.0E-5 |
-| 6.8 | 2.5475807E-5 | 2.2180813E-5 | 2.2180813E-5 | 1.0 | 0.0 | 1.0917746E-4 | 9.5057236E-5 | 9.5057236E-5 | 1.0 | 0.0 | 0.001328425 | 0.0011567194 | 0.0011667077 | 1.0086352 | 1.0E-5 | 0.0132051185 | 0.011830691 | 0.011840573 | 1.0008353 | 1.0E-5 |
-| 6.9 | 2.1162023E-5 | 1.7641334E-5 | 1.7641334E-5 | 1.0 | 0.0 | 9.069123E-5 | 7.560355E-5 | 7.560355E-5 | 1.0 | 0.0 | 0.0011036064 | 9.200883E-4 | 9.3007914E-4 | 1.0108585 | 1.0E-5 | 0.010981417 | 0.009454764 | 0.00946467 | 1.0010476 | 1.0E-5 |
-| 7.0 | 1.8754288E-5 | 1.6175962E-5 | 1.6175962E-5 | 1.0 | 0.0 | 8.037304E-5 | 6.932372E-5 | 6.932372E-5 | 1.0 | 0.0 | 9.781026E-4 | 8.43692E-4 | 8.5368357E-4 | 1.0118426 | 1.0E-5 | 0.009738087 | 0.008677567 | 0.008687481 | 1.0011424 | 1.0E-5 |
-| 7.1 | 1.8678527E-5 | 1.610109E-5 | 1.610109E-5 | 1.0 | 0.0 | 8.0048376E-5 | 6.900286E-5 | 6.900286E-5 | 1.0 | 0.0 | 9.7415317E-4 | 8.397885E-4 | 8.4978016E-4 | 1.0118978 | 1.0E-5 | 0.009698939 | 0.008638517 | 0.008648431 | 1.0011476 | 1.0E-5 |
-| 7.2 | 1.7804578E-5 | 1.5395515E-5 | 1.5395515E-5 | 1.0 | 0.0 | 7.6303106E-5 | 6.5979126E-5 | 6.5979126E-5 | 1.0 | 0.0 | 9.285943E-4 | 8.0300204E-4 | 8.12994E-4 | 1.0124433 | 1.0E-5 | 0.009247236 | 0.008269752 | 0.00827967 | 1.0011992 | 1.0E-5 |
-| 7.3 | 1.6583685E-5 | 1.4544454E-5 | 1.4544454E-5 | 1.0 | 0.0 | 7.1070994E-5 | 6.233189E-5 | 6.233189E-5 | 1.0 | 0.0 | 8.649459E-4 | 7.586286E-4 | 7.68621E-4 | 1.0131717 | 1.0E-5 | 0.00861587 | 0.007824981 | 0.007834902 | 1.0012679 | 1.0E-5 |
-| 7.4 | 1.6387552E-5 | 1.4409311E-5 | 1.4409311E-5 | 1.0 | 0.0 | 7.023047E-5 | 6.175274E-5 | 6.175274E-5 | 1.0 | 0.0 | 8.5472054E-4 | 7.5158227E-4 | 7.615748E-4 | 1.0132953 | 1.0E-5 | 0.008514405 | 0.007754348 | 0.007764271 | 1.0012796 | 1.0E-5 |
-| 7.5 | 1.5790754E-5 | 1.4049853E-5 | 1.4049853E-5 | 1.0 | 0.0 | 6.767291E-5 | 6.021228E-5 | 6.021228E-5 | 1.0 | 0.0 | 8.236062E-4 | 7.3283986E-4 | 7.4283255E-4 | 1.0136355 | 1.0E-5 | 0.008205604 | 0.0075648366 | 0.007574761 | 1.0013119 | 1.0E-5 |
-| 7.6 | 1.4248672E-5 | 1.3068457E-5 | 1.3068457E-5 | 1.0 | 0.0 | 6.106431E-5 | 5.6006476E-5 | 5.6006476E-5 | 1.0 | 0.0 | 7.432043E-4 | 6.816673E-4 | 6.9166045E-4 | 1.0146599 | 1.0E-5 | 0.007407237 | 0.0070472364 | 0.007057166 | 1.001409 | 1.0E-5 |
-| 7.7 | 1.15449975E-5 | 1.09166585E-5 | 1.09166585E-5 | 1.0 | 0.0 | 4.947762E-5 | 4.6784844E-5 | 4.6784844E-5 | 1.0 | 0.0 | 6.022235E-4 | 5.6945736E-4 | 5.794517E-4 | 1.0175506 | 1.0E-5 | 0.006005941 | 0.005916985 | 0.0059269257 | 1.00168 | 1.0E-5 |
-| 7.8 | 9.1391985E-6 | 9.5267715E-6 | 9.5267715E-6 | 1.0 | 0.0 | 3.9167408E-5 | 4.0828385E-5 | 4.0828385E-5 | 1.0 | 0.0 | 4.767588E-4 | 4.969728E-4 | 5.0696783E-4 | 1.0201118 | 1.0E-5 | 0.0047573727 | 0.0051832297 | 0.005193178 | 1.0019193 | 1.0E-5 |
-| 7.9 | 6.973017E-6 | 7.3932424E-6 | 7.3932424E-6 | 1.0 | 0.0 | 2.9884017E-5 | 3.1684944E-5 | 3.1684944E-5 | 1.0 | 0.0 | 3.6377716E-4 | 3.8569642E-4 | 3.9569256E-4 | 1.0259172 | 1.0E-5 | 0.0036318225 | 0.004057612 | 0.0040675714 | 1.0024545 | 1.0E-5 |
-| 8.0 | 5.7638235E-6 | 6.2700688E-6 | 6.2700688E-6 | 1.0 | 0.0 | 2.4701867E-5 | 2.687145E-5 | 2.687145E-5 | 1.0 | 0.0 | 3.0070372E-4 | 3.2711128E-4 | 3.37108E-4 | 1.0305606 | 1.0E-5 | 0.0030029714 | 0.0034587646 | 0.00346873 | 1.0028812 | 1.0E-5 |
-| 8.1 | 5.1124434E-6 | 5.5048636E-6 | 5.5048636E-6 | 1.0 | 0.0 | 2.1910288E-5 | 2.3592062E-5 | 2.3592062E-5 | 1.0 | 0.0 | 2.6672508E-4 | 2.87196E-4 | 2.971931E-4 | 1.0348095 | 1.0E-5 | 0.0026640517 | 0.0030451815 | 0.003055151 | 1.0032738 | 1.0E-5 |
-| 8.2 | 1.1075938E-6 | 5.3500304E-7 | 5.3500304E-7 | 1.0 | 0.0 | 4.7468216E-6 | 2.2928682E-6 | 2.2928682E-6 | 1.0 | 0.0 | 5.779102E-5 | 2.7915336E-5 | 2.7915336E-5 | 1.0 | 0.0 | 5.777599E-4 | 3.142146E-4 | 3.142146E-4 | 1.0 | 0.0 |
-| 8.3 | 1.3584393E-8 | 4.4866955E-9 | 4.4866955E-9 | 1.0 | 0.0 | 5.8218827E-8 | 1.9228695E-8 | 1.9228695E-8 | 1.0 | 0.0 | 7.0881396E-7 | 2.3410936E-7 | 2.3410936E-7 | 1.0 | 0.0 | 7.0881174E-6 | 2.6235152E-6 | 2.6235152E-6 | 1.0 | 0.0 |
-
-## Monte Vista - Shannon 2011 CFM
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Monte_Vista_Shannon_2011_CFM_1wk.png) | ![MPD](Monte_Vista_Shannon_2011_CFM_1mo.png) | ![MPD](Monte_Vista_Shannon_2011_CFM_1yr.png) | ![MPD](Monte_Vista_Shannon_2011_CFM_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.7907707E-5 | 2.7586655E-5 | 2.7586655E-5 | 1.0 | 0.0 | 1.19598975E-4 | 1.1822386E-4 | 1.1822386E-4 | 1.0 | 0.0 | 0.0014551448 | 0.0014385489 | 0.0014485345 | 1.0069414 | 1.0E-5 | 0.014456532 | 0.014321466 | 0.01434118 | 1.0013765 | 2.0E-5 |
-| 6.1 | 2.7907707E-5 | 2.7586655E-5 | 2.7586655E-5 | 1.0 | 0.0 | 1.19598975E-4 | 1.1822386E-4 | 1.1822386E-4 | 1.0 | 0.0 | 0.0014551448 | 0.0014385489 | 0.0014485345 | 1.0069414 | 1.0E-5 | 0.014456532 | 0.014321466 | 0.01434118 | 1.0013765 | 2.0E-5 |
-| 6.2 | 2.7907707E-5 | 2.7586655E-5 | 2.7586655E-5 | 1.0 | 0.0 | 1.19598975E-4 | 1.1822386E-4 | 1.1822386E-4 | 1.0 | 0.0 | 0.0014551448 | 0.0014385489 | 0.0014485345 | 1.0069414 | 1.0E-5 | 0.014456532 | 0.014321466 | 0.01434118 | 1.0013765 | 2.0E-5 |
-| 6.3 | 2.7907707E-5 | 2.7586655E-5 | 2.7586655E-5 | 1.0 | 0.0 | 1.19598975E-4 | 1.1822386E-4 | 1.1822386E-4 | 1.0 | 0.0 | 0.0014551448 | 0.0014385489 | 0.0014485345 | 1.0069414 | 1.0E-5 | 0.014456532 | 0.014321466 | 0.01434118 | 1.0013765 | 2.0E-5 |
-| 6.4 | 2.7907707E-5 | 2.7586655E-5 | 2.7586655E-5 | 1.0 | 0.0 | 1.19598975E-4 | 1.1822386E-4 | 1.1822386E-4 | 1.0 | 0.0 | 0.0014551448 | 0.0014385489 | 0.0014485345 | 1.0069414 | 1.0E-5 | 0.014456532 | 0.014321466 | 0.01434118 | 1.0013765 | 2.0E-5 |
-| 6.5 | 1.7990213E-5 | 1.664191E-5 | 1.664191E-5 | 1.0 | 0.0 | 7.709863E-5 | 7.1320894E-5 | 7.1320894E-5 | 1.0 | 0.0 | 9.382716E-4 | 8.680523E-4 | 8.680523E-4 | 1.0 | 0.0 | 0.0093431985 | 0.008670001 | 0.008670001 | 1.0 | 0.0 |
-| 6.6 | 9.650407E-6 | 7.4588243E-6 | 7.4588243E-6 | 1.0 | 0.0 | 4.135823E-5 | 3.1966043E-5 | 3.1966043E-5 | 1.0 | 0.0 | 5.0342013E-4 | 3.891249E-4 | 3.891249E-4 | 1.0 | 0.0 | 0.005022812 | 0.0039021273 | 0.0039021273 | 1.0 | 0.0 |
-| 6.7 | 9.62828E-6 | 7.436737E-6 | 7.436737E-6 | 1.0 | 0.0 | 4.1263404E-5 | 3.1871386E-5 | 3.1871386E-5 | 1.0 | 0.0 | 5.022661E-4 | 3.8797286E-4 | 3.8797286E-4 | 1.0 | 0.0 | 0.0050113243 | 0.0038906476 | 0.0038906476 | 1.0 | 0.0 |
-| 6.8 | 6.887523E-6 | 4.463149E-6 | 4.463149E-6 | 1.0 | 0.0 | 2.9517621E-5 | 1.9127654E-5 | 1.9127654E-5 | 1.0 | 0.0 | 3.5931775E-4 | 2.3285652E-4 | 2.3285652E-4 | 1.0 | 0.0 | 0.0035873733 | 0.0023432903 | 0.0023432903 | 1.0 | 0.0 |
-| 6.9 | 6.2722347E-6 | 3.8049966E-6 | 3.8049966E-6 | 1.0 | 0.0 | 2.6880729E-5 | 1.6307038E-5 | 1.6307038E-5 | 1.0 | 0.0 | 3.2722374E-4 | 1.9852213E-4 | 1.9852213E-4 | 1.0 | 0.0 | 0.003267423 | 0.002000599 | 0.002000599 | 1.0 | 0.0 |
-| 7.0 | 5.5320347E-6 | 3.0321132E-6 | 3.0321132E-6 | 1.0 | 0.0 | 2.3708504E-5 | 1.2994717E-5 | 1.2994717E-5 | 1.0 | 0.0 | 2.8861282E-4 | 1.5820102E-4 | 1.5820102E-4 | 1.0 | 0.0 | 0.0028823826 | 0.0015980211 | 0.0015980211 | 1.0 | 0.0 |
-| 7.1 | 3.8794055E-6 | 1.2852364E-6 | 1.2852364E-6 | 1.0 | 0.0 | 1.6625918E-5 | 5.5081446E-6 | 5.5081446E-6 | 1.0 | 0.0 | 2.0240174E-4 | 6.705961E-5 | 6.705961E-5 | 1.0 | 0.0 | 0.002022175 | 6.8735634E-4 | 6.8735634E-4 | 1.0 | 0.0 |
-| 7.2 | 3.4813652E-6 | 9.684858E-7 | 9.684858E-7 | 1.0 | 0.0 | 1.49200505E-5 | 4.150647E-6 | 4.150647E-6 | 1.0 | 0.0 | 1.8163648E-4 | 5.0532963E-5 | 5.0532963E-5 | 1.0 | 0.0 | 0.0018148809 | 5.2216504E-4 | 5.2216504E-4 | 1.0 | 0.0 |
-| 7.3 | 3.1682148E-6 | 7.7324756E-7 | 7.7324756E-7 | 1.0 | 0.0 | 1.3577992E-5 | 3.313914E-6 | 3.313914E-6 | 1.0 | 0.0 | 1.6529951E-4 | 4.0346156E-5 | 4.0346156E-5 | 1.0 | 0.0 | 0.0016517661 | 4.2031374E-4 | 4.2031374E-4 | 1.0 | 0.0 |
-| 7.4 | 2.9707667E-6 | 7.3587034E-7 | 7.3587034E-7 | 1.0 | 0.0 | 1.2731795E-5 | 3.153726E-6 | 3.153726E-6 | 1.0 | 0.0 | 1.5499859E-4 | 3.839594E-5 | 3.839594E-5 | 1.0 | 0.0 | 0.0015489052 | 4.0061006E-4 | 4.0061006E-4 | 1.0 | 0.0 |
-| 7.5 | 2.3462758E-6 | 6.0189757E-7 | 6.0189757E-7 | 1.0 | 0.0 | 1.0055429E-5 | 2.5795584E-6 | 2.5795584E-6 | 1.0 | 0.0 | 1.2241797E-4 | 3.1405674E-5 | 3.1405674E-5 | 1.0 | 0.0 | 0.0012235056 | 3.2898266E-4 | 3.2898266E-4 | 1.0 | 0.0 |
-| 7.6 | 2.112783E-6 | 5.261996E-7 | 5.261996E-7 | 1.0 | 0.0 | 9.054753E-6 | 2.2551392E-6 | 2.2551392E-6 | 1.0 | 0.0 | 1.1023604E-4 | 2.7455975E-5 | 2.7455975E-5 | 1.0 | 0.0 | 0.0011018137 | 2.8906539E-4 | 2.8906539E-4 | 1.0 | 0.0 |
-| 7.7 | 1.7022471E-6 | 4.2406643E-7 | 4.2406643E-7 | 1.0 | 0.0 | 7.2953244E-6 | 1.8174262E-6 | 1.8174262E-6 | 1.0 | 0.0 | 8.881695E-5 | 2.212694E-5 | 2.212694E-5 | 1.0 | 0.0 | 8.878146E-4 | 2.3446612E-4 | 2.3446612E-4 | 1.0 | 0.0 |
-| 7.8 | 7.230914E-7 | 3.7367803E-7 | 3.7367803E-7 | 1.0 | 0.0 | 3.0989595E-6 | 1.6014762E-6 | 1.6014762E-6 | 1.0 | 0.0 | 3.772918E-5 | 1.94978E-5 | 1.94978E-5 | 1.0 | 0.0 | 3.7722773E-4 | 2.0770078E-4 | 2.0770078E-4 | 1.0 | 0.0 |
-| 7.9 | 4.3588446E-7 | 3.4377132E-7 | 3.4377132E-7 | 1.0 | 0.0 | 1.868075E-6 | 1.4733048E-6 | 1.4733048E-6 | 1.0 | 0.0 | 2.2743576E-5 | 1.793734E-5 | 1.793734E-5 | 1.0 | 0.0 | 2.2741247E-4 | 1.9032517E-4 | 1.9032517E-4 | 1.0 | 0.0 |
-| 8.0 | 2.3317523E-7 | 3.157609E-7 | 3.157609E-7 | 1.0 | 0.0 | 9.99322E-7 | 1.3532604E-6 | 1.3532604E-6 | 1.0 | 0.0 | 1.2166677E-5 | 1.647582E-5 | 1.647582E-5 | 1.0 | 0.0 | 1.21660116E-4 | 1.7431752E-4 | 1.7431752E-4 | 1.0 | 0.0 |
-| 8.1 | 1.4662456E-7 | 2.0345128E-7 | 2.0345128E-7 | 1.0 | 0.0 | 6.283908E-7 | 8.7193376E-7 | 8.7193376E-7 | 1.0 | 0.0 | 7.650631E-6 | 1.0615743E-5 | 1.0615743E-5 | 1.0 | 0.0 | 7.650368E-5 | 1.1151567E-4 | 1.1151567E-4 | 1.0 | 0.0 |
-| 8.2 | 5.4931775E-9 | 5.085425E-9 | 5.085425E-9 | 1.0 | 0.0 | 2.3542189E-8 | 2.1794678E-8 | 2.1794678E-8 | 1.0 | 0.0 | 2.8662612E-7 | 2.653502E-7 | 2.653502E-7 | 1.0 | 0.0 | 2.8662573E-6 | 2.7590645E-6 | 2.7590645E-6 | 1.0 | 0.0 |
-
 ## Great Valley 03a Dunnigan Hills
 *[(top)](#table-of-contents)*
 
@@ -3665,302 +3962,64 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 6.3 | 1.9339366E-6 | 2.1104522E-6 | 2.1104522E-6 | 1.0 | 0.0 | 8.288273E-6 | 9.04478E-6 | 9.04478E-6 | 1.0 | 0.0 | 1.00905054E-4 | 1.10117486E-4 | 1.10117486E-4 | 1.0 | 0.0 | 0.0010085925 | 0.0011009092 | 0.0011009092 | 1.0 | 0.0 |
 | 6.4 | 1.3142635E-6 | 1.4340352E-6 | 1.4340352E-6 | 1.0 | 0.0 | 5.6325457E-6 | 6.145865E-6 | 6.145865E-6 | 1.0 | 0.0 | 6.857408E-5 | 7.4825904E-5 | 7.4825904E-5 | 1.0 | 0.0 | 6.8552926E-4 | 7.482591E-4 | 7.482591E-4 | 1.0 | 0.0 |
 
-## Sierra Madre
+## Channel Islands Western Deep Ramp
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Sierra_Madre_1wk.png) | ![MPD](Sierra_Madre_1mo.png) | ![MPD](Sierra_Madre_1yr.png) | ![MPD](Sierra_Madre_10yr.png) |
+| ![MPD](Channel_Islands_Western_Deep_Ramp_1wk.png) | ![MPD](Channel_Islands_Western_Deep_Ramp_1mo.png) | ![MPD](Channel_Islands_Western_Deep_Ramp_1yr.png) | ![MPD](Channel_Islands_Western_Deep_Ramp_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.3379373E-5 | 1.1001739E-5 | 1.1001739E-5 | 1.0 | 0.0 | 5.7338908E-5 | 4.7149464E-5 | 4.7149464E-5 | 1.0 | 0.0 | 6.978776E-4 | 5.73895E-4 | 5.8388925E-4 | 1.0174148 | 1.0E-5 | 0.0069569005 | 0.005724494 | 0.0057443795 | 1.0034738 | 2.0E-5 |
-| 6.1 | 1.3379373E-5 | 1.1001739E-5 | 1.1001739E-5 | 1.0 | 0.0 | 5.7338908E-5 | 4.7149464E-5 | 4.7149464E-5 | 1.0 | 0.0 | 6.978776E-4 | 5.73895E-4 | 5.8388925E-4 | 1.0174148 | 1.0E-5 | 0.0069569005 | 0.005724494 | 0.0057443795 | 1.0034738 | 2.0E-5 |
-| 6.2 | 1.3379373E-5 | 1.1001739E-5 | 1.1001739E-5 | 1.0 | 0.0 | 5.7338908E-5 | 4.7149464E-5 | 4.7149464E-5 | 1.0 | 0.0 | 6.978776E-4 | 5.73895E-4 | 5.8388925E-4 | 1.0174148 | 1.0E-5 | 0.0069569005 | 0.005724494 | 0.0057443795 | 1.0034738 | 2.0E-5 |
-| 6.3 | 1.3379373E-5 | 1.1001739E-5 | 1.1001739E-5 | 1.0 | 0.0 | 5.7338908E-5 | 4.7149464E-5 | 4.7149464E-5 | 1.0 | 0.0 | 6.978776E-4 | 5.73895E-4 | 5.8388925E-4 | 1.0174148 | 1.0E-5 | 0.0069569005 | 0.005724494 | 0.0057443795 | 1.0034738 | 2.0E-5 |
-| 6.4 | 1.3379373E-5 | 1.1001739E-5 | 1.1001739E-5 | 1.0 | 0.0 | 5.7338908E-5 | 4.7149464E-5 | 4.7149464E-5 | 1.0 | 0.0 | 6.978776E-4 | 5.73895E-4 | 5.8388925E-4 | 1.0174148 | 1.0E-5 | 0.0069569005 | 0.005724494 | 0.0057443795 | 1.0034738 | 2.0E-5 |
-| 6.5 | 1.26563245E-5 | 1.0231176E-5 | 1.0231176E-5 | 1.0 | 0.0 | 5.4240263E-5 | 4.3847165E-5 | 4.3847165E-5 | 1.0 | 0.0 | 6.601751E-4 | 5.3370954E-4 | 5.437042E-4 | 1.0187268 | 1.0E-5 | 0.006582173 | 0.0053246 | 0.0053444933 | 1.0037361 | 2.0E-5 |
-| 6.6 | 1.26563245E-5 | 1.0231176E-5 | 1.0231176E-5 | 1.0 | 0.0 | 5.4240263E-5 | 4.3847165E-5 | 4.3847165E-5 | 1.0 | 0.0 | 6.601751E-4 | 5.3370954E-4 | 5.437042E-4 | 1.0187268 | 1.0E-5 | 0.006582173 | 0.0053246 | 0.0053444933 | 1.0037361 | 2.0E-5 |
-| 6.7 | 1.2502474E-5 | 1.0067316E-5 | 1.0067316E-5 | 1.0 | 0.0 | 5.3580934E-5 | 4.3144933E-5 | 4.3144933E-5 | 1.0 | 0.0 | 6.521526E-4 | 5.25164E-4 | 5.3515873E-4 | 1.0190316 | 1.0E-5 | 0.0065024206 | 0.005239549 | 0.005259444 | 1.0037972 | 2.0E-5 |
-| 6.8 | 1.2454966E-5 | 1.00196E-5 | 1.00196E-5 | 1.0 | 0.0 | 5.3377335E-5 | 4.2940443E-5 | 4.2940443E-5 | 1.0 | 0.0 | 6.4967526E-4 | 5.226756E-4 | 5.3267035E-4 | 1.0191224 | 1.0E-5 | 0.006477792 | 0.005214781 | 0.005234677 | 1.0038153 | 2.0E-5 |
-| 6.9 | 1.2225574E-5 | 9.793572E-6 | 9.793572E-6 | 1.0 | 0.0 | 5.2394265E-5 | 4.197178E-5 | 4.197178E-5 | 1.0 | 0.0 | 6.3771347E-4 | 5.1088765E-4 | 5.2088255E-4 | 1.0195638 | 1.0E-5 | 0.006358865 | 0.005097448 | 0.005117346 | 1.0039035 | 2.0E-5 |
-| 7.0 | 1.182946E-5 | 9.400103E-6 | 9.400103E-6 | 1.0 | 0.0 | 5.06967E-5 | 4.028554E-5 | 4.028554E-5 | 1.0 | 0.0 | 6.1705755E-4 | 4.903671E-4 | 5.003622E-4 | 1.0203829 | 1.0E-5 | 0.006153469 | 0.0048931623 | 0.0049130647 | 1.0040673 | 2.0E-5 |
-| 7.1 | 1.14369095E-5 | 8.9870955E-6 | 8.9870955E-6 | 1.0 | 0.0 | 4.9014405E-5 | 3.851556E-5 | 3.851556E-5 | 1.0 | 0.0 | 5.9658696E-4 | 4.6882703E-4 | 4.7882236E-4 | 1.0213199 | 1.0E-5 | 0.005949879 | 0.0046786857 | 0.004698592 | 1.0042547 | 2.0E-5 |
-| 7.2 | 1.0836419E-5 | 8.400468E-6 | 8.400468E-6 | 1.0 | 0.0 | 4.644097E-5 | 3.6001515E-5 | 3.6001515E-5 | 1.0 | 0.0 | 5.652721E-4 | 4.382312E-4 | 4.482268E-4 | 1.022809 | 1.0E-5 | 0.0056383642 | 0.0043739676 | 0.0043938803 | 1.0045525 | 2.0E-5 |
-| 7.3 | 1.0403439E-5 | 8.021717E-6 | 8.021717E-6 | 1.0 | 0.0 | 4.4585406E-5 | 3.4378336E-5 | 3.4378336E-5 | 1.0 | 0.0 | 5.426921E-4 | 4.1847676E-4 | 4.1847676E-4 | 1.0 | 0.0 | 0.005413687 | 0.004177183 | 0.004187141 | 1.002384 | 1.0E-5 |
-| 7.4 | 9.768864E-6 | 7.41532E-6 | 7.41532E-6 | 1.0 | 0.0 | 4.186589E-5 | 3.177956E-5 | 3.177956E-5 | 1.0 | 0.0 | 5.09598E-4 | 3.8684835E-4 | 3.8684835E-4 | 1.0 | 0.0 | 0.0050843097 | 0.0038620413 | 0.0038720025 | 1.0025793 | 1.0E-5 |
-| 7.5 | 8.687089E-6 | 6.450897E-6 | 6.450897E-6 | 1.0 | 0.0 | 3.722985E-5 | 2.7646412E-5 | 2.7646412E-5 | 1.0 | 0.0 | 4.5317915E-4 | 3.3654395E-4 | 3.3654395E-4 | 1.0 | 0.0 | 0.004522561 | 0.0033606302 | 0.0033705966 | 1.0029657 | 1.0E-5 |
-| 7.6 | 6.3506063E-6 | 4.4309877E-6 | 4.4309877E-6 | 1.0 | 0.0 | 2.72166E-5 | 1.8989811E-5 | 1.8989811E-5 | 1.0 | 0.0 | 3.3131172E-4 | 2.3117667E-4 | 2.3117667E-4 | 1.0 | 0.0 | 0.003308182 | 0.0023095869 | 0.0023195636 | 1.0043198 | 1.0E-5 |
-| 7.7 | 4.62223E-6 | 2.9335897E-6 | 2.9335897E-6 | 1.0 | 0.0 | 1.9809406E-5 | 1.2572466E-5 | 1.2572466E-5 | 1.0 | 0.0 | 2.4115283E-4 | 1.5305905E-4 | 1.5305905E-4 | 1.0 | 0.0 | 0.0024089129 | 0.0015297374 | 0.0015397221 | 1.0065271 | 1.0E-5 |
-| 7.8 | 3.2145008E-6 | 1.9498889E-6 | 1.9498889E-6 | 1.0 | 0.0 | 1.3776359E-5 | 8.356639E-6 | 8.356639E-6 | 1.0 | 0.0 | 1.6771426E-4 | 1.0173735E-4 | 1.0173735E-4 | 1.0 | 0.0 | 0.0016758774 | 0.0010170521 | 0.0010170521 | 1.0 | 0.0 |
-| 7.9 | 1.0391769E-6 | 5.603997E-7 | 5.603997E-7 | 1.0 | 0.0 | 4.4536077E-6 | 2.4017108E-6 | 2.4017108E-6 | 1.0 | 0.0 | 5.4221324E-5 | 2.924044E-5 | 2.924044E-5 | 1.0 | 0.0 | 5.4208096E-4 | 2.9236634E-4 | 2.9236634E-4 | 1.0 | 0.0 |
-| 8.0 | 1.210983E-7 | 6.614803E-8 | 6.614803E-8 | 1.0 | 0.0 | 5.1899264E-7 | 2.8349154E-7 | 2.8349154E-7 | 1.0 | 0.0 | 6.3187167E-6 | 3.4515042E-6 | 3.4515042E-6 | 1.0 | 0.0 | 6.318537E-5 | 3.4514524E-5 | 3.4514524E-5 | 1.0 | 0.0 |
+| 6.0 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
+| 6.1 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
+| 6.2 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
+| 6.3 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
+| 6.4 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
+| 6.5 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
+| 6.6 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
+| 6.7 | 5.313309E-6 | 5.5253226E-6 | 5.5253226E-6 | 1.0 | 0.0 | 2.2771126E-5 | 2.3679762E-5 | 2.3679762E-5 | 1.0 | 0.0 | 2.772032E-4 | 2.8826704E-4 | 2.8826704E-4 | 1.0 | 0.0 | 0.0027685766 | 0.0028793344 | 0.0028793344 | 1.0 | 0.0 |
+| 6.8 | 5.313309E-6 | 5.5253226E-6 | 5.5253226E-6 | 1.0 | 0.0 | 2.2771126E-5 | 2.3679762E-5 | 2.3679762E-5 | 1.0 | 0.0 | 2.772032E-4 | 2.8826704E-4 | 2.8826704E-4 | 1.0 | 0.0 | 0.0027685766 | 0.0028793344 | 0.0028793344 | 1.0 | 0.0 |
+| 6.9 | 4.744377E-6 | 4.939506E-6 | 4.939506E-6 | 1.0 | 0.0 | 2.0332885E-5 | 2.116916E-5 | 2.116916E-5 | 1.0 | 0.0 | 2.4752476E-4 | 2.5770778E-4 | 2.5770778E-4 | 1.0 | 0.0 | 0.0024724922 | 0.0025744569 | 0.0025744569 | 1.0 | 0.0 |
+| 7.0 | 4.722209E-6 | 4.9165483E-6 | 4.9165483E-6 | 1.0 | 0.0 | 2.0237881E-5 | 2.1070773E-5 | 2.1070773E-5 | 1.0 | 0.0 | 2.4636835E-4 | 2.565102E-4 | 2.565102E-4 | 1.0 | 0.0 | 0.002460954 | 0.0025625085 | 0.0025625085 | 1.0 | 0.0 |
+| 7.1 | 4.611174E-6 | 4.8014826E-6 | 4.8014826E-6 | 1.0 | 0.0 | 1.9762025E-5 | 2.0577641E-5 | 2.0577641E-5 | 1.0 | 0.0 | 2.4057609E-4 | 2.5050773E-4 | 2.5050773E-4 | 1.0 | 0.0 | 0.002403158 | 0.0025026202 | 0.0025026202 | 1.0 | 0.0 |
+| 7.2 | 4.043994E-6 | 4.212092E-6 | 4.212092E-6 | 1.0 | 0.0 | 1.7331287E-5 | 1.8051716E-5 | 1.8051716E-5 | 1.0 | 0.0 | 2.10988E-4 | 2.1976106E-4 | 2.1976106E-4 | 1.0 | 0.0 | 0.002107878 | 0.002195788 | 0.002195788 | 1.0 | 0.0 |
+| 7.3 | 2.1233036E-6 | 2.229829E-6 | 2.229829E-6 | 1.0 | 0.0 | 9.099841E-6 | 9.5563755E-6 | 9.5563755E-6 | 1.0 | 0.0 | 1.1078493E-4 | 1.16342715E-4 | 1.16342715E-4 | 1.0 | 0.0 | 0.0011072971 | 0.0011628236 | 0.0011628236 | 1.0 | 0.0 |
+| 7.4 | 1.9051884E-6 | 2.001535E-6 | 2.001535E-6 | 1.0 | 0.0 | 8.165067E-6 | 8.577978E-6 | 8.577978E-6 | 1.0 | 0.0 | 9.940516E-5 | 1.04431936E-4 | 1.04431936E-4 | 1.0 | 0.0 | 9.93607E-4 | 0.0010438339 | 0.0010438339 | 1.0 | 0.0 |
+| 7.5 | 1.2408497E-6 | 1.3039086E-6 | 1.3039086E-6 | 1.0 | 0.0 | 5.317916E-6 | 5.588168E-6 | 5.588168E-6 | 1.0 | 0.0 | 6.4743705E-5 | 6.803384E-5 | 6.803384E-5 | 1.0 | 0.0 | 6.4724847E-4 | 6.801323E-4 | 6.801323E-4 | 1.0 | 0.0 |
+| 7.6 | 6.5440025E-7 | 6.886852E-7 | 6.886852E-7 | 1.0 | 0.0 | 2.8045695E-6 | 2.9515047E-6 | 2.9515047E-6 | 1.0 | 0.0 | 3.4145098E-5 | 3.5933994E-5 | 3.5933994E-5 | 1.0 | 0.0 | 3.4139853E-4 | 3.5928324E-4 | 3.5928324E-4 | 1.0 | 0.0 |
+| 7.7 | 3.985963E-7 | 4.1931597E-7 | 4.1931597E-7 | 1.0 | 0.0 | 1.7082689E-6 | 1.7970673E-6 | 1.7970673E-6 | 1.0 | 0.0 | 2.0797976E-5 | 2.1879086E-5 | 2.1879086E-5 | 1.0 | 0.0 | 2.0796029E-4 | 2.187705E-4 | 2.187705E-4 | 1.0 | 0.0 |
+| 7.8 | 3.706329E-8 | 3.8592386E-8 | 3.8592386E-8 | 1.0 | 0.0 | 1.5884267E-7 | 1.6539593E-7 | 1.6539593E-7 | 1.0 | 0.0 | 1.9339077E-6 | 2.0136938E-6 | 2.0136938E-6 | 1.0 | 0.0 | 1.933891E-5 | 2.0136767E-5 | 2.0136767E-5 | 1.0 | 0.0 |
 
-## Pitas Point (Lower)-Montalvo
+## Elysian Park (Lower CFM)
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Pitas_Point_Lower_Montalvo_1wk.png) | ![MPD](Pitas_Point_Lower_Montalvo_1mo.png) | ![MPD](Pitas_Point_Lower_Montalvo_1yr.png) | ![MPD](Pitas_Point_Lower_Montalvo_10yr.png) |
+| ![MPD](Elysian_Park_Lower_CFM_1wk.png) | ![MPD](Elysian_Park_Lower_CFM_1mo.png) | ![MPD](Elysian_Park_Lower_CFM_1yr.png) | ![MPD](Elysian_Park_Lower_CFM_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
-| 6.1 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
-| 6.2 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
-| 6.3 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
-| 6.4 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
-| 6.5 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
-| 6.6 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
-| 6.7 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
-| 6.8 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
-| 6.9 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
-| 7.0 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
-| 7.1 | 5.2543637E-6 | 4.837984E-6 | 4.837984E-6 | 1.0 | 0.0 | 2.2518509E-5 | 2.0734054E-5 | 2.0734054E-5 | 1.0 | 0.0 | 2.7412834E-4 | 2.5240818E-4 | 2.5240818E-4 | 1.0 | 0.0 | 0.0027379042 | 0.0025212474 | 0.002541197 | 1.0079126 | 2.0E-5 |
-| 7.2 | 5.2458695E-6 | 4.8291377E-6 | 4.8291377E-6 | 1.0 | 0.0 | 2.2482105E-5 | 2.0696141E-5 | 2.0696141E-5 | 1.0 | 0.0 | 2.7368523E-4 | 2.519467E-4 | 2.519467E-4 | 1.0 | 0.0 | 0.0027334841 | 0.0025166431 | 0.0025365928 | 1.0079271 | 2.0E-5 |
-| 7.3 | 5.22665E-6 | 4.8090546E-6 | 4.8090546E-6 | 1.0 | 0.0 | 2.2399736E-5 | 2.0610072E-5 | 2.0610072E-5 | 1.0 | 0.0 | 2.7268266E-4 | 2.5089906E-4 | 2.5089906E-4 | 1.0 | 0.0 | 0.002723483 | 0.0025061904 | 0.0025261403 | 1.0079602 | 2.0E-5 |
-| 7.4 | 5.210642E-6 | 4.7922667E-6 | 4.7922667E-6 | 1.0 | 0.0 | 2.233113E-5 | 2.0538126E-5 | 2.0538126E-5 | 1.0 | 0.0 | 2.718476E-4 | 2.500233E-4 | 2.500233E-4 | 1.0 | 0.0 | 0.002715153 | 0.0024974525 | 0.0025174026 | 1.0079882 | 2.0E-5 |
-| 7.5 | 5.1226016E-6 | 4.7001517E-6 | 4.7001517E-6 | 1.0 | 0.0 | 2.1953823E-5 | 2.0143352E-5 | 2.0143352E-5 | 1.0 | 0.0 | 2.67255E-4 | 2.4521802E-4 | 2.4521802E-4 | 1.0 | 0.0 | 0.0026693381 | 0.0024495062 | 0.0024694572 | 1.0081449 | 2.0E-5 |
-| 7.6 | 4.8796987E-6 | 4.4450467E-6 | 4.4450467E-6 | 1.0 | 0.0 | 2.0912828E-5 | 1.9050061E-5 | 1.9050061E-5 | 1.0 | 0.0 | 2.5458392E-4 | 2.3191012E-4 | 2.3191012E-4 | 1.0 | 0.0 | 0.0025429246 | 0.0023167117 | 0.0023366653 | 1.0086129 | 2.0E-5 |
-| 7.7 | 4.0834398E-6 | 3.609201E-6 | 3.609201E-6 | 1.0 | 0.0 | 1.7500339E-5 | 1.5467915E-5 | 1.5467915E-5 | 1.0 | 0.0 | 2.1304579E-4 | 1.8830581E-4 | 1.8830581E-4 | 1.0 | 0.0 | 0.0021284167 | 0.0018814863 | 0.0019014486 | 1.0106099 | 2.0E-5 |
-| 7.8 | 2.5445438E-6 | 2.1212766E-6 | 2.1212766E-6 | 1.0 | 0.0 | 1.0905142E-5 | 9.0911535E-6 | 9.0911535E-6 | 1.0 | 0.0 | 1.3276201E-4 | 1.1067922E-4 | 1.1067922E-4 | 1.0 | 0.0 | 0.0013268272 | 0.0011062457 | 0.0011162346 | 1.0090296 | 1.0E-5 |
-| 7.9 | 4.1677114E-7 | 3.32945E-7 | 3.32945E-7 | 1.0 | 0.0 | 1.7861609E-6 | 1.4269064E-6 | 1.4269064E-6 | 1.0 | 0.0 | 2.1746291E-5 | 1.737245E-5 | 1.737245E-5 | 1.0 | 0.0 | 2.1744163E-4 | 1.7371123E-4 | 1.7371123E-4 | 1.0 | 0.0 |
-| 8.0 | 7.791402E-9 | 5.6836544E-9 | 5.6836544E-9 | 1.0 | 0.0 | 3.3391725E-8 | 2.4358519E-8 | 2.4358519E-8 | 1.0 | 0.0 | 4.0654416E-7 | 2.9656493E-7 | 2.9656493E-7 | 1.0 | 0.0 | 4.065434E-6 | 2.9656476E-6 | 2.9656476E-6 | 1.0 | 0.0 |
-
-## Pleito
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Pleito_1wk.png) | ![MPD](Pleito_1mo.png) | ![MPD](Pleito_1yr.png) | ![MPD](Pleito_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.6763008E-5 | 2.4782541E-5 | 2.4782541E-5 | 1.0 | 0.0 | 7.183948E-5 | 1.0620697E-4 | 1.0620697E-4 | 1.0 | 0.0 | 8.742947E-4 | 0.0012923749 | 0.001302362 | 1.0077277 | 1.0E-5 | 0.00870863 | 0.01296333 | 0.012983072 | 1.0015228 | 2.0E-5 |
-| 6.1 | 1.6763008E-5 | 2.4782541E-5 | 2.4782541E-5 | 1.0 | 0.0 | 7.183948E-5 | 1.0620697E-4 | 1.0620697E-4 | 1.0 | 0.0 | 8.742947E-4 | 0.0012923749 | 0.001302362 | 1.0077277 | 1.0E-5 | 0.00870863 | 0.01296333 | 0.012983072 | 1.0015228 | 2.0E-5 |
-| 6.2 | 1.6763008E-5 | 2.4782541E-5 | 2.4782541E-5 | 1.0 | 0.0 | 7.183948E-5 | 1.0620697E-4 | 1.0620697E-4 | 1.0 | 0.0 | 8.742947E-4 | 0.0012923749 | 0.001302362 | 1.0077277 | 1.0E-5 | 0.00870863 | 0.01296333 | 0.012983072 | 1.0015228 | 2.0E-5 |
-| 6.3 | 1.6763008E-5 | 2.4782541E-5 | 2.4782541E-5 | 1.0 | 0.0 | 7.183948E-5 | 1.0620697E-4 | 1.0620697E-4 | 1.0 | 0.0 | 8.742947E-4 | 0.0012923749 | 0.001302362 | 1.0077277 | 1.0E-5 | 0.00870863 | 0.01296333 | 0.012983072 | 1.0015228 | 2.0E-5 |
-| 6.4 | 1.6763008E-5 | 2.4782541E-5 | 2.4782541E-5 | 1.0 | 0.0 | 7.183948E-5 | 1.0620697E-4 | 1.0620697E-4 | 1.0 | 0.0 | 8.742947E-4 | 0.0012923749 | 0.001302362 | 1.0077277 | 1.0E-5 | 0.00870863 | 0.01296333 | 0.012983072 | 1.0015228 | 2.0E-5 |
-| 6.5 | 1.6763008E-5 | 2.4782541E-5 | 2.4782541E-5 | 1.0 | 0.0 | 7.183948E-5 | 1.0620697E-4 | 1.0620697E-4 | 1.0 | 0.0 | 8.742947E-4 | 0.0012923749 | 0.001302362 | 1.0077277 | 1.0E-5 | 0.00870863 | 0.01296333 | 0.012983072 | 1.0015228 | 2.0E-5 |
-| 6.6 | 9.910213E-6 | 1.723304E-5 | 1.723304E-5 | 1.0 | 0.0 | 4.247165E-5 | 7.3853815E-5 | 7.3853815E-5 | 1.0 | 0.0 | 5.169696E-4 | 8.98803E-4 | 9.0879406E-4 | 1.0111159 | 1.0E-5 | 0.0051576863 | 0.009060032 | 0.00907985 | 1.0021875 | 2.0E-5 |
-| 6.7 | 9.910213E-6 | 1.723304E-5 | 1.723304E-5 | 1.0 | 0.0 | 4.247165E-5 | 7.3853815E-5 | 7.3853815E-5 | 1.0 | 0.0 | 5.169696E-4 | 8.98803E-4 | 9.0879406E-4 | 1.0111159 | 1.0E-5 | 0.0051576863 | 0.009060032 | 0.00907985 | 1.0021875 | 2.0E-5 |
-| 6.8 | 8.300162E-6 | 1.5492597E-5 | 1.5492597E-5 | 1.0 | 0.0 | 3.557164E-5 | 6.6395165E-5 | 6.6395165E-5 | 1.0 | 0.0 | 4.3299864E-4 | 8.0806273E-4 | 8.1805466E-4 | 1.0123652 | 1.0E-5 | 0.004321559 | 0.00815945 | 0.0081792865 | 1.0024312 | 2.0E-5 |
-| 6.9 | 8.183114E-6 | 1.5363803E-5 | 1.5363803E-5 | 1.0 | 0.0 | 3.5070017E-5 | 6.584322E-5 | 6.584322E-5 | 1.0 | 0.0 | 4.2689382E-4 | 8.013478E-4 | 8.1133976E-4 | 1.0124689 | 1.0E-5 | 0.0042607468 | 0.008092791 | 0.008112629 | 1.0024513 | 2.0E-5 |
-| 7.0 | 7.1748823E-6 | 1.4150565E-5 | 1.4150565E-5 | 1.0 | 0.0 | 3.0749135E-5 | 6.064387E-5 | 6.064387E-5 | 1.0 | 0.0 | 3.743064E-4 | 7.3808955E-4 | 7.3808955E-4 | 1.0 | 0.0 | 0.0037367654 | 0.007464133 | 0.0074740583 | 1.0013298 | 1.0E-5 |
-| 7.1 | 7.1671807E-6 | 1.4140933E-5 | 1.4140933E-5 | 1.0 | 0.0 | 3.0716128E-5 | 6.0602593E-5 | 6.0602593E-5 | 1.0 | 0.0 | 3.7390468E-4 | 7.3758734E-4 | 7.3758734E-4 | 1.0 | 0.0 | 0.0037327618 | 0.0074591446 | 0.00746907 | 1.0013306 | 1.0E-5 |
-| 7.2 | 7.0649667E-6 | 1.3988164E-5 | 1.3988164E-5 | 1.0 | 0.0 | 3.0278077E-5 | 5.99479E-5 | 5.99479E-5 | 1.0 | 0.0 | 3.6857324E-4 | 7.296218E-4 | 7.296218E-4 | 1.0 | 0.0 | 0.0036796255 | 0.007379872 | 0.0073897983 | 1.001345 | 1.0E-5 |
-| 7.3 | 7.02082E-6 | 1.3931584E-5 | 1.3931584E-5 | 1.0 | 0.0 | 3.008888E-5 | 5.9705428E-5 | 5.9705428E-5 | 1.0 | 0.0 | 3.6627054E-4 | 7.2667166E-4 | 7.2667166E-4 | 1.0 | 0.0 | 0.0036566744 | 0.0073503535 | 0.00736028 | 1.0013505 | 1.0E-5 |
-| 7.4 | 6.987146E-6 | 1.3891126E-5 | 1.3891126E-5 | 1.0 | 0.0 | 2.9944567E-5 | 5.953204E-5 | 5.953204E-5 | 1.0 | 0.0 | 3.6451413E-4 | 7.245621E-4 | 7.245621E-4 | 1.0 | 0.0 | 0.0036391679 | 0.007329279 | 0.0073392056 | 1.0013543 | 1.0E-5 |
-| 7.5 | 6.9494554E-6 | 1.3848016E-5 | 1.3848016E-5 | 1.0 | 0.0 | 2.9783041E-5 | 5.9347298E-5 | 5.9347298E-5 | 1.0 | 0.0 | 3.625482E-4 | 7.223143E-4 | 7.223143E-4 | 1.0 | 0.0 | 0.0036195726 | 0.0073069 | 0.007316827 | 1.0013586 | 1.0E-5 |
-| 7.6 | 6.92694E-6 | 1.3807103E-5 | 1.3807103E-5 | 1.0 | 0.0 | 2.9686547E-5 | 5.9171958E-5 | 5.9171958E-5 | 1.0 | 0.0 | 3.6137376E-4 | 7.20181E-4 | 7.20181E-4 | 1.0 | 0.0 | 0.0036078666 | 0.007285639 | 0.007295566 | 1.0013626 | 1.0E-5 |
-| 7.7 | 6.395867E-6 | 1.268542E-5 | 1.268542E-5 | 1.0 | 0.0 | 2.741057E-5 | 5.4364955E-5 | 5.4364955E-5 | 1.0 | 0.0 | 3.336726E-4 | 6.6169264E-4 | 6.6169264E-4 | 1.0 | 0.0 | 0.0033317201 | 0.006703919 | 0.0067138514 | 1.0014817 | 1.0E-5 |
-| 7.8 | 5.8664327E-6 | 1.1551571E-5 | 1.1551571E-5 | 1.0 | 0.0 | 2.5141611E-5 | 4.9505794E-5 | 4.9505794E-5 | 1.0 | 0.0 | 3.060561E-4 | 6.025666E-4 | 6.025666E-4 | 1.0 | 0.0 | 0.0030563495 | 0.0061086505 | 0.006118589 | 1.001627 | 1.0E-5 |
-| 7.9 | 3.7167474E-6 | 7.1235727E-6 | 7.1235727E-6 | 1.0 | 0.0 | 1.592882E-5 | 3.052924E-5 | 3.052924E-5 | 1.0 | 0.0 | 1.9391612E-4 | 3.7163027E-4 | 3.7163027E-4 | 1.0 | 0.0 | 0.0019374699 | 0.0037723172 | 0.0037822796 | 1.0026408 | 1.0E-5 |
-| 8.0 | 1.0903841E-6 | 1.2900235E-6 | 1.2900235E-6 | 1.0 | 0.0 | 4.6730665E-6 | 5.5286605E-6 | 5.5286605E-6 | 1.0 | 0.0 | 5.68931E-5 | 6.7309375E-5 | 6.7309375E-5 | 1.0 | 0.0 | 5.6878536E-4 | 6.952896E-4 | 6.952896E-4 | 1.0 | 0.0 |
-| 8.1 | 2.6894583E-7 | 1.1095561E-7 | 1.1095561E-7 | 1.0 | 0.0 | 1.1526245E-6 | 4.7552396E-7 | 4.7552396E-7 | 1.0 | 0.0 | 1.4033113E-5 | 5.789489E-6 | 5.789489E-6 | 1.0 | 0.0 | 1.4032227E-4 | 6.476579E-5 | 6.476579E-5 | 1.0 | 0.0 |
-| 8.2 | 5.2967013E-9 | 2.466248E-9 | 2.466248E-9 | 1.0 | 0.0 | 2.2700148E-8 | 1.0569635E-8 | 1.0569635E-8 | 1.0 | 0.0 | 2.7637427E-7 | 1.286853E-7 | 1.286853E-7 | 1.0 | 0.0 | 2.7637393E-6 | 1.4639884E-6 | 1.4639884E-6 | 1.0 | 0.0 |
-
-## Hollywood
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Hollywood_1wk.png) | ![MPD](Hollywood_1mo.png) | ![MPD](Hollywood_1yr.png) | ![MPD](Hollywood_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.24487615E-5 | 1.2593661E-5 | 2.2593536E-5 | 1.7940402 | 1.0E-5 | 5.3350745E-5 | 5.3971744E-5 | 6.397121E-5 | 1.1852721 | 1.0E-5 | 6.4935174E-4 | 6.569125E-4 | 6.768994E-4 | 1.0304254 | 2.0E-5 | 0.0064745755 | 0.0065501947 | 0.006570064 | 1.0030334 | 2.0E-5 |
-| 6.1 | 1.24487615E-5 | 1.2593661E-5 | 2.2593536E-5 | 1.7940402 | 1.0E-5 | 5.3350745E-5 | 5.3971744E-5 | 6.397121E-5 | 1.1852721 | 1.0E-5 | 6.4935174E-4 | 6.569125E-4 | 6.768994E-4 | 1.0304254 | 2.0E-5 | 0.0064745755 | 0.0065501947 | 0.006570064 | 1.0030334 | 2.0E-5 |
-| 6.2 | 1.24487615E-5 | 1.2593661E-5 | 2.2593536E-5 | 1.7940402 | 1.0E-5 | 5.3350745E-5 | 5.3971744E-5 | 6.397121E-5 | 1.1852721 | 1.0E-5 | 6.4935174E-4 | 6.569125E-4 | 6.768994E-4 | 1.0304254 | 2.0E-5 | 0.0064745755 | 0.0065501947 | 0.006570064 | 1.0030334 | 2.0E-5 |
-| 6.3 | 1.24487615E-5 | 1.2593661E-5 | 2.2593536E-5 | 1.7940402 | 1.0E-5 | 5.3350745E-5 | 5.3971744E-5 | 6.397121E-5 | 1.1852721 | 1.0E-5 | 6.4935174E-4 | 6.569125E-4 | 6.768994E-4 | 1.0304254 | 2.0E-5 | 0.0064745755 | 0.0065501947 | 0.006570064 | 1.0030334 | 2.0E-5 |
-| 6.4 | 1.2431024E-5 | 1.25742745E-5 | 2.2574148E-5 | 1.7952645 | 1.0E-5 | 5.327473E-5 | 5.388866E-5 | 6.3888125E-5 | 1.1855578 | 1.0E-5 | 6.4842677E-4 | 6.5590156E-4 | 6.7588844E-4 | 1.0304724 | 2.0E-5 | 0.0064653796 | 0.006540145 | 0.006560014 | 1.003038 | 2.0E-5 |
-| 6.5 | 1.1242222E-5 | 1.1318209E-5 | 1.1318209E-5 | 1.0 | 0.0 | 4.8180063E-5 | 4.8505724E-5 | 4.8505724E-5 | 1.0 | 0.0 | 5.864344E-4 | 5.9039984E-4 | 6.003939E-4 | 1.0169277 | 1.0E-5 | 0.0058488925 | 0.0058886 | 0.0058985413 | 1.0016882 | 1.0E-5 |
-| 6.6 | 1.1234066E-5 | 1.1309323E-5 | 1.1309323E-5 | 1.0 | 0.0 | 4.8145106E-5 | 4.846764E-5 | 4.846764E-5 | 1.0 | 0.0 | 5.86009E-4 | 5.8993645E-4 | 5.999305E-4 | 1.016941 | 1.0E-5 | 0.005844661 | 0.0058839903 | 0.0058939317 | 1.0016896 | 1.0E-5 |
-| 6.7 | 1.12294E-5 | 1.1304066E-5 | 1.1304066E-5 | 1.0 | 0.0 | 4.812511E-5 | 4.8445112E-5 | 4.8445112E-5 | 1.0 | 0.0 | 5.857657E-4 | 5.896623E-4 | 5.9965637E-4 | 1.0169488 | 1.0E-5 | 0.0058422405 | 0.0058812634 | 0.005891205 | 1.0016903 | 1.0E-5 |
-| 6.8 | 1.0252819E-5 | 1.0218808E-5 | 1.0218808E-5 | 1.0 | 0.0 | 4.3939912E-5 | 4.3794167E-5 | 4.3794167E-5 | 1.0 | 0.0 | 5.3483713E-4 | 5.3306564E-4 | 5.430603E-4 | 1.0187494 | 1.0E-5 | 0.005335517 | 0.005318096 | 0.005328043 | 1.0018704 | 1.0E-5 |
-| 6.9 | 9.252289E-6 | 9.110625E-6 | 9.110625E-6 | 1.0 | 0.0 | 3.9652066E-5 | 3.904496E-5 | 3.904496E-5 | 1.0 | 0.0 | 4.8265693E-4 | 4.7527032E-4 | 4.8526557E-4 | 1.0210307 | 1.0E-5 | 0.0048161 | 0.0047427122 | 0.004752665 | 1.0020984 | 1.0E-5 |
-| 7.0 | 8.474604E-6 | 8.258546E-6 | 8.258546E-6 | 1.0 | 0.0 | 3.6319227E-5 | 3.5393292E-5 | 3.5393292E-5 | 1.0 | 0.0 | 4.4209688E-4 | 4.308296E-4 | 4.4082527E-4 | 1.023201 | 1.0E-5 | 0.004412184 | 0.0043000937 | 0.004310051 | 1.0023155 | 1.0E-5 |
-| 7.1 | 6.643643E-6 | 6.2685863E-6 | 6.2685863E-6 | 1.0 | 0.0 | 2.8472443E-5 | 2.6865095E-5 | 2.6865095E-5 | 1.0 | 0.0 | 3.4659685E-4 | 3.2703386E-4 | 3.370306E-4 | 1.0305679 | 1.0E-5 | 0.0034605677 | 0.003265572 | 0.0032755395 | 1.0030522 | 1.0E-5 |
-| 7.2 | 5.549002E-6 | 5.1088914E-6 | 5.1088914E-6 | 1.0 | 0.0 | 2.378122E-5 | 2.1895066E-5 | 2.1895066E-5 | 1.0 | 0.0 | 2.8949787E-4 | 2.6653998E-4 | 2.6653998E-4 | 1.0 | 0.0 | 0.0028912104 | 0.0026622193 | 0.0026622193 | 1.0 | 0.0 |
-| 7.3 | 4.3059727E-6 | 3.960039E-6 | 3.960039E-6 | 1.0 | 0.0 | 1.8454039E-5 | 1.6971486E-5 | 1.6971486E-5 | 1.0 | 0.0 | 2.2465475E-4 | 2.0660834E-4 | 2.0660834E-4 | 1.0 | 0.0 | 0.0022442779 | 0.0020641726 | 0.0020641726 | 1.0 | 0.0 |
-| 7.4 | 2.8550733E-6 | 2.7014153E-6 | 2.7014153E-6 | 1.0 | 0.0 | 1.2235971E-5 | 1.1577443E-5 | 1.1577443E-5 | 1.0 | 0.0 | 1.4896276E-4 | 1.409463E-4 | 1.409463E-4 | 1.0 | 0.0 | 0.0014886294 | 0.0014085742 | 0.0014085742 | 1.0 | 0.0 |
-| 7.5 | 1.9927045E-6 | 1.8977307E-6 | 1.8977307E-6 | 1.0 | 0.0 | 8.540134E-6 | 8.133106E-6 | 8.133106E-6 | 1.0 | 0.0 | 1.0397117E-4 | 9.9016106E-5 | 9.9016106E-5 | 1.0 | 0.0 | 0.0010392254 | 9.897235E-4 | 9.897235E-4 | 1.0 | 0.0 |
-| 7.6 | 1.345084E-6 | 1.221666E-6 | 1.221666E-6 | 1.0 | 0.0 | 5.764633E-6 | 5.235701E-6 | 5.235701E-6 | 1.0 | 0.0 | 7.018215E-5 | 6.374282E-5 | 6.374282E-5 | 1.0 | 0.0 | 7.0159987E-4 | 6.372473E-4 | 6.372473E-4 | 1.0 | 0.0 |
-| 7.7 | 7.6835164E-7 | 6.278186E-7 | 6.278186E-7 | 1.0 | 0.0 | 3.2929315E-6 | 2.6906484E-6 | 2.6906484E-6 | 1.0 | 0.0 | 4.00907E-5 | 3.275817E-5 | 3.275817E-5 | 1.0 | 0.0 | 4.0083472E-4 | 3.2753486E-4 | 3.2753486E-4 | 1.0 | 0.0 |
-| 7.8 | 3.6562128E-7 | 2.453882E-7 | 2.453882E-7 | 1.0 | 0.0 | 1.5669474E-6 | 1.0516633E-6 | 1.0516633E-6 | 1.0 | 0.0 | 1.9077417E-5 | 1.2803929E-5 | 1.2803929E-5 | 1.0 | 0.0 | 1.907578E-4 | 1.2803229E-4 | 1.2803229E-4 | 1.0 | 0.0 |
-| 7.9 | 7.5024424E-8 | 5.382534E-8 | 5.382534E-8 | 1.0 | 0.0 | 3.215332E-7 | 2.3068002E-7 | 2.3068002E-7 | 1.0 | 0.0 | 3.91466E-6 | 2.808527E-6 | 2.808527E-6 | 1.0 | 0.0 | 3.9145907E-5 | 2.8085044E-5 | 2.8085044E-5 | 1.0 | 0.0 |
-
-## San Diego Trough south
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](San_Diego_Trough_south_1wk.png) | ![MPD](San_Diego_Trough_south_1mo.png) | ![MPD](San_Diego_Trough_south_1yr.png) | ![MPD](San_Diego_Trough_south_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 8.279495E-5 | 1.0425189E-4 | 1.0425189E-4 | 1.0 | 0.0 | 3.5478722E-4 | 4.467223E-4 | 4.467223E-4 | 1.0 | 0.0 | 0.004310982 | 0.005426155 | 0.005436101 | 1.001833 | 1.0E-5 | 0.042283054 | 0.052996993 | 0.053015932 | 1.0003574 | 2.0E-5 |
-| 6.1 | 4.6961468E-5 | 5.773456E-5 | 5.773456E-5 | 1.0 | 0.0 | 2.0124791E-4 | 2.474113E-4 | 2.474113E-4 | 1.0 | 0.0 | 0.00244744 | 0.0030082306 | 0.0030182004 | 1.0033143 | 1.0E-5 | 0.024206603 | 0.029681915 | 0.029701322 | 1.0006539 | 2.0E-5 |
-| 6.2 | 3.5079658E-5 | 4.2144766E-5 | 4.2144766E-5 | 1.0 | 0.0 | 1.5033272E-4 | 1.8060819E-4 | 1.8060819E-4 | 1.0 | 0.0 | 0.0018287642 | 0.0021967308 | 0.0022067088 | 1.0045422 | 1.0E-5 | 0.018137876 | 0.02175273 | 0.021772295 | 1.0008994 | 2.0E-5 |
-| 6.3 | 3.5079658E-5 | 4.2144766E-5 | 4.2144766E-5 | 1.0 | 0.0 | 1.5033272E-4 | 1.8060819E-4 | 1.8060819E-4 | 1.0 | 0.0 | 0.0018287642 | 0.0021967308 | 0.0022067088 | 1.0045422 | 1.0E-5 | 0.018137876 | 0.02175273 | 0.021772295 | 1.0008994 | 2.0E-5 |
-| 6.4 | 2.7196904E-5 | 3.2089334E-5 | 3.2089334E-5 | 1.0 | 0.0 | 1.16552954E-4 | 1.3751857E-4 | 1.3751857E-4 | 1.0 | 0.0 | 0.0014181085 | 0.0016730167 | 0.0016730167 | 1.0 | 0.0 | 0.014090929 | 0.01660575 | 0.016615583 | 1.0005922 | 1.0E-5 |
-| 6.5 | 2.5584688E-5 | 3.0103636E-5 | 3.0103636E-5 | 1.0 | 0.0 | 1.0964406E-4 | 1.2900929E-4 | 1.2900929E-4 | 1.0 | 0.0 | 0.0013340989 | 0.001569569 | 0.001569569 | 1.0 | 0.0 | 0.013261181 | 0.015586334 | 0.015596178 | 1.0006316 | 1.0E-5 |
-| 6.6 | 2.2034688E-5 | 2.5744363E-5 | 2.5744363E-5 | 1.0 | 0.0 | 9.443096E-5 | 1.1032836E-4 | 1.1032836E-4 | 1.0 | 0.0 | 0.0011490905 | 0.0013424265 | 0.0013424265 | 1.0 | 0.0 | 0.011431668 | 0.013344152 | 0.013354018 | 1.0007393 | 1.0E-5 |
-| 6.7 | 1.9394853E-5 | 2.2543129E-5 | 2.2543129E-5 | 1.0 | 0.0 | 8.311815E-5 | 9.660986E-5 | 9.660986E-5 | 1.0 | 0.0 | 0.0010114936 | 0.0011755956 | 0.0011755956 | 1.0 | 0.0 | 0.01006902 | 0.011694471 | 0.011704355 | 1.0008451 | 1.0E-5 |
-| 6.8 | 1.7615313E-5 | 2.0404388E-5 | 2.0404388E-5 | 1.0 | 0.0 | 7.549201E-5 | 8.7444474E-5 | 8.7444474E-5 | 1.0 | 0.0 | 9.1872766E-4 | 0.0010641208 | 0.0010641208 | 1.0 | 0.0 | 0.009149387 | 0.010590821 | 0.010600715 | 1.0009342 | 1.0E-5 |
-| 6.9 | 1.5621423E-5 | 1.802715E-5 | 1.802715E-5 | 1.0 | 0.0 | 6.6947236E-5 | 7.725695E-5 | 7.725695E-5 | 1.0 | 0.0 | 8.147778E-4 | 9.40201E-4 | 9.40201E-4 | 1.0 | 0.0 | 0.008117969 | 0.009362677 | 0.009362677 | 1.0 | 0.0 |
-| 7.0 | 1.3444376E-5 | 1.5448948E-5 | 1.5448948E-5 | 1.0 | 0.0 | 5.7617483E-5 | 6.620811E-5 | 6.620811E-5 | 1.0 | 0.0 | 7.0126704E-4 | 8.057884E-4 | 8.057884E-4 | 1.0 | 0.0 | 0.006990582 | 0.008029 | 0.008029 | 1.0 | 0.0 |
-| 7.1 | 1.2268361E-5 | 1.4073802E-5 | 1.4073802E-5 | 1.0 | 0.0 | 5.2577634E-5 | 6.0314913E-5 | 6.0314913E-5 | 1.0 | 0.0 | 6.399447E-4 | 7.340893E-4 | 7.340893E-4 | 1.0 | 0.0 | 0.0063810493 | 0.007316949 | 0.007316949 | 1.0 | 0.0 |
-| 7.2 | 1.0922655E-5 | 1.2514242E-5 | 1.2514242E-5 | 1.0 | 0.0 | 4.681054E-5 | 5.3631382E-5 | 5.3631382E-5 | 1.0 | 0.0 | 5.697693E-4 | 6.52769E-4 | 6.52769E-4 | 1.0 | 0.0 | 0.0056831064 | 0.006508796 | 0.006508796 | 1.0 | 0.0 |
-| 7.3 | 6.1106753E-6 | 6.9292714E-6 | 6.9292714E-6 | 1.0 | 0.0 | 2.6188345E-5 | 2.969654E-5 | 2.969654E-5 | 1.0 | 0.0 | 3.1879646E-4 | 3.614958E-4 | 3.614958E-4 | 1.0 | 0.0 | 0.0031833951 | 0.003609123 | 0.003609123 | 1.0 | 0.0 |
-| 7.4 | 4.933187E-6 | 5.5898304E-6 | 5.5898304E-6 | 1.0 | 0.0 | 2.114206E-5 | 2.3956198E-5 | 2.3956198E-5 | 1.0 | 0.0 | 2.5737417E-4 | 2.9162806E-4 | 2.9162806E-4 | 1.0 | 0.0 | 0.002570763 | 0.002912495 | 0.002912495 | 1.0 | 0.0 |
-| 7.5 | 1.7489613E-6 | 1.9697716E-6 | 1.9697716E-6 | 1.0 | 0.0 | 7.495527E-6 | 8.441852E-6 | 8.441852E-6 | 1.0 | 0.0 | 9.125422E-5 | 1.0277492E-4 | 1.0277492E-4 | 1.0 | 0.0 | 9.1216754E-4 | 0.001027296 | 0.001027296 | 1.0 | 0.0 |
-| 7.6 | 1.6988751E-7 | 1.7534032E-7 | 1.7534032E-7 | 1.0 | 0.0 | 7.2808916E-7 | 7.5145834E-7 | 7.5145834E-7 | 1.0 | 0.0 | 8.864449E-6 | 9.148969E-6 | 9.148969E-6 | 1.0 | 0.0 | 8.8640954E-5 | 9.1486116E-5 | 9.1486116E-5 | 1.0 | 0.0 |
-
-## Kern Canyon (Lake Isabella) 2011
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Kern_Canyon_Lake_Isabella_2011_1wk.png) | ![MPD](Kern_Canyon_Lake_Isabella_2011_1mo.png) | ![MPD](Kern_Canyon_Lake_Isabella_2011_1yr.png) | ![MPD](Kern_Canyon_Lake_Isabella_2011_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.2387383E-6 | 4.0016726E-6 | 4.0016726E-6 | 1.0 | 0.0 | 1.8165894E-5 | 1.7149921E-5 | 1.7149921E-5 | 1.0 | 0.0 | 2.2114732E-4 | 2.0878216E-4 | 2.28778E-4 | 1.0957736 | 2.0E-5 | 0.0022092736 | 0.002086044 | 0.0021060023 | 1.0095675 | 2.0E-5 |
-| 6.1 | 4.2387383E-6 | 4.0016726E-6 | 4.0016726E-6 | 1.0 | 0.0 | 1.8165894E-5 | 1.7149921E-5 | 1.7149921E-5 | 1.0 | 0.0 | 2.2114732E-4 | 2.0878216E-4 | 2.28778E-4 | 1.0957736 | 2.0E-5 | 0.0022092736 | 0.002086044 | 0.0021060023 | 1.0095675 | 2.0E-5 |
-| 6.2 | 4.2387383E-6 | 4.0016726E-6 | 4.0016726E-6 | 1.0 | 0.0 | 1.8165894E-5 | 1.7149921E-5 | 1.7149921E-5 | 1.0 | 0.0 | 2.2114732E-4 | 2.0878216E-4 | 2.28778E-4 | 1.0957736 | 2.0E-5 | 0.0022092736 | 0.002086044 | 0.0021060023 | 1.0095675 | 2.0E-5 |
-| 6.3 | 4.2387383E-6 | 4.0016726E-6 | 4.0016726E-6 | 1.0 | 0.0 | 1.8165894E-5 | 1.7149921E-5 | 1.7149921E-5 | 1.0 | 0.0 | 2.2114732E-4 | 2.0878216E-4 | 2.28778E-4 | 1.0957736 | 2.0E-5 | 0.0022092736 | 0.002086044 | 0.0021060023 | 1.0095675 | 2.0E-5 |
-| 6.4 | 4.2387383E-6 | 4.0016726E-6 | 4.0016726E-6 | 1.0 | 0.0 | 1.8165894E-5 | 1.7149921E-5 | 1.7149921E-5 | 1.0 | 0.0 | 2.2114732E-4 | 2.0878216E-4 | 2.28778E-4 | 1.0957736 | 2.0E-5 | 0.0022092736 | 0.002086044 | 0.0021060023 | 1.0095675 | 2.0E-5 |
-| 6.5 | 2.7857532E-6 | 2.5178888E-6 | 2.5178888E-6 | 1.0 | 0.0 | 1.1938888E-5 | 1.079091E-5 | 1.079091E-5 | 1.0 | 0.0 | 1.4534626E-4 | 1.3137174E-4 | 1.4137042E-4 | 1.0761099 | 1.0E-5 | 0.0014525123 | 0.0013129734 | 0.0013229604 | 1.0076063 | 1.0E-5 |
-| 6.6 | 2.2233348E-6 | 1.9441413E-6 | 1.9441413E-6 | 1.0 | 0.0 | 9.528543E-6 | 8.332008E-6 | 8.332008E-6 | 1.0 | 0.0 | 1.1600384E-4 | 1.0143756E-4 | 1.0143756E-4 | 1.0 | 0.0 | 0.001159433 | 0.0010139212 | 0.0010139212 | 1.0 | 0.0 |
-| 6.7 | 2.1635126E-6 | 1.883521E-6 | 1.883521E-6 | 1.0 | 0.0 | 9.272164E-6 | 8.072208E-6 | 8.072208E-6 | 1.0 | 0.0 | 1.1288274E-4 | 9.827478E-5 | 9.827478E-5 | 1.0 | 0.0 | 0.0011282542 | 9.823214E-4 | 9.823214E-4 | 1.0 | 0.0 |
-| 6.8 | 1.8685711E-6 | 1.5831579E-6 | 1.5831579E-6 | 1.0 | 0.0 | 8.008137E-6 | 6.784945E-6 | 6.784945E-6 | 1.0 | 0.0 | 9.74947E-5 | 8.260362E-5 | 8.260362E-5 | 1.0 | 0.0 | 9.745194E-4 | 8.257341E-4 | 8.257341E-4 | 1.0 | 0.0 |
-| 6.9 | 1.5815071E-6 | 1.306506E-6 | 1.306506E-6 | 1.0 | 0.0 | 6.77787E-6 | 5.599299E-6 | 5.599299E-6 | 1.0 | 0.0 | 8.251744E-5 | 6.8169364E-5 | 6.8169364E-5 | 1.0 | 0.0 | 8.248681E-4 | 6.814872E-4 | 6.814872E-4 | 1.0 | 0.0 |
-| 7.0 | 1.3772564E-6 | 1.1210832E-6 | 1.1210832E-6 | 1.0 | 0.0 | 5.9025137E-6 | 4.8046336E-6 | 4.8046336E-6 | 1.0 | 0.0 | 7.186073E-5 | 5.849486E-5 | 5.849486E-5 | 1.0 | 0.0 | 7.18375E-4 | 5.847967E-4 | 5.847967E-4 | 1.0 | 0.0 |
-| 7.1 | 1.0916998E-6 | 8.7638637E-7 | 8.7638637E-7 | 1.0 | 0.0 | 4.678705E-6 | 3.7559364E-6 | 3.7559364E-6 | 1.0 | 0.0 | 5.6961744E-5 | 4.572758E-5 | 4.572758E-5 | 1.0 | 0.0 | 5.6947145E-4 | 4.5718305E-4 | 4.5718305E-4 | 1.0 | 0.0 |
-| 7.2 | 7.6277024E-7 | 5.901513E-7 | 5.901513E-7 | 1.0 | 0.0 | 3.2690114E-6 | 2.5292175E-6 | 2.5292175E-6 | 1.0 | 0.0 | 3.9799485E-5 | 3.079279E-5 | 3.079279E-5 | 1.0 | 0.0 | 3.9792358E-4 | 3.0788587E-4 | 3.0788587E-4 | 1.0 | 0.0 |
-| 7.3 | 5.3265916E-7 | 4.382483E-7 | 4.382483E-7 | 1.0 | 0.0 | 2.282823E-6 | 1.8782057E-6 | 1.8782057E-6 | 1.0 | 0.0 | 2.7793016E-5 | 2.2866918E-5 | 2.2866918E-5 | 1.0 | 0.0 | 2.778954E-4 | 2.2864602E-4 | 2.2864602E-4 | 1.0 | 0.0 |
-| 7.4 | 3.4946007E-7 | 3.0065988E-7 | 3.0065988E-7 | 1.0 | 0.0 | 1.497685E-6 | 1.2885417E-6 | 1.2885417E-6 | 1.0 | 0.0 | 1.8234163E-5 | 1.5687885E-5 | 1.5687885E-5 | 1.0 | 0.0 | 1.8232666E-4 | 1.5686799E-4 | 1.5686799E-4 | 1.0 | 0.0 |
-| 7.5 | 1.8317026E-7 | 1.424497E-7 | 1.424497E-7 | 1.0 | 0.0 | 7.850152E-7 | 6.1049855E-7 | 6.1049855E-7 | 1.0 | 0.0 | 9.557518E-6 | 7.4327954E-6 | 7.4327954E-6 | 1.0 | 0.0 | 9.5571064E-5 | 7.4325544E-5 | 7.4325544E-5 | 1.0 | 0.0 |
-| 7.6 | 2.572245E-8 | 1.7352786E-8 | 1.7352786E-8 | 1.0 | 0.0 | 1.10239064E-7 | 7.4369076E-8 | 7.4369076E-8 | 1.0 | 0.0 | 1.3421597E-6 | 9.054432E-7 | 9.054432E-7 | 1.0 | 0.0 | 1.3421517E-5 | 9.054401E-6 | 9.054401E-6 | 1.0 | 0.0 |
-
-## Puente Hills
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Puente_Hills_1wk.png) | ![MPD](Puente_Hills_1mo.png) | ![MPD](Puente_Hills_1yr.png) | ![MPD](Puente_Hills_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.2101656E-5 | 8.099071E-6 | 8.099071E-6 | 1.0 | 0.0 | 5.1863204E-5 | 3.4709876E-5 | 3.4709876E-5 | 1.0 | 0.0 | 6.312516E-4 | 4.2251643E-4 | 4.325122E-4 | 1.0236577 | 1.0E-5 | 0.0062946146 | 0.0042176917 | 0.004237607 | 1.0047219 | 2.0E-5 |
-| 6.1 | 1.2101656E-5 | 8.099071E-6 | 8.099071E-6 | 1.0 | 0.0 | 5.1863204E-5 | 3.4709876E-5 | 3.4709876E-5 | 1.0 | 0.0 | 6.312516E-4 | 4.2251643E-4 | 4.325122E-4 | 1.0236577 | 1.0E-5 | 0.0062946146 | 0.0042176917 | 0.004237607 | 1.0047219 | 2.0E-5 |
-| 6.2 | 1.2101656E-5 | 8.099071E-6 | 8.099071E-6 | 1.0 | 0.0 | 5.1863204E-5 | 3.4709876E-5 | 3.4709876E-5 | 1.0 | 0.0 | 6.312516E-4 | 4.2251643E-4 | 4.325122E-4 | 1.0236577 | 1.0E-5 | 0.0062946146 | 0.0042176917 | 0.004237607 | 1.0047219 | 2.0E-5 |
-| 6.3 | 1.2101656E-5 | 8.099071E-6 | 8.099071E-6 | 1.0 | 0.0 | 5.1863204E-5 | 3.4709876E-5 | 3.4709876E-5 | 1.0 | 0.0 | 6.312516E-4 | 4.2251643E-4 | 4.325122E-4 | 1.0236577 | 1.0E-5 | 0.0062946146 | 0.0042176917 | 0.004237607 | 1.0047219 | 2.0E-5 |
-| 6.4 | 1.2101656E-5 | 8.099071E-6 | 8.099071E-6 | 1.0 | 0.0 | 5.1863204E-5 | 3.4709876E-5 | 3.4709876E-5 | 1.0 | 0.0 | 6.312516E-4 | 4.2251643E-4 | 4.325122E-4 | 1.0236577 | 1.0E-5 | 0.0062946146 | 0.0042176917 | 0.004237607 | 1.0047219 | 2.0E-5 |
-| 6.5 | 1.2101656E-5 | 8.099071E-6 | 8.099071E-6 | 1.0 | 0.0 | 5.1863204E-5 | 3.4709876E-5 | 3.4709876E-5 | 1.0 | 0.0 | 6.312516E-4 | 4.2251643E-4 | 4.325122E-4 | 1.0236577 | 1.0E-5 | 0.0062946146 | 0.0042176917 | 0.004237607 | 1.0047219 | 2.0E-5 |
-| 6.6 | 1.0222488E-5 | 6.399588E-6 | 6.399588E-6 | 1.0 | 0.0 | 4.3809923E-5 | 2.7426531E-5 | 2.7426531E-5 | 1.0 | 0.0 | 5.332553E-4 | 3.338693E-4 | 3.4386598E-4 | 1.0299418 | 1.0E-5 | 0.0053197746 | 0.0033339222 | 0.0033538556 | 1.005979 | 2.0E-5 |
-| 6.7 | 1.0222488E-5 | 6.399588E-6 | 6.399588E-6 | 1.0 | 0.0 | 4.3809923E-5 | 2.7426531E-5 | 2.7426531E-5 | 1.0 | 0.0 | 5.332553E-4 | 3.338693E-4 | 3.4386598E-4 | 1.0299418 | 1.0E-5 | 0.0053197746 | 0.0033339222 | 0.0033538556 | 1.005979 | 2.0E-5 |
-| 6.8 | 8.6367845E-6 | 5.0286094E-6 | 5.0286094E-6 | 1.0 | 0.0 | 3.7014266E-5 | 2.1551008E-5 | 2.1551008E-5 | 1.0 | 0.0 | 4.505555E-4 | 2.623525E-4 | 2.7234986E-4 | 1.0381067 | 1.0E-5 | 0.004496431 | 0.002620484 | 0.0026404315 | 1.0076122 | 2.0E-5 |
-| 6.9 | 8.066481E-6 | 4.836463E-6 | 4.836463E-6 | 1.0 | 0.0 | 3.4570177E-5 | 2.0727537E-5 | 2.0727537E-5 | 1.0 | 0.0 | 4.2081063E-4 | 2.5232908E-4 | 2.6232656E-4 | 1.0396208 | 1.0E-5 | 0.0042001465 | 0.0025204795 | 0.0025404291 | 1.007915 | 2.0E-5 |
-| 7.0 | 7.393828E-6 | 4.4176263E-6 | 4.4176263E-6 | 1.0 | 0.0 | 3.168745E-5 | 1.893255E-5 | 1.893255E-5 | 1.0 | 0.0 | 3.857264E-4 | 2.3047985E-4 | 2.4047754E-4 | 1.0433778 | 1.0E-5 | 0.0038505755 | 0.0023024536 | 0.0023224077 | 1.0086664 | 2.0E-5 |
-| 7.1 | 6.4660953E-6 | 3.8047303E-6 | 3.8047303E-6 | 1.0 | 0.0 | 2.7711543E-5 | 1.6305887E-5 | 1.6305887E-5 | 1.0 | 0.0 | 3.373358E-4 | 1.9850644E-4 | 2.0850447E-4 | 1.0503662 | 1.0E-5 | 0.0033682417 | 0.001983327 | 0.0020032874 | 1.010064 | 2.0E-5 |
-| 7.2 | 5.143232E-6 | 2.7867638E-6 | 2.7867638E-6 | 1.0 | 0.0 | 2.2042237E-5 | 1.194322E-5 | 1.194322E-5 | 1.0 | 0.0 | 2.6833118E-4 | 1.4539908E-4 | 1.4539908E-4 | 1.0 | 0.0 | 0.002680074 | 0.0014530494 | 0.0014630348 | 1.006872 | 1.0E-5 |
-| 7.3 | 3.928255E-6 | 2.0915647E-6 | 2.0915647E-6 | 1.0 | 0.0 | 1.683527E-5 | 8.963818E-6 | 8.963818E-6 | 1.0 | 0.0 | 2.0495013E-4 | 1.0912908E-4 | 1.0912908E-4 | 1.0 | 0.0 | 0.002047612 | 0.0010907616 | 0.0011007508 | 1.0091579 | 1.0E-5 |
-| 7.4 | 2.7894434E-6 | 1.354835E-6 | 1.354835E-6 | 1.0 | 0.0 | 1.1954703E-5 | 5.8064234E-6 | 5.8064234E-6 | 1.0 | 0.0 | 1.4553878E-4 | 7.0690956E-5 | 7.0690956E-5 | 1.0 | 0.0 | 0.001454435 | 7.066891E-4 | 7.16682E-4 | 1.0141405 | 1.0E-5 |
-| 7.5 | 2.041735E-6 | 8.788577E-7 | 8.788577E-7 | 1.0 | 0.0 | 8.750263E-6 | 3.7665277E-6 | 3.7665277E-6 | 1.0 | 0.0 | 1.06529245E-4 | 4.5856545E-5 | 4.5856545E-5 | 1.0 | 0.0 | 0.0010647819 | 4.5847415E-4 | 4.5847415E-4 | 1.0 | 0.0 |
-| 7.6 | 1.6959062E-6 | 6.699691E-7 | 6.699691E-7 | 1.0 | 0.0 | 7.268149E-6 | 2.8712932E-6 | 2.8712932E-6 | 1.0 | 0.0 | 8.848612E-5 | 3.4957462E-5 | 3.4957462E-5 | 1.0 | 0.0 | 8.84509E-4 | 3.495225E-4 | 3.495225E-4 | 1.0 | 0.0 |
-| 7.7 | 1.4767965E-6 | 5.4085115E-7 | 5.4085115E-7 | 1.0 | 0.0 | 6.3291122E-6 | 2.3179316E-6 | 2.3179316E-6 | 1.0 | 0.0 | 7.705422E-5 | 2.8220478E-5 | 2.8220478E-5 | 1.0 | 0.0 | 7.702751E-4 | 2.821715E-4 | 2.821715E-4 | 1.0 | 0.0 |
-| 7.8 | 1.8432911E-7 | 7.283086E-8 | 7.283086E-8 | 1.0 | 0.0 | 7.8998164E-7 | 3.1213222E-7 | 3.1213222E-7 | 1.0 | 0.0 | 9.617985E-6 | 3.8002065E-6 | 3.8002065E-6 | 1.0 | 0.0 | 9.617568E-5 | 3.800174E-5 | 3.800174E-5 | 1.0 | 0.0 |
-
-## San Luis Range 2011 CFM
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](San_Luis_Range_2011_CFM_1wk.png) | ![MPD](San_Luis_Range_2011_CFM_1mo.png) | ![MPD](San_Luis_Range_2011_CFM_1yr.png) | ![MPD](San_Luis_Range_2011_CFM_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 8.8368415E-6 | 8.96552E-6 | 8.96552E-6 | 1.0 | 0.0 | 3.787163E-5 | 3.8423135E-5 | 3.8423135E-5 | 1.0 | 0.0 | 4.609895E-4 | 4.6770912E-4 | 4.6770912E-4 | 1.0 | 0.0 | 0.0046003438 | 0.0046680304 | 0.004687937 | 1.0042645 | 2.0E-5 |
-| 6.1 | 8.8368415E-6 | 8.96552E-6 | 8.96552E-6 | 1.0 | 0.0 | 3.787163E-5 | 3.8423135E-5 | 3.8423135E-5 | 1.0 | 0.0 | 4.609895E-4 | 4.6770912E-4 | 4.6770912E-4 | 1.0 | 0.0 | 0.0046003438 | 0.0046680304 | 0.004687937 | 1.0042645 | 2.0E-5 |
-| 6.2 | 8.8368415E-6 | 8.96552E-6 | 8.96552E-6 | 1.0 | 0.0 | 3.787163E-5 | 3.8423135E-5 | 3.8423135E-5 | 1.0 | 0.0 | 4.609895E-4 | 4.6770912E-4 | 4.6770912E-4 | 1.0 | 0.0 | 0.0046003438 | 0.0046680304 | 0.004687937 | 1.0042645 | 2.0E-5 |
-| 6.3 | 8.8368415E-6 | 8.96552E-6 | 8.96552E-6 | 1.0 | 0.0 | 3.787163E-5 | 3.8423135E-5 | 3.8423135E-5 | 1.0 | 0.0 | 4.609895E-4 | 4.6770912E-4 | 4.6770912E-4 | 1.0 | 0.0 | 0.0046003438 | 0.0046680304 | 0.004687937 | 1.0042645 | 2.0E-5 |
-| 6.4 | 3.9094193E-6 | 3.941232E-6 | 3.941232E-6 | 1.0 | 0.0 | 1.6754546E-5 | 1.6890886E-5 | 1.6890886E-5 | 1.0 | 0.0 | 2.039675E-4 | 2.0562741E-4 | 2.0562741E-4 | 1.0 | 0.0 | 0.0020378039 | 0.0020544003 | 0.0020544003 | 1.0 | 0.0 |
-| 6.5 | 3.9094193E-6 | 3.941232E-6 | 3.941232E-6 | 1.0 | 0.0 | 1.6754546E-5 | 1.6890886E-5 | 1.6890886E-5 | 1.0 | 0.0 | 2.039675E-4 | 2.0562741E-4 | 2.0562741E-4 | 1.0 | 0.0 | 0.0020378039 | 0.0020544003 | 0.0020544003 | 1.0 | 0.0 |
-| 6.6 | 3.0587726E-6 | 3.0754118E-6 | 3.0754118E-6 | 1.0 | 0.0 | 1.3108959E-5 | 1.318027E-5 | 1.318027E-5 | 1.0 | 0.0 | 1.595899E-4 | 1.6045809E-4 | 1.6045809E-4 | 1.0 | 0.0 | 0.0015947534 | 0.0016034343 | 0.0016034343 | 1.0 | 0.0 |
-| 6.7 | 2.6160574E-6 | 2.625148E-6 | 2.625148E-6 | 1.0 | 0.0 | 1.1211626E-5 | 1.1250586E-5 | 1.1250586E-5 | 1.0 | 0.0 | 1.3649299E-4 | 1.3696733E-4 | 1.3696733E-4 | 1.0 | 0.0 | 0.0013640919 | 0.0013688353 | 0.0013688353 | 1.0 | 0.0 |
-| 6.8 | 2.5110312E-6 | 2.51816E-6 | 2.51816E-6 | 1.0 | 0.0 | 1.0761518E-5 | 1.079207E-5 | 1.079207E-5 | 1.0 | 0.0 | 1.310136E-4 | 1.3138559E-4 | 1.3138559E-4 | 1.0 | 0.0 | 0.0013093639 | 0.001313085 | 0.001313085 | 1.0 | 0.0 |
-| 6.9 | 1.8564405E-6 | 1.8525027E-6 | 1.8525027E-6 | 1.0 | 0.0 | 7.95615E-6 | 7.939273E-6 | 7.939273E-6 | 1.0 | 0.0 | 9.686181E-5 | 9.665638E-5 | 9.665638E-5 | 1.0 | 0.0 | 9.68196E-4 | 9.661454E-4 | 9.661454E-4 | 1.0 | 0.0 |
-| 7.0 | 1.546127E-6 | 1.5369675E-6 | 1.5369675E-6 | 1.0 | 0.0 | 6.626242E-6 | 6.5869867E-6 | 6.5869867E-6 | 1.0 | 0.0 | 8.06715E-5 | 8.019362E-5 | 8.019362E-5 | 1.0 | 0.0 | 8.0642226E-4 | 8.016475E-4 | 8.016475E-4 | 1.0 | 0.0 |
-| 7.1 | 1.3368208E-6 | 1.3235447E-6 | 1.3235447E-6 | 1.0 | 0.0 | 5.7292195E-6 | 5.672322E-6 | 5.672322E-6 | 1.0 | 0.0 | 6.975101E-5 | 6.905834E-5 | 6.905834E-5 | 1.0 | 0.0 | 6.972912E-4 | 6.903693E-4 | 6.903693E-4 | 1.0 | 0.0 |
-| 7.2 | 1.0623363E-6 | 1.0454469E-6 | 1.0454469E-6 | 1.0 | 0.0 | 4.5528623E-6 | 4.4804788E-6 | 4.4804788E-6 | 1.0 | 0.0 | 5.5429686E-5 | 5.4548465E-5 | 5.4548465E-5 | 1.0 | 0.0 | 5.5415864E-4 | 5.45351E-4 | 5.45351E-4 | 1.0 | 0.0 |
-| 7.3 | 7.831679E-7 | 7.727471E-7 | 7.727471E-7 | 1.0 | 0.0 | 3.3564295E-6 | 3.3117692E-6 | 3.3117692E-6 | 1.0 | 0.0 | 4.086376E-5 | 4.0320043E-5 | 4.0320043E-5 | 1.0 | 0.0 | 4.0856248E-4 | 4.0312743E-4 | 4.0312743E-4 | 1.0 | 0.0 |
-| 7.4 | 5.9558846E-7 | 5.910703E-7 | 5.910703E-7 | 1.0 | 0.0 | 2.5525194E-6 | 2.533156E-6 | 2.533156E-6 | 1.0 | 0.0 | 3.107648E-5 | 3.084074E-5 | 3.084074E-5 | 1.0 | 0.0 | 3.1072134E-4 | 3.083647E-4 | 3.083647E-4 | 1.0 | 0.0 |
-| 7.5 | 4.1616502E-7 | 4.1196856E-7 | 4.1196856E-7 | 1.0 | 0.0 | 1.7835631E-6 | 1.7655783E-6 | 1.7655783E-6 | 1.0 | 0.0 | 2.1714664E-5 | 2.1495704E-5 | 2.1495704E-5 | 1.0 | 0.0 | 2.1712543E-4 | 2.149363E-4 | 2.149363E-4 | 1.0 | 0.0 |
-| 7.6 | 2.3816014E-7 | 2.3376965E-7 | 2.3376965E-7 | 1.0 | 0.0 | 1.0206859E-6 | 1.0018695E-6 | 1.0018695E-6 | 1.0 | 0.0 | 1.242678E-5 | 1.2197693E-5 | 1.2197693E-5 | 1.0 | 0.0 | 1.2426086E-4 | 1.2197026E-4 | 1.2197026E-4 | 1.0 | 0.0 |
-| 7.7 | 9.918777E-8 | 9.3870696E-8 | 9.3870696E-8 | 1.0 | 0.0 | 4.2509038E-7 | 4.023029E-7 | 4.023029E-7 | 1.0 | 0.0 | 5.1754632E-6 | 4.898027E-6 | 4.898027E-6 | 1.0 | 0.0 | 5.1753424E-5 | 4.8979193E-5 | 4.8979193E-5 | 1.0 | 0.0 |
-| 7.8 | 3.4982556E-8 | 2.9689085E-8 | 2.9689085E-8 | 1.0 | 0.0 | 1.4992524E-7 | 1.2723893E-7 | 1.2723893E-7 | 1.0 | 0.0 | 1.8253382E-6 | 1.5491328E-6 | 1.5491328E-6 | 1.0 | 0.0 | 1.8253233E-5 | 1.5491221E-5 | 1.5491221E-5 | 1.0 | 0.0 |
-| 7.9 | 1.6624908E-8 | 1.1479339E-8 | 1.1479339E-8 | 1.0 | 0.0 | 7.12496E-8 | 4.9197165E-8 | 4.9197165E-8 | 1.0 | 0.0 | 8.6746354E-7 | 5.989753E-7 | 5.989753E-7 | 1.0 | 0.0 | 8.674601E-6 | 5.9897375E-6 | 5.9897375E-6 | 1.0 | 0.0 |
-| 8.0 | 6.3352315E-9 | 3.0902623E-9 | 3.0902623E-9 | 1.0 | 0.0 | 2.715099E-8 | 1.3243979E-8 | 1.3243979E-8 | 1.0 | 0.0 | 3.3056327E-7 | 1.6124542E-7 | 1.6124542E-7 | 1.0 | 0.0 | 3.3056278E-6 | 1.612453E-6 | 1.612453E-6 | 1.0 | 0.0 |
-
-## Verdugo
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Verdugo_1wk.png) | ![MPD](Verdugo_1mo.png) | ![MPD](Verdugo_1yr.png) | ![MPD](Verdugo_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 5.392987E-6 | 4.216773E-6 | 4.216773E-6 | 1.0 | 0.0 | 2.3112598E-5 | 1.8071762E-5 | 1.8071762E-5 | 1.0 | 0.0 | 2.8135953E-4 | 2.2000197E-4 | 2.3999756E-4 | 1.0908883 | 2.0E-5 | 0.0028100356 | 0.0021978894 | 0.0022178455 | 1.0090797 | 2.0E-5 |
-| 6.1 | 5.392987E-6 | 4.216773E-6 | 4.216773E-6 | 1.0 | 0.0 | 2.3112598E-5 | 1.8071762E-5 | 1.8071762E-5 | 1.0 | 0.0 | 2.8135953E-4 | 2.2000197E-4 | 2.3999756E-4 | 1.0908883 | 2.0E-5 | 0.0028100356 | 0.0021978894 | 0.0022178455 | 1.0090797 | 2.0E-5 |
-| 6.2 | 5.392987E-6 | 4.216773E-6 | 4.216773E-6 | 1.0 | 0.0 | 2.3112598E-5 | 1.8071762E-5 | 1.8071762E-5 | 1.0 | 0.0 | 2.8135953E-4 | 2.2000197E-4 | 2.3999756E-4 | 1.0908883 | 2.0E-5 | 0.0028100356 | 0.0021978894 | 0.0022178455 | 1.0090797 | 2.0E-5 |
-| 6.3 | 5.392987E-6 | 4.216773E-6 | 4.216773E-6 | 1.0 | 0.0 | 2.3112598E-5 | 1.8071762E-5 | 1.8071762E-5 | 1.0 | 0.0 | 2.8135953E-4 | 2.2000197E-4 | 2.3999756E-4 | 1.0908883 | 2.0E-5 | 0.0028100356 | 0.0021978894 | 0.0022178455 | 1.0090797 | 2.0E-5 |
-| 6.4 | 5.392987E-6 | 4.216773E-6 | 4.216773E-6 | 1.0 | 0.0 | 2.3112598E-5 | 1.8071762E-5 | 1.8071762E-5 | 1.0 | 0.0 | 2.8135953E-4 | 2.2000197E-4 | 2.3999756E-4 | 1.0908883 | 2.0E-5 | 0.0028100356 | 0.0021978894 | 0.0022178455 | 1.0090797 | 2.0E-5 |
-| 6.5 | 4.9154837E-6 | 3.7227146E-6 | 3.7227146E-6 | 1.0 | 0.0 | 2.1066187E-5 | 1.5954394E-5 | 1.5954394E-5 | 1.0 | 0.0 | 2.5645064E-4 | 1.9422764E-4 | 2.042257E-4 | 1.051476 | 1.0E-5 | 0.002561549 | 0.0019405998 | 0.0019505804 | 1.005143 | 1.0E-5 |
-| 6.6 | 4.9154837E-6 | 3.7227146E-6 | 3.7227146E-6 | 1.0 | 0.0 | 2.1066187E-5 | 1.5954394E-5 | 1.5954394E-5 | 1.0 | 0.0 | 2.5645064E-4 | 1.9422764E-4 | 2.042257E-4 | 1.051476 | 1.0E-5 | 0.002561549 | 0.0019405998 | 0.0019505804 | 1.005143 | 1.0E-5 |
-| 6.7 | 4.817006E-6 | 3.6209E-6 | 3.6209E-6 | 1.0 | 0.0 | 2.0644147E-5 | 1.5518051E-5 | 1.5518051E-5 | 1.0 | 0.0 | 2.513135E-4 | 1.8891609E-4 | 1.989142E-4 | 1.0529236 | 1.0E-5 | 0.0025102948 | 0.0018875746 | 0.0018975558 | 1.0052878 | 1.0E-5 |
-| 6.8 | 4.507407E-6 | 3.3073463E-6 | 3.3073463E-6 | 1.0 | 0.0 | 1.9317316E-5 | 1.4174265E-5 | 1.4174265E-5 | 1.0 | 0.0 | 2.3516294E-4 | 1.7255815E-4 | 1.8255642E-4 | 1.0579414 | 1.0E-5 | 0.0023491425 | 0.001724256 | 0.0017342387 | 1.0057896 | 1.0E-5 |
-| 6.9 | 4.3573054E-6 | 3.1612503E-6 | 3.1612503E-6 | 1.0 | 0.0 | 1.8674033E-5 | 1.3548146E-5 | 1.3548146E-5 | 1.0 | 0.0 | 2.2733262E-4 | 1.6493631E-4 | 1.7493466E-4 | 1.0606195 | 1.0E-5 | 0.0022710022 | 0.0016481513 | 0.0016581349 | 1.0060574 | 1.0E-5 |
-| 7.0 | 4.171527E-6 | 2.9839064E-6 | 2.9839064E-6 | 1.0 | 0.0 | 1.787785E-5 | 1.2788108E-5 | 1.2788108E-5 | 1.0 | 0.0 | 2.1764109E-4 | 1.556842E-4 | 1.6568265E-4 | 1.0642226 | 1.0E-5 | 0.0021742806 | 0.0015557626 | 0.0015657471 | 1.0064178 | 1.0E-5 |
-| 7.1 | 4.0405484E-6 | 2.8824945E-6 | 2.8824945E-6 | 1.0 | 0.0 | 1.731652E-5 | 1.235349E-5 | 1.235349E-5 | 1.0 | 0.0 | 2.1080824E-4 | 1.5039346E-4 | 1.6039197E-4 | 1.0664823 | 1.0E-5 | 0.0021060838 | 0.001502928 | 0.0015129129 | 1.0066437 | 1.0E-5 |
-| 7.2 | 3.8306007E-6 | 2.7020742E-6 | 2.7020742E-6 | 1.0 | 0.0 | 1.6416758E-5 | 1.1580268E-5 | 1.1580268E-5 | 1.0 | 0.0 | 1.9985568E-4 | 1.4098074E-4 | 1.5097934E-4 | 1.0709217 | 1.0E-5 | 0.0019967605 | 0.0014089238 | 0.0014189096 | 1.0070876 | 1.0E-5 |
-| 7.3 | 3.5750938E-6 | 2.5124E-6 | 2.5124E-6 | 1.0 | 0.0 | 1.532174E-5 | 1.0767384E-5 | 1.0767384E-5 | 1.0 | 0.0 | 1.8652623E-4 | 1.3108512E-4 | 1.3108512E-4 | 1.0 | 0.0 | 0.0018636974 | 0.0013100886 | 0.0013100886 | 1.0 | 0.0 |
-| 7.4 | 3.3510041E-6 | 2.341078E-6 | 2.341078E-6 | 1.0 | 0.0 | 1.4361368E-5 | 1.0033154E-5 | 1.0033154E-5 | 1.0 | 0.0 | 1.7483562E-4 | 1.221469E-4 | 1.221469E-4 | 1.0 | 0.0 | 0.0017469813 | 0.0012208081 | 0.0012208081 | 1.0 | 0.0 |
-| 7.5 | 2.948287E-6 | 2.0392013E-6 | 2.0392013E-6 | 1.0 | 0.0 | 1.2635454E-5 | 8.739405E-6 | 8.739405E-6 | 1.0 | 0.0 | 1.538258E-4 | 1.06397165E-4 | 1.06397165E-4 | 1.0 | 0.0 | 0.0015371935 | 0.0010634725 | 0.0010634725 | 1.0 | 0.0 |
-| 7.6 | 2.0134323E-6 | 1.4471889E-6 | 1.4471889E-6 | 1.0 | 0.0 | 8.628967E-6 | 6.2022236E-6 | 6.2022236E-6 | 1.0 | 0.0 | 1.05052604E-4 | 7.5509546E-5 | 7.5509546E-5 | 1.0 | 0.0 | 0.0010500296 | 7.548477E-4 | 7.548477E-4 | 1.0 | 0.0 |
-| 7.7 | 5.726436E-7 | 4.04542E-7 | 4.04542E-7 | 1.0 | 0.0 | 2.4541846E-6 | 1.7337504E-6 | 1.7337504E-6 | 1.0 | 0.0 | 2.9879287E-5 | 2.1108233E-5 | 2.1108233E-5 | 1.0 | 0.0 | 2.987527E-4 | 2.1106482E-4 | 2.1106482E-4 | 1.0 | 0.0 |
-| 7.8 | 1.6248204E-7 | 1.06887995E-7 | 1.06887995E-7 | 1.0 | 0.0 | 6.963514E-7 | 4.5809134E-7 | 4.5809134E-7 | 1.0 | 0.0 | 8.478045E-6 | 5.577248E-6 | 5.577248E-6 | 1.0 | 0.0 | 8.477722E-5 | 5.5771114E-5 | 5.5771114E-5 | 1.0 | 0.0 |
-| 7.9 | 4.4475744E-8 | 3.0376174E-8 | 3.0376174E-8 | 1.0 | 0.0 | 1.9061031E-7 | 1.301836E-7 | 1.301836E-7 | 1.0 | 0.0 | 2.320678E-6 | 1.5849843E-6 | 1.5849843E-6 | 1.0 | 0.0 | 2.3206538E-5 | 1.5849742E-5 | 1.5849742E-5 | 1.0 | 0.0 |
-
-## Greenville (So) 2011 CFM
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Greenville_So_2011_CFM_1wk.png) | ![MPD](Greenville_So_2011_CFM_1mo.png) | ![MPD](Greenville_So_2011_CFM_1yr.png) | ![MPD](Greenville_So_2011_CFM_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.279693E-5 | 5.504568E-5 | 5.504568E-5 | 1.0 | 0.0 | 1.8340252E-4 | 2.3589072E-4 | 2.3589072E-4 | 1.0 | 0.0 | 0.0022306389 | 0.0028685203 | 0.002888463 | 1.0069523 | 2.0E-5 | 0.022083808 | 0.02834083 | 0.028360263 | 1.0006857 | 2.0E-5 |
-| 6.1 | 3.4037297E-5 | 4.3196407E-5 | 4.3196407E-5 | 1.0 | 0.0 | 1.4586597E-4 | 1.851155E-4 | 1.851155E-4 | 1.0 | 0.0 | 0.0017744715 | 0.002251635 | 0.00227159 | 1.0088624 | 2.0E-5 | 0.01760369 | 0.022304548 | 0.022324102 | 1.0008767 | 2.0E-5 |
-| 6.2 | 3.4037297E-5 | 4.3196407E-5 | 4.3196407E-5 | 1.0 | 0.0 | 1.4586597E-4 | 1.851155E-4 | 1.851155E-4 | 1.0 | 0.0 | 0.0017744715 | 0.002251635 | 0.00227159 | 1.0088624 | 2.0E-5 | 0.01760369 | 0.022304548 | 0.022324102 | 1.0008767 | 2.0E-5 |
-| 6.3 | 2.5956324E-5 | 3.2431584E-5 | 3.2431584E-5 | 1.0 | 0.0 | 1.11236644E-4 | 1.389855E-4 | 1.389855E-4 | 1.0 | 0.0 | 0.0013534647 | 0.0016909101 | 0.0017008932 | 1.005904 | 1.0E-5 | 0.013452509 | 0.016787242 | 0.016797073 | 1.0005857 | 1.0E-5 |
-| 6.4 | 2.1145053E-5 | 2.619967E-5 | 2.619967E-5 | 1.0 | 0.0 | 9.061851E-5 | 1.1227964E-4 | 1.1227964E-4 | 1.0 | 0.0 | 0.0011027219 | 0.0013661786 | 0.001376165 | 1.0073097 | 1.0E-5 | 0.01097266 | 0.013581203 | 0.013591067 | 1.0007263 | 1.0E-5 |
-| 6.5 | 2.0030959E-5 | 2.4797639E-5 | 2.4797639E-5 | 1.0 | 0.0 | 8.584414E-5 | 1.0627143E-4 | 1.0627143E-4 | 1.0 | 0.0 | 0.0010446513 | 0.0012931189 | 0.001303106 | 1.0077232 | 1.0E-5 | 0.010397541 | 0.012859294 | 0.012869165 | 1.0007676 | 1.0E-5 |
-| 6.6 | 1.8395405E-5 | 2.2756136E-5 | 2.2756136E-5 | 1.0 | 0.0 | 7.8835066E-5 | 9.752279E-5 | 9.752279E-5 | 1.0 | 0.0 | 9.5939427E-4 | 0.0011867218 | 0.0011967099 | 1.0084165 | 1.0E-5 | 0.009552629 | 0.0118069025 | 0.011816784 | 1.000837 | 1.0E-5 |
-| 6.7 | 1.7883482E-5 | 2.2127128E-5 | 2.2127128E-5 | 1.0 | 0.0 | 7.664124E-5 | 9.4827235E-5 | 9.4827235E-5 | 1.0 | 0.0 | 9.3270757E-4 | 0.0011539387 | 0.0011539387 | 1.0 | 0.0 | 0.009288026 | 0.011482523 | 0.011482523 | 1.0 | 0.0 |
-| 6.8 | 1.3373564E-5 | 1.6507069E-5 | 1.6507069E-5 | 1.0 | 0.0 | 5.7314013E-5 | 7.074274E-5 | 7.074274E-5 | 1.0 | 0.0 | 6.975747E-4 | 8.609673E-4 | 8.609673E-4 | 1.0 | 0.0 | 0.0069538904 | 0.008577928 | 0.008577928 | 1.0 | 0.0 |
-| 6.9 | 1.06692905E-5 | 1.3153386E-5 | 1.3153386E-5 | 1.0 | 0.0 | 4.5724726E-5 | 5.6370493E-5 | 5.6370493E-5 | 1.0 | 0.0 | 5.5655633E-4 | 6.861059E-4 | 6.861059E-4 | 1.0 | 0.0 | 0.005551645 | 0.0068411096 | 0.0068411096 | 1.0 | 0.0 |
-| 7.0 | 8.157512E-6 | 1.0063179E-5 | 1.0063179E-5 | 1.0 | 0.0 | 3.4960296E-5 | 4.312721E-5 | 4.312721E-5 | 1.0 | 0.0 | 4.2555845E-4 | 5.2495097E-4 | 5.2495097E-4 | 1.0 | 0.0 | 0.004247444 | 0.0052375873 | 0.0052375873 | 1.0 | 0.0 |
-| 7.1 | 6.1467113E-6 | 7.6277793E-6 | 7.6277793E-6 | 1.0 | 0.0 | 2.6342783E-5 | 3.2690077E-5 | 3.2690077E-5 | 1.0 | 0.0 | 3.206762E-4 | 3.9792983E-4 | 3.9792983E-4 | 1.0 | 0.0 | 0.0032021382 | 0.0039723613 | 0.0039723613 | 1.0 | 0.0 |
-| 7.2 | 4.713467E-6 | 5.914416E-6 | 5.914416E-6 | 1.0 | 0.0 | 2.0200418E-5 | 2.5347254E-5 | 2.5347254E-5 | 1.0 | 0.0 | 2.4591232E-4 | 3.085597E-4 | 3.085597E-4 | 1.0 | 0.0 | 0.0024564038 | 0.003081466 | 0.003081466 | 1.0 | 0.0 |
-| 7.3 | 2.3266216E-6 | 2.954166E-6 | 2.954166E-6 | 1.0 | 0.0 | 9.971197E-6 | 1.266065E-5 | 1.266065E-5 | 1.0 | 0.0 | 1.2139256E-4 | 1.5413266E-4 | 1.5413266E-4 | 1.0 | 0.0 | 0.0012132627 | 0.0015403271 | 0.0015403271 | 1.0 | 0.0 |
-| 7.4 | 1.3314E-6 | 1.718079E-6 | 1.718079E-6 | 1.0 | 0.0 | 5.7059874E-6 | 7.3631754E-6 | 7.3631754E-6 | 1.0 | 0.0 | 6.946818E-5 | 8.964302E-5 | 8.964302E-5 | 1.0 | 0.0 | 6.9446466E-4 | 8.961074E-4 | 8.961074E-4 | 1.0 | 0.0 |
-| 7.5 | 1.0362941E-6 | 1.3469978E-6 | 1.3469978E-6 | 1.0 | 0.0 | 4.4412527E-6 | 5.7728353E-6 | 5.7728353E-6 | 1.0 | 0.0 | 5.407091E-5 | 7.028205E-5 | 7.028205E-5 | 1.0 | 0.0 | 5.405776E-4 | 7.026284E-4 | 7.026284E-4 | 1.0 | 0.0 |
-| 7.6 | 7.764784E-7 | 1.0089714E-6 | 1.0089714E-6 | 1.0 | 0.0 | 3.3277602E-6 | 4.324156E-6 | 4.324156E-6 | 1.0 | 0.0 | 4.0514726E-5 | 5.264537E-5 | 5.264537E-5 | 1.0 | 0.0 | 4.050734E-4 | 5.2635034E-4 | 5.2635034E-4 | 1.0 | 0.0 |
-| 7.7 | 1.6927763E-7 | 2.2139474E-7 | 2.2139474E-7 | 1.0 | 0.0 | 7.2547533E-7 | 9.4883427E-7 | 9.4883427E-7 | 1.0 | 0.0 | 8.832627E-6 | 1.1551999E-5 | 1.1551999E-5 | 1.0 | 0.0 | 8.8322755E-5 | 1.15516705E-4 | 1.15516705E-4 | 1.0 | 0.0 |
+| 6.0 | 2.1766498E-6 | 2.1038136E-6 | 2.1038136E-6 | 1.0 | 0.0 | 9.328466E-6 | 9.01632E-6 | 9.01632E-6 | 1.0 | 0.0 | 1.1356815E-4 | 1.0976962E-4 | 1.0976962E-4 | 1.0 | 0.0 | 0.0011351013 | 0.0010972959 | 0.0011072849 | 1.0091033 | 1.0E-5 |
+| 6.1 | 2.1766498E-6 | 2.1038136E-6 | 2.1038136E-6 | 1.0 | 0.0 | 9.328466E-6 | 9.01632E-6 | 9.01632E-6 | 1.0 | 0.0 | 1.1356815E-4 | 1.0976962E-4 | 1.0976962E-4 | 1.0 | 0.0 | 0.0011351013 | 0.0010972959 | 0.0011072849 | 1.0091033 | 1.0E-5 |
+| 6.2 | 1.0031182E-6 | 9.1864104E-7 | 9.1864104E-7 | 1.0 | 0.0 | 4.299071E-6 | 3.9370275E-6 | 3.9370275E-6 | 1.0 | 0.0 | 5.2339932E-5 | 4.7932357E-5 | 4.7932357E-5 | 1.0 | 0.0 | 5.2327604E-4 | 4.7923E-4 | 4.7923E-4 | 1.0 | 0.0 |
+| 6.3 | 1.0031182E-6 | 9.1864104E-7 | 9.1864104E-7 | 1.0 | 0.0 | 4.299071E-6 | 3.9370275E-6 | 3.9370275E-6 | 1.0 | 0.0 | 5.2339932E-5 | 4.7932357E-5 | 4.7932357E-5 | 1.0 | 0.0 | 5.2327604E-4 | 4.7923E-4 | 4.7923E-4 | 1.0 | 0.0 |
+| 6.4 | 6.9606244E-7 | 6.0921303E-7 | 6.0921303E-7 | 1.0 | 0.0 | 2.9831212E-6 | 2.6109103E-6 | 2.6109103E-6 | 1.0 | 0.0 | 3.6318896E-5 | 3.178737E-5 | 3.178737E-5 | 1.0 | 0.0 | 3.6312963E-4 | 3.178285E-4 | 3.178285E-4 | 1.0 | 0.0 |
+| 6.5 | 6.901879E-7 | 6.0328136E-7 | 6.0328136E-7 | 1.0 | 0.0 | 2.9579448E-6 | 2.585489E-6 | 2.585489E-6 | 1.0 | 0.0 | 3.6012385E-5 | 3.1477877E-5 | 3.1477877E-5 | 1.0 | 0.0 | 3.600655E-4 | 3.147344E-4 | 3.147344E-4 | 1.0 | 0.0 |
+| 6.6 | 6.4198554E-7 | 5.546795E-7 | 5.546795E-7 | 1.0 | 0.0 | 2.7513638E-6 | 2.3771956E-6 | 2.3771956E-6 | 1.0 | 0.0 | 3.3497337E-5 | 2.8941975E-5 | 2.8941975E-5 | 1.0 | 0.0 | 3.349229E-4 | 2.893822E-4 | 2.893822E-4 | 1.0 | 0.0 |
+| 6.7 | 6.138733E-7 | 5.2636017E-7 | 5.2636017E-7 | 1.0 | 0.0 | 2.6308828E-6 | 2.2558272E-6 | 2.2558272E-6 | 1.0 | 0.0 | 3.203053E-5 | 2.7464352E-5 | 2.7464352E-5 | 1.0 | 0.0 | 3.2025913E-4 | 2.746097E-4 | 2.746097E-4 | 1.0 | 0.0 |
+| 6.8 | 5.84778E-7 | 5.00312E-7 | 5.00312E-7 | 1.0 | 0.0 | 2.506189E-6 | 2.1441924E-6 | 2.1441924E-6 | 1.0 | 0.0 | 3.0512423E-5 | 2.6105232E-5 | 2.6105232E-5 | 1.0 | 0.0 | 3.0508233E-4 | 2.6102175E-4 | 2.6102175E-4 | 1.0 | 0.0 |
+| 6.9 | 5.322785E-7 | 4.5802537E-7 | 4.5802537E-7 | 1.0 | 0.0 | 2.2811914E-6 | 1.9629645E-6 | 1.9629645E-6 | 1.0 | 0.0 | 2.7773152E-5 | 2.389883E-5 | 2.389883E-5 | 1.0 | 0.0 | 2.7769682E-4 | 2.3896269E-4 | 2.3896269E-4 | 1.0 | 0.0 |
+| 7.0 | 4.8147206E-7 | 4.112585E-7 | 4.112585E-7 | 1.0 | 0.0 | 2.06345E-6 | 1.7625351E-6 | 1.7625351E-6 | 1.0 | 0.0 | 2.5122214E-5 | 2.1458654E-5 | 2.1458654E-5 | 1.0 | 0.0 | 2.5119373E-4 | 2.1456591E-4 | 2.1456591E-4 | 1.0 | 0.0 |
+| 7.1 | 4.1932955E-7 | 3.545729E-7 | 3.545729E-7 | 1.0 | 0.0 | 1.7971255E-6 | 1.5195972E-6 | 1.5195972E-6 | 1.0 | 0.0 | 2.1879783E-5 | 1.850094E-5 | 1.850094E-5 | 1.0 | 0.0 | 2.1877629E-4 | 1.8499405E-4 | 1.8499405E-4 | 1.0 | 0.0 |
+| 7.2 | 3.426051E-7 | 2.781165E-7 | 2.781165E-7 | 1.0 | 0.0 | 1.4683067E-6 | 1.1919273E-6 | 1.1919273E-6 | 1.0 | 0.0 | 1.7876488E-5 | 1.4511617E-5 | 1.4511617E-5 | 1.0 | 0.0 | 1.787505E-4 | 1.4510672E-4 | 1.4510672E-4 | 1.0 | 0.0 |
+| 7.3 | 2.7771645E-7 | 2.2097676E-7 | 2.2097676E-7 | 1.0 | 0.0 | 1.1902127E-6 | 9.4704285E-7 | 9.4704285E-7 | 1.0 | 0.0 | 1.4490744E-5 | 1.15301855E-5 | 1.15301855E-5 | 1.0 | 0.0 | 1.4489799E-4 | 1.15295894E-4 | 1.15295894E-4 | 1.0 | 0.0 |
+| 7.4 | 2.2756493E-7 | 1.784084E-7 | 1.784084E-7 | 1.0 | 0.0 | 9.752779E-7 | 7.6460714E-7 | 7.6460714E-7 | 1.0 | 0.0 | 1.1873944E-5 | 9.309052E-6 | 9.309052E-6 | 1.0 | 0.0 | 1.18733085E-4 | 9.308664E-5 | 9.308664E-5 | 1.0 | 0.0 |
+| 7.5 | 1.7874558E-7 | 1.3543603E-7 | 1.3543603E-7 | 1.0 | 0.0 | 7.660522E-7 | 5.804399E-7 | 5.804399E-7 | 1.0 | 0.0 | 9.326646E-6 | 7.0668334E-6 | 7.0668334E-6 | 1.0 | 0.0 | 9.326255E-5 | 7.06661E-5 | 7.06661E-5 | 1.0 | 0.0 |
+| 7.6 | 1.3124549E-7 | 9.25154E-8 | 9.25154E-8 | 1.0 | 0.0 | 5.624805E-7 | 3.964945E-7 | 3.964945E-7 | 1.0 | 0.0 | 6.8481786E-6 | 4.82731E-6 | 4.82731E-6 | 1.0 | 0.0 | 6.8479676E-5 | 4.8272068E-5 | 4.8272068E-5 | 1.0 | 0.0 |
+| 7.7 | 8.439993E-8 | 5.0905733E-8 | 5.0905733E-8 | 1.0 | 0.0 | 3.6171392E-7 | 2.1816741E-7 | 2.1816741E-7 | 1.0 | 0.0 | 4.403858E-6 | 2.6561852E-6 | 2.6561852E-6 | 1.0 | 0.0 | 4.4037708E-5 | 2.6561547E-5 | 2.6561547E-5 | 1.0 | 0.0 |
+| 7.8 | 1.2591407E-8 | 7.22856E-9 | 7.22856E-9 | 1.0 | 0.0 | 5.3963173E-8 | 3.097954E-8 | 3.097954E-8 | 1.0 | 0.0 | 6.570014E-7 | 3.7717584E-7 | 3.7717584E-7 | 1.0 | 0.0 | 6.5699946E-6 | 3.771752E-6 | 3.771752E-6 | 1.0 | 0.0 |
+| 7.9 | 2.8324232E-11 | 2.1407542E-11 | 2.1407542E-11 | 1.0 | 0.0 | 1.2138957E-10 | 9.174661E-11 | 9.174661E-11 | 1.0 | 0.0 | 1.4779177E-9 | 1.1170151E-9 | 1.1170151E-9 | 1.0 | 0.0 | 1.4779177E-8 | 1.1170152E-8 | 1.1170152E-8 | 1.0 | 0.0 |
 
 ## Northridge
 *[(top)](#table-of-contents)*
@@ -3993,98 +4052,102 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.9 | 2.262199E-7 | 1.4665291E-7 | 1.4665291E-7 | 1.0 | 0.0 | 9.695135E-7 | 6.285123E-7 | 6.285123E-7 | 1.0 | 0.0 | 1.1803763E-5 | 7.652111E-6 | 7.652111E-6 | 1.0 | 0.0 | 1.1803136E-4 | 7.6518554E-5 | 7.6518554E-5 | 1.0 | 0.0 |
 | 8.0 | 2.865362E-9 | 1.275549E-9 | 1.275549E-9 | 1.0 | 0.0 | 1.2280123E-8 | 5.4666387E-9 | 5.4666387E-9 | 1.0 | 0.0 | 1.4951048E-7 | 6.6556325E-8 | 6.6556325E-8 | 1.0 | 0.0 | 1.4951038E-6 | 6.655632E-7 | 6.655632E-7 | 1.0 | 0.0 |
 
-## Hunting Creek - Berryessa 2011 CFM
+## Homestead Valley 2011
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Hunting_Creek_Berryessa_2011_CFM_1wk.png) | ![MPD](Hunting_Creek_Berryessa_2011_CFM_1mo.png) | ![MPD](Hunting_Creek_Berryessa_2011_CFM_1yr.png) | ![MPD](Hunting_Creek_Berryessa_2011_CFM_10yr.png) |
+| ![MPD](Homestead_Valley_2011_1wk.png) | ![MPD](Homestead_Valley_2011_1mo.png) | ![MPD](Homestead_Valley_2011_1yr.png) | ![MPD](Homestead_Valley_2011_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.1270982E-4 | 2.0016641E-4 | 2.0016641E-4 | 1.0 | 0.0 | 4.8295266E-4 | 8.5741625E-4 | 8.5741625E-4 | 1.0 | 0.0 | 0.0058641075 | 0.010387654 | 0.010387654 | 1.0 | 0.0 | 0.057117578 | 0.0980473 | 0.098056324 | 1.000092 | 1.0E-5 |
-| 6.1 | 1.1239393E-4 | 1.9964768E-4 | 1.9964768E-4 | 1.0 | 0.0 | 4.8159933E-4 | 8.551946E-4 | 8.551946E-4 | 1.0 | 0.0 | 0.0058477195 | 0.010360888 | 0.010360888 | 1.0 | 0.0 | 0.056962132 | 0.09780575 | 0.097814776 | 1.0000923 | 1.0E-5 |
-| 6.2 | 7.596265E-5 | 1.29413E-4 | 1.29413E-4 | 1.0 | 0.0 | 3.2551357E-4 | 5.543188E-4 | 5.543188E-4 | 1.0 | 0.0 | 0.0039559277 | 0.006721576 | 0.006721576 | 1.0 | 0.0 | 0.038862433 | 0.06459806 | 0.06460741 | 1.0001448 | 1.0E-5 |
-| 6.3 | 6.78794E-5 | 1.1451705E-4 | 1.1451705E-4 | 1.0 | 0.0 | 2.9087928E-4 | 4.906954E-4 | 4.906954E-4 | 1.0 | 0.0 | 0.003535705 | 0.005953176 | 0.005953176 | 1.0 | 0.0 | 0.034799766 | 0.05747131 | 0.057480734 | 1.000164 | 1.0E-5 |
-| 6.4 | 6.2165134E-5 | 1.043856E-4 | 1.043856E-4 | 1.0 | 0.0 | 2.6639478E-4 | 4.4729383E-4 | 4.4729383E-4 | 1.0 | 0.0 | 0.0032385332 | 0.0054280413 | 0.0054280413 | 1.0 | 0.0 | 0.03191742 | 0.052556038 | 0.052565515 | 1.0001802 | 1.0E-5 |
-| 6.5 | 5.4368087E-5 | 9.073028E-5 | 9.073028E-5 | 1.0 | 0.0 | 2.3298527E-4 | 3.8878949E-4 | 3.8878949E-4 | 1.0 | 0.0 | 0.0028329059 | 0.004720297 | 0.004720297 | 1.0 | 0.0 | 0.027970633 | 0.045885 | 0.045885 | 1.0 | 0.0 |
-| 6.6 | 4.729947E-5 | 7.848912E-5 | 7.848912E-5 | 1.0 | 0.0 | 2.0269625E-4 | 3.3634168E-4 | 3.3634168E-4 | 1.0 | 0.0 | 0.002465034 | 0.0040853387 | 0.0040853387 | 1.0 | 0.0 | 0.02437869 | 0.03985583 | 0.03985583 | 1.0 | 0.0 |
-| 6.7 | 3.6875328E-5 | 6.046134E-5 | 6.046134E-5 | 1.0 | 0.0 | 1.5802756E-4 | 2.590968E-4 | 2.590968E-4 | 1.0 | 0.0 | 0.0019222875 | 0.003148527 | 0.003148527 | 1.0 | 0.0 | 0.019057442 | 0.030895753 | 0.030895753 | 1.0 | 0.0 |
-| 6.8 | 2.0292036E-5 | 2.8978397E-5 | 2.8978397E-5 | 1.0 | 0.0 | 8.6962966E-5 | 1.2418722E-4 | 1.2418722E-4 | 1.0 | 0.0 | 0.0010582599 | 0.0015109128 | 0.0015109128 | 1.0 | 0.0 | 0.010532344 | 0.014979563 | 0.014979563 | 1.0 | 0.0 |
-| 6.9 | 1.7871042E-5 | 2.4474015E-5 | 2.4474015E-5 | 1.0 | 0.0 | 7.658793E-5 | 1.0488445E-4 | 1.0488445E-4 | 1.0 | 0.0 | 9.320591E-4 | 0.0012762214 | 0.0012762214 | 1.0 | 0.0 | 0.009281595 | 0.012680673 | 0.012680673 | 1.0 | 0.0 |
-| 7.0 | 1.6415532E-5 | 2.1907901E-5 | 2.1907901E-5 | 1.0 | 0.0 | 7.035038E-5 | 9.388765E-5 | 9.388765E-5 | 1.0 | 0.0 | 8.561793E-4 | 0.0011424861 | 0.0011424861 | 1.0 | 0.0 | 0.008528882 | 0.011365353 | 0.011365353 | 1.0 | 0.0 |
-| 7.1 | 1.5409885E-5 | 2.0347887E-5 | 2.0347887E-5 | 1.0 | 0.0 | 6.6040695E-5 | 8.720233E-5 | 8.720233E-5 | 1.0 | 0.0 | 8.0374884E-4 | 0.0010611742 | 0.0010611742 | 1.0 | 0.0 | 0.00800848 | 0.010561392 | 0.010561392 | 1.0 | 0.0 |
-| 7.2 | 1.4497423E-5 | 1.9056415E-5 | 1.9056415E-5 | 1.0 | 0.0 | 6.213033E-5 | 8.166781E-5 | 8.166781E-5 | 1.0 | 0.0 | 7.5617427E-4 | 9.938551E-4 | 9.938551E-4 | 1.0 | 0.0 | 0.0075360634 | 0.009894678 | 0.009894678 | 1.0 | 0.0 |
-| 7.3 | 1.3615175E-5 | 1.782753E-5 | 1.782753E-5 | 1.0 | 0.0 | 5.8349444E-5 | 7.640148E-5 | 7.640148E-5 | 1.0 | 0.0 | 7.101729E-4 | 9.297939E-4 | 9.297939E-4 | 1.0 | 0.0 | 0.0070790765 | 0.009259547 | 0.009259547 | 1.0 | 0.0 |
-| 7.4 | 1.2252825E-5 | 1.6027523E-5 | 1.6027523E-5 | 1.0 | 0.0 | 5.251105E-5 | 6.868759E-5 | 6.868759E-5 | 1.0 | 0.0 | 6.391345E-4 | 8.3595334E-4 | 8.3595334E-4 | 1.0 | 0.0 | 0.0063729943 | 0.00832853 | 0.00832853 | 1.0 | 0.0 |
-| 7.5 | 1.0913301E-5 | 1.42423E-5 | 1.42423E-5 | 1.0 | 0.0 | 4.6770452E-5 | 6.103701E-5 | 6.103701E-5 | 1.0 | 0.0 | 5.6928146E-4 | 7.4287504E-4 | 7.4287504E-4 | 1.0 | 0.0 | 0.0056782532 | 0.007404292 | 0.007404292 | 1.0 | 0.0 |
-| 7.6 | 8.623192E-6 | 1.1235461E-5 | 1.1235461E-5 | 1.0 | 0.0 | 3.6956015E-5 | 4.8151098E-5 | 4.8151098E-5 | 1.0 | 0.0 | 4.4984656E-4 | 5.860845E-4 | 5.860845E-4 | 1.0 | 0.0 | 0.00448937 | 0.005845703 | 0.005845703 | 1.0 | 0.0 |
-| 7.7 | 2.0993634E-6 | 2.662731E-6 | 2.662731E-6 | 1.0 | 0.0 | 8.997241E-6 | 1.1411655E-5 | 1.1411655E-5 | 1.0 | 0.0 | 1.09535904E-4 | 1.3892811E-4 | 1.3892811E-4 | 1.0 | 0.0 | 0.0010948193 | 0.0013884191 | 0.0013884191 | 1.0 | 0.0 |
-| 7.8 | 1.8428308E-7 | 2.1675433E-7 | 2.1675433E-7 | 1.0 | 0.0 | 7.897844E-7 | 9.289468E-7 | 9.289468E-7 | 1.0 | 0.0 | 9.615583E-6 | 1.1309872E-5 | 1.1309872E-5 | 1.0 | 0.0 | 9.615166E-5 | 1.1309158E-4 | 1.1309158E-4 | 1.0 | 0.0 |
+| 6.0 | 1.539795E-5 | 6.286795E-6 | 6.286795E-6 | 1.0 | 0.0 | 6.5989545E-5 | 2.6943244E-5 | 2.6943244E-5 | 1.0 | 0.0 | 8.0312655E-4 | 3.2800523E-4 | 3.2800523E-4 | 1.0 | 0.0 | 0.008002302 | 0.003277232 | 0.0032871992 | 1.0030414 | 1.0E-5 |
+| 6.1 | 1.539795E-5 | 6.286795E-6 | 6.286795E-6 | 1.0 | 0.0 | 6.5989545E-5 | 2.6943244E-5 | 2.6943244E-5 | 1.0 | 0.0 | 8.0312655E-4 | 3.2800523E-4 | 3.2800523E-4 | 1.0 | 0.0 | 0.008002302 | 0.003277232 | 0.0032871992 | 1.0030414 | 1.0E-5 |
+| 6.2 | 1.539795E-5 | 6.286795E-6 | 6.286795E-6 | 1.0 | 0.0 | 6.5989545E-5 | 2.6943244E-5 | 2.6943244E-5 | 1.0 | 0.0 | 8.0312655E-4 | 3.2800523E-4 | 3.2800523E-4 | 1.0 | 0.0 | 0.008002302 | 0.003277232 | 0.0032871992 | 1.0030414 | 1.0E-5 |
+| 6.3 | 1.539795E-5 | 6.286795E-6 | 6.286795E-6 | 1.0 | 0.0 | 6.5989545E-5 | 2.6943244E-5 | 2.6943244E-5 | 1.0 | 0.0 | 8.0312655E-4 | 3.2800523E-4 | 3.2800523E-4 | 1.0 | 0.0 | 0.008002302 | 0.003277232 | 0.0032871992 | 1.0030414 | 1.0E-5 |
+| 6.4 | 1.539795E-5 | 6.286795E-6 | 6.286795E-6 | 1.0 | 0.0 | 6.5989545E-5 | 2.6943244E-5 | 2.6943244E-5 | 1.0 | 0.0 | 8.0312655E-4 | 3.2800523E-4 | 3.2800523E-4 | 1.0 | 0.0 | 0.008002302 | 0.003277232 | 0.0032871992 | 1.0030414 | 1.0E-5 |
+| 6.5 | 1.0265258E-5 | 2.8789414E-6 | 2.8789414E-6 | 1.0 | 0.0 | 4.3993223E-5 | 1.2338301E-5 | 1.2338301E-5 | 1.0 | 0.0 | 5.3548586E-4 | 1.502154E-4 | 1.502154E-4 | 1.0 | 0.0 | 0.005341973 | 0.0015018206 | 0.0015018206 | 1.0 | 0.0 |
+| 6.6 | 6.664671E-6 | 5.34866E-7 | 5.34866E-7 | 1.0 | 0.0 | 2.8562565E-5 | 2.2922816E-6 | 2.2922816E-6 | 1.0 | 0.0 | 3.476937E-4 | 2.7908289E-5 | 2.7908289E-5 | 1.0 | 0.0 | 0.003471502 | 2.790595E-4 | 2.790595E-4 | 1.0 | 0.0 |
+| 6.7 | 6.5954046E-6 | 5.34866E-7 | 5.34866E-7 | 1.0 | 0.0 | 2.8265715E-5 | 2.2922816E-6 | 2.2922816E-6 | 1.0 | 0.0 | 3.4408073E-4 | 2.7908289E-5 | 2.7908289E-5 | 1.0 | 0.0 | 0.0034354846 | 2.790595E-4 | 2.790595E-4 | 1.0 | 0.0 |
+| 6.8 | 4.648189E-6 | 2.3268515E-7 | 2.3268515E-7 | 1.0 | 0.0 | 1.9920659E-5 | 9.972217E-7 | 9.972217E-7 | 1.0 | 0.0 | 2.4250703E-4 | 1.2141112E-5 | 1.2141112E-5 | 1.0 | 0.0 | 0.0024224254 | 1.2140496E-4 | 1.2140496E-4 | 1.0 | 0.0 |
+| 6.9 | 4.1428534E-6 | 1.934716E-7 | 1.934716E-7 | 1.0 | 0.0 | 1.7754966E-5 | 8.2916375E-7 | 8.2916375E-7 | 1.0 | 0.0 | 2.1614527E-4 | 1.0095025E-5 | 1.0095025E-5 | 1.0 | 0.0 | 0.0021593515 | 1.0094596E-4 | 1.0094596E-4 | 1.0 | 0.0 |
+| 7.0 | 3.0673707E-6 | 1.536975E-7 | 1.536975E-7 | 1.0 | 0.0 | 1.3145808E-5 | 6.5870336E-7 | 6.5870336E-7 | 1.0 | 0.0 | 1.6003846E-4 | 8.019685E-6 | 8.019685E-6 | 1.0 | 0.0 | 0.0015992324 | 8.019406E-5 | 8.019406E-5 | 1.0 | 0.0 |
+| 7.1 | 2.340854E-6 | 1.468967E-7 | 1.468967E-7 | 1.0 | 0.0 | 1.0032193E-5 | 6.295571E-7 | 6.295571E-7 | 1.0 | 0.0 | 1.221351E-4 | 7.664832E-6 | 7.664832E-6 | 1.0 | 0.0 | 0.00122068 | 7.6645774E-5 | 7.6645774E-5 | 1.0 | 0.0 |
+| 7.2 | 1.3754182E-6 | 1.392446E-7 | 1.392446E-7 | 1.0 | 0.0 | 5.8946357E-6 | 5.9676245E-7 | 5.9676245E-7 | 1.0 | 0.0 | 7.176483E-5 | 7.26556E-6 | 7.26556E-6 | 1.0 | 0.0 | 7.174166E-4 | 7.265332E-5 | 7.265332E-5 | 1.0 | 0.0 |
+| 7.3 | 1.2573237E-6 | 1.3828955E-7 | 1.3828955E-7 | 1.0 | 0.0 | 5.388519E-6 | 5.926694E-7 | 5.926694E-7 | 1.0 | 0.0 | 6.560324E-5 | 7.2157263E-6 | 7.2157263E-6 | 1.0 | 0.0 | 6.558388E-4 | 7.215502E-5 | 7.215502E-5 | 1.0 | 0.0 |
+| 7.4 | 1.0994207E-6 | 1.310781E-7 | 1.310781E-7 | 1.0 | 0.0 | 4.7117946E-6 | 5.6176316E-7 | 5.6176316E-7 | 1.0 | 0.0 | 5.736459E-5 | 6.8394456E-6 | 6.8394456E-6 | 1.0 | 0.0 | 5.734978E-4 | 6.8392445E-5 | 6.8392445E-5 | 1.0 | 0.0 |
+| 7.5 | 5.5569126E-7 | 6.77375E-8 | 6.77375E-8 | 1.0 | 0.0 | 2.3815317E-6 | 2.9030355E-7 | 2.9030355E-7 | 1.0 | 0.0 | 2.8994764E-5 | 3.5344408E-6 | 3.5344408E-6 | 1.0 | 0.0 | 2.899098E-4 | 3.534391E-5 | 3.534391E-5 | 1.0 | 0.0 |
 
-## San Gregorio (North) 2011 CFM
+## Great Valley 04b Gordon Valley
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](San_Gregorio_North_2011_CFM_1wk.png) | ![MPD](San_Gregorio_North_2011_CFM_1mo.png) | ![MPD](San_Gregorio_North_2011_CFM_1yr.png) | ![MPD](San_Gregorio_North_2011_CFM_10yr.png) |
+| ![MPD](Great_Valley_04b_Gordon_Valley_1wk.png) | ![MPD](Great_Valley_04b_Gordon_Valley_1mo.png) | ![MPD](Great_Valley_04b_Gordon_Valley_1yr.png) | ![MPD](Great_Valley_04b_Gordon_Valley_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 5.0283932E-5 | 4.3073043E-5 | 4.3073043E-5 | 1.0 | 0.0 | 2.1548476E-4 | 1.845856E-4 | 1.9458376E-4 | 1.0541654 | 1.0E-5 | 0.0026203706 | 0.0022450294 | 0.002255007 | 1.0044442 | 1.0E-5 | 0.02589687 | 0.022301044 | 0.022310821 | 1.0004385 | 1.0E-5 |
-| 6.1 | 5.0283932E-5 | 4.3073043E-5 | 4.3073043E-5 | 1.0 | 0.0 | 2.1548476E-4 | 1.845856E-4 | 1.9458376E-4 | 1.0541654 | 1.0E-5 | 0.0026203706 | 0.0022450294 | 0.002255007 | 1.0044442 | 1.0E-5 | 0.02589687 | 0.022301044 | 0.022310821 | 1.0004385 | 1.0E-5 |
-| 6.2 | 4.2998647E-5 | 3.4455905E-5 | 3.4455905E-5 | 1.0 | 0.0 | 1.842669E-4 | 1.4765965E-4 | 1.5765819E-4 | 1.0677133 | 1.0E-5 | 0.0022411412 | 0.0017962867 | 0.0018062687 | 1.0055571 | 1.0E-5 | 0.022186736 | 0.017893974 | 0.017903795 | 1.0005488 | 1.0E-5 |
-| 6.3 | 4.2998647E-5 | 3.4455905E-5 | 3.4455905E-5 | 1.0 | 0.0 | 1.842669E-4 | 1.4765965E-4 | 1.5765819E-4 | 1.0677133 | 1.0E-5 | 0.0022411412 | 0.0017962867 | 0.0018062687 | 1.0055571 | 1.0E-5 | 0.022186736 | 0.017893974 | 0.017903795 | 1.0005488 | 1.0E-5 |
-| 6.4 | 4.1101295E-5 | 3.2340977E-5 | 3.2340977E-5 | 1.0 | 0.0 | 1.7613651E-4 | 1.3859668E-4 | 1.4859528E-4 | 1.0721418 | 1.0E-5 | 0.0021423528 | 0.0016861213 | 0.0016961045 | 1.0059208 | 1.0E-5 | 0.02121817 | 0.016809238 | 0.01681907 | 1.000585 | 1.0E-5 |
-| 6.5 | 4.1032585E-5 | 3.2259002E-5 | 3.2259002E-5 | 1.0 | 0.0 | 1.7584208E-4 | 1.382454E-4 | 1.4824401E-4 | 1.0723251 | 1.0E-5 | 0.0021387753 | 0.0016818513 | 0.0016918345 | 1.0059358 | 1.0E-5 | 0.021183075 | 0.016767189 | 0.01677702 | 1.0005864 | 1.0E-5 |
-| 6.6 | 4.011629E-5 | 3.1280546E-5 | 3.1280546E-5 | 1.0 | 0.0 | 1.7191563E-4 | 1.3405245E-4 | 1.440511E-4 | 1.0745877 | 1.0E-5 | 0.0020910634 | 0.0016308803 | 0.001640864 | 1.0061216 | 1.0E-5 | 0.020714961 | 0.016264709 | 0.016274545 | 1.0006049 | 1.0E-5 |
-| 6.7 | 3.8583938E-5 | 2.9467401E-5 | 2.9467401E-5 | 1.0 | 0.0 | 1.6534925E-4 | 1.2628283E-4 | 1.3628157E-4 | 1.0791774 | 1.0E-5 | 0.0020112682 | 0.0015364232 | 0.0015464078 | 1.0064986 | 1.0E-5 | 0.019931622 | 0.015333165 | 0.015343012 | 1.0006422 | 1.0E-5 |
-| 6.8 | 3.44341E-5 | 2.44642E-5 | 2.44642E-5 | 1.0 | 0.0 | 1.4756636E-4 | 1.0484242E-4 | 1.14841365E-4 | 1.0953712 | 1.0E-5 | 0.0017951399 | 0.0012757193 | 0.0012857064 | 1.0078287 | 1.0E-5 | 0.017807078 | 0.012758123 | 0.012767996 | 1.0007738 | 1.0E-5 |
-| 6.9 | 3.221199E-5 | 2.1787615E-5 | 2.1787615E-5 | 1.0 | 0.0 | 1.3804408E-4 | 9.33722E-5 | 9.33722E-5 | 1.0 | 0.0 | 0.0016793909 | 0.0011362219 | 0.0011362219 | 1.0 | 0.0 | 0.01666756 | 0.011377644 | 0.011377644 | 1.0 | 0.0 |
-| 7.0 | 2.9186718E-5 | 1.815431E-5 | 1.815431E-5 | 1.0 | 0.0 | 1.2507994E-4 | 7.780189E-5 | 7.780189E-5 | 1.0 | 0.0 | 0.0015217843 | 9.4683067E-4 | 9.4683067E-4 | 1.0 | 0.0 | 0.015114053 | 0.009500756 | 0.009500756 | 1.0 | 0.0 |
-| 7.1 | 2.6840138E-5 | 1.5291298E-5 | 1.5291298E-5 | 1.0 | 0.0 | 1.1502409E-4 | 6.55325E-5 | 6.55325E-5 | 1.0 | 0.0 | 0.0013995186 | 7.97568E-4 | 7.97568E-4 | 1.0 | 0.0 | 0.013907375 | 0.008019351 | 0.008019351 | 1.0 | 0.0 |
-| 7.2 | 2.453002E-5 | 1.2612979E-5 | 1.2612979E-5 | 1.0 | 0.0 | 1.05124425E-4 | 5.4054508E-5 | 5.4054508E-5 | 1.0 | 0.0 | 0.0012791384 | 6.579155E-4 | 6.579155E-4 | 1.0 | 0.0 | 0.012718005 | 0.0066310135 | 0.0066310135 | 1.0 | 0.0 |
-| 7.3 | 2.3330727E-5 | 1.1494777E-5 | 1.1494777E-5 | 1.0 | 0.0 | 9.9985E-5 | 4.9262402E-5 | 4.9262402E-5 | 1.0 | 0.0 | 0.0012166376 | 5.9960515E-4 | 5.9960515E-4 | 1.0 | 0.0 | 0.012099981 | 0.0060498407 | 0.0060498407 | 1.0 | 0.0 |
-| 7.4 | 2.2136466E-5 | 1.0374679E-5 | 1.0374679E-5 | 1.0 | 0.0 | 9.486712E-5 | 4.446215E-5 | 4.446215E-5 | 1.0 | 0.0 | 0.0011543952 | 5.4119254E-4 | 5.4119254E-4 | 1.0 | 0.0 | 0.011484168 | 0.0054673133 | 0.0054673133 | 1.0 | 0.0 |
-| 7.5 | 2.0994974E-5 | 9.432709E-6 | 9.432709E-6 | 1.0 | 0.0 | 8.997535E-5 | 4.042527E-5 | 4.042527E-5 | 1.0 | 0.0 | 0.0010948994 | 4.920667E-4 | 4.920667E-4 | 1.0 | 0.0 | 0.010895205 | 0.004976314 | 0.004976314 | 1.0 | 0.0 |
-| 7.6 | 1.7091823E-5 | 6.897964E-6 | 6.897964E-6 | 1.0 | 0.0 | 7.3248615E-5 | 2.9562367E-5 | 2.9562367E-5 | 1.0 | 0.0 | 8.9143694E-4 | 3.598625E-4 | 3.598625E-4 | 1.0 | 0.0 | 0.008878695 | 0.003650556 | 0.003650556 | 1.0 | 0.0 |
-| 7.7 | 1.2772179E-5 | 4.0238565E-6 | 4.0238565E-6 | 1.0 | 0.0 | 5.473676E-5 | 1.7244984E-5 | 1.7244984E-5 | 1.0 | 0.0 | 6.6621625E-4 | 2.0993748E-4 | 2.0993748E-4 | 1.0 | 0.0 | 0.006642225 | 0.002138552 | 0.002138552 | 1.0 | 0.0 |
-| 7.8 | 7.041923E-6 | 1.9425775E-6 | 1.9425775E-6 | 1.0 | 0.0 | 3.017932E-5 | 8.325305E-6 | 8.325305E-6 | 1.0 | 0.0 | 3.6737128E-4 | 1.0135588E-4 | 1.0135588E-4 | 1.0 | 0.0 | 0.0036676454 | 0.0010389668 | 0.0010389668 | 1.0 | 0.0 |
-| 7.9 | 2.946768E-6 | 1.0045106E-6 | 1.0045106E-6 | 1.0 | 0.0 | 1.2628945E-5 | 4.3050386E-6 | 4.3050386E-6 | 1.0 | 0.0 | 1.5374656E-4 | 5.2412583E-5 | 5.2412583E-5 | 1.0 | 0.0 | 0.0015364023 | 5.346189E-4 | 5.346189E-4 | 1.0 | 0.0 |
-| 8.0 | 1.1433375E-6 | 5.1880994E-7 | 5.1880994E-7 | 1.0 | 0.0 | 4.9000087E-6 | 2.2234692E-6 | 2.2234692E-6 | 1.0 | 0.0 | 5.965597E-5 | 2.70704E-5 | 2.70704E-5 | 1.0 | 0.0 | 5.963996E-4 | 2.743333E-4 | 2.743333E-4 | 1.0 | 0.0 |
-| 8.1 | 2.6675295E-7 | 1.631507E-7 | 1.631507E-7 | 1.0 | 0.0 | 1.1432264E-6 | 6.992171E-7 | 6.992171E-7 | 1.0 | 0.0 | 1.3918692E-5 | 8.512935E-6 | 8.512935E-6 | 1.0 | 0.0 | 1.391782E-4 | 8.651227E-5 | 8.651227E-5 | 1.0 | 0.0 |
-| 8.2 | 1.2704569E-8 | 9.4541255E-9 | 9.4541255E-9 | 1.0 | 0.0 | 5.444815E-8 | 4.051768E-8 | 4.051768E-8 | 1.0 | 0.0 | 6.629061E-7 | 4.9330265E-7 | 4.9330265E-7 | 1.0 | 0.0 | 6.629041E-6 | 5.124241E-6 | 5.124241E-6 | 1.0 | 0.0 |
+| 6.0 | 2.1181217E-5 | 2.3983135E-5 | 2.3983135E-5 | 1.0 | 0.0 | 9.077348E-5 | 1.02781756E-4 | 1.02781756E-4 | 1.0 | 0.0 | 0.0011046068 | 0.0012508163 | 0.0012508163 | 1.0 | 0.0 | 0.010991322 | 0.01245421 | 0.012464085 | 1.000793 | 1.0E-5 |
+| 6.1 | 2.1181217E-5 | 2.3983135E-5 | 2.3983135E-5 | 1.0 | 0.0 | 9.077348E-5 | 1.02781756E-4 | 1.02781756E-4 | 1.0 | 0.0 | 0.0011046068 | 0.0012508163 | 0.0012508163 | 1.0 | 0.0 | 0.010991322 | 0.01245421 | 0.012464085 | 1.000793 | 1.0E-5 |
+| 6.2 | 2.1181217E-5 | 2.3983135E-5 | 2.3983135E-5 | 1.0 | 0.0 | 9.077348E-5 | 1.02781756E-4 | 1.02781756E-4 | 1.0 | 0.0 | 0.0011046068 | 0.0012508163 | 0.0012508163 | 1.0 | 0.0 | 0.010991322 | 0.01245421 | 0.012464085 | 1.000793 | 1.0E-5 |
+| 6.3 | 2.1181217E-5 | 2.3983135E-5 | 2.3983135E-5 | 1.0 | 0.0 | 9.077348E-5 | 1.02781756E-4 | 1.02781756E-4 | 1.0 | 0.0 | 0.0011046068 | 0.0012508163 | 0.0012508163 | 1.0 | 0.0 | 0.010991322 | 0.01245421 | 0.012464085 | 1.000793 | 1.0E-5 |
+| 6.4 | 1.0988268E-5 | 1.2255024E-5 | 1.2255024E-5 | 1.0 | 0.0 | 4.7091726E-5 | 5.252056E-5 | 5.252056E-5 | 1.0 | 0.0 | 5.731909E-4 | 6.3926616E-4 | 6.3926616E-4 | 1.0 | 0.0 | 0.005717147 | 0.00637586 | 0.006385796 | 1.0015584 | 1.0E-5 |
+| 6.5 | 1.0988268E-5 | 1.2255024E-5 | 1.2255024E-5 | 1.0 | 0.0 | 4.7091726E-5 | 5.252056E-5 | 5.252056E-5 | 1.0 | 0.0 | 5.731909E-4 | 6.3926616E-4 | 6.3926616E-4 | 1.0 | 0.0 | 0.005717147 | 0.00637586 | 0.006385796 | 1.0015584 | 1.0E-5 |
+| 6.6 | 1.0517822E-5 | 1.1724562E-5 | 1.1724562E-5 | 1.0 | 0.0 | 4.5075605E-5 | 5.024724E-5 | 5.024724E-5 | 1.0 | 0.0 | 5.4865726E-4 | 6.116041E-4 | 6.116041E-4 | 1.0 | 0.0 | 0.0054730466 | 0.0061007626 | 0.0061107012 | 1.0016291 | 1.0E-5 |
+| 6.7 | 7.789219E-6 | 8.678012E-6 | 8.678012E-6 | 1.0 | 0.0 | 3.3381937E-5 | 3.719098E-5 | 3.719098E-5 | 1.0 | 0.0 | 4.063493E-4 | 4.5271128E-4 | 4.5271128E-4 | 1.0 | 0.0 | 0.004056071 | 0.004518408 | 0.004518408 | 1.0 | 0.0 |
+| 6.8 | 7.5850853E-6 | 8.452748E-6 | 8.452748E-6 | 1.0 | 0.0 | 3.2507105E-5 | 3.622559E-5 | 3.622559E-5 | 1.0 | 0.0 | 3.957021E-4 | 4.4096244E-4 | 4.4096244E-4 | 1.0 | 0.0 | 0.0039499826 | 0.0044013867 | 0.0044013867 | 1.0 | 0.0 |
+| 6.9 | 6.604105E-6 | 7.3588617E-6 | 7.3588617E-6 | 1.0 | 0.0 | 2.8303E-5 | 3.153762E-5 | 3.153762E-5 | 1.0 | 0.0 | 3.4453452E-4 | 3.8390674E-4 | 3.8390674E-4 | 1.0 | 0.0 | 0.0034400085 | 0.003832822 | 0.003832822 | 1.0 | 0.0 |
+| 7.0 | 5.3701115E-6 | 5.9886747E-6 | 5.9886747E-6 | 1.0 | 0.0 | 2.301456E-5 | 2.5665513E-5 | 2.5665513E-5 | 1.0 | 0.0 | 2.8016625E-4 | 3.1243573E-4 | 3.1243573E-4 | 1.0 | 0.0 | 0.0027981328 | 0.0031202533 | 0.0031202533 | 1.0 | 0.0 |
+| 7.1 | 4.4685607E-6 | 4.986693E-6 | 4.986693E-6 | 1.0 | 0.0 | 1.9150835E-5 | 2.1371381E-5 | 2.1371381E-5 | 1.0 | 0.0 | 2.3313647E-4 | 2.6016796E-4 | 2.6016796E-4 | 1.0 | 0.0 | 0.0023289204 | 0.0025988787 | 0.0025988787 | 1.0 | 0.0 |
+| 7.2 | 2.833378E-6 | 3.1645566E-6 | 3.1645566E-6 | 1.0 | 0.0 | 1.2142991E-5 | 1.3562325E-5 | 1.3562325E-5 | 1.0 | 0.0 | 1.4783088E-4 | 1.6511054E-4 | 1.6511054E-4 | 1.0 | 0.0 | 0.0014773258 | 0.0016500506 | 0.0016500506 | 1.0 | 0.0 |
+| 7.3 | 7.0087293E-7 | 7.773133E-7 | 7.773133E-7 | 1.0 | 0.0 | 3.0037377E-6 | 3.3313408E-6 | 3.3313408E-6 | 1.0 | 0.0 | 3.656989E-5 | 4.0558778E-5 | 4.0558778E-5 | 1.0 | 0.0 | 3.6563876E-4 | 4.0555873E-4 | 4.0555873E-4 | 1.0 | 0.0 |
+| 7.4 | 3.112171E-8 | 3.206873E-8 | 3.206873E-8 | 1.0 | 0.0 | 1.3337875E-7 | 1.374374E-7 | 1.374374E-7 | 1.0 | 0.0 | 1.6238852E-6 | 1.6732992E-6 | 1.6732992E-6 | 1.0 | 0.0 | 1.6238733E-5 | 1.6732874E-5 | 1.6732874E-5 | 1.0 | 0.0 |
 
-## San Cayetano
+## Great Valley 05 Pittsburg - Kirby Hills alt1
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](San_Cayetano_1wk.png) | ![MPD](San_Cayetano_1mo.png) | ![MPD](San_Cayetano_1yr.png) | ![MPD](San_Cayetano_10yr.png) |
+| ![MPD](Great_Valley_05_Pittsburg_Kirby_Hills_alt1_1wk.png) | ![MPD](Great_Valley_05_Pittsburg_Kirby_Hills_alt1_1mo.png) | ![MPD](Great_Valley_05_Pittsburg_Kirby_Hills_alt1_1yr.png) | ![MPD](Great_Valley_05_Pittsburg_Kirby_Hills_alt1_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
-| 6.1 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
-| 6.2 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
-| 6.3 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
-| 6.4 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
-| 6.5 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
-| 6.6 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
-| 6.7 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
-| 6.8 | 2.3241924E-5 | 1.7938162E-5 | 1.7938162E-5 | 1.0 | 0.0 | 9.960445E-5 | 7.687559E-5 | 7.687559E-5 | 1.0 | 0.0 | 0.0012120095 | 9.35562E-4 | 9.35562E-4 | 1.0 | 0.0 | 0.012054204 | 0.009317089 | 0.009326996 | 1.0010633 | 1.0E-5 |
-| 6.9 | 2.2761007E-5 | 1.743357E-5 | 1.743357E-5 | 1.0 | 0.0 | 9.7543525E-5 | 7.471318E-5 | 7.471318E-5 | 1.0 | 0.0 | 0.0011869454 | 9.0925675E-4 | 9.0925675E-4 | 1.0 | 0.0 | 0.011806256 | 0.009056196 | 0.009066105 | 1.0010942 | 1.0E-5 |
-| 7.0 | 2.240283E-5 | 1.7067296E-5 | 1.7067296E-5 | 1.0 | 0.0 | 9.600859E-5 | 7.314352E-5 | 7.314352E-5 | 1.0 | 0.0 | 0.0011682777 | 8.9016196E-4 | 8.9016196E-4 | 1.0 | 0.0 | 0.011621549 | 0.008866779 | 0.00887669 | 1.0011178 | 1.0E-5 |
-| 7.1 | 2.1871154E-5 | 1.6587113E-5 | 1.6587113E-5 | 1.0 | 0.0 | 9.373015E-5 | 7.108571E-5 | 7.108571E-5 | 1.0 | 0.0 | 0.0011405671 | 8.6512824E-4 | 8.6512824E-4 | 1.0 | 0.0 | 0.011347309 | 0.008618405 | 0.008628319 | 1.0011503 | 1.0E-5 |
-| 7.2 | 2.0714133E-5 | 1.556559E-5 | 1.556559E-5 | 1.0 | 0.0 | 8.8771834E-5 | 6.670799E-5 | 6.670799E-5 | 1.0 | 0.0 | 0.0010802611 | 8.118704E-4 | 8.118704E-4 | 1.0 | 0.0 | 0.010750249 | 0.008089819 | 0.008099738 | 1.0012261 | 1.0E-5 |
-| 7.3 | 1.8408395E-5 | 1.399771E-5 | 1.399771E-5 | 1.0 | 0.0 | 7.8890735E-5 | 5.9988823E-5 | 5.9988823E-5 | 1.0 | 0.0 | 9.600714E-4 | 7.3012215E-4 | 7.3012215E-4 | 1.0 | 0.0 | 0.009559342 | 0.0072779534 | 0.0072878804 | 1.001364 | 1.0E-5 |
-| 7.4 | 1.6856795E-5 | 1.2850762E-5 | 1.2850762E-5 | 1.0 | 0.0 | 7.2241404E-5 | 5.5073546E-5 | 5.5073546E-5 | 1.0 | 0.0 | 8.7918417E-4 | 6.70317E-4 | 6.70317E-4 | 1.0 | 0.0 | 0.00875714 | 0.0066836313 | 0.0066935644 | 1.0014862 | 1.0E-5 |
-| 7.5 | 1.2822778E-5 | 9.578011E-6 | 9.578011E-6 | 1.0 | 0.0 | 5.495361E-5 | 4.104798E-5 | 4.104798E-5 | 1.0 | 0.0 | 6.688548E-4 | 4.996461E-4 | 4.996461E-4 | 1.0 | 0.0 | 0.006668452 | 0.0049853986 | 0.004995349 | 1.0019958 | 1.0E-5 |
-| 7.6 | 5.6272684E-6 | 3.8551166E-6 | 3.8551166E-6 | 1.0 | 0.0 | 2.4116642E-5 | 1.6521824E-5 | 1.6521824E-5 | 1.0 | 0.0 | 2.9358055E-4 | 2.0113474E-4 | 2.0113474E-4 | 1.0 | 0.0 | 0.0029319301 | 0.002009538 | 0.002009538 | 1.0 | 0.0 |
-| 7.7 | 3.5261346E-6 | 2.3408315E-6 | 2.3408315E-6 | 1.0 | 0.0 | 1.5111918E-5 | 1.0032097E-5 | 1.0032097E-5 | 1.0 | 0.0 | 1.8397206E-4 | 1.22134E-4 | 1.22134E-4 | 1.0 | 0.0 | 0.0018381984 | 0.0012206762 | 0.0012206762 | 1.0 | 0.0 |
-| 7.8 | 1.4826929E-6 | 1.0564792E-6 | 1.0564792E-6 | 1.0 | 0.0 | 6.354383E-6 | 4.5277598E-6 | 4.5277598E-6 | 1.0 | 0.0 | 7.736187E-5 | 5.5124103E-5 | 5.5124103E-5 | 1.0 | 0.0 | 7.733494E-4 | 5.5110635E-4 | 5.5110635E-4 | 1.0 | 0.0 |
-| 7.9 | 2.7568166E-7 | 1.697944E-7 | 1.697944E-7 | 1.0 | 0.0 | 1.1814923E-6 | 7.2769006E-7 | 7.2769006E-7 | 1.0 | 0.0 | 1.4384574E-5 | 8.859591E-6 | 8.859591E-6 | 1.0 | 0.0 | 1.4383643E-4 | 8.859242E-5 | 8.859242E-5 | 1.0 | 0.0 |
-| 8.0 | 5.407832E-8 | 2.6891726E-8 | 2.6891726E-8 | 1.0 | 0.0 | 2.3176422E-7 | 1.1525025E-7 | 1.1525025E-7 | 1.0 | 0.0 | 2.8217257E-6 | 1.4031709E-6 | 1.4031709E-6 | 1.0 | 0.0 | 2.8216898E-5 | 1.4031625E-5 | 1.4031625E-5 | 1.0 | 0.0 |
+| 6.0 | 4.187212E-5 | 5.3447573E-5 | 5.3447573E-5 | 1.0 | 0.0 | 1.794396E-4 | 2.2904667E-4 | 2.2904667E-4 | 1.0 | 0.0 | 0.002182488 | 0.0027860666 | 0.0027860666 | 1.0 | 0.0 | 0.021611776 | 0.027605776 | 0.027615499 | 1.0003523 | 1.0E-5 |
+| 6.1 | 4.187212E-5 | 5.3447573E-5 | 5.3447573E-5 | 1.0 | 0.0 | 1.794396E-4 | 2.2904667E-4 | 2.2904667E-4 | 1.0 | 0.0 | 0.002182488 | 0.0027860666 | 0.0027860666 | 1.0 | 0.0 | 0.021611776 | 0.027605776 | 0.027615499 | 1.0003523 | 1.0E-5 |
+| 6.2 | 1.7353306E-5 | 2.2156657E-5 | 2.2156657E-5 | 1.0 | 0.0 | 7.436919E-5 | 9.495596E-5 | 9.495596E-5 | 1.0 | 0.0 | 9.050688E-4 | 0.0011558724 | 0.0011558724 | 1.0 | 0.0 | 0.009013915 | 0.011536266 | 0.011546151 | 1.0008569 | 1.0E-5 |
+| 6.3 | 1.7353306E-5 | 2.2156657E-5 | 2.2156657E-5 | 1.0 | 0.0 | 7.436919E-5 | 9.495596E-5 | 9.495596E-5 | 1.0 | 0.0 | 9.050688E-4 | 0.0011558724 | 0.0011558724 | 1.0 | 0.0 | 0.009013915 | 0.011536266 | 0.011546151 | 1.0008569 | 1.0E-5 |
+| 6.4 | 1.4028824E-5 | 1.7902436E-5 | 1.7902436E-5 | 1.0 | 0.0 | 6.0122147E-5 | 7.6724726E-5 | 7.6724726E-5 | 1.0 | 0.0 | 7.3174125E-4 | 9.341235E-4 | 9.341235E-4 | 1.0 | 0.0 | 0.0072933645 | 0.00933907 | 0.009348976 | 1.0010607 | 1.0E-5 |
+
+## Los Alamos extension
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Los_Alamos_extension_1wk.png) | ![MPD](Los_Alamos_extension_1mo.png) | ![MPD](Los_Alamos_extension_1yr.png) | ![MPD](Los_Alamos_extension_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
+| 6.1 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
+| 6.2 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
+| 6.3 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
+| 6.4 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
+| 6.5 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
+| 6.6 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
+| 6.7 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
+| 6.8 | 3.6584688E-6 | 3.7189127E-6 | 3.7189127E-6 | 1.0 | 0.0 | 1.5679057E-5 | 1.5938105E-5 | 1.5938105E-5 | 1.0 | 0.0 | 1.9087581E-4 | 1.9403009E-4 | 1.9403009E-4 | 1.0 | 0.0 | 0.0019071194 | 0.0019386992 | 0.0019486798 | 1.005148 | 1.0E-5 |
+| 6.9 | 3.644631E-6 | 3.7046225E-6 | 3.7046225E-6 | 1.0 | 0.0 | 1.5619753E-5 | 1.5876862E-5 | 1.5876862E-5 | 1.0 | 0.0 | 1.901539E-4 | 1.9328458E-4 | 1.9328458E-4 | 1.0 | 0.0 | 0.0018999127 | 0.0019312571 | 0.0019412378 | 1.005168 | 1.0E-5 |
+| 7.0 | 3.6318522E-6 | 3.6913827E-6 | 3.6913827E-6 | 1.0 | 0.0 | 1.5564989E-5 | 1.5820122E-5 | 1.5820122E-5 | 1.0 | 0.0 | 1.8948725E-4 | 1.9259389E-4 | 1.9259389E-4 | 1.0 | 0.0 | 0.0018932576 | 0.0019243622 | 0.0019343429 | 1.0051866 | 1.0E-5 |
+| 7.1 | 3.5001724E-6 | 3.5554517E-6 | 3.5554517E-6 | 1.0 | 0.0 | 1.5000653E-5 | 1.5237567E-5 | 1.5237567E-5 | 1.0 | 0.0 | 1.8261763E-4 | 1.855025E-4 | 1.855025E-4 | 1.0 | 0.0 | 0.0018246764 | 0.0018535672 | 0.0018635486 | 1.005385 | 1.0E-5 |
+| 7.2 | 2.5204702E-6 | 2.5437337E-6 | 2.5437337E-6 | 1.0 | 0.0 | 1.080197E-5 | 1.0901671E-5 | 1.0901671E-5 | 1.0 | 0.0 | 1.3150605E-4 | 1.3271981E-4 | 1.3271981E-4 | 1.0 | 0.0 | 0.0013142825 | 0.0013264111 | 0.0013363978 | 1.0075291 | 1.0E-5 |
+| 7.3 | 2.1399692E-6 | 2.150166E-6 | 2.150166E-6 | 1.0 | 0.0 | 9.1712645E-6 | 9.214965E-6 | 9.214965E-6 | 1.0 | 0.0 | 1.1165442E-4 | 1.12186455E-4 | 1.12186455E-4 | 1.0 | 0.0 | 0.0011159834 | 0.0011213014 | 0.0011312902 | 1.0089082 | 1.0E-5 |
+| 7.4 | 1.9660122E-6 | 1.9702686E-6 | 1.9702686E-6 | 1.0 | 0.0 | 8.42574E-6 | 8.443981E-6 | 8.443981E-6 | 1.0 | 0.0 | 1.0257855E-4 | 1.02800645E-4 | 1.02800645E-4 | 1.0 | 0.0 | 0.0010253121 | 0.001027534 | 0.001027534 | 1.0 | 0.0 |
+| 7.5 | 1.7204633E-6 | 1.7151268E-6 | 1.7151268E-6 | 1.0 | 0.0 | 7.373393E-6 | 7.3505225E-6 | 7.3505225E-6 | 1.0 | 0.0 | 8.976737E-5 | 8.948897E-5 | 8.948897E-5 | 1.0 | 0.0 | 8.9731114E-4 | 8.945323E-4 | 8.945323E-4 | 1.0 | 0.0 |
+| 7.6 | 1.3717638E-6 | 1.3536055E-6 | 1.3536055E-6 | 1.0 | 0.0 | 5.878974E-6 | 5.8011537E-6 | 5.8011537E-6 | 1.0 | 0.0 | 7.157416E-5 | 7.062678E-5 | 7.062678E-5 | 1.0 | 0.0 | 7.1551115E-4 | 7.06046E-4 | 7.06046E-4 | 1.0 | 0.0 |
+| 7.7 | 8.272564E-7 | 7.957779E-7 | 7.957779E-7 | 1.0 | 0.0 | 3.5453797E-6 | 3.4104723E-6 | 3.4104723E-6 | 1.0 | 0.0 | 4.3164142E-5 | 4.152171E-5 | 4.152171E-5 | 1.0 | 0.0 | 4.315576E-4 | 4.1513972E-4 | 4.1513972E-4 | 1.0 | 0.0 |
+| 7.8 | 3.9708277E-7 | 3.6719734E-7 | 3.6719734E-7 | 1.0 | 0.0 | 1.7017821E-6 | 1.5737019E-6 | 1.5737019E-6 | 1.0 | 0.0 | 2.0719E-5 | 1.9159654E-5 | 1.9159654E-5 | 1.0 | 0.0 | 2.071707E-4 | 1.9158008E-4 | 1.9158008E-4 | 1.0 | 0.0 |
+| 7.9 | 9.292528E-8 | 7.8892484E-8 | 7.8892484E-8 | 1.0 | 0.0 | 3.9825116E-7 | 3.381106E-7 | 3.381106E-7 | 1.0 | 0.0 | 4.848697E-6 | 4.116489E-6 | 4.116489E-6 | 1.0 | 0.0 | 4.8485912E-5 | 4.1164134E-5 | 4.1164134E-5 | 1.0 | 0.0 |
+| 8.0 | 7.880441E-11 | 8.235457E-11 | 8.235457E-11 | 1.0 | 0.0 | 3.3773329E-10 | 3.52948E-10 | 3.52948E-10 | 1.0 | 0.0 | 4.1119033E-9 | 4.2971413E-9 | 4.2971413E-9 | 1.0 | 0.0 | 4.1119034E-8 | 4.2971415E-8 | 4.2971415E-8 | 1.0 | 0.0 |
 
 ## Greenville (No) 2011 CFM
 *[(top)](#table-of-contents)*
@@ -4113,559 +4176,6 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.5 | 1.6763418E-6 | 2.1734766E-6 | 2.1734766E-6 | 1.0 | 0.0 | 7.184302E-6 | 9.3148665E-6 | 9.3148665E-6 | 1.0 | 0.0 | 8.746537E-5 | 1.1340265E-4 | 1.1340265E-4 | 1.0 | 0.0 | 8.743095E-4 | 0.0011334948 | 0.0011334948 | 1.0 | 0.0 |
 | 7.6 | 1.1935462E-6 | 1.5459636E-6 | 1.5459636E-6 | 1.0 | 0.0 | 5.115188E-6 | 6.625542E-6 | 6.625542E-6 | 1.0 | 0.0 | 6.2275634E-5 | 8.0663034E-5 | 8.0663034E-5 | 1.0 | 0.0 | 6.2258187E-4 | 8.063682E-4 | 8.063682E-4 | 1.0 | 0.0 |
 | 7.7 | 3.0464201E-7 | 3.984723E-7 | 3.984723E-7 | 1.0 | 0.0 | 1.3056081E-6 | 1.7077374E-6 | 1.7077374E-6 | 1.0 | 0.0 | 1.589566E-5 | 2.0791509E-5 | 2.0791509E-5 | 1.0 | 0.0 | 1.5894524E-4 | 2.0790035E-4 | 2.0790035E-4 | 1.0 | 0.0 |
-
-## Hayward (So) extension 2011 CFM
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Hayward_So_extension_2011_CFM_1wk.png) | ![MPD](Hayward_So_extension_2011_CFM_1mo.png) | ![MPD](Hayward_So_extension_2011_CFM_1yr.png) | ![MPD](Hayward_So_extension_2011_CFM_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.1721256E-4 | 2.3636376E-4 | 2.3636376E-4 | 1.0 | 0.0 | 5.022428E-4 | 0.0010126528 | 0.0010126528 | 1.0 | 0.0 | 0.0060976758 | 0.012250351 | 0.012250351 | 1.0 | 0.0 | 0.0593305 | 0.11286398 | 0.11287285 | 1.0000786 | 1.0E-5 |
-| 6.1 | 6.99169E-5 | 1.3795098E-4 | 1.3795098E-4 | 1.0 | 0.0 | 2.9960944E-4 | 5.9109874E-4 | 5.9109874E-4 | 1.0 | 0.0 | 0.0036416445 | 0.007173764 | 0.007173764 | 1.0 | 0.0 | 0.035825435 | 0.06782111 | 0.06782111 | 1.0 | 0.0 |
-| 6.2 | 6.99169E-5 | 1.3795098E-4 | 1.3795098E-4 | 1.0 | 0.0 | 2.9960944E-4 | 5.9109874E-4 | 5.9109874E-4 | 1.0 | 0.0 | 0.0036416445 | 0.007173764 | 0.007173764 | 1.0 | 0.0 | 0.035825435 | 0.06782111 | 0.06782111 | 1.0 | 0.0 |
-| 6.3 | 6.970908E-5 | 1.3763242E-4 | 1.3763242E-4 | 1.0 | 0.0 | 2.9871898E-4 | 5.897341E-4 | 5.897341E-4 | 1.0 | 0.0 | 0.0036308395 | 0.007157299 | 0.007157299 | 1.0 | 0.0 | 0.035720866 | 0.06767006 | 0.06767006 | 1.0 | 0.0 |
-| 6.4 | 6.9517155E-5 | 1.3730107E-4 | 1.3730107E-4 | 1.0 | 0.0 | 2.9789665E-4 | 5.883147E-4 | 5.883147E-4 | 1.0 | 0.0 | 0.0036208609 | 0.0071402094 | 0.0071402094 | 1.0 | 0.0 | 0.03562429 | 0.06751409 | 0.06751409 | 1.0 | 0.0 |
-| 6.5 | 4.786248E-5 | 9.418472E-5 | 9.418472E-5 | 1.0 | 0.0 | 2.0510878E-4 | 4.03589E-4 | 4.03589E-4 | 1.0 | 0.0 | 0.0024943394 | 0.0049030366 | 0.0049030366 | 1.0 | 0.0 | 0.02466527 | 0.04691766 | 0.04691766 | 1.0 | 0.0 |
-| 6.6 | 4.4662214E-5 | 8.885063E-5 | 8.885063E-5 | 1.0 | 0.0 | 1.9139545E-4 | 3.8073547E-4 | 3.8073547E-4 | 1.0 | 0.0 | 0.0023277493 | 0.0046260646 | 0.0046260646 | 1.0 | 0.0 | 0.02303517 | 0.04430889 | 0.04430889 | 1.0 | 0.0 |
-| 6.7 | 3.884542E-5 | 7.8680896E-5 | 7.8680896E-5 | 1.0 | 0.0 | 1.6646975E-4 | 3.3716275E-4 | 3.3716275E-4 | 1.0 | 0.0 | 0.002024885 | 0.004097675 | 0.004097675 | 1.0 | 0.0 | 0.020065336 | 0.039348204 | 0.039348204 | 1.0 | 0.0 |
-| 6.8 | 3.4221863E-5 | 6.8586945E-5 | 6.8586945E-5 | 1.0 | 0.0 | 1.4665688E-4 | 2.939133E-4 | 2.939133E-4 | 1.0 | 0.0 | 0.0017840851 | 0.003572944 | 0.003572944 | 1.0 | 0.0 | 0.017698295 | 0.034435116 | 0.034435116 | 1.0 | 0.0 |
-| 6.9 | 1.6927712E-5 | 3.008159E-5 | 3.008159E-5 | 1.0 | 0.0 | 7.2545314E-5 | 1.2891505E-4 | 1.2891505E-4 | 1.0 | 0.0 | 8.828813E-4 | 0.0015684677 | 0.0015684677 | 1.0 | 0.0 | 0.008793819 | 0.01547308 | 0.01547308 | 1.0 | 0.0 |
-| 7.0 | 1.2509653E-5 | 2.2481563E-5 | 2.2481563E-5 | 1.0 | 0.0 | 5.3611697E-5 | 9.6346244E-5 | 9.6346244E-5 | 1.0 | 0.0 | 6.525269E-4 | 0.0011724284 | 0.0011724284 | 1.0 | 0.0 | 0.0065061417 | 0.011591685 | 0.011591685 | 1.0 | 0.0 |
-| 7.1 | 8.751583E-6 | 1.4942405E-5 | 1.4942405E-5 | 1.0 | 0.0 | 3.750624E-5 | 6.403734E-5 | 6.403734E-5 | 1.0 | 0.0 | 4.5654282E-4 | 7.793816E-4 | 7.793816E-4 | 1.0 | 0.0 | 0.0045560603 | 0.0077718985 | 0.0077718985 | 1.0 | 0.0 |
-| 7.2 | 6.354379E-6 | 1.1514803E-5 | 1.1514803E-5 | 1.0 | 0.0 | 2.7232769E-5 | 4.934825E-5 | 4.934825E-5 | 1.0 | 0.0 | 3.3150852E-4 | 6.0065417E-4 | 6.0065417E-4 | 1.0 | 0.0 | 0.0033101442 | 0.0060084416 | 0.0060084416 | 1.0 | 0.0 |
-| 7.3 | 4.645554E-6 | 8.833633E-6 | 8.833633E-6 | 1.0 | 0.0 | 1.9909365E-5 | 3.78579E-5 | 3.78579E-5 | 1.0 | 0.0 | 2.4236954E-4 | 4.608264E-4 | 4.608264E-4 | 1.0 | 0.0 | 0.0024210536 | 0.004618521 | 0.004618521 | 1.0 | 0.0 |
-| 7.4 | 4.23437E-6 | 8.007689E-6 | 8.007689E-6 | 1.0 | 0.0 | 1.8147173E-5 | 3.4318236E-5 | 3.4318236E-5 | 1.0 | 0.0 | 2.2091944E-4 | 4.177483E-4 | 4.177483E-4 | 1.0 | 0.0 | 0.0022069993 | 0.004189641 | 0.004189641 | 1.0 | 0.0 |
-| 7.5 | 2.2187417E-6 | 3.9638594E-6 | 3.9638594E-6 | 1.0 | 0.0 | 9.508858E-6 | 1.6987873E-5 | 1.6987873E-5 | 1.0 | 0.0 | 1.157642E-4 | 2.0681036E-4 | 2.0681036E-4 | 1.0 | 0.0 | 0.0011570391 | 0.00207941 | 0.00207941 | 1.0 | 0.0 |
-| 7.6 | 2.7952495E-8 | 3.8804295E-8 | 3.8804295E-8 | 1.0 | 0.0 | 1.1979641E-7 | 1.6630412E-7 | 1.6630412E-7 | 1.0 | 0.0 | 1.4585203E-6 | 2.0247508E-6 | 2.0247508E-6 | 1.0 | 0.0 | 1.4585107E-5 | 2.0338077E-5 | 2.0338077E-5 | 1.0 | 0.0 |
-| 7.7 | 1.7192724E-8 | 2.3451456E-8 | 2.3451456E-8 | 1.0 | 0.0 | 7.36831E-8 | 1.00506234E-7 | 1.00506234E-7 | 1.0 | 0.0 | 8.9709135E-7 | 1.2236627E-6 | 1.2236627E-6 | 1.0 | 0.0 | 8.970877E-6 | 1.2304719E-5 | 1.2304719E-5 | 1.0 | 0.0 |
-
-## Santa Susana alt 1
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Santa_Susana_alt_1_1wk.png) | ![MPD](Santa_Susana_alt_1_1mo.png) | ![MPD](Santa_Susana_alt_1_1yr.png) | ![MPD](Santa_Susana_alt_1_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.674877E-5 | 2.7199834E-5 | 2.7199834E-5 | 1.0 | 0.0 | 1.1463255E-4 | 1.1656615E-4 | 1.1656615E-4 | 1.0 | 0.0 | 0.0013947578 | 0.0014183826 | 0.0014183826 | 1.0 | 0.0 | 0.013860362 | 0.014105062 | 0.014114921 | 1.0006989 | 1.0E-5 |
-| 6.1 | 2.674877E-5 | 2.7199834E-5 | 2.7199834E-5 | 1.0 | 0.0 | 1.1463255E-4 | 1.1656615E-4 | 1.1656615E-4 | 1.0 | 0.0 | 0.0013947578 | 0.0014183826 | 0.0014183826 | 1.0 | 0.0 | 0.013860362 | 0.014105062 | 0.014114921 | 1.0006989 | 1.0E-5 |
-| 6.2 | 2.674877E-5 | 2.7199834E-5 | 2.7199834E-5 | 1.0 | 0.0 | 1.1463255E-4 | 1.1656615E-4 | 1.1656615E-4 | 1.0 | 0.0 | 0.0013947578 | 0.0014183826 | 0.0014183826 | 1.0 | 0.0 | 0.013860362 | 0.014105062 | 0.014114921 | 1.0006989 | 1.0E-5 |
-| 6.3 | 2.674877E-5 | 2.7199834E-5 | 2.7199834E-5 | 1.0 | 0.0 | 1.1463255E-4 | 1.1656615E-4 | 1.1656615E-4 | 1.0 | 0.0 | 0.0013947578 | 0.0014183826 | 0.0014183826 | 1.0 | 0.0 | 0.013860362 | 0.014105062 | 0.014114921 | 1.0006989 | 1.0E-5 |
-| 6.4 | 2.674877E-5 | 2.7199834E-5 | 2.7199834E-5 | 1.0 | 0.0 | 1.1463255E-4 | 1.1656615E-4 | 1.1656615E-4 | 1.0 | 0.0 | 0.0013947578 | 0.0014183826 | 0.0014183826 | 1.0 | 0.0 | 0.013860362 | 0.014105062 | 0.014114921 | 1.0006989 | 1.0E-5 |
-| 6.5 | 2.674877E-5 | 2.7199834E-5 | 2.7199834E-5 | 1.0 | 0.0 | 1.1463255E-4 | 1.1656615E-4 | 1.1656615E-4 | 1.0 | 0.0 | 0.0013947578 | 0.0014183826 | 0.0014183826 | 1.0 | 0.0 | 0.013860362 | 0.014105062 | 0.014114921 | 1.0006989 | 1.0E-5 |
-| 6.6 | 2.6647976E-5 | 2.7076161E-5 | 2.7076161E-5 | 1.0 | 0.0 | 1.14200615E-4 | 1.1603617E-4 | 1.1603617E-4 | 1.0 | 0.0 | 0.0013895056 | 0.0014119387 | 0.0014119387 | 1.0 | 0.0 | 0.013808494 | 0.014041442 | 0.014051301 | 1.0007021 | 1.0E-5 |
-| 6.7 | 2.6647976E-5 | 2.7076161E-5 | 2.7076161E-5 | 1.0 | 0.0 | 1.14200615E-4 | 1.1603617E-4 | 1.1603617E-4 | 1.0 | 0.0 | 0.0013895056 | 0.0014119387 | 0.0014119387 | 1.0 | 0.0 | 0.013808494 | 0.014041442 | 0.014051301 | 1.0007021 | 1.0E-5 |
-| 6.8 | 1.9073179E-5 | 1.7638224E-5 | 1.7638224E-5 | 1.0 | 0.0 | 8.1739636E-5 | 7.5590295E-5 | 7.5590295E-5 | 1.0 | 0.0 | 9.947256E-4 | 9.199414E-4 | 9.199414E-4 | 1.0 | 0.0 | 0.009902848 | 0.009163587 | 0.009173496 | 1.0010812 | 1.0E-5 |
-| 6.9 | 1.9041876E-5 | 1.7620354E-5 | 1.7620354E-5 | 1.0 | 0.0 | 8.160549E-5 | 7.5513715E-5 | 7.5513715E-5 | 1.0 | 0.0 | 9.930939E-4 | 9.1900985E-4 | 9.1900985E-4 | 1.0 | 0.0 | 0.0098866755 | 0.009154348 | 0.009164256 | 1.0010824 | 1.0E-5 |
-| 7.0 | 1.5917482E-5 | 1.3864503E-5 | 1.3864503E-5 | 1.0 | 0.0 | 6.8215995E-5 | 5.941797E-5 | 5.941797E-5 | 1.0 | 0.0 | 8.302132E-4 | 7.231783E-4 | 7.231783E-4 | 1.0 | 0.0 | 0.008271185 | 0.007209145 | 0.007219073 | 1.0013771 | 1.0E-5 |
-| 7.1 | 1.577788E-5 | 1.3744504E-5 | 1.3744504E-5 | 1.0 | 0.0 | 6.761774E-5 | 5.8903715E-5 | 5.8903715E-5 | 1.0 | 0.0 | 8.2293496E-4 | 7.169214E-4 | 7.169214E-4 | 1.0 | 0.0 | 0.008198941 | 0.0071469797 | 0.007156908 | 1.0013891 | 1.0E-5 |
-| 7.2 | 1.5416446E-5 | 1.3470562E-5 | 1.3470562E-5 | 1.0 | 0.0 | 6.606882E-5 | 5.7729732E-5 | 5.7729732E-5 | 1.0 | 0.0 | 8.0409093E-4 | 7.026374E-4 | 7.026374E-4 | 1.0 | 0.0 | 0.008011877 | 0.007005044 | 0.007014974 | 1.0014175 | 1.0E-5 |
-| 7.3 | 1.4534083E-5 | 1.2718447E-5 | 1.2718447E-5 | 1.0 | 0.0 | 6.228744E-5 | 5.4506516E-5 | 5.4506516E-5 | 1.0 | 0.0 | 7.580857E-4 | 6.634192E-4 | 6.634192E-4 | 1.0 | 0.0 | 0.007555048 | 0.0066152387 | 0.0066251727 | 1.0015017 | 1.0E-5 |
-| 7.4 | 1.2858995E-5 | 1.1230124E-5 | 1.1230124E-5 | 1.0 | 0.0 | 5.5108816E-5 | 4.8128237E-5 | 4.8128237E-5 | 1.0 | 0.0 | 6.7074323E-4 | 5.8580766E-4 | 5.8580766E-4 | 1.0 | 0.0 | 0.0066872234 | 0.00584341 | 0.005853351 | 1.0017014 | 1.0E-5 |
-| 7.5 | 8.827668E-6 | 7.805684E-6 | 7.805684E-6 | 1.0 | 0.0 | 3.7832317E-5 | 3.3452518E-5 | 3.3452518E-5 | 1.0 | 0.0 | 4.605111E-4 | 4.0721073E-4 | 4.0721073E-4 | 1.0 | 0.0 | 0.0045955796 | 0.0040648943 | 0.004074854 | 1.0024501 | 1.0E-5 |
-| 7.6 | 3.2533426E-6 | 2.8720442E-6 | 2.8720442E-6 | 1.0 | 0.0 | 1.3942822E-5 | 1.2308705E-5 | 1.2308705E-5 | 1.0 | 0.0 | 1.6974064E-4 | 1.4984855E-4 | 1.4984855E-4 | 1.0 | 0.0 | 0.0016961104 | 0.0014975119 | 0.0014975119 | 1.0 | 0.0 |
-| 7.7 | 1.2751709E-6 | 1.1491394E-6 | 1.1491394E-6 | 1.0 | 0.0 | 5.4650063E-6 | 4.9248742E-6 | 4.9248742E-6 | 1.0 | 0.0 | 6.653442E-5 | 5.9958787E-5 | 5.9958787E-5 | 1.0 | 0.0 | 6.6514505E-4 | 5.99435E-4 | 5.99435E-4 | 1.0 | 0.0 |
-| 7.8 | 3.067544E-7 | 3.240123E-7 | 3.240123E-7 | 1.0 | 0.0 | 1.3146611E-6 | 1.3886234E-6 | 1.3886234E-6 | 1.0 | 0.0 | 1.600588E-5 | 1.690637E-5 | 1.690637E-5 | 1.0 | 0.0 | 1.6004729E-4 | 1.6905185E-4 | 1.6905185E-4 | 1.0 | 0.0 |
-| 7.9 | 7.622999E-8 | 8.088155E-8 | 8.088155E-8 | 1.0 | 0.0 | 3.2669993E-7 | 3.4663518E-7 | 3.4663518E-7 | 1.0 | 0.0 | 3.977564E-6 | 4.2202773E-6 | 4.2202773E-6 | 1.0 | 0.0 | 3.977493E-5 | 4.220218E-5 | 4.220218E-5 | 1.0 | 0.0 |
-
-## Elsinore (Julian)
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Elsinore_Julian_1wk.png) | ![MPD](Elsinore_Julian_1mo.png) | ![MPD](Elsinore_Julian_1yr.png) | ![MPD](Elsinore_Julian_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.1710231E-5 | 8.846432E-6 | 8.846432E-6 | 1.0 | 0.0 | 5.0185736E-5 | 3.7912738E-5 | 3.7912738E-5 | 1.0 | 0.0 | 6.1084004E-4 | 4.6149152E-4 | 4.6149152E-4 | 1.0 | 0.0 | 0.006091637 | 0.0046055363 | 0.0046154903 | 1.0021613 | 1.0E-5 |
-| 6.1 | 1.1710231E-5 | 8.846432E-6 | 8.846432E-6 | 1.0 | 0.0 | 5.0185736E-5 | 3.7912738E-5 | 3.7912738E-5 | 1.0 | 0.0 | 6.1084004E-4 | 4.6149152E-4 | 4.6149152E-4 | 1.0 | 0.0 | 0.006091637 | 0.0046055363 | 0.0046154903 | 1.0021613 | 1.0E-5 |
-| 6.2 | 1.1710231E-5 | 8.846432E-6 | 8.846432E-6 | 1.0 | 0.0 | 5.0185736E-5 | 3.7912738E-5 | 3.7912738E-5 | 1.0 | 0.0 | 6.1084004E-4 | 4.6149152E-4 | 4.6149152E-4 | 1.0 | 0.0 | 0.006091637 | 0.0046055363 | 0.0046154903 | 1.0021613 | 1.0E-5 |
-| 6.3 | 1.1710231E-5 | 8.846432E-6 | 8.846432E-6 | 1.0 | 0.0 | 5.0185736E-5 | 3.7912738E-5 | 3.7912738E-5 | 1.0 | 0.0 | 6.1084004E-4 | 4.6149152E-4 | 4.6149152E-4 | 1.0 | 0.0 | 0.006091637 | 0.0046055363 | 0.0046154903 | 1.0021613 | 1.0E-5 |
-| 6.4 | 1.1710231E-5 | 8.846432E-6 | 8.846432E-6 | 1.0 | 0.0 | 5.0185736E-5 | 3.7912738E-5 | 3.7912738E-5 | 1.0 | 0.0 | 6.1084004E-4 | 4.6149152E-4 | 4.6149152E-4 | 1.0 | 0.0 | 0.006091637 | 0.0046055363 | 0.0046154903 | 1.0021613 | 1.0E-5 |
-| 6.5 | 1.1710231E-5 | 8.846432E-6 | 8.846432E-6 | 1.0 | 0.0 | 5.0185736E-5 | 3.7912738E-5 | 3.7912738E-5 | 1.0 | 0.0 | 6.1084004E-4 | 4.6149152E-4 | 4.6149152E-4 | 1.0 | 0.0 | 0.006091637 | 0.0046055363 | 0.0046154903 | 1.0021613 | 1.0E-5 |
-| 6.6 | 1.1650619E-5 | 8.778801E-6 | 8.778801E-6 | 1.0 | 0.0 | 4.993027E-5 | 3.76229E-5 | 3.76229E-5 | 1.0 | 0.0 | 6.0773146E-4 | 4.5796426E-4 | 4.5796426E-4 | 1.0 | 0.0 | 0.0060607214 | 0.004570409 | 0.004580363 | 1.002178 | 1.0E-5 |
-| 6.7 | 1.1650619E-5 | 8.778801E-6 | 8.778801E-6 | 1.0 | 0.0 | 4.993027E-5 | 3.76229E-5 | 3.76229E-5 | 1.0 | 0.0 | 6.0773146E-4 | 4.5796426E-4 | 4.5796426E-4 | 1.0 | 0.0 | 0.0060607214 | 0.004570409 | 0.004580363 | 1.002178 | 1.0E-5 |
-| 6.8 | 1.1442698E-5 | 8.561954E-6 | 8.561954E-6 | 1.0 | 0.0 | 4.9039216E-5 | 3.6693582E-5 | 3.6693582E-5 | 1.0 | 0.0 | 5.968889E-4 | 4.4665445E-4 | 4.4665445E-4 | 1.0 | 0.0 | 0.0059528816 | 0.004457769 | 0.0044677244 | 1.0022333 | 1.0E-5 |
-| 6.9 | 1.1300589E-5 | 8.409815E-6 | 8.409815E-6 | 1.0 | 0.0 | 4.8430196E-5 | 3.6041572E-5 | 3.6041572E-5 | 1.0 | 0.0 | 5.894781E-4 | 4.3871946E-4 | 4.3871946E-4 | 1.0 | 0.0 | 0.005879169 | 0.0043787337 | 0.0043886895 | 1.0022738 | 1.0E-5 |
-| 7.0 | 1.1117729E-5 | 8.2269835E-6 | 8.2269835E-6 | 1.0 | 0.0 | 4.764654E-5 | 3.5258035E-5 | 3.5258035E-5 | 1.0 | 0.0 | 5.799422E-4 | 4.2918368E-4 | 4.2918368E-4 | 1.0 | 0.0 | 0.0057843104 | 0.0042837467 | 0.004293704 | 1.0023245 | 1.0E-5 |
-| 7.1 | 1.08053955E-5 | 7.912638E-6 | 7.912638E-6 | 1.0 | 0.0 | 4.6308014E-5 | 3.391087E-5 | 3.391087E-5 | 1.0 | 0.0 | 5.6365423E-4 | 4.1278827E-4 | 4.1278827E-4 | 1.0 | 0.0 | 0.005622267 | 0.004120411 | 0.00413037 | 1.002417 | 1.0E-5 |
-| 7.2 | 1.032804E-5 | 7.433888E-6 | 7.433888E-6 | 1.0 | 0.0 | 4.4262277E-5 | 3.185914E-5 | 3.185914E-5 | 1.0 | 0.0 | 5.387599E-4 | 3.8781756E-4 | 3.8781756E-4 | 1.0 | 0.0 | 0.0053745564 | 0.0038715953 | 0.0038815567 | 1.0025729 | 1.0E-5 |
-| 7.3 | 9.622426E-6 | 6.898638E-6 | 6.898638E-6 | 1.0 | 0.0 | 4.1238312E-5 | 2.9565264E-5 | 2.9565264E-5 | 1.0 | 0.0 | 5.019608E-4 | 3.5989904E-4 | 3.5989904E-4 | 1.0 | 0.0 | 0.005008285 | 0.003593334 | 0.003593334 | 1.0 | 0.0 |
-| 7.4 | 9.144434E-6 | 6.4971227E-6 | 6.4971227E-6 | 1.0 | 0.0 | 3.9189843E-5 | 2.7844522E-5 | 2.7844522E-5 | 1.0 | 0.0 | 4.7703186E-4 | 3.389557E-4 | 3.389557E-4 | 1.0 | 0.0 | 0.0047600917 | 0.0033845308 | 0.0033845308 | 1.0 | 0.0 |
-| 7.5 | 7.988981E-6 | 5.4989455E-6 | 5.4989455E-6 | 1.0 | 0.0 | 3.4238044E-5 | 2.3566705E-5 | 2.3566705E-5 | 1.0 | 0.0 | 4.1676845E-4 | 2.8688813E-4 | 2.8688813E-4 | 1.0 | 0.0 | 0.0041598766 | 0.002865305 | 0.002865305 | 1.0 | 0.0 |
-| 7.6 | 6.9554876E-6 | 4.6630726E-6 | 4.6630726E-6 | 1.0 | 0.0 | 2.9808893E-5 | 1.9984449E-5 | 1.9984449E-5 | 1.0 | 0.0 | 3.6286283E-4 | 2.4328468E-4 | 2.4328468E-4 | 1.0 | 0.0 | 0.0036227088 | 0.0024302998 | 0.0024302998 | 1.0 | 0.0 |
-| 7.7 | 4.1557314E-6 | 2.3249631E-6 | 2.3249631E-6 | 1.0 | 0.0 | 1.7810156E-5 | 9.964094E-6 | 9.964094E-6 | 1.0 | 0.0 | 2.1681708E-4 | 1.2130683E-4 | 1.2130683E-4 | 1.0 | 0.0 | 0.0021660565 | 0.0012124792 | 0.0012124792 | 1.0 | 0.0 |
-| 7.8 | 2.2597293E-7 | 9.334235E-8 | 9.334235E-8 | 1.0 | 0.0 | 9.684551E-7 | 4.000386E-7 | 4.000386E-7 | 1.0 | 0.0 | 1.1790877E-5 | 4.8704624E-6 | 4.8704624E-6 | 1.0 | 0.0 | 1.17902506E-4 | 4.8703885E-5 | 4.8703885E-5 | 1.0 | 0.0 |
-| 7.9 | 6.676829E-9 | 3.440201E-9 | 3.440201E-9 | 1.0 | 0.0 | 2.861498E-8 | 1.4743717E-8 | 1.4743717E-8 | 1.0 | 0.0 | 3.4838732E-7 | 1.7950475E-7 | 1.7950475E-7 | 1.0 | 0.0 | 3.4838679E-6 | 1.7950462E-6 | 1.7950462E-6 | 1.0 | 0.0 |
-
-## Sisar
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Sisar_1wk.png) | ![MPD](Sisar_1mo.png) | ![MPD](Sisar_1yr.png) | ![MPD](Sisar_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
-| 6.1 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
-| 6.2 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
-| 6.3 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
-| 6.4 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
-| 6.5 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
-| 6.6 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
-| 6.7 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
-| 6.8 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
-| 6.9 | 4.542225E-6 | 3.837647E-6 | 1.3837609E-5 | 3.6057534 | 1.0E-5 | 1.9466532E-5 | 1.6446957E-5 | 2.6446793E-5 | 1.6080052 | 1.0E-5 | 2.3697925E-4 | 2.0022363E-4 | 2.1022162E-4 | 1.0499341 | 1.0E-5 | 0.002367267 | 0.0020004662 | 0.002010446 | 1.0049888 | 1.0E-5 |
-| 7.0 | 4.5278484E-6 | 3.822711E-6 | 1.3822672E-5 | 3.6159346 | 1.0E-5 | 1.940492E-5 | 1.6382946E-5 | 2.6382782E-5 | 1.6103809 | 1.0E-5 | 2.3622929E-4 | 1.9944445E-4 | 2.0944244E-4 | 1.0501293 | 1.0E-5 | 0.0023597833 | 0.0019926883 | 0.0020026683 | 1.0050083 | 1.0E-5 |
-| 7.1 | 4.5132488E-6 | 3.8074982E-6 | 1.380746E-5 | 3.6263866 | 1.0E-5 | 1.9342351E-5 | 1.6317748E-5 | 2.6317586E-5 | 1.6128197 | 1.0E-5 | 2.3546767E-4 | 1.9865081E-4 | 2.0864882E-4 | 1.0503296 | 1.0E-5 | 0.0023521832 | 0.0019847662 | 0.0019947463 | 1.0050284 | 1.0E-5 |
-| 7.2 | 4.448859E-6 | 3.7399573E-6 | 1.373992E-5 | 3.6738174 | 1.0E-5 | 1.9066398E-5 | 1.6028293E-5 | 2.6028132E-5 | 1.6238868 | 1.0E-5 | 2.3210866E-4 | 1.9512732E-4 | 2.0512537E-4 | 1.0512385 | 1.0E-5 | 0.0023186638 | 0.0019495934 | 0.001959574 | 1.0051193 | 1.0E-5 |
-| 7.3 | 4.3424366E-6 | 3.6337894E-6 | 3.6337894E-6 | 1.0 | 0.0 | 1.861031E-5 | 1.5573292E-5 | 1.5573292E-5 | 1.0 | 0.0 | 2.2655698E-4 | 1.8958867E-4 | 1.8958867E-4 | 1.0 | 0.0 | 0.0022632615 | 0.0018943028 | 0.0018943028 | 1.0 | 0.0 |
-| 7.4 | 4.218641E-6 | 3.5331395E-6 | 3.5331395E-6 | 1.0 | 0.0 | 1.8079765E-5 | 1.5141941E-5 | 1.5141941E-5 | 1.0 | 0.0 | 2.2009891E-4 | 1.8433787E-4 | 1.8433787E-4 | 1.0 | 0.0 | 0.0021988105 | 0.001841883 | 0.001841883 | 1.0 | 0.0 |
-| 7.5 | 3.983779E-6 | 3.3479018E-6 | 3.3479018E-6 | 1.0 | 0.0 | 1.7073227E-5 | 1.4348074E-5 | 1.4348074E-5 | 1.0 | 0.0 | 2.0784672E-4 | 1.7467413E-4 | 1.7467413E-4 | 1.0 | 0.0 | 0.0020765243 | 0.0017454013 | 0.0017454013 | 1.0 | 0.0 |
-| 7.6 | 2.777393E-6 | 2.3523125E-6 | 2.3523125E-6 | 1.0 | 0.0 | 1.1903058E-5 | 1.0081301E-5 | 1.0081301E-5 | 1.0 | 0.0 | 1.449101E-4 | 1.22733E-4 | 1.22733E-4 | 1.0 | 0.0 | 0.0014481564 | 0.00122666 | 0.00122666 | 1.0 | 0.0 |
-| 7.7 | 1.9028433E-6 | 1.5939175E-6 | 1.5939175E-6 | 1.0 | 0.0 | 8.155017E-6 | 6.8310574E-6 | 6.8310574E-6 | 1.0 | 0.0 | 9.928281E-5 | 8.3164996E-5 | 8.3164996E-5 | 1.0 | 0.0 | 9.923846E-4 | 8.313435E-4 | 8.313435E-4 | 1.0 | 0.0 |
-| 7.8 | 4.9095956E-7 | 4.3584475E-7 | 4.3584475E-7 | 1.0 | 0.0 | 2.1041105E-6 | 1.8679048E-6 | 1.8679048E-6 | 1.0 | 0.0 | 2.5617246E-5 | 2.2741506E-5 | 2.2741506E-5 | 1.0 | 0.0 | 2.5614293E-4 | 2.2739195E-4 | 2.2739195E-4 | 1.0 | 0.0 |
-| 7.9 | 1.16657894E-7 | 1.03357515E-7 | 1.03357515E-7 | 1.0 | 0.0 | 4.999623E-7 | 4.429607E-7 | 4.429607E-7 | 1.0 | 0.0 | 6.087024E-6 | 5.3930335E-6 | 5.3930335E-6 | 1.0 | 0.0 | 6.0868573E-5 | 5.3929056E-5 | 5.3929056E-5 | 1.0 | 0.0 |
-| 8.0 | 2.5100346E-9 | 1.7069005E-9 | 1.7069005E-9 | 1.0 | 0.0 | 1.0757291E-8 | 7.3152884E-9 | 7.3152884E-9 | 1.0 | 0.0 | 1.3097001E-7 | 8.906363E-8 | 8.906363E-8 | 1.0 | 0.0 | 1.3096993E-6 | 8.9063604E-7 | 8.9063604E-7 | 1.0 | 0.0 |
-
-## Del Valle
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Del_Valle_1wk.png) | ![MPD](Del_Valle_1mo.png) | ![MPD](Del_Valle_1yr.png) | ![MPD](Del_Valle_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.0716125E-5 | 8.768361E-6 | 8.768361E-6 | 1.0 | 0.0 | 4.592544E-5 | 3.7578262E-5 | 3.7578262E-5 | 1.0 | 0.0 | 5.589988E-4 | 4.5743905E-4 | 4.5743905E-4 | 1.0 | 0.0 | 0.0055759475 | 0.0045669293 | 0.0045768837 | 1.0021796 | 1.0E-5 |
-| 6.1 | 1.0716125E-5 | 8.768361E-6 | 8.768361E-6 | 1.0 | 0.0 | 4.592544E-5 | 3.7578262E-5 | 3.7578262E-5 | 1.0 | 0.0 | 5.589988E-4 | 4.5743905E-4 | 4.5743905E-4 | 1.0 | 0.0 | 0.0055759475 | 0.0045669293 | 0.0045768837 | 1.0021796 | 1.0E-5 |
-| 6.2 | 1.0716125E-5 | 8.768361E-6 | 8.768361E-6 | 1.0 | 0.0 | 4.592544E-5 | 3.7578262E-5 | 3.7578262E-5 | 1.0 | 0.0 | 5.589988E-4 | 4.5743905E-4 | 4.5743905E-4 | 1.0 | 0.0 | 0.0055759475 | 0.0045669293 | 0.0045768837 | 1.0021796 | 1.0E-5 |
-| 6.3 | 7.1293784E-6 | 4.866175E-6 | 4.866175E-6 | 1.0 | 0.0 | 3.055412E-5 | 2.0854872E-5 | 2.0854872E-5 | 1.0 | 0.0 | 3.7193293E-4 | 2.5387923E-4 | 2.5387923E-4 | 1.0 | 0.0 | 0.0037131102 | 0.0025359779 | 0.0025359779 | 1.0 | 0.0 |
-| 6.4 | 7.1293784E-6 | 4.866175E-6 | 4.866175E-6 | 1.0 | 0.0 | 3.055412E-5 | 2.0854872E-5 | 2.0854872E-5 | 1.0 | 0.0 | 3.7193293E-4 | 2.5387923E-4 | 2.5387923E-4 | 1.0 | 0.0 | 0.0037131102 | 0.0025359779 | 0.0025359779 | 1.0 | 0.0 |
-| 6.5 | 7.1293784E-6 | 4.866175E-6 | 4.866175E-6 | 1.0 | 0.0 | 3.055412E-5 | 2.0854872E-5 | 2.0854872E-5 | 1.0 | 0.0 | 3.7193293E-4 | 2.5387923E-4 | 2.5387923E-4 | 1.0 | 0.0 | 0.0037131102 | 0.0025359779 | 0.0025359779 | 1.0 | 0.0 |
-| 6.6 | 7.1293784E-6 | 4.866175E-6 | 4.866175E-6 | 1.0 | 0.0 | 3.055412E-5 | 2.0854872E-5 | 2.0854872E-5 | 1.0 | 0.0 | 3.7193293E-4 | 2.5387923E-4 | 2.5387923E-4 | 1.0 | 0.0 | 0.0037131102 | 0.0025359779 | 0.0025359779 | 1.0 | 0.0 |
-| 6.7 | 7.12272E-6 | 4.86355E-6 | 4.86355E-6 | 1.0 | 0.0 | 3.0525585E-5 | 2.0843625E-5 | 2.0843625E-5 | 1.0 | 0.0 | 3.7158563E-4 | 2.537423E-4 | 2.537423E-4 | 1.0 | 0.0 | 0.003709649 | 0.0025346118 | 0.0025346118 | 1.0 | 0.0 |
-| 6.8 | 6.7558703E-6 | 4.5597358E-6 | 4.5597358E-6 | 1.0 | 0.0 | 2.895341E-5 | 1.9541581E-5 | 1.9541581E-5 | 1.0 | 0.0 | 3.5245073E-4 | 2.3789342E-4 | 2.3789342E-4 | 1.0 | 0.0 | 0.0035189227 | 0.0023764628 | 0.0023764628 | 1.0 | 0.0 |
-| 6.9 | 6.6700386E-6 | 4.5028655E-6 | 4.5028655E-6 | 1.0 | 0.0 | 2.8585566E-5 | 1.9297857E-5 | 1.9297857E-5 | 1.0 | 0.0 | 3.479737E-4 | 2.349267E-4 | 2.349267E-4 | 1.0 | 0.0 | 0.003474293 | 0.0023468586 | 0.0023468586 | 1.0 | 0.0 |
-| 7.0 | 6.3181424E-6 | 4.0990067E-6 | 4.0990067E-6 | 1.0 | 0.0 | 2.7077473E-5 | 1.7567054E-5 | 1.7567054E-5 | 1.0 | 0.0 | 3.2961834E-4 | 2.1385832E-4 | 2.1385832E-4 | 1.0 | 0.0 | 0.0032912986 | 0.00213658 | 0.00213658 | 1.0 | 0.0 |
-| 7.1 | 6.248759E-6 | 4.034193E-6 | 4.034193E-6 | 1.0 | 0.0 | 2.678012E-5 | 1.7289287E-5 | 1.7289287E-5 | 1.0 | 0.0 | 3.2599916E-4 | 2.1047716E-4 | 2.1047716E-4 | 1.0 | 0.0 | 0.0032552136 | 0.0021028325 | 0.0021028325 | 1.0 | 0.0 |
-| 7.2 | 6.0411944E-6 | 3.870173E-6 | 3.870173E-6 | 1.0 | 0.0 | 2.5890577E-5 | 1.6586351E-5 | 1.6586351E-5 | 1.0 | 0.0 | 3.1517216E-4 | 2.0192053E-4 | 2.0192053E-4 | 1.0 | 0.0 | 0.0031472554 | 0.002017424 | 0.002017424 | 1.0 | 0.0 |
-| 7.3 | 4.7691183E-6 | 3.0783274E-6 | 3.0783274E-6 | 1.0 | 0.0 | 2.0438918E-5 | 1.3192766E-5 | 1.3192766E-5 | 1.0 | 0.0 | 2.488154E-4 | 1.606103E-4 | 1.606103E-4 | 1.0 | 0.0 | 0.00248537 | 0.0016049681 | 0.0016049681 | 1.0 | 0.0 |
-| 7.4 | 3.5524722E-6 | 2.1894814E-6 | 2.1894814E-6 | 1.0 | 0.0 | 1.5224792E-5 | 9.383458E-6 | 9.383458E-6 | 1.0 | 0.0 | 1.8534607E-4 | 1.1423769E-4 | 1.1423769E-4 | 1.0 | 0.0 | 0.0018519156 | 0.001141798 | 0.001141798 | 1.0 | 0.0 |
-| 7.5 | 2.7133442E-6 | 1.5917178E-6 | 1.5917178E-6 | 1.0 | 0.0 | 1.1628566E-5 | 6.82163E-6 | 6.82163E-6 | 1.0 | 0.0 | 1.415686E-4 | 8.3050196E-5 | 8.3050196E-5 | 1.0 | 0.0 | 0.0014147845 | 8.301935E-4 | 8.301935E-4 | 1.0 | 0.0 |
-| 7.6 | 1.915338E-6 | 1.1739909E-6 | 1.1739909E-6 | 1.0 | 0.0 | 8.208566E-6 | 5.03138E-6 | 5.03138E-6 | 1.0 | 0.0 | 9.993471E-5 | 6.125534E-5 | 6.125534E-5 | 1.0 | 0.0 | 9.988978E-4 | 6.1238545E-4 | 6.1238545E-4 | 1.0 | 0.0 |
-| 7.7 | 1.2120448E-6 | 7.180842E-7 | 7.180842E-7 | 1.0 | 0.0 | 5.194467E-6 | 3.0775E-6 | 3.0775E-6 | 1.0 | 0.0 | 6.3240805E-5 | 3.7467922E-5 | 3.7467922E-5 | 1.0 | 0.0 | 6.322281E-4 | 3.7461644E-4 | 3.7461644E-4 | 1.0 | 0.0 |
-| 7.8 | 6.272381E-7 | 3.9328637E-7 | 3.9328637E-7 | 1.0 | 0.0 | 2.6881603E-6 | 1.685512E-6 | 1.685512E-6 | 1.0 | 0.0 | 3.272786E-5 | 2.0520916E-5 | 2.0520916E-5 | 1.0 | 0.0 | 3.272304E-4 | 2.0519037E-4 | 2.0519037E-4 | 1.0 | 0.0 |
-| 7.9 | 2.0292627E-7 | 1.2005712E-7 | 1.2005712E-7 | 1.0 | 0.0 | 8.6968373E-7 | 5.145304E-7 | 5.145304E-7 | 1.0 | 0.0 | 1.0588348E-5 | 6.2643903E-6 | 6.2643903E-6 | 1.0 | 0.0 | 1.0587843E-4 | 6.264216E-5 | 6.264216E-5 | 1.0 | 0.0 |
-| 8.0 | 4.374492E-8 | 2.1902885E-8 | 2.1902885E-8 | 1.0 | 0.0 | 1.8747821E-7 | 9.38695E-8 | 9.38695E-8 | 1.0 | 0.0 | 2.2825448E-6 | 1.1428606E-6 | 1.1428606E-6 | 1.0 | 0.0 | 2.2825214E-5 | 1.1428551E-5 | 1.1428551E-5 | 1.0 | 0.0 |
-
-## Hosgri (Extension)
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Hosgri_Extension_1wk.png) | ![MPD](Hosgri_Extension_1mo.png) | ![MPD](Hosgri_Extension_1yr.png) | ![MPD](Hosgri_Extension_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.1369135E-5 | 1.2083427E-5 | 1.2083427E-5 | 1.0 | 0.0 | 4.8723956E-5 | 5.1785217E-5 | 5.1785217E-5 | 1.0 | 0.0 | 5.9305265E-4 | 6.3032535E-4 | 6.40319E-4 | 1.0158548 | 1.0E-5 | 0.005914725 | 0.006287624 | 0.0062975613 | 1.0015805 | 1.0E-5 |
-| 6.1 | 6.934979E-6 | 7.3247807E-6 | 7.3247807E-6 | 1.0 | 0.0 | 2.9721E-5 | 3.1391563E-5 | 3.1391563E-5 | 1.0 | 0.0 | 3.617931E-4 | 3.821294E-4 | 3.821294E-4 | 1.0 | 0.0 | 0.0036120464 | 0.003815136 | 0.003815136 | 1.0 | 0.0 |
-| 6.2 | 6.934979E-6 | 7.3247807E-6 | 7.3247807E-6 | 1.0 | 0.0 | 2.9721E-5 | 3.1391563E-5 | 3.1391563E-5 | 1.0 | 0.0 | 3.617931E-4 | 3.821294E-4 | 3.821294E-4 | 1.0 | 0.0 | 0.0036120464 | 0.003815136 | 0.003815136 | 1.0 | 0.0 |
-| 6.3 | 4.5484676E-6 | 4.769489E-6 | 4.769489E-6 | 1.0 | 0.0 | 1.9493287E-5 | 2.0440508E-5 | 2.0440508E-5 | 1.0 | 0.0 | 2.3730492E-4 | 2.488352E-4 | 2.488352E-4 | 1.0 | 0.0 | 0.0023705168 | 0.0024856082 | 0.0024856082 | 1.0 | 0.0 |
-| 6.4 | 4.218095E-6 | 4.4170115E-6 | 4.4170115E-6 | 1.0 | 0.0 | 1.8077424E-5 | 1.8929913E-5 | 1.8929913E-5 | 1.0 | 0.0 | 2.2007042E-4 | 2.3044764E-4 | 2.3044764E-4 | 1.0 | 0.0 | 0.002198526 | 0.0023021202 | 0.0023021202 | 1.0 | 0.0 |
-| 6.5 | 3.717374E-6 | 3.884015E-6 | 3.884015E-6 | 1.0 | 0.0 | 1.5931506E-5 | 1.6645672E-5 | 1.6645672E-5 | 1.0 | 0.0 | 1.9394881E-4 | 2.0264239E-4 | 2.0264239E-4 | 1.0 | 0.0 | 0.0019377962 | 0.002024595 | 0.002024595 | 1.0 | 0.0 |
-| 6.6 | 3.4605036E-6 | 3.6084357E-6 | 3.6084357E-6 | 1.0 | 0.0 | 1.4830645E-5 | 1.5464633E-5 | 1.5464633E-5 | 1.0 | 0.0 | 1.8054814E-4 | 1.8826578E-4 | 1.8826578E-4 | 1.0 | 0.0 | 0.0018040152 | 0.0018810777 | 0.0018810777 | 1.0 | 0.0 |
-| 6.7 | 3.123439E-6 | 3.2466885E-6 | 3.2466885E-6 | 1.0 | 0.0 | 1.33860985E-5 | 1.3914305E-5 | 1.3914305E-5 | 1.0 | 0.0 | 1.6296357E-4 | 1.693936E-4 | 1.693936E-4 | 1.0 | 0.0 | 0.001628441 | 0.0016926557 | 0.0016926557 | 1.0 | 0.0 |
-| 6.8 | 2.8290783E-6 | 2.9306514E-6 | 2.9306514E-6 | 1.0 | 0.0 | 1.2124565E-5 | 1.2559874E-5 | 1.2559874E-5 | 1.0 | 0.0 | 1.4760658E-4 | 1.5290582E-4 | 1.5290582E-4 | 1.0 | 0.0 | 0.0014750857 | 0.0015280149 | 0.0015280149 | 1.0 | 0.0 |
-| 6.9 | 2.454112E-6 | 2.5284198E-6 | 2.5284198E-6 | 1.0 | 0.0 | 1.0517581E-5 | 1.083604E-5 | 1.083604E-5 | 1.0 | 0.0 | 1.2804402E-4 | 1.3192085E-4 | 1.3192085E-4 | 1.0 | 0.0 | 0.0012797028 | 0.0013184316 | 0.0013184316 | 1.0 | 0.0 |
-| 7.0 | 2.1008145E-6 | 2.1499604E-6 | 2.1499604E-6 | 1.0 | 0.0 | 9.003459E-6 | 9.2140845E-6 | 9.2140845E-6 | 1.0 | 0.0 | 1.096116E-4 | 1.1217574E-4 | 1.1217574E-4 | 1.0 | 0.0 | 0.0010955755 | 0.0011211949 | 0.0011211949 | 1.0 | 0.0 |
-| 7.1 | 1.744384E-6 | 1.7687156E-6 | 1.7687156E-6 | 1.0 | 0.0 | 7.47591E-6 | 7.5801877E-6 | 7.5801877E-6 | 1.0 | 0.0 | 9.1015405E-5 | 9.228489E-5 | 9.228489E-5 | 1.0 | 0.0 | 9.097813E-4 | 9.2246744E-4 | 9.2246744E-4 | 1.0 | 0.0 |
-| 7.2 | 1.5456587E-6 | 1.5563631E-6 | 1.5563631E-6 | 1.0 | 0.0 | 6.6242346E-6 | 6.670111E-6 | 6.670111E-6 | 1.0 | 0.0 | 8.064707E-5 | 8.120559E-5 | 8.120559E-5 | 1.0 | 0.0 | 8.0617814E-4 | 8.117604E-4 | 8.117604E-4 | 1.0 | 0.0 |
-| 7.3 | 1.3775123E-6 | 1.3766786E-6 | 1.3766786E-6 | 1.0 | 0.0 | 5.9036106E-6 | 5.9000376E-6 | 5.9000376E-6 | 1.0 | 0.0 | 7.187409E-5 | 7.1830604E-5 | 7.1830604E-5 | 1.0 | 0.0 | 7.185085E-4 | 7.1807485E-4 | 7.1807485E-4 | 1.0 | 0.0 |
-| 7.4 | 1.214491E-6 | 1.2024119E-6 | 1.2024119E-6 | 1.0 | 0.0 | 5.2049513E-6 | 5.153184E-6 | 5.153184E-6 | 1.0 | 0.0 | 6.336844E-5 | 6.273822E-5 | 6.273822E-5 | 1.0 | 0.0 | 6.335037E-4 | 6.272059E-4 | 6.272059E-4 | 1.0 | 0.0 |
-| 7.5 | 1.0101123E-6 | 9.842851E-7 | 9.842851E-7 | 1.0 | 0.0 | 4.3290456E-6 | 4.2183574E-6 | 4.2183574E-6 | 1.0 | 0.0 | 5.2704854E-5 | 5.13573E-5 | 5.13573E-5 | 1.0 | 0.0 | 5.2692357E-4 | 5.134549E-4 | 5.134549E-4 | 1.0 | 0.0 |
-| 7.6 | 8.1558215E-7 | 7.7665186E-7 | 7.7665186E-7 | 1.0 | 0.0 | 3.4953473E-6 | 3.328504E-6 | 3.328504E-6 | 1.0 | 0.0 | 4.255502E-5 | 4.0523784E-5 | 4.0523784E-5 | 1.0 | 0.0 | 4.2546875E-4 | 4.051644E-4 | 4.051644E-4 | 1.0 | 0.0 |
-| 7.7 | 4.757816E-7 | 4.131347E-7 | 4.131347E-7 | 1.0 | 0.0 | 2.0390623E-6 | 1.7705761E-6 | 1.7705761E-6 | 1.0 | 0.0 | 2.4825302E-5 | 2.1556552E-5 | 2.1556552E-5 | 1.0 | 0.0 | 2.482253E-4 | 2.1554474E-4 | 2.1554474E-4 | 1.0 | 0.0 |
-| 7.8 | 2.782787E-7 | 2.0051701E-7 | 2.0051701E-7 | 1.0 | 0.0 | 1.1926223E-6 | 8.593583E-7 | 8.593583E-7 | 1.0 | 0.0 | 1.452008E-5 | 1.0462637E-5 | 1.0462637E-5 | 1.0 | 0.0 | 1.4519131E-4 | 1.0462148E-4 | 1.0462148E-4 | 1.0 | 0.0 |
-| 7.9 | 1.6948086E-7 | 9.247979E-8 | 9.247979E-8 | 1.0 | 0.0 | 7.2634634E-7 | 3.9634187E-7 | 3.9634187E-7 | 1.0 | 0.0 | 8.843231E-6 | 4.825452E-6 | 4.825452E-6 | 1.0 | 0.0 | 8.842879E-5 | 4.8253478E-5 | 4.8253478E-5 | 1.0 | 0.0 |
-| 8.0 | 1.0225492E-7 | 4.4765976E-8 | 4.4765976E-8 | 1.0 | 0.0 | 4.382353E-7 | 1.9185416E-7 | 1.9185416E-7 | 1.0 | 0.0 | 5.335502E-6 | 2.3358218E-6 | 2.3358218E-6 | 1.0 | 0.0 | 5.335374E-5 | 2.3357976E-5 | 2.3357976E-5 | 1.0 | 0.0 |
-| 8.1 | 1.43711345E-8 | 5.7919225E-9 | 5.7919225E-9 | 1.0 | 0.0 | 6.1590576E-8 | 2.4822524E-8 | 2.4822524E-8 | 1.0 | 0.0 | 7.4986497E-7 | 3.022142E-7 | 3.022142E-7 | 1.0 | 0.0 | 7.4986247E-6 | 3.0221383E-6 | 3.0221383E-6 | 1.0 | 0.0 |
-
-## Johnson Valley (No) 2011 rev
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Johnson_Valley_No_2011_rev_1wk.png) | ![MPD](Johnson_Valley_No_2011_rev_1mo.png) | ![MPD](Johnson_Valley_No_2011_rev_1yr.png) | ![MPD](Johnson_Valley_No_2011_rev_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.577707E-5 | 1.29015325E-5 | 1.29015325E-5 | 1.0 | 0.0 | 1.1046848E-4 | 5.5291337E-5 | 5.5291337E-5 | 1.0 | 0.0 | 0.0013441239 | 6.730038E-4 | 6.8299705E-4 | 1.0148487 | 1.0E-5 | 0.013360229 | 0.006713566 | 0.0067234985 | 1.0014795 | 1.0E-5 |
-| 6.1 | 2.577707E-5 | 1.29015325E-5 | 1.29015325E-5 | 1.0 | 0.0 | 1.1046848E-4 | 5.5291337E-5 | 5.5291337E-5 | 1.0 | 0.0 | 0.0013441239 | 6.730038E-4 | 6.8299705E-4 | 1.0148487 | 1.0E-5 | 0.013360229 | 0.006713566 | 0.0067234985 | 1.0014795 | 1.0E-5 |
-| 6.2 | 2.577707E-5 | 1.29015325E-5 | 1.29015325E-5 | 1.0 | 0.0 | 1.1046848E-4 | 5.5291337E-5 | 5.5291337E-5 | 1.0 | 0.0 | 0.0013441239 | 6.730038E-4 | 6.8299705E-4 | 1.0148487 | 1.0E-5 | 0.013360229 | 0.006713566 | 0.0067234985 | 1.0014795 | 1.0E-5 |
-| 6.3 | 2.577707E-5 | 1.29015325E-5 | 1.29015325E-5 | 1.0 | 0.0 | 1.1046848E-4 | 5.5291337E-5 | 5.5291337E-5 | 1.0 | 0.0 | 0.0013441239 | 6.730038E-4 | 6.8299705E-4 | 1.0148487 | 1.0E-5 | 0.013360229 | 0.006713566 | 0.0067234985 | 1.0014795 | 1.0E-5 |
-| 6.4 | 1.5296591E-5 | 7.5371186E-6 | 7.5371186E-6 | 1.0 | 0.0 | 6.555518E-5 | 3.2301643E-5 | 3.2301643E-5 | 1.0 | 0.0 | 7.97842E-4 | 3.9322028E-4 | 4.0321634E-4 | 1.025421 | 1.0E-5 | 0.007949836 | 0.0039270865 | 0.0039370474 | 1.0025364 | 1.0E-5 |
-| 6.5 | 1.5296591E-5 | 7.5371186E-6 | 7.5371186E-6 | 1.0 | 0.0 | 6.555518E-5 | 3.2301643E-5 | 3.2301643E-5 | 1.0 | 0.0 | 7.97842E-4 | 3.9322028E-4 | 4.0321634E-4 | 1.025421 | 1.0E-5 | 0.007949836 | 0.0039270865 | 0.0039370474 | 1.0025364 | 1.0E-5 |
-| 6.6 | 1.3289383E-5 | 5.992047E-6 | 5.992047E-6 | 1.0 | 0.0 | 5.6953253E-5 | 2.5680045E-5 | 2.5680045E-5 | 1.0 | 0.0 | 6.9318525E-4 | 3.1262665E-4 | 3.1262665E-4 | 1.0 | 0.0 | 0.0069102696 | 0.0031235332 | 0.0031235332 | 1.0 | 0.0 |
-| 6.7 | 1.3289383E-5 | 5.992047E-6 | 5.992047E-6 | 1.0 | 0.0 | 5.6953253E-5 | 2.5680045E-5 | 2.5680045E-5 | 1.0 | 0.0 | 6.9318525E-4 | 3.1262665E-4 | 3.1262665E-4 | 1.0 | 0.0 | 0.0069102696 | 0.0031235332 | 0.0031235332 | 1.0 | 0.0 |
-| 6.8 | 8.330789E-6 | 2.9213809E-6 | 2.9213809E-6 | 1.0 | 0.0 | 3.570289E-5 | 1.2520176E-5 | 1.2520176E-5 | 1.0 | 0.0 | 4.34596E-4 | 1.5242818E-4 | 1.5242818E-4 | 1.0 | 0.0 | 0.0043374705 | 0.0015237964 | 0.0015237964 | 1.0 | 0.0 |
-| 6.9 | 7.2359003E-6 | 2.301496E-6 | 2.301496E-6 | 1.0 | 0.0 | 3.1010633E-5 | 9.863546E-6 | 9.863546E-6 | 1.0 | 0.0 | 3.7748902E-4 | 1.2008739E-4 | 1.2008739E-4 | 1.0 | 0.0 | 0.0037684843 | 0.0012007479 | 0.0012007479 | 1.0 | 0.0 |
-| 7.0 | 6.5149957E-6 | 2.0886396E-6 | 2.0886396E-6 | 1.0 | 0.0 | 2.792111E-5 | 8.951311E-6 | 8.951311E-6 | 1.0 | 0.0 | 3.398865E-4 | 1.08982065E-4 | 1.08982065E-4 | 1.0 | 0.0 | 0.003393671 | 0.0010898061 | 0.0010898061 | 1.0 | 0.0 |
-| 7.1 | 1.1662233E-6 | 2.8807156E-8 | 2.8807156E-8 | 1.0 | 0.0 | 4.9980904E-6 | 1.2345923E-7 | 1.2345923E-7 | 1.0 | 0.0 | 6.0850052E-5 | 1.5031153E-6 | 1.5031153E-6 | 1.0 | 0.0 | 6.083339E-4 | 1.5031068E-5 | 1.5031068E-5 | 1.0 | 0.0 |
-| 7.2 | 5.413881E-7 | 2.8807156E-8 | 2.8807156E-8 | 1.0 | 0.0 | 2.3202326E-6 | 1.2345923E-7 | 1.2345923E-7 | 1.0 | 0.0 | 2.8248465E-5 | 1.5031153E-6 | 1.5031153E-6 | 1.0 | 0.0 | 2.8244875E-4 | 1.5031068E-5 | 1.5031068E-5 | 1.0 | 0.0 |
-| 7.3 | 5.076821E-7 | 2.8807156E-8 | 2.8807156E-8 | 1.0 | 0.0 | 2.1757785E-6 | 1.2345923E-7 | 1.2345923E-7 | 1.0 | 0.0 | 2.648978E-5 | 1.5031153E-6 | 1.5031153E-6 | 1.0 | 0.0 | 2.6486625E-4 | 1.5031068E-5 | 1.5031068E-5 | 1.0 | 0.0 |
-| 7.4 | 4.7568687E-7 | 2.8789072E-8 | 2.8789072E-8 | 1.0 | 0.0 | 2.0386565E-6 | 1.2338174E-7 | 1.2338174E-7 | 1.0 | 0.0 | 2.482036E-5 | 1.5021717E-6 | 1.5021717E-6 | 1.0 | 0.0 | 2.4817587E-4 | 1.5021632E-5 | 1.5021632E-5 | 1.0 | 0.0 |
-| 7.5 | 3.435626E-7 | 2.5361997E-8 | 2.5361997E-8 | 1.0 | 0.0 | 1.4724103E-6 | 1.08694266E-7 | 1.08694266E-7 | 1.0 | 0.0 | 1.7926448E-5 | 1.3233521E-6 | 1.3233521E-6 | 1.0 | 0.0 | 1.7925001E-4 | 1.3233458E-5 | 1.3233458E-5 | 1.0 | 0.0 |
-
-## Concord 2011 CFM
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Concord_2011_CFM_1wk.png) | ![MPD](Concord_2011_CFM_1mo.png) | ![MPD](Concord_2011_CFM_1yr.png) | ![MPD](Concord_2011_CFM_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 5.7865112E-5 | 9.759591E-5 | 9.759591E-5 | 1.0 | 0.0 | 2.4796976E-4 | 4.182017E-4 | 4.182017E-4 | 1.0 | 0.0 | 0.0030148525 | 0.0050796377 | 0.005089587 | 1.0019586 | 1.0E-5 | 0.029742775 | 0.0492507 | 0.049260207 | 1.000193 | 1.0E-5 |
-| 6.1 | 5.7865112E-5 | 9.759591E-5 | 9.759591E-5 | 1.0 | 0.0 | 2.4796976E-4 | 4.182017E-4 | 4.182017E-4 | 1.0 | 0.0 | 0.0030148525 | 0.0050796377 | 0.005089587 | 1.0019586 | 1.0E-5 | 0.029742775 | 0.0492507 | 0.049260207 | 1.000193 | 1.0E-5 |
-| 6.2 | 5.6789337E-5 | 9.5799136E-5 | 9.5799136E-5 | 1.0 | 0.0 | 2.4336016E-4 | 4.1050368E-4 | 4.1050368E-4 | 1.0 | 0.0 | 0.0029588845 | 0.004986345 | 0.004996295 | 1.0019954 | 1.0E-5 | 0.029197963 | 0.04836717 | 0.048376683 | 1.0001967 | 1.0E-5 |
-| 6.3 | 5.203322E-5 | 8.803288E-5 | 8.803288E-5 | 1.0 | 0.0 | 2.2298045E-4 | 3.772336E-4 | 3.772336E-4 | 1.0 | 0.0 | 0.0027114071 | 0.004583931 | 0.004593885 | 1.0021715 | 1.0E-5 | 0.026785625 | 0.04453783 | 0.044547386 | 1.0002146 | 1.0E-5 |
-| 6.4 | 4.7120942E-5 | 7.8976125E-5 | 7.8976125E-5 | 1.0 | 0.0 | 2.0193127E-4 | 3.3842938E-4 | 3.3842938E-4 | 1.0 | 0.0 | 0.0024557412 | 0.0041133384 | 0.004123297 | 1.0024211 | 1.0E-5 | 0.024287801 | 0.040066537 | 0.040076133 | 1.0002396 | 1.0E-5 |
-| 6.5 | 2.9598437E-5 | 4.6676185E-5 | 4.6676185E-5 | 1.0 | 0.0 | 1.2684427E-4 | 2.0002664E-4 | 2.0002664E-4 | 1.0 | 0.0 | 0.001543235 | 0.0024328148 | 0.0024328148 | 1.0 | 0.0 | 0.015325619 | 0.02391063 | 0.02391063 | 1.0 | 0.0 |
-| 6.6 | 2.0443718E-5 | 2.9985338E-5 | 2.9985338E-5 | 1.0 | 0.0 | 8.7613E-5 | 1.2850246E-4 | 1.2850246E-4 | 1.0 | 0.0 | 0.0010661662 | 0.001563431 | 0.001563431 | 1.0 | 0.0 | 0.010610655 | 0.015467506 | 0.015467506 | 1.0 | 0.0 |
-| 6.7 | 1.798539E-5 | 2.5558318E-5 | 2.5558318E-5 | 1.0 | 0.0 | 7.7077966E-5 | 1.09531175E-4 | 1.09531175E-4 | 1.0 | 0.0 | 9.380202E-4 | 0.0013327477 | 0.0013327477 | 1.0 | 0.0 | 0.009340706 | 0.01321791 | 0.01321791 | 1.0 | 0.0 |
-| 6.8 | 1.613555E-5 | 2.1960052E-5 | 2.1960052E-5 | 1.0 | 0.0 | 6.915052E-5 | 9.4111194E-5 | 9.4111194E-5 | 1.0 | 0.0 | 8.4158237E-4 | 0.0011452155 | 0.0011452155 | 1.0 | 0.0 | 0.008384023 | 0.011378636 | 0.011378636 | 1.0 | 0.0 |
-| 6.9 | 1.2916435E-5 | 1.708176E-5 | 1.708176E-5 | 1.0 | 0.0 | 5.5354973E-5 | 7.320553E-5 | 7.320553E-5 | 1.0 | 0.0 | 6.7373837E-4 | 8.9091866E-4 | 8.9091866E-4 | 1.0 | 0.0 | 0.006716994 | 0.008867503 | 0.008867503 | 1.0 | 0.0 |
-| 7.0 | 9.81129E-6 | 1.2631425E-5 | 1.2631425E-5 | 1.0 | 0.0 | 4.2047708E-5 | 5.4133565E-5 | 5.4133565E-5 | 1.0 | 0.0 | 5.118106E-4 | 6.588785E-4 | 6.588785E-4 | 1.0 | 0.0 | 0.005106334 | 0.0065694614 | 0.0065694614 | 1.0 | 0.0 |
-| 7.1 | 8.0889195E-6 | 1.0418796E-5 | 1.0418796E-5 | 1.0 | 0.0 | 3.4666336E-5 | 4.465122E-5 | 4.465122E-5 | 1.0 | 0.0 | 4.219809E-4 | 5.4349407E-4 | 5.4349407E-4 | 1.0 | 0.0 | 0.004211805 | 0.005421875 | 0.005421875 | 1.0 | 0.0 |
-| 7.2 | 6.267438E-6 | 8.116162E-6 | 8.116162E-6 | 1.0 | 0.0 | 2.6860173E-5 | 3.478309E-5 | 3.478309E-5 | 1.0 | 0.0 | 3.2697353E-4 | 4.2340258E-4 | 4.2340258E-4 | 1.0 | 0.0 | 0.0032649285 | 0.0042262096 | 0.0042262096 | 1.0 | 0.0 |
-| 7.3 | 3.6761196E-6 | 4.8405195E-6 | 4.8405195E-6 | 1.0 | 0.0 | 1.5754704E-5 | 2.074492E-5 | 2.074492E-5 | 1.0 | 0.0 | 1.9179663E-4 | 2.5254034E-4 | 2.5254034E-4 | 1.0 | 0.0 | 0.0019163118 | 0.0025226711 | 0.0025226711 | 1.0 | 0.0 |
-| 7.4 | 2.8044356E-6 | 3.7099376E-6 | 3.7099376E-6 | 1.0 | 0.0 | 1.2018954E-5 | 1.5899635E-5 | 1.5899635E-5 | 1.0 | 0.0 | 1.4632095E-4 | 1.9356099E-4 | 1.9356099E-4 | 1.0 | 0.0 | 0.0014622464 | 0.0019340221 | 0.0019340221 | 1.0 | 0.0 |
-| 7.5 | 2.4578699E-6 | 3.2450537E-6 | 3.2450537E-6 | 1.0 | 0.0 | 1.0533685E-5 | 1.3907299E-5 | 1.3907299E-5 | 1.0 | 0.0 | 1.2824008E-4 | 1.6930832E-4 | 1.6930832E-4 | 1.0 | 0.0 | 0.0012816609 | 0.001691874 | 0.001691874 | 1.0 | 0.0 |
-| 7.6 | 1.7713267E-6 | 2.3352432E-6 | 2.3352432E-6 | 1.0 | 0.0 | 7.591378E-6 | 1.0008148E-5 | 1.0008148E-5 | 1.0 | 0.0 | 9.2421105E-5 | 1.2184247E-4 | 1.2184247E-4 | 1.0 | 0.0 | 9.2382677E-4 | 0.0012178101 | 0.0012178101 | 1.0 | 0.0 |
-| 7.7 | 5.1912366E-7 | 6.829085E-7 | 6.829085E-7 | 1.0 | 0.0 | 2.2248137E-6 | 2.9267474E-6 | 2.9267474E-6 | 1.0 | 0.0 | 2.708677E-5 | 3.563258E-5 | 3.563258E-5 | 1.0 | 0.0 | 2.708347E-4 | 3.562766E-4 | 3.562766E-4 | 1.0 | 0.0 |
-
-## Great Valley 04b Gordon Valley
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Great_Valley_04b_Gordon_Valley_1wk.png) | ![MPD](Great_Valley_04b_Gordon_Valley_1mo.png) | ![MPD](Great_Valley_04b_Gordon_Valley_1yr.png) | ![MPD](Great_Valley_04b_Gordon_Valley_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.1181217E-5 | 2.3983135E-5 | 2.3983135E-5 | 1.0 | 0.0 | 9.077348E-5 | 1.02781756E-4 | 1.02781756E-4 | 1.0 | 0.0 | 0.0011046068 | 0.0012508163 | 0.0012508163 | 1.0 | 0.0 | 0.010991322 | 0.01245421 | 0.012464085 | 1.000793 | 1.0E-5 |
-| 6.1 | 2.1181217E-5 | 2.3983135E-5 | 2.3983135E-5 | 1.0 | 0.0 | 9.077348E-5 | 1.02781756E-4 | 1.02781756E-4 | 1.0 | 0.0 | 0.0011046068 | 0.0012508163 | 0.0012508163 | 1.0 | 0.0 | 0.010991322 | 0.01245421 | 0.012464085 | 1.000793 | 1.0E-5 |
-| 6.2 | 2.1181217E-5 | 2.3983135E-5 | 2.3983135E-5 | 1.0 | 0.0 | 9.077348E-5 | 1.02781756E-4 | 1.02781756E-4 | 1.0 | 0.0 | 0.0011046068 | 0.0012508163 | 0.0012508163 | 1.0 | 0.0 | 0.010991322 | 0.01245421 | 0.012464085 | 1.000793 | 1.0E-5 |
-| 6.3 | 2.1181217E-5 | 2.3983135E-5 | 2.3983135E-5 | 1.0 | 0.0 | 9.077348E-5 | 1.02781756E-4 | 1.02781756E-4 | 1.0 | 0.0 | 0.0011046068 | 0.0012508163 | 0.0012508163 | 1.0 | 0.0 | 0.010991322 | 0.01245421 | 0.012464085 | 1.000793 | 1.0E-5 |
-| 6.4 | 1.0988268E-5 | 1.2255024E-5 | 1.2255024E-5 | 1.0 | 0.0 | 4.7091726E-5 | 5.252056E-5 | 5.252056E-5 | 1.0 | 0.0 | 5.731909E-4 | 6.3926616E-4 | 6.3926616E-4 | 1.0 | 0.0 | 0.005717147 | 0.00637586 | 0.006385796 | 1.0015584 | 1.0E-5 |
-| 6.5 | 1.0988268E-5 | 1.2255024E-5 | 1.2255024E-5 | 1.0 | 0.0 | 4.7091726E-5 | 5.252056E-5 | 5.252056E-5 | 1.0 | 0.0 | 5.731909E-4 | 6.3926616E-4 | 6.3926616E-4 | 1.0 | 0.0 | 0.005717147 | 0.00637586 | 0.006385796 | 1.0015584 | 1.0E-5 |
-| 6.6 | 1.0517822E-5 | 1.1724562E-5 | 1.1724562E-5 | 1.0 | 0.0 | 4.5075605E-5 | 5.024724E-5 | 5.024724E-5 | 1.0 | 0.0 | 5.4865726E-4 | 6.116041E-4 | 6.116041E-4 | 1.0 | 0.0 | 0.0054730466 | 0.0061007626 | 0.0061107012 | 1.0016291 | 1.0E-5 |
-| 6.7 | 7.789219E-6 | 8.678012E-6 | 8.678012E-6 | 1.0 | 0.0 | 3.3381937E-5 | 3.719098E-5 | 3.719098E-5 | 1.0 | 0.0 | 4.063493E-4 | 4.5271128E-4 | 4.5271128E-4 | 1.0 | 0.0 | 0.004056071 | 0.004518408 | 0.004518408 | 1.0 | 0.0 |
-| 6.8 | 7.5850853E-6 | 8.452748E-6 | 8.452748E-6 | 1.0 | 0.0 | 3.2507105E-5 | 3.622559E-5 | 3.622559E-5 | 1.0 | 0.0 | 3.957021E-4 | 4.4096244E-4 | 4.4096244E-4 | 1.0 | 0.0 | 0.0039499826 | 0.0044013867 | 0.0044013867 | 1.0 | 0.0 |
-| 6.9 | 6.604105E-6 | 7.3588617E-6 | 7.3588617E-6 | 1.0 | 0.0 | 2.8303E-5 | 3.153762E-5 | 3.153762E-5 | 1.0 | 0.0 | 3.4453452E-4 | 3.8390674E-4 | 3.8390674E-4 | 1.0 | 0.0 | 0.0034400085 | 0.003832822 | 0.003832822 | 1.0 | 0.0 |
-| 7.0 | 5.3701115E-6 | 5.9886747E-6 | 5.9886747E-6 | 1.0 | 0.0 | 2.301456E-5 | 2.5665513E-5 | 2.5665513E-5 | 1.0 | 0.0 | 2.8016625E-4 | 3.1243573E-4 | 3.1243573E-4 | 1.0 | 0.0 | 0.0027981328 | 0.0031202533 | 0.0031202533 | 1.0 | 0.0 |
-| 7.1 | 4.4685607E-6 | 4.986693E-6 | 4.986693E-6 | 1.0 | 0.0 | 1.9150835E-5 | 2.1371381E-5 | 2.1371381E-5 | 1.0 | 0.0 | 2.3313647E-4 | 2.6016796E-4 | 2.6016796E-4 | 1.0 | 0.0 | 0.0023289204 | 0.0025988787 | 0.0025988787 | 1.0 | 0.0 |
-| 7.2 | 2.833378E-6 | 3.1645566E-6 | 3.1645566E-6 | 1.0 | 0.0 | 1.2142991E-5 | 1.3562325E-5 | 1.3562325E-5 | 1.0 | 0.0 | 1.4783088E-4 | 1.6511054E-4 | 1.6511054E-4 | 1.0 | 0.0 | 0.0014773258 | 0.0016500506 | 0.0016500506 | 1.0 | 0.0 |
-| 7.3 | 7.0087293E-7 | 7.773133E-7 | 7.773133E-7 | 1.0 | 0.0 | 3.0037377E-6 | 3.3313408E-6 | 3.3313408E-6 | 1.0 | 0.0 | 3.656989E-5 | 4.0558778E-5 | 4.0558778E-5 | 1.0 | 0.0 | 3.6563876E-4 | 4.0555873E-4 | 4.0555873E-4 | 1.0 | 0.0 |
-| 7.4 | 3.112171E-8 | 3.206873E-8 | 3.206873E-8 | 1.0 | 0.0 | 1.3337875E-7 | 1.374374E-7 | 1.374374E-7 | 1.0 | 0.0 | 1.6238852E-6 | 1.6732992E-6 | 1.6732992E-6 | 1.0 | 0.0 | 1.6238733E-5 | 1.6732874E-5 | 1.6732874E-5 | 1.0 | 0.0 |
-
-## Goose Lake 2011 CFM
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Goose_Lake_2011_CFM_1wk.png) | ![MPD](Goose_Lake_2011_CFM_1mo.png) | ![MPD](Goose_Lake_2011_CFM_1yr.png) | ![MPD](Goose_Lake_2011_CFM_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 3.780968E-6 | 3.8230382E-6 | 3.8230382E-6 | 1.0 | 0.0 | 1.6204049E-5 | 1.6384352E-5 | 1.6384352E-5 | 1.0 | 0.0 | 1.9726643E-4 | 1.9946233E-4 | 1.9946233E-4 | 1.0 | 0.0 | 0.001970914 | 0.0019929411 | 0.0020029214 | 1.0050077 | 1.0E-5 |
-| 6.1 | 2.2035124E-6 | 2.2298111E-6 | 2.2298111E-6 | 1.0 | 0.0 | 9.443591E-6 | 9.556299E-6 | 9.556299E-6 | 1.0 | 0.0 | 1.1496965E-4 | 1.16341915E-4 | 1.16341915E-4 | 1.0 | 0.0 | 0.0011491019 | 0.0011628284 | 0.0011628284 | 1.0 | 0.0 |
-| 6.2 | 1.5624689E-6 | 1.5827E-6 | 1.5827E-6 | 1.0 | 0.0 | 6.6962784E-6 | 6.7829824E-6 | 6.7829824E-6 | 1.0 | 0.0 | 8.152414E-5 | 8.2579725E-5 | 8.2579725E-5 | 1.0 | 0.0 | 8.1494235E-4 | 8.254948E-4 | 8.254948E-4 | 1.0 | 0.0 |
-| 6.3 | 1.5624689E-6 | 1.5827E-6 | 1.5827E-6 | 1.0 | 0.0 | 6.6962784E-6 | 6.7829824E-6 | 6.7829824E-6 | 1.0 | 0.0 | 8.152414E-5 | 8.2579725E-5 | 8.2579725E-5 | 1.0 | 0.0 | 8.1494235E-4 | 8.254948E-4 | 8.254948E-4 | 1.0 | 0.0 |
-| 6.4 | 1.256464E-6 | 1.2738761E-6 | 1.2738761E-6 | 1.0 | 0.0 | 5.3848344E-6 | 5.4594575E-6 | 5.4594575E-6 | 1.0 | 0.0 | 6.5558386E-5 | 6.646689E-5 | 6.646689E-5 | 1.0 | 0.0 | 6.553905E-4 | 6.644721E-4 | 6.644721E-4 | 1.0 | 0.0 |
-| 6.5 | 1.0910911E-6 | 1.1069465E-6 | 1.1069465E-6 | 1.0 | 0.0 | 4.6760965E-6 | 4.7440476E-6 | 4.7440476E-6 | 1.0 | 0.0 | 5.692999E-5 | 5.775726E-5 | 5.775726E-5 | 1.0 | 0.0 | 5.6915404E-4 | 5.774237E-4 | 5.774237E-4 | 1.0 | 0.0 |
-| 6.6 | 9.546601E-7 | 9.6913E-7 | 9.6913E-7 | 1.0 | 0.0 | 4.091394E-6 | 4.153408E-6 | 4.153408E-6 | 1.0 | 0.0 | 4.9811584E-5 | 5.0566578E-5 | 5.0566578E-5 | 1.0 | 0.0 | 4.980042E-4 | 5.055516E-4 | 5.055516E-4 | 1.0 | 0.0 |
-| 6.7 | 7.790316E-7 | 7.916011E-7 | 7.916011E-7 | 1.0 | 0.0 | 3.3387028E-6 | 3.3925717E-6 | 3.3925717E-6 | 1.0 | 0.0 | 4.0647945E-5 | 4.1303785E-5 | 4.1303785E-5 | 1.0 | 0.0 | 4.0640513E-4 | 4.1296167E-4 | 4.1296167E-4 | 1.0 | 0.0 |
-| 6.8 | 6.3714384E-7 | 6.4787804E-7 | 6.4787804E-7 | 1.0 | 0.0 | 2.7306137E-6 | 2.776617E-6 | 2.776617E-6 | 1.0 | 0.0 | 3.3244716E-5 | 3.3804794E-5 | 3.3804794E-5 | 1.0 | 0.0 | 3.323974E-4 | 3.3799701E-4 | 3.3799701E-4 | 1.0 | 0.0 |
-| 6.9 | 4.92586E-7 | 5.013948E-7 | 5.013948E-7 | 1.0 | 0.0 | 2.1110811E-6 | 2.1488331E-6 | 2.1488331E-6 | 1.0 | 0.0 | 2.5702111E-5 | 2.6161733E-5 | 2.6161733E-5 | 1.0 | 0.0 | 2.569914E-4 | 2.6158692E-4 | 2.6158692E-4 | 1.0 | 0.0 |
-| 7.0 | 3.130245E-7 | 3.1903767E-7 | 3.1903767E-7 | 1.0 | 0.0 | 1.3415328E-6 | 1.3673036E-6 | 1.3673036E-6 | 1.0 | 0.0 | 1.6333039E-5 | 1.6646796E-5 | 1.6646796E-5 | 1.0 | 0.0 | 1.6331839E-4 | 1.664557E-4 | 1.664557E-4 | 1.0 | 0.0 |
-| 7.1 | 1.7680084E-7 | 1.8024052E-7 | 1.8024052E-7 | 1.0 | 0.0 | 7.5771766E-7 | 7.7245915E-7 | 7.7245915E-7 | 1.0 | 0.0 | 9.225173E-6 | 9.404651E-6 | 9.404651E-6 | 1.0 | 0.0 | 9.22479E-5 | 9.404264E-5 | 9.404264E-5 | 1.0 | 0.0 |
-| 7.2 | 4.8641045E-8 | 4.9402352E-8 | 4.9402352E-8 | 1.0 | 0.0 | 2.084616E-7 | 2.1172436E-7 | 2.1172436E-7 | 1.0 | 0.0 | 2.538017E-6 | 2.577741E-6 | 2.577741E-6 | 1.0 | 0.0 | 2.537988E-5 | 2.5777124E-5 | 2.5777124E-5 | 1.0 | 0.0 |
-| 7.3 | 5.3911844E-9 | 5.4758464E-9 | 5.4758464E-9 | 1.0 | 0.0 | 2.3105075E-8 | 2.3467912E-8 | 2.3467912E-8 | 1.0 | 0.0 | 2.8130427E-7 | 2.857218E-7 | 2.857218E-7 | 1.0 | 0.0 | 2.8130391E-6 | 2.857216E-6 | 2.857216E-6 | 1.0 | 0.0 |
-
-## Calaveras (So) 2011 CFM
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Calaveras_So_2011_CFM_1wk.png) | ![MPD](Calaveras_So_2011_CFM_1mo.png) | ![MPD](Calaveras_So_2011_CFM_1yr.png) | ![MPD](Calaveras_So_2011_CFM_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.5950744E-4 | 3.073298E-4 | 3.073298E-4 | 1.0 | 0.0 | 6.834242E-4 | 0.0013164851 | 0.0013164851 | 1.0 | 0.0 | 0.00828899 | 0.015864532 | 0.015864532 | 1.0 | 0.0 | 0.079865426 | 0.14444934 | 0.14445789 | 1.0000592 | 1.0E-5 |
-| 6.1 | 1.3584697E-4 | 2.6055795E-4 | 2.6055795E-4 | 1.0 | 0.0 | 5.8207137E-4 | 0.0011162142 | 0.0011162142 | 1.0 | 0.0 | 0.007063716 | 0.013467284 | 0.013467284 | 1.0 | 0.0 | 0.06843361 | 0.12407611 | 0.124084875 | 1.0000706 | 1.0E-5 |
-| 6.2 | 1.14676266E-4 | 2.1742213E-4 | 2.1742213E-4 | 1.0 | 0.0 | 4.9137714E-4 | 9.31488E-4 | 9.31488E-4 | 1.0 | 0.0 | 0.0059661185 | 0.011250365 | 0.011250365 | 1.0 | 0.0 | 0.058084648 | 0.10506591 | 0.10507486 | 1.0000852 | 1.0E-5 |
-| 6.3 | 8.691518E-5 | 1.599854E-4 | 1.599854E-4 | 1.0 | 0.0 | 3.7244044E-4 | 6.8546354E-4 | 6.8546354E-4 | 1.0 | 0.0 | 0.004525038 | 0.008306238 | 0.008306238 | 1.0 | 0.0 | 0.044339992 | 0.07938139 | 0.0793906 | 1.000116 | 1.0E-5 |
-| 6.4 | 8.50982E-5 | 1.5704907E-4 | 1.5704907E-4 | 1.0 | 0.0 | 3.646556E-4 | 6.728858E-4 | 6.728858E-4 | 1.0 | 0.0 | 0.0044306475 | 0.008154256 | 0.008154256 | 1.0 | 0.0 | 0.04343345 | 0.07798744 | 0.077996664 | 1.0001183 | 1.0E-5 |
-| 6.5 | 8.4062965E-5 | 1.5529433E-4 | 1.5529433E-4 | 1.0 | 0.0 | 3.602201E-4 | 6.6536927E-4 | 6.6536927E-4 | 1.0 | 0.0 | 0.004376863 | 0.00806345 | 0.00806345 | 1.0 | 0.0 | 0.042916555 | 0.07715867 | 0.0771679 | 1.0001196 | 1.0E-5 |
-| 6.6 | 8.194716E-5 | 1.5165257E-4 | 1.5165257E-4 | 1.0 | 0.0 | 3.5115483E-4 | 6.497696E-4 | 6.497696E-4 | 1.0 | 0.0 | 0.0042669317 | 0.007875272 | 0.007875272 | 1.0 | 0.0 | 0.04185927 | 0.07544381 | 0.07545306 | 1.0001225 | 1.0E-5 |
-| 6.7 | 8.012326E-5 | 1.4832857E-4 | 1.4832857E-4 | 1.0 | 0.0 | 3.433402E-4 | 6.3553656E-4 | 6.3553656E-4 | 1.0 | 0.0 | 0.004172157 | 0.0077037495 | 0.0077037495 | 1.0 | 0.0 | 0.040946912 | 0.073885866 | 0.07389513 | 1.0001253 | 1.0E-5 |
-| 6.8 | 7.119773E-5 | 1.2890759E-4 | 1.2890759E-4 | 1.0 | 0.0 | 3.0509746E-4 | 5.52343E-4 | 5.52343E-4 | 1.0 | 0.0 | 0.0037082357 | 0.006700882 | 0.006700882 | 1.0 | 0.0 | 0.036469642 | 0.06472833 | 0.064737685 | 1.0001445 | 1.0E-5 |
-| 6.9 | 5.7343088E-5 | 9.927315E-5 | 9.927315E-5 | 1.0 | 0.0 | 2.4573295E-4 | 4.2538744E-4 | 4.2538744E-4 | 1.0 | 0.0 | 0.0029876942 | 0.005166875 | 0.005166875 | 1.0 | 0.0 | 0.02947844 | 0.05054853 | 0.050558027 | 1.0001879 | 1.0E-5 |
-| 7.0 | 4.8746577E-5 | 8.292993E-5 | 8.292993E-5 | 1.0 | 0.0 | 2.0889717E-4 | 3.5536595E-4 | 3.5536595E-4 | 1.0 | 0.0 | 0.0025403565 | 0.0043180636 | 0.0043180636 | 1.0 | 0.0 | 0.025115121 | 0.042524014 | 0.042533588 | 1.0002252 | 1.0E-5 |
-| 7.1 | 4.2998014E-5 | 7.270967E-5 | 7.270967E-5 | 1.0 | 0.0 | 1.8426418E-4 | 3.1157598E-4 | 3.1157598E-4 | 1.0 | 0.0 | 0.002241108 | 0.0037868994 | 0.0037868994 | 1.0 | 0.0 | 0.022186412 | 0.03745239 | 0.037462015 | 1.000257 | 1.0E-5 |
-| 7.2 | 3.221292E-5 | 5.396419E-5 | 5.396419E-5 | 1.0 | 0.0 | 1.3804805E-4 | 2.3125476E-4 | 2.3125476E-4 | 1.0 | 0.0 | 0.0016794393 | 0.0028119197 | 0.0028119197 | 1.0 | 0.0 | 0.016668037 | 0.028064482 | 0.028074201 | 1.0003463 | 1.0E-5 |
-| 7.3 | 2.3756531E-5 | 3.952333E-5 | 3.952333E-5 | 1.0 | 0.0 | 1.0180973E-4 | 1.693748E-4 | 1.693748E-4 | 1.0 | 0.0 | 0.0012388286 | 0.002060205 | 0.002060205 | 1.0 | 0.0 | 0.012319452 | 0.020668885 | 0.020678679 | 1.0004739 | 1.0E-5 |
-| 7.4 | 1.5997684E-5 | 2.736345E-5 | 2.736345E-5 | 1.0 | 0.0 | 6.8559704E-5 | 1.17266674E-4 | 1.17266674E-4 | 1.0 | 0.0 | 8.343947E-4 | 0.0014267892 | 0.0014267892 | 1.0 | 0.0 | 0.008312687 | 0.01438753 | 0.01438753 | 1.0 | 0.0 |
-| 7.5 | 1.3814293E-5 | 2.480456E-5 | 2.480456E-5 | 1.0 | 0.0 | 5.9202768E-5 | 1.0630094E-4 | 1.0630094E-4 | 1.0 | 0.0 | 7.205553E-4 | 0.0012934479 | 0.0012934479 | 1.0 | 0.0 | 0.007182234 | 0.0130664455 | 0.0130664455 | 1.0 | 0.0 |
-| 7.6 | 8.817309E-6 | 1.6448737E-5 | 1.6448737E-5 | 1.0 | 0.0 | 3.7787922E-5 | 7.049269E-5 | 7.049269E-5 | 1.0 | 0.0 | 4.5997082E-4 | 8.5791195E-4 | 8.5791195E-4 | 1.0 | 0.0 | 0.004590199 | 0.008729103 | 0.008729103 | 1.0 | 0.0 |
-| 7.7 | 4.0352206E-6 | 7.718972E-6 | 7.718972E-6 | 1.0 | 0.0 | 1.7293689E-5 | 3.3080887E-5 | 3.3080887E-5 | 1.0 | 0.0 | 2.1053031E-4 | 4.0268543E-4 | 4.0268543E-4 | 1.0 | 0.0 | 0.0021033096 | 0.004170919 | 0.004170919 | 1.0 | 0.0 |
-| 7.8 | 3.413169E-6 | 6.797414E-6 | 6.797414E-6 | 1.0 | 0.0 | 1.4627784E-5 | 2.9131448E-5 | 2.9131448E-5 | 1.0 | 0.0 | 1.7807873E-4 | 3.5461772E-4 | 3.5461772E-4 | 1.0 | 0.0 | 0.0017793609 | 0.0036714657 | 0.0036714657 | 1.0 | 0.0 |
-| 7.9 | 2.4740732E-6 | 5.2865817E-6 | 5.2865817E-6 | 1.0 | 0.0 | 1.06031275E-5 | 2.2656583E-5 | 2.2656583E-5 | 1.0 | 0.0 | 1.2908543E-4 | 2.7580903E-4 | 2.7580903E-4 | 1.0 | 0.0 | 0.0012901047 | 0.002838413 | 0.002838413 | 1.0 | 0.0 |
-| 8.0 | 1.5231818E-6 | 3.293288E-6 | 3.293288E-6 | 1.0 | 0.0 | 6.527906E-6 | 1.4114015E-5 | 1.4114015E-5 | 1.0 | 0.0 | 7.9474354E-5 | 1.7182462E-4 | 1.7182462E-4 | 1.0 | 0.0 | 7.944594E-4 | 0.001758611 | 0.001758611 | 1.0 | 0.0 |
-| 8.1 | 1.0104524E-6 | 2.048486E-6 | 2.048486E-6 | 1.0 | 0.0 | 4.330503E-6 | 8.779196E-6 | 8.779196E-6 | 1.0 | 0.0 | 5.2722597E-5 | 1.068815E-4 | 1.068815E-4 | 1.0 | 0.0 | 5.271009E-4 | 0.0010943245 | 0.0010943245 | 1.0 | 0.0 |
-
-## Great Valley 05 Pittsburg - Kirby Hills alt1
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Great_Valley_05_Pittsburg_Kirby_Hills_alt1_1wk.png) | ![MPD](Great_Valley_05_Pittsburg_Kirby_Hills_alt1_1mo.png) | ![MPD](Great_Valley_05_Pittsburg_Kirby_Hills_alt1_1yr.png) | ![MPD](Great_Valley_05_Pittsburg_Kirby_Hills_alt1_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.187212E-5 | 5.3447573E-5 | 5.3447573E-5 | 1.0 | 0.0 | 1.794396E-4 | 2.2904667E-4 | 2.2904667E-4 | 1.0 | 0.0 | 0.002182488 | 0.0027860666 | 0.0027860666 | 1.0 | 0.0 | 0.021611776 | 0.027605776 | 0.027615499 | 1.0003523 | 1.0E-5 |
-| 6.1 | 4.187212E-5 | 5.3447573E-5 | 5.3447573E-5 | 1.0 | 0.0 | 1.794396E-4 | 2.2904667E-4 | 2.2904667E-4 | 1.0 | 0.0 | 0.002182488 | 0.0027860666 | 0.0027860666 | 1.0 | 0.0 | 0.021611776 | 0.027605776 | 0.027615499 | 1.0003523 | 1.0E-5 |
-| 6.2 | 1.7353306E-5 | 2.2156657E-5 | 2.2156657E-5 | 1.0 | 0.0 | 7.436919E-5 | 9.495596E-5 | 9.495596E-5 | 1.0 | 0.0 | 9.050688E-4 | 0.0011558724 | 0.0011558724 | 1.0 | 0.0 | 0.009013915 | 0.011536266 | 0.011546151 | 1.0008569 | 1.0E-5 |
-| 6.3 | 1.7353306E-5 | 2.2156657E-5 | 2.2156657E-5 | 1.0 | 0.0 | 7.436919E-5 | 9.495596E-5 | 9.495596E-5 | 1.0 | 0.0 | 9.050688E-4 | 0.0011558724 | 0.0011558724 | 1.0 | 0.0 | 0.009013915 | 0.011536266 | 0.011546151 | 1.0008569 | 1.0E-5 |
-| 6.4 | 1.4028824E-5 | 1.7902436E-5 | 1.7902436E-5 | 1.0 | 0.0 | 6.0122147E-5 | 7.6724726E-5 | 7.6724726E-5 | 1.0 | 0.0 | 7.3174125E-4 | 9.341235E-4 | 9.341235E-4 | 1.0 | 0.0 | 0.0072933645 | 0.00933907 | 0.009348976 | 1.0010607 | 1.0E-5 |
-
-## Davis Creek
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Davis_Creek_1wk.png) | ![MPD](Davis_Creek_1mo.png) | ![MPD](Davis_Creek_1yr.png) | ![MPD](Davis_Creek_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.331472E-5 | 2.5418065E-5 | 2.5418065E-5 | 1.0 | 0.0 | 9.99164E-5 | 1.0893069E-4 | 1.0893069E-4 | 1.0 | 0.0 | 0.0012158032 | 0.0013255428 | 0.0013255428 | 1.0 | 0.0 | 0.01209173 | 0.013188143 | 0.013198012 | 1.0007483 | 1.0E-5 |
-| 6.1 | 1.0407654E-5 | 1.1317355E-5 | 1.1317355E-5 | 1.0 | 0.0 | 4.4603472E-5 | 4.85022E-5 | 4.85022E-5 | 1.0 | 0.0 | 5.4291193E-4 | 5.903814E-4 | 5.903814E-4 | 1.0 | 0.0 | 0.0054158745 | 0.005890802 | 0.005890802 | 1.0 | 0.0 |
-| 6.2 | 1.0407654E-5 | 1.1317355E-5 | 1.1317355E-5 | 1.0 | 0.0 | 4.4603472E-5 | 4.85022E-5 | 4.85022E-5 | 1.0 | 0.0 | 5.4291193E-4 | 5.903814E-4 | 5.903814E-4 | 1.0 | 0.0 | 0.0054158745 | 0.005890802 | 0.005890802 | 1.0 | 0.0 |
-| 6.3 | 5.1323277E-6 | 5.5687324E-6 | 5.5687324E-6 | 1.0 | 0.0 | 2.1995505E-5 | 2.3865825E-5 | 2.3865825E-5 | 1.0 | 0.0 | 2.6776237E-4 | 2.905363E-4 | 2.905363E-4 | 1.0 | 0.0 | 0.0026743996 | 0.002902411 | 0.002902411 | 1.0 | 0.0 |
-| 6.4 | 2.4985154E-6 | 2.7046215E-6 | 2.7046215E-6 | 1.0 | 0.0 | 1.07078795E-5 | 1.15912035E-5 | 1.15912035E-5 | 1.0 | 0.0 | 1.3036063E-4 | 1.4111739E-4 | 1.4111739E-4 | 1.0 | 0.0 | 0.0013028418 | 0.0014106324 | 0.0014106324 | 1.0 | 0.0 |
-| 6.5 | 2.4846438E-6 | 2.6905554E-6 | 2.6905554E-6 | 1.0 | 0.0 | 1.064843E-5 | 1.1530921E-5 | 1.1530921E-5 | 1.0 | 0.0 | 1.2963692E-4 | 1.4038355E-4 | 1.4038355E-4 | 1.0 | 0.0 | 0.0012956132 | 0.0014033034 | 0.0014033034 | 1.0 | 0.0 |
-| 6.6 | 2.072566E-7 | 2.1018198E-7 | 2.1018198E-7 | 1.0 | 0.0 | 8.882423E-7 | 9.007796E-7 | 9.007796E-7 | 1.0 | 0.0 | 1.0814296E-5 | 1.0966938E-5 | 1.0966938E-5 | 1.0 | 0.0 | 1.081377E-4 | 1.0966415E-4 | 1.0966415E-4 | 1.0 | 0.0 |
-| 6.7 | 1.7544528E-7 | 1.7790919E-7 | 1.7790919E-7 | 1.0 | 0.0 | 7.5190815E-7 | 7.624677E-7 | 7.624677E-7 | 1.0 | 0.0 | 9.154443E-6 | 9.283007E-6 | 9.283007E-6 | 1.0 | 0.0 | 9.1540656E-5 | 9.282635E-5 | 9.282635E-5 | 1.0 | 0.0 |
-| 6.8 | 1.2320395E-7 | 1.2481198E-7 | 1.2481198E-7 | 1.0 | 0.0 | 5.280168E-7 | 5.349084E-7 | 5.349084E-7 | 1.0 | 0.0 | 6.428586E-6 | 6.5124914E-6 | 6.5124914E-6 | 1.0 | 0.0 | 6.4284E-5 | 6.512312E-5 | 6.512312E-5 | 1.0 | 0.0 |
-| 6.9 | 6.399997E-8 | 6.48609E-8 | 6.48609E-8 | 1.0 | 0.0 | 2.7428555E-7 | 2.7797526E-7 | 2.7797526E-7 | 1.0 | 0.0 | 3.3394215E-6 | 3.3843444E-6 | 3.3843444E-6 | 1.0 | 0.0 | 3.3393713E-5 | 3.3842993E-5 | 3.3842993E-5 | 1.0 | 0.0 |
-| 7.0 | 6.4455685E-9 | 6.5352976E-9 | 6.5352976E-9 | 1.0 | 0.0 | 2.7623864E-8 | 2.8008419E-8 | 2.8008419E-8 | 1.0 | 0.0 | 3.3632048E-7 | 3.410025E-7 | 3.410025E-7 | 1.0 | 0.0 | 3.3631998E-6 | 3.410025E-6 | 3.410025E-6 | 1.0 | 0.0 |
-
-## Sierra Madre (San Fernando)
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Sierra_Madre_San_Fernando_1wk.png) | ![MPD](Sierra_Madre_San_Fernando_1mo.png) | ![MPD](Sierra_Madre_San_Fernando_1yr.png) | ![MPD](Sierra_Madre_San_Fernando_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.0346413E-5 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.4341014E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.3971814E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0053840918 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
-| 6.1 | 1.0346413E-5 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.4341014E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.3971814E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0053840918 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
-| 6.2 | 1.0346413E-5 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.4341014E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.3971814E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0053840918 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
-| 6.3 | 1.0346413E-5 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.4341014E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.3971814E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0053840918 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
-| 6.4 | 1.0249558E-5 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.392594E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.3466705E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0053338245 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
-| 6.5 | 1.0249558E-5 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.392594E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.3466705E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0053338245 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
-| 6.6 | 9.9035515E-6 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.2443102E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.166222E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0051542283 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
-| 6.7 | 9.87217E-6 | 6.275075E-6 | 6.275075E-6 | 1.0 | 0.0 | 4.2308613E-5 | 2.6892907E-5 | 2.6892907E-5 | 1.0 | 0.0 | 5.149856E-4 | 3.2737307E-4 | 3.2737307E-4 | 1.0 | 0.0 | 0.005137938 | 0.0032690205 | 0.003278988 | 1.003049 | 1.0E-5 |
-| 6.8 | 9.4359175E-6 | 6.179043E-6 | 6.179043E-6 | 1.0 | 0.0 | 4.043902E-5 | 2.648135E-5 | 2.648135E-5 | 1.0 | 0.0 | 4.9223384E-4 | 3.2236383E-4 | 3.2236383E-4 | 1.0 | 0.0 | 0.0049114493 | 0.0032190739 | 0.0032290416 | 1.0030965 | 1.0E-5 |
-| 6.9 | 8.700447E-6 | 6.0402913E-6 | 6.0402913E-6 | 1.0 | 0.0 | 3.72871E-5 | 2.5886711E-5 | 2.5886711E-5 | 1.0 | 0.0 | 4.5387587E-4 | 3.151262E-4 | 3.151262E-4 | 1.0 | 0.0 | 0.0045295 | 0.0031469031 | 0.0031568715 | 1.0031677 | 1.0E-5 |
-| 7.0 | 8.648878E-6 | 6.0152056E-6 | 6.0152056E-6 | 1.0 | 0.0 | 3.7066096E-5 | 2.5779203E-5 | 2.5779203E-5 | 1.0 | 0.0 | 4.5118626E-4 | 3.1381767E-4 | 3.1381767E-4 | 1.0 | 0.0 | 0.004502713 | 0.0031338546 | 0.0031438232 | 1.003181 | 1.0E-5 |
-| 7.1 | 8.505786E-6 | 5.924833E-6 | 5.924833E-6 | 1.0 | 0.0 | 3.645286E-5 | 2.53919E-5 | 2.53919E-5 | 1.0 | 0.0 | 4.437232E-4 | 3.091036E-4 | 3.091036E-4 | 1.0 | 0.0 | 0.0044283825 | 0.0030868459 | 0.003096815 | 1.0032295 | 1.0E-5 |
-| 7.2 | 8.139752E-6 | 5.6991207E-6 | 5.6991207E-6 | 1.0 | 0.0 | 3.4884186E-5 | 2.442458E-5 | 2.442458E-5 | 1.0 | 0.0 | 4.246322E-4 | 2.9732974E-4 | 2.9732974E-4 | 1.0 | 0.0 | 0.004238217 | 0.0029694254 | 0.0029793957 | 1.0033576 | 1.0E-5 |
-| 7.3 | 7.8816E-6 | 5.5524306E-6 | 5.5524306E-6 | 1.0 | 0.0 | 3.3777847E-5 | 2.3795921E-5 | 2.3795921E-5 | 1.0 | 0.0 | 4.111677E-4 | 2.8967788E-4 | 2.8967788E-4 | 1.0 | 0.0 | 0.004104078 | 0.0028931084 | 0.0029030794 | 1.0034465 | 1.0E-5 |
-| 7.4 | 7.5810603E-6 | 5.356662E-6 | 5.356662E-6 | 1.0 | 0.0 | 3.2489854E-5 | 2.2956927E-5 | 2.2956927E-5 | 1.0 | 0.0 | 3.9549218E-4 | 2.7946578E-4 | 2.7946578E-4 | 1.0 | 0.0 | 0.0039478904 | 0.0027912485 | 0.0028012206 | 1.0035726 | 1.0E-5 |
-| 7.5 | 6.349153E-6 | 4.4079093E-6 | 4.4079093E-6 | 1.0 | 0.0 | 2.7210372E-5 | 1.8890907E-5 | 1.8890907E-5 | 1.0 | 0.0 | 3.312359E-4 | 2.2997333E-4 | 2.2997333E-4 | 1.0 | 0.0 | 0.0033074263 | 0.0022974357 | 0.0023074127 | 1.0043427 | 1.0E-5 |
-| 7.6 | 4.430576E-6 | 2.8908958E-6 | 2.8908958E-6 | 1.0 | 0.0 | 1.8988047E-5 | 1.2389495E-5 | 1.2389495E-5 | 1.0 | 0.0 | 2.3115493E-4 | 1.5083188E-4 | 1.5083188E-4 | 1.0 | 0.0 | 0.0023091463 | 0.0015073178 | 0.0015173027 | 1.0066243 | 1.0E-5 |
-| 7.7 | 3.005066E-6 | 1.7512955E-6 | 1.7512955E-6 | 1.0 | 0.0 | 1.2878791E-5 | 7.5055304E-6 | 7.5055304E-6 | 1.0 | 0.0 | 1.56788E-4 | 9.1376016E-5 | 9.1376016E-5 | 1.0 | 0.0 | 0.0015667742 | 9.133856E-4 | 9.233765E-4 | 1.0109383 | 1.0E-5 |
-| 7.8 | 1.8459098E-6 | 1.0584135E-6 | 1.0584135E-6 | 1.0 | 0.0 | 7.911018E-6 | 4.5360503E-6 | 4.5360503E-6 | 1.0 | 0.0 | 9.631238E-5 | 5.5225017E-5 | 5.5225017E-5 | 1.0 | 0.0 | 9.627065E-4 | 5.5211334E-4 | 5.5211334E-4 | 1.0 | 0.0 |
-| 7.9 | 9.839262E-7 | 5.235467E-7 | 5.235467E-7 | 1.0 | 0.0 | 4.2168194E-6 | 2.2437696E-6 | 2.2437696E-6 | 1.0 | 0.0 | 5.1338568E-5 | 2.7317554E-5 | 2.7317554E-5 | 1.0 | 0.0 | 5.132671E-4 | 2.7314224E-4 | 2.7314224E-4 | 1.0 | 0.0 |
-| 8.0 | 1.210983E-7 | 6.614803E-8 | 6.614803E-8 | 1.0 | 0.0 | 5.1899264E-7 | 2.8349154E-7 | 2.8349154E-7 | 1.0 | 0.0 | 6.3187167E-6 | 3.4515042E-6 | 3.4515042E-6 | 1.0 | 0.0 | 6.318537E-5 | 3.4514524E-5 | 3.4514524E-5 | 1.0 | 0.0 |
-
-## San Juan
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](San_Juan_1wk.png) | ![MPD](San_Juan_1mo.png) | ![MPD](San_Juan_1yr.png) | ![MPD](San_Juan_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 8.682808E-6 | 8.750271E-6 | 1.8750185E-5 | 2.1428118 | 1.0E-5 | 3.72115E-5 | 3.7500653E-5 | 4.7500278E-5 | 1.266652 | 1.0E-5 | 4.5295584E-4 | 4.564796E-4 | 4.6647503E-4 | 1.0218968 | 1.0E-5 | 0.004520337 | 0.0045559607 | 0.004565915 | 1.0021849 | 1.0E-5 |
-| 6.1 | 8.682808E-6 | 8.750271E-6 | 1.8750185E-5 | 2.1428118 | 1.0E-5 | 3.72115E-5 | 3.7500653E-5 | 4.7500278E-5 | 1.266652 | 1.0E-5 | 4.5295584E-4 | 4.564796E-4 | 4.6647503E-4 | 1.0218968 | 1.0E-5 | 0.004520337 | 0.0045559607 | 0.004565915 | 1.0021849 | 1.0E-5 |
-| 6.2 | 8.682808E-6 | 8.750271E-6 | 1.8750185E-5 | 2.1428118 | 1.0E-5 | 3.72115E-5 | 3.7500653E-5 | 4.7500278E-5 | 1.266652 | 1.0E-5 | 4.5295584E-4 | 4.564796E-4 | 4.6647503E-4 | 1.0218968 | 1.0E-5 | 0.004520337 | 0.0045559607 | 0.004565915 | 1.0021849 | 1.0E-5 |
-| 6.3 | 6.3054235E-6 | 6.2836584E-6 | 1.6283595E-5 | 2.5914195 | 1.0E-5 | 2.7022963E-5 | 2.6929694E-5 | 3.6929425E-5 | 1.3713273 | 1.0E-5 | 3.2895492E-4 | 3.2782112E-4 | 3.3781782E-4 | 1.0304945 | 1.0E-5 | 0.003284684 | 0.0032735753 | 0.0032835426 | 1.0030447 | 1.0E-5 |
-| 6.4 | 6.1490473E-6 | 6.1153914E-6 | 1.6115331E-5 | 2.6352084 | 1.0E-5 | 2.6352795E-5 | 2.6208565E-5 | 3.62083E-5 | 1.3815447 | 1.0E-5 | 3.2079802E-4 | 3.1904393E-4 | 3.2904075E-4 | 1.0313337 | 1.0E-5 | 0.0032033534 | 0.0031860552 | 0.0031960234 | 1.0031286 | 1.0E-5 |
-| 6.5 | 5.204848E-6 | 5.138129E-6 | 1.5138077E-5 | 2.9462237 | 1.0E-5 | 2.23063E-5 | 2.2020373E-5 | 3.202015E-5 | 1.4541149 | 1.0E-5 | 2.7154534E-4 | 2.68066E-4 | 2.7806332E-4 | 1.0372943 | 1.0E-5 | 0.0027121378 | 0.0026775806 | 0.0026875539 | 1.0037247 | 1.0E-5 |
-| 6.6 | 4.5179986E-6 | 4.4157E-6 | 1.4415656E-5 | 3.2646365 | 1.0E-5 | 1.9362706E-5 | 1.8924296E-5 | 2.8924107E-5 | 1.5284113 | 1.0E-5 | 2.3571544E-4 | 2.3037974E-4 | 2.4037744E-4 | 1.0433966 | 1.0E-5 | 0.0023546559 | 0.0023015463 | 0.002311523 | 1.0043349 | 1.0E-5 |
-| 6.7 | 3.9442616E-6 | 3.8204266E-6 | 1.3820389E-5 | 3.6174986 | 1.0E-5 | 1.6903869E-5 | 1.6373158E-5 | 2.6372994E-5 | 1.6107458 | 1.0E-5 | 2.0578515E-4 | 1.9932563E-4 | 2.0932364E-4 | 1.0501592 | 1.0E-5 | 0.002055947 | 0.0019915935 | 0.0020015736 | 1.0050111 | 1.0E-5 |
-| 6.8 | 3.4536245E-6 | 3.316909E-6 | 1.3316876E-5 | 4.0148454 | 1.0E-5 | 1.4801163E-5 | 1.4215249E-5 | 2.4215107E-5 | 1.7034599 | 1.0E-5 | 1.8018926E-4 | 1.7305753E-4 | 1.830558E-4 | 1.0577743 | 1.0E-5 | 0.0018004322 | 0.0017293466 | 0.0017393293 | 1.0057725 | 1.0E-5 |
-| 6.9 | 3.059865E-6 | 2.9125792E-6 | 1.291255E-5 | 4.433373 | 1.0E-5 | 1.3113641E-5 | 1.24824255E-5 | 2.2482302E-5 | 1.8011163 | 1.0E-5 | 1.596469E-4 | 1.519635E-4 | 1.6196199E-4 | 1.0657953 | 1.0E-5 | 0.0015953224 | 0.0015187106 | 0.0015286955 | 1.0065745 | 1.0E-5 |
-| 7.0 | 2.6504351E-6 | 2.4925173E-6 | 1.2492493E-5 | 5.011998 | 1.0E-5 | 1.1358958E-5 | 1.0682176E-5 | 2.068207E-5 | 1.9361289 | 1.0E-5 | 1.3828653E-4 | 1.3004828E-4 | 1.4004698E-4 | 1.0768845 | 1.0E-5 | 0.0013820052 | 0.0012998336 | 0.0013098207 | 1.0076833 | 1.0E-5 |
-| 7.1 | 2.2039317E-6 | 2.0342527E-6 | 2.0342527E-6 | 1.0 | 0.0 | 9.445387E-6 | 8.718199E-6 | 8.718199E-6 | 1.0 | 0.0 | 1.1499152E-4 | 1.06139436E-4 | 1.06139436E-4 | 1.0 | 0.0 | 0.0011493203 | 0.0010609975 | 0.0010609975 | 1.0 | 0.0 |
-| 7.2 | 1.0786707E-6 | 8.7738175E-7 | 8.7738175E-7 | 1.0 | 0.0 | 4.622866E-6 | 3.7602022E-6 | 3.7602022E-6 | 1.0 | 0.0 | 5.628194E-5 | 4.577951E-5 | 4.577951E-5 | 1.0 | 0.0 | 5.6267687E-4 | 4.577599E-4 | 4.577599E-4 | 1.0 | 0.0 |
-| 7.3 | 6.846433E-7 | 4.8710973E-7 | 4.8710973E-7 | 1.0 | 0.0 | 2.9341822E-6 | 2.0876114E-6 | 2.0876114E-6 | 1.0 | 0.0 | 3.5723086E-5 | 2.5416373E-5 | 2.5416373E-5 | 1.0 | 0.0 | 3.571734E-4 | 2.541682E-4 | 2.541682E-4 | 1.0 | 0.0 |
-| 7.4 | 5.23043E-7 | 3.2645153E-7 | 3.2645153E-7 | 1.0 | 0.0 | 2.2416111E-6 | 1.3990773E-6 | 1.3990773E-6 | 1.0 | 0.0 | 2.7291273E-5 | 1.7033633E-5 | 1.7033633E-5 | 1.0 | 0.0 | 2.7287923E-4 | 1.7035524E-4 | 1.7035524E-4 | 1.0 | 0.0 |
-| 7.5 | 4.648444E-7 | 2.724957E-7 | 2.724957E-7 | 1.0 | 0.0 | 1.9921886E-6 | 1.1678381E-6 | 1.1678381E-6 | 1.0 | 0.0 | 2.4254627E-5 | 1.4218338E-5 | 1.4218338E-5 | 1.0 | 0.0 | 2.425198E-4 | 1.4220392E-4 | 1.4220392E-4 | 1.0 | 0.0 |
-| 7.6 | 3.9906567E-7 | 2.209498E-7 | 2.209498E-7 | 1.0 | 0.0 | 1.7102802E-6 | 9.469274E-7 | 9.469274E-7 | 1.0 | 0.0 | 2.0822463E-5 | 1.152878E-5 | 1.152878E-5 | 1.0 | 0.0 | 2.0820512E-4 | 1.1530646E-4 | 1.1530646E-4 | 1.0 | 0.0 |
-| 7.7 | 1.8784601E-7 | 5.37104E-8 | 5.37104E-8 | 1.0 | 0.0 | 8.0505407E-7 | 2.3018744E-7 | 2.3018744E-7 | 1.0 | 0.0 | 9.80149E-6 | 2.8025283E-6 | 2.8025283E-6 | 1.0 | 0.0 | 9.801057E-5 | 2.8034005E-5 | 2.8034005E-5 | 1.0 | 0.0 |
-| 7.8 | 1.00154914E-7 | 1.2429782E-8 | 1.2429782E-8 | 1.0 | 0.0 | 4.2923529E-7 | 5.3270497E-8 | 5.3270497E-8 | 1.0 | 0.0 | 5.225927E-6 | 6.4856806E-7 | 6.4856806E-7 | 1.0 | 0.0 | 5.225804E-5 | 6.491578E-6 | 6.491578E-6 | 1.0 | 0.0 |
-| 7.9 | 6.171429E-8 | 4.303855E-9 | 4.303855E-9 | 1.0 | 0.0 | 2.6448978E-7 | 1.8445094E-8 | 1.8445094E-8 | 1.0 | 0.0 | 3.2201583E-6 | 2.2456898E-7 | 2.2456898E-7 | 1.0 | 0.0 | 3.2201115E-5 | 2.2510008E-6 | 2.2510008E-6 | 1.0 | 0.0 |
-| 8.0 | 1.3974572E-8 | 3.392041E-10 | 3.392041E-10 | 1.0 | 0.0 | 5.989102E-8 | 1.4537321E-9 | 1.4537321E-9 | 1.0 | 0.0 | 7.2917294E-7 | 1.769918E-8 | 1.769918E-8 | 1.0 | 0.0 | 7.2917055E-6 | 1.8131027E-7 | 1.8131027E-7 | 1.0 | 0.0 |
-| 8.1 | 1.8403477E-9 | 1.13355436E-10 | 1.13355436E-10 | 1.0 | 0.0 | 7.887204E-9 | 4.8580906E-10 | 4.8580906E-10 | 1.0 | 0.0 | 9.602671E-8 | 5.914724E-9 | 5.914724E-9 | 1.0 | 0.0 | 9.602667E-7 | 6.039373E-8 | 6.039373E-8 | 1.0 | 0.0 |
-
-## Northridge Hills
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Northridge_Hills_1wk.png) | ![MPD](Northridge_Hills_1mo.png) | ![MPD](Northridge_Hills_1yr.png) | ![MPD](Northridge_Hills_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
-| 6.1 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
-| 6.2 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
-| 6.3 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
-| 6.4 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
-| 6.5 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
-| 6.6 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
-| 6.7 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
-| 6.8 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
-| 6.9 | 5.0942654E-6 | 3.6136807E-6 | 3.6136807E-6 | 1.0 | 0.0 | 2.1832384E-5 | 1.5487112E-5 | 1.5487112E-5 | 1.0 | 0.0 | 2.6577685E-4 | 1.8853939E-4 | 1.8853939E-4 | 1.0 | 0.0 | 0.002654592 | 0.0018838067 | 0.0018937879 | 1.0052984 | 1.0E-5 |
-| 7.0 | 4.851143E-6 | 3.358991E-6 | 3.358991E-6 | 1.0 | 0.0 | 2.0790447E-5 | 1.4395597E-5 | 1.4395597E-5 | 1.0 | 0.0 | 2.5309427E-4 | 1.7525234E-4 | 1.7525234E-4 | 1.0 | 0.0 | 0.0025280623 | 0.0017511457 | 0.0017611282 | 1.0057006 | 1.0E-5 |
-| 7.1 | 4.7910607E-6 | 3.2972712E-6 | 3.2972712E-6 | 1.0 | 0.0 | 2.0532956E-5 | 1.4131086E-5 | 1.4131086E-5 | 1.0 | 0.0 | 2.4996005E-4 | 1.7203242E-4 | 1.7203242E-4 | 1.0 | 0.0 | 0.0024967908 | 0.0017189966 | 0.0017289794 | 1.0058074 | 1.0E-5 |
-| 7.2 | 4.580079E-6 | 3.1070454E-6 | 3.1070454E-6 | 1.0 | 0.0 | 1.9628762E-5 | 1.3315841E-5 | 1.3315841E-5 | 1.0 | 0.0 | 2.3895396E-4 | 1.6210834E-4 | 1.6210834E-4 | 1.0 | 0.0 | 0.0023869718 | 0.0016199043 | 0.0016298882 | 1.0061632 | 1.0E-5 |
-| 7.3 | 4.290062E-6 | 2.8684692E-6 | 2.8684692E-6 | 1.0 | 0.0 | 1.838585E-5 | 1.2293382E-5 | 1.2293382E-5 | 1.0 | 0.0 | 2.2382473E-4 | 1.4966166E-4 | 1.4966166E-4 | 1.0 | 0.0 | 0.0022359942 | 0.0014956117 | 0.0015055968 | 1.0066762 | 1.0E-5 |
-| 7.4 | 4.0259683E-6 | 2.6741418E-6 | 2.6741418E-6 | 1.0 | 0.0 | 1.7254037E-5 | 1.1460557E-5 | 1.1460557E-5 | 1.0 | 0.0 | 2.1004764E-4 | 1.3952337E-4 | 1.3952337E-4 | 1.0 | 0.0 | 0.002098492 | 0.0013943606 | 0.0014043467 | 1.0071617 | 1.0E-5 |
-| 7.5 | 3.5477108E-6 | 2.2854456E-6 | 2.2854456E-6 | 1.0 | 0.0 | 1.5204386E-5 | 9.7947295E-6 | 9.7947295E-6 | 1.0 | 0.0 | 1.8509767E-4 | 1.1924432E-4 | 1.1924432E-4 | 1.0 | 0.0 | 0.0018494357 | 0.001191805 | 0.0012017931 | 1.0083807 | 1.0E-5 |
-| 7.6 | 2.9990608E-6 | 1.8530498E-6 | 1.8530498E-6 | 1.0 | 0.0 | 1.2853055E-5 | 7.941618E-6 | 7.941618E-6 | 1.0 | 0.0 | 1.564747E-4 | 9.668491E-5 | 9.668491E-5 | 1.0 | 0.0 | 0.0015636457 | 9.664293E-4 | 9.7641966E-4 | 1.0103374 | 1.0E-5 |
-| 7.7 | 2.4542855E-6 | 1.4463353E-6 | 1.4463353E-6 | 1.0 | 0.0 | 1.05183235E-5 | 6.198565E-6 | 6.198565E-6 | 1.0 | 0.0 | 1.2805307E-4 | 7.546492E-5 | 7.546492E-5 | 1.0 | 0.0 | 0.001279793 | 7.543935E-4 | 7.64386E-4 | 1.0132457 | 1.0E-5 |
-| 7.8 | 1.3623128E-6 | 8.017485E-7 | 8.017485E-7 | 1.0 | 0.0 | 5.8384703E-6 | 3.4360605E-6 | 3.4360605E-6 | 1.0 | 0.0 | 7.108106E-5 | 4.1833235E-5 | 4.1833235E-5 | 1.0 | 0.0 | 7.1058323E-4 | 4.1825383E-4 | 4.1825383E-4 | 1.0 | 0.0 |
-| 7.9 | 7.716622E-7 | 4.2197863E-7 | 4.2197863E-7 | 1.0 | 0.0 | 3.3071194E-6 | 1.8084785E-6 | 1.8084785E-6 | 1.0 | 0.0 | 4.0263436E-5 | 2.2018005E-5 | 2.2018005E-5 | 1.0 | 0.0 | 4.0256142E-4 | 2.2015834E-4 | 2.2015834E-4 | 1.0 | 0.0 |
-| 8.0 | 1.2117711E-7 | 6.6230385E-8 | 6.6230385E-8 | 1.0 | 0.0 | 5.1933034E-7 | 2.8384449E-7 | 2.8384449E-7 | 1.0 | 0.0 | 6.3228285E-6 | 3.4558013E-6 | 3.4558013E-6 | 1.0 | 0.0 | 6.3226486E-5 | 3.455749E-5 | 3.455749E-5 | 1.0 | 0.0 |
-
-## Butano 2011 CFM
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Butano_2011_CFM_1wk.png) | ![MPD](Butano_2011_CFM_1mo.png) | ![MPD](Butano_2011_CFM_1yr.png) | ![MPD](Butano_2011_CFM_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 9.561135E-6 | 6.228287E-6 | 6.228287E-6 | 1.0 | 0.0 | 4.097565E-5 | 2.6692396E-5 | 2.6692396E-5 | 1.0 | 0.0 | 4.9876433E-4 | 3.2493367E-4 | 3.3493043E-4 | 1.0307655 | 1.0E-5 | 0.004976464 | 0.0032622605 | 0.0032722277 | 1.0030553 | 1.0E-5 |
-| 6.1 | 9.561135E-6 | 6.228287E-6 | 6.228287E-6 | 1.0 | 0.0 | 4.097565E-5 | 2.6692396E-5 | 2.6692396E-5 | 1.0 | 0.0 | 4.9876433E-4 | 3.2493367E-4 | 3.3493043E-4 | 1.0307655 | 1.0E-5 | 0.004976464 | 0.0032622605 | 0.0032722277 | 1.0030553 | 1.0E-5 |
-| 6.2 | 8.364741E-6 | 4.9813525E-6 | 4.9813525E-6 | 1.0 | 0.0 | 3.5848396E-5 | 2.1348487E-5 | 2.1348487E-5 | 1.0 | 0.0 | 4.3636683E-4 | 2.5988842E-4 | 2.5988842E-4 | 1.0 | 0.0 | 0.0043551093 | 0.0026134674 | 0.0026134674 | 1.0 | 0.0 |
-| 6.3 | 8.364741E-6 | 4.9813525E-6 | 4.9813525E-6 | 1.0 | 0.0 | 3.5848396E-5 | 2.1348487E-5 | 2.1348487E-5 | 1.0 | 0.0 | 4.3636683E-4 | 2.5988842E-4 | 2.5988842E-4 | 1.0 | 0.0 | 0.0043551093 | 0.0026134674 | 0.0026134674 | 1.0 | 0.0 |
-| 6.4 | 7.768282E-6 | 4.3592904E-6 | 4.3592904E-6 | 1.0 | 0.0 | 3.329221E-5 | 1.8682545E-5 | 1.8682545E-5 | 1.0 | 0.0 | 4.0525728E-4 | 2.2743763E-4 | 2.2743763E-4 | 1.0 | 0.0 | 0.0040451903 | 0.002289656 | 0.002289656 | 1.0 | 0.0 |
-| 6.5 | 7.673437E-6 | 4.2588513E-6 | 4.2588513E-6 | 1.0 | 0.0 | 3.2885746E-5 | 1.82521E-5 | 1.82521E-5 | 1.0 | 0.0 | 4.0031038E-4 | 2.22198E-4 | 2.22198E-4 | 1.0 | 0.0 | 0.0039959005 | 0.0022373653 | 0.0022373653 | 1.0 | 0.0 |
-| 6.6 | 7.5244197E-6 | 4.103811E-6 | 4.103811E-6 | 1.0 | 0.0 | 3.2247113E-5 | 1.758765E-5 | 1.758765E-5 | 1.0 | 0.0 | 3.9253788E-4 | 2.1410994E-4 | 2.1410994E-4 | 1.0 | 0.0 | 0.003918452 | 0.0021566437 | 0.0021566437 | 1.0 | 0.0 |
-| 6.7 | 6.4921405E-6 | 3.0438493E-6 | 3.0438493E-6 | 1.0 | 0.0 | 2.7823162E-5 | 1.30450035E-5 | 1.30450035E-5 | 1.0 | 0.0 | 3.3869434E-4 | 1.5881142E-4 | 1.5881142E-4 | 1.0 | 0.0 | 0.003381786 | 0.0016044728 | 0.0016044728 | 1.0 | 0.0 |
-| 6.8 | 6.2890294E-6 | 2.8306097E-6 | 2.8306097E-6 | 1.0 | 0.0 | 2.6952705E-5 | 1.2131128E-5 | 1.2131128E-5 | 1.0 | 0.0 | 3.2809976E-4 | 1.4768656E-4 | 1.4768656E-4 | 1.0 | 0.0 | 0.0032761577 | 0.0014933785 | 0.0014933785 | 1.0 | 0.0 |
-| 6.9 | 6.0965517E-6 | 2.6371163E-6 | 2.6371163E-6 | 1.0 | 0.0 | 2.6127816E-5 | 1.1301878E-5 | 1.1301878E-5 | 1.0 | 0.0 | 3.1805973E-4 | 1.3759173E-4 | 1.3759173E-4 | 1.0 | 0.0 | 0.0031760489 | 0.0013925604 | 0.0013925604 | 1.0 | 0.0 |
-| 7.0 | 5.566252E-6 | 2.1544965E-6 | 2.1544965E-6 | 1.0 | 0.0 | 2.3855147E-5 | 9.233524E-6 | 9.233524E-6 | 1.0 | 0.0 | 2.9039773E-4 | 1.12412396E-4 | 1.12412396E-4 | 1.0 | 0.0 | 0.0029001853 | 0.0011410478 | 0.0011410478 | 1.0 | 0.0 |
-| 7.1 | 3.878588E-6 | 1.6055053E-6 | 1.6055053E-6 | 1.0 | 0.0 | 1.6622414E-5 | 6.8807185E-6 | 6.8807185E-6 | 1.0 | 0.0 | 2.023591E-4 | 8.376953E-5 | 8.376953E-5 | 1.0 | 0.0 | 0.0020217493 | 8.544741E-4 | 8.544741E-4 | 1.0 | 0.0 |
-| 7.2 | 3.7038085E-6 | 1.4865388E-6 | 1.4865388E-6 | 1.0 | 0.0 | 1.587337E-5 | 6.370865E-6 | 6.370865E-6 | 1.0 | 0.0 | 1.9324113E-4 | 7.756252E-5 | 7.756252E-5 | 1.0 | 0.0 | 0.0019307317 | 7.92417E-4 | 7.92417E-4 | 1.0 | 0.0 |
-| 7.3 | 3.5277278E-6 | 1.3946282E-6 | 1.3946282E-6 | 1.0 | 0.0 | 1.5118746E-5 | 5.9769636E-6 | 5.9769636E-6 | 1.0 | 0.0 | 1.8405518E-4 | 7.276711E-5 | 7.276711E-5 | 1.0 | 0.0 | 0.0018390282 | 7.444085E-4 | 7.444085E-4 | 1.0 | 0.0 |
-| 7.4 | 3.3711294E-6 | 1.3318496E-6 | 1.3318496E-6 | 1.0 | 0.0 | 1.4447617E-5 | 5.707914E-6 | 5.707914E-6 | 1.0 | 0.0 | 1.7588554E-4 | 6.9491645E-5 | 6.9491645E-5 | 1.0 | 0.0 | 0.0017574639 | 7.1162294E-4 | 7.1162294E-4 | 1.0 | 0.0 |
-| 7.5 | 3.0496426E-6 | 1.2207621E-6 | 1.2207621E-6 | 1.0 | 0.0 | 1.3069831E-5 | 5.231827E-6 | 5.231827E-6 | 1.0 | 0.0 | 1.5911358E-4 | 6.369563E-5 | 6.369563E-5 | 1.0 | 0.0 | 0.001589997 | 6.536299E-4 | 6.536299E-4 | 1.0 | 0.0 |
-| 7.6 | 2.2179781E-6 | 8.887138E-7 | 8.887138E-7 | 1.0 | 0.0 | 9.505586E-6 | 3.8087678E-6 | 3.8087678E-6 | 1.0 | 0.0 | 1.1572436E-4 | 4.637076E-5 | 4.637076E-5 | 1.0 | 0.0 | 0.0011566412 | 4.803627E-4 | 4.803627E-4 | 1.0 | 0.0 |
-| 7.7 | 1.7519328E-6 | 6.9454455E-7 | 6.9454455E-7 | 1.0 | 0.0 | 7.508262E-6 | 2.976616E-6 | 2.976616E-6 | 1.0 | 0.0 | 9.140925E-5 | 3.6239697E-5 | 3.6239697E-5 | 1.0 | 0.0 | 9.137166E-4 | 3.783575E-4 | 3.783575E-4 | 1.0 | 0.0 |
-| 7.8 | 1.1478974E-6 | 6.1872794E-7 | 6.1872794E-7 | 1.0 | 0.0 | 4.9195505E-6 | 2.6516884E-6 | 2.6516884E-6 | 1.0 | 0.0 | 5.9893882E-5 | 3.2283828E-5 | 3.2283828E-5 | 1.0 | 0.0 | 5.9877743E-4 | 3.384712E-4 | 3.384712E-4 | 1.0 | 0.0 |
-| 7.9 | 6.1154634E-7 | 5.5932884E-7 | 5.5932884E-7 | 1.0 | 0.0 | 2.6209104E-6 | 2.3971213E-6 | 2.3971213E-6 | 1.0 | 0.0 | 3.1909116E-5 | 2.918456E-5 | 2.918456E-5 | 1.0 | 0.0 | 3.1904536E-4 | 3.062421E-4 | 3.062421E-4 | 1.0 | 0.0 |
-| 8.0 | 4.6520046E-7 | 5.199789E-7 | 5.199789E-7 | 1.0 | 0.0 | 1.9937147E-6 | 2.2284792E-6 | 2.2284792E-6 | 1.0 | 0.0 | 2.4273206E-5 | 2.7131397E-5 | 2.7131397E-5 | 1.0 | 0.0 | 2.4270554E-4 | 2.8473893E-4 | 2.8473893E-4 | 1.0 | 0.0 |
-| 8.1 | 2.8425194E-7 | 3.0630198E-7 | 3.0630198E-7 | 1.0 | 0.0 | 1.218222E-6 | 1.3127221E-6 | 1.3127221E-6 | 1.0 | 0.0 | 1.4831752E-5 | 1.5982274E-5 | 1.5982274E-5 | 1.0 | 0.0 | 1.4830762E-4 | 1.6771963E-4 | 1.6771963E-4 | 1.0 | 0.0 |
-| 8.2 | 5.585778E-8 | 4.0623355E-8 | 4.0623355E-8 | 1.0 | 0.0 | 2.3939046E-7 | 1.7410008E-7 | 1.7410008E-7 | 1.0 | 0.0 | 2.914575E-6 | 2.1196665E-6 | 2.1196665E-6 | 1.0 | 0.0 | 2.9145367E-5 | 2.3030867E-5 | 2.3030867E-5 | 1.0 | 0.0 |
-| 8.3 | 1.0371215E-10 | 5.3720917E-11 | 5.3720917E-11 | 1.0 | 0.0 | 4.4448079E-10 | 2.3023239E-10 | 2.3023239E-10 | 1.0 | 0.0 | 5.4115543E-9 | 2.80308E-9 | 2.80308E-9 | 1.0 | 0.0 | 5.4115542E-8 | 3.2236333E-8 | 3.2236333E-8 | 1.0 | 0.0 |
-
-## Fontana (Seismicity)
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Fontana_Seismicity_1wk.png) | ![MPD](Fontana_Seismicity_1mo.png) | ![MPD](Fontana_Seismicity_1yr.png) | ![MPD](Fontana_Seismicity_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 7.1789214E-6 | 7.5521466E-6 | 7.5521466E-6 | 1.0 | 0.0 | 3.076644E-5 | 3.236617E-5 | 3.236617E-5 | 1.0 | 0.0 | 3.7451705E-4 | 3.9402765E-4 | 3.9402765E-4 | 1.0 | 0.0 | 0.003738865 | 0.00393729 | 0.0039472505 | 1.0025299 | 1.0E-5 |
-| 6.1 | 7.1789214E-6 | 7.5521466E-6 | 7.5521466E-6 | 1.0 | 0.0 | 3.076644E-5 | 3.236617E-5 | 3.236617E-5 | 1.0 | 0.0 | 3.7451705E-4 | 3.9402765E-4 | 3.9402765E-4 | 1.0 | 0.0 | 0.003738865 | 0.00393729 | 0.0039472505 | 1.0025299 | 1.0E-5 |
-| 6.2 | 7.1789214E-6 | 7.5521466E-6 | 7.5521466E-6 | 1.0 | 0.0 | 3.076644E-5 | 3.236617E-5 | 3.236617E-5 | 1.0 | 0.0 | 3.7451705E-4 | 3.9402765E-4 | 3.9402765E-4 | 1.0 | 0.0 | 0.003738865 | 0.00393729 | 0.0039472505 | 1.0025299 | 1.0E-5 |
-| 6.3 | 7.1789214E-6 | 7.5521466E-6 | 7.5521466E-6 | 1.0 | 0.0 | 3.076644E-5 | 3.236617E-5 | 3.236617E-5 | 1.0 | 0.0 | 3.7451705E-4 | 3.9402765E-4 | 3.9402765E-4 | 1.0 | 0.0 | 0.003738865 | 0.00393729 | 0.0039472505 | 1.0025299 | 1.0E-5 |
-| 6.4 | 7.1789214E-6 | 7.5521466E-6 | 7.5521466E-6 | 1.0 | 0.0 | 3.076644E-5 | 3.236617E-5 | 3.236617E-5 | 1.0 | 0.0 | 3.7451705E-4 | 3.9402765E-4 | 3.9402765E-4 | 1.0 | 0.0 | 0.003738865 | 0.00393729 | 0.0039472505 | 1.0025299 | 1.0E-5 |
-| 6.5 | 5.2611317E-6 | 5.532832E-6 | 5.532832E-6 | 1.0 | 0.0 | 2.2547512E-5 | 2.3712137E-5 | 2.3712137E-5 | 1.0 | 0.0 | 2.744814E-4 | 2.8869527E-4 | 2.8869527E-4 | 1.0 | 0.0 | 0.002741426 | 0.0028869526 | 0.0028869526 | 1.0 | 0.0 |
-| 6.6 | 5.2611317E-6 | 5.532832E-6 | 5.532832E-6 | 1.0 | 0.0 | 2.2547512E-5 | 2.3712137E-5 | 2.3712137E-5 | 1.0 | 0.0 | 2.744814E-4 | 2.8869527E-4 | 2.8869527E-4 | 1.0 | 0.0 | 0.002741426 | 0.0028869526 | 0.0028869526 | 1.0 | 0.0 |
-
-## San Clemente
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](San_Clemente_1wk.png) | ![MPD](San_Clemente_1mo.png) | ![MPD](San_Clemente_1yr.png) | ![MPD](San_Clemente_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 6.681379E-5 | 8.1641134E-5 | 8.1641134E-5 | 1.0 | 0.0 | 2.8631336E-4 | 3.498469E-4 | 3.498469E-4 | 1.0 | 0.0 | 0.003480294 | 0.0042516463 | 0.004261604 | 1.002342 | 1.0E-5 | 0.03426291 | 0.041759077 | 0.041768663 | 1.0002295 | 1.0E-5 |
-| 6.1 | 6.681379E-5 | 8.1641134E-5 | 8.1641134E-5 | 1.0 | 0.0 | 2.8631336E-4 | 3.498469E-4 | 3.498469E-4 | 1.0 | 0.0 | 0.003480294 | 0.0042516463 | 0.004261604 | 1.002342 | 1.0E-5 | 0.03426291 | 0.041759077 | 0.041768663 | 1.0002295 | 1.0E-5 |
-| 6.2 | 3.9400576E-5 | 4.6455116E-5 | 4.6455116E-5 | 1.0 | 0.0 | 1.6884868E-4 | 1.990785E-4 | 1.990785E-4 | 1.0 | 0.0 | 0.0020537945 | 0.0024211477 | 0.0024311235 | 1.0041202 | 1.0E-5 | 0.020349167 | 0.023954442 | 0.023964202 | 1.0004075 | 1.0E-5 |
-| 6.3 | 3.2590255E-5 | 3.793141E-5 | 3.793141E-5 | 1.0 | 0.0 | 1.3966505E-4 | 1.6255323E-4 | 1.6255323E-4 | 1.0 | 0.0 | 0.0016990956 | 0.0019773194 | 0.0019872996 | 1.0050473 | 1.0E-5 | 0.01686163 | 0.019601053 | 0.019610858 | 1.0005002 | 1.0E-5 |
-| 6.4 | 2.9454652E-5 | 3.4099783E-5 | 3.4099783E-5 | 1.0 | 0.0 | 1.2622811E-4 | 1.4613387E-4 | 1.4613387E-4 | 1.0 | 0.0 | 0.0015357438 | 0.0017777525 | 0.0017877347 | 1.0056151 | 1.0E-5 | 0.015251739 | 0.017638486 | 0.01764831 | 1.000557 | 1.0E-5 |
-| 6.5 | 2.790836E-5 | 3.224933E-5 | 3.224933E-5 | 1.0 | 0.0 | 1.1960178E-4 | 1.3820422E-4 | 1.3820422E-4 | 1.0 | 0.0 | 0.001455179 | 0.0016813624 | 0.0016913456 | 1.0059376 | 1.0E-5 | 0.014456868 | 0.016689435 | 0.016699268 | 1.0005891 | 1.0E-5 |
-| 6.6 | 2.2492153E-5 | 2.5764102E-5 | 2.5764102E-5 | 1.0 | 0.0 | 9.639138E-5 | 1.1041299E-4 | 1.1041299E-4 | 1.0 | 0.0 | 0.0011729331 | 0.0013434635 | 0.0013534501 | 1.0074334 | 1.0E-5 | 0.011667615 | 0.013355134 | 0.0133650005 | 1.0007387 | 1.0E-5 |
-| 6.7 | 1.9862755E-5 | 2.2667613E-5 | 2.2667613E-5 | 1.0 | 0.0 | 8.512331E-5 | 9.714336E-5 | 9.714336E-5 | 1.0 | 0.0 | 0.0010358836 | 0.00118209 | 0.0011920781 | 1.0084496 | 1.0E-5 | 0.010310682 | 0.011759315 | 0.011769197 | 1.0008404 | 1.0E-5 |
-| 6.8 | 1.6697575E-5 | 1.8978673E-5 | 1.8978673E-5 | 1.0 | 0.0 | 7.155907E-5 | 8.1334685E-5 | 8.1334685E-5 | 1.0 | 0.0 | 8.7088346E-4 | 9.898093E-4 | 9.898093E-4 | 1.0 | 0.0 | 0.008674784 | 0.009855035 | 0.009855035 | 1.0 | 0.0 |
-| 6.9 | 1.5218415E-5 | 1.7270266E-5 | 1.7270266E-5 | 1.0 | 0.0 | 6.522015E-5 | 7.401338E-5 | 7.401338E-5 | 1.0 | 0.0 | 7.93766E-4 | 9.007491E-4 | 9.007491E-4 | 1.0 | 0.0 | 0.007909367 | 0.008971928 | 0.008971928 | 1.0 | 0.0 |
-| 7.0 | 1.2392958E-5 | 1.4033705E-5 | 1.4033705E-5 | 1.0 | 0.0 | 5.3111595E-5 | 6.014311E-5 | 6.014311E-5 | 1.0 | 0.0 | 6.4644177E-4 | 7.3200394E-4 | 7.3200394E-4 | 1.0 | 0.0 | 0.0064456454 | 0.007296714 | 0.007296714 | 1.0 | 0.0 |
-| 7.1 | 1.0934128E-5 | 1.2375744E-5 | 1.2375744E-5 | 1.0 | 0.0 | 4.6859706E-5 | 5.3037864E-5 | 5.3037864E-5 | 1.0 | 0.0 | 5.7036756E-4 | 6.45552E-4 | 6.45552E-4 | 1.0 | 0.0 | 0.0056890585 | 0.006437514 | 0.006437514 | 1.0 | 0.0 |
-| 7.2 | 9.5798805E-6 | 1.0845467E-5 | 1.0845467E-5 | 1.0 | 0.0 | 4.1055984E-5 | 4.6479785E-5 | 4.6479785E-5 | 1.0 | 0.0 | 4.9974193E-4 | 5.657517E-4 | 5.657517E-4 | 1.0 | 0.0 | 0.0049861963 | 0.0056438376 | 0.0056438376 | 1.0 | 0.0 |
-| 7.3 | 8.0167365E-6 | 9.084367E-6 | 9.084367E-6 | 1.0 | 0.0 | 3.4356988E-5 | 3.893246E-5 | 3.893246E-5 | 1.0 | 0.0 | 4.1821605E-4 | 4.7390666E-4 | 4.7390666E-4 | 1.0 | 0.0 | 0.0041742986 | 0.0047296635 | 0.0047296635 | 1.0 | 0.0 |
-| 7.4 | 2.9581017E-6 | 3.36255E-6 | 3.36255E-6 | 1.0 | 0.0 | 1.2677518E-5 | 1.4410877E-5 | 1.4410877E-5 | 1.0 | 0.0 | 1.5433785E-4 | 1.7544335E-4 | 1.7544335E-4 | 1.0 | 0.0 | 0.001542307 | 0.0017535435 | 0.0017535435 | 1.0 | 0.0 |
-
-## Raymond
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Raymond_1wk.png) | ![MPD](Raymond_1mo.png) | ![MPD](Raymond_1yr.png) | ![MPD](Raymond_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.5157413E-5 | 1.5810916E-5 | 1.5810916E-5 | 1.0 | 0.0 | 6.4958724E-5 | 6.775945E-5 | 6.775945E-5 | 1.0 | 0.0 | 7.905855E-4 | 8.2468416E-4 | 8.346759E-4 | 1.0121158 | 1.0E-5 | 0.007877788 | 0.008218757 | 0.0082286745 | 1.0012068 | 1.0E-5 |
-| 6.1 | 1.5157413E-5 | 1.5810916E-5 | 1.5810916E-5 | 1.0 | 0.0 | 6.4958724E-5 | 6.775945E-5 | 6.775945E-5 | 1.0 | 0.0 | 7.905855E-4 | 8.2468416E-4 | 8.346759E-4 | 1.0121158 | 1.0E-5 | 0.007877788 | 0.008218757 | 0.0082286745 | 1.0012068 | 1.0E-5 |
-| 6.2 | 1.5157413E-5 | 1.5810916E-5 | 1.5810916E-5 | 1.0 | 0.0 | 6.4958724E-5 | 6.775945E-5 | 6.775945E-5 | 1.0 | 0.0 | 7.905855E-4 | 8.2468416E-4 | 8.346759E-4 | 1.0121158 | 1.0E-5 | 0.007877788 | 0.008218757 | 0.0082286745 | 1.0012068 | 1.0E-5 |
-| 6.3 | 1.5157413E-5 | 1.5810916E-5 | 1.5810916E-5 | 1.0 | 0.0 | 6.4958724E-5 | 6.775945E-5 | 6.775945E-5 | 1.0 | 0.0 | 7.905855E-4 | 8.2468416E-4 | 8.346759E-4 | 1.0121158 | 1.0E-5 | 0.007877788 | 0.008218757 | 0.0082286745 | 1.0012068 | 1.0E-5 |
-| 6.4 | 1.3941944E-5 | 1.44554215E-5 | 1.44554215E-5 | 1.0 | 0.0 | 5.9749822E-5 | 6.1950464E-5 | 6.1950464E-5 | 1.0 | 0.0 | 7.2721124E-4 | 7.5400923E-4 | 7.640017E-4 | 1.0132524 | 1.0E-5 | 0.007248361 | 0.0075168433 | 0.0075267684 | 1.0013204 | 1.0E-5 |
-| 6.5 | 1.3941944E-5 | 1.44554215E-5 | 1.44554215E-5 | 1.0 | 0.0 | 5.9749822E-5 | 6.1950464E-5 | 6.1950464E-5 | 1.0 | 0.0 | 7.2721124E-4 | 7.5400923E-4 | 7.640017E-4 | 1.0132524 | 1.0E-5 | 0.007248361 | 0.0075168433 | 0.0075267684 | 1.0013204 | 1.0E-5 |
-| 6.6 | 1.0542609E-5 | 1.0671684E-5 | 1.0671684E-5 | 1.0 | 0.0 | 4.5181827E-5 | 4.573502E-5 | 4.573502E-5 | 1.0 | 0.0 | 5.499499E-4 | 5.5668707E-4 | 5.666815E-4 | 1.0179534 | 1.0E-5 | 0.005485909 | 0.0055534868 | 0.0055634314 | 1.0017906 | 1.0E-5 |
-| 6.7 | 1.0542609E-5 | 1.0671684E-5 | 1.0671684E-5 | 1.0 | 0.0 | 4.5181827E-5 | 4.573502E-5 | 4.573502E-5 | 1.0 | 0.0 | 5.499499E-4 | 5.5668707E-4 | 5.666815E-4 | 1.0179534 | 1.0E-5 | 0.005485909 | 0.0055534868 | 0.0055634314 | 1.0017906 | 1.0E-5 |
-| 6.8 | 1.0079132E-5 | 1.0177206E-5 | 1.0177206E-5 | 1.0 | 0.0 | 4.3195567E-5 | 4.3615895E-5 | 4.3615895E-5 | 1.0 | 0.0 | 5.257791E-4 | 5.308995E-4 | 5.4089417E-4 | 1.018826 | 1.0E-5 | 0.0052453685 | 0.0052968618 | 0.0053068087 | 1.0018779 | 1.0E-5 |
-| 6.9 | 7.721598E-6 | 7.549351E-6 | 7.549351E-6 | 1.0 | 0.0 | 3.3092143E-5 | 3.2353964E-5 | 3.2353964E-5 | 1.0 | 0.0 | 4.0282236E-4 | 3.9383955E-4 | 4.038356E-4 | 1.0253811 | 1.0E-5 | 0.0040209293 | 0.0039315494 | 0.0039415103 | 1.0025336 | 1.0E-5 |
-| 7.0 | 7.137566E-6 | 6.91173E-6 | 6.91173E-6 | 1.0 | 0.0 | 3.058921E-5 | 2.962137E-5 | 2.962137E-5 | 1.0 | 0.0 | 3.7236E-4 | 3.6058156E-4 | 3.7057797E-4 | 1.027723 | 1.0E-5 | 0.0037173668 | 0.0036000833 | 0.0036100473 | 1.0027677 | 1.0E-5 |
-| 7.1 | 5.654976E-6 | 5.299912E-6 | 5.299912E-6 | 1.0 | 0.0 | 2.4235387E-5 | 2.2713713E-5 | 2.2713713E-5 | 1.0 | 0.0 | 2.9502588E-4 | 2.7650458E-4 | 2.865018E-4 | 1.0361558 | 1.0E-5 | 0.0029463451 | 0.0027616364 | 0.0027716088 | 1.0036111 | 1.0E-5 |
-| 7.2 | 4.9358455E-6 | 4.5270053E-6 | 4.5270053E-6 | 1.0 | 0.0 | 2.1153453E-5 | 1.9401308E-5 | 1.9401308E-5 | 1.0 | 0.0 | 2.5751285E-4 | 2.3618546E-4 | 2.461831E-4 | 1.0423295 | 1.0E-5 | 0.0025721465 | 0.0023593665 | 0.002369343 | 1.0042285 | 1.0E-5 |
-| 7.3 | 4.2368597E-6 | 3.8059438E-6 | 3.8059438E-6 | 1.0 | 0.0 | 1.8157843E-5 | 1.6311087E-5 | 1.6311087E-5 | 1.0 | 0.0 | 2.2104931E-4 | 1.9856948E-4 | 1.9856948E-4 | 1.0 | 0.0 | 0.0022082955 | 0.0019839394 | 0.0019839394 | 1.0 | 0.0 |
-| 7.4 | 3.4999923E-6 | 3.044046E-6 | 3.044046E-6 | 1.0 | 0.0 | 1.49998805E-5 | 1.3045847E-5 | 1.3045847E-5 | 1.0 | 0.0 | 1.8260824E-4 | 1.5882168E-4 | 1.5882168E-4 | 1.0 | 0.0 | 0.0018245826 | 0.0015870975 | 0.0015870975 | 1.0 | 0.0 |
-| 7.5 | 2.738017E-6 | 2.3022249E-6 | 2.3022249E-6 | 1.0 | 0.0 | 1.1734306E-5 | 9.866641E-6 | 9.866641E-6 | 1.0 | 0.0 | 1.428558E-4 | 1.201198E-4 | 1.201198E-4 | 1.0 | 0.0 | 0.0014276401 | 0.0012005632 | 0.0012005632 | 1.0 | 0.0 |
-| 7.6 | 1.8186392E-6 | 1.4424369E-6 | 1.4424369E-6 | 1.0 | 0.0 | 7.794145E-6 | 6.1818578E-6 | 6.1818578E-6 | 1.0 | 0.0 | 9.488958E-5 | 7.526156E-5 | 7.526156E-5 | 1.0 | 0.0 | 9.4849075E-4 | 7.523722E-4 | 7.523722E-4 | 1.0 | 0.0 |
-| 7.7 | 1.0660348E-6 | 7.644813E-7 | 7.644813E-7 | 1.0 | 0.0 | 4.5687125E-6 | 3.2763444E-6 | 3.2763444E-6 | 1.0 | 0.0 | 5.5622655E-5 | 3.988878E-5 | 3.988878E-5 | 1.0 | 0.0 | 5.5608735E-4 | 3.9882533E-4 | 3.9882533E-4 | 1.0 | 0.0 |
-| 7.8 | 6.913602E-7 | 4.3212557E-7 | 4.3212557E-7 | 1.0 | 0.0 | 2.962969E-6 | 1.8519654E-6 | 1.8519654E-6 | 1.0 | 0.0 | 3.607355E-5 | 2.2547452E-5 | 2.2547452E-5 | 1.0 | 0.0 | 3.6067693E-4 | 2.254595E-4 | 2.254595E-4 | 1.0 | 0.0 |
-| 7.9 | 7.425201E-8 | 5.323065E-8 | 5.323065E-8 | 1.0 | 0.0 | 3.1822285E-7 | 2.2813134E-7 | 2.2813134E-7 | 1.0 | 0.0 | 3.874356E-6 | 2.7774968E-6 | 2.7774968E-6 | 1.0 | 0.0 | 3.8742884E-5 | 2.7774751E-5 | 2.7774751E-5 | 1.0 | 0.0 |
 
 ## San Jacinto (Clark) rev
 *[(top)](#table-of-contents)*
@@ -4717,67 +4227,36 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 6.4 | 1.749821E-5 | 2.0492287E-5 | 2.0492287E-5 | 1.0 | 0.0 | 7.499018E-5 | 8.782409E-5 | 8.782409E-5 | 1.0 | 0.0 | 9.1262296E-4 | 0.0010692583 | 0.0010692583 | 1.0 | 0.0 | 0.009088841 | 0.010692543 | 0.010702437 | 1.0009252 | 1.0E-5 |
 | 6.5 | 1.749821E-5 | 2.0492287E-5 | 2.0492287E-5 | 1.0 | 0.0 | 7.499018E-5 | 8.782409E-5 | 8.782409E-5 | 1.0 | 0.0 | 9.1262296E-4 | 0.0010692583 | 0.0010692583 | 1.0 | 0.0 | 0.009088841 | 0.010692543 | 0.010702437 | 1.0009252 | 1.0E-5 |
 
-## Casmalia 2011 CFM
+## Del Valle
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Casmalia_2011_CFM_1wk.png) | ![MPD](Casmalia_2011_CFM_1mo.png) | ![MPD](Casmalia_2011_CFM_1yr.png) | ![MPD](Casmalia_2011_CFM_10yr.png) |
+| ![MPD](Del_Valle_1wk.png) | ![MPD](Del_Valle_1mo.png) | ![MPD](Del_Valle_1yr.png) | ![MPD](Del_Valle_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.1704893E-6 | 4.262535E-6 | 4.262535E-6 | 1.0 | 0.0 | 1.7873403E-5 | 1.8267881E-5 | 1.8267881E-5 | 1.0 | 0.0 | 2.1758694E-4 | 2.2238896E-4 | 2.2238896E-4 | 1.0 | 0.0 | 0.0021737402 | 0.0022216851 | 0.0022316629 | 1.0044911 | 1.0E-5 |
-| 6.1 | 4.1704893E-6 | 4.262535E-6 | 4.262535E-6 | 1.0 | 0.0 | 1.7873403E-5 | 1.8267881E-5 | 1.8267881E-5 | 1.0 | 0.0 | 2.1758694E-4 | 2.2238896E-4 | 2.2238896E-4 | 1.0 | 0.0 | 0.0021737402 | 0.0022216851 | 0.0022316629 | 1.0044911 | 1.0E-5 |
-| 6.2 | 3.457312E-6 | 3.5370697E-6 | 3.5370697E-6 | 1.0 | 0.0 | 1.4816967E-5 | 1.5158782E-5 | 1.5158782E-5 | 1.0 | 0.0 | 1.8038164E-4 | 1.8454263E-4 | 1.8454263E-4 | 1.0 | 0.0 | 0.001802353 | 0.0018439033 | 0.0018538849 | 1.0054133 | 1.0E-5 |
-| 6.3 | 3.457312E-6 | 3.5370697E-6 | 3.5370697E-6 | 1.0 | 0.0 | 1.4816967E-5 | 1.5158782E-5 | 1.5158782E-5 | 1.0 | 0.0 | 1.8038164E-4 | 1.8454263E-4 | 1.8454263E-4 | 1.0 | 0.0 | 0.001802353 | 0.0018439033 | 0.0018538849 | 1.0054133 | 1.0E-5 |
-| 6.4 | 3.0957337E-6 | 3.1692712E-6 | 3.1692712E-6 | 1.0 | 0.0 | 1.3267363E-5 | 1.358252E-5 | 1.358252E-5 | 1.0 | 0.0 | 1.6151817E-4 | 1.653547E-4 | 1.653547E-4 | 1.0 | 0.0 | 0.0016140083 | 0.0016523227 | 0.0016623063 | 1.0060421 | 1.0E-5 |
-| 6.5 | 3.0957337E-6 | 3.1692712E-6 | 3.1692712E-6 | 1.0 | 0.0 | 1.3267363E-5 | 1.358252E-5 | 1.358252E-5 | 1.0 | 0.0 | 1.6151817E-4 | 1.653547E-4 | 1.653547E-4 | 1.0 | 0.0 | 0.0016140083 | 0.0016523227 | 0.0016623063 | 1.0060421 | 1.0E-5 |
-| 6.6 | 2.9459152E-6 | 3.0166195E-6 | 3.0166195E-6 | 1.0 | 0.0 | 1.262529E-5 | 1.2928305E-5 | 1.2928305E-5 | 1.0 | 0.0 | 1.5370206E-4 | 1.5739081E-4 | 1.5739081E-4 | 1.0 | 0.0 | 0.0015359579 | 0.0015727989 | 0.0015827832 | 1.0063481 | 1.0E-5 |
-| 6.7 | 2.8634809E-6 | 2.9325163E-6 | 2.9325163E-6 | 1.0 | 0.0 | 1.2272003E-5 | 1.2567867E-5 | 1.2567867E-5 | 1.0 | 0.0 | 1.4940138E-4 | 1.5300309E-4 | 1.5300309E-4 | 1.0 | 0.0 | 0.0014930099 | 0.0015289829 | 0.0015389676 | 1.0065303 | 1.0E-5 |
-| 6.8 | 2.7999822E-6 | 2.86764E-6 | 2.86764E-6 | 1.0 | 0.0 | 1.1999869E-5 | 1.2289828E-5 | 1.2289828E-5 | 1.0 | 0.0 | 1.460886E-4 | 1.4961843E-4 | 1.4961843E-4 | 1.0 | 0.0 | 0.001459926 | 0.0014951823 | 0.0015051673 | 1.0066781 | 1.0E-5 |
-| 6.9 | 2.551052E-6 | 2.6120056E-6 | 2.6120056E-6 | 1.0 | 0.0 | 1.0933034E-5 | 1.1194262E-5 | 1.1194262E-5 | 1.0 | 0.0 | 1.3310155E-4 | 1.3628164E-4 | 1.3628164E-4 | 1.0 | 0.0 | 0.0013302186 | 0.0013619848 | 0.0013719711 | 1.0073322 | 1.0E-5 |
-| 7.0 | 2.3081875E-6 | 2.362447E-6 | 2.362447E-6 | 1.0 | 0.0 | 9.892195E-6 | 1.0124733E-5 | 1.0124733E-5 | 1.0 | 0.0 | 1.20430814E-4 | 1.2326169E-4 | 1.2326169E-4 | 1.0 | 0.0 | 0.0012036557 | 0.001231936 | 0.0012419238 | 1.0081073 | 1.0E-5 |
-| 7.1 | 2.093245E-6 | 2.1417602E-6 | 2.1417602E-6 | 1.0 | 0.0 | 8.971019E-6 | 9.178941E-6 | 9.178941E-6 | 1.0 | 0.0 | 1.09216686E-4 | 1.1174788E-4 | 1.1174788E-4 | 1.0 | 0.0 | 0.0010916302 | 0.001116919 | 0.0011269078 | 1.0089432 | 1.0E-5 |
-| 7.2 | 1.9714576E-6 | 2.0165437E-6 | 2.0165437E-6 | 1.0 | 0.0 | 8.449076E-6 | 8.6423015E-6 | 8.6423015E-6 | 1.0 | 0.0 | 1.0286264E-4 | 1.0521496E-4 | 1.0521496E-4 | 1.0 | 0.0 | 0.0010281504 | 0.0010516533 | 0.0010616428 | 1.0094988 | 1.0E-5 |
-| 7.3 | 1.6689512E-6 | 1.7047441E-6 | 1.7047441E-6 | 1.0 | 0.0 | 7.1526288E-6 | 7.306026E-6 | 7.306026E-6 | 1.0 | 0.0 | 8.7079774E-5 | 8.894724E-5 | 8.894724E-5 | 1.0 | 0.0 | 8.7045657E-4 | 8.891172E-4 | 8.991083E-4 | 1.0112371 | 1.0E-5 |
-| 7.4 | 1.4490954E-6 | 1.4779191E-6 | 1.4779191E-6 | 1.0 | 0.0 | 6.210394E-6 | 6.333924E-6 | 6.333924E-6 | 1.0 | 0.0 | 7.560892E-5 | 7.71128E-5 | 7.71128E-5 | 1.0 | 0.0 | 7.55832E-4 | 7.7086105E-4 | 7.7086105E-4 | 1.0 | 0.0 |
-| 7.5 | 1.226873E-6 | 1.2481956E-6 | 1.2481956E-6 | 1.0 | 0.0 | 5.2580162E-6 | 5.3493986E-6 | 5.3493986E-6 | 1.0 | 0.0 | 6.401447E-5 | 6.512699E-5 | 6.512699E-5 | 1.0 | 0.0 | 6.399603E-4 | 6.510795E-4 | 6.510795E-4 | 1.0 | 0.0 |
-| 7.6 | 9.2561345E-7 | 9.3621367E-7 | 9.3621367E-7 | 1.0 | 0.0 | 3.966909E-6 | 4.012338E-6 | 4.012338E-6 | 1.0 | 0.0 | 4.8296046E-5 | 4.8849128E-5 | 4.8849128E-5 | 1.0 | 0.0 | 4.828555E-4 | 4.883843E-4 | 4.883843E-4 | 1.0 | 0.0 |
-| 7.7 | 5.4367933E-7 | 5.393044E-7 | 5.393044E-7 | 1.0 | 0.0 | 2.3300522E-6 | 2.3113025E-6 | 2.3113025E-6 | 1.0 | 0.0 | 2.8368017E-5 | 2.8139746E-5 | 2.8139746E-5 | 1.0 | 0.0 | 2.8364395E-4 | 2.8136195E-4 | 2.8136195E-4 | 1.0 | 0.0 |
-| 7.8 | 1.8825742E-7 | 1.7343253E-7 | 1.7343253E-7 | 1.0 | 0.0 | 8.068173E-7 | 7.4328204E-7 | 7.4328204E-7 | 1.0 | 0.0 | 9.822956E-6 | 9.049421E-6 | 9.049421E-6 | 1.0 | 0.0 | 9.822522E-5 | 9.0490554E-5 | 9.0490554E-5 | 1.0 | 0.0 |
-| 7.9 | 6.342771E-8 | 4.6798455E-8 | 4.6798455E-8 | 1.0 | 0.0 | 2.7183304E-7 | 2.005648E-7 | 2.005648E-7 | 1.0 | 0.0 | 3.3095623E-6 | 2.4418737E-6 | 2.4418737E-6 | 1.0 | 0.0 | 3.309513E-5 | 2.4418472E-5 | 2.4418472E-5 | 1.0 | 0.0 |
-| 8.0 | 1.2574819E-8 | 6.476017E-9 | 6.476017E-9 | 1.0 | 0.0 | 5.3892084E-8 | 2.775436E-8 | 2.775436E-8 | 1.0 | 0.0 | 6.561359E-7 | 3.3790928E-7 | 3.3790928E-7 | 1.0 | 0.0 | 6.56134E-6 | 3.379088E-6 | 3.379088E-6 | 1.0 | 0.0 |
-
-## Los Alamos extension
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Los_Alamos_extension_1wk.png) | ![MPD](Los_Alamos_extension_1mo.png) | ![MPD](Los_Alamos_extension_1yr.png) | ![MPD](Los_Alamos_extension_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
-| 6.1 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
-| 6.2 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
-| 6.3 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
-| 6.4 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
-| 6.5 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
-| 6.6 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
-| 6.7 | 4.0146506E-6 | 4.086218E-6 | 4.086218E-6 | 1.0 | 0.0 | 1.7205533E-5 | 1.751225E-5 | 1.751225E-5 | 1.0 | 0.0 | 2.0945723E-4 | 2.1319189E-4 | 2.1319189E-4 | 1.0 | 0.0 | 0.0020925992 | 0.002129983 | 0.0021399616 | 1.0046849 | 1.0E-5 |
-| 6.8 | 3.6584688E-6 | 3.7189127E-6 | 3.7189127E-6 | 1.0 | 0.0 | 1.5679057E-5 | 1.5938105E-5 | 1.5938105E-5 | 1.0 | 0.0 | 1.9087581E-4 | 1.9403009E-4 | 1.9403009E-4 | 1.0 | 0.0 | 0.0019071194 | 0.0019386992 | 0.0019486798 | 1.005148 | 1.0E-5 |
-| 6.9 | 3.644631E-6 | 3.7046225E-6 | 3.7046225E-6 | 1.0 | 0.0 | 1.5619753E-5 | 1.5876862E-5 | 1.5876862E-5 | 1.0 | 0.0 | 1.901539E-4 | 1.9328458E-4 | 1.9328458E-4 | 1.0 | 0.0 | 0.0018999127 | 0.0019312571 | 0.0019412378 | 1.005168 | 1.0E-5 |
-| 7.0 | 3.6318522E-6 | 3.6913827E-6 | 3.6913827E-6 | 1.0 | 0.0 | 1.5564989E-5 | 1.5820122E-5 | 1.5820122E-5 | 1.0 | 0.0 | 1.8948725E-4 | 1.9259389E-4 | 1.9259389E-4 | 1.0 | 0.0 | 0.0018932576 | 0.0019243622 | 0.0019343429 | 1.0051866 | 1.0E-5 |
-| 7.1 | 3.5001724E-6 | 3.5554517E-6 | 3.5554517E-6 | 1.0 | 0.0 | 1.5000653E-5 | 1.5237567E-5 | 1.5237567E-5 | 1.0 | 0.0 | 1.8261763E-4 | 1.855025E-4 | 1.855025E-4 | 1.0 | 0.0 | 0.0018246764 | 0.0018535672 | 0.0018635486 | 1.005385 | 1.0E-5 |
-| 7.2 | 2.5204702E-6 | 2.5437337E-6 | 2.5437337E-6 | 1.0 | 0.0 | 1.080197E-5 | 1.0901671E-5 | 1.0901671E-5 | 1.0 | 0.0 | 1.3150605E-4 | 1.3271981E-4 | 1.3271981E-4 | 1.0 | 0.0 | 0.0013142825 | 0.0013264111 | 0.0013363978 | 1.0075291 | 1.0E-5 |
-| 7.3 | 2.1399692E-6 | 2.150166E-6 | 2.150166E-6 | 1.0 | 0.0 | 9.1712645E-6 | 9.214965E-6 | 9.214965E-6 | 1.0 | 0.0 | 1.1165442E-4 | 1.12186455E-4 | 1.12186455E-4 | 1.0 | 0.0 | 0.0011159834 | 0.0011213014 | 0.0011312902 | 1.0089082 | 1.0E-5 |
-| 7.4 | 1.9660122E-6 | 1.9702686E-6 | 1.9702686E-6 | 1.0 | 0.0 | 8.42574E-6 | 8.443981E-6 | 8.443981E-6 | 1.0 | 0.0 | 1.0257855E-4 | 1.02800645E-4 | 1.02800645E-4 | 1.0 | 0.0 | 0.0010253121 | 0.001027534 | 0.001027534 | 1.0 | 0.0 |
-| 7.5 | 1.7204633E-6 | 1.7151268E-6 | 1.7151268E-6 | 1.0 | 0.0 | 7.373393E-6 | 7.3505225E-6 | 7.3505225E-6 | 1.0 | 0.0 | 8.976737E-5 | 8.948897E-5 | 8.948897E-5 | 1.0 | 0.0 | 8.9731114E-4 | 8.945323E-4 | 8.945323E-4 | 1.0 | 0.0 |
-| 7.6 | 1.3717638E-6 | 1.3536055E-6 | 1.3536055E-6 | 1.0 | 0.0 | 5.878974E-6 | 5.8011537E-6 | 5.8011537E-6 | 1.0 | 0.0 | 7.157416E-5 | 7.062678E-5 | 7.062678E-5 | 1.0 | 0.0 | 7.1551115E-4 | 7.06046E-4 | 7.06046E-4 | 1.0 | 0.0 |
-| 7.7 | 8.272564E-7 | 7.957779E-7 | 7.957779E-7 | 1.0 | 0.0 | 3.5453797E-6 | 3.4104723E-6 | 3.4104723E-6 | 1.0 | 0.0 | 4.3164142E-5 | 4.152171E-5 | 4.152171E-5 | 1.0 | 0.0 | 4.315576E-4 | 4.1513972E-4 | 4.1513972E-4 | 1.0 | 0.0 |
-| 7.8 | 3.9708277E-7 | 3.6719734E-7 | 3.6719734E-7 | 1.0 | 0.0 | 1.7017821E-6 | 1.5737019E-6 | 1.5737019E-6 | 1.0 | 0.0 | 2.0719E-5 | 1.9159654E-5 | 1.9159654E-5 | 1.0 | 0.0 | 2.071707E-4 | 1.9158008E-4 | 1.9158008E-4 | 1.0 | 0.0 |
-| 7.9 | 9.292528E-8 | 7.8892484E-8 | 7.8892484E-8 | 1.0 | 0.0 | 3.9825116E-7 | 3.381106E-7 | 3.381106E-7 | 1.0 | 0.0 | 4.848697E-6 | 4.116489E-6 | 4.116489E-6 | 1.0 | 0.0 | 4.8485912E-5 | 4.1164134E-5 | 4.1164134E-5 | 1.0 | 0.0 |
-| 8.0 | 7.880441E-11 | 8.235457E-11 | 8.235457E-11 | 1.0 | 0.0 | 3.3773329E-10 | 3.52948E-10 | 3.52948E-10 | 1.0 | 0.0 | 4.1119033E-9 | 4.2971413E-9 | 4.2971413E-9 | 1.0 | 0.0 | 4.1119034E-8 | 4.2971415E-8 | 4.2971415E-8 | 1.0 | 0.0 |
+| 6.0 | 1.0716125E-5 | 8.768361E-6 | 8.768361E-6 | 1.0 | 0.0 | 4.592544E-5 | 3.7578262E-5 | 3.7578262E-5 | 1.0 | 0.0 | 5.589988E-4 | 4.5743905E-4 | 4.5743905E-4 | 1.0 | 0.0 | 0.0055759475 | 0.0045669293 | 0.0045768837 | 1.0021796 | 1.0E-5 |
+| 6.1 | 1.0716125E-5 | 8.768361E-6 | 8.768361E-6 | 1.0 | 0.0 | 4.592544E-5 | 3.7578262E-5 | 3.7578262E-5 | 1.0 | 0.0 | 5.589988E-4 | 4.5743905E-4 | 4.5743905E-4 | 1.0 | 0.0 | 0.0055759475 | 0.0045669293 | 0.0045768837 | 1.0021796 | 1.0E-5 |
+| 6.2 | 1.0716125E-5 | 8.768361E-6 | 8.768361E-6 | 1.0 | 0.0 | 4.592544E-5 | 3.7578262E-5 | 3.7578262E-5 | 1.0 | 0.0 | 5.589988E-4 | 4.5743905E-4 | 4.5743905E-4 | 1.0 | 0.0 | 0.0055759475 | 0.0045669293 | 0.0045768837 | 1.0021796 | 1.0E-5 |
+| 6.3 | 7.1293784E-6 | 4.866175E-6 | 4.866175E-6 | 1.0 | 0.0 | 3.055412E-5 | 2.0854872E-5 | 2.0854872E-5 | 1.0 | 0.0 | 3.7193293E-4 | 2.5387923E-4 | 2.5387923E-4 | 1.0 | 0.0 | 0.0037131102 | 0.0025359779 | 0.0025359779 | 1.0 | 0.0 |
+| 6.4 | 7.1293784E-6 | 4.866175E-6 | 4.866175E-6 | 1.0 | 0.0 | 3.055412E-5 | 2.0854872E-5 | 2.0854872E-5 | 1.0 | 0.0 | 3.7193293E-4 | 2.5387923E-4 | 2.5387923E-4 | 1.0 | 0.0 | 0.0037131102 | 0.0025359779 | 0.0025359779 | 1.0 | 0.0 |
+| 6.5 | 7.1293784E-6 | 4.866175E-6 | 4.866175E-6 | 1.0 | 0.0 | 3.055412E-5 | 2.0854872E-5 | 2.0854872E-5 | 1.0 | 0.0 | 3.7193293E-4 | 2.5387923E-4 | 2.5387923E-4 | 1.0 | 0.0 | 0.0037131102 | 0.0025359779 | 0.0025359779 | 1.0 | 0.0 |
+| 6.6 | 7.1293784E-6 | 4.866175E-6 | 4.866175E-6 | 1.0 | 0.0 | 3.055412E-5 | 2.0854872E-5 | 2.0854872E-5 | 1.0 | 0.0 | 3.7193293E-4 | 2.5387923E-4 | 2.5387923E-4 | 1.0 | 0.0 | 0.0037131102 | 0.0025359779 | 0.0025359779 | 1.0 | 0.0 |
+| 6.7 | 7.12272E-6 | 4.86355E-6 | 4.86355E-6 | 1.0 | 0.0 | 3.0525585E-5 | 2.0843625E-5 | 2.0843625E-5 | 1.0 | 0.0 | 3.7158563E-4 | 2.537423E-4 | 2.537423E-4 | 1.0 | 0.0 | 0.003709649 | 0.0025346118 | 0.0025346118 | 1.0 | 0.0 |
+| 6.8 | 6.7558703E-6 | 4.5597358E-6 | 4.5597358E-6 | 1.0 | 0.0 | 2.895341E-5 | 1.9541581E-5 | 1.9541581E-5 | 1.0 | 0.0 | 3.5245073E-4 | 2.3789342E-4 | 2.3789342E-4 | 1.0 | 0.0 | 0.0035189227 | 0.0023764628 | 0.0023764628 | 1.0 | 0.0 |
+| 6.9 | 6.6700386E-6 | 4.5028655E-6 | 4.5028655E-6 | 1.0 | 0.0 | 2.8585566E-5 | 1.9297857E-5 | 1.9297857E-5 | 1.0 | 0.0 | 3.479737E-4 | 2.349267E-4 | 2.349267E-4 | 1.0 | 0.0 | 0.003474293 | 0.0023468586 | 0.0023468586 | 1.0 | 0.0 |
+| 7.0 | 6.3181424E-6 | 4.0990067E-6 | 4.0990067E-6 | 1.0 | 0.0 | 2.7077473E-5 | 1.7567054E-5 | 1.7567054E-5 | 1.0 | 0.0 | 3.2961834E-4 | 2.1385832E-4 | 2.1385832E-4 | 1.0 | 0.0 | 0.0032912986 | 0.00213658 | 0.00213658 | 1.0 | 0.0 |
+| 7.1 | 6.248759E-6 | 4.034193E-6 | 4.034193E-6 | 1.0 | 0.0 | 2.678012E-5 | 1.7289287E-5 | 1.7289287E-5 | 1.0 | 0.0 | 3.2599916E-4 | 2.1047716E-4 | 2.1047716E-4 | 1.0 | 0.0 | 0.0032552136 | 0.0021028325 | 0.0021028325 | 1.0 | 0.0 |
+| 7.2 | 6.0411944E-6 | 3.870173E-6 | 3.870173E-6 | 1.0 | 0.0 | 2.5890577E-5 | 1.6586351E-5 | 1.6586351E-5 | 1.0 | 0.0 | 3.1517216E-4 | 2.0192053E-4 | 2.0192053E-4 | 1.0 | 0.0 | 0.0031472554 | 0.002017424 | 0.002017424 | 1.0 | 0.0 |
+| 7.3 | 4.7691183E-6 | 3.0783274E-6 | 3.0783274E-6 | 1.0 | 0.0 | 2.0438918E-5 | 1.3192766E-5 | 1.3192766E-5 | 1.0 | 0.0 | 2.488154E-4 | 1.606103E-4 | 1.606103E-4 | 1.0 | 0.0 | 0.00248537 | 0.0016049681 | 0.0016049681 | 1.0 | 0.0 |
+| 7.4 | 3.5524722E-6 | 2.1894814E-6 | 2.1894814E-6 | 1.0 | 0.0 | 1.5224792E-5 | 9.383458E-6 | 9.383458E-6 | 1.0 | 0.0 | 1.8534607E-4 | 1.1423769E-4 | 1.1423769E-4 | 1.0 | 0.0 | 0.0018519156 | 0.001141798 | 0.001141798 | 1.0 | 0.0 |
+| 7.5 | 2.7133442E-6 | 1.5917178E-6 | 1.5917178E-6 | 1.0 | 0.0 | 1.1628566E-5 | 6.82163E-6 | 6.82163E-6 | 1.0 | 0.0 | 1.415686E-4 | 8.3050196E-5 | 8.3050196E-5 | 1.0 | 0.0 | 0.0014147845 | 8.301935E-4 | 8.301935E-4 | 1.0 | 0.0 |
+| 7.6 | 1.915338E-6 | 1.1739909E-6 | 1.1739909E-6 | 1.0 | 0.0 | 8.208566E-6 | 5.03138E-6 | 5.03138E-6 | 1.0 | 0.0 | 9.993471E-5 | 6.125534E-5 | 6.125534E-5 | 1.0 | 0.0 | 9.988978E-4 | 6.1238545E-4 | 6.1238545E-4 | 1.0 | 0.0 |
+| 7.7 | 1.2120448E-6 | 7.180842E-7 | 7.180842E-7 | 1.0 | 0.0 | 5.194467E-6 | 3.0775E-6 | 3.0775E-6 | 1.0 | 0.0 | 6.3240805E-5 | 3.7467922E-5 | 3.7467922E-5 | 1.0 | 0.0 | 6.322281E-4 | 3.7461644E-4 | 3.7461644E-4 | 1.0 | 0.0 |
+| 7.8 | 6.272381E-7 | 3.9328637E-7 | 3.9328637E-7 | 1.0 | 0.0 | 2.6881603E-6 | 1.685512E-6 | 1.685512E-6 | 1.0 | 0.0 | 3.272786E-5 | 2.0520916E-5 | 2.0520916E-5 | 1.0 | 0.0 | 3.272304E-4 | 2.0519037E-4 | 2.0519037E-4 | 1.0 | 0.0 |
+| 7.9 | 2.0292627E-7 | 1.2005712E-7 | 1.2005712E-7 | 1.0 | 0.0 | 8.6968373E-7 | 5.145304E-7 | 5.145304E-7 | 1.0 | 0.0 | 1.0588348E-5 | 6.2643903E-6 | 6.2643903E-6 | 1.0 | 0.0 | 1.0587843E-4 | 6.264216E-5 | 6.264216E-5 | 1.0 | 0.0 |
+| 8.0 | 4.374492E-8 | 2.1902885E-8 | 2.1902885E-8 | 1.0 | 0.0 | 1.8747821E-7 | 9.38695E-8 | 9.38695E-8 | 1.0 | 0.0 | 2.2825448E-6 | 1.1428606E-6 | 1.1428606E-6 | 1.0 | 0.0 | 2.2825214E-5 | 1.1428551E-5 | 1.1428551E-5 | 1.0 | 0.0 |
 
 ## Cucamonga
 *[(top)](#table-of-contents)*
@@ -4872,64 +4351,222 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.0 | 1.1808895E-7 | 2.7548475E-7 | 2.7548475E-7 | 1.0 | 0.0 | 5.060954E-7 | 1.1806483E-6 | 1.1806483E-6 | 1.0 | 0.0 | 6.161694E-6 | 1.4374299E-5 | 1.4374299E-5 | 1.0 | 0.0 | 6.161523E-5 | 1.4834986E-4 | 1.4834986E-4 | 1.0 | 0.0 |
 | 8.1 | 5.138535E-8 | 1.12442855E-7 | 1.12442855E-7 | 1.0 | 0.0 | 2.2022292E-7 | 4.8189787E-7 | 4.8189787E-7 | 1.0 | 0.0 | 2.6812106E-6 | 5.8670907E-6 | 5.8670907E-6 | 1.0 | 0.0 | 2.6811784E-5 | 6.0229115E-5 | 6.0229115E-5 | 1.0 | 0.0 |
 
-## Elysian Park (Lower CFM)
+## Calaveras (So) 2011 CFM
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Elysian_Park_Lower_CFM_1wk.png) | ![MPD](Elysian_Park_Lower_CFM_1mo.png) | ![MPD](Elysian_Park_Lower_CFM_1yr.png) | ![MPD](Elysian_Park_Lower_CFM_10yr.png) |
+| ![MPD](Calaveras_So_2011_CFM_1wk.png) | ![MPD](Calaveras_So_2011_CFM_1mo.png) | ![MPD](Calaveras_So_2011_CFM_1yr.png) | ![MPD](Calaveras_So_2011_CFM_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.1766498E-6 | 2.1038136E-6 | 2.1038136E-6 | 1.0 | 0.0 | 9.328466E-6 | 9.01632E-6 | 9.01632E-6 | 1.0 | 0.0 | 1.1356815E-4 | 1.0976962E-4 | 1.0976962E-4 | 1.0 | 0.0 | 0.0011351013 | 0.0010972959 | 0.0011072849 | 1.0091033 | 1.0E-5 |
-| 6.1 | 2.1766498E-6 | 2.1038136E-6 | 2.1038136E-6 | 1.0 | 0.0 | 9.328466E-6 | 9.01632E-6 | 9.01632E-6 | 1.0 | 0.0 | 1.1356815E-4 | 1.0976962E-4 | 1.0976962E-4 | 1.0 | 0.0 | 0.0011351013 | 0.0010972959 | 0.0011072849 | 1.0091033 | 1.0E-5 |
-| 6.2 | 1.0031182E-6 | 9.1864104E-7 | 9.1864104E-7 | 1.0 | 0.0 | 4.299071E-6 | 3.9370275E-6 | 3.9370275E-6 | 1.0 | 0.0 | 5.2339932E-5 | 4.7932357E-5 | 4.7932357E-5 | 1.0 | 0.0 | 5.2327604E-4 | 4.7923E-4 | 4.7923E-4 | 1.0 | 0.0 |
-| 6.3 | 1.0031182E-6 | 9.1864104E-7 | 9.1864104E-7 | 1.0 | 0.0 | 4.299071E-6 | 3.9370275E-6 | 3.9370275E-6 | 1.0 | 0.0 | 5.2339932E-5 | 4.7932357E-5 | 4.7932357E-5 | 1.0 | 0.0 | 5.2327604E-4 | 4.7923E-4 | 4.7923E-4 | 1.0 | 0.0 |
-| 6.4 | 6.9606244E-7 | 6.0921303E-7 | 6.0921303E-7 | 1.0 | 0.0 | 2.9831212E-6 | 2.6109103E-6 | 2.6109103E-6 | 1.0 | 0.0 | 3.6318896E-5 | 3.178737E-5 | 3.178737E-5 | 1.0 | 0.0 | 3.6312963E-4 | 3.178285E-4 | 3.178285E-4 | 1.0 | 0.0 |
-| 6.5 | 6.901879E-7 | 6.0328136E-7 | 6.0328136E-7 | 1.0 | 0.0 | 2.9579448E-6 | 2.585489E-6 | 2.585489E-6 | 1.0 | 0.0 | 3.6012385E-5 | 3.1477877E-5 | 3.1477877E-5 | 1.0 | 0.0 | 3.600655E-4 | 3.147344E-4 | 3.147344E-4 | 1.0 | 0.0 |
-| 6.6 | 6.4198554E-7 | 5.546795E-7 | 5.546795E-7 | 1.0 | 0.0 | 2.7513638E-6 | 2.3771956E-6 | 2.3771956E-6 | 1.0 | 0.0 | 3.3497337E-5 | 2.8941975E-5 | 2.8941975E-5 | 1.0 | 0.0 | 3.349229E-4 | 2.893822E-4 | 2.893822E-4 | 1.0 | 0.0 |
-| 6.7 | 6.138733E-7 | 5.2636017E-7 | 5.2636017E-7 | 1.0 | 0.0 | 2.6308828E-6 | 2.2558272E-6 | 2.2558272E-6 | 1.0 | 0.0 | 3.203053E-5 | 2.7464352E-5 | 2.7464352E-5 | 1.0 | 0.0 | 3.2025913E-4 | 2.746097E-4 | 2.746097E-4 | 1.0 | 0.0 |
-| 6.8 | 5.84778E-7 | 5.00312E-7 | 5.00312E-7 | 1.0 | 0.0 | 2.506189E-6 | 2.1441924E-6 | 2.1441924E-6 | 1.0 | 0.0 | 3.0512423E-5 | 2.6105232E-5 | 2.6105232E-5 | 1.0 | 0.0 | 3.0508233E-4 | 2.6102175E-4 | 2.6102175E-4 | 1.0 | 0.0 |
-| 6.9 | 5.322785E-7 | 4.5802537E-7 | 4.5802537E-7 | 1.0 | 0.0 | 2.2811914E-6 | 1.9629645E-6 | 1.9629645E-6 | 1.0 | 0.0 | 2.7773152E-5 | 2.389883E-5 | 2.389883E-5 | 1.0 | 0.0 | 2.7769682E-4 | 2.3896269E-4 | 2.3896269E-4 | 1.0 | 0.0 |
-| 7.0 | 4.8147206E-7 | 4.112585E-7 | 4.112585E-7 | 1.0 | 0.0 | 2.06345E-6 | 1.7625351E-6 | 1.7625351E-6 | 1.0 | 0.0 | 2.5122214E-5 | 2.1458654E-5 | 2.1458654E-5 | 1.0 | 0.0 | 2.5119373E-4 | 2.1456591E-4 | 2.1456591E-4 | 1.0 | 0.0 |
-| 7.1 | 4.1932955E-7 | 3.545729E-7 | 3.545729E-7 | 1.0 | 0.0 | 1.7971255E-6 | 1.5195972E-6 | 1.5195972E-6 | 1.0 | 0.0 | 2.1879783E-5 | 1.850094E-5 | 1.850094E-5 | 1.0 | 0.0 | 2.1877629E-4 | 1.8499405E-4 | 1.8499405E-4 | 1.0 | 0.0 |
-| 7.2 | 3.426051E-7 | 2.781165E-7 | 2.781165E-7 | 1.0 | 0.0 | 1.4683067E-6 | 1.1919273E-6 | 1.1919273E-6 | 1.0 | 0.0 | 1.7876488E-5 | 1.4511617E-5 | 1.4511617E-5 | 1.0 | 0.0 | 1.787505E-4 | 1.4510672E-4 | 1.4510672E-4 | 1.0 | 0.0 |
-| 7.3 | 2.7771645E-7 | 2.2097676E-7 | 2.2097676E-7 | 1.0 | 0.0 | 1.1902127E-6 | 9.4704285E-7 | 9.4704285E-7 | 1.0 | 0.0 | 1.4490744E-5 | 1.15301855E-5 | 1.15301855E-5 | 1.0 | 0.0 | 1.4489799E-4 | 1.15295894E-4 | 1.15295894E-4 | 1.0 | 0.0 |
-| 7.4 | 2.2756493E-7 | 1.784084E-7 | 1.784084E-7 | 1.0 | 0.0 | 9.752779E-7 | 7.6460714E-7 | 7.6460714E-7 | 1.0 | 0.0 | 1.1873944E-5 | 9.309052E-6 | 9.309052E-6 | 1.0 | 0.0 | 1.18733085E-4 | 9.308664E-5 | 9.308664E-5 | 1.0 | 0.0 |
-| 7.5 | 1.7874558E-7 | 1.3543603E-7 | 1.3543603E-7 | 1.0 | 0.0 | 7.660522E-7 | 5.804399E-7 | 5.804399E-7 | 1.0 | 0.0 | 9.326646E-6 | 7.0668334E-6 | 7.0668334E-6 | 1.0 | 0.0 | 9.326255E-5 | 7.06661E-5 | 7.06661E-5 | 1.0 | 0.0 |
-| 7.6 | 1.3124549E-7 | 9.25154E-8 | 9.25154E-8 | 1.0 | 0.0 | 5.624805E-7 | 3.964945E-7 | 3.964945E-7 | 1.0 | 0.0 | 6.8481786E-6 | 4.82731E-6 | 4.82731E-6 | 1.0 | 0.0 | 6.8479676E-5 | 4.8272068E-5 | 4.8272068E-5 | 1.0 | 0.0 |
-| 7.7 | 8.439993E-8 | 5.0905733E-8 | 5.0905733E-8 | 1.0 | 0.0 | 3.6171392E-7 | 2.1816741E-7 | 2.1816741E-7 | 1.0 | 0.0 | 4.403858E-6 | 2.6561852E-6 | 2.6561852E-6 | 1.0 | 0.0 | 4.4037708E-5 | 2.6561547E-5 | 2.6561547E-5 | 1.0 | 0.0 |
-| 7.8 | 1.2591407E-8 | 7.22856E-9 | 7.22856E-9 | 1.0 | 0.0 | 5.3963173E-8 | 3.097954E-8 | 3.097954E-8 | 1.0 | 0.0 | 6.570014E-7 | 3.7717584E-7 | 3.7717584E-7 | 1.0 | 0.0 | 6.5699946E-6 | 3.771752E-6 | 3.771752E-6 | 1.0 | 0.0 |
-| 7.9 | 2.8324232E-11 | 2.1407542E-11 | 2.1407542E-11 | 1.0 | 0.0 | 1.2138957E-10 | 9.174661E-11 | 9.174661E-11 | 1.0 | 0.0 | 1.4779177E-9 | 1.1170151E-9 | 1.1170151E-9 | 1.0 | 0.0 | 1.4779177E-8 | 1.1170152E-8 | 1.1170152E-8 | 1.0 | 0.0 |
+| 6.0 | 1.5950744E-4 | 3.073298E-4 | 3.073298E-4 | 1.0 | 0.0 | 6.834242E-4 | 0.0013164851 | 0.0013164851 | 1.0 | 0.0 | 0.00828899 | 0.015864532 | 0.015864532 | 1.0 | 0.0 | 0.079865426 | 0.14444934 | 0.14445789 | 1.0000592 | 1.0E-5 |
+| 6.1 | 1.3584697E-4 | 2.6055795E-4 | 2.6055795E-4 | 1.0 | 0.0 | 5.8207137E-4 | 0.0011162142 | 0.0011162142 | 1.0 | 0.0 | 0.007063716 | 0.013467284 | 0.013467284 | 1.0 | 0.0 | 0.06843361 | 0.12407611 | 0.124084875 | 1.0000706 | 1.0E-5 |
+| 6.2 | 1.14676266E-4 | 2.1742213E-4 | 2.1742213E-4 | 1.0 | 0.0 | 4.9137714E-4 | 9.31488E-4 | 9.31488E-4 | 1.0 | 0.0 | 0.0059661185 | 0.011250365 | 0.011250365 | 1.0 | 0.0 | 0.058084648 | 0.10506591 | 0.10507486 | 1.0000852 | 1.0E-5 |
+| 6.3 | 8.691518E-5 | 1.599854E-4 | 1.599854E-4 | 1.0 | 0.0 | 3.7244044E-4 | 6.8546354E-4 | 6.8546354E-4 | 1.0 | 0.0 | 0.004525038 | 0.008306238 | 0.008306238 | 1.0 | 0.0 | 0.044339992 | 0.07938139 | 0.0793906 | 1.000116 | 1.0E-5 |
+| 6.4 | 8.50982E-5 | 1.5704907E-4 | 1.5704907E-4 | 1.0 | 0.0 | 3.646556E-4 | 6.728858E-4 | 6.728858E-4 | 1.0 | 0.0 | 0.0044306475 | 0.008154256 | 0.008154256 | 1.0 | 0.0 | 0.04343345 | 0.07798744 | 0.077996664 | 1.0001183 | 1.0E-5 |
+| 6.5 | 8.4062965E-5 | 1.5529433E-4 | 1.5529433E-4 | 1.0 | 0.0 | 3.602201E-4 | 6.6536927E-4 | 6.6536927E-4 | 1.0 | 0.0 | 0.004376863 | 0.00806345 | 0.00806345 | 1.0 | 0.0 | 0.042916555 | 0.07715867 | 0.0771679 | 1.0001196 | 1.0E-5 |
+| 6.6 | 8.194716E-5 | 1.5165257E-4 | 1.5165257E-4 | 1.0 | 0.0 | 3.5115483E-4 | 6.497696E-4 | 6.497696E-4 | 1.0 | 0.0 | 0.0042669317 | 0.007875272 | 0.007875272 | 1.0 | 0.0 | 0.04185927 | 0.07544381 | 0.07545306 | 1.0001225 | 1.0E-5 |
+| 6.7 | 8.012326E-5 | 1.4832857E-4 | 1.4832857E-4 | 1.0 | 0.0 | 3.433402E-4 | 6.3553656E-4 | 6.3553656E-4 | 1.0 | 0.0 | 0.004172157 | 0.0077037495 | 0.0077037495 | 1.0 | 0.0 | 0.040946912 | 0.073885866 | 0.07389513 | 1.0001253 | 1.0E-5 |
+| 6.8 | 7.119773E-5 | 1.2890759E-4 | 1.2890759E-4 | 1.0 | 0.0 | 3.0509746E-4 | 5.52343E-4 | 5.52343E-4 | 1.0 | 0.0 | 0.0037082357 | 0.006700882 | 0.006700882 | 1.0 | 0.0 | 0.036469642 | 0.06472833 | 0.064737685 | 1.0001445 | 1.0E-5 |
+| 6.9 | 5.7343088E-5 | 9.927315E-5 | 9.927315E-5 | 1.0 | 0.0 | 2.4573295E-4 | 4.2538744E-4 | 4.2538744E-4 | 1.0 | 0.0 | 0.0029876942 | 0.005166875 | 0.005166875 | 1.0 | 0.0 | 0.02947844 | 0.05054853 | 0.050558027 | 1.0001879 | 1.0E-5 |
+| 7.0 | 4.8746577E-5 | 8.292993E-5 | 8.292993E-5 | 1.0 | 0.0 | 2.0889717E-4 | 3.5536595E-4 | 3.5536595E-4 | 1.0 | 0.0 | 0.0025403565 | 0.0043180636 | 0.0043180636 | 1.0 | 0.0 | 0.025115121 | 0.042524014 | 0.042533588 | 1.0002252 | 1.0E-5 |
+| 7.1 | 4.2998014E-5 | 7.270967E-5 | 7.270967E-5 | 1.0 | 0.0 | 1.8426418E-4 | 3.1157598E-4 | 3.1157598E-4 | 1.0 | 0.0 | 0.002241108 | 0.0037868994 | 0.0037868994 | 1.0 | 0.0 | 0.022186412 | 0.03745239 | 0.037462015 | 1.000257 | 1.0E-5 |
+| 7.2 | 3.221292E-5 | 5.396419E-5 | 5.396419E-5 | 1.0 | 0.0 | 1.3804805E-4 | 2.3125476E-4 | 2.3125476E-4 | 1.0 | 0.0 | 0.0016794393 | 0.0028119197 | 0.0028119197 | 1.0 | 0.0 | 0.016668037 | 0.028064482 | 0.028074201 | 1.0003463 | 1.0E-5 |
+| 7.3 | 2.3756531E-5 | 3.952333E-5 | 3.952333E-5 | 1.0 | 0.0 | 1.0180973E-4 | 1.693748E-4 | 1.693748E-4 | 1.0 | 0.0 | 0.0012388286 | 0.002060205 | 0.002060205 | 1.0 | 0.0 | 0.012319452 | 0.020668885 | 0.020678679 | 1.0004739 | 1.0E-5 |
+| 7.4 | 1.5997684E-5 | 2.736345E-5 | 2.736345E-5 | 1.0 | 0.0 | 6.8559704E-5 | 1.17266674E-4 | 1.17266674E-4 | 1.0 | 0.0 | 8.343947E-4 | 0.0014267892 | 0.0014267892 | 1.0 | 0.0 | 0.008312687 | 0.01438753 | 0.01438753 | 1.0 | 0.0 |
+| 7.5 | 1.3814293E-5 | 2.480456E-5 | 2.480456E-5 | 1.0 | 0.0 | 5.9202768E-5 | 1.0630094E-4 | 1.0630094E-4 | 1.0 | 0.0 | 7.205553E-4 | 0.0012934479 | 0.0012934479 | 1.0 | 0.0 | 0.007182234 | 0.0130664455 | 0.0130664455 | 1.0 | 0.0 |
+| 7.6 | 8.817309E-6 | 1.6448737E-5 | 1.6448737E-5 | 1.0 | 0.0 | 3.7787922E-5 | 7.049269E-5 | 7.049269E-5 | 1.0 | 0.0 | 4.5997082E-4 | 8.5791195E-4 | 8.5791195E-4 | 1.0 | 0.0 | 0.004590199 | 0.008729103 | 0.008729103 | 1.0 | 0.0 |
+| 7.7 | 4.0352206E-6 | 7.718972E-6 | 7.718972E-6 | 1.0 | 0.0 | 1.7293689E-5 | 3.3080887E-5 | 3.3080887E-5 | 1.0 | 0.0 | 2.1053031E-4 | 4.0268543E-4 | 4.0268543E-4 | 1.0 | 0.0 | 0.0021033096 | 0.004170919 | 0.004170919 | 1.0 | 0.0 |
+| 7.8 | 3.413169E-6 | 6.797414E-6 | 6.797414E-6 | 1.0 | 0.0 | 1.4627784E-5 | 2.9131448E-5 | 2.9131448E-5 | 1.0 | 0.0 | 1.7807873E-4 | 3.5461772E-4 | 3.5461772E-4 | 1.0 | 0.0 | 0.0017793609 | 0.0036714657 | 0.0036714657 | 1.0 | 0.0 |
+| 7.9 | 2.4740732E-6 | 5.2865817E-6 | 5.2865817E-6 | 1.0 | 0.0 | 1.06031275E-5 | 2.2656583E-5 | 2.2656583E-5 | 1.0 | 0.0 | 1.2908543E-4 | 2.7580903E-4 | 2.7580903E-4 | 1.0 | 0.0 | 0.0012901047 | 0.002838413 | 0.002838413 | 1.0 | 0.0 |
+| 8.0 | 1.5231818E-6 | 3.293288E-6 | 3.293288E-6 | 1.0 | 0.0 | 6.527906E-6 | 1.4114015E-5 | 1.4114015E-5 | 1.0 | 0.0 | 7.9474354E-5 | 1.7182462E-4 | 1.7182462E-4 | 1.0 | 0.0 | 7.944594E-4 | 0.001758611 | 0.001758611 | 1.0 | 0.0 |
+| 8.1 | 1.0104524E-6 | 2.048486E-6 | 2.048486E-6 | 1.0 | 0.0 | 4.330503E-6 | 8.779196E-6 | 8.779196E-6 | 1.0 | 0.0 | 5.2722597E-5 | 1.068815E-4 | 1.068815E-4 | 1.0 | 0.0 | 5.271009E-4 | 0.0010943245 | 0.0010943245 | 1.0 | 0.0 |
 
-## Channel Islands Western Deep Ramp
+## San Clemente
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Channel_Islands_Western_Deep_Ramp_1wk.png) | ![MPD](Channel_Islands_Western_Deep_Ramp_1mo.png) | ![MPD](Channel_Islands_Western_Deep_Ramp_1yr.png) | ![MPD](Channel_Islands_Western_Deep_Ramp_10yr.png) |
+| ![MPD](San_Clemente_1wk.png) | ![MPD](San_Clemente_1mo.png) | ![MPD](San_Clemente_1yr.png) | ![MPD](San_Clemente_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
-| 6.1 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
-| 6.2 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
-| 6.3 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
-| 6.4 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
-| 6.5 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
-| 6.6 | 6.0213506E-6 | 6.254959E-6 | 6.254959E-6 | 1.0 | 0.0 | 2.5805533E-5 | 2.6806716E-5 | 2.6806716E-5 | 1.0 | 0.0 | 3.1413708E-4 | 3.2632737E-4 | 3.2632737E-4 | 1.0 | 0.0 | 0.0031369338 | 0.0032589233 | 0.0032688908 | 1.0030586 | 1.0E-5 |
-| 6.7 | 5.313309E-6 | 5.5253226E-6 | 5.5253226E-6 | 1.0 | 0.0 | 2.2771126E-5 | 2.3679762E-5 | 2.3679762E-5 | 1.0 | 0.0 | 2.772032E-4 | 2.8826704E-4 | 2.8826704E-4 | 1.0 | 0.0 | 0.0027685766 | 0.0028793344 | 0.0028793344 | 1.0 | 0.0 |
-| 6.8 | 5.313309E-6 | 5.5253226E-6 | 5.5253226E-6 | 1.0 | 0.0 | 2.2771126E-5 | 2.3679762E-5 | 2.3679762E-5 | 1.0 | 0.0 | 2.772032E-4 | 2.8826704E-4 | 2.8826704E-4 | 1.0 | 0.0 | 0.0027685766 | 0.0028793344 | 0.0028793344 | 1.0 | 0.0 |
-| 6.9 | 4.744377E-6 | 4.939506E-6 | 4.939506E-6 | 1.0 | 0.0 | 2.0332885E-5 | 2.116916E-5 | 2.116916E-5 | 1.0 | 0.0 | 2.4752476E-4 | 2.5770778E-4 | 2.5770778E-4 | 1.0 | 0.0 | 0.0024724922 | 0.0025744569 | 0.0025744569 | 1.0 | 0.0 |
-| 7.0 | 4.722209E-6 | 4.9165483E-6 | 4.9165483E-6 | 1.0 | 0.0 | 2.0237881E-5 | 2.1070773E-5 | 2.1070773E-5 | 1.0 | 0.0 | 2.4636835E-4 | 2.565102E-4 | 2.565102E-4 | 1.0 | 0.0 | 0.002460954 | 0.0025625085 | 0.0025625085 | 1.0 | 0.0 |
-| 7.1 | 4.611174E-6 | 4.8014826E-6 | 4.8014826E-6 | 1.0 | 0.0 | 1.9762025E-5 | 2.0577641E-5 | 2.0577641E-5 | 1.0 | 0.0 | 2.4057609E-4 | 2.5050773E-4 | 2.5050773E-4 | 1.0 | 0.0 | 0.002403158 | 0.0025026202 | 0.0025026202 | 1.0 | 0.0 |
-| 7.2 | 4.043994E-6 | 4.212092E-6 | 4.212092E-6 | 1.0 | 0.0 | 1.7331287E-5 | 1.8051716E-5 | 1.8051716E-5 | 1.0 | 0.0 | 2.10988E-4 | 2.1976106E-4 | 2.1976106E-4 | 1.0 | 0.0 | 0.002107878 | 0.002195788 | 0.002195788 | 1.0 | 0.0 |
-| 7.3 | 2.1233036E-6 | 2.229829E-6 | 2.229829E-6 | 1.0 | 0.0 | 9.099841E-6 | 9.5563755E-6 | 9.5563755E-6 | 1.0 | 0.0 | 1.1078493E-4 | 1.16342715E-4 | 1.16342715E-4 | 1.0 | 0.0 | 0.0011072971 | 0.0011628236 | 0.0011628236 | 1.0 | 0.0 |
-| 7.4 | 1.9051884E-6 | 2.001535E-6 | 2.001535E-6 | 1.0 | 0.0 | 8.165067E-6 | 8.577978E-6 | 8.577978E-6 | 1.0 | 0.0 | 9.940516E-5 | 1.04431936E-4 | 1.04431936E-4 | 1.0 | 0.0 | 9.93607E-4 | 0.0010438339 | 0.0010438339 | 1.0 | 0.0 |
-| 7.5 | 1.2408497E-6 | 1.3039086E-6 | 1.3039086E-6 | 1.0 | 0.0 | 5.317916E-6 | 5.588168E-6 | 5.588168E-6 | 1.0 | 0.0 | 6.4743705E-5 | 6.803384E-5 | 6.803384E-5 | 1.0 | 0.0 | 6.4724847E-4 | 6.801323E-4 | 6.801323E-4 | 1.0 | 0.0 |
-| 7.6 | 6.5440025E-7 | 6.886852E-7 | 6.886852E-7 | 1.0 | 0.0 | 2.8045695E-6 | 2.9515047E-6 | 2.9515047E-6 | 1.0 | 0.0 | 3.4145098E-5 | 3.5933994E-5 | 3.5933994E-5 | 1.0 | 0.0 | 3.4139853E-4 | 3.5928324E-4 | 3.5928324E-4 | 1.0 | 0.0 |
-| 7.7 | 3.985963E-7 | 4.1931597E-7 | 4.1931597E-7 | 1.0 | 0.0 | 1.7082689E-6 | 1.7970673E-6 | 1.7970673E-6 | 1.0 | 0.0 | 2.0797976E-5 | 2.1879086E-5 | 2.1879086E-5 | 1.0 | 0.0 | 2.0796029E-4 | 2.187705E-4 | 2.187705E-4 | 1.0 | 0.0 |
-| 7.8 | 3.706329E-8 | 3.8592386E-8 | 3.8592386E-8 | 1.0 | 0.0 | 1.5884267E-7 | 1.6539593E-7 | 1.6539593E-7 | 1.0 | 0.0 | 1.9339077E-6 | 2.0136938E-6 | 2.0136938E-6 | 1.0 | 0.0 | 1.933891E-5 | 2.0136767E-5 | 2.0136767E-5 | 1.0 | 0.0 |
+| 6.0 | 6.681379E-5 | 8.1641134E-5 | 8.1641134E-5 | 1.0 | 0.0 | 2.8631336E-4 | 3.498469E-4 | 3.498469E-4 | 1.0 | 0.0 | 0.003480294 | 0.0042516463 | 0.004261604 | 1.002342 | 1.0E-5 | 0.03426291 | 0.041759077 | 0.041768663 | 1.0002295 | 1.0E-5 |
+| 6.1 | 6.681379E-5 | 8.1641134E-5 | 8.1641134E-5 | 1.0 | 0.0 | 2.8631336E-4 | 3.498469E-4 | 3.498469E-4 | 1.0 | 0.0 | 0.003480294 | 0.0042516463 | 0.004261604 | 1.002342 | 1.0E-5 | 0.03426291 | 0.041759077 | 0.041768663 | 1.0002295 | 1.0E-5 |
+| 6.2 | 3.9400576E-5 | 4.6455116E-5 | 4.6455116E-5 | 1.0 | 0.0 | 1.6884868E-4 | 1.990785E-4 | 1.990785E-4 | 1.0 | 0.0 | 0.0020537945 | 0.0024211477 | 0.0024311235 | 1.0041202 | 1.0E-5 | 0.020349167 | 0.023954442 | 0.023964202 | 1.0004075 | 1.0E-5 |
+| 6.3 | 3.2590255E-5 | 3.793141E-5 | 3.793141E-5 | 1.0 | 0.0 | 1.3966505E-4 | 1.6255323E-4 | 1.6255323E-4 | 1.0 | 0.0 | 0.0016990956 | 0.0019773194 | 0.0019872996 | 1.0050473 | 1.0E-5 | 0.01686163 | 0.019601053 | 0.019610858 | 1.0005002 | 1.0E-5 |
+| 6.4 | 2.9454652E-5 | 3.4099783E-5 | 3.4099783E-5 | 1.0 | 0.0 | 1.2622811E-4 | 1.4613387E-4 | 1.4613387E-4 | 1.0 | 0.0 | 0.0015357438 | 0.0017777525 | 0.0017877347 | 1.0056151 | 1.0E-5 | 0.015251739 | 0.017638486 | 0.01764831 | 1.000557 | 1.0E-5 |
+| 6.5 | 2.790836E-5 | 3.224933E-5 | 3.224933E-5 | 1.0 | 0.0 | 1.1960178E-4 | 1.3820422E-4 | 1.3820422E-4 | 1.0 | 0.0 | 0.001455179 | 0.0016813624 | 0.0016913456 | 1.0059376 | 1.0E-5 | 0.014456868 | 0.016689435 | 0.016699268 | 1.0005891 | 1.0E-5 |
+| 6.6 | 2.2492153E-5 | 2.5764102E-5 | 2.5764102E-5 | 1.0 | 0.0 | 9.639138E-5 | 1.1041299E-4 | 1.1041299E-4 | 1.0 | 0.0 | 0.0011729331 | 0.0013434635 | 0.0013534501 | 1.0074334 | 1.0E-5 | 0.011667615 | 0.013355134 | 0.0133650005 | 1.0007387 | 1.0E-5 |
+| 6.7 | 1.9862755E-5 | 2.2667613E-5 | 2.2667613E-5 | 1.0 | 0.0 | 8.512331E-5 | 9.714336E-5 | 9.714336E-5 | 1.0 | 0.0 | 0.0010358836 | 0.00118209 | 0.0011920781 | 1.0084496 | 1.0E-5 | 0.010310682 | 0.011759315 | 0.011769197 | 1.0008404 | 1.0E-5 |
+| 6.8 | 1.6697575E-5 | 1.8978673E-5 | 1.8978673E-5 | 1.0 | 0.0 | 7.155907E-5 | 8.1334685E-5 | 8.1334685E-5 | 1.0 | 0.0 | 8.7088346E-4 | 9.898093E-4 | 9.898093E-4 | 1.0 | 0.0 | 0.008674784 | 0.009855035 | 0.009855035 | 1.0 | 0.0 |
+| 6.9 | 1.5218415E-5 | 1.7270266E-5 | 1.7270266E-5 | 1.0 | 0.0 | 6.522015E-5 | 7.401338E-5 | 7.401338E-5 | 1.0 | 0.0 | 7.93766E-4 | 9.007491E-4 | 9.007491E-4 | 1.0 | 0.0 | 0.007909367 | 0.008971928 | 0.008971928 | 1.0 | 0.0 |
+| 7.0 | 1.2392958E-5 | 1.4033705E-5 | 1.4033705E-5 | 1.0 | 0.0 | 5.3111595E-5 | 6.014311E-5 | 6.014311E-5 | 1.0 | 0.0 | 6.4644177E-4 | 7.3200394E-4 | 7.3200394E-4 | 1.0 | 0.0 | 0.0064456454 | 0.007296714 | 0.007296714 | 1.0 | 0.0 |
+| 7.1 | 1.0934128E-5 | 1.2375744E-5 | 1.2375744E-5 | 1.0 | 0.0 | 4.6859706E-5 | 5.3037864E-5 | 5.3037864E-5 | 1.0 | 0.0 | 5.7036756E-4 | 6.45552E-4 | 6.45552E-4 | 1.0 | 0.0 | 0.0056890585 | 0.006437514 | 0.006437514 | 1.0 | 0.0 |
+| 7.2 | 9.5798805E-6 | 1.0845467E-5 | 1.0845467E-5 | 1.0 | 0.0 | 4.1055984E-5 | 4.6479785E-5 | 4.6479785E-5 | 1.0 | 0.0 | 4.9974193E-4 | 5.657517E-4 | 5.657517E-4 | 1.0 | 0.0 | 0.0049861963 | 0.0056438376 | 0.0056438376 | 1.0 | 0.0 |
+| 7.3 | 8.0167365E-6 | 9.084367E-6 | 9.084367E-6 | 1.0 | 0.0 | 3.4356988E-5 | 3.893246E-5 | 3.893246E-5 | 1.0 | 0.0 | 4.1821605E-4 | 4.7390666E-4 | 4.7390666E-4 | 1.0 | 0.0 | 0.0041742986 | 0.0047296635 | 0.0047296635 | 1.0 | 0.0 |
+| 7.4 | 2.9581017E-6 | 3.36255E-6 | 3.36255E-6 | 1.0 | 0.0 | 1.2677518E-5 | 1.4410877E-5 | 1.4410877E-5 | 1.0 | 0.0 | 1.5433785E-4 | 1.7544335E-4 | 1.7544335E-4 | 1.0 | 0.0 | 0.001542307 | 0.0017535435 | 0.0017535435 | 1.0 | 0.0 |
+
+## Raymond
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Raymond_1wk.png) | ![MPD](Raymond_1mo.png) | ![MPD](Raymond_1yr.png) | ![MPD](Raymond_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.5157413E-5 | 1.5810916E-5 | 1.5810916E-5 | 1.0 | 0.0 | 6.4958724E-5 | 6.775945E-5 | 6.775945E-5 | 1.0 | 0.0 | 7.905855E-4 | 8.2468416E-4 | 8.346759E-4 | 1.0121158 | 1.0E-5 | 0.007877788 | 0.008218757 | 0.0082286745 | 1.0012068 | 1.0E-5 |
+| 6.1 | 1.5157413E-5 | 1.5810916E-5 | 1.5810916E-5 | 1.0 | 0.0 | 6.4958724E-5 | 6.775945E-5 | 6.775945E-5 | 1.0 | 0.0 | 7.905855E-4 | 8.2468416E-4 | 8.346759E-4 | 1.0121158 | 1.0E-5 | 0.007877788 | 0.008218757 | 0.0082286745 | 1.0012068 | 1.0E-5 |
+| 6.2 | 1.5157413E-5 | 1.5810916E-5 | 1.5810916E-5 | 1.0 | 0.0 | 6.4958724E-5 | 6.775945E-5 | 6.775945E-5 | 1.0 | 0.0 | 7.905855E-4 | 8.2468416E-4 | 8.346759E-4 | 1.0121158 | 1.0E-5 | 0.007877788 | 0.008218757 | 0.0082286745 | 1.0012068 | 1.0E-5 |
+| 6.3 | 1.5157413E-5 | 1.5810916E-5 | 1.5810916E-5 | 1.0 | 0.0 | 6.4958724E-5 | 6.775945E-5 | 6.775945E-5 | 1.0 | 0.0 | 7.905855E-4 | 8.2468416E-4 | 8.346759E-4 | 1.0121158 | 1.0E-5 | 0.007877788 | 0.008218757 | 0.0082286745 | 1.0012068 | 1.0E-5 |
+| 6.4 | 1.3941944E-5 | 1.44554215E-5 | 1.44554215E-5 | 1.0 | 0.0 | 5.9749822E-5 | 6.1950464E-5 | 6.1950464E-5 | 1.0 | 0.0 | 7.2721124E-4 | 7.5400923E-4 | 7.640017E-4 | 1.0132524 | 1.0E-5 | 0.007248361 | 0.0075168433 | 0.0075267684 | 1.0013204 | 1.0E-5 |
+| 6.5 | 1.3941944E-5 | 1.44554215E-5 | 1.44554215E-5 | 1.0 | 0.0 | 5.9749822E-5 | 6.1950464E-5 | 6.1950464E-5 | 1.0 | 0.0 | 7.2721124E-4 | 7.5400923E-4 | 7.640017E-4 | 1.0132524 | 1.0E-5 | 0.007248361 | 0.0075168433 | 0.0075267684 | 1.0013204 | 1.0E-5 |
+| 6.6 | 1.0542609E-5 | 1.0671684E-5 | 1.0671684E-5 | 1.0 | 0.0 | 4.5181827E-5 | 4.573502E-5 | 4.573502E-5 | 1.0 | 0.0 | 5.499499E-4 | 5.5668707E-4 | 5.666815E-4 | 1.0179534 | 1.0E-5 | 0.005485909 | 0.0055534868 | 0.0055634314 | 1.0017906 | 1.0E-5 |
+| 6.7 | 1.0542609E-5 | 1.0671684E-5 | 1.0671684E-5 | 1.0 | 0.0 | 4.5181827E-5 | 4.573502E-5 | 4.573502E-5 | 1.0 | 0.0 | 5.499499E-4 | 5.5668707E-4 | 5.666815E-4 | 1.0179534 | 1.0E-5 | 0.005485909 | 0.0055534868 | 0.0055634314 | 1.0017906 | 1.0E-5 |
+| 6.8 | 1.0079132E-5 | 1.0177206E-5 | 1.0177206E-5 | 1.0 | 0.0 | 4.3195567E-5 | 4.3615895E-5 | 4.3615895E-5 | 1.0 | 0.0 | 5.257791E-4 | 5.308995E-4 | 5.4089417E-4 | 1.018826 | 1.0E-5 | 0.0052453685 | 0.0052968618 | 0.0053068087 | 1.0018779 | 1.0E-5 |
+| 6.9 | 7.721598E-6 | 7.549351E-6 | 7.549351E-6 | 1.0 | 0.0 | 3.3092143E-5 | 3.2353964E-5 | 3.2353964E-5 | 1.0 | 0.0 | 4.0282236E-4 | 3.9383955E-4 | 4.038356E-4 | 1.0253811 | 1.0E-5 | 0.0040209293 | 0.0039315494 | 0.0039415103 | 1.0025336 | 1.0E-5 |
+| 7.0 | 7.137566E-6 | 6.91173E-6 | 6.91173E-6 | 1.0 | 0.0 | 3.058921E-5 | 2.962137E-5 | 2.962137E-5 | 1.0 | 0.0 | 3.7236E-4 | 3.6058156E-4 | 3.7057797E-4 | 1.027723 | 1.0E-5 | 0.0037173668 | 0.0036000833 | 0.0036100473 | 1.0027677 | 1.0E-5 |
+| 7.1 | 5.654976E-6 | 5.299912E-6 | 5.299912E-6 | 1.0 | 0.0 | 2.4235387E-5 | 2.2713713E-5 | 2.2713713E-5 | 1.0 | 0.0 | 2.9502588E-4 | 2.7650458E-4 | 2.865018E-4 | 1.0361558 | 1.0E-5 | 0.0029463451 | 0.0027616364 | 0.0027716088 | 1.0036111 | 1.0E-5 |
+| 7.2 | 4.9358455E-6 | 4.5270053E-6 | 4.5270053E-6 | 1.0 | 0.0 | 2.1153453E-5 | 1.9401308E-5 | 1.9401308E-5 | 1.0 | 0.0 | 2.5751285E-4 | 2.3618546E-4 | 2.461831E-4 | 1.0423295 | 1.0E-5 | 0.0025721465 | 0.0023593665 | 0.002369343 | 1.0042285 | 1.0E-5 |
+| 7.3 | 4.2368597E-6 | 3.8059438E-6 | 3.8059438E-6 | 1.0 | 0.0 | 1.8157843E-5 | 1.6311087E-5 | 1.6311087E-5 | 1.0 | 0.0 | 2.2104931E-4 | 1.9856948E-4 | 1.9856948E-4 | 1.0 | 0.0 | 0.0022082955 | 0.0019839394 | 0.0019839394 | 1.0 | 0.0 |
+| 7.4 | 3.4999923E-6 | 3.044046E-6 | 3.044046E-6 | 1.0 | 0.0 | 1.49998805E-5 | 1.3045847E-5 | 1.3045847E-5 | 1.0 | 0.0 | 1.8260824E-4 | 1.5882168E-4 | 1.5882168E-4 | 1.0 | 0.0 | 0.0018245826 | 0.0015870975 | 0.0015870975 | 1.0 | 0.0 |
+| 7.5 | 2.738017E-6 | 2.3022249E-6 | 2.3022249E-6 | 1.0 | 0.0 | 1.1734306E-5 | 9.866641E-6 | 9.866641E-6 | 1.0 | 0.0 | 1.428558E-4 | 1.201198E-4 | 1.201198E-4 | 1.0 | 0.0 | 0.0014276401 | 0.0012005632 | 0.0012005632 | 1.0 | 0.0 |
+| 7.6 | 1.8186392E-6 | 1.4424369E-6 | 1.4424369E-6 | 1.0 | 0.0 | 7.794145E-6 | 6.1818578E-6 | 6.1818578E-6 | 1.0 | 0.0 | 9.488958E-5 | 7.526156E-5 | 7.526156E-5 | 1.0 | 0.0 | 9.4849075E-4 | 7.523722E-4 | 7.523722E-4 | 1.0 | 0.0 |
+| 7.7 | 1.0660348E-6 | 7.644813E-7 | 7.644813E-7 | 1.0 | 0.0 | 4.5687125E-6 | 3.2763444E-6 | 3.2763444E-6 | 1.0 | 0.0 | 5.5622655E-5 | 3.988878E-5 | 3.988878E-5 | 1.0 | 0.0 | 5.5608735E-4 | 3.9882533E-4 | 3.9882533E-4 | 1.0 | 0.0 |
+| 7.8 | 6.913602E-7 | 4.3212557E-7 | 4.3212557E-7 | 1.0 | 0.0 | 2.962969E-6 | 1.8519654E-6 | 1.8519654E-6 | 1.0 | 0.0 | 3.607355E-5 | 2.2547452E-5 | 2.2547452E-5 | 1.0 | 0.0 | 3.6067693E-4 | 2.254595E-4 | 2.254595E-4 | 1.0 | 0.0 |
+| 7.9 | 7.425201E-8 | 5.323065E-8 | 5.323065E-8 | 1.0 | 0.0 | 3.1822285E-7 | 2.2813134E-7 | 2.2813134E-7 | 1.0 | 0.0 | 3.874356E-6 | 2.7774968E-6 | 2.7774968E-6 | 1.0 | 0.0 | 3.8742884E-5 | 2.7774751E-5 | 2.7774751E-5 | 1.0 | 0.0 |
+
+## Davis Creek
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Davis_Creek_1wk.png) | ![MPD](Davis_Creek_1mo.png) | ![MPD](Davis_Creek_1yr.png) | ![MPD](Davis_Creek_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 2.331472E-5 | 2.5418065E-5 | 2.5418065E-5 | 1.0 | 0.0 | 9.99164E-5 | 1.0893069E-4 | 1.0893069E-4 | 1.0 | 0.0 | 0.0012158032 | 0.0013255428 | 0.0013255428 | 1.0 | 0.0 | 0.01209173 | 0.013188143 | 0.013198012 | 1.0007483 | 1.0E-5 |
+| 6.1 | 1.0407654E-5 | 1.1317355E-5 | 1.1317355E-5 | 1.0 | 0.0 | 4.4603472E-5 | 4.85022E-5 | 4.85022E-5 | 1.0 | 0.0 | 5.4291193E-4 | 5.903814E-4 | 5.903814E-4 | 1.0 | 0.0 | 0.0054158745 | 0.005890802 | 0.005890802 | 1.0 | 0.0 |
+| 6.2 | 1.0407654E-5 | 1.1317355E-5 | 1.1317355E-5 | 1.0 | 0.0 | 4.4603472E-5 | 4.85022E-5 | 4.85022E-5 | 1.0 | 0.0 | 5.4291193E-4 | 5.903814E-4 | 5.903814E-4 | 1.0 | 0.0 | 0.0054158745 | 0.005890802 | 0.005890802 | 1.0 | 0.0 |
+| 6.3 | 5.1323277E-6 | 5.5687324E-6 | 5.5687324E-6 | 1.0 | 0.0 | 2.1995505E-5 | 2.3865825E-5 | 2.3865825E-5 | 1.0 | 0.0 | 2.6776237E-4 | 2.905363E-4 | 2.905363E-4 | 1.0 | 0.0 | 0.0026743996 | 0.002902411 | 0.002902411 | 1.0 | 0.0 |
+| 6.4 | 2.4985154E-6 | 2.7046215E-6 | 2.7046215E-6 | 1.0 | 0.0 | 1.07078795E-5 | 1.15912035E-5 | 1.15912035E-5 | 1.0 | 0.0 | 1.3036063E-4 | 1.4111739E-4 | 1.4111739E-4 | 1.0 | 0.0 | 0.0013028418 | 0.0014106324 | 0.0014106324 | 1.0 | 0.0 |
+| 6.5 | 2.4846438E-6 | 2.6905554E-6 | 2.6905554E-6 | 1.0 | 0.0 | 1.064843E-5 | 1.1530921E-5 | 1.1530921E-5 | 1.0 | 0.0 | 1.2963692E-4 | 1.4038355E-4 | 1.4038355E-4 | 1.0 | 0.0 | 0.0012956132 | 0.0014033034 | 0.0014033034 | 1.0 | 0.0 |
+| 6.6 | 2.072566E-7 | 2.1018198E-7 | 2.1018198E-7 | 1.0 | 0.0 | 8.882423E-7 | 9.007796E-7 | 9.007796E-7 | 1.0 | 0.0 | 1.0814296E-5 | 1.0966938E-5 | 1.0966938E-5 | 1.0 | 0.0 | 1.081377E-4 | 1.0966415E-4 | 1.0966415E-4 | 1.0 | 0.0 |
+| 6.7 | 1.7544528E-7 | 1.7790919E-7 | 1.7790919E-7 | 1.0 | 0.0 | 7.5190815E-7 | 7.624677E-7 | 7.624677E-7 | 1.0 | 0.0 | 9.154443E-6 | 9.283007E-6 | 9.283007E-6 | 1.0 | 0.0 | 9.1540656E-5 | 9.282635E-5 | 9.282635E-5 | 1.0 | 0.0 |
+| 6.8 | 1.2320395E-7 | 1.2481198E-7 | 1.2481198E-7 | 1.0 | 0.0 | 5.280168E-7 | 5.349084E-7 | 5.349084E-7 | 1.0 | 0.0 | 6.428586E-6 | 6.5124914E-6 | 6.5124914E-6 | 1.0 | 0.0 | 6.4284E-5 | 6.512312E-5 | 6.512312E-5 | 1.0 | 0.0 |
+| 6.9 | 6.399997E-8 | 6.48609E-8 | 6.48609E-8 | 1.0 | 0.0 | 2.7428555E-7 | 2.7797526E-7 | 2.7797526E-7 | 1.0 | 0.0 | 3.3394215E-6 | 3.3843444E-6 | 3.3843444E-6 | 1.0 | 0.0 | 3.3393713E-5 | 3.3842993E-5 | 3.3842993E-5 | 1.0 | 0.0 |
+| 7.0 | 6.4455685E-9 | 6.5352976E-9 | 6.5352976E-9 | 1.0 | 0.0 | 2.7623864E-8 | 2.8008419E-8 | 2.8008419E-8 | 1.0 | 0.0 | 3.3632048E-7 | 3.410025E-7 | 3.410025E-7 | 1.0 | 0.0 | 3.3631998E-6 | 3.410025E-6 | 3.410025E-6 | 1.0 | 0.0 |
+
+## Mission (connected) 2011 CFM
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Mission_connected_2011_CFM_1wk.png) | ![MPD](Mission_connected_2011_CFM_1mo.png) | ![MPD](Mission_connected_2011_CFM_1yr.png) | ![MPD](Mission_connected_2011_CFM_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.8735573E-5 | 2.688952E-5 | 2.688952E-5 | 1.0 | 0.0 | 8.029284E-5 | 1.15235125E-4 | 1.15235125E-4 | 1.0 | 0.0 | 9.771269E-4 | 0.0014020179 | 0.0014020179 | 1.0 | 0.0 | 0.009728416 | 0.01394095 | 0.013950811 | 1.0007073 | 1.0E-5 |
+| 6.1 | 1.7515964E-5 | 2.5530739E-5 | 2.5530739E-5 | 1.0 | 0.0 | 7.506625E-5 | 1.0941228E-4 | 1.0941228E-4 | 1.0 | 0.0 | 9.135484E-4 | 0.0013312132 | 0.0013312132 | 1.0 | 0.0 | 0.009098019 | 0.013241528 | 0.013241528 | 1.0 | 0.0 |
+| 6.2 | 1.6486343E-5 | 2.4375342E-5 | 2.4375342E-5 | 1.0 | 0.0 | 7.065384E-5 | 1.0446098E-4 | 1.0446098E-4 | 1.0 | 0.0 | 8.5987104E-4 | 0.0012710047 | 0.0012710047 | 1.0 | 0.0 | 0.008565514 | 0.012646479 | 0.012646479 | 1.0 | 0.0 |
+| 6.3 | 1.5229385E-5 | 2.2804674E-5 | 2.2804674E-5 | 1.0 | 0.0 | 6.526716E-5 | 9.7730066E-5 | 9.7730066E-5 | 1.0 | 0.0 | 7.9433795E-4 | 0.0011891485 | 0.0011891485 | 1.0 | 0.0 | 0.007915046 | 0.011839628 | 0.011839628 | 1.0 | 0.0 |
+| 6.4 | 1.4435828E-5 | 2.1404514E-5 | 2.1404514E-5 | 1.0 | 0.0 | 6.186637E-5 | 9.172981E-5 | 9.172981E-5 | 1.0 | 0.0 | 7.529627E-4 | 0.0011161744 | 0.0011161744 | 1.0 | 0.0 | 0.007504165 | 0.011122519 | 0.011122519 | 1.0 | 0.0 |
+| 6.5 | 1.30127955E-5 | 1.904306E-5 | 1.904306E-5 | 1.0 | 0.0 | 5.576793E-5 | 8.1610575E-5 | 8.1610575E-5 | 1.0 | 0.0 | 6.78763E-4 | 9.930952E-4 | 9.930952E-4 | 1.0 | 0.0 | 0.0067669353 | 0.009914487 | 0.009914487 | 1.0 | 0.0 |
+| 6.6 | 1.1220718E-5 | 1.6398912E-5 | 1.6398912E-5 | 1.0 | 0.0 | 4.8087906E-5 | 7.027917E-5 | 7.027917E-5 | 1.0 | 0.0 | 5.8531296E-4 | 8.5531094E-4 | 8.5531094E-4 | 1.0 | 0.0 | 0.005837737 | 0.0085524 | 0.0085524 | 1.0 | 0.0 |
+| 6.7 | 8.086152E-6 | 1.175491E-5 | 1.175491E-5 | 1.0 | 0.0 | 3.4654473E-5 | 5.0377217E-5 | 5.0377217E-5 | 1.0 | 0.0 | 4.2183654E-4 | 6.131708E-4 | 6.131708E-4 | 1.0 | 0.0 | 0.004210367 | 0.0061520776 | 0.0061520776 | 1.0 | 0.0 |
+| 6.8 | 6.8361655E-6 | 1.0199498E-5 | 1.0199498E-5 | 1.0 | 0.0 | 2.9297524E-5 | 4.3711407E-5 | 4.3711407E-5 | 1.0 | 0.0 | 3.5663895E-4 | 5.32057E-4 | 5.32057E-4 | 1.0 | 0.0 | 0.0035606713 | 0.005340788 | 0.005340788 | 1.0 | 0.0 |
+| 6.9 | 5.2517353E-6 | 7.872214E-6 | 7.872214E-6 | 1.0 | 0.0 | 2.2507242E-5 | 3.3737626E-5 | 3.3737626E-5 | 1.0 | 0.0 | 2.739912E-4 | 4.1067842E-4 | 4.1067842E-4 | 1.0 | 0.0 | 0.0027365363 | 0.004131441 | 0.004131441 | 1.0 | 0.0 |
+| 7.0 | 4.4602784E-6 | 6.704456E-6 | 6.704456E-6 | 1.0 | 0.0 | 1.911534E-5 | 2.873307E-5 | 2.873307E-5 | 1.0 | 0.0 | 2.327044E-4 | 3.497691E-4 | 3.497691E-4 | 1.0 | 0.0 | 0.0023246086 | 0.0035236059 | 0.0035236059 | 1.0 | 0.0 |
+| 7.1 | 4.1492594E-6 | 6.2531067E-6 | 6.2531067E-6 | 1.0 | 0.0 | 1.7782419E-5 | 2.6798754E-5 | 2.6798754E-5 | 1.0 | 0.0 | 2.1647944E-4 | 3.2622615E-4 | 3.2622615E-4 | 1.0 | 0.0 | 0.0021626868 | 0.0032883629 | 0.0032883629 | 1.0 | 0.0 |
+| 7.2 | 2.213247E-6 | 3.3649592E-6 | 3.3649592E-6 | 1.0 | 0.0 | 9.485309E-6 | 1.44211745E-5 | 1.44211745E-5 | 1.0 | 0.0 | 1.15477524E-4 | 1.7556369E-4 | 1.7556369E-4 | 1.0 | 0.0 | 0.0011541754 | 0.0017828988 | 0.0017828988 | 1.0 | 0.0 |
+| 7.3 | 1.7362703E-6 | 2.740234E-6 | 2.740234E-6 | 1.0 | 0.0 | 7.4411373E-6 | 1.1743808E-5 | 1.1743808E-5 | 1.0 | 0.0 | 9.0592075E-5 | 1.429715E-4 | 1.429715E-4 | 1.0 | 0.0 | 9.0555154E-4 | 0.0014541033 | 0.0014541033 | 1.0 | 0.0 |
+| 7.4 | 1.1628409E-6 | 1.8507498E-6 | 1.8507498E-6 | 1.0 | 0.0 | 4.9835944E-6 | 7.931761E-6 | 7.931761E-6 | 1.0 | 0.0 | 6.0673574E-5 | 9.656492E-5 | 9.656492E-5 | 1.0 | 0.0 | 6.065701E-4 | 9.860051E-4 | 9.860051E-4 | 1.0 | 0.0 |
+| 7.5 | 5.5610667E-7 | 9.355345E-7 | 9.355345E-7 | 1.0 | 0.0 | 2.3833122E-6 | 4.0094274E-6 | 4.0094274E-6 | 1.0 | 0.0 | 2.9016439E-5 | 4.881369E-5 | 4.881369E-5 | 1.0 | 0.0 | 2.901265E-4 | 5.0468714E-4 | 5.0468714E-4 | 1.0 | 0.0 |
+| 7.6 | 4.4307663E-7 | 7.795659E-7 | 7.795659E-7 | 1.0 | 0.0 | 1.8988985E-6 | 3.3409924E-6 | 3.3409924E-6 | 1.0 | 0.0 | 2.3118844E-5 | 4.0675826E-5 | 4.0675826E-5 | 1.0 | 0.0 | 2.3116439E-4 | 4.2265613E-4 | 4.2265613E-4 | 1.0 | 0.0 |
+| 7.7 | 3.639119E-7 | 6.364851E-7 | 6.364851E-7 | 1.0 | 0.0 | 1.5596215E-6 | 2.7277902E-6 | 2.7277902E-6 | 1.0 | 0.0 | 1.8988227E-5 | 3.321034E-5 | 3.321034E-5 | 1.0 | 0.0 | 1.8986604E-4 | 3.473951E-4 | 3.473951E-4 | 1.0 | 0.0 |
+| 7.8 | 3.1152942E-7 | 5.4832236E-7 | 5.4832236E-7 | 1.0 | 0.0 | 1.3351254E-6 | 2.3499508E-6 | 2.3499508E-6 | 1.0 | 0.0 | 1.6255031E-5 | 2.8610279E-5 | 2.8610279E-5 | 1.0 | 0.0 | 1.6253842E-4 | 2.9812948E-4 | 2.9812948E-4 | 1.0 | 0.0 |
+| 7.9 | 1.8035962E-7 | 3.7236998E-7 | 3.7236998E-7 | 1.0 | 0.0 | 7.729696E-7 | 1.5958703E-6 | 1.5958703E-6 | 1.0 | 0.0 | 9.410865E-6 | 1.9429548E-5 | 1.9429548E-5 | 1.0 | 0.0 | 9.410465E-5 | 2.0096921E-4 | 2.0096921E-4 | 1.0 | 0.0 |
+| 8.0 | 9.279334E-8 | 1.97213E-7 | 1.97213E-7 | 1.0 | 0.0 | 3.976857E-7 | 8.451983E-7 | 8.451983E-7 | 1.0 | 0.0 | 4.841813E-6 | 1.0290241E-5 | 1.0290241E-5 | 1.0 | 0.0 | 4.841707E-5 | 1.0541637E-4 | 1.0541637E-4 | 1.0 | 0.0 |
+| 8.1 | 5.9253985E-8 | 1.18657304E-7 | 1.18657304E-7 | 1.0 | 0.0 | 2.5394561E-7 | 5.0853123E-7 | 5.0853123E-7 | 1.0 | 0.0 | 3.0917836E-6 | 6.1913506E-6 | 6.1913506E-6 | 1.0 | 0.0 | 3.0917407E-5 | 6.329667E-5 | 6.329667E-5 | 1.0 | 0.0 |
+
+## Santa Susana alt 1
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Santa_Susana_alt_1_1wk.png) | ![MPD](Santa_Susana_alt_1_1mo.png) | ![MPD](Santa_Susana_alt_1_1yr.png) | ![MPD](Santa_Susana_alt_1_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 2.674877E-5 | 2.7199834E-5 | 2.7199834E-5 | 1.0 | 0.0 | 1.1463255E-4 | 1.1656615E-4 | 1.1656615E-4 | 1.0 | 0.0 | 0.0013947578 | 0.0014183826 | 0.0014183826 | 1.0 | 0.0 | 0.013860362 | 0.014105062 | 0.014114921 | 1.0006989 | 1.0E-5 |
+| 6.1 | 2.674877E-5 | 2.7199834E-5 | 2.7199834E-5 | 1.0 | 0.0 | 1.1463255E-4 | 1.1656615E-4 | 1.1656615E-4 | 1.0 | 0.0 | 0.0013947578 | 0.0014183826 | 0.0014183826 | 1.0 | 0.0 | 0.013860362 | 0.014105062 | 0.014114921 | 1.0006989 | 1.0E-5 |
+| 6.2 | 2.674877E-5 | 2.7199834E-5 | 2.7199834E-5 | 1.0 | 0.0 | 1.1463255E-4 | 1.1656615E-4 | 1.1656615E-4 | 1.0 | 0.0 | 0.0013947578 | 0.0014183826 | 0.0014183826 | 1.0 | 0.0 | 0.013860362 | 0.014105062 | 0.014114921 | 1.0006989 | 1.0E-5 |
+| 6.3 | 2.674877E-5 | 2.7199834E-5 | 2.7199834E-5 | 1.0 | 0.0 | 1.1463255E-4 | 1.1656615E-4 | 1.1656615E-4 | 1.0 | 0.0 | 0.0013947578 | 0.0014183826 | 0.0014183826 | 1.0 | 0.0 | 0.013860362 | 0.014105062 | 0.014114921 | 1.0006989 | 1.0E-5 |
+| 6.4 | 2.674877E-5 | 2.7199834E-5 | 2.7199834E-5 | 1.0 | 0.0 | 1.1463255E-4 | 1.1656615E-4 | 1.1656615E-4 | 1.0 | 0.0 | 0.0013947578 | 0.0014183826 | 0.0014183826 | 1.0 | 0.0 | 0.013860362 | 0.014105062 | 0.014114921 | 1.0006989 | 1.0E-5 |
+| 6.5 | 2.674877E-5 | 2.7199834E-5 | 2.7199834E-5 | 1.0 | 0.0 | 1.1463255E-4 | 1.1656615E-4 | 1.1656615E-4 | 1.0 | 0.0 | 0.0013947578 | 0.0014183826 | 0.0014183826 | 1.0 | 0.0 | 0.013860362 | 0.014105062 | 0.014114921 | 1.0006989 | 1.0E-5 |
+| 6.6 | 2.6647976E-5 | 2.7076161E-5 | 2.7076161E-5 | 1.0 | 0.0 | 1.14200615E-4 | 1.1603617E-4 | 1.1603617E-4 | 1.0 | 0.0 | 0.0013895056 | 0.0014119387 | 0.0014119387 | 1.0 | 0.0 | 0.013808494 | 0.014041442 | 0.014051301 | 1.0007021 | 1.0E-5 |
+| 6.7 | 2.6647976E-5 | 2.7076161E-5 | 2.7076161E-5 | 1.0 | 0.0 | 1.14200615E-4 | 1.1603617E-4 | 1.1603617E-4 | 1.0 | 0.0 | 0.0013895056 | 0.0014119387 | 0.0014119387 | 1.0 | 0.0 | 0.013808494 | 0.014041442 | 0.014051301 | 1.0007021 | 1.0E-5 |
+| 6.8 | 1.9073179E-5 | 1.7638224E-5 | 1.7638224E-5 | 1.0 | 0.0 | 8.1739636E-5 | 7.5590295E-5 | 7.5590295E-5 | 1.0 | 0.0 | 9.947256E-4 | 9.199414E-4 | 9.199414E-4 | 1.0 | 0.0 | 0.009902848 | 0.009163587 | 0.009173496 | 1.0010812 | 1.0E-5 |
+| 6.9 | 1.9041876E-5 | 1.7620354E-5 | 1.7620354E-5 | 1.0 | 0.0 | 8.160549E-5 | 7.5513715E-5 | 7.5513715E-5 | 1.0 | 0.0 | 9.930939E-4 | 9.1900985E-4 | 9.1900985E-4 | 1.0 | 0.0 | 0.0098866755 | 0.009154348 | 0.009164256 | 1.0010824 | 1.0E-5 |
+| 7.0 | 1.5917482E-5 | 1.3864503E-5 | 1.3864503E-5 | 1.0 | 0.0 | 6.8215995E-5 | 5.941797E-5 | 5.941797E-5 | 1.0 | 0.0 | 8.302132E-4 | 7.231783E-4 | 7.231783E-4 | 1.0 | 0.0 | 0.008271185 | 0.007209145 | 0.007219073 | 1.0013771 | 1.0E-5 |
+| 7.1 | 1.577788E-5 | 1.3744504E-5 | 1.3744504E-5 | 1.0 | 0.0 | 6.761774E-5 | 5.8903715E-5 | 5.8903715E-5 | 1.0 | 0.0 | 8.2293496E-4 | 7.169214E-4 | 7.169214E-4 | 1.0 | 0.0 | 0.008198941 | 0.0071469797 | 0.007156908 | 1.0013891 | 1.0E-5 |
+| 7.2 | 1.5416446E-5 | 1.3470562E-5 | 1.3470562E-5 | 1.0 | 0.0 | 6.606882E-5 | 5.7729732E-5 | 5.7729732E-5 | 1.0 | 0.0 | 8.0409093E-4 | 7.026374E-4 | 7.026374E-4 | 1.0 | 0.0 | 0.008011877 | 0.007005044 | 0.007014974 | 1.0014175 | 1.0E-5 |
+| 7.3 | 1.4534083E-5 | 1.2718447E-5 | 1.2718447E-5 | 1.0 | 0.0 | 6.228744E-5 | 5.4506516E-5 | 5.4506516E-5 | 1.0 | 0.0 | 7.580857E-4 | 6.634192E-4 | 6.634192E-4 | 1.0 | 0.0 | 0.007555048 | 0.0066152387 | 0.0066251727 | 1.0015017 | 1.0E-5 |
+| 7.4 | 1.2858995E-5 | 1.1230124E-5 | 1.1230124E-5 | 1.0 | 0.0 | 5.5108816E-5 | 4.8128237E-5 | 4.8128237E-5 | 1.0 | 0.0 | 6.7074323E-4 | 5.8580766E-4 | 5.8580766E-4 | 1.0 | 0.0 | 0.0066872234 | 0.00584341 | 0.005853351 | 1.0017014 | 1.0E-5 |
+| 7.5 | 8.827668E-6 | 7.805684E-6 | 7.805684E-6 | 1.0 | 0.0 | 3.7832317E-5 | 3.3452518E-5 | 3.3452518E-5 | 1.0 | 0.0 | 4.605111E-4 | 4.0721073E-4 | 4.0721073E-4 | 1.0 | 0.0 | 0.0045955796 | 0.0040648943 | 0.004074854 | 1.0024501 | 1.0E-5 |
+| 7.6 | 3.2533426E-6 | 2.8720442E-6 | 2.8720442E-6 | 1.0 | 0.0 | 1.3942822E-5 | 1.2308705E-5 | 1.2308705E-5 | 1.0 | 0.0 | 1.6974064E-4 | 1.4984855E-4 | 1.4984855E-4 | 1.0 | 0.0 | 0.0016961104 | 0.0014975119 | 0.0014975119 | 1.0 | 0.0 |
+| 7.7 | 1.2751709E-6 | 1.1491394E-6 | 1.1491394E-6 | 1.0 | 0.0 | 5.4650063E-6 | 4.9248742E-6 | 4.9248742E-6 | 1.0 | 0.0 | 6.653442E-5 | 5.9958787E-5 | 5.9958787E-5 | 1.0 | 0.0 | 6.6514505E-4 | 5.99435E-4 | 5.99435E-4 | 1.0 | 0.0 |
+| 7.8 | 3.067544E-7 | 3.240123E-7 | 3.240123E-7 | 1.0 | 0.0 | 1.3146611E-6 | 1.3886234E-6 | 1.3886234E-6 | 1.0 | 0.0 | 1.600588E-5 | 1.690637E-5 | 1.690637E-5 | 1.0 | 0.0 | 1.6004729E-4 | 1.6905185E-4 | 1.6905185E-4 | 1.0 | 0.0 |
+| 7.9 | 7.622999E-8 | 8.088155E-8 | 8.088155E-8 | 1.0 | 0.0 | 3.2669993E-7 | 3.4663518E-7 | 3.4663518E-7 | 1.0 | 0.0 | 3.977564E-6 | 4.2202773E-6 | 4.2202773E-6 | 1.0 | 0.0 | 3.977493E-5 | 4.220218E-5 | 4.220218E-5 | 1.0 | 0.0 |
+
+## Great Valley 07 (Orestimba)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Great_Valley_07_Orestimba_1wk.png) | ![MPD](Great_Valley_07_Orestimba_1mo.png) | ![MPD](Great_Valley_07_Orestimba_1yr.png) | ![MPD](Great_Valley_07_Orestimba_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 2.9687902E-5 | 3.275876E-5 | 3.275876E-5 | 1.0 | 0.0 | 1.2722766E-4 | 1.4038754E-4 | 1.4038754E-4 | 1.0 | 0.0 | 0.0015478961 | 0.00170795 | 0.001717933 | 1.005845 | 1.0E-5 | 0.015371585 | 0.016955782 | 0.016965613 | 1.0005797 | 1.0E-5 |
+| 6.1 | 2.9687902E-5 | 3.275876E-5 | 3.275876E-5 | 1.0 | 0.0 | 1.2722766E-4 | 1.4038754E-4 | 1.4038754E-4 | 1.0 | 0.0 | 0.0015478961 | 0.00170795 | 0.001717933 | 1.005845 | 1.0E-5 | 0.015371585 | 0.016955782 | 0.016965613 | 1.0005797 | 1.0E-5 |
+| 6.2 | 1.9231524E-5 | 2.1159954E-5 | 2.1159954E-5 | 1.0 | 0.0 | 8.2418206E-5 | 9.068249E-5 | 9.068249E-5 | 1.0 | 0.0 | 0.0010029797 | 0.0011035233 | 0.0011135123 | 1.0090519 | 1.0E-5 | 0.00998465 | 0.010982848 | 0.0109927375 | 1.0009005 | 1.0E-5 |
+| 6.3 | 1.324766E-5 | 1.4549064E-5 | 1.4549064E-5 | 1.0 | 0.0 | 5.6774446E-5 | 6.23517E-5 | 6.23517E-5 | 1.0 | 0.0 | 6.910097E-4 | 7.588766E-4 | 7.6886907E-4 | 1.0131674 | 1.0E-5 | 0.006888649 | 0.0075637987 | 0.007573723 | 1.0013121 | 1.0E-5 |
+| 6.4 | 7.818645E-6 | 8.573147E-6 | 8.573147E-6 | 1.0 | 0.0 | 3.3508048E-5 | 3.674156E-5 | 3.674156E-5 | 1.0 | 0.0 | 4.078841E-4 | 4.4724008E-4 | 4.5723558E-4 | 1.0223494 | 1.0E-5 | 0.004071363 | 0.00446374 | 0.0044736955 | 1.0022303 | 1.0E-5 |
+| 6.5 | 5.3076565E-6 | 5.8180085E-6 | 5.8180085E-6 | 1.0 | 0.0 | 2.27469E-5 | 2.4934096E-5 | 2.4934096E-5 | 1.0 | 0.0 | 2.7690834E-4 | 3.0353243E-4 | 3.0353243E-4 | 1.0 | 0.0 | 0.0027656353 | 0.003031388 | 0.003031388 | 1.0 | 0.0 |
+| 6.6 | 3.6003578E-6 | 3.948637E-6 | 3.948637E-6 | 1.0 | 0.0 | 1.5430012E-5 | 1.692263E-5 | 1.692263E-5 | 1.0 | 0.0 | 1.8784421E-4 | 2.060151E-4 | 2.060151E-4 | 1.0 | 0.0 | 0.0018768552 | 0.0020583952 | 0.0020583952 | 1.0 | 0.0 |
+| 6.7 | 2.5361826E-6 | 2.7835688E-6 | 2.7835688E-6 | 1.0 | 0.0 | 1.0869308E-5 | 1.1929533E-5 | 1.1929533E-5 | 1.0 | 0.0 | 1.3232579E-4 | 1.452337E-4 | 1.452337E-4 | 1.0 | 0.0 | 0.0013224703 | 0.0014515179 | 0.0014515179 | 1.0 | 0.0 |
+| 6.8 | 1.2115831E-6 | 1.3314287E-6 | 1.3314287E-6 | 1.0 | 0.0 | 5.1924885E-6 | 5.706116E-6 | 5.706116E-6 | 1.0 | 0.0 | 6.3216714E-5 | 6.947072E-5 | 6.947072E-5 | 1.0 | 0.0 | 6.3198735E-4 | 6.945851E-4 | 6.945851E-4 | 1.0 | 0.0 |
+
+## San Luis Range - Oceano 2011 CFM
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](San_Luis_Range_Oceano_2011_CFM_1wk.png) | ![MPD](San_Luis_Range_Oceano_2011_CFM_1mo.png) | ![MPD](San_Luis_Range_Oceano_2011_CFM_1yr.png) | ![MPD](San_Luis_Range_Oceano_2011_CFM_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.6025788E-6 | 1.6201255E-6 | 1.6201255E-6 | 1.0 | 0.0 | 6.8681766E-6 | 6.943379E-6 | 6.943379E-6 | 1.0 | 0.0 | 8.361684E-5 | 8.4532774E-5 | 9.453193E-5 | 1.1182873 | 1.0E-5 | 8.3585386E-4 | 8.45047E-4 | 8.550386E-4 | 1.0118237 | 1.0E-5 |
+| 6.1 | 1.6025788E-6 | 1.6201255E-6 | 1.6201255E-6 | 1.0 | 0.0 | 6.8681766E-6 | 6.943379E-6 | 6.943379E-6 | 1.0 | 0.0 | 8.361684E-5 | 8.4532774E-5 | 9.453193E-5 | 1.1182873 | 1.0E-5 | 8.3585386E-4 | 8.45047E-4 | 8.550386E-4 | 1.0118237 | 1.0E-5 |
+| 6.2 | 1.6025788E-6 | 1.6201255E-6 | 1.6201255E-6 | 1.0 | 0.0 | 6.8681766E-6 | 6.943379E-6 | 6.943379E-6 | 1.0 | 0.0 | 8.361684E-5 | 8.4532774E-5 | 9.453193E-5 | 1.1182873 | 1.0E-5 | 8.3585386E-4 | 8.45047E-4 | 8.550386E-4 | 1.0118237 | 1.0E-5 |
+| 6.3 | 1.6025788E-6 | 1.6201255E-6 | 1.6201255E-6 | 1.0 | 0.0 | 6.8681766E-6 | 6.943379E-6 | 6.943379E-6 | 1.0 | 0.0 | 8.361684E-5 | 8.4532774E-5 | 9.453193E-5 | 1.1182873 | 1.0E-5 | 8.3585386E-4 | 8.45047E-4 | 8.550386E-4 | 1.0118237 | 1.0E-5 |
+| 6.4 | 1.1621186E-6 | 1.1749943E-6 | 1.1749943E-6 | 1.0 | 0.0 | 4.980499E-6 | 5.0356816E-6 | 5.0356816E-6 | 1.0 | 0.0 | 6.0635884E-5 | 6.130797E-5 | 7.130735E-5 | 1.163101 | 1.0E-5 | 6.0619344E-4 | 6.1293715E-4 | 6.2293105E-4 | 1.0163049 | 1.0E-5 |
+| 6.5 | 1.1621186E-6 | 1.1749943E-6 | 1.1749943E-6 | 1.0 | 0.0 | 4.980499E-6 | 5.0356816E-6 | 5.0356816E-6 | 1.0 | 0.0 | 6.0635884E-5 | 6.130797E-5 | 7.130735E-5 | 1.163101 | 1.0E-5 | 6.0619344E-4 | 6.1293715E-4 | 6.2293105E-4 | 1.0163049 | 1.0E-5 |
+| 6.6 | 7.164729E-7 | 7.2486097E-7 | 7.2486097E-7 | 1.0 | 0.0 | 3.0705946E-6 | 3.1065435E-6 | 3.1065435E-6 | 1.0 | 0.0 | 3.738385E-5 | 3.7821526E-5 | 3.7821526E-5 | 1.0 | 0.0 | 3.737756E-4 | 3.7815268E-4 | 3.7815268E-4 | 1.0 | 0.0 |
+| 6.7 | 7.164729E-7 | 7.2486097E-7 | 7.2486097E-7 | 1.0 | 0.0 | 3.0705946E-6 | 3.1065435E-6 | 3.1065435E-6 | 1.0 | 0.0 | 3.738385E-5 | 3.7821526E-5 | 3.7821526E-5 | 1.0 | 0.0 | 3.737756E-4 | 3.7815268E-4 | 3.7815268E-4 | 1.0 | 0.0 |
+| 6.8 | 6.700177E-7 | 6.7774687E-7 | 6.7774687E-7 | 1.0 | 0.0 | 2.8715012E-6 | 2.9046264E-6 | 2.9046264E-6 | 1.0 | 0.0 | 3.495997E-5 | 3.5363268E-5 | 3.5363268E-5 | 1.0 | 0.0 | 3.495447E-4 | 3.5357804E-4 | 3.5357804E-4 | 1.0 | 0.0 |
+| 6.9 | 5.657865E-7 | 5.72181E-7 | 5.72181E-7 | 1.0 | 0.0 | 2.424797E-6 | 2.4522024E-6 | 2.4522024E-6 | 1.0 | 0.0 | 2.9521503E-5 | 2.9855164E-5 | 2.9855164E-5 | 1.0 | 0.0 | 2.9517582E-4 | 2.985126E-4 | 2.985126E-4 | 1.0 | 0.0 |
+| 7.0 | 4.608413E-7 | 4.6601886E-7 | 4.6601886E-7 | 1.0 | 0.0 | 1.9750328E-6 | 1.9972222E-6 | 1.9972222E-6 | 1.0 | 0.0 | 2.4045758E-5 | 2.4315912E-5 | 2.4315912E-5 | 1.0 | 0.0 | 2.4043156E-4 | 2.431328E-4 | 2.431328E-4 | 1.0 | 0.0 |
+| 7.1 | 3.9177846E-7 | 3.962177E-7 | 3.962177E-7 | 1.0 | 0.0 | 1.6790494E-6 | 1.6980748E-6 | 1.6980748E-6 | 1.0 | 0.0 | 2.0442236E-5 | 2.0673866E-5 | 2.0673866E-5 | 1.0 | 0.0 | 2.0440355E-4 | 2.0671957E-4 | 2.0671957E-4 | 1.0 | 0.0 |
+| 7.2 | 3.3974752E-7 | 3.4366678E-7 | 3.4366678E-7 | 1.0 | 0.0 | 1.45606E-6 | 1.4728568E-6 | 1.4728568E-6 | 1.0 | 0.0 | 1.7727387E-5 | 1.7931885E-5 | 1.7931885E-5 | 1.0 | 0.0 | 1.7725973E-4 | 1.793045E-4 | 1.793045E-4 | 1.0 | 0.0 |
+| 7.3 | 2.8900928E-7 | 2.9234144E-7 | 2.9234144E-7 | 1.0 | 0.0 | 1.2386106E-6 | 1.2528913E-6 | 1.2528913E-6 | 1.0 | 0.0 | 1.5079979E-5 | 1.5253845E-5 | 1.5253845E-5 | 1.0 | 0.0 | 1.5078956E-4 | 1.5252807E-4 | 1.5252807E-4 | 1.0 | 0.0 |
+| 7.4 | 2.1881527E-7 | 2.2139692E-7 | 2.2139692E-7 | 1.0 | 0.0 | 9.3777936E-7 | 9.488436E-7 | 9.488436E-7 | 1.0 | 0.0 | 1.14174045E-5 | 1.155211E-5 | 1.155211E-5 | 1.0 | 0.0 | 1.1416818E-4 | 1.1551515E-4 | 1.1551515E-4 | 1.0 | 0.0 |
+| 7.5 | 1.356398E-7 | 1.3718697E-7 | 1.3718697E-7 | 1.0 | 0.0 | 5.813133E-7 | 5.8794404E-7 | 5.8794404E-7 | 1.0 | 0.0 | 7.0774663E-6 | 7.1581953E-6 | 7.1581953E-6 | 1.0 | 0.0 | 7.077241E-5 | 7.157968E-5 | 7.157968E-5 | 1.0 | 0.0 |
+| 7.6 | 5.9269272E-8 | 6.0013924E-8 | 6.0013924E-8 | 1.0 | 0.0 | 2.5401116E-7 | 2.5720252E-7 | 2.5720252E-7 | 1.0 | 0.0 | 3.0925814E-6 | 3.1314362E-6 | 3.1314362E-6 | 1.0 | 0.0 | 3.0925385E-5 | 3.131393E-5 | 3.131393E-5 | 1.0 | 0.0 |
+| 7.7 | 5.946232E-9 | 6.036962E-9 | 6.036962E-9 | 1.0 | 0.0 | 2.5483851E-8 | 2.5872696E-8 | 2.5872696E-8 | 1.0 | 0.0 | 3.1026585E-7 | 3.1500002E-7 | 3.1500002E-7 | 1.0 | 0.0 | 3.102654E-6 | 3.1499967E-6 | 3.1499967E-6 | 1.0 | 0.0 |
 
 ## Superstition Hills
 *[(top)](#table-of-contents)*
@@ -4964,134 +4601,231 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.1 | 2.3749135E-6 | 2.921983E-6 | 2.921983E-6 | 1.0 | 0.0 | 1.0178161E-5 | 1.2522726E-5 | 1.2522726E-5 | 1.0 | 0.0 | 1.2391206E-4 | 1.5245394E-4 | 1.6245242E-4 | 1.0655836 | 1.0E-5 | 0.0012384299 | 0.0016073589 | 0.0016173428 | 1.0062114 | 1.0E-5 |
 | 8.2 | 1.7186406E-9 | 1.146511E-9 | 1.146511E-9 | 1.0 | 0.0 | 7.3656024E-9 | 4.9136184E-9 | 4.9136184E-9 | 1.0 | 0.0 | 8.9676206E-8 | 5.982331E-8 | 5.982331E-8 | 1.0 | 0.0 | 8.9676166E-7 | 6.402274E-7 | 6.402274E-7 | 1.0 | 0.0 |
 
-## Gillem - Big Crack 2011 CFM
+## Johnson Valley (No) 2011 rev
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Gillem_Big_Crack_2011_CFM_1wk.png) | ![MPD](Gillem_Big_Crack_2011_CFM_1mo.png) | ![MPD](Gillem_Big_Crack_2011_CFM_1yr.png) | ![MPD](Gillem_Big_Crack_2011_CFM_10yr.png) |
+| ![MPD](Johnson_Valley_No_2011_rev_1wk.png) | ![MPD](Johnson_Valley_No_2011_rev_1mo.png) | ![MPD](Johnson_Valley_No_2011_rev_1yr.png) | ![MPD](Johnson_Valley_No_2011_rev_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.196852E-5 | 2.3605138E-5 | 2.3605138E-5 | 1.0 | 0.0 | 9.4147406E-5 | 1.0116146E-4 | 1.0116146E-4 | 1.0 | 0.0 | 0.0011456419 | 0.0012310338 | 0.0012310338 | 1.0 | 0.0 | 0.011397537 | 0.012251006 | 0.012260884 | 1.0008062 | 1.0E-5 |
-| 6.1 | 9.992795E-6 | 1.0712176E-5 | 1.0712176E-5 | 1.0 | 0.0 | 4.2825563E-5 | 4.5908622E-5 | 4.5908622E-5 | 1.0 | 0.0 | 5.2127644E-4 | 5.5881246E-4 | 5.5881246E-4 | 1.0 | 0.0 | 0.0052005537 | 0.005575883 | 0.005575883 | 1.0 | 0.0 |
-| 6.2 | 9.992795E-6 | 1.0712176E-5 | 1.0712176E-5 | 1.0 | 0.0 | 4.2825563E-5 | 4.5908622E-5 | 4.5908622E-5 | 1.0 | 0.0 | 5.2127644E-4 | 5.5881246E-4 | 5.5881246E-4 | 1.0 | 0.0 | 0.0052005537 | 0.005575883 | 0.005575883 | 1.0 | 0.0 |
-| 6.3 | 4.6127884E-6 | 4.942788E-6 | 4.942788E-6 | 1.0 | 0.0 | 1.9768944E-5 | 2.1183232E-5 | 2.1183232E-5 | 1.0 | 0.0 | 2.406603E-4 | 2.578798E-4 | 2.578798E-4 | 1.0 | 0.0 | 0.0024039985 | 0.0025762434 | 0.0025762434 | 1.0 | 0.0 |
-| 6.4 | 4.6127884E-6 | 4.942788E-6 | 4.942788E-6 | 1.0 | 0.0 | 1.9768944E-5 | 2.1183232E-5 | 2.1183232E-5 | 1.0 | 0.0 | 2.406603E-4 | 2.578798E-4 | 2.578798E-4 | 1.0 | 0.0 | 0.0024039985 | 0.0025762434 | 0.0025762434 | 1.0 | 0.0 |
-| 6.5 | 2.716712E-6 | 2.9111889E-6 | 2.9111889E-6 | 1.0 | 0.0 | 1.1643E-5 | 1.2476477E-5 | 1.2476477E-5 | 1.0 | 0.0 | 1.417443E-4 | 1.5189295E-4 | 1.5189295E-4 | 1.0 | 0.0 | 0.0014165393 | 0.0015181294 | 0.0015181294 | 1.0 | 0.0 |
-| 6.6 | 1.3818255E-6 | 1.4821088E-6 | 1.4821088E-6 | 1.0 | 0.0 | 5.922096E-6 | 6.3518864E-6 | 6.3518864E-6 | 1.0 | 0.0 | 7.209913E-5 | 7.7332705E-5 | 7.7332705E-5 | 1.0 | 0.0 | 7.2075747E-4 | 7.731789E-4 | 7.731789E-4 | 1.0 | 0.0 |
+| 6.0 | 2.577707E-5 | 1.29015325E-5 | 1.29015325E-5 | 1.0 | 0.0 | 1.1046848E-4 | 5.5291337E-5 | 5.5291337E-5 | 1.0 | 0.0 | 0.0013441239 | 6.730038E-4 | 6.8299705E-4 | 1.0148487 | 1.0E-5 | 0.013360229 | 0.006713566 | 0.0067234985 | 1.0014795 | 1.0E-5 |
+| 6.1 | 2.577707E-5 | 1.29015325E-5 | 1.29015325E-5 | 1.0 | 0.0 | 1.1046848E-4 | 5.5291337E-5 | 5.5291337E-5 | 1.0 | 0.0 | 0.0013441239 | 6.730038E-4 | 6.8299705E-4 | 1.0148487 | 1.0E-5 | 0.013360229 | 0.006713566 | 0.0067234985 | 1.0014795 | 1.0E-5 |
+| 6.2 | 2.577707E-5 | 1.29015325E-5 | 1.29015325E-5 | 1.0 | 0.0 | 1.1046848E-4 | 5.5291337E-5 | 5.5291337E-5 | 1.0 | 0.0 | 0.0013441239 | 6.730038E-4 | 6.8299705E-4 | 1.0148487 | 1.0E-5 | 0.013360229 | 0.006713566 | 0.0067234985 | 1.0014795 | 1.0E-5 |
+| 6.3 | 2.577707E-5 | 1.29015325E-5 | 1.29015325E-5 | 1.0 | 0.0 | 1.1046848E-4 | 5.5291337E-5 | 5.5291337E-5 | 1.0 | 0.0 | 0.0013441239 | 6.730038E-4 | 6.8299705E-4 | 1.0148487 | 1.0E-5 | 0.013360229 | 0.006713566 | 0.0067234985 | 1.0014795 | 1.0E-5 |
+| 6.4 | 1.5296591E-5 | 7.5371186E-6 | 7.5371186E-6 | 1.0 | 0.0 | 6.555518E-5 | 3.2301643E-5 | 3.2301643E-5 | 1.0 | 0.0 | 7.97842E-4 | 3.9322028E-4 | 4.0321634E-4 | 1.025421 | 1.0E-5 | 0.007949836 | 0.0039270865 | 0.0039370474 | 1.0025364 | 1.0E-5 |
+| 6.5 | 1.5296591E-5 | 7.5371186E-6 | 7.5371186E-6 | 1.0 | 0.0 | 6.555518E-5 | 3.2301643E-5 | 3.2301643E-5 | 1.0 | 0.0 | 7.97842E-4 | 3.9322028E-4 | 4.0321634E-4 | 1.025421 | 1.0E-5 | 0.007949836 | 0.0039270865 | 0.0039370474 | 1.0025364 | 1.0E-5 |
+| 6.6 | 1.3289383E-5 | 5.992047E-6 | 5.992047E-6 | 1.0 | 0.0 | 5.6953253E-5 | 2.5680045E-5 | 2.5680045E-5 | 1.0 | 0.0 | 6.9318525E-4 | 3.1262665E-4 | 3.1262665E-4 | 1.0 | 0.0 | 0.0069102696 | 0.0031235332 | 0.0031235332 | 1.0 | 0.0 |
+| 6.7 | 1.3289383E-5 | 5.992047E-6 | 5.992047E-6 | 1.0 | 0.0 | 5.6953253E-5 | 2.5680045E-5 | 2.5680045E-5 | 1.0 | 0.0 | 6.9318525E-4 | 3.1262665E-4 | 3.1262665E-4 | 1.0 | 0.0 | 0.0069102696 | 0.0031235332 | 0.0031235332 | 1.0 | 0.0 |
+| 6.8 | 8.330789E-6 | 2.9213809E-6 | 2.9213809E-6 | 1.0 | 0.0 | 3.570289E-5 | 1.2520176E-5 | 1.2520176E-5 | 1.0 | 0.0 | 4.34596E-4 | 1.5242818E-4 | 1.5242818E-4 | 1.0 | 0.0 | 0.0043374705 | 0.0015237964 | 0.0015237964 | 1.0 | 0.0 |
+| 6.9 | 7.2359003E-6 | 2.301496E-6 | 2.301496E-6 | 1.0 | 0.0 | 3.1010633E-5 | 9.863546E-6 | 9.863546E-6 | 1.0 | 0.0 | 3.7748902E-4 | 1.2008739E-4 | 1.2008739E-4 | 1.0 | 0.0 | 0.0037684843 | 0.0012007479 | 0.0012007479 | 1.0 | 0.0 |
+| 7.0 | 6.5149957E-6 | 2.0886396E-6 | 2.0886396E-6 | 1.0 | 0.0 | 2.792111E-5 | 8.951311E-6 | 8.951311E-6 | 1.0 | 0.0 | 3.398865E-4 | 1.08982065E-4 | 1.08982065E-4 | 1.0 | 0.0 | 0.003393671 | 0.0010898061 | 0.0010898061 | 1.0 | 0.0 |
+| 7.1 | 1.1662233E-6 | 2.8807156E-8 | 2.8807156E-8 | 1.0 | 0.0 | 4.9980904E-6 | 1.2345923E-7 | 1.2345923E-7 | 1.0 | 0.0 | 6.0850052E-5 | 1.5031153E-6 | 1.5031153E-6 | 1.0 | 0.0 | 6.083339E-4 | 1.5031068E-5 | 1.5031068E-5 | 1.0 | 0.0 |
+| 7.2 | 5.413881E-7 | 2.8807156E-8 | 2.8807156E-8 | 1.0 | 0.0 | 2.3202326E-6 | 1.2345923E-7 | 1.2345923E-7 | 1.0 | 0.0 | 2.8248465E-5 | 1.5031153E-6 | 1.5031153E-6 | 1.0 | 0.0 | 2.8244875E-4 | 1.5031068E-5 | 1.5031068E-5 | 1.0 | 0.0 |
+| 7.3 | 5.076821E-7 | 2.8807156E-8 | 2.8807156E-8 | 1.0 | 0.0 | 2.1757785E-6 | 1.2345923E-7 | 1.2345923E-7 | 1.0 | 0.0 | 2.648978E-5 | 1.5031153E-6 | 1.5031153E-6 | 1.0 | 0.0 | 2.6486625E-4 | 1.5031068E-5 | 1.5031068E-5 | 1.0 | 0.0 |
+| 7.4 | 4.7568687E-7 | 2.8789072E-8 | 2.8789072E-8 | 1.0 | 0.0 | 2.0386565E-6 | 1.2338174E-7 | 1.2338174E-7 | 1.0 | 0.0 | 2.482036E-5 | 1.5021717E-6 | 1.5021717E-6 | 1.0 | 0.0 | 2.4817587E-4 | 1.5021632E-5 | 1.5021632E-5 | 1.0 | 0.0 |
+| 7.5 | 3.435626E-7 | 2.5361997E-8 | 2.5361997E-8 | 1.0 | 0.0 | 1.4724103E-6 | 1.08694266E-7 | 1.08694266E-7 | 1.0 | 0.0 | 1.7926448E-5 | 1.3233521E-6 | 1.3233521E-6 | 1.0 | 0.0 | 1.7925001E-4 | 1.3233458E-5 | 1.3233458E-5 | 1.0 | 0.0 |
 
-## Hayward (So) 2011 CFM
+## Butano 2011 CFM
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Hayward_So_2011_CFM_1wk.png) | ![MPD](Hayward_So_2011_CFM_1mo.png) | ![MPD](Hayward_So_2011_CFM_1yr.png) | ![MPD](Hayward_So_2011_CFM_10yr.png) |
+| ![MPD](Butano_2011_CFM_1wk.png) | ![MPD](Butano_2011_CFM_1mo.png) | ![MPD](Butano_2011_CFM_1yr.png) | ![MPD](Butano_2011_CFM_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.8091932E-4 | 3.5716876E-4 | 3.5716876E-4 | 1.0 | 0.0 | 7.751381E-4 | 0.0015298353 | 0.0015298353 | 1.0 | 0.0 | 0.00939654 | 0.018469084 | 0.018469084 | 1.0 | 0.0 | 0.090090066 | 0.1667761 | 0.16678444 | 1.00005 | 1.0E-5 |
-| 6.1 | 1.8091932E-4 | 3.5716876E-4 | 3.5716876E-4 | 1.0 | 0.0 | 7.751381E-4 | 0.0015298353 | 0.0015298353 | 1.0 | 0.0 | 0.00939654 | 0.018469084 | 0.018469084 | 1.0 | 0.0 | 0.090090066 | 0.1667761 | 0.16678444 | 1.00005 | 1.0E-5 |
-| 6.2 | 1.8091932E-4 | 3.5716876E-4 | 3.5716876E-4 | 1.0 | 0.0 | 7.751381E-4 | 0.0015298353 | 0.0015298353 | 1.0 | 0.0 | 0.00939654 | 0.018469084 | 0.018469084 | 1.0 | 0.0 | 0.090090066 | 0.1667761 | 0.16678444 | 1.00005 | 1.0E-5 |
-| 6.3 | 1.7322872E-4 | 3.427354E-4 | 3.427354E-4 | 1.0 | 0.0 | 7.4219756E-4 | 0.0014680488 | 0.0014680488 | 1.0 | 0.0 | 0.0089988755 | 0.017729288 | 0.017729288 | 1.0 | 0.0 | 0.08643075 | 0.16071117 | 0.16071956 | 1.0000522 | 1.0E-5 |
-| 6.4 | 1.6334097E-4 | 3.2355002E-4 | 3.2355002E-4 | 1.0 | 0.0 | 6.998449E-4 | 0.0013859147 | 0.0013859147 | 1.0 | 0.0 | 0.008487372 | 0.016744977 | 0.016744977 | 1.0 | 0.0 | 0.081704415 | 0.15259907 | 0.15260755 | 1.0000556 | 1.0E-5 |
-| 6.5 | 1.5600289E-4 | 3.1029453E-4 | 3.1029453E-4 | 1.0 | 0.0 | 6.684125E-4 | 0.0013291643 | 0.0013291643 | 1.0 | 0.0 | 0.008107598 | 0.016064392 | 0.016064392 | 1.0 | 0.0 | 0.078181036 | 0.1468751 | 0.14688364 | 1.000058 | 1.0E-5 |
-| 6.6 | 1.4046066E-4 | 2.8043045E-4 | 2.8043045E-4 | 1.0 | 0.0 | 6.018354E-4 | 0.001201298 | 0.001201298 | 1.0 | 0.0 | 0.0073027555 | 0.014529222 | 0.014529222 | 1.0 | 0.0 | 0.07067384 | 0.13396107 | 0.13396974 | 1.0000646 | 1.0E-5 |
-| 6.7 | 1.14696966E-4 | 2.328075E-4 | 2.328075E-4 | 1.0 | 0.0 | 4.914658E-4 | 9.973701E-4 | 9.973701E-4 | 1.0 | 0.0 | 0.0059671924 | 0.012076436 | 0.012076436 | 1.0 | 0.0 | 0.058094822 | 0.11278556 | 0.11279443 | 1.0000787 | 1.0E-5 |
-| 6.8 | 9.3874296E-5 | 1.8869406E-4 | 1.8869406E-4 | 1.0 | 0.0 | 4.0225635E-4 | 8.084419E-4 | 8.084419E-4 | 1.0 | 0.0 | 0.0048864787 | 0.009799094 | 0.009799094 | 1.0 | 0.0 | 0.047804173 | 0.092632905 | 0.09264198 | 1.000098 | 1.0E-5 |
-| 6.9 | 5.551852E-5 | 1.0735069E-4 | 1.0735069E-4 | 1.0 | 0.0 | 2.3791482E-4 | 4.5999384E-4 | 4.5999384E-4 | 1.0 | 0.0 | 0.0028927654 | 0.0055861627 | 0.0055861627 | 1.0 | 0.0 | 0.028553981 | 0.054271217 | 0.054280676 | 1.0001743 | 1.0E-5 |
-| 7.0 | 4.2662363E-5 | 8.251254E-5 | 8.251254E-5 | 1.0 | 0.0 | 1.8282588E-4 | 3.5357763E-4 | 3.5357763E-4 | 1.0 | 0.0 | 0.0022236328 | 0.0042963843 | 0.0042963843 | 1.0 | 0.0 | 0.022015138 | 0.042087104 | 0.042096686 | 1.0002276 | 1.0E-5 |
-| 7.1 | 3.305886E-5 | 6.306136E-5 | 6.306136E-5 | 1.0 | 0.0 | 1.4167312E-4 | 2.7023506E-4 | 2.7023506E-4 | 1.0 | 0.0 | 0.0017235056 | 0.003285167 | 0.003285167 | 1.0 | 0.0 | 0.017101998 | 0.03247311 | 0.032482784 | 1.0002979 | 1.0E-5 |
-| 7.2 | 2.9856887E-5 | 5.7054312E-5 | 5.7054312E-5 | 1.0 | 0.0 | 1.2795182E-4 | 2.4449566E-4 | 2.4449566E-4 | 1.0 | 0.0 | 0.0015567001 | 0.002972688 | 0.002972688 | 1.0 | 0.0 | 0.015458403 | 0.029473132 | 0.029482836 | 1.0003293 | 1.0E-5 |
-| 7.3 | 2.4559737E-5 | 4.602505E-5 | 4.602505E-5 | 1.0 | 0.0 | 1.0525176E-4 | 1.9723538E-4 | 1.9723538E-4 | 1.0 | 0.0 | 0.0012806869 | 0.002398709 | 0.002398709 | 1.0 | 0.0 | 0.012733313 | 0.023874132 | 0.023883894 | 1.0004089 | 1.0E-5 |
-| 7.4 | 1.9002231E-5 | 3.5078727E-5 | 3.5078727E-5 | 1.0 | 0.0 | 8.143559E-5 | 1.503288E-4 | 1.503288E-4 | 1.0 | 0.0 | 9.910273E-4 | 0.0018287265 | 0.0018287265 | 1.0 | 0.0 | 0.009866194 | 0.01827278 | 0.01827278 | 1.0 | 0.0 |
-| 7.5 | 1.2783333E-5 | 2.3353385E-5 | 2.3353385E-5 | 1.0 | 0.0 | 5.4784563E-5 | 1.0008213E-4 | 1.0008213E-4 | 1.0 | 0.0 | 6.667979E-4 | 0.0012178246 | 0.0012178246 | 1.0 | 0.0 | 0.006648007 | 0.012221164 | 0.012221164 | 1.0 | 0.0 |
-| 7.6 | 4.8149627E-6 | 8.895181E-6 | 8.895181E-6 | 1.0 | 0.0 | 2.063539E-5 | 3.8121656E-5 | 3.8121656E-5 | 1.0 | 0.0 | 2.5120692E-4 | 4.6403354E-4 | 4.6403354E-4 | 1.0 | 0.0 | 0.0025092314 | 0.004684996 | 0.004684996 | 1.0 | 0.0 |
-| 7.7 | 6.0838227E-7 | 1.2073158E-6 | 1.2073158E-6 | 1.0 | 0.0 | 2.6073499E-6 | 5.1742E-6 | 5.1742E-6 | 1.0 | 0.0 | 3.174402E-5 | 6.299407E-5 | 6.299407E-5 | 1.0 | 0.0 | 3.1739488E-4 | 6.5373274E-4 | 6.5373274E-4 | 1.0 | 0.0 |
-| 7.8 | 4.5542808E-7 | 9.806538E-7 | 9.806538E-7 | 1.0 | 0.0 | 1.9518332E-6 | 4.202795E-6 | 4.202795E-6 | 1.0 | 0.0 | 2.376331E-5 | 5.1167834E-5 | 5.1167834E-5 | 1.0 | 0.0 | 2.3760769E-4 | 5.3283205E-4 | 5.3283205E-4 | 1.0 | 0.0 |
-| 7.9 | 3.3016747E-7 | 7.396889E-7 | 7.396889E-7 | 1.0 | 0.0 | 1.4150027E-6 | 3.1700913E-6 | 3.1700913E-6 | 1.0 | 0.0 | 1.7227521E-5 | 3.8595183E-5 | 3.8595183E-5 | 1.0 | 0.0 | 1.7226185E-4 | 3.9981655E-4 | 3.9981655E-4 | 1.0 | 0.0 |
-| 8.0 | 2.347038E-7 | 5.4788046E-7 | 5.4788046E-7 | 1.0 | 0.0 | 1.0058731E-6 | 2.3480568E-6 | 2.3480568E-6 | 1.0 | 0.0 | 1.2246436E-5 | 2.858722E-5 | 2.858722E-5 | 1.0 | 0.0 | 1.2245761E-4 | 2.9390416E-4 | 2.9390416E-4 | 1.0 | 0.0 |
-| 8.1 | 1.18822804E-7 | 2.6091143E-7 | 2.6091143E-7 | 1.0 | 0.0 | 5.092405E-7 | 1.1181913E-6 | 1.1181913E-6 | 1.0 | 0.0 | 6.1999854E-6 | 1.3613895E-5 | 1.3613895E-5 | 1.0 | 0.0 | 6.199812E-5 | 1.39336E-4 | 1.39336E-4 | 1.0 | 0.0 |
+| 6.0 | 9.561135E-6 | 6.228287E-6 | 6.228287E-6 | 1.0 | 0.0 | 4.097565E-5 | 2.6692396E-5 | 2.6692396E-5 | 1.0 | 0.0 | 4.9876433E-4 | 3.2493367E-4 | 3.3493043E-4 | 1.0307655 | 1.0E-5 | 0.004976464 | 0.0032622605 | 0.0032722277 | 1.0030553 | 1.0E-5 |
+| 6.1 | 9.561135E-6 | 6.228287E-6 | 6.228287E-6 | 1.0 | 0.0 | 4.097565E-5 | 2.6692396E-5 | 2.6692396E-5 | 1.0 | 0.0 | 4.9876433E-4 | 3.2493367E-4 | 3.3493043E-4 | 1.0307655 | 1.0E-5 | 0.004976464 | 0.0032622605 | 0.0032722277 | 1.0030553 | 1.0E-5 |
+| 6.2 | 8.364741E-6 | 4.9813525E-6 | 4.9813525E-6 | 1.0 | 0.0 | 3.5848396E-5 | 2.1348487E-5 | 2.1348487E-5 | 1.0 | 0.0 | 4.3636683E-4 | 2.5988842E-4 | 2.5988842E-4 | 1.0 | 0.0 | 0.0043551093 | 0.0026134674 | 0.0026134674 | 1.0 | 0.0 |
+| 6.3 | 8.364741E-6 | 4.9813525E-6 | 4.9813525E-6 | 1.0 | 0.0 | 3.5848396E-5 | 2.1348487E-5 | 2.1348487E-5 | 1.0 | 0.0 | 4.3636683E-4 | 2.5988842E-4 | 2.5988842E-4 | 1.0 | 0.0 | 0.0043551093 | 0.0026134674 | 0.0026134674 | 1.0 | 0.0 |
+| 6.4 | 7.768282E-6 | 4.3592904E-6 | 4.3592904E-6 | 1.0 | 0.0 | 3.329221E-5 | 1.8682545E-5 | 1.8682545E-5 | 1.0 | 0.0 | 4.0525728E-4 | 2.2743763E-4 | 2.2743763E-4 | 1.0 | 0.0 | 0.0040451903 | 0.002289656 | 0.002289656 | 1.0 | 0.0 |
+| 6.5 | 7.673437E-6 | 4.2588513E-6 | 4.2588513E-6 | 1.0 | 0.0 | 3.2885746E-5 | 1.82521E-5 | 1.82521E-5 | 1.0 | 0.0 | 4.0031038E-4 | 2.22198E-4 | 2.22198E-4 | 1.0 | 0.0 | 0.0039959005 | 0.0022373653 | 0.0022373653 | 1.0 | 0.0 |
+| 6.6 | 7.5244197E-6 | 4.103811E-6 | 4.103811E-6 | 1.0 | 0.0 | 3.2247113E-5 | 1.758765E-5 | 1.758765E-5 | 1.0 | 0.0 | 3.9253788E-4 | 2.1410994E-4 | 2.1410994E-4 | 1.0 | 0.0 | 0.003918452 | 0.0021566437 | 0.0021566437 | 1.0 | 0.0 |
+| 6.7 | 6.4921405E-6 | 3.0438493E-6 | 3.0438493E-6 | 1.0 | 0.0 | 2.7823162E-5 | 1.30450035E-5 | 1.30450035E-5 | 1.0 | 0.0 | 3.3869434E-4 | 1.5881142E-4 | 1.5881142E-4 | 1.0 | 0.0 | 0.003381786 | 0.0016044728 | 0.0016044728 | 1.0 | 0.0 |
+| 6.8 | 6.2890294E-6 | 2.8306097E-6 | 2.8306097E-6 | 1.0 | 0.0 | 2.6952705E-5 | 1.2131128E-5 | 1.2131128E-5 | 1.0 | 0.0 | 3.2809976E-4 | 1.4768656E-4 | 1.4768656E-4 | 1.0 | 0.0 | 0.0032761577 | 0.0014933785 | 0.0014933785 | 1.0 | 0.0 |
+| 6.9 | 6.0965517E-6 | 2.6371163E-6 | 2.6371163E-6 | 1.0 | 0.0 | 2.6127816E-5 | 1.1301878E-5 | 1.1301878E-5 | 1.0 | 0.0 | 3.1805973E-4 | 1.3759173E-4 | 1.3759173E-4 | 1.0 | 0.0 | 0.0031760489 | 0.0013925604 | 0.0013925604 | 1.0 | 0.0 |
+| 7.0 | 5.566252E-6 | 2.1544965E-6 | 2.1544965E-6 | 1.0 | 0.0 | 2.3855147E-5 | 9.233524E-6 | 9.233524E-6 | 1.0 | 0.0 | 2.9039773E-4 | 1.12412396E-4 | 1.12412396E-4 | 1.0 | 0.0 | 0.0029001853 | 0.0011410478 | 0.0011410478 | 1.0 | 0.0 |
+| 7.1 | 3.878588E-6 | 1.6055053E-6 | 1.6055053E-6 | 1.0 | 0.0 | 1.6622414E-5 | 6.8807185E-6 | 6.8807185E-6 | 1.0 | 0.0 | 2.023591E-4 | 8.376953E-5 | 8.376953E-5 | 1.0 | 0.0 | 0.0020217493 | 8.544741E-4 | 8.544741E-4 | 1.0 | 0.0 |
+| 7.2 | 3.7038085E-6 | 1.4865388E-6 | 1.4865388E-6 | 1.0 | 0.0 | 1.587337E-5 | 6.370865E-6 | 6.370865E-6 | 1.0 | 0.0 | 1.9324113E-4 | 7.756252E-5 | 7.756252E-5 | 1.0 | 0.0 | 0.0019307317 | 7.92417E-4 | 7.92417E-4 | 1.0 | 0.0 |
+| 7.3 | 3.5277278E-6 | 1.3946282E-6 | 1.3946282E-6 | 1.0 | 0.0 | 1.5118746E-5 | 5.9769636E-6 | 5.9769636E-6 | 1.0 | 0.0 | 1.8405518E-4 | 7.276711E-5 | 7.276711E-5 | 1.0 | 0.0 | 0.0018390282 | 7.444085E-4 | 7.444085E-4 | 1.0 | 0.0 |
+| 7.4 | 3.3711294E-6 | 1.3318496E-6 | 1.3318496E-6 | 1.0 | 0.0 | 1.4447617E-5 | 5.707914E-6 | 5.707914E-6 | 1.0 | 0.0 | 1.7588554E-4 | 6.9491645E-5 | 6.9491645E-5 | 1.0 | 0.0 | 0.0017574639 | 7.1162294E-4 | 7.1162294E-4 | 1.0 | 0.0 |
+| 7.5 | 3.0496426E-6 | 1.2207621E-6 | 1.2207621E-6 | 1.0 | 0.0 | 1.3069831E-5 | 5.231827E-6 | 5.231827E-6 | 1.0 | 0.0 | 1.5911358E-4 | 6.369563E-5 | 6.369563E-5 | 1.0 | 0.0 | 0.001589997 | 6.536299E-4 | 6.536299E-4 | 1.0 | 0.0 |
+| 7.6 | 2.2179781E-6 | 8.887138E-7 | 8.887138E-7 | 1.0 | 0.0 | 9.505586E-6 | 3.8087678E-6 | 3.8087678E-6 | 1.0 | 0.0 | 1.1572436E-4 | 4.637076E-5 | 4.637076E-5 | 1.0 | 0.0 | 0.0011566412 | 4.803627E-4 | 4.803627E-4 | 1.0 | 0.0 |
+| 7.7 | 1.7519328E-6 | 6.9454455E-7 | 6.9454455E-7 | 1.0 | 0.0 | 7.508262E-6 | 2.976616E-6 | 2.976616E-6 | 1.0 | 0.0 | 9.140925E-5 | 3.6239697E-5 | 3.6239697E-5 | 1.0 | 0.0 | 9.137166E-4 | 3.783575E-4 | 3.783575E-4 | 1.0 | 0.0 |
+| 7.8 | 1.1478974E-6 | 6.1872794E-7 | 6.1872794E-7 | 1.0 | 0.0 | 4.9195505E-6 | 2.6516884E-6 | 2.6516884E-6 | 1.0 | 0.0 | 5.9893882E-5 | 3.2283828E-5 | 3.2283828E-5 | 1.0 | 0.0 | 5.9877743E-4 | 3.384712E-4 | 3.384712E-4 | 1.0 | 0.0 |
+| 7.9 | 6.1154634E-7 | 5.5932884E-7 | 5.5932884E-7 | 1.0 | 0.0 | 2.6209104E-6 | 2.3971213E-6 | 2.3971213E-6 | 1.0 | 0.0 | 3.1909116E-5 | 2.918456E-5 | 2.918456E-5 | 1.0 | 0.0 | 3.1904536E-4 | 3.062421E-4 | 3.062421E-4 | 1.0 | 0.0 |
+| 8.0 | 4.6520046E-7 | 5.199789E-7 | 5.199789E-7 | 1.0 | 0.0 | 1.9937147E-6 | 2.2284792E-6 | 2.2284792E-6 | 1.0 | 0.0 | 2.4273206E-5 | 2.7131397E-5 | 2.7131397E-5 | 1.0 | 0.0 | 2.4270554E-4 | 2.8473893E-4 | 2.8473893E-4 | 1.0 | 0.0 |
+| 8.1 | 2.8425194E-7 | 3.0630198E-7 | 3.0630198E-7 | 1.0 | 0.0 | 1.218222E-6 | 1.3127221E-6 | 1.3127221E-6 | 1.0 | 0.0 | 1.4831752E-5 | 1.5982274E-5 | 1.5982274E-5 | 1.0 | 0.0 | 1.4830762E-4 | 1.6771963E-4 | 1.6771963E-4 | 1.0 | 0.0 |
+| 8.2 | 5.585778E-8 | 4.0623355E-8 | 4.0623355E-8 | 1.0 | 0.0 | 2.3939046E-7 | 1.7410008E-7 | 1.7410008E-7 | 1.0 | 0.0 | 2.914575E-6 | 2.1196665E-6 | 2.1196665E-6 | 1.0 | 0.0 | 2.9145367E-5 | 2.3030867E-5 | 2.3030867E-5 | 1.0 | 0.0 |
+| 8.3 | 1.0371215E-10 | 5.3720917E-11 | 5.3720917E-11 | 1.0 | 0.0 | 4.4448079E-10 | 2.3023239E-10 | 2.3023239E-10 | 1.0 | 0.0 | 5.4115543E-9 | 2.80308E-9 | 2.80308E-9 | 1.0 | 0.0 | 5.4115542E-8 | 3.2236333E-8 | 3.2236333E-8 | 1.0 | 0.0 |
 
-## Calaveras (Central) 2011 CFM
+## Elsinore (Julian)
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Calaveras_Central_2011_CFM_1wk.png) | ![MPD](Calaveras_Central_2011_CFM_1mo.png) | ![MPD](Calaveras_Central_2011_CFM_1yr.png) | ![MPD](Calaveras_Central_2011_CFM_10yr.png) |
+| ![MPD](Elsinore_Julian_1wk.png) | ![MPD](Elsinore_Julian_1mo.png) | ![MPD](Elsinore_Julian_1yr.png) | ![MPD](Elsinore_Julian_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.5010907E-4 | 2.4796682E-4 | 2.4796682E-4 | 1.0 | 0.0 | 6.4316596E-4 | 0.001062293 | 0.001062293 | 1.0 | 0.0 | 0.0078024664 | 0.012855953 | 0.012855953 | 1.0 | 0.0 | 0.07534136 | 0.12045383 | 0.120462626 | 1.0000731 | 1.0E-5 |
-| 6.1 | 1.4521465E-4 | 2.3960386E-4 | 2.3960386E-4 | 1.0 | 0.0 | 6.222001E-4 | 0.001026482 | 0.001026482 | 1.0 | 0.0 | 0.0075490056 | 0.012425177 | 0.012425177 | 1.0 | 0.0 | 0.07297657 | 0.11672533 | 0.11673416 | 1.0000757 | 1.0E-5 |
-| 6.2 | 1.429998E-4 | 2.3891544E-4 | 2.3891544E-4 | 1.0 | 0.0 | 6.127123E-4 | 0.001023534 | 0.001023534 | 1.0 | 0.0 | 0.007434286 | 0.012389729 | 0.012389729 | 1.0 | 0.0 | 0.07190444 | 0.116378844 | 0.11638768 | 1.0000759 | 1.0E-5 |
-| 6.3 | 1.3536277E-4 | 2.3222562E-4 | 2.3222562E-4 | 1.0 | 0.0 | 5.799972E-4 | 9.948855E-4 | 9.948855E-4 | 1.0 | 0.0 | 0.0070386264 | 0.0120457765 | 0.0120457765 | 1.0 | 0.0 | 0.0681982 | 0.11329023 | 0.113299094 | 1.0000783 | 1.0E-5 |
-| 6.4 | 1.2993296E-4 | 2.2645849E-4 | 2.2645849E-4 | 1.0 | 0.0 | 5.5673666E-4 | 9.701878E-4 | 9.701878E-4 | 1.0 | 0.0 | 0.006757223 | 0.011748457 | 0.011748457 | 1.0 | 0.0 | 0.06555412 | 0.11056722 | 0.11057611 | 1.0000805 | 1.0E-5 |
-| 6.5 | 1.0498927E-4 | 1.7992541E-4 | 1.7992541E-4 | 1.0 | 0.0 | 4.498764E-4 | 7.7088235E-4 | 7.7088235E-4 | 1.0 | 0.0 | 0.005463498 | 0.009344838 | 0.009344838 | 1.0 | 0.0 | 0.053311124 | 0.08924731 | 0.08925641 | 1.000102 | 1.0E-5 |
-| 6.6 | 1.0157505E-4 | 1.7479967E-4 | 1.7479967E-4 | 1.0 | 0.0 | 4.35249E-4 | 7.4892765E-4 | 7.4892765E-4 | 1.0 | 0.0 | 0.0052862884 | 0.009079857 | 0.009079857 | 1.0 | 0.0 | 0.05162293 | 0.0868246 | 0.08683374 | 1.0001051 | 1.0E-5 |
-| 6.7 | 9.660386E-5 | 1.6739183E-4 | 1.6739183E-4 | 1.0 | 0.0 | 4.1395082E-4 | 7.1719754E-4 | 7.1719754E-4 | 1.0 | 0.0 | 0.0050282106 | 0.008696722 | 0.008696722 | 1.0 | 0.0 | 0.049159497 | 0.083313726 | 0.08332289 | 1.00011 | 1.0E-5 |
-| 6.8 | 9.089927E-5 | 1.565333E-4 | 1.565333E-4 | 1.0 | 0.0 | 3.8951015E-4 | 6.7068555E-4 | 6.7068555E-4 | 1.0 | 0.0 | 0.0047319788 | 0.008134782 | 0.008134782 | 1.0 | 0.0 | 0.046324775 | 0.07820561 | 0.078214824 | 1.0001179 | 1.0E-5 |
-| 6.9 | 7.353187E-5 | 1.2304155E-4 | 1.2304155E-4 | 1.0 | 0.0 | 3.150985E-4 | 5.272149E-4 | 5.272149E-4 | 1.0 | 0.0 | 0.0038295772 | 0.0064000706 | 0.0064000706 | 1.0 | 0.0 | 0.037642512 | 0.06222852 | 0.0622379 | 1.0001507 | 1.0E-5 |
-| 7.0 | 5.746064E-5 | 9.3970615E-5 | 9.3970615E-5 | 1.0 | 0.0 | 2.4623662E-4 | 4.026694E-4 | 4.026694E-4 | 1.0 | 0.0 | 0.0029938098 | 0.004891551 | 0.004891551 | 1.0 | 0.0 | 0.02953797 | 0.048025973 | 0.04803549 | 1.0001982 | 1.0E-5 |
-| 7.1 | 4.9557195E-5 | 8.058512E-5 | 8.058512E-5 | 1.0 | 0.0 | 2.123707E-4 | 3.4531942E-4 | 3.4531942E-4 | 1.0 | 0.0 | 0.0025825473 | 0.004196222 | 0.004196222 | 1.0 | 0.0 | 0.0255274 | 0.041402142 | 0.041411728 | 1.0002315 | 1.0E-5 |
-| 7.2 | 3.687595E-5 | 5.9582813E-5 | 5.9582813E-5 | 1.0 | 0.0 | 1.5803022E-4 | 2.553301E-4 | 2.553301E-4 | 1.0 | 0.0 | 0.0019223199 | 0.0031042416 | 0.0031042416 | 1.0 | 0.0 | 0.01905776 | 0.030912044 | 0.030921733 | 1.0003135 | 1.0E-5 |
-| 7.3 | 2.5846984E-5 | 4.25232E-5 | 4.25232E-5 | 1.0 | 0.0 | 1.1076809E-4 | 1.8222965E-4 | 1.8222965E-4 | 1.0 | 0.0 | 0.0013477671 | 0.002216406 | 0.002216406 | 1.0 | 0.0 | 0.013396223 | 0.022200705 | 0.022210484 | 1.0004405 | 1.0E-5 |
-| 7.4 | 1.7747854E-5 | 2.995814E-5 | 2.995814E-5 | 1.0 | 0.0 | 7.6060016E-5 | 1.2838573E-4 | 1.2838573E-4 | 1.0 | 0.0 | 9.2563726E-4 | 0.0015619784 | 0.0015619784 | 1.0 | 0.0 | 0.009217911 | 0.015719919 | 0.015719919 | 1.0 | 0.0 |
-| 7.5 | 1.4883479E-5 | 2.626427E-5 | 2.626427E-5 | 1.0 | 0.0 | 6.378478E-5 | 1.1255632E-4 | 1.1255632E-4 | 1.0 | 0.0 | 7.76303E-4 | 0.0013695145 | 0.0013695145 | 1.0 | 0.0 | 0.0077359667 | 0.013812616 | 0.013812616 | 1.0 | 0.0 |
-| 7.6 | 8.166975E-6 | 1.4980282E-5 | 1.4980282E-5 | 1.0 | 0.0 | 3.5000852E-5 | 6.419963E-5 | 6.419963E-5 | 1.0 | 0.0 | 4.2605202E-4 | 7.813516E-4 | 7.813516E-4 | 1.0 | 0.0 | 0.004252361 | 0.007948079 | 0.007948079 | 1.0 | 0.0 |
-| 7.7 | 3.3858064E-6 | 6.2639187E-6 | 6.2639187E-6 | 1.0 | 0.0 | 1.4510518E-5 | 2.684509E-5 | 2.684509E-5 | 1.0 | 0.0 | 1.7665124E-4 | 3.2679E-4 | 3.2679E-4 | 1.0 | 0.0 | 0.0017651088 | 0.0033931618 | 0.0033931618 | 1.0 | 0.0 |
-| 7.8 | 2.7721615E-6 | 5.374935E-6 | 5.374935E-6 | 1.0 | 0.0 | 1.1880637E-5 | 2.3035233E-5 | 2.3035233E-5 | 1.0 | 0.0 | 1.4463716E-4 | 2.804179E-4 | 2.804179E-4 | 1.0 | 0.0 | 0.0014454306 | 0.0029116636 | 0.0029116636 | 1.0 | 0.0 |
-| 7.9 | 1.9736292E-6 | 4.134639E-6 | 4.134639E-6 | 1.0 | 0.0 | 8.4583835E-6 | 1.771976E-5 | 1.771976E-5 | 1.0 | 0.0 | 1.0297595E-4 | 2.1571676E-4 | 2.1571676E-4 | 1.0 | 0.0 | 0.0010292825 | 0.0022266437 | 0.0022266437 | 1.0 | 0.0 |
-| 8.0 | 1.1767289E-6 | 2.5581394E-6 | 2.5581394E-6 | 1.0 | 0.0 | 5.0431145E-6 | 1.0963409E-5 | 1.0963409E-5 | 1.0 | 0.0 | 6.139818E-5 | 1.3347136E-4 | 1.3347136E-4 | 1.0 | 0.0 | 6.1381224E-4 | 0.0013678768 | 0.0013678768 | 1.0 | 0.0 |
-| 8.1 | 7.5112825E-7 | 1.5431651E-6 | 1.5431651E-6 | 1.0 | 0.0 | 3.2191172E-6 | 6.613548E-6 | 6.613548E-6 | 1.0 | 0.0 | 3.9192048E-5 | 8.051699E-5 | 8.051699E-5 | 1.0 | 0.0 | 3.9185135E-4 | 8.24639E-4 | 8.24639E-4 | 1.0 | 0.0 |
+| 6.0 | 1.1710231E-5 | 8.846432E-6 | 8.846432E-6 | 1.0 | 0.0 | 5.0185736E-5 | 3.7912738E-5 | 3.7912738E-5 | 1.0 | 0.0 | 6.1084004E-4 | 4.6149152E-4 | 4.6149152E-4 | 1.0 | 0.0 | 0.006091637 | 0.0046055363 | 0.0046154903 | 1.0021613 | 1.0E-5 |
+| 6.1 | 1.1710231E-5 | 8.846432E-6 | 8.846432E-6 | 1.0 | 0.0 | 5.0185736E-5 | 3.7912738E-5 | 3.7912738E-5 | 1.0 | 0.0 | 6.1084004E-4 | 4.6149152E-4 | 4.6149152E-4 | 1.0 | 0.0 | 0.006091637 | 0.0046055363 | 0.0046154903 | 1.0021613 | 1.0E-5 |
+| 6.2 | 1.1710231E-5 | 8.846432E-6 | 8.846432E-6 | 1.0 | 0.0 | 5.0185736E-5 | 3.7912738E-5 | 3.7912738E-5 | 1.0 | 0.0 | 6.1084004E-4 | 4.6149152E-4 | 4.6149152E-4 | 1.0 | 0.0 | 0.006091637 | 0.0046055363 | 0.0046154903 | 1.0021613 | 1.0E-5 |
+| 6.3 | 1.1710231E-5 | 8.846432E-6 | 8.846432E-6 | 1.0 | 0.0 | 5.0185736E-5 | 3.7912738E-5 | 3.7912738E-5 | 1.0 | 0.0 | 6.1084004E-4 | 4.6149152E-4 | 4.6149152E-4 | 1.0 | 0.0 | 0.006091637 | 0.0046055363 | 0.0046154903 | 1.0021613 | 1.0E-5 |
+| 6.4 | 1.1710231E-5 | 8.846432E-6 | 8.846432E-6 | 1.0 | 0.0 | 5.0185736E-5 | 3.7912738E-5 | 3.7912738E-5 | 1.0 | 0.0 | 6.1084004E-4 | 4.6149152E-4 | 4.6149152E-4 | 1.0 | 0.0 | 0.006091637 | 0.0046055363 | 0.0046154903 | 1.0021613 | 1.0E-5 |
+| 6.5 | 1.1710231E-5 | 8.846432E-6 | 8.846432E-6 | 1.0 | 0.0 | 5.0185736E-5 | 3.7912738E-5 | 3.7912738E-5 | 1.0 | 0.0 | 6.1084004E-4 | 4.6149152E-4 | 4.6149152E-4 | 1.0 | 0.0 | 0.006091637 | 0.0046055363 | 0.0046154903 | 1.0021613 | 1.0E-5 |
+| 6.6 | 1.1650619E-5 | 8.778801E-6 | 8.778801E-6 | 1.0 | 0.0 | 4.993027E-5 | 3.76229E-5 | 3.76229E-5 | 1.0 | 0.0 | 6.0773146E-4 | 4.5796426E-4 | 4.5796426E-4 | 1.0 | 0.0 | 0.0060607214 | 0.004570409 | 0.004580363 | 1.002178 | 1.0E-5 |
+| 6.7 | 1.1650619E-5 | 8.778801E-6 | 8.778801E-6 | 1.0 | 0.0 | 4.993027E-5 | 3.76229E-5 | 3.76229E-5 | 1.0 | 0.0 | 6.0773146E-4 | 4.5796426E-4 | 4.5796426E-4 | 1.0 | 0.0 | 0.0060607214 | 0.004570409 | 0.004580363 | 1.002178 | 1.0E-5 |
+| 6.8 | 1.1442698E-5 | 8.561954E-6 | 8.561954E-6 | 1.0 | 0.0 | 4.9039216E-5 | 3.6693582E-5 | 3.6693582E-5 | 1.0 | 0.0 | 5.968889E-4 | 4.4665445E-4 | 4.4665445E-4 | 1.0 | 0.0 | 0.0059528816 | 0.004457769 | 0.0044677244 | 1.0022333 | 1.0E-5 |
+| 6.9 | 1.1300589E-5 | 8.409815E-6 | 8.409815E-6 | 1.0 | 0.0 | 4.8430196E-5 | 3.6041572E-5 | 3.6041572E-5 | 1.0 | 0.0 | 5.894781E-4 | 4.3871946E-4 | 4.3871946E-4 | 1.0 | 0.0 | 0.005879169 | 0.0043787337 | 0.0043886895 | 1.0022738 | 1.0E-5 |
+| 7.0 | 1.1117729E-5 | 8.2269835E-6 | 8.2269835E-6 | 1.0 | 0.0 | 4.764654E-5 | 3.5258035E-5 | 3.5258035E-5 | 1.0 | 0.0 | 5.799422E-4 | 4.2918368E-4 | 4.2918368E-4 | 1.0 | 0.0 | 0.0057843104 | 0.0042837467 | 0.004293704 | 1.0023245 | 1.0E-5 |
+| 7.1 | 1.08053955E-5 | 7.912638E-6 | 7.912638E-6 | 1.0 | 0.0 | 4.6308014E-5 | 3.391087E-5 | 3.391087E-5 | 1.0 | 0.0 | 5.6365423E-4 | 4.1278827E-4 | 4.1278827E-4 | 1.0 | 0.0 | 0.005622267 | 0.004120411 | 0.00413037 | 1.002417 | 1.0E-5 |
+| 7.2 | 1.032804E-5 | 7.433888E-6 | 7.433888E-6 | 1.0 | 0.0 | 4.4262277E-5 | 3.185914E-5 | 3.185914E-5 | 1.0 | 0.0 | 5.387599E-4 | 3.8781756E-4 | 3.8781756E-4 | 1.0 | 0.0 | 0.0053745564 | 0.0038715953 | 0.0038815567 | 1.0025729 | 1.0E-5 |
+| 7.3 | 9.622426E-6 | 6.898638E-6 | 6.898638E-6 | 1.0 | 0.0 | 4.1238312E-5 | 2.9565264E-5 | 2.9565264E-5 | 1.0 | 0.0 | 5.019608E-4 | 3.5989904E-4 | 3.5989904E-4 | 1.0 | 0.0 | 0.005008285 | 0.003593334 | 0.003593334 | 1.0 | 0.0 |
+| 7.4 | 9.144434E-6 | 6.4971227E-6 | 6.4971227E-6 | 1.0 | 0.0 | 3.9189843E-5 | 2.7844522E-5 | 2.7844522E-5 | 1.0 | 0.0 | 4.7703186E-4 | 3.389557E-4 | 3.389557E-4 | 1.0 | 0.0 | 0.0047600917 | 0.0033845308 | 0.0033845308 | 1.0 | 0.0 |
+| 7.5 | 7.988981E-6 | 5.4989455E-6 | 5.4989455E-6 | 1.0 | 0.0 | 3.4238044E-5 | 2.3566705E-5 | 2.3566705E-5 | 1.0 | 0.0 | 4.1676845E-4 | 2.8688813E-4 | 2.8688813E-4 | 1.0 | 0.0 | 0.0041598766 | 0.002865305 | 0.002865305 | 1.0 | 0.0 |
+| 7.6 | 6.9554876E-6 | 4.6630726E-6 | 4.6630726E-6 | 1.0 | 0.0 | 2.9808893E-5 | 1.9984449E-5 | 1.9984449E-5 | 1.0 | 0.0 | 3.6286283E-4 | 2.4328468E-4 | 2.4328468E-4 | 1.0 | 0.0 | 0.0036227088 | 0.0024302998 | 0.0024302998 | 1.0 | 0.0 |
+| 7.7 | 4.1557314E-6 | 2.3249631E-6 | 2.3249631E-6 | 1.0 | 0.0 | 1.7810156E-5 | 9.964094E-6 | 9.964094E-6 | 1.0 | 0.0 | 2.1681708E-4 | 1.2130683E-4 | 1.2130683E-4 | 1.0 | 0.0 | 0.0021660565 | 0.0012124792 | 0.0012124792 | 1.0 | 0.0 |
+| 7.8 | 2.2597293E-7 | 9.334235E-8 | 9.334235E-8 | 1.0 | 0.0 | 9.684551E-7 | 4.000386E-7 | 4.000386E-7 | 1.0 | 0.0 | 1.1790877E-5 | 4.8704624E-6 | 4.8704624E-6 | 1.0 | 0.0 | 1.17902506E-4 | 4.8703885E-5 | 4.8703885E-5 | 1.0 | 0.0 |
+| 7.9 | 6.676829E-9 | 3.440201E-9 | 3.440201E-9 | 1.0 | 0.0 | 2.861498E-8 | 1.4743717E-8 | 1.4743717E-8 | 1.0 | 0.0 | 3.4838732E-7 | 1.7950475E-7 | 1.7950475E-7 | 1.0 | 0.0 | 3.4838679E-6 | 1.7950462E-6 | 1.7950462E-6 | 1.0 | 0.0 |
 
-## Bullion Mountains
+## Casmalia 2011 CFM
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Bullion_Mountains_1wk.png) | ![MPD](Bullion_Mountains_1mo.png) | ![MPD](Bullion_Mountains_1yr.png) | ![MPD](Bullion_Mountains_10yr.png) |
+| ![MPD](Casmalia_2011_CFM_1wk.png) | ![MPD](Casmalia_2011_CFM_1mo.png) | ![MPD](Casmalia_2011_CFM_1yr.png) | ![MPD](Casmalia_2011_CFM_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.6420427E-5 | 1.4692696E-5 | 1.4692696E-5 | 1.0 | 0.0 | 7.037136E-5 | 6.2967396E-5 | 6.2967396E-5 | 1.0 | 0.0 | 8.5643446E-4 | 7.663967E-4 | 7.7638903E-4 | 1.013038 | 1.0E-5 | 0.008531413 | 0.0076413304 | 0.007651254 | 1.0012987 | 1.0E-5 |
-| 6.1 | 1.6420427E-5 | 1.4692696E-5 | 1.4692696E-5 | 1.0 | 0.0 | 7.037136E-5 | 6.2967396E-5 | 6.2967396E-5 | 1.0 | 0.0 | 8.5643446E-4 | 7.663967E-4 | 7.7638903E-4 | 1.013038 | 1.0E-5 | 0.008531413 | 0.0076413304 | 0.007651254 | 1.0012987 | 1.0E-5 |
-| 6.2 | 1.6420427E-5 | 1.4692696E-5 | 1.4692696E-5 | 1.0 | 0.0 | 7.037136E-5 | 6.2967396E-5 | 6.2967396E-5 | 1.0 | 0.0 | 8.5643446E-4 | 7.663967E-4 | 7.7638903E-4 | 1.013038 | 1.0E-5 | 0.008531413 | 0.0076413304 | 0.007651254 | 1.0012987 | 1.0E-5 |
-| 6.3 | 1.2046778E-5 | 9.862754E-6 | 9.862754E-6 | 1.0 | 0.0 | 5.1628023E-5 | 4.226839E-5 | 4.226839E-5 | 1.0 | 0.0 | 6.283899E-4 | 5.1451934E-4 | 5.245142E-4 | 1.0194256 | 1.0E-5 | 0.0062661595 | 0.0051355627 | 0.005145511 | 1.0019372 | 1.0E-5 |
-| 6.4 | 1.2046778E-5 | 9.862754E-6 | 9.862754E-6 | 1.0 | 0.0 | 5.1628023E-5 | 4.226839E-5 | 4.226839E-5 | 1.0 | 0.0 | 6.283899E-4 | 5.1451934E-4 | 5.245142E-4 | 1.0194256 | 1.0E-5 | 0.0062661595 | 0.0051355627 | 0.005145511 | 1.0019372 | 1.0E-5 |
-| 6.5 | 1.0244343E-5 | 7.879804E-6 | 7.879804E-6 | 1.0 | 0.0 | 4.390359E-5 | 3.3770266E-5 | 3.3770266E-5 | 1.0 | 0.0 | 5.343951E-4 | 4.1109612E-4 | 4.1109612E-4 | 1.0 | 0.0 | 0.005331118 | 0.0041053877 | 0.0041053877 | 1.0 | 0.0 |
-| 6.6 | 9.605408E-6 | 7.177816E-6 | 7.177816E-6 | 1.0 | 0.0 | 4.1165385E-5 | 3.076182E-5 | 3.076182E-5 | 1.0 | 0.0 | 5.010733E-4 | 3.7448117E-4 | 3.7448117E-4 | 1.0 | 0.0 | 0.00499945 | 0.0037404983 | 0.0037404983 | 1.0 | 0.0 |
-| 6.7 | 8.60418E-6 | 6.124284E-6 | 6.124284E-6 | 1.0 | 0.0 | 3.687454E-5 | 2.6246777E-5 | 2.6246777E-5 | 1.0 | 0.0 | 4.48855E-4 | 3.1952714E-4 | 3.1952714E-4 | 1.0 | 0.0 | 0.004479495 | 0.0031925894 | 0.0031925894 | 1.0 | 0.0 |
-| 6.8 | 5.187994E-6 | 2.5633144E-6 | 2.5633144E-6 | 1.0 | 0.0 | 2.223407E-5 | 1.098561E-5 | 1.098561E-5 | 1.0 | 0.0 | 2.7066618E-4 | 1.3374558E-4 | 1.3374558E-4 | 1.0 | 0.0 | 0.0027033675 | 0.0013370425 | 0.0013370425 | 1.0 | 0.0 |
-| 6.9 | 4.5302368E-6 | 2.3444445E-6 | 2.3444445E-6 | 1.0 | 0.0 | 1.9415156E-5 | 1.0047603E-5 | 1.0047603E-5 | 1.0 | 0.0 | 2.3635388E-4 | 1.2232667E-4 | 1.2232667E-4 | 1.0 | 0.0 | 0.0023610266 | 0.0012229824 | 0.0012229824 | 1.0 | 0.0 |
-| 7.0 | 3.431668E-6 | 1.6883395E-6 | 1.6883395E-6 | 1.0 | 0.0 | 1.4707065E-5 | 7.2357407E-6 | 7.2357407E-6 | 1.0 | 0.0 | 1.7904381E-4 | 8.809514E-5 | 8.809514E-5 | 1.0 | 0.0 | 0.0017889962 | 8.809514E-4 | 8.809514E-4 | 1.0 | 0.0 |
+| 6.0 | 4.1704893E-6 | 4.262535E-6 | 4.262535E-6 | 1.0 | 0.0 | 1.7873403E-5 | 1.8267881E-5 | 1.8267881E-5 | 1.0 | 0.0 | 2.1758694E-4 | 2.2238896E-4 | 2.2238896E-4 | 1.0 | 0.0 | 0.0021737402 | 0.0022216851 | 0.0022316629 | 1.0044911 | 1.0E-5 |
+| 6.1 | 4.1704893E-6 | 4.262535E-6 | 4.262535E-6 | 1.0 | 0.0 | 1.7873403E-5 | 1.8267881E-5 | 1.8267881E-5 | 1.0 | 0.0 | 2.1758694E-4 | 2.2238896E-4 | 2.2238896E-4 | 1.0 | 0.0 | 0.0021737402 | 0.0022216851 | 0.0022316629 | 1.0044911 | 1.0E-5 |
+| 6.2 | 3.457312E-6 | 3.5370697E-6 | 3.5370697E-6 | 1.0 | 0.0 | 1.4816967E-5 | 1.5158782E-5 | 1.5158782E-5 | 1.0 | 0.0 | 1.8038164E-4 | 1.8454263E-4 | 1.8454263E-4 | 1.0 | 0.0 | 0.001802353 | 0.0018439033 | 0.0018538849 | 1.0054133 | 1.0E-5 |
+| 6.3 | 3.457312E-6 | 3.5370697E-6 | 3.5370697E-6 | 1.0 | 0.0 | 1.4816967E-5 | 1.5158782E-5 | 1.5158782E-5 | 1.0 | 0.0 | 1.8038164E-4 | 1.8454263E-4 | 1.8454263E-4 | 1.0 | 0.0 | 0.001802353 | 0.0018439033 | 0.0018538849 | 1.0054133 | 1.0E-5 |
+| 6.4 | 3.0957337E-6 | 3.1692712E-6 | 3.1692712E-6 | 1.0 | 0.0 | 1.3267363E-5 | 1.358252E-5 | 1.358252E-5 | 1.0 | 0.0 | 1.6151817E-4 | 1.653547E-4 | 1.653547E-4 | 1.0 | 0.0 | 0.0016140083 | 0.0016523227 | 0.0016623063 | 1.0060421 | 1.0E-5 |
+| 6.5 | 3.0957337E-6 | 3.1692712E-6 | 3.1692712E-6 | 1.0 | 0.0 | 1.3267363E-5 | 1.358252E-5 | 1.358252E-5 | 1.0 | 0.0 | 1.6151817E-4 | 1.653547E-4 | 1.653547E-4 | 1.0 | 0.0 | 0.0016140083 | 0.0016523227 | 0.0016623063 | 1.0060421 | 1.0E-5 |
+| 6.6 | 2.9459152E-6 | 3.0166195E-6 | 3.0166195E-6 | 1.0 | 0.0 | 1.262529E-5 | 1.2928305E-5 | 1.2928305E-5 | 1.0 | 0.0 | 1.5370206E-4 | 1.5739081E-4 | 1.5739081E-4 | 1.0 | 0.0 | 0.0015359579 | 0.0015727989 | 0.0015827832 | 1.0063481 | 1.0E-5 |
+| 6.7 | 2.8634809E-6 | 2.9325163E-6 | 2.9325163E-6 | 1.0 | 0.0 | 1.2272003E-5 | 1.2567867E-5 | 1.2567867E-5 | 1.0 | 0.0 | 1.4940138E-4 | 1.5300309E-4 | 1.5300309E-4 | 1.0 | 0.0 | 0.0014930099 | 0.0015289829 | 0.0015389676 | 1.0065303 | 1.0E-5 |
+| 6.8 | 2.7999822E-6 | 2.86764E-6 | 2.86764E-6 | 1.0 | 0.0 | 1.1999869E-5 | 1.2289828E-5 | 1.2289828E-5 | 1.0 | 0.0 | 1.460886E-4 | 1.4961843E-4 | 1.4961843E-4 | 1.0 | 0.0 | 0.001459926 | 0.0014951823 | 0.0015051673 | 1.0066781 | 1.0E-5 |
+| 6.9 | 2.551052E-6 | 2.6120056E-6 | 2.6120056E-6 | 1.0 | 0.0 | 1.0933034E-5 | 1.1194262E-5 | 1.1194262E-5 | 1.0 | 0.0 | 1.3310155E-4 | 1.3628164E-4 | 1.3628164E-4 | 1.0 | 0.0 | 0.0013302186 | 0.0013619848 | 0.0013719711 | 1.0073322 | 1.0E-5 |
+| 7.0 | 2.3081875E-6 | 2.362447E-6 | 2.362447E-6 | 1.0 | 0.0 | 9.892195E-6 | 1.0124733E-5 | 1.0124733E-5 | 1.0 | 0.0 | 1.20430814E-4 | 1.2326169E-4 | 1.2326169E-4 | 1.0 | 0.0 | 0.0012036557 | 0.001231936 | 0.0012419238 | 1.0081073 | 1.0E-5 |
+| 7.1 | 2.093245E-6 | 2.1417602E-6 | 2.1417602E-6 | 1.0 | 0.0 | 8.971019E-6 | 9.178941E-6 | 9.178941E-6 | 1.0 | 0.0 | 1.09216686E-4 | 1.1174788E-4 | 1.1174788E-4 | 1.0 | 0.0 | 0.0010916302 | 0.001116919 | 0.0011269078 | 1.0089432 | 1.0E-5 |
+| 7.2 | 1.9714576E-6 | 2.0165437E-6 | 2.0165437E-6 | 1.0 | 0.0 | 8.449076E-6 | 8.6423015E-6 | 8.6423015E-6 | 1.0 | 0.0 | 1.0286264E-4 | 1.0521496E-4 | 1.0521496E-4 | 1.0 | 0.0 | 0.0010281504 | 0.0010516533 | 0.0010616428 | 1.0094988 | 1.0E-5 |
+| 7.3 | 1.6689512E-6 | 1.7047441E-6 | 1.7047441E-6 | 1.0 | 0.0 | 7.1526288E-6 | 7.306026E-6 | 7.306026E-6 | 1.0 | 0.0 | 8.7079774E-5 | 8.894724E-5 | 8.894724E-5 | 1.0 | 0.0 | 8.7045657E-4 | 8.891172E-4 | 8.991083E-4 | 1.0112371 | 1.0E-5 |
+| 7.4 | 1.4490954E-6 | 1.4779191E-6 | 1.4779191E-6 | 1.0 | 0.0 | 6.210394E-6 | 6.333924E-6 | 6.333924E-6 | 1.0 | 0.0 | 7.560892E-5 | 7.71128E-5 | 7.71128E-5 | 1.0 | 0.0 | 7.55832E-4 | 7.7086105E-4 | 7.7086105E-4 | 1.0 | 0.0 |
+| 7.5 | 1.226873E-6 | 1.2481956E-6 | 1.2481956E-6 | 1.0 | 0.0 | 5.2580162E-6 | 5.3493986E-6 | 5.3493986E-6 | 1.0 | 0.0 | 6.401447E-5 | 6.512699E-5 | 6.512699E-5 | 1.0 | 0.0 | 6.399603E-4 | 6.510795E-4 | 6.510795E-4 | 1.0 | 0.0 |
+| 7.6 | 9.2561345E-7 | 9.3621367E-7 | 9.3621367E-7 | 1.0 | 0.0 | 3.966909E-6 | 4.012338E-6 | 4.012338E-6 | 1.0 | 0.0 | 4.8296046E-5 | 4.8849128E-5 | 4.8849128E-5 | 1.0 | 0.0 | 4.828555E-4 | 4.883843E-4 | 4.883843E-4 | 1.0 | 0.0 |
+| 7.7 | 5.4367933E-7 | 5.393044E-7 | 5.393044E-7 | 1.0 | 0.0 | 2.3300522E-6 | 2.3113025E-6 | 2.3113025E-6 | 1.0 | 0.0 | 2.8368017E-5 | 2.8139746E-5 | 2.8139746E-5 | 1.0 | 0.0 | 2.8364395E-4 | 2.8136195E-4 | 2.8136195E-4 | 1.0 | 0.0 |
+| 7.8 | 1.8825742E-7 | 1.7343253E-7 | 1.7343253E-7 | 1.0 | 0.0 | 8.068173E-7 | 7.4328204E-7 | 7.4328204E-7 | 1.0 | 0.0 | 9.822956E-6 | 9.049421E-6 | 9.049421E-6 | 1.0 | 0.0 | 9.822522E-5 | 9.0490554E-5 | 9.0490554E-5 | 1.0 | 0.0 |
+| 7.9 | 6.342771E-8 | 4.6798455E-8 | 4.6798455E-8 | 1.0 | 0.0 | 2.7183304E-7 | 2.005648E-7 | 2.005648E-7 | 1.0 | 0.0 | 3.3095623E-6 | 2.4418737E-6 | 2.4418737E-6 | 1.0 | 0.0 | 3.309513E-5 | 2.4418472E-5 | 2.4418472E-5 | 1.0 | 0.0 |
+| 8.0 | 1.2574819E-8 | 6.476017E-9 | 6.476017E-9 | 1.0 | 0.0 | 5.3892084E-8 | 2.775436E-8 | 2.775436E-8 | 1.0 | 0.0 | 6.561359E-7 | 3.3790928E-7 | 3.3790928E-7 | 1.0 | 0.0 | 6.56134E-6 | 3.379088E-6 | 3.379088E-6 | 1.0 | 0.0 |
 
-## Camp Rock 2011
+## Concord 2011 CFM
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Camp_Rock_2011_1wk.png) | ![MPD](Camp_Rock_2011_1mo.png) | ![MPD](Camp_Rock_2011_1yr.png) | ![MPD](Camp_Rock_2011_10yr.png) |
+| ![MPD](Concord_2011_CFM_1wk.png) | ![MPD](Concord_2011_CFM_1mo.png) | ![MPD](Concord_2011_CFM_1yr.png) | ![MPD](Concord_2011_CFM_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.6710783E-5 | 4.250404E-6 | 4.250404E-6 | 1.0 | 0.0 | 7.161568E-5 | 1.8215893E-5 | 1.8215893E-5 | 1.0 | 0.0 | 8.7157206E-4 | 2.2175645E-4 | 2.2175645E-4 | 1.0 | 0.0 | 0.008681616 | 0.0022154045 | 0.0022253825 | 1.0045038 | 1.0E-5 |
-| 6.1 | 1.6710783E-5 | 4.250404E-6 | 4.250404E-6 | 1.0 | 0.0 | 7.161568E-5 | 1.8215893E-5 | 1.8215893E-5 | 1.0 | 0.0 | 8.7157206E-4 | 2.2175645E-4 | 2.2175645E-4 | 1.0 | 0.0 | 0.008681616 | 0.0022154045 | 0.0022253825 | 1.0045038 | 1.0E-5 |
-| 6.2 | 1.6710783E-5 | 4.250404E-6 | 4.250404E-6 | 1.0 | 0.0 | 7.161568E-5 | 1.8215893E-5 | 1.8215893E-5 | 1.0 | 0.0 | 8.7157206E-4 | 2.2175645E-4 | 2.2175645E-4 | 1.0 | 0.0 | 0.008681616 | 0.0022154045 | 0.0022253825 | 1.0045038 | 1.0E-5 |
-| 6.3 | 1.6710783E-5 | 4.250404E-6 | 4.250404E-6 | 1.0 | 0.0 | 7.161568E-5 | 1.8215893E-5 | 1.8215893E-5 | 1.0 | 0.0 | 8.7157206E-4 | 2.2175645E-4 | 2.2175645E-4 | 1.0 | 0.0 | 0.008681616 | 0.0022154045 | 0.0022253825 | 1.0045038 | 1.0E-5 |
-| 6.4 | 7.982846E-6 | 3.6822153E-6 | 3.6822153E-6 | 1.0 | 0.0 | 3.421175E-5 | 1.578083E-5 | 1.578083E-5 | 1.0 | 0.0 | 4.1644843E-4 | 1.9211501E-4 | 1.9211501E-4 | 1.0 | 0.0 | 0.0041566887 | 0.001919524 | 0.0019295049 | 1.0051997 | 1.0E-5 |
-| 6.5 | 7.982846E-6 | 3.6822153E-6 | 3.6822153E-6 | 1.0 | 0.0 | 3.421175E-5 | 1.578083E-5 | 1.578083E-5 | 1.0 | 0.0 | 4.1644843E-4 | 1.9211501E-4 | 1.9211501E-4 | 1.0 | 0.0 | 0.0041566887 | 0.001919524 | 0.0019295049 | 1.0051997 | 1.0E-5 |
-| 6.6 | 7.048869E-6 | 3.4244786E-6 | 3.4244786E-6 | 1.0 | 0.0 | 3.0209088E-5 | 1.4676256E-5 | 1.4676256E-5 | 1.0 | 0.0 | 3.677336E-4 | 1.7866908E-4 | 1.7866908E-4 | 1.0 | 0.0 | 0.0036712566 | 0.001785286 | 0.0017952682 | 1.0055914 | 1.0E-5 |
-| 6.7 | 6.987307E-6 | 3.362455E-6 | 3.362455E-6 | 1.0 | 0.0 | 2.9945259E-5 | 1.4410443E-5 | 1.4410443E-5 | 1.0 | 0.0 | 3.6452254E-4 | 1.7543334E-4 | 1.7543334E-4 | 1.0 | 0.0 | 0.0036392517 | 0.0017529795 | 0.001762962 | 1.0056946 | 1.0E-5 |
-| 6.8 | 6.3737602E-6 | 3.118021E-6 | 3.118021E-6 | 1.0 | 0.0 | 2.731583E-5 | 1.336288E-5 | 1.336288E-5 | 1.0 | 0.0 | 3.3251947E-4 | 1.626812E-4 | 1.626812E-4 | 1.0 | 0.0 | 0.0033202237 | 0.0016256497 | 0.0016356335 | 1.0061414 | 1.0E-5 |
-| 6.9 | 6.112211E-6 | 2.9332243E-6 | 2.9332243E-6 | 1.0 | 0.0 | 2.6194928E-5 | 1.2570902E-5 | 1.2570902E-5 | 1.0 | 0.0 | 3.1887658E-4 | 1.5304027E-4 | 1.5304027E-4 | 1.0 | 0.0 | 0.003184194 | 0.0015293765 | 0.0015393612 | 1.0065286 | 1.0E-5 |
-| 7.0 | 5.5140117E-6 | 2.642019E-6 | 2.642019E-6 | 1.0 | 0.0 | 2.3631264E-5 | 1.1322891E-5 | 1.1322891E-5 | 1.0 | 0.0 | 2.8767265E-4 | 1.3784773E-4 | 1.3784773E-4 | 1.0 | 0.0 | 0.0028730053 | 0.0013776475 | 0.0013876337 | 1.0072488 | 1.0E-5 |
-| 7.1 | 4.8151105E-6 | 2.1343515E-6 | 2.1343515E-6 | 1.0 | 0.0 | 2.0636026E-5 | 9.14719E-6 | 9.14719E-6 | 1.0 | 0.0 | 2.5121463E-4 | 1.11361565E-4 | 1.11361565E-4 | 1.0 | 0.0 | 0.0025093083 | 0.0011130795 | 0.0011230684 | 1.0089741 | 1.0E-5 |
-| 7.2 | 3.818335E-6 | 1.2938029E-6 | 1.2938029E-6 | 1.0 | 0.0 | 1.6364189E-5 | 5.544858E-6 | 5.544858E-6 | 1.0 | 0.0 | 1.9921579E-4 | 6.750664E-5 | 6.750664E-5 | 1.0 | 0.0 | 0.0019903728 | 6.748696E-4 | 6.748696E-4 | 1.0 | 0.0 |
-| 7.3 | 2.7166698E-6 | 7.3840425E-7 | 7.3840425E-7 | 1.0 | 0.0 | 1.1642818E-5 | 3.164586E-6 | 3.164586E-6 | 1.0 | 0.0 | 1.4174209E-4 | 3.8528175E-5 | 3.8528175E-5 | 1.0 | 0.0 | 0.0014165172 | 3.8521693E-4 | 3.8521693E-4 | 1.0 | 0.0 |
-| 7.4 | 2.0893426E-6 | 5.4622075E-7 | 5.4622075E-7 | 1.0 | 0.0 | 8.954295E-6 | 2.340944E-6 | 2.340944E-6 | 1.0 | 0.0 | 1.0901308E-4 | 2.8500626E-5 | 2.8500626E-5 | 1.0 | 0.0 | 0.0010895962 | 2.8497024E-4 | 2.8497024E-4 | 1.0 | 0.0 |
-| 7.5 | 1.1681728E-6 | 3.6032552E-7 | 3.6032552E-7 | 1.0 | 0.0 | 5.0064455E-6 | 1.5442513E-6 | 1.5442513E-6 | 1.0 | 0.0 | 6.0951766E-5 | 1.8801102E-5 | 1.8801102E-5 | 1.0 | 0.0 | 6.093505E-4 | 1.8799558E-4 | 1.8799558E-4 | 1.0 | 0.0 |
-| 7.6 | 1.3154387E-7 | 7.119984E-8 | 7.119984E-8 | 1.0 | 0.0 | 5.6375933E-7 | 3.0514218E-7 | 3.0514218E-7 | 1.0 | 0.0 | 6.863748E-6 | 3.7151012E-6 | 3.7151012E-6 | 1.0 | 0.0 | 6.863536E-5 | 3.715055E-5 | 3.715055E-5 | 1.0 | 0.0 |
+| 6.0 | 5.7865112E-5 | 9.759591E-5 | 9.759591E-5 | 1.0 | 0.0 | 2.4796976E-4 | 4.182017E-4 | 4.182017E-4 | 1.0 | 0.0 | 0.0030148525 | 0.0050796377 | 0.005089587 | 1.0019586 | 1.0E-5 | 0.029742775 | 0.0492507 | 0.049260207 | 1.000193 | 1.0E-5 |
+| 6.1 | 5.7865112E-5 | 9.759591E-5 | 9.759591E-5 | 1.0 | 0.0 | 2.4796976E-4 | 4.182017E-4 | 4.182017E-4 | 1.0 | 0.0 | 0.0030148525 | 0.0050796377 | 0.005089587 | 1.0019586 | 1.0E-5 | 0.029742775 | 0.0492507 | 0.049260207 | 1.000193 | 1.0E-5 |
+| 6.2 | 5.6789337E-5 | 9.5799136E-5 | 9.5799136E-5 | 1.0 | 0.0 | 2.4336016E-4 | 4.1050368E-4 | 4.1050368E-4 | 1.0 | 0.0 | 0.0029588845 | 0.004986345 | 0.004996295 | 1.0019954 | 1.0E-5 | 0.029197963 | 0.04836717 | 0.048376683 | 1.0001967 | 1.0E-5 |
+| 6.3 | 5.203322E-5 | 8.803288E-5 | 8.803288E-5 | 1.0 | 0.0 | 2.2298045E-4 | 3.772336E-4 | 3.772336E-4 | 1.0 | 0.0 | 0.0027114071 | 0.004583931 | 0.004593885 | 1.0021715 | 1.0E-5 | 0.026785625 | 0.04453783 | 0.044547386 | 1.0002146 | 1.0E-5 |
+| 6.4 | 4.7120942E-5 | 7.8976125E-5 | 7.8976125E-5 | 1.0 | 0.0 | 2.0193127E-4 | 3.3842938E-4 | 3.3842938E-4 | 1.0 | 0.0 | 0.0024557412 | 0.0041133384 | 0.004123297 | 1.0024211 | 1.0E-5 | 0.024287801 | 0.040066537 | 0.040076133 | 1.0002396 | 1.0E-5 |
+| 6.5 | 2.9598437E-5 | 4.6676185E-5 | 4.6676185E-5 | 1.0 | 0.0 | 1.2684427E-4 | 2.0002664E-4 | 2.0002664E-4 | 1.0 | 0.0 | 0.001543235 | 0.0024328148 | 0.0024328148 | 1.0 | 0.0 | 0.015325619 | 0.02391063 | 0.02391063 | 1.0 | 0.0 |
+| 6.6 | 2.0443718E-5 | 2.9985338E-5 | 2.9985338E-5 | 1.0 | 0.0 | 8.7613E-5 | 1.2850246E-4 | 1.2850246E-4 | 1.0 | 0.0 | 0.0010661662 | 0.001563431 | 0.001563431 | 1.0 | 0.0 | 0.010610655 | 0.015467506 | 0.015467506 | 1.0 | 0.0 |
+| 6.7 | 1.798539E-5 | 2.5558318E-5 | 2.5558318E-5 | 1.0 | 0.0 | 7.7077966E-5 | 1.09531175E-4 | 1.09531175E-4 | 1.0 | 0.0 | 9.380202E-4 | 0.0013327477 | 0.0013327477 | 1.0 | 0.0 | 0.009340706 | 0.01321791 | 0.01321791 | 1.0 | 0.0 |
+| 6.8 | 1.613555E-5 | 2.1960052E-5 | 2.1960052E-5 | 1.0 | 0.0 | 6.915052E-5 | 9.4111194E-5 | 9.4111194E-5 | 1.0 | 0.0 | 8.4158237E-4 | 0.0011452155 | 0.0011452155 | 1.0 | 0.0 | 0.008384023 | 0.011378636 | 0.011378636 | 1.0 | 0.0 |
+| 6.9 | 1.2916435E-5 | 1.708176E-5 | 1.708176E-5 | 1.0 | 0.0 | 5.5354973E-5 | 7.320553E-5 | 7.320553E-5 | 1.0 | 0.0 | 6.7373837E-4 | 8.9091866E-4 | 8.9091866E-4 | 1.0 | 0.0 | 0.006716994 | 0.008867503 | 0.008867503 | 1.0 | 0.0 |
+| 7.0 | 9.81129E-6 | 1.2631425E-5 | 1.2631425E-5 | 1.0 | 0.0 | 4.2047708E-5 | 5.4133565E-5 | 5.4133565E-5 | 1.0 | 0.0 | 5.118106E-4 | 6.588785E-4 | 6.588785E-4 | 1.0 | 0.0 | 0.005106334 | 0.0065694614 | 0.0065694614 | 1.0 | 0.0 |
+| 7.1 | 8.0889195E-6 | 1.0418796E-5 | 1.0418796E-5 | 1.0 | 0.0 | 3.4666336E-5 | 4.465122E-5 | 4.465122E-5 | 1.0 | 0.0 | 4.219809E-4 | 5.4349407E-4 | 5.4349407E-4 | 1.0 | 0.0 | 0.004211805 | 0.005421875 | 0.005421875 | 1.0 | 0.0 |
+| 7.2 | 6.267438E-6 | 8.116162E-6 | 8.116162E-6 | 1.0 | 0.0 | 2.6860173E-5 | 3.478309E-5 | 3.478309E-5 | 1.0 | 0.0 | 3.2697353E-4 | 4.2340258E-4 | 4.2340258E-4 | 1.0 | 0.0 | 0.0032649285 | 0.0042262096 | 0.0042262096 | 1.0 | 0.0 |
+| 7.3 | 3.6761196E-6 | 4.8405195E-6 | 4.8405195E-6 | 1.0 | 0.0 | 1.5754704E-5 | 2.074492E-5 | 2.074492E-5 | 1.0 | 0.0 | 1.9179663E-4 | 2.5254034E-4 | 2.5254034E-4 | 1.0 | 0.0 | 0.0019163118 | 0.0025226711 | 0.0025226711 | 1.0 | 0.0 |
+| 7.4 | 2.8044356E-6 | 3.7099376E-6 | 3.7099376E-6 | 1.0 | 0.0 | 1.2018954E-5 | 1.5899635E-5 | 1.5899635E-5 | 1.0 | 0.0 | 1.4632095E-4 | 1.9356099E-4 | 1.9356099E-4 | 1.0 | 0.0 | 0.0014622464 | 0.0019340221 | 0.0019340221 | 1.0 | 0.0 |
+| 7.5 | 2.4578699E-6 | 3.2450537E-6 | 3.2450537E-6 | 1.0 | 0.0 | 1.0533685E-5 | 1.3907299E-5 | 1.3907299E-5 | 1.0 | 0.0 | 1.2824008E-4 | 1.6930832E-4 | 1.6930832E-4 | 1.0 | 0.0 | 0.0012816609 | 0.001691874 | 0.001691874 | 1.0 | 0.0 |
+| 7.6 | 1.7713267E-6 | 2.3352432E-6 | 2.3352432E-6 | 1.0 | 0.0 | 7.591378E-6 | 1.0008148E-5 | 1.0008148E-5 | 1.0 | 0.0 | 9.2421105E-5 | 1.2184247E-4 | 1.2184247E-4 | 1.0 | 0.0 | 9.2382677E-4 | 0.0012178101 | 0.0012178101 | 1.0 | 0.0 |
+| 7.7 | 5.1912366E-7 | 6.829085E-7 | 6.829085E-7 | 1.0 | 0.0 | 2.2248137E-6 | 2.9267474E-6 | 2.9267474E-6 | 1.0 | 0.0 | 2.708677E-5 | 3.563258E-5 | 3.563258E-5 | 1.0 | 0.0 | 2.708347E-4 | 3.562766E-4 | 3.562766E-4 | 1.0 | 0.0 |
+
+## Fontana (Seismicity)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Fontana_Seismicity_1wk.png) | ![MPD](Fontana_Seismicity_1mo.png) | ![MPD](Fontana_Seismicity_1yr.png) | ![MPD](Fontana_Seismicity_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 7.1789214E-6 | 7.5521466E-6 | 7.5521466E-6 | 1.0 | 0.0 | 3.076644E-5 | 3.236617E-5 | 3.236617E-5 | 1.0 | 0.0 | 3.7451705E-4 | 3.9402765E-4 | 3.9402765E-4 | 1.0 | 0.0 | 0.003738865 | 0.00393729 | 0.0039472505 | 1.0025299 | 1.0E-5 |
+| 6.1 | 7.1789214E-6 | 7.5521466E-6 | 7.5521466E-6 | 1.0 | 0.0 | 3.076644E-5 | 3.236617E-5 | 3.236617E-5 | 1.0 | 0.0 | 3.7451705E-4 | 3.9402765E-4 | 3.9402765E-4 | 1.0 | 0.0 | 0.003738865 | 0.00393729 | 0.0039472505 | 1.0025299 | 1.0E-5 |
+| 6.2 | 7.1789214E-6 | 7.5521466E-6 | 7.5521466E-6 | 1.0 | 0.0 | 3.076644E-5 | 3.236617E-5 | 3.236617E-5 | 1.0 | 0.0 | 3.7451705E-4 | 3.9402765E-4 | 3.9402765E-4 | 1.0 | 0.0 | 0.003738865 | 0.00393729 | 0.0039472505 | 1.0025299 | 1.0E-5 |
+| 6.3 | 7.1789214E-6 | 7.5521466E-6 | 7.5521466E-6 | 1.0 | 0.0 | 3.076644E-5 | 3.236617E-5 | 3.236617E-5 | 1.0 | 0.0 | 3.7451705E-4 | 3.9402765E-4 | 3.9402765E-4 | 1.0 | 0.0 | 0.003738865 | 0.00393729 | 0.0039472505 | 1.0025299 | 1.0E-5 |
+| 6.4 | 7.1789214E-6 | 7.5521466E-6 | 7.5521466E-6 | 1.0 | 0.0 | 3.076644E-5 | 3.236617E-5 | 3.236617E-5 | 1.0 | 0.0 | 3.7451705E-4 | 3.9402765E-4 | 3.9402765E-4 | 1.0 | 0.0 | 0.003738865 | 0.00393729 | 0.0039472505 | 1.0025299 | 1.0E-5 |
+| 6.5 | 5.2611317E-6 | 5.532832E-6 | 5.532832E-6 | 1.0 | 0.0 | 2.2547512E-5 | 2.3712137E-5 | 2.3712137E-5 | 1.0 | 0.0 | 2.744814E-4 | 2.8869527E-4 | 2.8869527E-4 | 1.0 | 0.0 | 0.002741426 | 0.0028869526 | 0.0028869526 | 1.0 | 0.0 |
+| 6.6 | 5.2611317E-6 | 5.532832E-6 | 5.532832E-6 | 1.0 | 0.0 | 2.2547512E-5 | 2.3712137E-5 | 2.3712137E-5 | 1.0 | 0.0 | 2.744814E-4 | 2.8869527E-4 | 2.8869527E-4 | 1.0 | 0.0 | 0.002741426 | 0.0028869526 | 0.0028869526 | 1.0 | 0.0 |
+
+## Hayward (So) extension 2011 CFM
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Hayward_So_extension_2011_CFM_1wk.png) | ![MPD](Hayward_So_extension_2011_CFM_1mo.png) | ![MPD](Hayward_So_extension_2011_CFM_1yr.png) | ![MPD](Hayward_So_extension_2011_CFM_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.1721256E-4 | 2.3636376E-4 | 2.3636376E-4 | 1.0 | 0.0 | 5.022428E-4 | 0.0010126528 | 0.0010126528 | 1.0 | 0.0 | 0.0060976758 | 0.012250351 | 0.012250351 | 1.0 | 0.0 | 0.0593305 | 0.11286398 | 0.11287285 | 1.0000786 | 1.0E-5 |
+| 6.1 | 6.99169E-5 | 1.3795098E-4 | 1.3795098E-4 | 1.0 | 0.0 | 2.9960944E-4 | 5.9109874E-4 | 5.9109874E-4 | 1.0 | 0.0 | 0.0036416445 | 0.007173764 | 0.007173764 | 1.0 | 0.0 | 0.035825435 | 0.06782111 | 0.06782111 | 1.0 | 0.0 |
+| 6.2 | 6.99169E-5 | 1.3795098E-4 | 1.3795098E-4 | 1.0 | 0.0 | 2.9960944E-4 | 5.9109874E-4 | 5.9109874E-4 | 1.0 | 0.0 | 0.0036416445 | 0.007173764 | 0.007173764 | 1.0 | 0.0 | 0.035825435 | 0.06782111 | 0.06782111 | 1.0 | 0.0 |
+| 6.3 | 6.970908E-5 | 1.3763242E-4 | 1.3763242E-4 | 1.0 | 0.0 | 2.9871898E-4 | 5.897341E-4 | 5.897341E-4 | 1.0 | 0.0 | 0.0036308395 | 0.007157299 | 0.007157299 | 1.0 | 0.0 | 0.035720866 | 0.06767006 | 0.06767006 | 1.0 | 0.0 |
+| 6.4 | 6.9517155E-5 | 1.3730107E-4 | 1.3730107E-4 | 1.0 | 0.0 | 2.9789665E-4 | 5.883147E-4 | 5.883147E-4 | 1.0 | 0.0 | 0.0036208609 | 0.0071402094 | 0.0071402094 | 1.0 | 0.0 | 0.03562429 | 0.06751409 | 0.06751409 | 1.0 | 0.0 |
+| 6.5 | 4.786248E-5 | 9.418472E-5 | 9.418472E-5 | 1.0 | 0.0 | 2.0510878E-4 | 4.03589E-4 | 4.03589E-4 | 1.0 | 0.0 | 0.0024943394 | 0.0049030366 | 0.0049030366 | 1.0 | 0.0 | 0.02466527 | 0.04691766 | 0.04691766 | 1.0 | 0.0 |
+| 6.6 | 4.4662214E-5 | 8.885063E-5 | 8.885063E-5 | 1.0 | 0.0 | 1.9139545E-4 | 3.8073547E-4 | 3.8073547E-4 | 1.0 | 0.0 | 0.0023277493 | 0.0046260646 | 0.0046260646 | 1.0 | 0.0 | 0.02303517 | 0.04430889 | 0.04430889 | 1.0 | 0.0 |
+| 6.7 | 3.884542E-5 | 7.8680896E-5 | 7.8680896E-5 | 1.0 | 0.0 | 1.6646975E-4 | 3.3716275E-4 | 3.3716275E-4 | 1.0 | 0.0 | 0.002024885 | 0.004097675 | 0.004097675 | 1.0 | 0.0 | 0.020065336 | 0.039348204 | 0.039348204 | 1.0 | 0.0 |
+| 6.8 | 3.4221863E-5 | 6.8586945E-5 | 6.8586945E-5 | 1.0 | 0.0 | 1.4665688E-4 | 2.939133E-4 | 2.939133E-4 | 1.0 | 0.0 | 0.0017840851 | 0.003572944 | 0.003572944 | 1.0 | 0.0 | 0.017698295 | 0.034435116 | 0.034435116 | 1.0 | 0.0 |
+| 6.9 | 1.6927712E-5 | 3.008159E-5 | 3.008159E-5 | 1.0 | 0.0 | 7.2545314E-5 | 1.2891505E-4 | 1.2891505E-4 | 1.0 | 0.0 | 8.828813E-4 | 0.0015684677 | 0.0015684677 | 1.0 | 0.0 | 0.008793819 | 0.01547308 | 0.01547308 | 1.0 | 0.0 |
+| 7.0 | 1.2509653E-5 | 2.2481563E-5 | 2.2481563E-5 | 1.0 | 0.0 | 5.3611697E-5 | 9.6346244E-5 | 9.6346244E-5 | 1.0 | 0.0 | 6.525269E-4 | 0.0011724284 | 0.0011724284 | 1.0 | 0.0 | 0.0065061417 | 0.011591685 | 0.011591685 | 1.0 | 0.0 |
+| 7.1 | 8.751583E-6 | 1.4942405E-5 | 1.4942405E-5 | 1.0 | 0.0 | 3.750624E-5 | 6.403734E-5 | 6.403734E-5 | 1.0 | 0.0 | 4.5654282E-4 | 7.793816E-4 | 7.793816E-4 | 1.0 | 0.0 | 0.0045560603 | 0.0077718985 | 0.0077718985 | 1.0 | 0.0 |
+| 7.2 | 6.354379E-6 | 1.1514803E-5 | 1.1514803E-5 | 1.0 | 0.0 | 2.7232769E-5 | 4.934825E-5 | 4.934825E-5 | 1.0 | 0.0 | 3.3150852E-4 | 6.0065417E-4 | 6.0065417E-4 | 1.0 | 0.0 | 0.0033101442 | 0.0060084416 | 0.0060084416 | 1.0 | 0.0 |
+| 7.3 | 4.645554E-6 | 8.833633E-6 | 8.833633E-6 | 1.0 | 0.0 | 1.9909365E-5 | 3.78579E-5 | 3.78579E-5 | 1.0 | 0.0 | 2.4236954E-4 | 4.608264E-4 | 4.608264E-4 | 1.0 | 0.0 | 0.0024210536 | 0.004618521 | 0.004618521 | 1.0 | 0.0 |
+| 7.4 | 4.23437E-6 | 8.007689E-6 | 8.007689E-6 | 1.0 | 0.0 | 1.8147173E-5 | 3.4318236E-5 | 3.4318236E-5 | 1.0 | 0.0 | 2.2091944E-4 | 4.177483E-4 | 4.177483E-4 | 1.0 | 0.0 | 0.0022069993 | 0.004189641 | 0.004189641 | 1.0 | 0.0 |
+| 7.5 | 2.2187417E-6 | 3.9638594E-6 | 3.9638594E-6 | 1.0 | 0.0 | 9.508858E-6 | 1.6987873E-5 | 1.6987873E-5 | 1.0 | 0.0 | 1.157642E-4 | 2.0681036E-4 | 2.0681036E-4 | 1.0 | 0.0 | 0.0011570391 | 0.00207941 | 0.00207941 | 1.0 | 0.0 |
+| 7.6 | 2.7952495E-8 | 3.8804295E-8 | 3.8804295E-8 | 1.0 | 0.0 | 1.1979641E-7 | 1.6630412E-7 | 1.6630412E-7 | 1.0 | 0.0 | 1.4585203E-6 | 2.0247508E-6 | 2.0247508E-6 | 1.0 | 0.0 | 1.4585107E-5 | 2.0338077E-5 | 2.0338077E-5 | 1.0 | 0.0 |
+| 7.7 | 1.7192724E-8 | 2.3451456E-8 | 2.3451456E-8 | 1.0 | 0.0 | 7.36831E-8 | 1.00506234E-7 | 1.00506234E-7 | 1.0 | 0.0 | 8.9709135E-7 | 1.2236627E-6 | 1.2236627E-6 | 1.0 | 0.0 | 8.970877E-6 | 1.2304719E-5 | 1.2304719E-5 | 1.0 | 0.0 |
+
+## San Juan
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](San_Juan_1wk.png) | ![MPD](San_Juan_1mo.png) | ![MPD](San_Juan_1yr.png) | ![MPD](San_Juan_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 8.682808E-6 | 8.750271E-6 | 1.8750185E-5 | 2.1428118 | 1.0E-5 | 3.72115E-5 | 3.7500653E-5 | 4.7500278E-5 | 1.266652 | 1.0E-5 | 4.5295584E-4 | 4.564796E-4 | 4.6647503E-4 | 1.0218968 | 1.0E-5 | 0.004520337 | 0.0045559607 | 0.004565915 | 1.0021849 | 1.0E-5 |
+| 6.1 | 8.682808E-6 | 8.750271E-6 | 1.8750185E-5 | 2.1428118 | 1.0E-5 | 3.72115E-5 | 3.7500653E-5 | 4.7500278E-5 | 1.266652 | 1.0E-5 | 4.5295584E-4 | 4.564796E-4 | 4.6647503E-4 | 1.0218968 | 1.0E-5 | 0.004520337 | 0.0045559607 | 0.004565915 | 1.0021849 | 1.0E-5 |
+| 6.2 | 8.682808E-6 | 8.750271E-6 | 1.8750185E-5 | 2.1428118 | 1.0E-5 | 3.72115E-5 | 3.7500653E-5 | 4.7500278E-5 | 1.266652 | 1.0E-5 | 4.5295584E-4 | 4.564796E-4 | 4.6647503E-4 | 1.0218968 | 1.0E-5 | 0.004520337 | 0.0045559607 | 0.004565915 | 1.0021849 | 1.0E-5 |
+| 6.3 | 6.3054235E-6 | 6.2836584E-6 | 1.6283595E-5 | 2.5914195 | 1.0E-5 | 2.7022963E-5 | 2.6929694E-5 | 3.6929425E-5 | 1.3713273 | 1.0E-5 | 3.2895492E-4 | 3.2782112E-4 | 3.3781782E-4 | 1.0304945 | 1.0E-5 | 0.003284684 | 0.0032735753 | 0.0032835426 | 1.0030447 | 1.0E-5 |
+| 6.4 | 6.1490473E-6 | 6.1153914E-6 | 1.6115331E-5 | 2.6352084 | 1.0E-5 | 2.6352795E-5 | 2.6208565E-5 | 3.62083E-5 | 1.3815447 | 1.0E-5 | 3.2079802E-4 | 3.1904393E-4 | 3.2904075E-4 | 1.0313337 | 1.0E-5 | 0.0032033534 | 0.0031860552 | 0.0031960234 | 1.0031286 | 1.0E-5 |
+| 6.5 | 5.204848E-6 | 5.138129E-6 | 1.5138077E-5 | 2.9462237 | 1.0E-5 | 2.23063E-5 | 2.2020373E-5 | 3.202015E-5 | 1.4541149 | 1.0E-5 | 2.7154534E-4 | 2.68066E-4 | 2.7806332E-4 | 1.0372943 | 1.0E-5 | 0.0027121378 | 0.0026775806 | 0.0026875539 | 1.0037247 | 1.0E-5 |
+| 6.6 | 4.5179986E-6 | 4.4157E-6 | 1.4415656E-5 | 3.2646365 | 1.0E-5 | 1.9362706E-5 | 1.8924296E-5 | 2.8924107E-5 | 1.5284113 | 1.0E-5 | 2.3571544E-4 | 2.3037974E-4 | 2.4037744E-4 | 1.0433966 | 1.0E-5 | 0.0023546559 | 0.0023015463 | 0.002311523 | 1.0043349 | 1.0E-5 |
+| 6.7 | 3.9442616E-6 | 3.8204266E-6 | 1.3820389E-5 | 3.6174986 | 1.0E-5 | 1.6903869E-5 | 1.6373158E-5 | 2.6372994E-5 | 1.6107458 | 1.0E-5 | 2.0578515E-4 | 1.9932563E-4 | 2.0932364E-4 | 1.0501592 | 1.0E-5 | 0.002055947 | 0.0019915935 | 0.0020015736 | 1.0050111 | 1.0E-5 |
+| 6.8 | 3.4536245E-6 | 3.316909E-6 | 1.3316876E-5 | 4.0148454 | 1.0E-5 | 1.4801163E-5 | 1.4215249E-5 | 2.4215107E-5 | 1.7034599 | 1.0E-5 | 1.8018926E-4 | 1.7305753E-4 | 1.830558E-4 | 1.0577743 | 1.0E-5 | 0.0018004322 | 0.0017293466 | 0.0017393293 | 1.0057725 | 1.0E-5 |
+| 6.9 | 3.059865E-6 | 2.9125792E-6 | 1.291255E-5 | 4.433373 | 1.0E-5 | 1.3113641E-5 | 1.24824255E-5 | 2.2482302E-5 | 1.8011163 | 1.0E-5 | 1.596469E-4 | 1.519635E-4 | 1.6196199E-4 | 1.0657953 | 1.0E-5 | 0.0015953224 | 0.0015187106 | 0.0015286955 | 1.0065745 | 1.0E-5 |
+| 7.0 | 2.6504351E-6 | 2.4925173E-6 | 1.2492493E-5 | 5.011998 | 1.0E-5 | 1.1358958E-5 | 1.0682176E-5 | 2.068207E-5 | 1.9361289 | 1.0E-5 | 1.3828653E-4 | 1.3004828E-4 | 1.4004698E-4 | 1.0768845 | 1.0E-5 | 0.0013820052 | 0.0012998336 | 0.0013098207 | 1.0076833 | 1.0E-5 |
+| 7.1 | 2.2039317E-6 | 2.0342527E-6 | 2.0342527E-6 | 1.0 | 0.0 | 9.445387E-6 | 8.718199E-6 | 8.718199E-6 | 1.0 | 0.0 | 1.1499152E-4 | 1.06139436E-4 | 1.06139436E-4 | 1.0 | 0.0 | 0.0011493203 | 0.0010609975 | 0.0010609975 | 1.0 | 0.0 |
+| 7.2 | 1.0786707E-6 | 8.7738175E-7 | 8.7738175E-7 | 1.0 | 0.0 | 4.622866E-6 | 3.7602022E-6 | 3.7602022E-6 | 1.0 | 0.0 | 5.628194E-5 | 4.577951E-5 | 4.577951E-5 | 1.0 | 0.0 | 5.6267687E-4 | 4.577599E-4 | 4.577599E-4 | 1.0 | 0.0 |
+| 7.3 | 6.846433E-7 | 4.8710973E-7 | 4.8710973E-7 | 1.0 | 0.0 | 2.9341822E-6 | 2.0876114E-6 | 2.0876114E-6 | 1.0 | 0.0 | 3.5723086E-5 | 2.5416373E-5 | 2.5416373E-5 | 1.0 | 0.0 | 3.571734E-4 | 2.541682E-4 | 2.541682E-4 | 1.0 | 0.0 |
+| 7.4 | 5.23043E-7 | 3.2645153E-7 | 3.2645153E-7 | 1.0 | 0.0 | 2.2416111E-6 | 1.3990773E-6 | 1.3990773E-6 | 1.0 | 0.0 | 2.7291273E-5 | 1.7033633E-5 | 1.7033633E-5 | 1.0 | 0.0 | 2.7287923E-4 | 1.7035524E-4 | 1.7035524E-4 | 1.0 | 0.0 |
+| 7.5 | 4.648444E-7 | 2.724957E-7 | 2.724957E-7 | 1.0 | 0.0 | 1.9921886E-6 | 1.1678381E-6 | 1.1678381E-6 | 1.0 | 0.0 | 2.4254627E-5 | 1.4218338E-5 | 1.4218338E-5 | 1.0 | 0.0 | 2.425198E-4 | 1.4220392E-4 | 1.4220392E-4 | 1.0 | 0.0 |
+| 7.6 | 3.9906567E-7 | 2.209498E-7 | 2.209498E-7 | 1.0 | 0.0 | 1.7102802E-6 | 9.469274E-7 | 9.469274E-7 | 1.0 | 0.0 | 2.0822463E-5 | 1.152878E-5 | 1.152878E-5 | 1.0 | 0.0 | 2.0820512E-4 | 1.1530646E-4 | 1.1530646E-4 | 1.0 | 0.0 |
+| 7.7 | 1.8784601E-7 | 5.37104E-8 | 5.37104E-8 | 1.0 | 0.0 | 8.0505407E-7 | 2.3018744E-7 | 2.3018744E-7 | 1.0 | 0.0 | 9.80149E-6 | 2.8025283E-6 | 2.8025283E-6 | 1.0 | 0.0 | 9.801057E-5 | 2.8034005E-5 | 2.8034005E-5 | 1.0 | 0.0 |
+| 7.8 | 1.00154914E-7 | 1.2429782E-8 | 1.2429782E-8 | 1.0 | 0.0 | 4.2923529E-7 | 5.3270497E-8 | 5.3270497E-8 | 1.0 | 0.0 | 5.225927E-6 | 6.4856806E-7 | 6.4856806E-7 | 1.0 | 0.0 | 5.225804E-5 | 6.491578E-6 | 6.491578E-6 | 1.0 | 0.0 |
+| 7.9 | 6.171429E-8 | 4.303855E-9 | 4.303855E-9 | 1.0 | 0.0 | 2.6448978E-7 | 1.8445094E-8 | 1.8445094E-8 | 1.0 | 0.0 | 3.2201583E-6 | 2.2456898E-7 | 2.2456898E-7 | 1.0 | 0.0 | 3.2201115E-5 | 2.2510008E-6 | 2.2510008E-6 | 1.0 | 0.0 |
+| 8.0 | 1.3974572E-8 | 3.392041E-10 | 3.392041E-10 | 1.0 | 0.0 | 5.989102E-8 | 1.4537321E-9 | 1.4537321E-9 | 1.0 | 0.0 | 7.2917294E-7 | 1.769918E-8 | 1.769918E-8 | 1.0 | 0.0 | 7.2917055E-6 | 1.8131027E-7 | 1.8131027E-7 | 1.0 | 0.0 |
+| 8.1 | 1.8403477E-9 | 1.13355436E-10 | 1.13355436E-10 | 1.0 | 0.0 | 7.887204E-9 | 4.8580906E-10 | 4.8580906E-10 | 1.0 | 0.0 | 9.602671E-8 | 5.914724E-9 | 5.914724E-9 | 1.0 | 0.0 | 9.602667E-7 | 6.039373E-8 | 6.039373E-8 | 1.0 | 0.0 |
 
 ## Mendocino
 *[(top)](#table-of-contents)*
@@ -5127,53 +4861,312 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.2 | 2.1193785E-6 | 1.0332769E-6 | 1.0332769E-6 | 1.0 | 0.0 | 9.083019E-6 | 4.4283224E-6 | 4.4283224E-6 | 1.0 | 0.0 | 1.1058014E-4 | 5.391351E-5 | 5.391351E-5 | 1.0 | 0.0 | 0.0011052513 | 6.5208826E-4 | 6.5208826E-4 | 1.0 | 0.0 |
 | 8.3 | 7.536878E-7 | 3.9382627E-7 | 3.9382627E-7 | 1.0 | 0.0 | 3.2300866E-6 | 1.6878259E-6 | 1.6878259E-6 | 1.0 | 0.0 | 3.9325594E-5 | 2.05491E-5 | 2.05491E-5 | 1.0 | 0.0 | 3.9318635E-4 | 2.4192063E-4 | 2.4192063E-4 | 1.0 | 0.0 |
 
-## South Klamath Lake East
+## Hayward (So) 2011 CFM
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](South_Klamath_Lake_East_1wk.png) | ![MPD](South_Klamath_Lake_East_1mo.png) | ![MPD](South_Klamath_Lake_East_1yr.png) | ![MPD](South_Klamath_Lake_East_10yr.png) |
+| ![MPD](Hayward_So_2011_CFM_1wk.png) | ![MPD](Hayward_So_2011_CFM_1mo.png) | ![MPD](Hayward_So_2011_CFM_1yr.png) | ![MPD](Hayward_So_2011_CFM_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.3539369E-5 | 2.5047904E-5 | 2.5047904E-5 | 1.0 | 0.0 | 1.0087911E-4 | 1.0734421E-4 | 1.0734421E-4 | 1.0 | 0.0 | 0.0012275111 | 0.0013062154 | 0.0013162025 | 1.0076457 | 1.0E-5 | 0.012207527 | 0.012993725 | 0.013003595 | 1.0007596 | 1.0E-5 |
-| 6.1 | 2.3539369E-5 | 2.5047904E-5 | 2.5047904E-5 | 1.0 | 0.0 | 1.0087911E-4 | 1.0734421E-4 | 1.0734421E-4 | 1.0 | 0.0 | 0.0012275111 | 0.0013062154 | 0.0013162025 | 1.0076457 | 1.0E-5 | 0.012207527 | 0.012993725 | 0.013003595 | 1.0007596 | 1.0E-5 |
-| 6.2 | 2.3539369E-5 | 2.5047904E-5 | 2.5047904E-5 | 1.0 | 0.0 | 1.0087911E-4 | 1.0734421E-4 | 1.0734421E-4 | 1.0 | 0.0 | 0.0012275111 | 0.0013062154 | 0.0013162025 | 1.0076457 | 1.0E-5 | 0.012207527 | 0.012993725 | 0.013003595 | 1.0007596 | 1.0E-5 |
-| 6.3 | 9.807823E-6 | 1.0396275E-5 | 1.0396275E-5 | 1.0 | 0.0 | 4.2032847E-5 | 4.4554752E-5 | 4.4554752E-5 | 1.0 | 0.0 | 5.1162974E-4 | 5.4232747E-4 | 5.52322E-4 | 1.018429 | 1.0E-5 | 0.005104534 | 0.005410876 | 0.005420822 | 1.0018381 | 1.0E-5 |
-| 6.4 | 9.807823E-6 | 1.0396275E-5 | 1.0396275E-5 | 1.0 | 0.0 | 4.2032847E-5 | 4.4554752E-5 | 4.4554752E-5 | 1.0 | 0.0 | 5.1162974E-4 | 5.4232747E-4 | 5.52322E-4 | 1.018429 | 1.0E-5 | 0.005104534 | 0.005410876 | 0.005420822 | 1.0018381 | 1.0E-5 |
-| 6.5 | 6.191981E-6 | 6.550981E-6 | 6.550981E-6 | 1.0 | 0.0 | 2.653679E-5 | 2.8075347E-5 | 2.8075347E-5 | 1.0 | 0.0 | 3.2303753E-4 | 3.417665E-4 | 3.417665E-4 | 1.0 | 0.0 | 0.0032256835 | 0.0034126875 | 0.0034126875 | 1.0 | 0.0 |
-| 6.6 | 4.3693776E-6 | 4.6166547E-6 | 4.6166547E-6 | 1.0 | 0.0 | 1.8725768E-5 | 1.9785519E-5 | 1.9785519E-5 | 1.0 | 0.0 | 2.2796239E-4 | 2.4086318E-4 | 2.4086318E-4 | 1.0 | 0.0 | 0.0022772867 | 0.0024061338 | 0.0024061338 | 1.0 | 0.0 |
-| 6.7 | 3.360834E-6 | 3.5513149E-6 | 3.5513149E-6 | 1.0 | 0.0 | 1.4403494E-5 | 1.5219837E-5 | 1.5219837E-5 | 1.0 | 0.0 | 1.7534842E-4 | 1.8528657E-4 | 1.8528657E-4 | 1.0 | 0.0 | 0.0017521014 | 0.0018514008 | 0.0018514008 | 1.0 | 0.0 |
-| 6.8 | 2.57873E-6 | 2.7252283E-6 | 2.7252283E-6 | 1.0 | 0.0 | 1.1051653E-5 | 1.1679501E-5 | 1.1679501E-5 | 1.0 | 0.0 | 1.3454557E-4 | 1.4218927E-4 | 1.4218927E-4 | 1.0 | 0.0 | 0.0013446413 | 0.0014210435 | 0.0014210435 | 1.0 | 0.0 |
-| 6.9 | 9.987825E-7 | 1.056644E-6 | 1.056644E-6 | 1.0 | 0.0 | 4.2804895E-6 | 4.5284683E-6 | 4.5284683E-6 | 1.0 | 0.0 | 5.211371E-5 | 5.5133034E-5 | 5.5133034E-5 | 1.0 | 0.0 | 5.210149E-4 | 5.5122573E-4 | 5.5122573E-4 | 1.0 | 0.0 |
+| 6.0 | 1.8091932E-4 | 3.5716876E-4 | 3.5716876E-4 | 1.0 | 0.0 | 7.751381E-4 | 0.0015298353 | 0.0015298353 | 1.0 | 0.0 | 0.00939654 | 0.018469084 | 0.018469084 | 1.0 | 0.0 | 0.090090066 | 0.1667761 | 0.16678444 | 1.00005 | 1.0E-5 |
+| 6.1 | 1.8091932E-4 | 3.5716876E-4 | 3.5716876E-4 | 1.0 | 0.0 | 7.751381E-4 | 0.0015298353 | 0.0015298353 | 1.0 | 0.0 | 0.00939654 | 0.018469084 | 0.018469084 | 1.0 | 0.0 | 0.090090066 | 0.1667761 | 0.16678444 | 1.00005 | 1.0E-5 |
+| 6.2 | 1.8091932E-4 | 3.5716876E-4 | 3.5716876E-4 | 1.0 | 0.0 | 7.751381E-4 | 0.0015298353 | 0.0015298353 | 1.0 | 0.0 | 0.00939654 | 0.018469084 | 0.018469084 | 1.0 | 0.0 | 0.090090066 | 0.1667761 | 0.16678444 | 1.00005 | 1.0E-5 |
+| 6.3 | 1.7322872E-4 | 3.427354E-4 | 3.427354E-4 | 1.0 | 0.0 | 7.4219756E-4 | 0.0014680488 | 0.0014680488 | 1.0 | 0.0 | 0.0089988755 | 0.017729288 | 0.017729288 | 1.0 | 0.0 | 0.08643075 | 0.16071117 | 0.16071956 | 1.0000522 | 1.0E-5 |
+| 6.4 | 1.6334097E-4 | 3.2355002E-4 | 3.2355002E-4 | 1.0 | 0.0 | 6.998449E-4 | 0.0013859147 | 0.0013859147 | 1.0 | 0.0 | 0.008487372 | 0.016744977 | 0.016744977 | 1.0 | 0.0 | 0.081704415 | 0.15259907 | 0.15260755 | 1.0000556 | 1.0E-5 |
+| 6.5 | 1.5600289E-4 | 3.1029453E-4 | 3.1029453E-4 | 1.0 | 0.0 | 6.684125E-4 | 0.0013291643 | 0.0013291643 | 1.0 | 0.0 | 0.008107598 | 0.016064392 | 0.016064392 | 1.0 | 0.0 | 0.078181036 | 0.1468751 | 0.14688364 | 1.000058 | 1.0E-5 |
+| 6.6 | 1.4046066E-4 | 2.8043045E-4 | 2.8043045E-4 | 1.0 | 0.0 | 6.018354E-4 | 0.001201298 | 0.001201298 | 1.0 | 0.0 | 0.0073027555 | 0.014529222 | 0.014529222 | 1.0 | 0.0 | 0.07067384 | 0.13396107 | 0.13396974 | 1.0000646 | 1.0E-5 |
+| 6.7 | 1.14696966E-4 | 2.328075E-4 | 2.328075E-4 | 1.0 | 0.0 | 4.914658E-4 | 9.973701E-4 | 9.973701E-4 | 1.0 | 0.0 | 0.0059671924 | 0.012076436 | 0.012076436 | 1.0 | 0.0 | 0.058094822 | 0.11278556 | 0.11279443 | 1.0000787 | 1.0E-5 |
+| 6.8 | 9.3874296E-5 | 1.8869406E-4 | 1.8869406E-4 | 1.0 | 0.0 | 4.0225635E-4 | 8.084419E-4 | 8.084419E-4 | 1.0 | 0.0 | 0.0048864787 | 0.009799094 | 0.009799094 | 1.0 | 0.0 | 0.047804173 | 0.092632905 | 0.09264198 | 1.000098 | 1.0E-5 |
+| 6.9 | 5.551852E-5 | 1.0735069E-4 | 1.0735069E-4 | 1.0 | 0.0 | 2.3791482E-4 | 4.5999384E-4 | 4.5999384E-4 | 1.0 | 0.0 | 0.0028927654 | 0.0055861627 | 0.0055861627 | 1.0 | 0.0 | 0.028553981 | 0.054271217 | 0.054280676 | 1.0001743 | 1.0E-5 |
+| 7.0 | 4.2662363E-5 | 8.251254E-5 | 8.251254E-5 | 1.0 | 0.0 | 1.8282588E-4 | 3.5357763E-4 | 3.5357763E-4 | 1.0 | 0.0 | 0.0022236328 | 0.0042963843 | 0.0042963843 | 1.0 | 0.0 | 0.022015138 | 0.042087104 | 0.042096686 | 1.0002276 | 1.0E-5 |
+| 7.1 | 3.305886E-5 | 6.306136E-5 | 6.306136E-5 | 1.0 | 0.0 | 1.4167312E-4 | 2.7023506E-4 | 2.7023506E-4 | 1.0 | 0.0 | 0.0017235056 | 0.003285167 | 0.003285167 | 1.0 | 0.0 | 0.017101998 | 0.03247311 | 0.032482784 | 1.0002979 | 1.0E-5 |
+| 7.2 | 2.9856887E-5 | 5.7054312E-5 | 5.7054312E-5 | 1.0 | 0.0 | 1.2795182E-4 | 2.4449566E-4 | 2.4449566E-4 | 1.0 | 0.0 | 0.0015567001 | 0.002972688 | 0.002972688 | 1.0 | 0.0 | 0.015458403 | 0.029473132 | 0.029482836 | 1.0003293 | 1.0E-5 |
+| 7.3 | 2.4559737E-5 | 4.602505E-5 | 4.602505E-5 | 1.0 | 0.0 | 1.0525176E-4 | 1.9723538E-4 | 1.9723538E-4 | 1.0 | 0.0 | 0.0012806869 | 0.002398709 | 0.002398709 | 1.0 | 0.0 | 0.012733313 | 0.023874132 | 0.023883894 | 1.0004089 | 1.0E-5 |
+| 7.4 | 1.9002231E-5 | 3.5078727E-5 | 3.5078727E-5 | 1.0 | 0.0 | 8.143559E-5 | 1.503288E-4 | 1.503288E-4 | 1.0 | 0.0 | 9.910273E-4 | 0.0018287265 | 0.0018287265 | 1.0 | 0.0 | 0.009866194 | 0.01827278 | 0.01827278 | 1.0 | 0.0 |
+| 7.5 | 1.2783333E-5 | 2.3353385E-5 | 2.3353385E-5 | 1.0 | 0.0 | 5.4784563E-5 | 1.0008213E-4 | 1.0008213E-4 | 1.0 | 0.0 | 6.667979E-4 | 0.0012178246 | 0.0012178246 | 1.0 | 0.0 | 0.006648007 | 0.012221164 | 0.012221164 | 1.0 | 0.0 |
+| 7.6 | 4.8149627E-6 | 8.895181E-6 | 8.895181E-6 | 1.0 | 0.0 | 2.063539E-5 | 3.8121656E-5 | 3.8121656E-5 | 1.0 | 0.0 | 2.5120692E-4 | 4.6403354E-4 | 4.6403354E-4 | 1.0 | 0.0 | 0.0025092314 | 0.004684996 | 0.004684996 | 1.0 | 0.0 |
+| 7.7 | 6.0838227E-7 | 1.2073158E-6 | 1.2073158E-6 | 1.0 | 0.0 | 2.6073499E-6 | 5.1742E-6 | 5.1742E-6 | 1.0 | 0.0 | 3.174402E-5 | 6.299407E-5 | 6.299407E-5 | 1.0 | 0.0 | 3.1739488E-4 | 6.5373274E-4 | 6.5373274E-4 | 1.0 | 0.0 |
+| 7.8 | 4.5542808E-7 | 9.806538E-7 | 9.806538E-7 | 1.0 | 0.0 | 1.9518332E-6 | 4.202795E-6 | 4.202795E-6 | 1.0 | 0.0 | 2.376331E-5 | 5.1167834E-5 | 5.1167834E-5 | 1.0 | 0.0 | 2.3760769E-4 | 5.3283205E-4 | 5.3283205E-4 | 1.0 | 0.0 |
+| 7.9 | 3.3016747E-7 | 7.396889E-7 | 7.396889E-7 | 1.0 | 0.0 | 1.4150027E-6 | 3.1700913E-6 | 3.1700913E-6 | 1.0 | 0.0 | 1.7227521E-5 | 3.8595183E-5 | 3.8595183E-5 | 1.0 | 0.0 | 1.7226185E-4 | 3.9981655E-4 | 3.9981655E-4 | 1.0 | 0.0 |
+| 8.0 | 2.347038E-7 | 5.4788046E-7 | 5.4788046E-7 | 1.0 | 0.0 | 1.0058731E-6 | 2.3480568E-6 | 2.3480568E-6 | 1.0 | 0.0 | 1.2246436E-5 | 2.858722E-5 | 2.858722E-5 | 1.0 | 0.0 | 1.2245761E-4 | 2.9390416E-4 | 2.9390416E-4 | 1.0 | 0.0 |
+| 8.1 | 1.18822804E-7 | 2.6091143E-7 | 2.6091143E-7 | 1.0 | 0.0 | 5.092405E-7 | 1.1181913E-6 | 1.1181913E-6 | 1.0 | 0.0 | 6.1999854E-6 | 1.3613895E-5 | 1.3613895E-5 | 1.0 | 0.0 | 6.199812E-5 | 1.39336E-4 | 1.39336E-4 | 1.0 | 0.0 |
 
-## San Luis Range - Oceano 2011 CFM
+## Elmore Ranch
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](San_Luis_Range_Oceano_2011_CFM_1wk.png) | ![MPD](San_Luis_Range_Oceano_2011_CFM_1mo.png) | ![MPD](San_Luis_Range_Oceano_2011_CFM_1yr.png) | ![MPD](San_Luis_Range_Oceano_2011_CFM_10yr.png) |
+| ![MPD](Elmore_Ranch_1wk.png) | ![MPD](Elmore_Ranch_1mo.png) | ![MPD](Elmore_Ranch_1yr.png) | ![MPD](Elmore_Ranch_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.6025788E-6 | 1.6201255E-6 | 1.6201255E-6 | 1.0 | 0.0 | 6.8681766E-6 | 6.943379E-6 | 6.943379E-6 | 1.0 | 0.0 | 8.361684E-5 | 8.4532774E-5 | 9.453193E-5 | 1.1182873 | 1.0E-5 | 8.3585386E-4 | 8.45047E-4 | 8.550386E-4 | 1.0118237 | 1.0E-5 |
-| 6.1 | 1.6025788E-6 | 1.6201255E-6 | 1.6201255E-6 | 1.0 | 0.0 | 6.8681766E-6 | 6.943379E-6 | 6.943379E-6 | 1.0 | 0.0 | 8.361684E-5 | 8.4532774E-5 | 9.453193E-5 | 1.1182873 | 1.0E-5 | 8.3585386E-4 | 8.45047E-4 | 8.550386E-4 | 1.0118237 | 1.0E-5 |
-| 6.2 | 1.6025788E-6 | 1.6201255E-6 | 1.6201255E-6 | 1.0 | 0.0 | 6.8681766E-6 | 6.943379E-6 | 6.943379E-6 | 1.0 | 0.0 | 8.361684E-5 | 8.4532774E-5 | 9.453193E-5 | 1.1182873 | 1.0E-5 | 8.3585386E-4 | 8.45047E-4 | 8.550386E-4 | 1.0118237 | 1.0E-5 |
-| 6.3 | 1.6025788E-6 | 1.6201255E-6 | 1.6201255E-6 | 1.0 | 0.0 | 6.8681766E-6 | 6.943379E-6 | 6.943379E-6 | 1.0 | 0.0 | 8.361684E-5 | 8.4532774E-5 | 9.453193E-5 | 1.1182873 | 1.0E-5 | 8.3585386E-4 | 8.45047E-4 | 8.550386E-4 | 1.0118237 | 1.0E-5 |
-| 6.4 | 1.1621186E-6 | 1.1749943E-6 | 1.1749943E-6 | 1.0 | 0.0 | 4.980499E-6 | 5.0356816E-6 | 5.0356816E-6 | 1.0 | 0.0 | 6.0635884E-5 | 6.130797E-5 | 7.130735E-5 | 1.163101 | 1.0E-5 | 6.0619344E-4 | 6.1293715E-4 | 6.2293105E-4 | 1.0163049 | 1.0E-5 |
-| 6.5 | 1.1621186E-6 | 1.1749943E-6 | 1.1749943E-6 | 1.0 | 0.0 | 4.980499E-6 | 5.0356816E-6 | 5.0356816E-6 | 1.0 | 0.0 | 6.0635884E-5 | 6.130797E-5 | 7.130735E-5 | 1.163101 | 1.0E-5 | 6.0619344E-4 | 6.1293715E-4 | 6.2293105E-4 | 1.0163049 | 1.0E-5 |
-| 6.6 | 7.164729E-7 | 7.2486097E-7 | 7.2486097E-7 | 1.0 | 0.0 | 3.0705946E-6 | 3.1065435E-6 | 3.1065435E-6 | 1.0 | 0.0 | 3.738385E-5 | 3.7821526E-5 | 3.7821526E-5 | 1.0 | 0.0 | 3.737756E-4 | 3.7815268E-4 | 3.7815268E-4 | 1.0 | 0.0 |
-| 6.7 | 7.164729E-7 | 7.2486097E-7 | 7.2486097E-7 | 1.0 | 0.0 | 3.0705946E-6 | 3.1065435E-6 | 3.1065435E-6 | 1.0 | 0.0 | 3.738385E-5 | 3.7821526E-5 | 3.7821526E-5 | 1.0 | 0.0 | 3.737756E-4 | 3.7815268E-4 | 3.7815268E-4 | 1.0 | 0.0 |
-| 6.8 | 6.700177E-7 | 6.7774687E-7 | 6.7774687E-7 | 1.0 | 0.0 | 2.8715012E-6 | 2.9046264E-6 | 2.9046264E-6 | 1.0 | 0.0 | 3.495997E-5 | 3.5363268E-5 | 3.5363268E-5 | 1.0 | 0.0 | 3.495447E-4 | 3.5357804E-4 | 3.5357804E-4 | 1.0 | 0.0 |
-| 6.9 | 5.657865E-7 | 5.72181E-7 | 5.72181E-7 | 1.0 | 0.0 | 2.424797E-6 | 2.4522024E-6 | 2.4522024E-6 | 1.0 | 0.0 | 2.9521503E-5 | 2.9855164E-5 | 2.9855164E-5 | 1.0 | 0.0 | 2.9517582E-4 | 2.985126E-4 | 2.985126E-4 | 1.0 | 0.0 |
-| 7.0 | 4.608413E-7 | 4.6601886E-7 | 4.6601886E-7 | 1.0 | 0.0 | 1.9750328E-6 | 1.9972222E-6 | 1.9972222E-6 | 1.0 | 0.0 | 2.4045758E-5 | 2.4315912E-5 | 2.4315912E-5 | 1.0 | 0.0 | 2.4043156E-4 | 2.431328E-4 | 2.431328E-4 | 1.0 | 0.0 |
-| 7.1 | 3.9177846E-7 | 3.962177E-7 | 3.962177E-7 | 1.0 | 0.0 | 1.6790494E-6 | 1.6980748E-6 | 1.6980748E-6 | 1.0 | 0.0 | 2.0442236E-5 | 2.0673866E-5 | 2.0673866E-5 | 1.0 | 0.0 | 2.0440355E-4 | 2.0671957E-4 | 2.0671957E-4 | 1.0 | 0.0 |
-| 7.2 | 3.3974752E-7 | 3.4366678E-7 | 3.4366678E-7 | 1.0 | 0.0 | 1.45606E-6 | 1.4728568E-6 | 1.4728568E-6 | 1.0 | 0.0 | 1.7727387E-5 | 1.7931885E-5 | 1.7931885E-5 | 1.0 | 0.0 | 1.7725973E-4 | 1.793045E-4 | 1.793045E-4 | 1.0 | 0.0 |
-| 7.3 | 2.8900928E-7 | 2.9234144E-7 | 2.9234144E-7 | 1.0 | 0.0 | 1.2386106E-6 | 1.2528913E-6 | 1.2528913E-6 | 1.0 | 0.0 | 1.5079979E-5 | 1.5253845E-5 | 1.5253845E-5 | 1.0 | 0.0 | 1.5078956E-4 | 1.5252807E-4 | 1.5252807E-4 | 1.0 | 0.0 |
-| 7.4 | 2.1881527E-7 | 2.2139692E-7 | 2.2139692E-7 | 1.0 | 0.0 | 9.3777936E-7 | 9.488436E-7 | 9.488436E-7 | 1.0 | 0.0 | 1.14174045E-5 | 1.155211E-5 | 1.155211E-5 | 1.0 | 0.0 | 1.1416818E-4 | 1.1551515E-4 | 1.1551515E-4 | 1.0 | 0.0 |
-| 7.5 | 1.356398E-7 | 1.3718697E-7 | 1.3718697E-7 | 1.0 | 0.0 | 5.813133E-7 | 5.8794404E-7 | 5.8794404E-7 | 1.0 | 0.0 | 7.0774663E-6 | 7.1581953E-6 | 7.1581953E-6 | 1.0 | 0.0 | 7.077241E-5 | 7.157968E-5 | 7.157968E-5 | 1.0 | 0.0 |
-| 7.6 | 5.9269272E-8 | 6.0013924E-8 | 6.0013924E-8 | 1.0 | 0.0 | 2.5401116E-7 | 2.5720252E-7 | 2.5720252E-7 | 1.0 | 0.0 | 3.0925814E-6 | 3.1314362E-6 | 3.1314362E-6 | 1.0 | 0.0 | 3.0925385E-5 | 3.131393E-5 | 3.131393E-5 | 1.0 | 0.0 |
-| 7.7 | 5.946232E-9 | 6.036962E-9 | 6.036962E-9 | 1.0 | 0.0 | 2.5483851E-8 | 2.5872696E-8 | 2.5872696E-8 | 1.0 | 0.0 | 3.1026585E-7 | 3.1500002E-7 | 3.1500002E-7 | 1.0 | 0.0 | 3.102654E-6 | 3.1499967E-6 | 3.1499967E-6 | 1.0 | 0.0 |
+| 6.0 | 9.102099E-5 | 8.953757E-5 | 8.953757E-5 | 1.0 | 0.0 | 3.9003167E-4 | 3.8368916E-4 | 3.8368916E-4 | 1.0 | 0.0 | 0.0047383 | 0.0046628457 | 0.0046727993 | 1.0021346 | 1.0E-5 | 0.046385348 | 0.045877732 | 0.045887273 | 1.000208 | 1.0E-5 |
+| 6.1 | 3.8306698E-5 | 4.150529E-5 | 4.150529E-5 | 1.0 | 0.0 | 1.6416123E-4 | 1.7787176E-4 | 1.7787176E-4 | 1.0 | 0.0 | 0.0019968306 | 0.0021634349 | 0.0021634349 | 1.0 | 0.0 | 0.019789828 | 0.02163138 | 0.02163138 | 1.0 | 0.0 |
+| 6.2 | 3.8306698E-5 | 4.150529E-5 | 4.150529E-5 | 1.0 | 0.0 | 1.6416123E-4 | 1.7787176E-4 | 1.7787176E-4 | 1.0 | 0.0 | 0.0019968306 | 0.0021634349 | 0.0021634349 | 1.0 | 0.0 | 0.019789828 | 0.02163138 | 0.02163138 | 1.0 | 0.0 |
+| 6.3 | 3.3197924E-5 | 3.6559653E-5 | 3.6559653E-5 | 1.0 | 0.0 | 1.4226905E-4 | 1.5667878E-4 | 1.5667878E-4 | 1.0 | 0.0 | 0.0017307495 | 0.0019061613 | 0.0019061613 | 1.0 | 0.0 | 0.017173318 | 0.019092519 | 0.019092519 | 1.0 | 0.0 |
+| 6.4 | 2.5148964E-5 | 2.7423765E-5 | 2.7423765E-5 | 1.0 | 0.0 | 1.0777682E-4 | 1.17528776E-4 | 1.17528776E-4 | 1.0 | 0.0 | 0.0013113929 | 0.0014306217 | 0.0014306217 | 1.0 | 0.0 | 0.01303681 | 0.014388889 | 0.014388889 | 1.0 | 0.0 |
+| 6.5 | 2.5148964E-5 | 2.7423765E-5 | 2.7423765E-5 | 1.0 | 0.0 | 1.0777682E-4 | 1.17528776E-4 | 1.17528776E-4 | 1.0 | 0.0 | 0.0013113929 | 0.0014306217 | 0.0014306217 | 1.0 | 0.0 | 0.01303681 | 0.014388889 | 0.014388889 | 1.0 | 0.0 |
+
+## Northridge Hills
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Northridge_Hills_1wk.png) | ![MPD](Northridge_Hills_1mo.png) | ![MPD](Northridge_Hills_1yr.png) | ![MPD](Northridge_Hills_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
+| 6.1 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
+| 6.2 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
+| 6.3 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
+| 6.4 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
+| 6.5 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
+| 6.6 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
+| 6.7 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
+| 6.8 | 5.095982E-6 | 3.6154656E-6 | 3.6154656E-6 | 1.0 | 0.0 | 2.183974E-5 | 1.5494761E-5 | 1.5494761E-5 | 1.0 | 0.0 | 2.658664E-4 | 1.886325E-4 | 1.886325E-4 | 1.0 | 0.0 | 0.0026554854 | 0.0018847364 | 0.0018947176 | 1.0052958 | 1.0E-5 |
+| 6.9 | 5.0942654E-6 | 3.6136807E-6 | 3.6136807E-6 | 1.0 | 0.0 | 2.1832384E-5 | 1.5487112E-5 | 1.5487112E-5 | 1.0 | 0.0 | 2.6577685E-4 | 1.8853939E-4 | 1.8853939E-4 | 1.0 | 0.0 | 0.002654592 | 0.0018838067 | 0.0018937879 | 1.0052984 | 1.0E-5 |
+| 7.0 | 4.851143E-6 | 3.358991E-6 | 3.358991E-6 | 1.0 | 0.0 | 2.0790447E-5 | 1.4395597E-5 | 1.4395597E-5 | 1.0 | 0.0 | 2.5309427E-4 | 1.7525234E-4 | 1.7525234E-4 | 1.0 | 0.0 | 0.0025280623 | 0.0017511457 | 0.0017611282 | 1.0057006 | 1.0E-5 |
+| 7.1 | 4.7910607E-6 | 3.2972712E-6 | 3.2972712E-6 | 1.0 | 0.0 | 2.0532956E-5 | 1.4131086E-5 | 1.4131086E-5 | 1.0 | 0.0 | 2.4996005E-4 | 1.7203242E-4 | 1.7203242E-4 | 1.0 | 0.0 | 0.0024967908 | 0.0017189966 | 0.0017289794 | 1.0058074 | 1.0E-5 |
+| 7.2 | 4.580079E-6 | 3.1070454E-6 | 3.1070454E-6 | 1.0 | 0.0 | 1.9628762E-5 | 1.3315841E-5 | 1.3315841E-5 | 1.0 | 0.0 | 2.3895396E-4 | 1.6210834E-4 | 1.6210834E-4 | 1.0 | 0.0 | 0.0023869718 | 0.0016199043 | 0.0016298882 | 1.0061632 | 1.0E-5 |
+| 7.3 | 4.290062E-6 | 2.8684692E-6 | 2.8684692E-6 | 1.0 | 0.0 | 1.838585E-5 | 1.2293382E-5 | 1.2293382E-5 | 1.0 | 0.0 | 2.2382473E-4 | 1.4966166E-4 | 1.4966166E-4 | 1.0 | 0.0 | 0.0022359942 | 0.0014956117 | 0.0015055968 | 1.0066762 | 1.0E-5 |
+| 7.4 | 4.0259683E-6 | 2.6741418E-6 | 2.6741418E-6 | 1.0 | 0.0 | 1.7254037E-5 | 1.1460557E-5 | 1.1460557E-5 | 1.0 | 0.0 | 2.1004764E-4 | 1.3952337E-4 | 1.3952337E-4 | 1.0 | 0.0 | 0.002098492 | 0.0013943606 | 0.0014043467 | 1.0071617 | 1.0E-5 |
+| 7.5 | 3.5477108E-6 | 2.2854456E-6 | 2.2854456E-6 | 1.0 | 0.0 | 1.5204386E-5 | 9.7947295E-6 | 9.7947295E-6 | 1.0 | 0.0 | 1.8509767E-4 | 1.1924432E-4 | 1.1924432E-4 | 1.0 | 0.0 | 0.0018494357 | 0.001191805 | 0.0012017931 | 1.0083807 | 1.0E-5 |
+| 7.6 | 2.9990608E-6 | 1.8530498E-6 | 1.8530498E-6 | 1.0 | 0.0 | 1.2853055E-5 | 7.941618E-6 | 7.941618E-6 | 1.0 | 0.0 | 1.564747E-4 | 9.668491E-5 | 9.668491E-5 | 1.0 | 0.0 | 0.0015636457 | 9.664293E-4 | 9.7641966E-4 | 1.0103374 | 1.0E-5 |
+| 7.7 | 2.4542855E-6 | 1.4463353E-6 | 1.4463353E-6 | 1.0 | 0.0 | 1.05183235E-5 | 6.198565E-6 | 6.198565E-6 | 1.0 | 0.0 | 1.2805307E-4 | 7.546492E-5 | 7.546492E-5 | 1.0 | 0.0 | 0.001279793 | 7.543935E-4 | 7.64386E-4 | 1.0132457 | 1.0E-5 |
+| 7.8 | 1.3623128E-6 | 8.017485E-7 | 8.017485E-7 | 1.0 | 0.0 | 5.8384703E-6 | 3.4360605E-6 | 3.4360605E-6 | 1.0 | 0.0 | 7.108106E-5 | 4.1833235E-5 | 4.1833235E-5 | 1.0 | 0.0 | 7.1058323E-4 | 4.1825383E-4 | 4.1825383E-4 | 1.0 | 0.0 |
+| 7.9 | 7.716622E-7 | 4.2197863E-7 | 4.2197863E-7 | 1.0 | 0.0 | 3.3071194E-6 | 1.8084785E-6 | 1.8084785E-6 | 1.0 | 0.0 | 4.0263436E-5 | 2.2018005E-5 | 2.2018005E-5 | 1.0 | 0.0 | 4.0256142E-4 | 2.2015834E-4 | 2.2015834E-4 | 1.0 | 0.0 |
+| 8.0 | 1.2117711E-7 | 6.6230385E-8 | 6.6230385E-8 | 1.0 | 0.0 | 5.1933034E-7 | 2.8384449E-7 | 2.8384449E-7 | 1.0 | 0.0 | 6.3228285E-6 | 3.4558013E-6 | 3.4558013E-6 | 1.0 | 0.0 | 6.3226486E-5 | 3.455749E-5 | 3.455749E-5 | 1.0 | 0.0 |
+
+## Bullion Mountains
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Bullion_Mountains_1wk.png) | ![MPD](Bullion_Mountains_1mo.png) | ![MPD](Bullion_Mountains_1yr.png) | ![MPD](Bullion_Mountains_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.6420427E-5 | 1.4692696E-5 | 1.4692696E-5 | 1.0 | 0.0 | 7.037136E-5 | 6.2967396E-5 | 6.2967396E-5 | 1.0 | 0.0 | 8.5643446E-4 | 7.663967E-4 | 7.7638903E-4 | 1.013038 | 1.0E-5 | 0.008531413 | 0.0076413304 | 0.007651254 | 1.0012987 | 1.0E-5 |
+| 6.1 | 1.6420427E-5 | 1.4692696E-5 | 1.4692696E-5 | 1.0 | 0.0 | 7.037136E-5 | 6.2967396E-5 | 6.2967396E-5 | 1.0 | 0.0 | 8.5643446E-4 | 7.663967E-4 | 7.7638903E-4 | 1.013038 | 1.0E-5 | 0.008531413 | 0.0076413304 | 0.007651254 | 1.0012987 | 1.0E-5 |
+| 6.2 | 1.6420427E-5 | 1.4692696E-5 | 1.4692696E-5 | 1.0 | 0.0 | 7.037136E-5 | 6.2967396E-5 | 6.2967396E-5 | 1.0 | 0.0 | 8.5643446E-4 | 7.663967E-4 | 7.7638903E-4 | 1.013038 | 1.0E-5 | 0.008531413 | 0.0076413304 | 0.007651254 | 1.0012987 | 1.0E-5 |
+| 6.3 | 1.2046778E-5 | 9.862754E-6 | 9.862754E-6 | 1.0 | 0.0 | 5.1628023E-5 | 4.226839E-5 | 4.226839E-5 | 1.0 | 0.0 | 6.283899E-4 | 5.1451934E-4 | 5.245142E-4 | 1.0194256 | 1.0E-5 | 0.0062661595 | 0.0051355627 | 0.005145511 | 1.0019372 | 1.0E-5 |
+| 6.4 | 1.2046778E-5 | 9.862754E-6 | 9.862754E-6 | 1.0 | 0.0 | 5.1628023E-5 | 4.226839E-5 | 4.226839E-5 | 1.0 | 0.0 | 6.283899E-4 | 5.1451934E-4 | 5.245142E-4 | 1.0194256 | 1.0E-5 | 0.0062661595 | 0.0051355627 | 0.005145511 | 1.0019372 | 1.0E-5 |
+| 6.5 | 1.0244343E-5 | 7.879804E-6 | 7.879804E-6 | 1.0 | 0.0 | 4.390359E-5 | 3.3770266E-5 | 3.3770266E-5 | 1.0 | 0.0 | 5.343951E-4 | 4.1109612E-4 | 4.1109612E-4 | 1.0 | 0.0 | 0.005331118 | 0.0041053877 | 0.0041053877 | 1.0 | 0.0 |
+| 6.6 | 9.605408E-6 | 7.177816E-6 | 7.177816E-6 | 1.0 | 0.0 | 4.1165385E-5 | 3.076182E-5 | 3.076182E-5 | 1.0 | 0.0 | 5.010733E-4 | 3.7448117E-4 | 3.7448117E-4 | 1.0 | 0.0 | 0.00499945 | 0.0037404983 | 0.0037404983 | 1.0 | 0.0 |
+| 6.7 | 8.60418E-6 | 6.124284E-6 | 6.124284E-6 | 1.0 | 0.0 | 3.687454E-5 | 2.6246777E-5 | 2.6246777E-5 | 1.0 | 0.0 | 4.48855E-4 | 3.1952714E-4 | 3.1952714E-4 | 1.0 | 0.0 | 0.004479495 | 0.0031925894 | 0.0031925894 | 1.0 | 0.0 |
+| 6.8 | 5.187994E-6 | 2.5633144E-6 | 2.5633144E-6 | 1.0 | 0.0 | 2.223407E-5 | 1.098561E-5 | 1.098561E-5 | 1.0 | 0.0 | 2.7066618E-4 | 1.3374558E-4 | 1.3374558E-4 | 1.0 | 0.0 | 0.0027033675 | 0.0013370425 | 0.0013370425 | 1.0 | 0.0 |
+| 6.9 | 4.5302368E-6 | 2.3444445E-6 | 2.3444445E-6 | 1.0 | 0.0 | 1.9415156E-5 | 1.0047603E-5 | 1.0047603E-5 | 1.0 | 0.0 | 2.3635388E-4 | 1.2232667E-4 | 1.2232667E-4 | 1.0 | 0.0 | 0.0023610266 | 0.0012229824 | 0.0012229824 | 1.0 | 0.0 |
+| 7.0 | 3.431668E-6 | 1.6883395E-6 | 1.6883395E-6 | 1.0 | 0.0 | 1.4707065E-5 | 7.2357407E-6 | 7.2357407E-6 | 1.0 | 0.0 | 1.7904381E-4 | 8.809514E-5 | 8.809514E-5 | 1.0 | 0.0 | 0.0017889962 | 8.809514E-4 | 8.809514E-4 | 1.0 | 0.0 |
+
+## Hunting Creek - Berryessa 2011 CFM
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Hunting_Creek_Berryessa_2011_CFM_1wk.png) | ![MPD](Hunting_Creek_Berryessa_2011_CFM_1mo.png) | ![MPD](Hunting_Creek_Berryessa_2011_CFM_1yr.png) | ![MPD](Hunting_Creek_Berryessa_2011_CFM_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.1270982E-4 | 2.0016641E-4 | 2.0016641E-4 | 1.0 | 0.0 | 4.8295266E-4 | 8.5741625E-4 | 8.5741625E-4 | 1.0 | 0.0 | 0.0058641075 | 0.010387654 | 0.010387654 | 1.0 | 0.0 | 0.057117578 | 0.0980473 | 0.098056324 | 1.000092 | 1.0E-5 |
+| 6.1 | 1.1239393E-4 | 1.9964768E-4 | 1.9964768E-4 | 1.0 | 0.0 | 4.8159933E-4 | 8.551946E-4 | 8.551946E-4 | 1.0 | 0.0 | 0.0058477195 | 0.010360888 | 0.010360888 | 1.0 | 0.0 | 0.056962132 | 0.09780575 | 0.097814776 | 1.0000923 | 1.0E-5 |
+| 6.2 | 7.596265E-5 | 1.29413E-4 | 1.29413E-4 | 1.0 | 0.0 | 3.2551357E-4 | 5.543188E-4 | 5.543188E-4 | 1.0 | 0.0 | 0.0039559277 | 0.006721576 | 0.006721576 | 1.0 | 0.0 | 0.038862433 | 0.06459806 | 0.06460741 | 1.0001448 | 1.0E-5 |
+| 6.3 | 6.78794E-5 | 1.1451705E-4 | 1.1451705E-4 | 1.0 | 0.0 | 2.9087928E-4 | 4.906954E-4 | 4.906954E-4 | 1.0 | 0.0 | 0.003535705 | 0.005953176 | 0.005953176 | 1.0 | 0.0 | 0.034799766 | 0.05747131 | 0.057480734 | 1.000164 | 1.0E-5 |
+| 6.4 | 6.2165134E-5 | 1.043856E-4 | 1.043856E-4 | 1.0 | 0.0 | 2.6639478E-4 | 4.4729383E-4 | 4.4729383E-4 | 1.0 | 0.0 | 0.0032385332 | 0.0054280413 | 0.0054280413 | 1.0 | 0.0 | 0.03191742 | 0.052556038 | 0.052565515 | 1.0001802 | 1.0E-5 |
+| 6.5 | 5.4368087E-5 | 9.073028E-5 | 9.073028E-5 | 1.0 | 0.0 | 2.3298527E-4 | 3.8878949E-4 | 3.8878949E-4 | 1.0 | 0.0 | 0.0028329059 | 0.004720297 | 0.004720297 | 1.0 | 0.0 | 0.027970633 | 0.045885 | 0.045885 | 1.0 | 0.0 |
+| 6.6 | 4.729947E-5 | 7.848912E-5 | 7.848912E-5 | 1.0 | 0.0 | 2.0269625E-4 | 3.3634168E-4 | 3.3634168E-4 | 1.0 | 0.0 | 0.002465034 | 0.0040853387 | 0.0040853387 | 1.0 | 0.0 | 0.02437869 | 0.03985583 | 0.03985583 | 1.0 | 0.0 |
+| 6.7 | 3.6875328E-5 | 6.046134E-5 | 6.046134E-5 | 1.0 | 0.0 | 1.5802756E-4 | 2.590968E-4 | 2.590968E-4 | 1.0 | 0.0 | 0.0019222875 | 0.003148527 | 0.003148527 | 1.0 | 0.0 | 0.019057442 | 0.030895753 | 0.030895753 | 1.0 | 0.0 |
+| 6.8 | 2.0292036E-5 | 2.8978397E-5 | 2.8978397E-5 | 1.0 | 0.0 | 8.6962966E-5 | 1.2418722E-4 | 1.2418722E-4 | 1.0 | 0.0 | 0.0010582599 | 0.0015109128 | 0.0015109128 | 1.0 | 0.0 | 0.010532344 | 0.014979563 | 0.014979563 | 1.0 | 0.0 |
+| 6.9 | 1.7871042E-5 | 2.4474015E-5 | 2.4474015E-5 | 1.0 | 0.0 | 7.658793E-5 | 1.0488445E-4 | 1.0488445E-4 | 1.0 | 0.0 | 9.320591E-4 | 0.0012762214 | 0.0012762214 | 1.0 | 0.0 | 0.009281595 | 0.012680673 | 0.012680673 | 1.0 | 0.0 |
+| 7.0 | 1.6415532E-5 | 2.1907901E-5 | 2.1907901E-5 | 1.0 | 0.0 | 7.035038E-5 | 9.388765E-5 | 9.388765E-5 | 1.0 | 0.0 | 8.561793E-4 | 0.0011424861 | 0.0011424861 | 1.0 | 0.0 | 0.008528882 | 0.011365353 | 0.011365353 | 1.0 | 0.0 |
+| 7.1 | 1.5409885E-5 | 2.0347887E-5 | 2.0347887E-5 | 1.0 | 0.0 | 6.6040695E-5 | 8.720233E-5 | 8.720233E-5 | 1.0 | 0.0 | 8.0374884E-4 | 0.0010611742 | 0.0010611742 | 1.0 | 0.0 | 0.00800848 | 0.010561392 | 0.010561392 | 1.0 | 0.0 |
+| 7.2 | 1.4497423E-5 | 1.9056415E-5 | 1.9056415E-5 | 1.0 | 0.0 | 6.213033E-5 | 8.166781E-5 | 8.166781E-5 | 1.0 | 0.0 | 7.5617427E-4 | 9.938551E-4 | 9.938551E-4 | 1.0 | 0.0 | 0.0075360634 | 0.009894678 | 0.009894678 | 1.0 | 0.0 |
+| 7.3 | 1.3615175E-5 | 1.782753E-5 | 1.782753E-5 | 1.0 | 0.0 | 5.8349444E-5 | 7.640148E-5 | 7.640148E-5 | 1.0 | 0.0 | 7.101729E-4 | 9.297939E-4 | 9.297939E-4 | 1.0 | 0.0 | 0.0070790765 | 0.009259547 | 0.009259547 | 1.0 | 0.0 |
+| 7.4 | 1.2252825E-5 | 1.6027523E-5 | 1.6027523E-5 | 1.0 | 0.0 | 5.251105E-5 | 6.868759E-5 | 6.868759E-5 | 1.0 | 0.0 | 6.391345E-4 | 8.3595334E-4 | 8.3595334E-4 | 1.0 | 0.0 | 0.0063729943 | 0.00832853 | 0.00832853 | 1.0 | 0.0 |
+| 7.5 | 1.0913301E-5 | 1.42423E-5 | 1.42423E-5 | 1.0 | 0.0 | 4.6770452E-5 | 6.103701E-5 | 6.103701E-5 | 1.0 | 0.0 | 5.6928146E-4 | 7.4287504E-4 | 7.4287504E-4 | 1.0 | 0.0 | 0.0056782532 | 0.007404292 | 0.007404292 | 1.0 | 0.0 |
+| 7.6 | 8.623192E-6 | 1.1235461E-5 | 1.1235461E-5 | 1.0 | 0.0 | 3.6956015E-5 | 4.8151098E-5 | 4.8151098E-5 | 1.0 | 0.0 | 4.4984656E-4 | 5.860845E-4 | 5.860845E-4 | 1.0 | 0.0 | 0.00448937 | 0.005845703 | 0.005845703 | 1.0 | 0.0 |
+| 7.7 | 2.0993634E-6 | 2.662731E-6 | 2.662731E-6 | 1.0 | 0.0 | 8.997241E-6 | 1.1411655E-5 | 1.1411655E-5 | 1.0 | 0.0 | 1.09535904E-4 | 1.3892811E-4 | 1.3892811E-4 | 1.0 | 0.0 | 0.0010948193 | 0.0013884191 | 0.0013884191 | 1.0 | 0.0 |
+| 7.8 | 1.8428308E-7 | 2.1675433E-7 | 2.1675433E-7 | 1.0 | 0.0 | 7.897844E-7 | 9.289468E-7 | 9.289468E-7 | 1.0 | 0.0 | 9.615583E-6 | 1.1309872E-5 | 1.1309872E-5 | 1.0 | 0.0 | 9.615166E-5 | 1.1309158E-4 | 1.1309158E-4 | 1.0 | 0.0 |
+
+## Calaveras (Central) 2011 CFM
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Calaveras_Central_2011_CFM_1wk.png) | ![MPD](Calaveras_Central_2011_CFM_1mo.png) | ![MPD](Calaveras_Central_2011_CFM_1yr.png) | ![MPD](Calaveras_Central_2011_CFM_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.5010907E-4 | 2.4796682E-4 | 2.4796682E-4 | 1.0 | 0.0 | 6.4316596E-4 | 0.001062293 | 0.001062293 | 1.0 | 0.0 | 0.0078024664 | 0.012855953 | 0.012855953 | 1.0 | 0.0 | 0.07534136 | 0.12045383 | 0.120462626 | 1.0000731 | 1.0E-5 |
+| 6.1 | 1.4521465E-4 | 2.3960386E-4 | 2.3960386E-4 | 1.0 | 0.0 | 6.222001E-4 | 0.001026482 | 0.001026482 | 1.0 | 0.0 | 0.0075490056 | 0.012425177 | 0.012425177 | 1.0 | 0.0 | 0.07297657 | 0.11672533 | 0.11673416 | 1.0000757 | 1.0E-5 |
+| 6.2 | 1.429998E-4 | 2.3891544E-4 | 2.3891544E-4 | 1.0 | 0.0 | 6.127123E-4 | 0.001023534 | 0.001023534 | 1.0 | 0.0 | 0.007434286 | 0.012389729 | 0.012389729 | 1.0 | 0.0 | 0.07190444 | 0.116378844 | 0.11638768 | 1.0000759 | 1.0E-5 |
+| 6.3 | 1.3536277E-4 | 2.3222562E-4 | 2.3222562E-4 | 1.0 | 0.0 | 5.799972E-4 | 9.948855E-4 | 9.948855E-4 | 1.0 | 0.0 | 0.0070386264 | 0.0120457765 | 0.0120457765 | 1.0 | 0.0 | 0.0681982 | 0.11329023 | 0.113299094 | 1.0000783 | 1.0E-5 |
+| 6.4 | 1.2993296E-4 | 2.2645849E-4 | 2.2645849E-4 | 1.0 | 0.0 | 5.5673666E-4 | 9.701878E-4 | 9.701878E-4 | 1.0 | 0.0 | 0.006757223 | 0.011748457 | 0.011748457 | 1.0 | 0.0 | 0.06555412 | 0.11056722 | 0.11057611 | 1.0000805 | 1.0E-5 |
+| 6.5 | 1.0498927E-4 | 1.7992541E-4 | 1.7992541E-4 | 1.0 | 0.0 | 4.498764E-4 | 7.7088235E-4 | 7.7088235E-4 | 1.0 | 0.0 | 0.005463498 | 0.009344838 | 0.009344838 | 1.0 | 0.0 | 0.053311124 | 0.08924731 | 0.08925641 | 1.000102 | 1.0E-5 |
+| 6.6 | 1.0157505E-4 | 1.7479967E-4 | 1.7479967E-4 | 1.0 | 0.0 | 4.35249E-4 | 7.4892765E-4 | 7.4892765E-4 | 1.0 | 0.0 | 0.0052862884 | 0.009079857 | 0.009079857 | 1.0 | 0.0 | 0.05162293 | 0.0868246 | 0.08683374 | 1.0001051 | 1.0E-5 |
+| 6.7 | 9.660386E-5 | 1.6739183E-4 | 1.6739183E-4 | 1.0 | 0.0 | 4.1395082E-4 | 7.1719754E-4 | 7.1719754E-4 | 1.0 | 0.0 | 0.0050282106 | 0.008696722 | 0.008696722 | 1.0 | 0.0 | 0.049159497 | 0.083313726 | 0.08332289 | 1.00011 | 1.0E-5 |
+| 6.8 | 9.089927E-5 | 1.565333E-4 | 1.565333E-4 | 1.0 | 0.0 | 3.8951015E-4 | 6.7068555E-4 | 6.7068555E-4 | 1.0 | 0.0 | 0.0047319788 | 0.008134782 | 0.008134782 | 1.0 | 0.0 | 0.046324775 | 0.07820561 | 0.078214824 | 1.0001179 | 1.0E-5 |
+| 6.9 | 7.353187E-5 | 1.2304155E-4 | 1.2304155E-4 | 1.0 | 0.0 | 3.150985E-4 | 5.272149E-4 | 5.272149E-4 | 1.0 | 0.0 | 0.0038295772 | 0.0064000706 | 0.0064000706 | 1.0 | 0.0 | 0.037642512 | 0.06222852 | 0.0622379 | 1.0001507 | 1.0E-5 |
+| 7.0 | 5.746064E-5 | 9.3970615E-5 | 9.3970615E-5 | 1.0 | 0.0 | 2.4623662E-4 | 4.026694E-4 | 4.026694E-4 | 1.0 | 0.0 | 0.0029938098 | 0.004891551 | 0.004891551 | 1.0 | 0.0 | 0.02953797 | 0.048025973 | 0.04803549 | 1.0001982 | 1.0E-5 |
+| 7.1 | 4.9557195E-5 | 8.058512E-5 | 8.058512E-5 | 1.0 | 0.0 | 2.123707E-4 | 3.4531942E-4 | 3.4531942E-4 | 1.0 | 0.0 | 0.0025825473 | 0.004196222 | 0.004196222 | 1.0 | 0.0 | 0.0255274 | 0.041402142 | 0.041411728 | 1.0002315 | 1.0E-5 |
+| 7.2 | 3.687595E-5 | 5.9582813E-5 | 5.9582813E-5 | 1.0 | 0.0 | 1.5803022E-4 | 2.553301E-4 | 2.553301E-4 | 1.0 | 0.0 | 0.0019223199 | 0.0031042416 | 0.0031042416 | 1.0 | 0.0 | 0.01905776 | 0.030912044 | 0.030921733 | 1.0003135 | 1.0E-5 |
+| 7.3 | 2.5846984E-5 | 4.25232E-5 | 4.25232E-5 | 1.0 | 0.0 | 1.1076809E-4 | 1.8222965E-4 | 1.8222965E-4 | 1.0 | 0.0 | 0.0013477671 | 0.002216406 | 0.002216406 | 1.0 | 0.0 | 0.013396223 | 0.022200705 | 0.022210484 | 1.0004405 | 1.0E-5 |
+| 7.4 | 1.7747854E-5 | 2.995814E-5 | 2.995814E-5 | 1.0 | 0.0 | 7.6060016E-5 | 1.2838573E-4 | 1.2838573E-4 | 1.0 | 0.0 | 9.2563726E-4 | 0.0015619784 | 0.0015619784 | 1.0 | 0.0 | 0.009217911 | 0.015719919 | 0.015719919 | 1.0 | 0.0 |
+| 7.5 | 1.4883479E-5 | 2.626427E-5 | 2.626427E-5 | 1.0 | 0.0 | 6.378478E-5 | 1.1255632E-4 | 1.1255632E-4 | 1.0 | 0.0 | 7.76303E-4 | 0.0013695145 | 0.0013695145 | 1.0 | 0.0 | 0.0077359667 | 0.013812616 | 0.013812616 | 1.0 | 0.0 |
+| 7.6 | 8.166975E-6 | 1.4980282E-5 | 1.4980282E-5 | 1.0 | 0.0 | 3.5000852E-5 | 6.419963E-5 | 6.419963E-5 | 1.0 | 0.0 | 4.2605202E-4 | 7.813516E-4 | 7.813516E-4 | 1.0 | 0.0 | 0.004252361 | 0.007948079 | 0.007948079 | 1.0 | 0.0 |
+| 7.7 | 3.3858064E-6 | 6.2639187E-6 | 6.2639187E-6 | 1.0 | 0.0 | 1.4510518E-5 | 2.684509E-5 | 2.684509E-5 | 1.0 | 0.0 | 1.7665124E-4 | 3.2679E-4 | 3.2679E-4 | 1.0 | 0.0 | 0.0017651088 | 0.0033931618 | 0.0033931618 | 1.0 | 0.0 |
+| 7.8 | 2.7721615E-6 | 5.374935E-6 | 5.374935E-6 | 1.0 | 0.0 | 1.1880637E-5 | 2.3035233E-5 | 2.3035233E-5 | 1.0 | 0.0 | 1.4463716E-4 | 2.804179E-4 | 2.804179E-4 | 1.0 | 0.0 | 0.0014454306 | 0.0029116636 | 0.0029116636 | 1.0 | 0.0 |
+| 7.9 | 1.9736292E-6 | 4.134639E-6 | 4.134639E-6 | 1.0 | 0.0 | 8.4583835E-6 | 1.771976E-5 | 1.771976E-5 | 1.0 | 0.0 | 1.0297595E-4 | 2.1571676E-4 | 2.1571676E-4 | 1.0 | 0.0 | 0.0010292825 | 0.0022266437 | 0.0022266437 | 1.0 | 0.0 |
+| 8.0 | 1.1767289E-6 | 2.5581394E-6 | 2.5581394E-6 | 1.0 | 0.0 | 5.0431145E-6 | 1.0963409E-5 | 1.0963409E-5 | 1.0 | 0.0 | 6.139818E-5 | 1.3347136E-4 | 1.3347136E-4 | 1.0 | 0.0 | 6.1381224E-4 | 0.0013678768 | 0.0013678768 | 1.0 | 0.0 |
+| 8.1 | 7.5112825E-7 | 1.5431651E-6 | 1.5431651E-6 | 1.0 | 0.0 | 3.2191172E-6 | 6.613548E-6 | 6.613548E-6 | 1.0 | 0.0 | 3.9192048E-5 | 8.051699E-5 | 8.051699E-5 | 1.0 | 0.0 | 3.9185135E-4 | 8.24639E-4 | 8.24639E-4 | 1.0 | 0.0 |
+
+## Owens Valley Keough Hot Springs
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Owens_Valley_Keough_Hot_Springs_1wk.png) | ![MPD](Owens_Valley_Keough_Hot_Springs_1mo.png) | ![MPD](Owens_Valley_Keough_Hot_Springs_1yr.png) | ![MPD](Owens_Valley_Keough_Hot_Springs_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.5708529E-5 | 4.951128E-6 | 4.951128E-6 | 1.0 | 0.0 | 6.7320536E-5 | 2.1218977E-5 | 2.1218977E-5 | 1.0 | 0.0 | 8.193192E-4 | 2.5831553E-4 | 2.6831296E-4 | 1.0387024 | 1.0E-5 | 0.008163051 | 0.0025808115 | 0.0025907857 | 1.0038648 | 1.0E-5 |
+| 6.1 | 1.5708529E-5 | 4.951128E-6 | 4.951128E-6 | 1.0 | 0.0 | 6.7320536E-5 | 2.1218977E-5 | 2.1218977E-5 | 1.0 | 0.0 | 8.193192E-4 | 2.5831553E-4 | 2.6831296E-4 | 1.0387024 | 1.0E-5 | 0.008163051 | 0.0025808115 | 0.0025907857 | 1.0038648 | 1.0E-5 |
+| 6.2 | 1.5708529E-5 | 4.951128E-6 | 4.951128E-6 | 1.0 | 0.0 | 6.7320536E-5 | 2.1218977E-5 | 2.1218977E-5 | 1.0 | 0.0 | 8.193192E-4 | 2.5831553E-4 | 2.6831296E-4 | 1.0387024 | 1.0E-5 | 0.008163051 | 0.0025808115 | 0.0025907857 | 1.0038648 | 1.0E-5 |
+| 6.3 | 1.5708529E-5 | 4.951128E-6 | 4.951128E-6 | 1.0 | 0.0 | 6.7320536E-5 | 2.1218977E-5 | 2.1218977E-5 | 1.0 | 0.0 | 8.193192E-4 | 2.5831553E-4 | 2.6831296E-4 | 1.0387024 | 1.0E-5 | 0.008163051 | 0.0025808115 | 0.0025907857 | 1.0038648 | 1.0E-5 |
+| 6.4 | 1.4622509E-5 | 3.7269347E-6 | 3.7269347E-6 | 1.0 | 0.0 | 6.266639E-5 | 1.5972499E-5 | 1.5972499E-5 | 1.0 | 0.0 | 7.626962E-4 | 1.9445112E-4 | 2.0444917E-4 | 1.0514168 | 1.0E-5 | 0.007600839 | 0.0019432895 | 0.00195327 | 1.0051359 | 1.0E-5 |
+| 6.5 | 1.3335527E-5 | 2.2780637E-6 | 2.2780637E-6 | 1.0 | 0.0 | 5.7151006E-5 | 9.763097E-6 | 9.763097E-6 | 1.0 | 0.0 | 6.955913E-4 | 1.1885991E-4 | 1.2885872E-4 | 1.0841227 | 1.0E-5 | 0.0069341804 | 0.001188186 | 0.0011981741 | 1.0084062 | 1.0E-5 |
+| 6.6 | 1.3332855E-5 | 2.2752129E-6 | 2.2752129E-6 | 1.0 | 0.0 | 5.7139558E-5 | 9.750879E-6 | 9.750879E-6 | 1.0 | 0.0 | 6.9545204E-4 | 1.1871117E-4 | 1.2870999E-4 | 1.084228 | 1.0E-5 | 0.0069327964 | 0.0011867002 | 0.0011966883 | 1.0084168 | 1.0E-5 |
+| 6.7 | 1.3318214E-5 | 2.2644422E-6 | 2.2644422E-6 | 1.0 | 0.0 | 5.707681E-5 | 9.70472E-6 | 9.70472E-6 | 1.0 | 0.0 | 6.946886E-4 | 1.1814924E-4 | 1.2814807E-4 | 1.0846287 | 1.0E-5 | 0.0069252094 | 0.0011810869 | 0.001191075 | 1.0084568 | 1.0E-5 |
+| 6.8 | 1.2441338E-5 | 1.6780807E-6 | 1.6780807E-6 | 1.0 | 0.0 | 5.331893E-5 | 7.1917566E-6 | 7.1917566E-6 | 1.0 | 0.0 | 6.489646E-4 | 8.7556415E-5 | 9.755554E-5 | 1.114202 | 1.0E-5 | 0.0064707273 | 8.754041E-4 | 8.8539533E-4 | 1.0114133 | 1.0E-5 |
+| 6.9 | 1.1130476E-5 | 1.0305876E-6 | 1.0305876E-6 | 1.0 | 0.0 | 4.7701167E-5 | 4.4167964E-6 | 4.4167964E-6 | 1.0 | 0.0 | 5.806069E-4 | 5.3773183E-5 | 5.3773183E-5 | 1.0 | 0.0 | 0.0057909233 | 5.377564E-4 | 5.377564E-4 | 1.0 | 0.0 |
+| 7.0 | 1.0986073E-5 | 9.581339E-7 | 9.581339E-7 | 1.0 | 0.0 | 4.7082318E-5 | 4.1062817E-6 | 4.1062817E-6 | 1.0 | 0.0 | 5.730765E-4 | 4.9992846E-5 | 4.9992846E-5 | 1.0 | 0.0 | 0.0057160086 | 4.9996964E-4 | 4.9996964E-4 | 1.0 | 0.0 |
+| 7.1 | 1.0451338E-5 | 8.00185E-7 | 8.00185E-7 | 1.0 | 0.0 | 4.4790682E-5 | 3.4293596E-6 | 3.4293596E-6 | 1.0 | 0.0 | 5.451901E-4 | 4.175166E-5 | 4.175166E-5 | 1.0 | 0.0 | 0.005438545 | 4.1758787E-4 | 4.1758787E-4 | 1.0 | 0.0 |
+| 7.2 | 9.989061E-6 | 6.5463087E-7 | 6.5463087E-7 | 1.0 | 0.0 | 4.280956E-5 | 2.8055579E-6 | 2.8055579E-6 | 1.0 | 0.0 | 5.2108173E-4 | 3.4157136E-5 | 3.4157136E-5 | 1.0 | 0.0 | 0.0051986156 | 3.4165636E-4 | 3.4165636E-4 | 1.0 | 0.0 |
+| 7.3 | 9.465365E-6 | 5.4613076E-7 | 5.4613076E-7 | 1.0 | 0.0 | 4.056522E-5 | 2.3405585E-6 | 2.3405585E-6 | 1.0 | 0.0 | 4.937696E-4 | 2.849593E-5 | 2.849593E-5 | 1.0 | 0.0 | 0.0049267393 | 2.850554E-4 | 2.850554E-4 | 1.0 | 0.0 |
+| 7.4 | 6.3824805E-6 | 4.0173765E-7 | 4.0173765E-7 | 1.0 | 0.0 | 2.73532E-5 | 1.7217317E-6 | 1.7217317E-6 | 1.0 | 0.0 | 3.3297433E-4 | 2.0961885E-5 | 2.0961885E-5 | 1.0 | 0.0 | 0.0033247585 | 2.0969151E-4 | 2.0969151E-4 | 1.0 | 0.0 |
+| 7.5 | 1.6192645E-6 | 2.5167552E-7 | 2.5167552E-7 | 1.0 | 0.0 | 6.9396865E-6 | 1.0786089E-6 | 1.0786089E-6 | 1.0 | 0.0 | 8.448741E-5 | 1.3131986E-5 | 1.3131986E-5 | 1.0 | 0.0 | 8.4455294E-4 | 1.3131222E-4 | 1.3131222E-4 | 1.0 | 0.0 |
+| 7.6 | 5.7062545E-7 | 1.079494E-7 | 1.079494E-7 | 1.0 | 0.0 | 2.4455355E-6 | 4.626402E-7 | 4.626402E-7 | 1.0 | 0.0 | 2.9773988E-5 | 5.6326307E-6 | 5.6326307E-6 | 1.0 | 0.0 | 2.977E-4 | 5.6324963E-5 | 5.6324963E-5 | 1.0 | 0.0 |
+| 7.7 | 2.5988817E-7 | 4.5468312E-8 | 4.5468312E-8 | 1.0 | 0.0 | 1.113806E-6 | 1.9486419E-7 | 1.9486419E-7 | 1.0 | 0.0 | 1.3560503E-5 | 2.3724692E-6 | 2.3724692E-6 | 1.0 | 0.0 | 1.3559677E-4 | 2.3724484E-5 | 2.3724484E-5 | 1.0 | 0.0 |
+
+## South Klamath Lake West
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](South_Klamath_Lake_West_1wk.png) | ![MPD](South_Klamath_Lake_West_1mo.png) | ![MPD](South_Klamath_Lake_West_1yr.png) | ![MPD](South_Klamath_Lake_West_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 2.174025E-5 | 2.3042538E-5 | 2.3042538E-5 | 1.0 | 0.0 | 9.3169176E-5 | 9.8750366E-5 | 9.8750366E-5 | 1.0 | 0.0 | 0.0011337444 | 0.0012016884 | 0.0012116764 | 1.0083116 | 1.0E-5 | 0.011279777 | 0.011958505 | 0.011968385 | 1.0008262 | 1.0E-5 |
+| 6.1 | 2.174025E-5 | 2.3042538E-5 | 2.3042538E-5 | 1.0 | 0.0 | 9.3169176E-5 | 9.8750366E-5 | 9.8750366E-5 | 1.0 | 0.0 | 0.0011337444 | 0.0012016884 | 0.0012116764 | 1.0083116 | 1.0E-5 | 0.011279777 | 0.011958505 | 0.011968385 | 1.0008262 | 1.0E-5 |
+| 6.2 | 9.834929E-6 | 1.0394061E-5 | 1.0394061E-5 | 1.0 | 0.0 | 4.2149015E-5 | 4.4545264E-5 | 4.4545264E-5 | 1.0 | 0.0 | 5.1304343E-4 | 5.422127E-4 | 5.522073E-4 | 1.018433 | 1.0E-5 | 0.0051186057 | 0.0054097995 | 0.0054197456 | 1.0018384 | 1.0E-5 |
+| 6.3 | 9.834929E-6 | 1.0394061E-5 | 1.0394061E-5 | 1.0 | 0.0 | 4.2149015E-5 | 4.4545264E-5 | 4.4545264E-5 | 1.0 | 0.0 | 5.1304343E-4 | 5.422127E-4 | 5.522073E-4 | 1.018433 | 1.0E-5 | 0.0051186057 | 0.0054097995 | 0.0054197456 | 1.0018384 | 1.0E-5 |
+| 6.4 | 6.066321E-6 | 6.400561E-6 | 6.400561E-6 | 1.0 | 0.0 | 2.5998259E-5 | 2.7430702E-5 | 2.7430702E-5 | 1.0 | 0.0 | 3.1648282E-4 | 3.3392032E-4 | 3.43917E-4 | 1.0299373 | 1.0E-5 | 0.0031603249 | 0.0033344561 | 0.003344423 | 1.0029889 | 1.0E-5 |
+| 6.5 | 6.066321E-6 | 6.400561E-6 | 6.400561E-6 | 1.0 | 0.0 | 2.5998259E-5 | 2.7430702E-5 | 2.7430702E-5 | 1.0 | 0.0 | 3.1648282E-4 | 3.3392032E-4 | 3.43917E-4 | 1.0299373 | 1.0E-5 | 0.0031603249 | 0.0033344561 | 0.003344423 | 1.0029889 | 1.0E-5 |
+| 6.6 | 4.2321803E-6 | 4.4613807E-6 | 4.4613807E-6 | 1.0 | 0.0 | 1.8137789E-5 | 1.9120069E-5 | 1.9120069E-5 | 1.0 | 0.0 | 2.208052E-4 | 2.32763E-4 | 2.32763E-4 | 1.0 | 0.0 | 0.0022058594 | 0.002325294 | 0.002325294 | 1.0 | 0.0 |
+| 6.7 | 3.186646E-6 | 3.3603733E-6 | 3.3603733E-6 | 1.0 | 0.0 | 1.3656982E-5 | 1.4401524E-5 | 1.4401524E-5 | 1.0 | 0.0 | 1.6626107E-4 | 1.7532513E-4 | 1.7532513E-4 | 1.0 | 0.0 | 0.0016613674 | 0.0017519351 | 0.0017519351 | 1.0 | 0.0 |
+| 6.8 | 2.380121E-6 | 2.5109582E-6 | 2.5109582E-6 | 1.0 | 0.0 | 1.0200479E-5 | 1.0761208E-5 | 1.0761208E-5 | 1.0 | 0.0 | 1.2418375E-4 | 1.310103E-4 | 1.310103E-4 | 1.0 | 0.0 | 0.0012411437 | 0.0013093764 | 0.0013093764 | 1.0 | 0.0 |
+| 6.9 | 8.928287E-7 | 9.430447E-7 | 9.430447E-7 | 1.0 | 0.0 | 3.826403E-6 | 4.0416153E-6 | 4.0416153E-6 | 1.0 | 0.0 | 4.658546E-5 | 4.9205773E-5 | 4.9205773E-5 | 1.0 | 0.0 | 4.6575698E-4 | 4.9197045E-4 | 4.9197045E-4 | 1.0 | 0.0 |
+
+## Camp Rock 2011
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Camp_Rock_2011_1wk.png) | ![MPD](Camp_Rock_2011_1mo.png) | ![MPD](Camp_Rock_2011_1yr.png) | ![MPD](Camp_Rock_2011_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.6710783E-5 | 4.250404E-6 | 4.250404E-6 | 1.0 | 0.0 | 7.161568E-5 | 1.8215893E-5 | 1.8215893E-5 | 1.0 | 0.0 | 8.7157206E-4 | 2.2175645E-4 | 2.2175645E-4 | 1.0 | 0.0 | 0.008681616 | 0.0022154045 | 0.0022253825 | 1.0045038 | 1.0E-5 |
+| 6.1 | 1.6710783E-5 | 4.250404E-6 | 4.250404E-6 | 1.0 | 0.0 | 7.161568E-5 | 1.8215893E-5 | 1.8215893E-5 | 1.0 | 0.0 | 8.7157206E-4 | 2.2175645E-4 | 2.2175645E-4 | 1.0 | 0.0 | 0.008681616 | 0.0022154045 | 0.0022253825 | 1.0045038 | 1.0E-5 |
+| 6.2 | 1.6710783E-5 | 4.250404E-6 | 4.250404E-6 | 1.0 | 0.0 | 7.161568E-5 | 1.8215893E-5 | 1.8215893E-5 | 1.0 | 0.0 | 8.7157206E-4 | 2.2175645E-4 | 2.2175645E-4 | 1.0 | 0.0 | 0.008681616 | 0.0022154045 | 0.0022253825 | 1.0045038 | 1.0E-5 |
+| 6.3 | 1.6710783E-5 | 4.250404E-6 | 4.250404E-6 | 1.0 | 0.0 | 7.161568E-5 | 1.8215893E-5 | 1.8215893E-5 | 1.0 | 0.0 | 8.7157206E-4 | 2.2175645E-4 | 2.2175645E-4 | 1.0 | 0.0 | 0.008681616 | 0.0022154045 | 0.0022253825 | 1.0045038 | 1.0E-5 |
+| 6.4 | 7.982846E-6 | 3.6822153E-6 | 3.6822153E-6 | 1.0 | 0.0 | 3.421175E-5 | 1.578083E-5 | 1.578083E-5 | 1.0 | 0.0 | 4.1644843E-4 | 1.9211501E-4 | 1.9211501E-4 | 1.0 | 0.0 | 0.0041566887 | 0.001919524 | 0.0019295049 | 1.0051997 | 1.0E-5 |
+| 6.5 | 7.982846E-6 | 3.6822153E-6 | 3.6822153E-6 | 1.0 | 0.0 | 3.421175E-5 | 1.578083E-5 | 1.578083E-5 | 1.0 | 0.0 | 4.1644843E-4 | 1.9211501E-4 | 1.9211501E-4 | 1.0 | 0.0 | 0.0041566887 | 0.001919524 | 0.0019295049 | 1.0051997 | 1.0E-5 |
+| 6.6 | 7.048869E-6 | 3.4244786E-6 | 3.4244786E-6 | 1.0 | 0.0 | 3.0209088E-5 | 1.4676256E-5 | 1.4676256E-5 | 1.0 | 0.0 | 3.677336E-4 | 1.7866908E-4 | 1.7866908E-4 | 1.0 | 0.0 | 0.0036712566 | 0.001785286 | 0.0017952682 | 1.0055914 | 1.0E-5 |
+| 6.7 | 6.987307E-6 | 3.362455E-6 | 3.362455E-6 | 1.0 | 0.0 | 2.9945259E-5 | 1.4410443E-5 | 1.4410443E-5 | 1.0 | 0.0 | 3.6452254E-4 | 1.7543334E-4 | 1.7543334E-4 | 1.0 | 0.0 | 0.0036392517 | 0.0017529795 | 0.001762962 | 1.0056946 | 1.0E-5 |
+| 6.8 | 6.3737602E-6 | 3.118021E-6 | 3.118021E-6 | 1.0 | 0.0 | 2.731583E-5 | 1.336288E-5 | 1.336288E-5 | 1.0 | 0.0 | 3.3251947E-4 | 1.626812E-4 | 1.626812E-4 | 1.0 | 0.0 | 0.0033202237 | 0.0016256497 | 0.0016356335 | 1.0061414 | 1.0E-5 |
+| 6.9 | 6.112211E-6 | 2.9332243E-6 | 2.9332243E-6 | 1.0 | 0.0 | 2.6194928E-5 | 1.2570902E-5 | 1.2570902E-5 | 1.0 | 0.0 | 3.1887658E-4 | 1.5304027E-4 | 1.5304027E-4 | 1.0 | 0.0 | 0.003184194 | 0.0015293765 | 0.0015393612 | 1.0065286 | 1.0E-5 |
+| 7.0 | 5.5140117E-6 | 2.642019E-6 | 2.642019E-6 | 1.0 | 0.0 | 2.3631264E-5 | 1.1322891E-5 | 1.1322891E-5 | 1.0 | 0.0 | 2.8767265E-4 | 1.3784773E-4 | 1.3784773E-4 | 1.0 | 0.0 | 0.0028730053 | 0.0013776475 | 0.0013876337 | 1.0072488 | 1.0E-5 |
+| 7.1 | 4.8151105E-6 | 2.1343515E-6 | 2.1343515E-6 | 1.0 | 0.0 | 2.0636026E-5 | 9.14719E-6 | 9.14719E-6 | 1.0 | 0.0 | 2.5121463E-4 | 1.11361565E-4 | 1.11361565E-4 | 1.0 | 0.0 | 0.0025093083 | 0.0011130795 | 0.0011230684 | 1.0089741 | 1.0E-5 |
+| 7.2 | 3.818335E-6 | 1.2938029E-6 | 1.2938029E-6 | 1.0 | 0.0 | 1.6364189E-5 | 5.544858E-6 | 5.544858E-6 | 1.0 | 0.0 | 1.9921579E-4 | 6.750664E-5 | 6.750664E-5 | 1.0 | 0.0 | 0.0019903728 | 6.748696E-4 | 6.748696E-4 | 1.0 | 0.0 |
+| 7.3 | 2.7166698E-6 | 7.3840425E-7 | 7.3840425E-7 | 1.0 | 0.0 | 1.1642818E-5 | 3.164586E-6 | 3.164586E-6 | 1.0 | 0.0 | 1.4174209E-4 | 3.8528175E-5 | 3.8528175E-5 | 1.0 | 0.0 | 0.0014165172 | 3.8521693E-4 | 3.8521693E-4 | 1.0 | 0.0 |
+| 7.4 | 2.0893426E-6 | 5.4622075E-7 | 5.4622075E-7 | 1.0 | 0.0 | 8.954295E-6 | 2.340944E-6 | 2.340944E-6 | 1.0 | 0.0 | 1.0901308E-4 | 2.8500626E-5 | 2.8500626E-5 | 1.0 | 0.0 | 0.0010895962 | 2.8497024E-4 | 2.8497024E-4 | 1.0 | 0.0 |
+| 7.5 | 1.1681728E-6 | 3.6032552E-7 | 3.6032552E-7 | 1.0 | 0.0 | 5.0064455E-6 | 1.5442513E-6 | 1.5442513E-6 | 1.0 | 0.0 | 6.0951766E-5 | 1.8801102E-5 | 1.8801102E-5 | 1.0 | 0.0 | 6.093505E-4 | 1.8799558E-4 | 1.8799558E-4 | 1.0 | 0.0 |
+| 7.6 | 1.3154387E-7 | 7.119984E-8 | 7.119984E-8 | 1.0 | 0.0 | 5.6375933E-7 | 3.0514218E-7 | 3.0514218E-7 | 1.0 | 0.0 | 6.863748E-6 | 3.7151012E-6 | 3.7151012E-6 | 1.0 | 0.0 | 6.863536E-5 | 3.715055E-5 | 3.715055E-5 | 1.0 | 0.0 |
+
+## San Gregorio (North) 2011 CFM
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](San_Gregorio_North_2011_CFM_1wk.png) | ![MPD](San_Gregorio_North_2011_CFM_1mo.png) | ![MPD](San_Gregorio_North_2011_CFM_1yr.png) | ![MPD](San_Gregorio_North_2011_CFM_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 5.0283932E-5 | 4.3073043E-5 | 4.3073043E-5 | 1.0 | 0.0 | 2.1548476E-4 | 1.845856E-4 | 1.9458376E-4 | 1.0541654 | 1.0E-5 | 0.0026203706 | 0.0022450294 | 0.002255007 | 1.0044442 | 1.0E-5 | 0.02589687 | 0.022301044 | 0.022310821 | 1.0004385 | 1.0E-5 |
+| 6.1 | 5.0283932E-5 | 4.3073043E-5 | 4.3073043E-5 | 1.0 | 0.0 | 2.1548476E-4 | 1.845856E-4 | 1.9458376E-4 | 1.0541654 | 1.0E-5 | 0.0026203706 | 0.0022450294 | 0.002255007 | 1.0044442 | 1.0E-5 | 0.02589687 | 0.022301044 | 0.022310821 | 1.0004385 | 1.0E-5 |
+| 6.2 | 4.2998647E-5 | 3.4455905E-5 | 3.4455905E-5 | 1.0 | 0.0 | 1.842669E-4 | 1.4765965E-4 | 1.5765819E-4 | 1.0677133 | 1.0E-5 | 0.0022411412 | 0.0017962867 | 0.0018062687 | 1.0055571 | 1.0E-5 | 0.022186736 | 0.017893974 | 0.017903795 | 1.0005488 | 1.0E-5 |
+| 6.3 | 4.2998647E-5 | 3.4455905E-5 | 3.4455905E-5 | 1.0 | 0.0 | 1.842669E-4 | 1.4765965E-4 | 1.5765819E-4 | 1.0677133 | 1.0E-5 | 0.0022411412 | 0.0017962867 | 0.0018062687 | 1.0055571 | 1.0E-5 | 0.022186736 | 0.017893974 | 0.017903795 | 1.0005488 | 1.0E-5 |
+| 6.4 | 4.1101295E-5 | 3.2340977E-5 | 3.2340977E-5 | 1.0 | 0.0 | 1.7613651E-4 | 1.3859668E-4 | 1.4859528E-4 | 1.0721418 | 1.0E-5 | 0.0021423528 | 0.0016861213 | 0.0016961045 | 1.0059208 | 1.0E-5 | 0.02121817 | 0.016809238 | 0.01681907 | 1.000585 | 1.0E-5 |
+| 6.5 | 4.1032585E-5 | 3.2259002E-5 | 3.2259002E-5 | 1.0 | 0.0 | 1.7584208E-4 | 1.382454E-4 | 1.4824401E-4 | 1.0723251 | 1.0E-5 | 0.0021387753 | 0.0016818513 | 0.0016918345 | 1.0059358 | 1.0E-5 | 0.021183075 | 0.016767189 | 0.01677702 | 1.0005864 | 1.0E-5 |
+| 6.6 | 4.011629E-5 | 3.1280546E-5 | 3.1280546E-5 | 1.0 | 0.0 | 1.7191563E-4 | 1.3405245E-4 | 1.440511E-4 | 1.0745877 | 1.0E-5 | 0.0020910634 | 0.0016308803 | 0.001640864 | 1.0061216 | 1.0E-5 | 0.020714961 | 0.016264709 | 0.016274545 | 1.0006049 | 1.0E-5 |
+| 6.7 | 3.8583938E-5 | 2.9467401E-5 | 2.9467401E-5 | 1.0 | 0.0 | 1.6534925E-4 | 1.2628283E-4 | 1.3628157E-4 | 1.0791774 | 1.0E-5 | 0.0020112682 | 0.0015364232 | 0.0015464078 | 1.0064986 | 1.0E-5 | 0.019931622 | 0.015333165 | 0.015343012 | 1.0006422 | 1.0E-5 |
+| 6.8 | 3.44341E-5 | 2.44642E-5 | 2.44642E-5 | 1.0 | 0.0 | 1.4756636E-4 | 1.0484242E-4 | 1.14841365E-4 | 1.0953712 | 1.0E-5 | 0.0017951399 | 0.0012757193 | 0.0012857064 | 1.0078287 | 1.0E-5 | 0.017807078 | 0.012758123 | 0.012767996 | 1.0007738 | 1.0E-5 |
+| 6.9 | 3.221199E-5 | 2.1787615E-5 | 2.1787615E-5 | 1.0 | 0.0 | 1.3804408E-4 | 9.33722E-5 | 9.33722E-5 | 1.0 | 0.0 | 0.0016793909 | 0.0011362219 | 0.0011362219 | 1.0 | 0.0 | 0.01666756 | 0.011377644 | 0.011377644 | 1.0 | 0.0 |
+| 7.0 | 2.9186718E-5 | 1.815431E-5 | 1.815431E-5 | 1.0 | 0.0 | 1.2507994E-4 | 7.780189E-5 | 7.780189E-5 | 1.0 | 0.0 | 0.0015217843 | 9.4683067E-4 | 9.4683067E-4 | 1.0 | 0.0 | 0.015114053 | 0.009500756 | 0.009500756 | 1.0 | 0.0 |
+| 7.1 | 2.6840138E-5 | 1.5291298E-5 | 1.5291298E-5 | 1.0 | 0.0 | 1.1502409E-4 | 6.55325E-5 | 6.55325E-5 | 1.0 | 0.0 | 0.0013995186 | 7.97568E-4 | 7.97568E-4 | 1.0 | 0.0 | 0.013907375 | 0.008019351 | 0.008019351 | 1.0 | 0.0 |
+| 7.2 | 2.453002E-5 | 1.2612979E-5 | 1.2612979E-5 | 1.0 | 0.0 | 1.05124425E-4 | 5.4054508E-5 | 5.4054508E-5 | 1.0 | 0.0 | 0.0012791384 | 6.579155E-4 | 6.579155E-4 | 1.0 | 0.0 | 0.012718005 | 0.0066310135 | 0.0066310135 | 1.0 | 0.0 |
+| 7.3 | 2.3330727E-5 | 1.1494777E-5 | 1.1494777E-5 | 1.0 | 0.0 | 9.9985E-5 | 4.9262402E-5 | 4.9262402E-5 | 1.0 | 0.0 | 0.0012166376 | 5.9960515E-4 | 5.9960515E-4 | 1.0 | 0.0 | 0.012099981 | 0.0060498407 | 0.0060498407 | 1.0 | 0.0 |
+| 7.4 | 2.2136466E-5 | 1.0374679E-5 | 1.0374679E-5 | 1.0 | 0.0 | 9.486712E-5 | 4.446215E-5 | 4.446215E-5 | 1.0 | 0.0 | 0.0011543952 | 5.4119254E-4 | 5.4119254E-4 | 1.0 | 0.0 | 0.011484168 | 0.0054673133 | 0.0054673133 | 1.0 | 0.0 |
+| 7.5 | 2.0994974E-5 | 9.432709E-6 | 9.432709E-6 | 1.0 | 0.0 | 8.997535E-5 | 4.042527E-5 | 4.042527E-5 | 1.0 | 0.0 | 0.0010948994 | 4.920667E-4 | 4.920667E-4 | 1.0 | 0.0 | 0.010895205 | 0.004976314 | 0.004976314 | 1.0 | 0.0 |
+| 7.6 | 1.7091823E-5 | 6.897964E-6 | 6.897964E-6 | 1.0 | 0.0 | 7.3248615E-5 | 2.9562367E-5 | 2.9562367E-5 | 1.0 | 0.0 | 8.9143694E-4 | 3.598625E-4 | 3.598625E-4 | 1.0 | 0.0 | 0.008878695 | 0.003650556 | 0.003650556 | 1.0 | 0.0 |
+| 7.7 | 1.2772179E-5 | 4.0238565E-6 | 4.0238565E-6 | 1.0 | 0.0 | 5.473676E-5 | 1.7244984E-5 | 1.7244984E-5 | 1.0 | 0.0 | 6.6621625E-4 | 2.0993748E-4 | 2.0993748E-4 | 1.0 | 0.0 | 0.006642225 | 0.002138552 | 0.002138552 | 1.0 | 0.0 |
+| 7.8 | 7.041923E-6 | 1.9425775E-6 | 1.9425775E-6 | 1.0 | 0.0 | 3.017932E-5 | 8.325305E-6 | 8.325305E-6 | 1.0 | 0.0 | 3.6737128E-4 | 1.0135588E-4 | 1.0135588E-4 | 1.0 | 0.0 | 0.0036676454 | 0.0010389668 | 0.0010389668 | 1.0 | 0.0 |
+| 7.9 | 2.946768E-6 | 1.0045106E-6 | 1.0045106E-6 | 1.0 | 0.0 | 1.2628945E-5 | 4.3050386E-6 | 4.3050386E-6 | 1.0 | 0.0 | 1.5374656E-4 | 5.2412583E-5 | 5.2412583E-5 | 1.0 | 0.0 | 0.0015364023 | 5.346189E-4 | 5.346189E-4 | 1.0 | 0.0 |
+| 8.0 | 1.1433375E-6 | 5.1880994E-7 | 5.1880994E-7 | 1.0 | 0.0 | 4.9000087E-6 | 2.2234692E-6 | 2.2234692E-6 | 1.0 | 0.0 | 5.965597E-5 | 2.70704E-5 | 2.70704E-5 | 1.0 | 0.0 | 5.963996E-4 | 2.743333E-4 | 2.743333E-4 | 1.0 | 0.0 |
+| 8.1 | 2.6675295E-7 | 1.631507E-7 | 1.631507E-7 | 1.0 | 0.0 | 1.1432264E-6 | 6.992171E-7 | 6.992171E-7 | 1.0 | 0.0 | 1.3918692E-5 | 8.512935E-6 | 8.512935E-6 | 1.0 | 0.0 | 1.391782E-4 | 8.651227E-5 | 8.651227E-5 | 1.0 | 0.0 |
+| 8.2 | 1.2704569E-8 | 9.4541255E-9 | 9.4541255E-9 | 1.0 | 0.0 | 5.444815E-8 | 4.051768E-8 | 4.051768E-8 | 1.0 | 0.0 | 6.629061E-7 | 4.9330265E-7 | 4.9330265E-7 | 1.0 | 0.0 | 6.629041E-6 | 5.124241E-6 | 5.124241E-6 | 1.0 | 0.0 |
+
+## Cedar Mtn-Mahogany Mtn
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Cedar_Mtn_Mahogany_Mtn_1wk.png) | ![MPD](Cedar_Mtn_Mahogany_Mtn_1mo.png) | ![MPD](Cedar_Mtn_Mahogany_Mtn_1yr.png) | ![MPD](Cedar_Mtn_Mahogany_Mtn_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 2.7763876E-5 | 2.958959E-5 | 2.958959E-5 | 1.0 | 0.0 | 1.1898261E-4 | 1.2680676E-4 | 1.2680676E-4 | 1.0 | 0.0 | 0.0014476506 | 0.0015428489 | 0.0015428489 | 1.0 | 0.0 | 0.0143825635 | 0.015328597 | 0.015338444 | 1.0006424 | 1.0E-5 |
+| 6.1 | 1.6162443E-5 | 1.7143353E-5 | 1.7143353E-5 | 1.0 | 0.0 | 6.926578E-5 | 7.346954E-5 | 7.346954E-5 | 1.0 | 0.0 | 8.4298453E-4 | 8.941423E-4 | 8.941423E-4 | 1.0 | 0.0 | 0.008397939 | 0.0089072585 | 0.0089072585 | 1.0 | 0.0 |
+| 6.2 | 1.6162443E-5 | 1.7143353E-5 | 1.7143353E-5 | 1.0 | 0.0 | 6.926578E-5 | 7.346954E-5 | 7.346954E-5 | 1.0 | 0.0 | 8.4298453E-4 | 8.941423E-4 | 8.941423E-4 | 1.0 | 0.0 | 0.008397939 | 0.0089072585 | 0.0089072585 | 1.0 | 0.0 |
+| 6.3 | 9.746053E-6 | 1.0303371E-5 | 1.0303371E-5 | 1.0 | 0.0 | 4.1768133E-5 | 4.415658E-5 | 4.415658E-5 | 1.0 | 0.0 | 5.0840835E-4 | 5.3747784E-4 | 5.3747784E-4 | 1.0 | 0.0 | 0.0050724675 | 0.0053621978 | 0.0053621978 | 1.0 | 0.0 |
+| 6.4 | 9.746053E-6 | 1.0303371E-5 | 1.0303371E-5 | 1.0 | 0.0 | 4.1768133E-5 | 4.415658E-5 | 4.415658E-5 | 1.0 | 0.0 | 5.0840835E-4 | 5.3747784E-4 | 5.3747784E-4 | 1.0 | 0.0 | 0.0050724675 | 0.0053621978 | 0.0053621978 | 1.0 | 0.0 |
+| 6.5 | 7.290083E-6 | 7.695484E-6 | 7.695484E-6 | 1.0 | 0.0 | 3.124284E-5 | 3.298024E-5 | 3.298024E-5 | 1.0 | 0.0 | 3.8031515E-4 | 4.014626E-4 | 4.014626E-4 | 1.0 | 0.0 | 0.0037966494 | 0.0040075937 | 0.0040075937 | 1.0 | 0.0 |
+| 6.6 | 5.67907E-6 | 5.989274E-6 | 5.989274E-6 | 1.0 | 0.0 | 2.4338644E-5 | 2.5668072E-5 | 2.5668072E-5 | 1.0 | 0.0 | 2.962827E-4 | 3.1246533E-4 | 3.1246533E-4 | 1.0 | 0.0 | 0.0029588798 | 0.003120396 | 0.003120396 | 1.0 | 0.0 |
+| 6.7 | 3.4853963E-6 | 3.6727042E-6 | 3.6727042E-6 | 1.0 | 0.0 | 1.4937327E-5 | 1.574007E-5 | 1.574007E-5 | 1.0 | 0.0 | 1.8184677E-4 | 1.9161912E-4 | 1.9161912E-4 | 1.0 | 0.0 | 0.0018169804 | 0.001914601 | 0.001914601 | 1.0 | 0.0 |
+| 6.8 | 2.7535168E-6 | 2.9016344E-6 | 2.9016344E-6 | 1.0 | 0.0 | 1.1800733E-5 | 1.2435519E-5 | 1.2435519E-5 | 1.0 | 0.0 | 1.4366445E-4 | 1.513924E-4 | 1.513924E-4 | 1.0 | 0.0 | 0.0014357162 | 0.0015129399 | 0.0015129399 | 1.0 | 0.0 |
+| 6.9 | 1.6594106E-6 | 1.749734E-6 | 1.749734E-6 | 1.0 | 0.0 | 7.1117406E-6 | 7.4988398E-6 | 7.4988398E-6 | 1.0 | 0.0 | 8.6582E-5 | 9.129486E-5 | 9.129486E-5 | 1.0 | 0.0 | 8.654827E-4 | 9.1260404E-4 | 9.1260404E-4 | 1.0 | 0.0 |
+| 7.0 | 5.10215E-7 | 5.3893666E-7 | 5.3893666E-7 | 1.0 | 0.0 | 2.186634E-6 | 2.309727E-6 | 2.309727E-6 | 1.0 | 0.0 | 2.6621943E-5 | 2.8120694E-5 | 2.8120694E-5 | 1.0 | 0.0 | 2.6618753E-4 | 2.811839E-4 | 2.811839E-4 | 1.0 | 0.0 |
+
+## Gillem - Big Crack 2011 CFM
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Gillem_Big_Crack_2011_CFM_1wk.png) | ![MPD](Gillem_Big_Crack_2011_CFM_1mo.png) | ![MPD](Gillem_Big_Crack_2011_CFM_1yr.png) | ![MPD](Gillem_Big_Crack_2011_CFM_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 2.196852E-5 | 2.3605138E-5 | 2.3605138E-5 | 1.0 | 0.0 | 9.4147406E-5 | 1.0116146E-4 | 1.0116146E-4 | 1.0 | 0.0 | 0.0011456419 | 0.0012310338 | 0.0012310338 | 1.0 | 0.0 | 0.011397537 | 0.012251006 | 0.012260884 | 1.0008062 | 1.0E-5 |
+| 6.1 | 9.992795E-6 | 1.0712176E-5 | 1.0712176E-5 | 1.0 | 0.0 | 4.2825563E-5 | 4.5908622E-5 | 4.5908622E-5 | 1.0 | 0.0 | 5.2127644E-4 | 5.5881246E-4 | 5.5881246E-4 | 1.0 | 0.0 | 0.0052005537 | 0.005575883 | 0.005575883 | 1.0 | 0.0 |
+| 6.2 | 9.992795E-6 | 1.0712176E-5 | 1.0712176E-5 | 1.0 | 0.0 | 4.2825563E-5 | 4.5908622E-5 | 4.5908622E-5 | 1.0 | 0.0 | 5.2127644E-4 | 5.5881246E-4 | 5.5881246E-4 | 1.0 | 0.0 | 0.0052005537 | 0.005575883 | 0.005575883 | 1.0 | 0.0 |
+| 6.3 | 4.6127884E-6 | 4.942788E-6 | 4.942788E-6 | 1.0 | 0.0 | 1.9768944E-5 | 2.1183232E-5 | 2.1183232E-5 | 1.0 | 0.0 | 2.406603E-4 | 2.578798E-4 | 2.578798E-4 | 1.0 | 0.0 | 0.0024039985 | 0.0025762434 | 0.0025762434 | 1.0 | 0.0 |
+| 6.4 | 4.6127884E-6 | 4.942788E-6 | 4.942788E-6 | 1.0 | 0.0 | 1.9768944E-5 | 2.1183232E-5 | 2.1183232E-5 | 1.0 | 0.0 | 2.406603E-4 | 2.578798E-4 | 2.578798E-4 | 1.0 | 0.0 | 0.0024039985 | 0.0025762434 | 0.0025762434 | 1.0 | 0.0 |
+| 6.5 | 2.716712E-6 | 2.9111889E-6 | 2.9111889E-6 | 1.0 | 0.0 | 1.1643E-5 | 1.2476477E-5 | 1.2476477E-5 | 1.0 | 0.0 | 1.417443E-4 | 1.5189295E-4 | 1.5189295E-4 | 1.0 | 0.0 | 0.0014165393 | 0.0015181294 | 0.0015181294 | 1.0 | 0.0 |
+| 6.6 | 1.3818255E-6 | 1.4821088E-6 | 1.4821088E-6 | 1.0 | 0.0 | 5.922096E-6 | 6.3518864E-6 | 6.3518864E-6 | 1.0 | 0.0 | 7.209913E-5 | 7.7332705E-5 | 7.7332705E-5 | 1.0 | 0.0 | 7.2075747E-4 | 7.731789E-4 | 7.731789E-4 | 1.0 | 0.0 |
 
 ## Rodgers Creek - Healdsburg 2011 CFM
 *[(top)](#table-of-contents)*
@@ -5207,167 +5200,29 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 8.0 | 2.8614323E-8 | 6.587123E-8 | 6.587123E-8 | 1.0 | 0.0 | 1.2263281E-7 | 2.8230522E-7 | 2.8230522E-7 | 1.0 | 0.0 | 1.4930534E-6 | 3.4370607E-6 | 3.4370607E-6 | 1.0 | 0.0 | 1.4930434E-5 | 3.5867513E-5 | 3.5867513E-5 | 1.0 | 0.0 |
 | 8.1 | 3.5045191E-9 | 8.9767385E-9 | 8.9767385E-9 | 1.0 | 0.0 | 1.5019367E-8 | 3.8471736E-8 | 3.8471736E-8 | 1.0 | 0.0 | 1.8286079E-7 | 4.683933E-7 | 4.683933E-7 | 1.0 | 0.0 | 1.8286064E-6 | 4.8379734E-6 | 4.8379734E-6 | 1.0 | 0.0 |
 
-## Mission (connected) 2011 CFM
+## Goose Lake 2011 CFM
 *[(top)](#table-of-contents)*
 
 | 1 Week | 1 Month | 1 Year | 10 Year |
 |-----|-----|-----|-----|
-| ![MPD](Mission_connected_2011_CFM_1wk.png) | ![MPD](Mission_connected_2011_CFM_1mo.png) | ![MPD](Mission_connected_2011_CFM_1yr.png) | ![MPD](Mission_connected_2011_CFM_10yr.png) |
+| ![MPD](Goose_Lake_2011_CFM_1wk.png) | ![MPD](Goose_Lake_2011_CFM_1mo.png) | ![MPD](Goose_Lake_2011_CFM_1yr.png) | ![MPD](Goose_Lake_2011_CFM_10yr.png) |
 
 | Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.8735573E-5 | 2.688952E-5 | 2.688952E-5 | 1.0 | 0.0 | 8.029284E-5 | 1.15235125E-4 | 1.15235125E-4 | 1.0 | 0.0 | 9.771269E-4 | 0.0014020179 | 0.0014020179 | 1.0 | 0.0 | 0.009728416 | 0.01394095 | 0.013950811 | 1.0007073 | 1.0E-5 |
-| 6.1 | 1.7515964E-5 | 2.5530739E-5 | 2.5530739E-5 | 1.0 | 0.0 | 7.506625E-5 | 1.0941228E-4 | 1.0941228E-4 | 1.0 | 0.0 | 9.135484E-4 | 0.0013312132 | 0.0013312132 | 1.0 | 0.0 | 0.009098019 | 0.013241528 | 0.013241528 | 1.0 | 0.0 |
-| 6.2 | 1.6486343E-5 | 2.4375342E-5 | 2.4375342E-5 | 1.0 | 0.0 | 7.065384E-5 | 1.0446098E-4 | 1.0446098E-4 | 1.0 | 0.0 | 8.5987104E-4 | 0.0012710047 | 0.0012710047 | 1.0 | 0.0 | 0.008565514 | 0.012646479 | 0.012646479 | 1.0 | 0.0 |
-| 6.3 | 1.5229385E-5 | 2.2804674E-5 | 2.2804674E-5 | 1.0 | 0.0 | 6.526716E-5 | 9.7730066E-5 | 9.7730066E-5 | 1.0 | 0.0 | 7.9433795E-4 | 0.0011891485 | 0.0011891485 | 1.0 | 0.0 | 0.007915046 | 0.011839628 | 0.011839628 | 1.0 | 0.0 |
-| 6.4 | 1.4435828E-5 | 2.1404514E-5 | 2.1404514E-5 | 1.0 | 0.0 | 6.186637E-5 | 9.172981E-5 | 9.172981E-5 | 1.0 | 0.0 | 7.529627E-4 | 0.0011161744 | 0.0011161744 | 1.0 | 0.0 | 0.007504165 | 0.011122519 | 0.011122519 | 1.0 | 0.0 |
-| 6.5 | 1.30127955E-5 | 1.904306E-5 | 1.904306E-5 | 1.0 | 0.0 | 5.576793E-5 | 8.1610575E-5 | 8.1610575E-5 | 1.0 | 0.0 | 6.78763E-4 | 9.930952E-4 | 9.930952E-4 | 1.0 | 0.0 | 0.0067669353 | 0.009914487 | 0.009914487 | 1.0 | 0.0 |
-| 6.6 | 1.1220718E-5 | 1.6398912E-5 | 1.6398912E-5 | 1.0 | 0.0 | 4.8087906E-5 | 7.027917E-5 | 7.027917E-5 | 1.0 | 0.0 | 5.8531296E-4 | 8.5531094E-4 | 8.5531094E-4 | 1.0 | 0.0 | 0.005837737 | 0.0085524 | 0.0085524 | 1.0 | 0.0 |
-| 6.7 | 8.086152E-6 | 1.175491E-5 | 1.175491E-5 | 1.0 | 0.0 | 3.4654473E-5 | 5.0377217E-5 | 5.0377217E-5 | 1.0 | 0.0 | 4.2183654E-4 | 6.131708E-4 | 6.131708E-4 | 1.0 | 0.0 | 0.004210367 | 0.0061520776 | 0.0061520776 | 1.0 | 0.0 |
-| 6.8 | 6.8361655E-6 | 1.0199498E-5 | 1.0199498E-5 | 1.0 | 0.0 | 2.9297524E-5 | 4.3711407E-5 | 4.3711407E-5 | 1.0 | 0.0 | 3.5663895E-4 | 5.32057E-4 | 5.32057E-4 | 1.0 | 0.0 | 0.0035606713 | 0.005340788 | 0.005340788 | 1.0 | 0.0 |
-| 6.9 | 5.2517353E-6 | 7.872214E-6 | 7.872214E-6 | 1.0 | 0.0 | 2.2507242E-5 | 3.3737626E-5 | 3.3737626E-5 | 1.0 | 0.0 | 2.739912E-4 | 4.1067842E-4 | 4.1067842E-4 | 1.0 | 0.0 | 0.0027365363 | 0.004131441 | 0.004131441 | 1.0 | 0.0 |
-| 7.0 | 4.4602784E-6 | 6.704456E-6 | 6.704456E-6 | 1.0 | 0.0 | 1.911534E-5 | 2.873307E-5 | 2.873307E-5 | 1.0 | 0.0 | 2.327044E-4 | 3.497691E-4 | 3.497691E-4 | 1.0 | 0.0 | 0.0023246086 | 0.0035236059 | 0.0035236059 | 1.0 | 0.0 |
-| 7.1 | 4.1492594E-6 | 6.2531067E-6 | 6.2531067E-6 | 1.0 | 0.0 | 1.7782419E-5 | 2.6798754E-5 | 2.6798754E-5 | 1.0 | 0.0 | 2.1647944E-4 | 3.2622615E-4 | 3.2622615E-4 | 1.0 | 0.0 | 0.0021626868 | 0.0032883629 | 0.0032883629 | 1.0 | 0.0 |
-| 7.2 | 2.213247E-6 | 3.3649592E-6 | 3.3649592E-6 | 1.0 | 0.0 | 9.485309E-6 | 1.44211745E-5 | 1.44211745E-5 | 1.0 | 0.0 | 1.15477524E-4 | 1.7556369E-4 | 1.7556369E-4 | 1.0 | 0.0 | 0.0011541754 | 0.0017828988 | 0.0017828988 | 1.0 | 0.0 |
-| 7.3 | 1.7362703E-6 | 2.740234E-6 | 2.740234E-6 | 1.0 | 0.0 | 7.4411373E-6 | 1.1743808E-5 | 1.1743808E-5 | 1.0 | 0.0 | 9.0592075E-5 | 1.429715E-4 | 1.429715E-4 | 1.0 | 0.0 | 9.0555154E-4 | 0.0014541033 | 0.0014541033 | 1.0 | 0.0 |
-| 7.4 | 1.1628409E-6 | 1.8507498E-6 | 1.8507498E-6 | 1.0 | 0.0 | 4.9835944E-6 | 7.931761E-6 | 7.931761E-6 | 1.0 | 0.0 | 6.0673574E-5 | 9.656492E-5 | 9.656492E-5 | 1.0 | 0.0 | 6.065701E-4 | 9.860051E-4 | 9.860051E-4 | 1.0 | 0.0 |
-| 7.5 | 5.5610667E-7 | 9.355345E-7 | 9.355345E-7 | 1.0 | 0.0 | 2.3833122E-6 | 4.0094274E-6 | 4.0094274E-6 | 1.0 | 0.0 | 2.9016439E-5 | 4.881369E-5 | 4.881369E-5 | 1.0 | 0.0 | 2.901265E-4 | 5.0468714E-4 | 5.0468714E-4 | 1.0 | 0.0 |
-| 7.6 | 4.4307663E-7 | 7.795659E-7 | 7.795659E-7 | 1.0 | 0.0 | 1.8988985E-6 | 3.3409924E-6 | 3.3409924E-6 | 1.0 | 0.0 | 2.3118844E-5 | 4.0675826E-5 | 4.0675826E-5 | 1.0 | 0.0 | 2.3116439E-4 | 4.2265613E-4 | 4.2265613E-4 | 1.0 | 0.0 |
-| 7.7 | 3.639119E-7 | 6.364851E-7 | 6.364851E-7 | 1.0 | 0.0 | 1.5596215E-6 | 2.7277902E-6 | 2.7277902E-6 | 1.0 | 0.0 | 1.8988227E-5 | 3.321034E-5 | 3.321034E-5 | 1.0 | 0.0 | 1.8986604E-4 | 3.473951E-4 | 3.473951E-4 | 1.0 | 0.0 |
-| 7.8 | 3.1152942E-7 | 5.4832236E-7 | 5.4832236E-7 | 1.0 | 0.0 | 1.3351254E-6 | 2.3499508E-6 | 2.3499508E-6 | 1.0 | 0.0 | 1.6255031E-5 | 2.8610279E-5 | 2.8610279E-5 | 1.0 | 0.0 | 1.6253842E-4 | 2.9812948E-4 | 2.9812948E-4 | 1.0 | 0.0 |
-| 7.9 | 1.8035962E-7 | 3.7236998E-7 | 3.7236998E-7 | 1.0 | 0.0 | 7.729696E-7 | 1.5958703E-6 | 1.5958703E-6 | 1.0 | 0.0 | 9.410865E-6 | 1.9429548E-5 | 1.9429548E-5 | 1.0 | 0.0 | 9.410465E-5 | 2.0096921E-4 | 2.0096921E-4 | 1.0 | 0.0 |
-| 8.0 | 9.279334E-8 | 1.97213E-7 | 1.97213E-7 | 1.0 | 0.0 | 3.976857E-7 | 8.451983E-7 | 8.451983E-7 | 1.0 | 0.0 | 4.841813E-6 | 1.0290241E-5 | 1.0290241E-5 | 1.0 | 0.0 | 4.841707E-5 | 1.0541637E-4 | 1.0541637E-4 | 1.0 | 0.0 |
-| 8.1 | 5.9253985E-8 | 1.18657304E-7 | 1.18657304E-7 | 1.0 | 0.0 | 2.5394561E-7 | 5.0853123E-7 | 5.0853123E-7 | 1.0 | 0.0 | 3.0917836E-6 | 6.1913506E-6 | 6.1913506E-6 | 1.0 | 0.0 | 3.0917407E-5 | 6.329667E-5 | 6.329667E-5 | 1.0 | 0.0 |
-
-## South Klamath Lake West
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](South_Klamath_Lake_West_1wk.png) | ![MPD](South_Klamath_Lake_West_1mo.png) | ![MPD](South_Klamath_Lake_West_1yr.png) | ![MPD](South_Klamath_Lake_West_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.174025E-5 | 2.3042538E-5 | 2.3042538E-5 | 1.0 | 0.0 | 9.3169176E-5 | 9.8750366E-5 | 9.8750366E-5 | 1.0 | 0.0 | 0.0011337444 | 0.0012016884 | 0.0012116764 | 1.0083116 | 1.0E-5 | 0.011279777 | 0.011958505 | 0.011968385 | 1.0008262 | 1.0E-5 |
-| 6.1 | 2.174025E-5 | 2.3042538E-5 | 2.3042538E-5 | 1.0 | 0.0 | 9.3169176E-5 | 9.8750366E-5 | 9.8750366E-5 | 1.0 | 0.0 | 0.0011337444 | 0.0012016884 | 0.0012116764 | 1.0083116 | 1.0E-5 | 0.011279777 | 0.011958505 | 0.011968385 | 1.0008262 | 1.0E-5 |
-| 6.2 | 9.834929E-6 | 1.0394061E-5 | 1.0394061E-5 | 1.0 | 0.0 | 4.2149015E-5 | 4.4545264E-5 | 4.4545264E-5 | 1.0 | 0.0 | 5.1304343E-4 | 5.422127E-4 | 5.522073E-4 | 1.018433 | 1.0E-5 | 0.0051186057 | 0.0054097995 | 0.0054197456 | 1.0018384 | 1.0E-5 |
-| 6.3 | 9.834929E-6 | 1.0394061E-5 | 1.0394061E-5 | 1.0 | 0.0 | 4.2149015E-5 | 4.4545264E-5 | 4.4545264E-5 | 1.0 | 0.0 | 5.1304343E-4 | 5.422127E-4 | 5.522073E-4 | 1.018433 | 1.0E-5 | 0.0051186057 | 0.0054097995 | 0.0054197456 | 1.0018384 | 1.0E-5 |
-| 6.4 | 6.066321E-6 | 6.400561E-6 | 6.400561E-6 | 1.0 | 0.0 | 2.5998259E-5 | 2.7430702E-5 | 2.7430702E-5 | 1.0 | 0.0 | 3.1648282E-4 | 3.3392032E-4 | 3.43917E-4 | 1.0299373 | 1.0E-5 | 0.0031603249 | 0.0033344561 | 0.003344423 | 1.0029889 | 1.0E-5 |
-| 6.5 | 6.066321E-6 | 6.400561E-6 | 6.400561E-6 | 1.0 | 0.0 | 2.5998259E-5 | 2.7430702E-5 | 2.7430702E-5 | 1.0 | 0.0 | 3.1648282E-4 | 3.3392032E-4 | 3.43917E-4 | 1.0299373 | 1.0E-5 | 0.0031603249 | 0.0033344561 | 0.003344423 | 1.0029889 | 1.0E-5 |
-| 6.6 | 4.2321803E-6 | 4.4613807E-6 | 4.4613807E-6 | 1.0 | 0.0 | 1.8137789E-5 | 1.9120069E-5 | 1.9120069E-5 | 1.0 | 0.0 | 2.208052E-4 | 2.32763E-4 | 2.32763E-4 | 1.0 | 0.0 | 0.0022058594 | 0.002325294 | 0.002325294 | 1.0 | 0.0 |
-| 6.7 | 3.186646E-6 | 3.3603733E-6 | 3.3603733E-6 | 1.0 | 0.0 | 1.3656982E-5 | 1.4401524E-5 | 1.4401524E-5 | 1.0 | 0.0 | 1.6626107E-4 | 1.7532513E-4 | 1.7532513E-4 | 1.0 | 0.0 | 0.0016613674 | 0.0017519351 | 0.0017519351 | 1.0 | 0.0 |
-| 6.8 | 2.380121E-6 | 2.5109582E-6 | 2.5109582E-6 | 1.0 | 0.0 | 1.0200479E-5 | 1.0761208E-5 | 1.0761208E-5 | 1.0 | 0.0 | 1.2418375E-4 | 1.310103E-4 | 1.310103E-4 | 1.0 | 0.0 | 0.0012411437 | 0.0013093764 | 0.0013093764 | 1.0 | 0.0 |
-| 6.9 | 8.928287E-7 | 9.430447E-7 | 9.430447E-7 | 1.0 | 0.0 | 3.826403E-6 | 4.0416153E-6 | 4.0416153E-6 | 1.0 | 0.0 | 4.658546E-5 | 4.9205773E-5 | 4.9205773E-5 | 1.0 | 0.0 | 4.6575698E-4 | 4.9197045E-4 | 4.9197045E-4 | 1.0 | 0.0 |
-
-## Elmore Ranch
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Elmore_Ranch_1wk.png) | ![MPD](Elmore_Ranch_1mo.png) | ![MPD](Elmore_Ranch_1yr.png) | ![MPD](Elmore_Ranch_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 9.102099E-5 | 8.953757E-5 | 8.953757E-5 | 1.0 | 0.0 | 3.9003167E-4 | 3.8368916E-4 | 3.8368916E-4 | 1.0 | 0.0 | 0.0047383 | 0.0046628457 | 0.0046727993 | 1.0021346 | 1.0E-5 | 0.046385348 | 0.045877732 | 0.045887273 | 1.000208 | 1.0E-5 |
-| 6.1 | 3.8306698E-5 | 4.150529E-5 | 4.150529E-5 | 1.0 | 0.0 | 1.6416123E-4 | 1.7787176E-4 | 1.7787176E-4 | 1.0 | 0.0 | 0.0019968306 | 0.0021634349 | 0.0021634349 | 1.0 | 0.0 | 0.019789828 | 0.02163138 | 0.02163138 | 1.0 | 0.0 |
-| 6.2 | 3.8306698E-5 | 4.150529E-5 | 4.150529E-5 | 1.0 | 0.0 | 1.6416123E-4 | 1.7787176E-4 | 1.7787176E-4 | 1.0 | 0.0 | 0.0019968306 | 0.0021634349 | 0.0021634349 | 1.0 | 0.0 | 0.019789828 | 0.02163138 | 0.02163138 | 1.0 | 0.0 |
-| 6.3 | 3.3197924E-5 | 3.6559653E-5 | 3.6559653E-5 | 1.0 | 0.0 | 1.4226905E-4 | 1.5667878E-4 | 1.5667878E-4 | 1.0 | 0.0 | 0.0017307495 | 0.0019061613 | 0.0019061613 | 1.0 | 0.0 | 0.017173318 | 0.019092519 | 0.019092519 | 1.0 | 0.0 |
-| 6.4 | 2.5148964E-5 | 2.7423765E-5 | 2.7423765E-5 | 1.0 | 0.0 | 1.0777682E-4 | 1.17528776E-4 | 1.17528776E-4 | 1.0 | 0.0 | 0.0013113929 | 0.0014306217 | 0.0014306217 | 1.0 | 0.0 | 0.01303681 | 0.014388889 | 0.014388889 | 1.0 | 0.0 |
-| 6.5 | 2.5148964E-5 | 2.7423765E-5 | 2.7423765E-5 | 1.0 | 0.0 | 1.0777682E-4 | 1.17528776E-4 | 1.17528776E-4 | 1.0 | 0.0 | 0.0013113929 | 0.0014306217 | 0.0014306217 | 1.0 | 0.0 | 0.01303681 | 0.014388889 | 0.014388889 | 1.0 | 0.0 |
-
-## Homestead Valley 2011
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Homestead_Valley_2011_1wk.png) | ![MPD](Homestead_Valley_2011_1mo.png) | ![MPD](Homestead_Valley_2011_1yr.png) | ![MPD](Homestead_Valley_2011_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.539795E-5 | 6.286795E-6 | 6.286795E-6 | 1.0 | 0.0 | 6.5989545E-5 | 2.6943244E-5 | 2.6943244E-5 | 1.0 | 0.0 | 8.0312655E-4 | 3.2800523E-4 | 3.2800523E-4 | 1.0 | 0.0 | 0.008002302 | 0.003277232 | 0.0032871992 | 1.0030414 | 1.0E-5 |
-| 6.1 | 1.539795E-5 | 6.286795E-6 | 6.286795E-6 | 1.0 | 0.0 | 6.5989545E-5 | 2.6943244E-5 | 2.6943244E-5 | 1.0 | 0.0 | 8.0312655E-4 | 3.2800523E-4 | 3.2800523E-4 | 1.0 | 0.0 | 0.008002302 | 0.003277232 | 0.0032871992 | 1.0030414 | 1.0E-5 |
-| 6.2 | 1.539795E-5 | 6.286795E-6 | 6.286795E-6 | 1.0 | 0.0 | 6.5989545E-5 | 2.6943244E-5 | 2.6943244E-5 | 1.0 | 0.0 | 8.0312655E-4 | 3.2800523E-4 | 3.2800523E-4 | 1.0 | 0.0 | 0.008002302 | 0.003277232 | 0.0032871992 | 1.0030414 | 1.0E-5 |
-| 6.3 | 1.539795E-5 | 6.286795E-6 | 6.286795E-6 | 1.0 | 0.0 | 6.5989545E-5 | 2.6943244E-5 | 2.6943244E-5 | 1.0 | 0.0 | 8.0312655E-4 | 3.2800523E-4 | 3.2800523E-4 | 1.0 | 0.0 | 0.008002302 | 0.003277232 | 0.0032871992 | 1.0030414 | 1.0E-5 |
-| 6.4 | 1.539795E-5 | 6.286795E-6 | 6.286795E-6 | 1.0 | 0.0 | 6.5989545E-5 | 2.6943244E-5 | 2.6943244E-5 | 1.0 | 0.0 | 8.0312655E-4 | 3.2800523E-4 | 3.2800523E-4 | 1.0 | 0.0 | 0.008002302 | 0.003277232 | 0.0032871992 | 1.0030414 | 1.0E-5 |
-| 6.5 | 1.0265258E-5 | 2.8789414E-6 | 2.8789414E-6 | 1.0 | 0.0 | 4.3993223E-5 | 1.2338301E-5 | 1.2338301E-5 | 1.0 | 0.0 | 5.3548586E-4 | 1.502154E-4 | 1.502154E-4 | 1.0 | 0.0 | 0.005341973 | 0.0015018206 | 0.0015018206 | 1.0 | 0.0 |
-| 6.6 | 6.664671E-6 | 5.34866E-7 | 5.34866E-7 | 1.0 | 0.0 | 2.8562565E-5 | 2.2922816E-6 | 2.2922816E-6 | 1.0 | 0.0 | 3.476937E-4 | 2.7908289E-5 | 2.7908289E-5 | 1.0 | 0.0 | 0.003471502 | 2.790595E-4 | 2.790595E-4 | 1.0 | 0.0 |
-| 6.7 | 6.5954046E-6 | 5.34866E-7 | 5.34866E-7 | 1.0 | 0.0 | 2.8265715E-5 | 2.2922816E-6 | 2.2922816E-6 | 1.0 | 0.0 | 3.4408073E-4 | 2.7908289E-5 | 2.7908289E-5 | 1.0 | 0.0 | 0.0034354846 | 2.790595E-4 | 2.790595E-4 | 1.0 | 0.0 |
-| 6.8 | 4.648189E-6 | 2.3268515E-7 | 2.3268515E-7 | 1.0 | 0.0 | 1.9920659E-5 | 9.972217E-7 | 9.972217E-7 | 1.0 | 0.0 | 2.4250703E-4 | 1.2141112E-5 | 1.2141112E-5 | 1.0 | 0.0 | 0.0024224254 | 1.2140496E-4 | 1.2140496E-4 | 1.0 | 0.0 |
-| 6.9 | 4.1428534E-6 | 1.934716E-7 | 1.934716E-7 | 1.0 | 0.0 | 1.7754966E-5 | 8.2916375E-7 | 8.2916375E-7 | 1.0 | 0.0 | 2.1614527E-4 | 1.0095025E-5 | 1.0095025E-5 | 1.0 | 0.0 | 0.0021593515 | 1.0094596E-4 | 1.0094596E-4 | 1.0 | 0.0 |
-| 7.0 | 3.0673707E-6 | 1.536975E-7 | 1.536975E-7 | 1.0 | 0.0 | 1.3145808E-5 | 6.5870336E-7 | 6.5870336E-7 | 1.0 | 0.0 | 1.6003846E-4 | 8.019685E-6 | 8.019685E-6 | 1.0 | 0.0 | 0.0015992324 | 8.019406E-5 | 8.019406E-5 | 1.0 | 0.0 |
-| 7.1 | 2.340854E-6 | 1.468967E-7 | 1.468967E-7 | 1.0 | 0.0 | 1.0032193E-5 | 6.295571E-7 | 6.295571E-7 | 1.0 | 0.0 | 1.221351E-4 | 7.664832E-6 | 7.664832E-6 | 1.0 | 0.0 | 0.00122068 | 7.6645774E-5 | 7.6645774E-5 | 1.0 | 0.0 |
-| 7.2 | 1.3754182E-6 | 1.392446E-7 | 1.392446E-7 | 1.0 | 0.0 | 5.8946357E-6 | 5.9676245E-7 | 5.9676245E-7 | 1.0 | 0.0 | 7.176483E-5 | 7.26556E-6 | 7.26556E-6 | 1.0 | 0.0 | 7.174166E-4 | 7.265332E-5 | 7.265332E-5 | 1.0 | 0.0 |
-| 7.3 | 1.2573237E-6 | 1.3828955E-7 | 1.3828955E-7 | 1.0 | 0.0 | 5.388519E-6 | 5.926694E-7 | 5.926694E-7 | 1.0 | 0.0 | 6.560324E-5 | 7.2157263E-6 | 7.2157263E-6 | 1.0 | 0.0 | 6.558388E-4 | 7.215502E-5 | 7.215502E-5 | 1.0 | 0.0 |
-| 7.4 | 1.0994207E-6 | 1.310781E-7 | 1.310781E-7 | 1.0 | 0.0 | 4.7117946E-6 | 5.6176316E-7 | 5.6176316E-7 | 1.0 | 0.0 | 5.736459E-5 | 6.8394456E-6 | 6.8394456E-6 | 1.0 | 0.0 | 5.734978E-4 | 6.8392445E-5 | 6.8392445E-5 | 1.0 | 0.0 |
-| 7.5 | 5.5569126E-7 | 6.77375E-8 | 6.77375E-8 | 1.0 | 0.0 | 2.3815317E-6 | 2.9030355E-7 | 2.9030355E-7 | 1.0 | 0.0 | 2.8994764E-5 | 3.5344408E-6 | 3.5344408E-6 | 1.0 | 0.0 | 2.899098E-4 | 3.534391E-5 | 3.534391E-5 | 1.0 | 0.0 |
-
-## Great Valley 07 (Orestimba)
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Great_Valley_07_Orestimba_1wk.png) | ![MPD](Great_Valley_07_Orestimba_1mo.png) | ![MPD](Great_Valley_07_Orestimba_1yr.png) | ![MPD](Great_Valley_07_Orestimba_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.9687902E-5 | 3.275876E-5 | 3.275876E-5 | 1.0 | 0.0 | 1.2722766E-4 | 1.4038754E-4 | 1.4038754E-4 | 1.0 | 0.0 | 0.0015478961 | 0.00170795 | 0.001717933 | 1.005845 | 1.0E-5 | 0.015371585 | 0.016955782 | 0.016965613 | 1.0005797 | 1.0E-5 |
-| 6.1 | 2.9687902E-5 | 3.275876E-5 | 3.275876E-5 | 1.0 | 0.0 | 1.2722766E-4 | 1.4038754E-4 | 1.4038754E-4 | 1.0 | 0.0 | 0.0015478961 | 0.00170795 | 0.001717933 | 1.005845 | 1.0E-5 | 0.015371585 | 0.016955782 | 0.016965613 | 1.0005797 | 1.0E-5 |
-| 6.2 | 1.9231524E-5 | 2.1159954E-5 | 2.1159954E-5 | 1.0 | 0.0 | 8.2418206E-5 | 9.068249E-5 | 9.068249E-5 | 1.0 | 0.0 | 0.0010029797 | 0.0011035233 | 0.0011135123 | 1.0090519 | 1.0E-5 | 0.00998465 | 0.010982848 | 0.0109927375 | 1.0009005 | 1.0E-5 |
-| 6.3 | 1.324766E-5 | 1.4549064E-5 | 1.4549064E-5 | 1.0 | 0.0 | 5.6774446E-5 | 6.23517E-5 | 6.23517E-5 | 1.0 | 0.0 | 6.910097E-4 | 7.588766E-4 | 7.6886907E-4 | 1.0131674 | 1.0E-5 | 0.006888649 | 0.0075637987 | 0.007573723 | 1.0013121 | 1.0E-5 |
-| 6.4 | 7.818645E-6 | 8.573147E-6 | 8.573147E-6 | 1.0 | 0.0 | 3.3508048E-5 | 3.674156E-5 | 3.674156E-5 | 1.0 | 0.0 | 4.078841E-4 | 4.4724008E-4 | 4.5723558E-4 | 1.0223494 | 1.0E-5 | 0.004071363 | 0.00446374 | 0.0044736955 | 1.0022303 | 1.0E-5 |
-| 6.5 | 5.3076565E-6 | 5.8180085E-6 | 5.8180085E-6 | 1.0 | 0.0 | 2.27469E-5 | 2.4934096E-5 | 2.4934096E-5 | 1.0 | 0.0 | 2.7690834E-4 | 3.0353243E-4 | 3.0353243E-4 | 1.0 | 0.0 | 0.0027656353 | 0.003031388 | 0.003031388 | 1.0 | 0.0 |
-| 6.6 | 3.6003578E-6 | 3.948637E-6 | 3.948637E-6 | 1.0 | 0.0 | 1.5430012E-5 | 1.692263E-5 | 1.692263E-5 | 1.0 | 0.0 | 1.8784421E-4 | 2.060151E-4 | 2.060151E-4 | 1.0 | 0.0 | 0.0018768552 | 0.0020583952 | 0.0020583952 | 1.0 | 0.0 |
-| 6.7 | 2.5361826E-6 | 2.7835688E-6 | 2.7835688E-6 | 1.0 | 0.0 | 1.0869308E-5 | 1.1929533E-5 | 1.1929533E-5 | 1.0 | 0.0 | 1.3232579E-4 | 1.452337E-4 | 1.452337E-4 | 1.0 | 0.0 | 0.0013224703 | 0.0014515179 | 0.0014515179 | 1.0 | 0.0 |
-| 6.8 | 1.2115831E-6 | 1.3314287E-6 | 1.3314287E-6 | 1.0 | 0.0 | 5.1924885E-6 | 5.706116E-6 | 5.706116E-6 | 1.0 | 0.0 | 6.3216714E-5 | 6.947072E-5 | 6.947072E-5 | 1.0 | 0.0 | 6.3198735E-4 | 6.945851E-4 | 6.945851E-4 | 1.0 | 0.0 |
-
-## Owens Valley Keough Hot Springs
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Owens_Valley_Keough_Hot_Springs_1wk.png) | ![MPD](Owens_Valley_Keough_Hot_Springs_1mo.png) | ![MPD](Owens_Valley_Keough_Hot_Springs_1yr.png) | ![MPD](Owens_Valley_Keough_Hot_Springs_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 1.5708529E-5 | 4.951128E-6 | 4.951128E-6 | 1.0 | 0.0 | 6.7320536E-5 | 2.1218977E-5 | 2.1218977E-5 | 1.0 | 0.0 | 8.193192E-4 | 2.5831553E-4 | 2.6831296E-4 | 1.0387024 | 1.0E-5 | 0.008163051 | 0.0025808115 | 0.0025907857 | 1.0038648 | 1.0E-5 |
-| 6.1 | 1.5708529E-5 | 4.951128E-6 | 4.951128E-6 | 1.0 | 0.0 | 6.7320536E-5 | 2.1218977E-5 | 2.1218977E-5 | 1.0 | 0.0 | 8.193192E-4 | 2.5831553E-4 | 2.6831296E-4 | 1.0387024 | 1.0E-5 | 0.008163051 | 0.0025808115 | 0.0025907857 | 1.0038648 | 1.0E-5 |
-| 6.2 | 1.5708529E-5 | 4.951128E-6 | 4.951128E-6 | 1.0 | 0.0 | 6.7320536E-5 | 2.1218977E-5 | 2.1218977E-5 | 1.0 | 0.0 | 8.193192E-4 | 2.5831553E-4 | 2.6831296E-4 | 1.0387024 | 1.0E-5 | 0.008163051 | 0.0025808115 | 0.0025907857 | 1.0038648 | 1.0E-5 |
-| 6.3 | 1.5708529E-5 | 4.951128E-6 | 4.951128E-6 | 1.0 | 0.0 | 6.7320536E-5 | 2.1218977E-5 | 2.1218977E-5 | 1.0 | 0.0 | 8.193192E-4 | 2.5831553E-4 | 2.6831296E-4 | 1.0387024 | 1.0E-5 | 0.008163051 | 0.0025808115 | 0.0025907857 | 1.0038648 | 1.0E-5 |
-| 6.4 | 1.4622509E-5 | 3.7269347E-6 | 3.7269347E-6 | 1.0 | 0.0 | 6.266639E-5 | 1.5972499E-5 | 1.5972499E-5 | 1.0 | 0.0 | 7.626962E-4 | 1.9445112E-4 | 2.0444917E-4 | 1.0514168 | 1.0E-5 | 0.007600839 | 0.0019432895 | 0.00195327 | 1.0051359 | 1.0E-5 |
-| 6.5 | 1.3335527E-5 | 2.2780637E-6 | 2.2780637E-6 | 1.0 | 0.0 | 5.7151006E-5 | 9.763097E-6 | 9.763097E-6 | 1.0 | 0.0 | 6.955913E-4 | 1.1885991E-4 | 1.2885872E-4 | 1.0841227 | 1.0E-5 | 0.0069341804 | 0.001188186 | 0.0011981741 | 1.0084062 | 1.0E-5 |
-| 6.6 | 1.3332855E-5 | 2.2752129E-6 | 2.2752129E-6 | 1.0 | 0.0 | 5.7139558E-5 | 9.750879E-6 | 9.750879E-6 | 1.0 | 0.0 | 6.9545204E-4 | 1.1871117E-4 | 1.2870999E-4 | 1.084228 | 1.0E-5 | 0.0069327964 | 0.0011867002 | 0.0011966883 | 1.0084168 | 1.0E-5 |
-| 6.7 | 1.3318214E-5 | 2.2644422E-6 | 2.2644422E-6 | 1.0 | 0.0 | 5.707681E-5 | 9.70472E-6 | 9.70472E-6 | 1.0 | 0.0 | 6.946886E-4 | 1.1814924E-4 | 1.2814807E-4 | 1.0846287 | 1.0E-5 | 0.0069252094 | 0.0011810869 | 0.001191075 | 1.0084568 | 1.0E-5 |
-| 6.8 | 1.2441338E-5 | 1.6780807E-6 | 1.6780807E-6 | 1.0 | 0.0 | 5.331893E-5 | 7.1917566E-6 | 7.1917566E-6 | 1.0 | 0.0 | 6.489646E-4 | 8.7556415E-5 | 9.755554E-5 | 1.114202 | 1.0E-5 | 0.0064707273 | 8.754041E-4 | 8.8539533E-4 | 1.0114133 | 1.0E-5 |
-| 6.9 | 1.1130476E-5 | 1.0305876E-6 | 1.0305876E-6 | 1.0 | 0.0 | 4.7701167E-5 | 4.4167964E-6 | 4.4167964E-6 | 1.0 | 0.0 | 5.806069E-4 | 5.3773183E-5 | 5.3773183E-5 | 1.0 | 0.0 | 0.0057909233 | 5.377564E-4 | 5.377564E-4 | 1.0 | 0.0 |
-| 7.0 | 1.0986073E-5 | 9.581339E-7 | 9.581339E-7 | 1.0 | 0.0 | 4.7082318E-5 | 4.1062817E-6 | 4.1062817E-6 | 1.0 | 0.0 | 5.730765E-4 | 4.9992846E-5 | 4.9992846E-5 | 1.0 | 0.0 | 0.0057160086 | 4.9996964E-4 | 4.9996964E-4 | 1.0 | 0.0 |
-| 7.1 | 1.0451338E-5 | 8.00185E-7 | 8.00185E-7 | 1.0 | 0.0 | 4.4790682E-5 | 3.4293596E-6 | 3.4293596E-6 | 1.0 | 0.0 | 5.451901E-4 | 4.175166E-5 | 4.175166E-5 | 1.0 | 0.0 | 0.005438545 | 4.1758787E-4 | 4.1758787E-4 | 1.0 | 0.0 |
-| 7.2 | 9.989061E-6 | 6.5463087E-7 | 6.5463087E-7 | 1.0 | 0.0 | 4.280956E-5 | 2.8055579E-6 | 2.8055579E-6 | 1.0 | 0.0 | 5.2108173E-4 | 3.4157136E-5 | 3.4157136E-5 | 1.0 | 0.0 | 0.0051986156 | 3.4165636E-4 | 3.4165636E-4 | 1.0 | 0.0 |
-| 7.3 | 9.465365E-6 | 5.4613076E-7 | 5.4613076E-7 | 1.0 | 0.0 | 4.056522E-5 | 2.3405585E-6 | 2.3405585E-6 | 1.0 | 0.0 | 4.937696E-4 | 2.849593E-5 | 2.849593E-5 | 1.0 | 0.0 | 0.0049267393 | 2.850554E-4 | 2.850554E-4 | 1.0 | 0.0 |
-| 7.4 | 6.3824805E-6 | 4.0173765E-7 | 4.0173765E-7 | 1.0 | 0.0 | 2.73532E-5 | 1.7217317E-6 | 1.7217317E-6 | 1.0 | 0.0 | 3.3297433E-4 | 2.0961885E-5 | 2.0961885E-5 | 1.0 | 0.0 | 0.0033247585 | 2.0969151E-4 | 2.0969151E-4 | 1.0 | 0.0 |
-| 7.5 | 1.6192645E-6 | 2.5167552E-7 | 2.5167552E-7 | 1.0 | 0.0 | 6.9396865E-6 | 1.0786089E-6 | 1.0786089E-6 | 1.0 | 0.0 | 8.448741E-5 | 1.3131986E-5 | 1.3131986E-5 | 1.0 | 0.0 | 8.4455294E-4 | 1.3131222E-4 | 1.3131222E-4 | 1.0 | 0.0 |
-| 7.6 | 5.7062545E-7 | 1.079494E-7 | 1.079494E-7 | 1.0 | 0.0 | 2.4455355E-6 | 4.626402E-7 | 4.626402E-7 | 1.0 | 0.0 | 2.9773988E-5 | 5.6326307E-6 | 5.6326307E-6 | 1.0 | 0.0 | 2.977E-4 | 5.6324963E-5 | 5.6324963E-5 | 1.0 | 0.0 |
-| 7.7 | 2.5988817E-7 | 4.5468312E-8 | 4.5468312E-8 | 1.0 | 0.0 | 1.113806E-6 | 1.9486419E-7 | 1.9486419E-7 | 1.0 | 0.0 | 1.3560503E-5 | 2.3724692E-6 | 2.3724692E-6 | 1.0 | 0.0 | 1.3559677E-4 | 2.3724484E-5 | 2.3724484E-5 | 1.0 | 0.0 |
-
-## Cedar Mtn-Mahogany Mtn
-*[(top)](#table-of-contents)*
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](Cedar_Mtn_Mahogany_Mtn_1wk.png) | ![MPD](Cedar_Mtn_Mahogany_Mtn_1mo.png) | ![MPD](Cedar_Mtn_Mahogany_Mtn_1yr.png) | ![MPD](Cedar_Mtn_Mahogany_Mtn_10yr.png) |
-
-| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 6.0 | 2.7763876E-5 | 2.958959E-5 | 2.958959E-5 | 1.0 | 0.0 | 1.1898261E-4 | 1.2680676E-4 | 1.2680676E-4 | 1.0 | 0.0 | 0.0014476506 | 0.0015428489 | 0.0015428489 | 1.0 | 0.0 | 0.0143825635 | 0.015328597 | 0.015338444 | 1.0006424 | 1.0E-5 |
-| 6.1 | 1.6162443E-5 | 1.7143353E-5 | 1.7143353E-5 | 1.0 | 0.0 | 6.926578E-5 | 7.346954E-5 | 7.346954E-5 | 1.0 | 0.0 | 8.4298453E-4 | 8.941423E-4 | 8.941423E-4 | 1.0 | 0.0 | 0.008397939 | 0.0089072585 | 0.0089072585 | 1.0 | 0.0 |
-| 6.2 | 1.6162443E-5 | 1.7143353E-5 | 1.7143353E-5 | 1.0 | 0.0 | 6.926578E-5 | 7.346954E-5 | 7.346954E-5 | 1.0 | 0.0 | 8.4298453E-4 | 8.941423E-4 | 8.941423E-4 | 1.0 | 0.0 | 0.008397939 | 0.0089072585 | 0.0089072585 | 1.0 | 0.0 |
-| 6.3 | 9.746053E-6 | 1.0303371E-5 | 1.0303371E-5 | 1.0 | 0.0 | 4.1768133E-5 | 4.415658E-5 | 4.415658E-5 | 1.0 | 0.0 | 5.0840835E-4 | 5.3747784E-4 | 5.3747784E-4 | 1.0 | 0.0 | 0.0050724675 | 0.0053621978 | 0.0053621978 | 1.0 | 0.0 |
-| 6.4 | 9.746053E-6 | 1.0303371E-5 | 1.0303371E-5 | 1.0 | 0.0 | 4.1768133E-5 | 4.415658E-5 | 4.415658E-5 | 1.0 | 0.0 | 5.0840835E-4 | 5.3747784E-4 | 5.3747784E-4 | 1.0 | 0.0 | 0.0050724675 | 0.0053621978 | 0.0053621978 | 1.0 | 0.0 |
-| 6.5 | 7.290083E-6 | 7.695484E-6 | 7.695484E-6 | 1.0 | 0.0 | 3.124284E-5 | 3.298024E-5 | 3.298024E-5 | 1.0 | 0.0 | 3.8031515E-4 | 4.014626E-4 | 4.014626E-4 | 1.0 | 0.0 | 0.0037966494 | 0.0040075937 | 0.0040075937 | 1.0 | 0.0 |
-| 6.6 | 5.67907E-6 | 5.989274E-6 | 5.989274E-6 | 1.0 | 0.0 | 2.4338644E-5 | 2.5668072E-5 | 2.5668072E-5 | 1.0 | 0.0 | 2.962827E-4 | 3.1246533E-4 | 3.1246533E-4 | 1.0 | 0.0 | 0.0029588798 | 0.003120396 | 0.003120396 | 1.0 | 0.0 |
-| 6.7 | 3.4853963E-6 | 3.6727042E-6 | 3.6727042E-6 | 1.0 | 0.0 | 1.4937327E-5 | 1.574007E-5 | 1.574007E-5 | 1.0 | 0.0 | 1.8184677E-4 | 1.9161912E-4 | 1.9161912E-4 | 1.0 | 0.0 | 0.0018169804 | 0.001914601 | 0.001914601 | 1.0 | 0.0 |
-| 6.8 | 2.7535168E-6 | 2.9016344E-6 | 2.9016344E-6 | 1.0 | 0.0 | 1.1800733E-5 | 1.2435519E-5 | 1.2435519E-5 | 1.0 | 0.0 | 1.4366445E-4 | 1.513924E-4 | 1.513924E-4 | 1.0 | 0.0 | 0.0014357162 | 0.0015129399 | 0.0015129399 | 1.0 | 0.0 |
-| 6.9 | 1.6594106E-6 | 1.749734E-6 | 1.749734E-6 | 1.0 | 0.0 | 7.1117406E-6 | 7.4988398E-6 | 7.4988398E-6 | 1.0 | 0.0 | 8.6582E-5 | 9.129486E-5 | 9.129486E-5 | 1.0 | 0.0 | 8.654827E-4 | 9.1260404E-4 | 9.1260404E-4 | 1.0 | 0.0 |
-| 7.0 | 5.10215E-7 | 5.3893666E-7 | 5.3893666E-7 | 1.0 | 0.0 | 2.186634E-6 | 2.309727E-6 | 2.309727E-6 | 1.0 | 0.0 | 2.6621943E-5 | 2.8120694E-5 | 2.8120694E-5 | 1.0 | 0.0 | 2.6618753E-4 | 2.811839E-4 | 2.811839E-4 | 1.0 | 0.0 |
+| 6.0 | 3.780968E-6 | 3.8230382E-6 | 3.8230382E-6 | 1.0 | 0.0 | 1.6204049E-5 | 1.6384352E-5 | 1.6384352E-5 | 1.0 | 0.0 | 1.9726643E-4 | 1.9946233E-4 | 1.9946233E-4 | 1.0 | 0.0 | 0.001970914 | 0.0019929411 | 0.0020029214 | 1.0050077 | 1.0E-5 |
+| 6.1 | 2.2035124E-6 | 2.2298111E-6 | 2.2298111E-6 | 1.0 | 0.0 | 9.443591E-6 | 9.556299E-6 | 9.556299E-6 | 1.0 | 0.0 | 1.1496965E-4 | 1.16341915E-4 | 1.16341915E-4 | 1.0 | 0.0 | 0.0011491019 | 0.0011628284 | 0.0011628284 | 1.0 | 0.0 |
+| 6.2 | 1.5624689E-6 | 1.5827E-6 | 1.5827E-6 | 1.0 | 0.0 | 6.6962784E-6 | 6.7829824E-6 | 6.7829824E-6 | 1.0 | 0.0 | 8.152414E-5 | 8.2579725E-5 | 8.2579725E-5 | 1.0 | 0.0 | 8.1494235E-4 | 8.254948E-4 | 8.254948E-4 | 1.0 | 0.0 |
+| 6.3 | 1.5624689E-6 | 1.5827E-6 | 1.5827E-6 | 1.0 | 0.0 | 6.6962784E-6 | 6.7829824E-6 | 6.7829824E-6 | 1.0 | 0.0 | 8.152414E-5 | 8.2579725E-5 | 8.2579725E-5 | 1.0 | 0.0 | 8.1494235E-4 | 8.254948E-4 | 8.254948E-4 | 1.0 | 0.0 |
+| 6.4 | 1.256464E-6 | 1.2738761E-6 | 1.2738761E-6 | 1.0 | 0.0 | 5.3848344E-6 | 5.4594575E-6 | 5.4594575E-6 | 1.0 | 0.0 | 6.5558386E-5 | 6.646689E-5 | 6.646689E-5 | 1.0 | 0.0 | 6.553905E-4 | 6.644721E-4 | 6.644721E-4 | 1.0 | 0.0 |
+| 6.5 | 1.0910911E-6 | 1.1069465E-6 | 1.1069465E-6 | 1.0 | 0.0 | 4.6760965E-6 | 4.7440476E-6 | 4.7440476E-6 | 1.0 | 0.0 | 5.692999E-5 | 5.775726E-5 | 5.775726E-5 | 1.0 | 0.0 | 5.6915404E-4 | 5.774237E-4 | 5.774237E-4 | 1.0 | 0.0 |
+| 6.6 | 9.546601E-7 | 9.6913E-7 | 9.6913E-7 | 1.0 | 0.0 | 4.091394E-6 | 4.153408E-6 | 4.153408E-6 | 1.0 | 0.0 | 4.9811584E-5 | 5.0566578E-5 | 5.0566578E-5 | 1.0 | 0.0 | 4.980042E-4 | 5.055516E-4 | 5.055516E-4 | 1.0 | 0.0 |
+| 6.7 | 7.790316E-7 | 7.916011E-7 | 7.916011E-7 | 1.0 | 0.0 | 3.3387028E-6 | 3.3925717E-6 | 3.3925717E-6 | 1.0 | 0.0 | 4.0647945E-5 | 4.1303785E-5 | 4.1303785E-5 | 1.0 | 0.0 | 4.0640513E-4 | 4.1296167E-4 | 4.1296167E-4 | 1.0 | 0.0 |
+| 6.8 | 6.3714384E-7 | 6.4787804E-7 | 6.4787804E-7 | 1.0 | 0.0 | 2.7306137E-6 | 2.776617E-6 | 2.776617E-6 | 1.0 | 0.0 | 3.3244716E-5 | 3.3804794E-5 | 3.3804794E-5 | 1.0 | 0.0 | 3.323974E-4 | 3.3799701E-4 | 3.3799701E-4 | 1.0 | 0.0 |
+| 6.9 | 4.92586E-7 | 5.013948E-7 | 5.013948E-7 | 1.0 | 0.0 | 2.1110811E-6 | 2.1488331E-6 | 2.1488331E-6 | 1.0 | 0.0 | 2.5702111E-5 | 2.6161733E-5 | 2.6161733E-5 | 1.0 | 0.0 | 2.569914E-4 | 2.6158692E-4 | 2.6158692E-4 | 1.0 | 0.0 |
+| 7.0 | 3.130245E-7 | 3.1903767E-7 | 3.1903767E-7 | 1.0 | 0.0 | 1.3415328E-6 | 1.3673036E-6 | 1.3673036E-6 | 1.0 | 0.0 | 1.6333039E-5 | 1.6646796E-5 | 1.6646796E-5 | 1.0 | 0.0 | 1.6331839E-4 | 1.664557E-4 | 1.664557E-4 | 1.0 | 0.0 |
+| 7.1 | 1.7680084E-7 | 1.8024052E-7 | 1.8024052E-7 | 1.0 | 0.0 | 7.5771766E-7 | 7.7245915E-7 | 7.7245915E-7 | 1.0 | 0.0 | 9.225173E-6 | 9.404651E-6 | 9.404651E-6 | 1.0 | 0.0 | 9.22479E-5 | 9.404264E-5 | 9.404264E-5 | 1.0 | 0.0 |
+| 7.2 | 4.8641045E-8 | 4.9402352E-8 | 4.9402352E-8 | 1.0 | 0.0 | 2.084616E-7 | 2.1172436E-7 | 2.1172436E-7 | 1.0 | 0.0 | 2.538017E-6 | 2.577741E-6 | 2.577741E-6 | 1.0 | 0.0 | 2.537988E-5 | 2.5777124E-5 | 2.5777124E-5 | 1.0 | 0.0 |
+| 7.3 | 5.3911844E-9 | 5.4758464E-9 | 5.4758464E-9 | 1.0 | 0.0 | 2.3105075E-8 | 2.3467912E-8 | 2.3467912E-8 | 1.0 | 0.0 | 2.8130427E-7 | 2.857218E-7 | 2.857218E-7 | 1.0 | 0.0 | 2.8130391E-6 | 2.857216E-6 | 2.857216E-6 | 1.0 | 0.0 |
 
 ## Malibu Coast (Extension) alt 1
 *[(top)](#table-of-contents)*
@@ -5397,4 +5252,149 @@ Only fault sections with at least one triggered aftershock are plotted. Sections
 | 7.6 | 6.6157446E-7 | 6.6791387E-7 | 6.6791387E-7 | 1.0 | 0.0 | 2.835316E-6 | 2.862485E-6 | 2.862485E-6 | 1.0 | 0.0 | 3.4519428E-5 | 3.4850214E-5 | 3.4850214E-5 | 1.0 | 0.0 | 3.4514067E-4 | 3.4844902E-4 | 3.4844902E-4 | 1.0 | 0.0 |
 | 7.7 | 2.6012302E-7 | 2.4358158E-7 | 2.4358158E-7 | 1.0 | 0.0 | 1.1148124E-6 | 1.0439207E-6 | 1.0439207E-6 | 1.0 | 0.0 | 1.3572758E-5 | 1.2709671E-5 | 1.2709671E-5 | 1.0 | 0.0 | 1.3571928E-4 | 1.270905E-4 | 1.270905E-4 | 1.0 | 0.0 |
 | 7.8 | 2.8323132E-8 | 2.0267155E-8 | 2.0267155E-8 | 1.0 | 0.0 | 1.2138484E-7 | 8.685923E-8 | 8.685923E-8 | 1.0 | 0.0 | 1.4778595E-6 | 1.0575108E-6 | 1.0575108E-6 | 1.0 | 0.0 | 1.4778497E-5 | 1.0575065E-5 | 1.0575065E-5 | 1.0 | 0.0 |
+
+## Sisar
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Sisar_1wk.png) | ![MPD](Sisar_1mo.png) | ![MPD](Sisar_1yr.png) | ![MPD](Sisar_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
+| 6.1 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
+| 6.2 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
+| 6.3 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
+| 6.4 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
+| 6.5 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
+| 6.6 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
+| 6.7 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
+| 6.8 | 4.544193E-6 | 3.839685E-6 | 1.3839647E-5 | 3.60437 | 1.0E-5 | 1.9474966E-5 | 1.6455691E-5 | 2.6455527E-5 | 1.6076825 | 1.0E-5 | 2.3708193E-4 | 2.0032996E-4 | 2.1032795E-4 | 1.0499077 | 1.0E-5 | 0.0023682916 | 0.0020015275 | 0.0020115075 | 1.0049862 | 1.0E-5 |
+| 6.9 | 4.542225E-6 | 3.837647E-6 | 1.3837609E-5 | 3.6057534 | 1.0E-5 | 1.9466532E-5 | 1.6446957E-5 | 2.6446793E-5 | 1.6080052 | 1.0E-5 | 2.3697925E-4 | 2.0022363E-4 | 2.1022162E-4 | 1.0499341 | 1.0E-5 | 0.002367267 | 0.0020004662 | 0.002010446 | 1.0049888 | 1.0E-5 |
+| 7.0 | 4.5278484E-6 | 3.822711E-6 | 1.3822672E-5 | 3.6159346 | 1.0E-5 | 1.940492E-5 | 1.6382946E-5 | 2.6382782E-5 | 1.6103809 | 1.0E-5 | 2.3622929E-4 | 1.9944445E-4 | 2.0944244E-4 | 1.0501293 | 1.0E-5 | 0.0023597833 | 0.0019926883 | 0.0020026683 | 1.0050083 | 1.0E-5 |
+| 7.1 | 4.5132488E-6 | 3.8074982E-6 | 1.380746E-5 | 3.6263866 | 1.0E-5 | 1.9342351E-5 | 1.6317748E-5 | 2.6317586E-5 | 1.6128197 | 1.0E-5 | 2.3546767E-4 | 1.9865081E-4 | 2.0864882E-4 | 1.0503296 | 1.0E-5 | 0.0023521832 | 0.0019847662 | 0.0019947463 | 1.0050284 | 1.0E-5 |
+| 7.2 | 4.448859E-6 | 3.7399573E-6 | 1.373992E-5 | 3.6738174 | 1.0E-5 | 1.9066398E-5 | 1.6028293E-5 | 2.6028132E-5 | 1.6238868 | 1.0E-5 | 2.3210866E-4 | 1.9512732E-4 | 2.0512537E-4 | 1.0512385 | 1.0E-5 | 0.0023186638 | 0.0019495934 | 0.001959574 | 1.0051193 | 1.0E-5 |
+| 7.3 | 4.3424366E-6 | 3.6337894E-6 | 3.6337894E-6 | 1.0 | 0.0 | 1.861031E-5 | 1.5573292E-5 | 1.5573292E-5 | 1.0 | 0.0 | 2.2655698E-4 | 1.8958867E-4 | 1.8958867E-4 | 1.0 | 0.0 | 0.0022632615 | 0.0018943028 | 0.0018943028 | 1.0 | 0.0 |
+| 7.4 | 4.218641E-6 | 3.5331395E-6 | 3.5331395E-6 | 1.0 | 0.0 | 1.8079765E-5 | 1.5141941E-5 | 1.5141941E-5 | 1.0 | 0.0 | 2.2009891E-4 | 1.8433787E-4 | 1.8433787E-4 | 1.0 | 0.0 | 0.0021988105 | 0.001841883 | 0.001841883 | 1.0 | 0.0 |
+| 7.5 | 3.983779E-6 | 3.3479018E-6 | 3.3479018E-6 | 1.0 | 0.0 | 1.7073227E-5 | 1.4348074E-5 | 1.4348074E-5 | 1.0 | 0.0 | 2.0784672E-4 | 1.7467413E-4 | 1.7467413E-4 | 1.0 | 0.0 | 0.0020765243 | 0.0017454013 | 0.0017454013 | 1.0 | 0.0 |
+| 7.6 | 2.777393E-6 | 2.3523125E-6 | 2.3523125E-6 | 1.0 | 0.0 | 1.1903058E-5 | 1.0081301E-5 | 1.0081301E-5 | 1.0 | 0.0 | 1.449101E-4 | 1.22733E-4 | 1.22733E-4 | 1.0 | 0.0 | 0.0014481564 | 0.00122666 | 0.00122666 | 1.0 | 0.0 |
+| 7.7 | 1.9028433E-6 | 1.5939175E-6 | 1.5939175E-6 | 1.0 | 0.0 | 8.155017E-6 | 6.8310574E-6 | 6.8310574E-6 | 1.0 | 0.0 | 9.928281E-5 | 8.3164996E-5 | 8.3164996E-5 | 1.0 | 0.0 | 9.923846E-4 | 8.313435E-4 | 8.313435E-4 | 1.0 | 0.0 |
+| 7.8 | 4.9095956E-7 | 4.3584475E-7 | 4.3584475E-7 | 1.0 | 0.0 | 2.1041105E-6 | 1.8679048E-6 | 1.8679048E-6 | 1.0 | 0.0 | 2.5617246E-5 | 2.2741506E-5 | 2.2741506E-5 | 1.0 | 0.0 | 2.5614293E-4 | 2.2739195E-4 | 2.2739195E-4 | 1.0 | 0.0 |
+| 7.9 | 1.16657894E-7 | 1.03357515E-7 | 1.03357515E-7 | 1.0 | 0.0 | 4.999623E-7 | 4.429607E-7 | 4.429607E-7 | 1.0 | 0.0 | 6.087024E-6 | 5.3930335E-6 | 5.3930335E-6 | 1.0 | 0.0 | 6.0868573E-5 | 5.3929056E-5 | 5.3929056E-5 | 1.0 | 0.0 |
+| 8.0 | 2.5100346E-9 | 1.7069005E-9 | 1.7069005E-9 | 1.0 | 0.0 | 1.0757291E-8 | 7.3152884E-9 | 7.3152884E-9 | 1.0 | 0.0 | 1.3097001E-7 | 8.906363E-8 | 8.906363E-8 | 1.0 | 0.0 | 1.3096993E-6 | 8.9063604E-7 | 8.9063604E-7 | 1.0 | 0.0 |
+
+## South Klamath Lake East
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](South_Klamath_Lake_East_1wk.png) | ![MPD](South_Klamath_Lake_East_1mo.png) | ![MPD](South_Klamath_Lake_East_1yr.png) | ![MPD](South_Klamath_Lake_East_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 2.3539369E-5 | 2.5047904E-5 | 2.5047904E-5 | 1.0 | 0.0 | 1.0087911E-4 | 1.0734421E-4 | 1.0734421E-4 | 1.0 | 0.0 | 0.0012275111 | 0.0013062154 | 0.0013162025 | 1.0076457 | 1.0E-5 | 0.012207527 | 0.012993725 | 0.013003595 | 1.0007596 | 1.0E-5 |
+| 6.1 | 2.3539369E-5 | 2.5047904E-5 | 2.5047904E-5 | 1.0 | 0.0 | 1.0087911E-4 | 1.0734421E-4 | 1.0734421E-4 | 1.0 | 0.0 | 0.0012275111 | 0.0013062154 | 0.0013162025 | 1.0076457 | 1.0E-5 | 0.012207527 | 0.012993725 | 0.013003595 | 1.0007596 | 1.0E-5 |
+| 6.2 | 2.3539369E-5 | 2.5047904E-5 | 2.5047904E-5 | 1.0 | 0.0 | 1.0087911E-4 | 1.0734421E-4 | 1.0734421E-4 | 1.0 | 0.0 | 0.0012275111 | 0.0013062154 | 0.0013162025 | 1.0076457 | 1.0E-5 | 0.012207527 | 0.012993725 | 0.013003595 | 1.0007596 | 1.0E-5 |
+| 6.3 | 9.807823E-6 | 1.0396275E-5 | 1.0396275E-5 | 1.0 | 0.0 | 4.2032847E-5 | 4.4554752E-5 | 4.4554752E-5 | 1.0 | 0.0 | 5.1162974E-4 | 5.4232747E-4 | 5.52322E-4 | 1.018429 | 1.0E-5 | 0.005104534 | 0.005410876 | 0.005420822 | 1.0018381 | 1.0E-5 |
+| 6.4 | 9.807823E-6 | 1.0396275E-5 | 1.0396275E-5 | 1.0 | 0.0 | 4.2032847E-5 | 4.4554752E-5 | 4.4554752E-5 | 1.0 | 0.0 | 5.1162974E-4 | 5.4232747E-4 | 5.52322E-4 | 1.018429 | 1.0E-5 | 0.005104534 | 0.005410876 | 0.005420822 | 1.0018381 | 1.0E-5 |
+| 6.5 | 6.191981E-6 | 6.550981E-6 | 6.550981E-6 | 1.0 | 0.0 | 2.653679E-5 | 2.8075347E-5 | 2.8075347E-5 | 1.0 | 0.0 | 3.2303753E-4 | 3.417665E-4 | 3.417665E-4 | 1.0 | 0.0 | 0.0032256835 | 0.0034126875 | 0.0034126875 | 1.0 | 0.0 |
+| 6.6 | 4.3693776E-6 | 4.6166547E-6 | 4.6166547E-6 | 1.0 | 0.0 | 1.8725768E-5 | 1.9785519E-5 | 1.9785519E-5 | 1.0 | 0.0 | 2.2796239E-4 | 2.4086318E-4 | 2.4086318E-4 | 1.0 | 0.0 | 0.0022772867 | 0.0024061338 | 0.0024061338 | 1.0 | 0.0 |
+| 6.7 | 3.360834E-6 | 3.5513149E-6 | 3.5513149E-6 | 1.0 | 0.0 | 1.4403494E-5 | 1.5219837E-5 | 1.5219837E-5 | 1.0 | 0.0 | 1.7534842E-4 | 1.8528657E-4 | 1.8528657E-4 | 1.0 | 0.0 | 0.0017521014 | 0.0018514008 | 0.0018514008 | 1.0 | 0.0 |
+| 6.8 | 2.57873E-6 | 2.7252283E-6 | 2.7252283E-6 | 1.0 | 0.0 | 1.1051653E-5 | 1.1679501E-5 | 1.1679501E-5 | 1.0 | 0.0 | 1.3454557E-4 | 1.4218927E-4 | 1.4218927E-4 | 1.0 | 0.0 | 0.0013446413 | 0.0014210435 | 0.0014210435 | 1.0 | 0.0 |
+| 6.9 | 9.987825E-7 | 1.056644E-6 | 1.056644E-6 | 1.0 | 0.0 | 4.2804895E-6 | 4.5284683E-6 | 4.5284683E-6 | 1.0 | 0.0 | 5.211371E-5 | 5.5133034E-5 | 5.5133034E-5 | 1.0 | 0.0 | 5.210149E-4 | 5.5122573E-4 | 5.5122573E-4 | 1.0 | 0.0 |
+
+## San Cayetano
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](San_Cayetano_1wk.png) | ![MPD](San_Cayetano_1mo.png) | ![MPD](San_Cayetano_1yr.png) | ![MPD](San_Cayetano_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
+| 6.1 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
+| 6.2 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
+| 6.3 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
+| 6.4 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
+| 6.5 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
+| 6.6 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
+| 6.7 | 2.3476267E-5 | 1.817047E-5 | 1.817047E-5 | 1.0 | 0.0 | 1.0060869E-4 | 7.787115E-5 | 7.787115E-5 | 1.0 | 0.0 | 0.0012242225 | 9.4767247E-4 | 9.4767247E-4 | 1.0 | 0.0 | 0.012175002 | 0.009437201 | 0.009447106 | 1.0010496 | 1.0E-5 |
+| 6.8 | 2.3241924E-5 | 1.7938162E-5 | 1.7938162E-5 | 1.0 | 0.0 | 9.960445E-5 | 7.687559E-5 | 7.687559E-5 | 1.0 | 0.0 | 0.0012120095 | 9.35562E-4 | 9.35562E-4 | 1.0 | 0.0 | 0.012054204 | 0.009317089 | 0.009326996 | 1.0010633 | 1.0E-5 |
+| 6.9 | 2.2761007E-5 | 1.743357E-5 | 1.743357E-5 | 1.0 | 0.0 | 9.7543525E-5 | 7.471318E-5 | 7.471318E-5 | 1.0 | 0.0 | 0.0011869454 | 9.0925675E-4 | 9.0925675E-4 | 1.0 | 0.0 | 0.011806256 | 0.009056196 | 0.009066105 | 1.0010942 | 1.0E-5 |
+| 7.0 | 2.240283E-5 | 1.7067296E-5 | 1.7067296E-5 | 1.0 | 0.0 | 9.600859E-5 | 7.314352E-5 | 7.314352E-5 | 1.0 | 0.0 | 0.0011682777 | 8.9016196E-4 | 8.9016196E-4 | 1.0 | 0.0 | 0.011621549 | 0.008866779 | 0.00887669 | 1.0011178 | 1.0E-5 |
+| 7.1 | 2.1871154E-5 | 1.6587113E-5 | 1.6587113E-5 | 1.0 | 0.0 | 9.373015E-5 | 7.108571E-5 | 7.108571E-5 | 1.0 | 0.0 | 0.0011405671 | 8.6512824E-4 | 8.6512824E-4 | 1.0 | 0.0 | 0.011347309 | 0.008618405 | 0.008628319 | 1.0011503 | 1.0E-5 |
+| 7.2 | 2.0714133E-5 | 1.556559E-5 | 1.556559E-5 | 1.0 | 0.0 | 8.8771834E-5 | 6.670799E-5 | 6.670799E-5 | 1.0 | 0.0 | 0.0010802611 | 8.118704E-4 | 8.118704E-4 | 1.0 | 0.0 | 0.010750249 | 0.008089819 | 0.008099738 | 1.0012261 | 1.0E-5 |
+| 7.3 | 1.8408395E-5 | 1.399771E-5 | 1.399771E-5 | 1.0 | 0.0 | 7.8890735E-5 | 5.9988823E-5 | 5.9988823E-5 | 1.0 | 0.0 | 9.600714E-4 | 7.3012215E-4 | 7.3012215E-4 | 1.0 | 0.0 | 0.009559342 | 0.0072779534 | 0.0072878804 | 1.001364 | 1.0E-5 |
+| 7.4 | 1.6856795E-5 | 1.2850762E-5 | 1.2850762E-5 | 1.0 | 0.0 | 7.2241404E-5 | 5.5073546E-5 | 5.5073546E-5 | 1.0 | 0.0 | 8.7918417E-4 | 6.70317E-4 | 6.70317E-4 | 1.0 | 0.0 | 0.00875714 | 0.0066836313 | 0.0066935644 | 1.0014862 | 1.0E-5 |
+| 7.5 | 1.2822778E-5 | 9.578011E-6 | 9.578011E-6 | 1.0 | 0.0 | 5.495361E-5 | 4.104798E-5 | 4.104798E-5 | 1.0 | 0.0 | 6.688548E-4 | 4.996461E-4 | 4.996461E-4 | 1.0 | 0.0 | 0.006668452 | 0.0049853986 | 0.004995349 | 1.0019958 | 1.0E-5 |
+| 7.6 | 5.6272684E-6 | 3.8551166E-6 | 3.8551166E-6 | 1.0 | 0.0 | 2.4116642E-5 | 1.6521824E-5 | 1.6521824E-5 | 1.0 | 0.0 | 2.9358055E-4 | 2.0113474E-4 | 2.0113474E-4 | 1.0 | 0.0 | 0.0029319301 | 0.002009538 | 0.002009538 | 1.0 | 0.0 |
+| 7.7 | 3.5261346E-6 | 2.3408315E-6 | 2.3408315E-6 | 1.0 | 0.0 | 1.5111918E-5 | 1.0032097E-5 | 1.0032097E-5 | 1.0 | 0.0 | 1.8397206E-4 | 1.22134E-4 | 1.22134E-4 | 1.0 | 0.0 | 0.0018381984 | 0.0012206762 | 0.0012206762 | 1.0 | 0.0 |
+| 7.8 | 1.4826929E-6 | 1.0564792E-6 | 1.0564792E-6 | 1.0 | 0.0 | 6.354383E-6 | 4.5277598E-6 | 4.5277598E-6 | 1.0 | 0.0 | 7.736187E-5 | 5.5124103E-5 | 5.5124103E-5 | 1.0 | 0.0 | 7.733494E-4 | 5.5110635E-4 | 5.5110635E-4 | 1.0 | 0.0 |
+| 7.9 | 2.7568166E-7 | 1.697944E-7 | 1.697944E-7 | 1.0 | 0.0 | 1.1814923E-6 | 7.2769006E-7 | 7.2769006E-7 | 1.0 | 0.0 | 1.4384574E-5 | 8.859591E-6 | 8.859591E-6 | 1.0 | 0.0 | 1.4383643E-4 | 8.859242E-5 | 8.859242E-5 | 1.0 | 0.0 |
+| 8.0 | 5.407832E-8 | 2.6891726E-8 | 2.6891726E-8 | 1.0 | 0.0 | 2.3176422E-7 | 1.1525025E-7 | 1.1525025E-7 | 1.0 | 0.0 | 2.8217257E-6 | 1.4031709E-6 | 1.4031709E-6 | 1.0 | 0.0 | 2.8216898E-5 | 1.4031625E-5 | 1.4031625E-5 | 1.0 | 0.0 |
+
+## Sierra Madre (San Fernando)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Sierra_Madre_San_Fernando_1wk.png) | ![MPD](Sierra_Madre_San_Fernando_1mo.png) | ![MPD](Sierra_Madre_San_Fernando_1yr.png) | ![MPD](Sierra_Madre_San_Fernando_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.0346413E-5 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.4341014E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.3971814E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0053840918 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
+| 6.1 | 1.0346413E-5 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.4341014E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.3971814E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0053840918 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
+| 6.2 | 1.0346413E-5 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.4341014E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.3971814E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0053840918 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
+| 6.3 | 1.0346413E-5 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.4341014E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.3971814E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0053840918 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
+| 6.4 | 1.0249558E-5 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.392594E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.3466705E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0053338245 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
+| 6.5 | 1.0249558E-5 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.392594E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.3466705E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0053338245 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
+| 6.6 | 9.9035515E-6 | 6.287655E-6 | 6.287655E-6 | 1.0 | 0.0 | 4.2443102E-5 | 2.6946822E-5 | 2.6946822E-5 | 1.0 | 0.0 | 5.166222E-4 | 3.2802927E-4 | 3.2802927E-4 | 1.0 | 0.0 | 0.0051542283 | 0.0032755632 | 0.0032855305 | 1.0030429 | 1.0E-5 |
+| 6.7 | 9.87217E-6 | 6.275075E-6 | 6.275075E-6 | 1.0 | 0.0 | 4.2308613E-5 | 2.6892907E-5 | 2.6892907E-5 | 1.0 | 0.0 | 5.149856E-4 | 3.2737307E-4 | 3.2737307E-4 | 1.0 | 0.0 | 0.005137938 | 0.0032690205 | 0.003278988 | 1.003049 | 1.0E-5 |
+| 6.8 | 9.4359175E-6 | 6.179043E-6 | 6.179043E-6 | 1.0 | 0.0 | 4.043902E-5 | 2.648135E-5 | 2.648135E-5 | 1.0 | 0.0 | 4.9223384E-4 | 3.2236383E-4 | 3.2236383E-4 | 1.0 | 0.0 | 0.0049114493 | 0.0032190739 | 0.0032290416 | 1.0030965 | 1.0E-5 |
+| 6.9 | 8.700447E-6 | 6.0402913E-6 | 6.0402913E-6 | 1.0 | 0.0 | 3.72871E-5 | 2.5886711E-5 | 2.5886711E-5 | 1.0 | 0.0 | 4.5387587E-4 | 3.151262E-4 | 3.151262E-4 | 1.0 | 0.0 | 0.0045295 | 0.0031469031 | 0.0031568715 | 1.0031677 | 1.0E-5 |
+| 7.0 | 8.648878E-6 | 6.0152056E-6 | 6.0152056E-6 | 1.0 | 0.0 | 3.7066096E-5 | 2.5779203E-5 | 2.5779203E-5 | 1.0 | 0.0 | 4.5118626E-4 | 3.1381767E-4 | 3.1381767E-4 | 1.0 | 0.0 | 0.004502713 | 0.0031338546 | 0.0031438232 | 1.003181 | 1.0E-5 |
+| 7.1 | 8.505786E-6 | 5.924833E-6 | 5.924833E-6 | 1.0 | 0.0 | 3.645286E-5 | 2.53919E-5 | 2.53919E-5 | 1.0 | 0.0 | 4.437232E-4 | 3.091036E-4 | 3.091036E-4 | 1.0 | 0.0 | 0.0044283825 | 0.0030868459 | 0.003096815 | 1.0032295 | 1.0E-5 |
+| 7.2 | 8.139752E-6 | 5.6991207E-6 | 5.6991207E-6 | 1.0 | 0.0 | 3.4884186E-5 | 2.442458E-5 | 2.442458E-5 | 1.0 | 0.0 | 4.246322E-4 | 2.9732974E-4 | 2.9732974E-4 | 1.0 | 0.0 | 0.004238217 | 0.0029694254 | 0.0029793957 | 1.0033576 | 1.0E-5 |
+| 7.3 | 7.8816E-6 | 5.5524306E-6 | 5.5524306E-6 | 1.0 | 0.0 | 3.3777847E-5 | 2.3795921E-5 | 2.3795921E-5 | 1.0 | 0.0 | 4.111677E-4 | 2.8967788E-4 | 2.8967788E-4 | 1.0 | 0.0 | 0.004104078 | 0.0028931084 | 0.0029030794 | 1.0034465 | 1.0E-5 |
+| 7.4 | 7.5810603E-6 | 5.356662E-6 | 5.356662E-6 | 1.0 | 0.0 | 3.2489854E-5 | 2.2956927E-5 | 2.2956927E-5 | 1.0 | 0.0 | 3.9549218E-4 | 2.7946578E-4 | 2.7946578E-4 | 1.0 | 0.0 | 0.0039478904 | 0.0027912485 | 0.0028012206 | 1.0035726 | 1.0E-5 |
+| 7.5 | 6.349153E-6 | 4.4079093E-6 | 4.4079093E-6 | 1.0 | 0.0 | 2.7210372E-5 | 1.8890907E-5 | 1.8890907E-5 | 1.0 | 0.0 | 3.312359E-4 | 2.2997333E-4 | 2.2997333E-4 | 1.0 | 0.0 | 0.0033074263 | 0.0022974357 | 0.0023074127 | 1.0043427 | 1.0E-5 |
+| 7.6 | 4.430576E-6 | 2.8908958E-6 | 2.8908958E-6 | 1.0 | 0.0 | 1.8988047E-5 | 1.2389495E-5 | 1.2389495E-5 | 1.0 | 0.0 | 2.3115493E-4 | 1.5083188E-4 | 1.5083188E-4 | 1.0 | 0.0 | 0.0023091463 | 0.0015073178 | 0.0015173027 | 1.0066243 | 1.0E-5 |
+| 7.7 | 3.005066E-6 | 1.7512955E-6 | 1.7512955E-6 | 1.0 | 0.0 | 1.2878791E-5 | 7.5055304E-6 | 7.5055304E-6 | 1.0 | 0.0 | 1.56788E-4 | 9.1376016E-5 | 9.1376016E-5 | 1.0 | 0.0 | 0.0015667742 | 9.133856E-4 | 9.233765E-4 | 1.0109383 | 1.0E-5 |
+| 7.8 | 1.8459098E-6 | 1.0584135E-6 | 1.0584135E-6 | 1.0 | 0.0 | 7.911018E-6 | 4.5360503E-6 | 4.5360503E-6 | 1.0 | 0.0 | 9.631238E-5 | 5.5225017E-5 | 5.5225017E-5 | 1.0 | 0.0 | 9.627065E-4 | 5.5211334E-4 | 5.5211334E-4 | 1.0 | 0.0 |
+| 7.9 | 9.839262E-7 | 5.235467E-7 | 5.235467E-7 | 1.0 | 0.0 | 4.2168194E-6 | 2.2437696E-6 | 2.2437696E-6 | 1.0 | 0.0 | 5.1338568E-5 | 2.7317554E-5 | 2.7317554E-5 | 1.0 | 0.0 | 5.132671E-4 | 2.7314224E-4 | 2.7314224E-4 | 1.0 | 0.0 |
+| 8.0 | 1.210983E-7 | 6.614803E-8 | 6.614803E-8 | 1.0 | 0.0 | 5.1899264E-7 | 2.8349154E-7 | 2.8349154E-7 | 1.0 | 0.0 | 6.3187167E-6 | 3.4515042E-6 | 3.4515042E-6 | 1.0 | 0.0 | 6.318537E-5 | 3.4514524E-5 | 3.4514524E-5 | 1.0 | 0.0 |
+
+## Hosgri (Extension)
+*[(top)](#table-of-contents)*
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](Hosgri_Extension_1wk.png) | ![MPD](Hosgri_Extension_1mo.png) | ![MPD](Hosgri_Extension_1yr.png) | ![MPD](Hosgri_Extension_10yr.png) |
+
+| Magnitude | 1 wk TI Prob | 1 wk TD Prob | 1 wk ETAS Prob | 1 wk ETAS/TD Gain | 1 wk ETAS Triggered Only | 1 mo TI Prob | 1 mo TD Prob | 1 mo ETAS Prob | 1 mo ETAS/TD Gain | 1 mo ETAS Triggered Only | 1 yr TI Prob | 1 yr TD Prob | 1 yr ETAS Prob | 1 yr ETAS/TD Gain | 1 yr ETAS Triggered Only | 10 yr TI Prob | 10 yr TD Prob | 10 yr ETAS Prob | 10 yr ETAS/TD Gain | 10 yr ETAS Triggered Only |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 6.0 | 1.1369135E-5 | 1.2083427E-5 | 1.2083427E-5 | 1.0 | 0.0 | 4.8723956E-5 | 5.1785217E-5 | 5.1785217E-5 | 1.0 | 0.0 | 5.9305265E-4 | 6.3032535E-4 | 6.40319E-4 | 1.0158548 | 1.0E-5 | 0.005914725 | 0.006287624 | 0.0062975613 | 1.0015805 | 1.0E-5 |
+| 6.1 | 6.934979E-6 | 7.3247807E-6 | 7.3247807E-6 | 1.0 | 0.0 | 2.9721E-5 | 3.1391563E-5 | 3.1391563E-5 | 1.0 | 0.0 | 3.617931E-4 | 3.821294E-4 | 3.821294E-4 | 1.0 | 0.0 | 0.0036120464 | 0.003815136 | 0.003815136 | 1.0 | 0.0 |
+| 6.2 | 6.934979E-6 | 7.3247807E-6 | 7.3247807E-6 | 1.0 | 0.0 | 2.9721E-5 | 3.1391563E-5 | 3.1391563E-5 | 1.0 | 0.0 | 3.617931E-4 | 3.821294E-4 | 3.821294E-4 | 1.0 | 0.0 | 0.0036120464 | 0.003815136 | 0.003815136 | 1.0 | 0.0 |
+| 6.3 | 4.5484676E-6 | 4.769489E-6 | 4.769489E-6 | 1.0 | 0.0 | 1.9493287E-5 | 2.0440508E-5 | 2.0440508E-5 | 1.0 | 0.0 | 2.3730492E-4 | 2.488352E-4 | 2.488352E-4 | 1.0 | 0.0 | 0.0023705168 | 0.0024856082 | 0.0024856082 | 1.0 | 0.0 |
+| 6.4 | 4.218095E-6 | 4.4170115E-6 | 4.4170115E-6 | 1.0 | 0.0 | 1.8077424E-5 | 1.8929913E-5 | 1.8929913E-5 | 1.0 | 0.0 | 2.2007042E-4 | 2.3044764E-4 | 2.3044764E-4 | 1.0 | 0.0 | 0.002198526 | 0.0023021202 | 0.0023021202 | 1.0 | 0.0 |
+| 6.5 | 3.717374E-6 | 3.884015E-6 | 3.884015E-6 | 1.0 | 0.0 | 1.5931506E-5 | 1.6645672E-5 | 1.6645672E-5 | 1.0 | 0.0 | 1.9394881E-4 | 2.0264239E-4 | 2.0264239E-4 | 1.0 | 0.0 | 0.0019377962 | 0.002024595 | 0.002024595 | 1.0 | 0.0 |
+| 6.6 | 3.4605036E-6 | 3.6084357E-6 | 3.6084357E-6 | 1.0 | 0.0 | 1.4830645E-5 | 1.5464633E-5 | 1.5464633E-5 | 1.0 | 0.0 | 1.8054814E-4 | 1.8826578E-4 | 1.8826578E-4 | 1.0 | 0.0 | 0.0018040152 | 0.0018810777 | 0.0018810777 | 1.0 | 0.0 |
+| 6.7 | 3.123439E-6 | 3.2466885E-6 | 3.2466885E-6 | 1.0 | 0.0 | 1.33860985E-5 | 1.3914305E-5 | 1.3914305E-5 | 1.0 | 0.0 | 1.6296357E-4 | 1.693936E-4 | 1.693936E-4 | 1.0 | 0.0 | 0.001628441 | 0.0016926557 | 0.0016926557 | 1.0 | 0.0 |
+| 6.8 | 2.8290783E-6 | 2.9306514E-6 | 2.9306514E-6 | 1.0 | 0.0 | 1.2124565E-5 | 1.2559874E-5 | 1.2559874E-5 | 1.0 | 0.0 | 1.4760658E-4 | 1.5290582E-4 | 1.5290582E-4 | 1.0 | 0.0 | 0.0014750857 | 0.0015280149 | 0.0015280149 | 1.0 | 0.0 |
+| 6.9 | 2.454112E-6 | 2.5284198E-6 | 2.5284198E-6 | 1.0 | 0.0 | 1.0517581E-5 | 1.083604E-5 | 1.083604E-5 | 1.0 | 0.0 | 1.2804402E-4 | 1.3192085E-4 | 1.3192085E-4 | 1.0 | 0.0 | 0.0012797028 | 0.0013184316 | 0.0013184316 | 1.0 | 0.0 |
+| 7.0 | 2.1008145E-6 | 2.1499604E-6 | 2.1499604E-6 | 1.0 | 0.0 | 9.003459E-6 | 9.2140845E-6 | 9.2140845E-6 | 1.0 | 0.0 | 1.096116E-4 | 1.1217574E-4 | 1.1217574E-4 | 1.0 | 0.0 | 0.0010955755 | 0.0011211949 | 0.0011211949 | 1.0 | 0.0 |
+| 7.1 | 1.744384E-6 | 1.7687156E-6 | 1.7687156E-6 | 1.0 | 0.0 | 7.47591E-6 | 7.5801877E-6 | 7.5801877E-6 | 1.0 | 0.0 | 9.1015405E-5 | 9.228489E-5 | 9.228489E-5 | 1.0 | 0.0 | 9.097813E-4 | 9.2246744E-4 | 9.2246744E-4 | 1.0 | 0.0 |
+| 7.2 | 1.5456587E-6 | 1.5563631E-6 | 1.5563631E-6 | 1.0 | 0.0 | 6.6242346E-6 | 6.670111E-6 | 6.670111E-6 | 1.0 | 0.0 | 8.064707E-5 | 8.120559E-5 | 8.120559E-5 | 1.0 | 0.0 | 8.0617814E-4 | 8.117604E-4 | 8.117604E-4 | 1.0 | 0.0 |
+| 7.3 | 1.3775123E-6 | 1.3766786E-6 | 1.3766786E-6 | 1.0 | 0.0 | 5.9036106E-6 | 5.9000376E-6 | 5.9000376E-6 | 1.0 | 0.0 | 7.187409E-5 | 7.1830604E-5 | 7.1830604E-5 | 1.0 | 0.0 | 7.185085E-4 | 7.1807485E-4 | 7.1807485E-4 | 1.0 | 0.0 |
+| 7.4 | 1.214491E-6 | 1.2024119E-6 | 1.2024119E-6 | 1.0 | 0.0 | 5.2049513E-6 | 5.153184E-6 | 5.153184E-6 | 1.0 | 0.0 | 6.336844E-5 | 6.273822E-5 | 6.273822E-5 | 1.0 | 0.0 | 6.335037E-4 | 6.272059E-4 | 6.272059E-4 | 1.0 | 0.0 |
+| 7.5 | 1.0101123E-6 | 9.842851E-7 | 9.842851E-7 | 1.0 | 0.0 | 4.3290456E-6 | 4.2183574E-6 | 4.2183574E-6 | 1.0 | 0.0 | 5.2704854E-5 | 5.13573E-5 | 5.13573E-5 | 1.0 | 0.0 | 5.2692357E-4 | 5.134549E-4 | 5.134549E-4 | 1.0 | 0.0 |
+| 7.6 | 8.1558215E-7 | 7.7665186E-7 | 7.7665186E-7 | 1.0 | 0.0 | 3.4953473E-6 | 3.328504E-6 | 3.328504E-6 | 1.0 | 0.0 | 4.255502E-5 | 4.0523784E-5 | 4.0523784E-5 | 1.0 | 0.0 | 4.2546875E-4 | 4.051644E-4 | 4.051644E-4 | 1.0 | 0.0 |
+| 7.7 | 4.757816E-7 | 4.131347E-7 | 4.131347E-7 | 1.0 | 0.0 | 2.0390623E-6 | 1.7705761E-6 | 1.7705761E-6 | 1.0 | 0.0 | 2.4825302E-5 | 2.1556552E-5 | 2.1556552E-5 | 1.0 | 0.0 | 2.482253E-4 | 2.1554474E-4 | 2.1554474E-4 | 1.0 | 0.0 |
+| 7.8 | 2.782787E-7 | 2.0051701E-7 | 2.0051701E-7 | 1.0 | 0.0 | 1.1926223E-6 | 8.593583E-7 | 8.593583E-7 | 1.0 | 0.0 | 1.452008E-5 | 1.0462637E-5 | 1.0462637E-5 | 1.0 | 0.0 | 1.4519131E-4 | 1.0462148E-4 | 1.0462148E-4 | 1.0 | 0.0 |
+| 7.9 | 1.6948086E-7 | 9.247979E-8 | 9.247979E-8 | 1.0 | 0.0 | 7.2634634E-7 | 3.9634187E-7 | 3.9634187E-7 | 1.0 | 0.0 | 8.843231E-6 | 4.825452E-6 | 4.825452E-6 | 1.0 | 0.0 | 8.842879E-5 | 4.8253478E-5 | 4.8253478E-5 | 1.0 | 0.0 |
+| 8.0 | 1.0225492E-7 | 4.4765976E-8 | 4.4765976E-8 | 1.0 | 0.0 | 4.382353E-7 | 1.9185416E-7 | 1.9185416E-7 | 1.0 | 0.0 | 5.335502E-6 | 2.3358218E-6 | 2.3358218E-6 | 1.0 | 0.0 | 5.335374E-5 | 2.3357976E-5 | 2.3357976E-5 | 1.0 | 0.0 |
+| 8.1 | 1.43711345E-8 | 5.7919225E-9 | 5.7919225E-9 | 1.0 | 0.0 | 6.1590576E-8 | 2.4822524E-8 | 2.4822524E-8 | 1.0 | 0.0 | 7.4986497E-7 | 3.022142E-7 | 3.022142E-7 | 1.0 | 0.0 | 7.4986247E-6 | 3.0221383E-6 | 3.0221383E-6 | 1.0 | 0.0 |
 

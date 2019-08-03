@@ -35,8 +35,8 @@
 * [ComCat Data Comparisons](#comcat-data-comparisons)
   * [ComCat Magnitude-Number Distribution](#comcat-magnitude-number-distribution)
   * [ComCat Cumulative Number Vs Time](#comcat-cumulative-number-vs-time)
-  * [ComCat Spatial Distribution, Mean](#comcat-spatial-distribution-mean)
-  * [ComCat Spatial Distribution, Median](#comcat-spatial-distribution-median)
+  * [ComCat Mean Spatial Distribution](#comcat-mean-spatial-distribution)
+  * [ComCat Depth Distribution](#comcat-depth-distribution)
 * [Section Participation](#section-participation)
   * [Section Participation Plots](#section-participation-plots)
   * [Supra-Seismogenic Parent Sections Table](#supra-seismogenic-parent-sections-table)
@@ -700,29 +700,24 @@ These plots compare simulated sequences with data from ComCat. All plots only co
 
 ![MND](plots/comcat_compare_cumulative_num.png)
 
-### ComCat Spatial Distribution, Mean
+### ComCat Mean Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 4.5 Day |
+|  | 1 Day | 1 Week |
 |-----|-----|-----|
-| **M≥3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_4.5d_m3.png) |
-| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_4.5d_m4.png) |
-| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_4.5d_m5.png) |
-| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_4.5d_m6.png) |
-| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_4.5d_m7.png) |
-| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_4.5d_m8.png) |
+| **M≥3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_1wk_m3.png) |
+| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_1wk_m4.png) |
+| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_1wk_m5.png) |
+| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_1wk_m6.png) |
+| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_1wk_m7.png) |
+| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_1wk_m8.png) |
 
-### ComCat Spatial Distribution, Median
+### ComCat Depth Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 4.5 Day |
-|-----|-----|-----|
-| **M≥3** | ![Map](plots/comcat_compare_median_1d_m3.png) | ![Map](plots/comcat_compare_median_4.5d_m3.png) |
-| **M≥4** | ![Map](plots/comcat_compare_median_1d_m4.png) | ![Map](plots/comcat_compare_median_4.5d_m4.png) |
-| **M≥5** | ![Map](plots/comcat_compare_median_1d_m5.png) | ![Map](plots/comcat_compare_median_4.5d_m5.png) |
-| **M≥6** | ![Map](plots/comcat_compare_median_1d_m6.png) | ![Map](plots/comcat_compare_median_4.5d_m6.png) |
-| **M≥7** | ![Map](plots/comcat_compare_median_1d_m7.png) | ![Map](plots/comcat_compare_median_4.5d_m7.png) |
-| **M≥8** | ![Map](plots/comcat_compare_median_1d_m8.png) | ![Map](plots/comcat_compare_median_4.5d_m8.png) |
+| M&ge;3 | M&ge;4 | M&ge;5 | M&ge;6 | M&ge;7 | M&ge;8 |
+|-----|-----|-----|-----|-----|-----|
+| ![Depth Distribution](plots/comcat_compare_depth_m3.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.png) | ![Depth Distribution](plots/comcat_compare_depth_m6.png) | ![Depth Distribution](plots/comcat_compare_depth_m7.png) | ![Depth Distribution](plots/comcat_compare_depth_m8.png) |
 
 ## Section Participation
 *[(top)](#table-of-contents)*
