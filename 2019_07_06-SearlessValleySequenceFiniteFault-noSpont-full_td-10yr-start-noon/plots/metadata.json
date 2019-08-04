@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1564886118533,
-  "plotEndTime": 1564886134654,
+  "plotStartTime": 1564937006157,
+  "plotEndTime": 1564937038159,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_07_06-SearlessValleySequenceFiniteFault-noSpont-full_td-10yr-start-noon/results_complete.bin"
   },
-  "launcherGitHash": "8870d8a3eea531337f6f0f0a4af5bcf1d5f68ef9",
-  "launcherGitTime": 1564866256000,
+  "launcherGitHash": "ce6eafbcce590da669a9eaaf8d47d29ace2596da",
+  "launcherGitTime": 1564935971000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
