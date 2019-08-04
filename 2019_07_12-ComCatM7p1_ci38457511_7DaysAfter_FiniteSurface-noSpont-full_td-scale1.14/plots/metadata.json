@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1564864377327,
-  "plotEndTime": 1564864394615,
+  "plotStartTime": 1564879869668,
+  "plotEndTime": 1564880946018,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_07_12-ComCatM7p1_ci38457511_7DaysAfter_FiniteSurface-noSpont-full_td-scale1.14/results_complete.bin"
   },
-  "launcherGitHash": "9340287169f84707ccf87efe29bd0a277acb1956",
-  "launcherGitTime": 1564862807000,
+  "launcherGitHash": "8870d8a3eea531337f6f0f0a4af5bcf1d5f68ef9",
+  "launcherGitTime": 1564866256000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
@@ -672,7 +672,7 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 2,
-      "time": 1564791588066,
+      "time": 1564879869668,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
@@ -692,14 +692,14 @@
         "### ComCat Mean Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 1 Week | 3 Week |",
+        "|  | 1 Day | 1 Week | 21.9 Day |",
         "|-----|-----|-----|-----|",
-        "| **M≥3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_1wk_m3.png) | ![Map](plots/comcat_compare_mean_3wk_m3.png) |",
-        "| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_1wk_m4.png) | ![Map](plots/comcat_compare_mean_3wk_m4.png) |",
-        "| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_1wk_m5.png) | ![Map](plots/comcat_compare_mean_3wk_m5.png) |",
-        "| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_1wk_m6.png) | ![Map](plots/comcat_compare_mean_3wk_m6.png) |",
-        "| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_1wk_m7.png) | ![Map](plots/comcat_compare_mean_3wk_m7.png) |",
-        "| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_1wk_m8.png) | ![Map](plots/comcat_compare_mean_3wk_m8.png) |",
+        "| **M≥3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_1wk_m3.png) | ![Map](plots/comcat_compare_mean_21.9d_m3.png) |",
+        "| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_1wk_m4.png) | ![Map](plots/comcat_compare_mean_21.9d_m4.png) |",
+        "| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_1wk_m5.png) | ![Map](plots/comcat_compare_mean_21.9d_m5.png) |",
+        "| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_1wk_m6.png) | ![Map](plots/comcat_compare_mean_21.9d_m6.png) |",
+        "| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_1wk_m7.png) | ![Map](plots/comcat_compare_mean_21.9d_m7.png) |",
+        "| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_1wk_m8.png) | ![Map](plots/comcat_compare_mean_21.9d_m8.png) |",
         "",
         "### ComCat Depth Distribution",
         "*[(top)](#table-of-contents)*",
