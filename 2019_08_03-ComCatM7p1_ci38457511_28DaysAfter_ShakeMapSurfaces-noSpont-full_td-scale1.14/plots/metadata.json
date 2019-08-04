@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1564893296200,
-  "plotEndTime": 1564894024573,
+  "plotStartTime": 1564896909596,
+  "plotEndTime": 1564897520791,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_08_03-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/results_complete.bin"
@@ -673,7 +673,7 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 2,
-      "time": 1564893296200,
+      "time": 1564896909596,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
