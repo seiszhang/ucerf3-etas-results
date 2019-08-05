@@ -20,7 +20,7 @@
   "forceRecalc": false,
   "simulationName": "ComCat M7.1 (ci38457511), 5.9 Days After, Finite Surface",
   "numRetries": 3,
-  "outputDir": "/home/kevin/OpenSHA/UCERF3/etas/simulations/2019_07_11-ComCatM7p1_ci38457511_5p9DaysAfter_FiniteSurface-noSpont-full_td-scale1.14",
+  "outputDir": "${ETAS_SIM_DIR}/2019_07_11-ComCatM7p1_ci38457511_5p9DaysAfter_FiniteSurface-noSpont-full_td-scale1.14",
   "triggerRuptures": [
     {
       "occurrenceTimeMillis": 1562259775360,
@@ -9455,8 +9455,8 @@
       "depth": 0.0
     }
   ],
-  "cacheDir": "/home/kevin/git/ucerf3-etas-launcher/inputs/cache_fm3p1_ba",
-  "fssFile": "/home/kevin/git/ucerf3-etas-launcher/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip",
+  "cacheDir": "${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba",
+  "fssFile": "${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip",
   "probModel": "FULL_TD",
   "applySubSeisForSupraNucl": true,
   "totRateScaleFactor": 1.14,

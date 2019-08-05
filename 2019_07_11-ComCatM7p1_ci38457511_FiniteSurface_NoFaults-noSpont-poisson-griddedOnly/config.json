@@ -20,7 +20,7 @@
   "forceRecalc": false,
   "simulationName": "ComCat M7.1 (ci38457511), Finite Surface, No Faults",
   "numRetries": 3,
-  "outputDir": "/home/kevin/OpenSHA/UCERF3/etas/simulations/2019_07_11-ComCatM7p1_ci38457511_FiniteSurface_NoFaults-noSpont-poisson-griddedOnly",
+  "outputDir": "${ETAS_SIM_DIR}/2019_07_11-ComCatM7p1_ci38457511_FiniteSurface_NoFaults-noSpont-poisson-griddedOnly",
   "triggerRuptures": [
     {
       "occurrenceTimeMillis": 1562259775360,
@@ -1580,8 +1580,8 @@
       ]
     }
   ],
-  "cacheDir": "/home/kevin/git/ucerf3-etas-launcher/inputs/cache_fm3p1_ba",
-  "fssFile": "/home/kevin/git/ucerf3-etas-launcher/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip",
+  "cacheDir": "${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba",
+  "fssFile": "${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip",
   "probModel": "POISSON",
   "applySubSeisForSupraNucl": true,
   "totRateScaleFactor": 1.0,
