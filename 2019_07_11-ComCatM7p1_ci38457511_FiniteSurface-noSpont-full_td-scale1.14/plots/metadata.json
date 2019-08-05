@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1564936942553,
-  "plotEndTime": 1564936973171,
+  "plotStartTime": 1564972098276,
+  "plotEndTime": 1564973812574,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_07_11-ComCatM7p1_ci38457511_FiniteSurface-noSpont-full_td-scale1.14/results_complete.bin"
@@ -666,7 +666,7 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 2,
-      "time": 1564884254004,
+      "time": 1564972098276,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
