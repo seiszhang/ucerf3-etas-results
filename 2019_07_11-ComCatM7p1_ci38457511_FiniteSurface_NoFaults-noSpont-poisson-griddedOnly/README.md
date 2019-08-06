@@ -689,14 +689,14 @@ These plots compare simulated sequences with data from ComCat. All plots only co
 ### ComCat Mean Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 1 Week | 1 Month |
-|-----|-----|-----|-----|
-| **M≥3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_1wk_m3.png) | ![Map](plots/comcat_compare_mean_1mo_m3.png) |
-| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_1wk_m4.png) | ![Map](plots/comcat_compare_mean_1mo_m4.png) |
-| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_1wk_m5.png) | ![Map](plots/comcat_compare_mean_1mo_m5.png) |
-| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_1wk_m6.png) | ![Map](plots/comcat_compare_mean_1mo_m6.png) |
-| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_1wk_m7.png) | ![Map](plots/comcat_compare_mean_1mo_m7.png) |
-| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_1wk_m8.png) | ![Map](plots/comcat_compare_mean_1mo_m8.png) |
+|  | 1 Day | 1 Week | 1 Month | 1 Month |
+|-----|-----|-----|-----|-----|
+| **M≥3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_1wk_m3.png) | ![Map](plots/comcat_compare_mean_1mo_m3.png) | ![Map](plots/comcat_compare_mean_1mo_m3.png) |
+| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_1wk_m4.png) | ![Map](plots/comcat_compare_mean_1mo_m4.png) | ![Map](plots/comcat_compare_mean_1mo_m4.png) |
+| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_1wk_m5.png) | ![Map](plots/comcat_compare_mean_1mo_m5.png) | ![Map](plots/comcat_compare_mean_1mo_m5.png) |
+| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_1wk_m6.png) | ![Map](plots/comcat_compare_mean_1mo_m6.png) | ![Map](plots/comcat_compare_mean_1mo_m6.png) |
+| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_1wk_m7.png) | ![Map](plots/comcat_compare_mean_1mo_m7.png) | ![Map](plots/comcat_compare_mean_1mo_m7.png) |
+| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_1wk_m8.png) | ![Map](plots/comcat_compare_mean_1mo_m8.png) | ![Map](plots/comcat_compare_mean_1mo_m8.png) |
 
 ### ComCat Depth Distribution
 *[(top)](#table-of-contents)*
@@ -2314,217 +2314,225 @@ These plots compare simulated sequences with data from ComCat. All plots only co
   "includeIndirectTriggering": true,
   "gridSeisDiscr": 0.1,
   "catalogCompletenessModel": "RELAXED",
-  "comcatRegion": {
-    "border": [
-      {
-        "latitude": 35.15365355751595,
-        "longitude": -117.47431647544391
-      },
-      {
-        "latitude": 35.17292919266466,
-        "longitude": -117.56279622540113
-      },
-      {
-        "latitude": 35.20441365753836,
-        "longitude": -117.64589681007877
-      },
-      {
-        "latitude": 35.247163831132916,
-        "longitude": -117.72112153036954
-      },
-      {
-        "latitude": 35.29525064505718,
-        "longitude": -117.7804655306864
-      },
-      {
-        "latitude": 35.29525064505718,
-        "longitude": -117.78046553068643
-      },
-      {
-        "latitude": 35.294910012166454,
-        "longitude": -117.78094941705682
-      },
-      {
-        "latitude": 35.49122688423643,
-        "longitude": -117.99154900574608
-      },
-      {
-        "latitude": 35.63990795882754,
-        "longitude": -118.15200662653803
-      },
-      {
-        "latitude": 35.64032426188452,
-        "longitude": -118.15141718539137
-      },
-      {
-        "latitude": 35.64611607407896,
-        "longitude": -118.1585963723887
-      },
-      {
-        "latitude": 35.707246203129905,
-        "longitude": -118.21178506881394
-      },
-      {
-        "latitude": 35.77493510098581,
-        "longitude": -118.25116955733948
-      },
-      {
-        "latitude": 35.84714014891358,
-        "longitude": -118.27552506861608
-      },
-      {
-        "latitude": 35.9216767898344,
-        "longitude": -118.28407317178913
-      },
-      {
-        "latitude": 35.996283744303874,
-        "longitude": -118.27650995778652
-      },
-      {
-        "latitude": 36.06869125389667,
-        "longitude": -118.25302056201666
-      },
-      {
-        "latitude": 36.13669034640615,
-        "longitude": -118.21427895886944
-      },
-      {
-        "latitude": 36.198200994433115,
-        "longitude": -118.16143237281163
-      },
-      {
-        "latitude": 36.25133698031536,
-        "longitude": -118.09607016464517
-      },
-      {
-        "latitude": 36.294465299576835,
-        "longitude": -118.0201776503243
-      },
-      {
-        "latitude": 36.32625804278775,
-        "longitude": -117.93607596331218
-      },
-      {
-        "latitude": 36.34573489750426,
-        "longitude": -117.84634973691836
-      },
-      {
-        "latitude": 36.35229470657559,
-        "longitude": -117.75376500872244
-      },
-      {
-        "latitude": 36.34573489750426,
-        "longitude": -117.66118028052652
-      },
-      {
-        "latitude": 36.32625804278775,
-        "longitude": -117.5714540541327
-      },
-      {
-        "latitude": 36.294465299576835,
-        "longitude": -117.4873523671206
-      },
-      {
-        "latitude": 36.25133698031536,
-        "longitude": -117.41145985279971
-      },
-      {
-        "latitude": 36.20403058624469,
-        "longitude": -117.3532685851397
-      },
-      {
-        "latitude": 36.20403058624469,
-        "longitude": -117.35326858513967
-      },
-      {
-        "latitude": 36.20445309173357,
-        "longitude": -117.35267036200473
-      },
-      {
-        "latitude": 36.05471080180231,
-        "longitude": -117.19257652351865
-      },
-      {
-        "latitude": 36.05432119796899,
-        "longitude": -117.1931289487647
-      },
-      {
-        "latitude": 36.05432119796898,
-        "longitude": -117.19312894876467
-      },
-      {
-        "latitude": 36.054710801802294,
-        "longitude": -117.19257652351865
-      },
-      {
-        "latitude": 35.85700467786706,
-        "longitude": -116.98246531579865
-      },
-      {
-        "latitude": 35.85665904527172,
-        "longitude": -116.9829563045041
-      },
-      {
-        "latitude": 35.85665904527172,
-        "longitude": -116.98295630450413
-      },
-      {
-        "latitude": 35.85198246130413,
-        "longitude": -116.97722835985853
-      },
-      {
-        "latitude": 35.79047422217307,
-        "longitude": -116.92460894402117
-      },
-      {
-        "latitude": 35.7224770819815,
-        "longitude": -116.88603138928738
-      },
-      {
-        "latitude": 35.65007083293463,
-        "longitude": -116.86263844672311
-      },
-      {
-        "latitude": 35.57546429679895,
-        "longitude": -116.85510183642072
-      },
-      {
-        "latitude": 35.50092718387484,
-        "longitude": -116.86360664347356
-      },
-      {
-        "latitude": 35.42872083282417,
-        "longitude": -116.88785102192868
-      },
-      {
-        "latitude": 35.36102995938701,
-        "longitude": -116.92706056551566
-      },
-      {
-        "latitude": 35.299897420734375,
-        "longitude": -116.98001629266898
-      },
-      {
-        "latitude": 35.247163831132916,
-        "longitude": -117.04509488496139
-      },
-      {
-        "latitude": 35.20441365753836,
-        "longitude": -117.12031960525216
-      },
-      {
-        "latitude": 35.17292919266466,
-        "longitude": -117.2034201899298
-      },
-      {
-        "latitude": 35.15365355751595,
-        "longitude": -117.29189993988702
-      },
-      {
-        "latitude": 35.147163632201334,
-        "longitude": -117.38310820766546
-      }
-    ]
+  "comcatMetadata": {
+    "region": {
+      "border": [
+        {
+          "latitude": 35.15365355751595,
+          "longitude": -117.47431647544391
+        },
+        {
+          "latitude": 35.17292919266466,
+          "longitude": -117.56279622540113
+        },
+        {
+          "latitude": 35.20441365753836,
+          "longitude": -117.64589681007877
+        },
+        {
+          "latitude": 35.247163831132916,
+          "longitude": -117.72112153036954
+        },
+        {
+          "latitude": 35.29525064505718,
+          "longitude": -117.7804655306864
+        },
+        {
+          "latitude": 35.29525064505718,
+          "longitude": -117.78046553068643
+        },
+        {
+          "latitude": 35.294910012166454,
+          "longitude": -117.78094941705682
+        },
+        {
+          "latitude": 35.49122688423643,
+          "longitude": -117.99154900574608
+        },
+        {
+          "latitude": 35.63990795882754,
+          "longitude": -118.15200662653803
+        },
+        {
+          "latitude": 35.64032426188452,
+          "longitude": -118.15141718539137
+        },
+        {
+          "latitude": 35.64611607407896,
+          "longitude": -118.1585963723887
+        },
+        {
+          "latitude": 35.707246203129905,
+          "longitude": -118.21178506881394
+        },
+        {
+          "latitude": 35.77493510098581,
+          "longitude": -118.25116955733948
+        },
+        {
+          "latitude": 35.84714014891358,
+          "longitude": -118.27552506861608
+        },
+        {
+          "latitude": 35.9216767898344,
+          "longitude": -118.28407317178913
+        },
+        {
+          "latitude": 35.996283744303874,
+          "longitude": -118.27650995778652
+        },
+        {
+          "latitude": 36.06869125389667,
+          "longitude": -118.25302056201666
+        },
+        {
+          "latitude": 36.13669034640615,
+          "longitude": -118.21427895886944
+        },
+        {
+          "latitude": 36.198200994433115,
+          "longitude": -118.16143237281163
+        },
+        {
+          "latitude": 36.25133698031536,
+          "longitude": -118.09607016464517
+        },
+        {
+          "latitude": 36.294465299576835,
+          "longitude": -118.0201776503243
+        },
+        {
+          "latitude": 36.32625804278775,
+          "longitude": -117.93607596331218
+        },
+        {
+          "latitude": 36.34573489750426,
+          "longitude": -117.84634973691836
+        },
+        {
+          "latitude": 36.35229470657559,
+          "longitude": -117.75376500872244
+        },
+        {
+          "latitude": 36.34573489750426,
+          "longitude": -117.66118028052652
+        },
+        {
+          "latitude": 36.32625804278775,
+          "longitude": -117.5714540541327
+        },
+        {
+          "latitude": 36.294465299576835,
+          "longitude": -117.4873523671206
+        },
+        {
+          "latitude": 36.25133698031536,
+          "longitude": -117.41145985279971
+        },
+        {
+          "latitude": 36.20403058624469,
+          "longitude": -117.3532685851397
+        },
+        {
+          "latitude": 36.20403058624469,
+          "longitude": -117.35326858513967
+        },
+        {
+          "latitude": 36.20445309173357,
+          "longitude": -117.35267036200473
+        },
+        {
+          "latitude": 36.05471080180231,
+          "longitude": -117.19257652351865
+        },
+        {
+          "latitude": 36.05432119796899,
+          "longitude": -117.1931289487647
+        },
+        {
+          "latitude": 36.05432119796898,
+          "longitude": -117.19312894876467
+        },
+        {
+          "latitude": 36.054710801802294,
+          "longitude": -117.19257652351865
+        },
+        {
+          "latitude": 35.85700467786706,
+          "longitude": -116.98246531579865
+        },
+        {
+          "latitude": 35.85665904527172,
+          "longitude": -116.9829563045041
+        },
+        {
+          "latitude": 35.85665904527172,
+          "longitude": -116.98295630450413
+        },
+        {
+          "latitude": 35.85198246130413,
+          "longitude": -116.97722835985853
+        },
+        {
+          "latitude": 35.79047422217307,
+          "longitude": -116.92460894402117
+        },
+        {
+          "latitude": 35.7224770819815,
+          "longitude": -116.88603138928738
+        },
+        {
+          "latitude": 35.65007083293463,
+          "longitude": -116.86263844672311
+        },
+        {
+          "latitude": 35.57546429679895,
+          "longitude": -116.85510183642072
+        },
+        {
+          "latitude": 35.50092718387484,
+          "longitude": -116.86360664347356
+        },
+        {
+          "latitude": 35.42872083282417,
+          "longitude": -116.88785102192868
+        },
+        {
+          "latitude": 35.36102995938701,
+          "longitude": -116.92706056551566
+        },
+        {
+          "latitude": 35.299897420734375,
+          "longitude": -116.98001629266898
+        },
+        {
+          "latitude": 35.247163831132916,
+          "longitude": -117.04509488496139
+        },
+        {
+          "latitude": 35.20441365753836,
+          "longitude": -117.12031960525216
+        },
+        {
+          "latitude": 35.17292919266466,
+          "longitude": -117.2034201899298
+        },
+        {
+          "latitude": 35.15365355751595,
+          "longitude": -117.29189993988702
+        },
+        {
+          "latitude": 35.147163632201334,
+          "longitude": -117.38310820766546
+        }
+      ]
+    },
+    "eventID": "ci38457511",
+    "minDepth": -10.0,
+    "maxDepth": 24.0,
+    "minMag": 2.5,
+    "startTime": 1562259775360,
+    "endTime": 1562383193040
   }
 }
 ```
