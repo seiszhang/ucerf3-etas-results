@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1565181316277,
-  "plotEndTime": 1565182091379,
+  "plotStartTime": 1565206488201,
+  "plotEndTime": 1565207224227,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_08_03-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/results_complete.bin"
@@ -673,7 +673,7 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 2,
-      "time": 1565181316277,
+      "time": 1565206488201,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
@@ -693,14 +693,14 @@
         "### ComCat Mean Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 4.4 Day |",
+        "|  | 1 Day | 4.7 Day |",
         "|-----|-----|-----|",
-        "| **M≥3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_4.4d_m3.png) |",
-        "| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_4.4d_m4.png) |",
-        "| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_4.4d_m5.png) |",
-        "| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_4.4d_m6.png) |",
-        "| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_4.4d_m7.png) |",
-        "| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_4.4d_m8.png) |",
+        "| **M≥3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_4.7d_m3.png) |",
+        "| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_4.7d_m4.png) |",
+        "| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_4.7d_m5.png) |",
+        "| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_4.7d_m6.png) |",
+        "| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_4.7d_m7.png) |",
+        "| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_4.7d_m8.png) |",
         "",
         "### ComCat Depth Distribution",
         "*[(top)](#table-of-contents)*",
