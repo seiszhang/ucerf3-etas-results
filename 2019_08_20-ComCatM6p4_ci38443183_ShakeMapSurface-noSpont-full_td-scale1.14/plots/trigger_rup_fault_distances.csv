@@ -1,0 +1,8 @@
+Section Name,"Strike, Dip, Rake",# Hypos In Poly,Max Mag w/ Hypo In Poly,# Surfs In Poly,Max Mag w/ Surf In Poly,Min Dist To Any (km),Min Poly Dist To Any (km),Min Dist To Largest (km),Min Poly Dist To Largest (km),Min Hypo Dist To Largest (km),Min Hypo Poly Dist To Largest (km)
+Little Lake,"327, 90, 180",0,,0,,5.149,1.410,5.149,1.410,16.936,4.928
+Airport Lake,"358, 50, -90",0,,0,,12.124,1.599,13.299,1.599,12.221,2.716
+Garlock (Central),"68, 90, 0",0,,0,,14.413,2.407,14.413,2.407,22.766,10.797
+So Sierra Nevada,"9, 50, -90",0,,0,,15.988,15.982,15.988,15.982,22.039,21.742
+Tank Canyon,"189, 50, -90",0,,0,,16.989,16.985,16.989,16.985,17.039,16.895
+Blackwater,"323, 90, 180",0,,0,,23.586,22.224,23.586,22.224,29.622,27.613
+Panamint Valley,"343, 90, -150",0,,0,,34.237,22.311,36.935,25.016,34.350,22.425
