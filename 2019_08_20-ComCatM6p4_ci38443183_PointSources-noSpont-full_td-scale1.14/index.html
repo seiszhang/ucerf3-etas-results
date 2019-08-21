@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+	border-collapse: collapse
+}
+table, th, td {
+	border: 1px solid black
+}
+body {
+	max-width:1000px;
+	margin: auto;
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+</style>
+</head>
+<body>
+<h1 id="comcat-m64-ci38443183-point-sources">ComCat M6.4 (ci38443183), Point Sources</h1>
+<p>No simulation results are yet available, but pre-simulation analysis plots are available <a href="config_input_plots/index.html">here</a>.</p>
+<h2 id="json-input-file">JSON Input File</h2>
+<pre><code>{
+  &quot;numSimulations&quot;: 100000,
+  &quot;duration&quot;: 10.0,
+  &quot;startTimeMillis&quot;: 1562261630000,
+  &quot;includeSpontaneous&quot;: false,
+  &quot;randomSeed&quot;: 1566347095763,
+  &quot;binaryOutput&quot;: true,
+  &quot;binaryOutputFilters&quot;: [
+    {
+      &quot;prefix&quot;: &quot;results_complete&quot;,
+      &quot;descendantsOnly&quot;: false
+    },
+    {
+      &quot;prefix&quot;: &quot;results_m5_preserve_chain&quot;,
+      &quot;minMag&quot;: 5.0,
+      &quot;preserveChainBelowMag&quot;: true,
+      &quot;descendantsOnly&quot;: false
+    }
+  ],
+  &quot;forceRecalc&quot;: false,
+  &quot;simulationName&quot;: &quot;ComCat M6.4 (ci38443183), Point Sources&quot;,
+  &quot;numRetries&quot;: 3,
+  &quot;outputDir&quot;: &quot;${ETAS_SIM_DIR}/2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14&quot;,
+  &quot;triggerRuptures&quot;: [
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562259775340,
+      &quot;comcatEventID&quot;: &quot;ci38443095&quot;,
+      &quot;mag&quot;: 3.98,
+      &quot;latitude&quot;: 35.708,
+      &quot;longitude&quot;: -117.5036667,
+      &quot;depth&quot;: 10.58
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261629000,
+      &quot;comcatEventID&quot;: &quot;ci38443183&quot;,
+      &quot;mag&quot;: 6.4,
+      &quot;latitude&quot;: 35.7053333,
+      &quot;longitude&quot;: -117.5038333,
+      &quot;depth&quot;: 10.5
+    }
+  ],
+  &quot;cacheDir&quot;: &quot;${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba&quot;,
+  &quot;fssFile&quot;: &quot;${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip&quot;,
+  &quot;probModel&quot;: &quot;FULL_TD&quot;,
+  &quot;applySubSeisForSupraNucl&quot;: true,
+  &quot;totRateScaleFactor&quot;: 1.14,
+  &quot;gridSeisCorr&quot;: true,
+  &quot;timeIndependentERF&quot;: false,
+  &quot;griddedOnly&quot;: false,
+  &quot;imposeGR&quot;: false,
+  &quot;includeIndirectTriggering&quot;: true,
+  &quot;gridSeisDiscr&quot;: 0.1,
+  &quot;catalogCompletenessModel&quot;: &quot;RELAXED&quot;,
+  &quot;configCommand&quot;: &quot;u3etas_comcat_event_config_builder.sh --event-id ci38443183 --num-simulations 100000 --days-before 7 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec_hiprio&quot;,
+  &quot;configTime&quot;: 1566347095763,
+  &quot;comcatMetadata&quot;: {
+    &quot;region&quot;: {
+      &quot;centerLatitude&quot;: 35.7053333,
+      &quot;centerLongitude&quot;: -117.5038333,
+      &quot;radius&quot;: 15.703628043335499
+    },
+    &quot;eventID&quot;: &quot;ci38443183&quot;,
+    &quot;minDepth&quot;: -10.0,
+    &quot;maxDepth&quot;: 24.0,
+    &quot;minMag&quot;: 2.5,
+    &quot;startTime&quot;: 1561656829000,
+    &quot;endTime&quot;: 1562261629001
+  }
+}
+</code></pre>
+</body>
+</html>

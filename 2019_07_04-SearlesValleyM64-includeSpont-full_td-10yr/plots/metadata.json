@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1566304111970,
-  "plotEndTime": 1566304127418,
+  "plotStartTime": 1566369740015,
+  "plotEndTime": 1566369755833,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_07_04-SearlesValleyM64-includeSpont-full_td-10yr/results_triggered_descendants.bin"
   },
-  "launcherGitHash": "daeb757d8d4978e7d5cf228eb9c5db875395eef5",
-  "launcherGitTime": 1566280341000,
+  "launcherGitHash": "b0fd74af37cb86b5c5a1e496b3852415963325c5",
+  "launcherGitTime": 1566346036000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
