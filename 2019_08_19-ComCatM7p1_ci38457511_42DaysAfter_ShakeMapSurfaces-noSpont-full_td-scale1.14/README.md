@@ -690,9 +690,9 @@ These are map plots of individual catalogs from the simulations, selected as the
 ## ComCat Data Comparisons
 *[(top)](#table-of-contents)*
 
-These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc=3.0
+These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc=3.1
 
-Last updated at 2019/08/21 21:52:32 UTC, 4.8 d after the simulation start time
+Last updated at 2019/08/22 05:56:15 UTC, 5.1 d after the simulation start time
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
@@ -702,9 +702,9 @@ Last updated at 2019/08/21 21:52:32 UTC, 4.8 d after the simulation start time
 ### ComCat Cumulative Number Vs Time
 *[(top)](#table-of-contents)*
 
-| M&ge;3 |
+| M&ge;3.1 |
 |-----|
-| ![MND](plots/comcat_compare_cumulative_num_m3.png) |
+| ![MND](plots/comcat_compare_cumulative_num_m3.1.png) |
 
 ### ComCat Cumulative Number Simulation Percentiles
 *[(top)](#table-of-contents)*
@@ -714,21 +714,21 @@ Last updated at 2019/08/21 21:52:32 UTC, 4.8 d after the simulation start time
 ### ComCat Mean Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 4.8 Day |
+|  | 1 Day | 5.1 Day |
 |-----|-----|-----|
-| **M≥3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_4.8d_m3.png) |
-| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_4.8d_m4.png) |
-| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_4.8d_m5.png) |
-| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_4.8d_m6.png) |
-| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_4.8d_m7.png) |
-| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_4.8d_m8.png) |
+| **M≥3.1** | ![Map](plots/comcat_compare_mean_1d_m3.1.png) | ![Map](plots/comcat_compare_mean_5.1d_m3.1.png) |
+| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_5.1d_m4.png) |
+| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_5.1d_m5.png) |
+| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_5.1d_m6.png) |
+| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_5.1d_m7.png) |
+| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_5.1d_m8.png) |
 
 ### ComCat Depth Distribution
 *[(top)](#table-of-contents)*
 
-| M&ge;3 | M&ge;4 | M&ge;5 | M&ge;6 | M&ge;7 | M&ge;8 |
+| M&ge;3.1 | M&ge;4 | M&ge;5 | M&ge;6 | M&ge;7 | M&ge;8 |
 |-----|-----|-----|-----|-----|-----|
-| ![Depth Distribution](plots/comcat_compare_depth_m3.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.png) | ![Depth Distribution](plots/comcat_compare_depth_m6.png) | ![Depth Distribution](plots/comcat_compare_depth_m7.png) | ![Depth Distribution](plots/comcat_compare_depth_m8.png) |
+| ![Depth Distribution](plots/comcat_compare_depth_m3.1.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.png) | ![Depth Distribution](plots/comcat_compare_depth_m6.png) | ![Depth Distribution](plots/comcat_compare_depth_m7.png) | ![Depth Distribution](plots/comcat_compare_depth_m8.png) |
 
 ## Section Participation
 *[(top)](#table-of-contents)*
