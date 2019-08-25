@@ -2,7 +2,7 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2019/08/24 | [ComCat M7.1 (ci38457511), 49 Days After, ShakeMap Surfaces](2019_08_24-ComCatM7p1_ci38457511_49DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/23 | 100000 | 25.2% | 2019/08/24 |
+| 2019/08/24 | [ComCat M7.1 (ci38457511), 49 Days After, ShakeMap Surfaces](2019_08_24-ComCatM7p1_ci38457511_49DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/23 | 100000 | 26.5% | 2019/08/24 |
 | 2019/08/20 | [ComCat M7.1 (ci38457511), 28 Days After, ShakeMap Surfaces, No Faults](2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/README.md) | 2019/08/02 | 100000 | Done | 2019/08/24 |
 | 2019/08/20 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, No Faults](2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/README.md) | 2019/07/05 | 100000 | Done | 2019/08/23 |
 | 2019/08/20 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Spontaneous](2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_Spontaneous-includeSpont-full_td-scale1.14/README.md) | 2019/07/05 | 100000 | Done | 2019/08/24 |
