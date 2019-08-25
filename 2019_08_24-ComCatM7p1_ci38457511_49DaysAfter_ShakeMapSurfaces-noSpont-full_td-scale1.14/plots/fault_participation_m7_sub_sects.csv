@@ -1,10 +1,10 @@
 Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggered 1 Week Prob,Triggered 1 Month Prob,Triggered 1 Year Prob,Triggered 10 Year Prob,Triggered 10 Year Primary Mean Count
-0,"Airport Lake, Subsection 0",0.0024169495,0.0,3.0854673E-4,5.142446E-4,0.0016455826,0.0024169495,0.0015941582
-1,"Airport Lake, Subsection 1",0.0024169495,0.0,3.0854673E-4,5.142446E-4,0.0016455826,0.0024169495,0.0015941582
-2,"Airport Lake, Subsection 2",0.0024169495,0.0,3.0854673E-4,5.142446E-4,0.0016455826,0.0024169495,0.0015941582
-3,"Airport Lake, Subsection 3",0.0024169495,0.0,3.0854673E-4,5.142446E-4,0.0016455826,0.0024169495,0.0015941582
-4,"Airport Lake, Subsection 4",0.0024169495,0.0,3.0854673E-4,5.142446E-4,0.0016455826,0.0024169495,0.0015941582
-5,"Airport Lake, Subsection 5",0.001799856,0.0,2.571223E-4,4.1139565E-4,0.0012341869,0.001799856,0.0011313381
+0,"Airport Lake, Subsection 0",0.0027484705,0.0,3.103112E-4,5.762922E-4,0.0017732069,0.0027484705,0.0019061974
+1,"Airport Lake, Subsection 1",0.0027484705,0.0,3.103112E-4,5.762922E-4,0.0017732069,0.0027484705,0.0019061974
+2,"Airport Lake, Subsection 2",0.0027484705,0.0,3.103112E-4,5.762922E-4,0.0017732069,0.0027484705,0.0019061974
+3,"Airport Lake, Subsection 3",0.0027484705,0.0,3.103112E-4,5.762922E-4,0.0017732069,0.0027484705,0.0019061974
+4,"Airport Lake, Subsection 4",0.0027484705,0.0,3.103112E-4,5.762922E-4,0.0017732069,0.0027484705,0.0019061974
+5,"Airport Lake, Subsection 5",0.0019948578,0.0,2.65981E-4,4.4330172E-4,0.001285575,0.0019948578,0.0013742353
 6,"Almanor 2011 CFM, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 7,"Almanor 2011 CFM, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 8,"Almanor 2011 CFM, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -34,20 +34,20 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 32,"Ash Hill, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 33,"Ash Hill, Subsection 6",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 34,"Ash Hill, Subsection 7",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-35,"Baker, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-36,"Baker, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-37,"Baker, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-38,"Baker, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-39,"Baker, Subsection 4",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-40,"Baker, Subsection 5",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-41,"Baker, Subsection 6",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-42,"Baker, Subsection 7",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-43,"Baker, Subsection 8",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-44,"Baker, Subsection 9",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-45,"Baker, Subsection 10",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-46,"Baker, Subsection 11",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-47,"Baker, Subsection 12",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-48,"Baker, Subsection 13",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
+35,"Baker, Subsection 0",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+36,"Baker, Subsection 1",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+37,"Baker, Subsection 2",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+38,"Baker, Subsection 3",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+39,"Baker, Subsection 4",8.8660345E-5,0.0,0.0,0.0,4.4330172E-5,8.8660345E-5,0.0
+40,"Baker, Subsection 5",8.8660345E-5,0.0,0.0,0.0,4.4330172E-5,8.8660345E-5,0.0
+41,"Baker, Subsection 6",8.8660345E-5,0.0,0.0,0.0,4.4330172E-5,8.8660345E-5,0.0
+42,"Baker, Subsection 7",8.8660345E-5,0.0,0.0,0.0,4.4330172E-5,8.8660345E-5,0.0
+43,"Baker, Subsection 8",8.8660345E-5,0.0,0.0,0.0,4.4330172E-5,8.8660345E-5,0.0
+44,"Baker, Subsection 9",8.8660345E-5,0.0,0.0,0.0,4.4330172E-5,8.8660345E-5,0.0
+45,"Baker, Subsection 10",8.8660345E-5,0.0,0.0,0.0,4.4330172E-5,8.8660345E-5,0.0
+46,"Baker, Subsection 11",8.8660345E-5,0.0,0.0,0.0,4.4330172E-5,8.8660345E-5,0.0
+47,"Baker, Subsection 12",8.8660345E-5,0.0,0.0,0.0,4.4330172E-5,8.8660345E-5,0.0
+48,"Baker, Subsection 13",8.8660345E-5,0.0,0.0,0.0,4.4330172E-5,8.8660345E-5,0.0
 49,"Bartlett Springs 2011 CFM, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 50,"Bartlett Springs 2011 CFM, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 51,"Bartlett Springs 2011 CFM, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -65,12 +65,12 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 63,"Bartlett Springs 2011 CFM, Subsection 14",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 64,"Bartlett Springs 2011 CFM, Subsection 15",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 65,"Bartlett Springs 2011 CFM, Subsection 16",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-66,"Bartlett Springs 2011 CFM, Subsection 17",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-67,"Bartlett Springs 2011 CFM, Subsection 18",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-68,"Bartlett Springs 2011 CFM, Subsection 19",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-69,"Bartlett Springs 2011 CFM, Subsection 20",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-70,"Bartlett Springs 2011 CFM, Subsection 21",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-71,"Bartlett Springs 2011 CFM, Subsection 22",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
+66,"Bartlett Springs 2011 CFM, Subsection 17",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+67,"Bartlett Springs 2011 CFM, Subsection 18",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+68,"Bartlett Springs 2011 CFM, Subsection 19",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+69,"Bartlett Springs 2011 CFM, Subsection 20",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+70,"Bartlett Springs 2011 CFM, Subsection 21",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+71,"Bartlett Springs 2011 CFM, Subsection 22",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
 72,"Battle Creek 2011 CFM, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 73,"Battle Creek 2011 CFM, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 74,"Battle Creek 2011 CFM, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -129,20 +129,20 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 127,"Big Pine (East), Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 128,"Big Pine (East), Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 129,"Big Pine (East), Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-130,"Big Pine (West), Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-131,"Big Pine (West), Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,"Big Pine (West), Subsection 0",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+131,"Big Pine (West), Subsection 1",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
 132,"Big Pine (West), Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-133,"Blackwater, Subsection 0",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-134,"Blackwater, Subsection 1",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-135,"Blackwater, Subsection 2",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-136,"Blackwater, Subsection 3",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-137,"Blackwater, Subsection 4",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-138,"Blackwater, Subsection 5",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-139,"Blackwater, Subsection 6",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-140,"Blackwater, Subsection 7",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-141,"Blackwater, Subsection 8",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-142,"Blackwater, Subsection 9",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-143,"Blackwater, Subsection 10",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
+133,"Blackwater, Subsection 0",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+134,"Blackwater, Subsection 1",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+135,"Blackwater, Subsection 2",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+136,"Blackwater, Subsection 3",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+137,"Blackwater, Subsection 4",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+138,"Blackwater, Subsection 5",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+139,"Blackwater, Subsection 6",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+140,"Blackwater, Subsection 7",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+141,"Blackwater, Subsection 8",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+142,"Blackwater, Subsection 9",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+143,"Blackwater, Subsection 10",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
 144,"Blue Cut, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 145,"Blue Cut, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 146,"Blue Cut, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -222,22 +222,22 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 220,"Calaveras (So) 2011 CFM, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 221,"Calaveras (So) 2011 CFM, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 222,"Calaveras (So) 2011 CFM, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-223,"Calico-Hidalgo, Subsection 0",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-224,"Calico-Hidalgo, Subsection 1",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-225,"Calico-Hidalgo, Subsection 2",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-226,"Calico-Hidalgo, Subsection 3",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-227,"Calico-Hidalgo, Subsection 4",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-228,"Calico-Hidalgo, Subsection 5",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-229,"Calico-Hidalgo, Subsection 6",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-230,"Calico-Hidalgo, Subsection 7",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-231,"Calico-Hidalgo, Subsection 8",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-232,"Calico-Hidalgo, Subsection 9",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-233,"Calico-Hidalgo, Subsection 10",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-234,"Calico-Hidalgo, Subsection 11",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-235,"Calico-Hidalgo, Subsection 12",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-236,"Calico-Hidalgo, Subsection 13",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-237,"Calico-Hidalgo, Subsection 14",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-238,"Calico-Hidalgo, Subsection 15",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
+223,"Calico-Hidalgo, Subsection 0",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+224,"Calico-Hidalgo, Subsection 1",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+225,"Calico-Hidalgo, Subsection 2",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+226,"Calico-Hidalgo, Subsection 3",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+227,"Calico-Hidalgo, Subsection 4",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+228,"Calico-Hidalgo, Subsection 5",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+229,"Calico-Hidalgo, Subsection 6",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+230,"Calico-Hidalgo, Subsection 7",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+231,"Calico-Hidalgo, Subsection 8",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+232,"Calico-Hidalgo, Subsection 9",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+233,"Calico-Hidalgo, Subsection 10",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+234,"Calico-Hidalgo, Subsection 11",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+235,"Calico-Hidalgo, Subsection 12",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+236,"Calico-Hidalgo, Subsection 13",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+237,"Calico-Hidalgo, Subsection 14",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+238,"Calico-Hidalgo, Subsection 15",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
 239,"Calico-Hidalgo, Subsection 16",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 240,"Calico-Hidalgo, Subsection 17",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 241,"Camp Rock 2011, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -310,11 +310,11 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 308,"Channel Islands Western Deep Ramp, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 309,"Channel Islands Western Deep Ramp, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 310,"Channel Islands Western Deep Ramp, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-311,"Chino alt 1, Subsection 0",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-312,"Chino alt 1, Subsection 1",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-313,"Chino alt 1, Subsection 2",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-314,"Chino alt 1, Subsection 3",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-315,"Chino alt 1, Subsection 4",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
+311,"Chino alt 1, Subsection 0",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+312,"Chino alt 1, Subsection 1",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+313,"Chino alt 1, Subsection 2",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+314,"Chino alt 1, Subsection 3",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+315,"Chino alt 1, Subsection 4",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
 316,"Clamshell-Sawpit, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 317,"Clamshell-Sawpit, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 318,"Clayton, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -411,53 +411,53 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 409,"Davis Creek, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 410,"Davis Creek, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 411,"Davis Creek, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-412,"Death Valley (Black Mtns Frontal), Subsection 0",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-413,"Death Valley (Black Mtns Frontal), Subsection 1",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-414,"Death Valley (Black Mtns Frontal), Subsection 2",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-415,"Death Valley (Black Mtns Frontal), Subsection 3",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-416,"Death Valley (Black Mtns Frontal), Subsection 4",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-417,"Death Valley (Black Mtns Frontal), Subsection 5",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-418,"Death Valley (Black Mtns Frontal), Subsection 6",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-419,"Death Valley (Black Mtns Frontal), Subsection 7",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-420,"Death Valley (Black Mtns Frontal), Subsection 8",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-421,"Death Valley (Black Mtns Frontal), Subsection 9",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-422,"Death Valley (Black Mtns Frontal), Subsection 10",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-423,"Death Valley (Fish Lake Valley), Subsection 0",1.5427337E-4,0.0,0.0,0.0,5.1424457E-5,1.5427337E-4,0.0
-424,"Death Valley (Fish Lake Valley), Subsection 1",1.5427337E-4,0.0,0.0,0.0,5.1424457E-5,1.5427337E-4,0.0
-425,"Death Valley (Fish Lake Valley), Subsection 2",1.5427337E-4,0.0,0.0,0.0,5.1424457E-5,1.5427337E-4,0.0
-426,"Death Valley (Fish Lake Valley), Subsection 3",1.5427337E-4,0.0,0.0,0.0,5.1424457E-5,1.5427337E-4,0.0
-427,"Death Valley (Fish Lake Valley), Subsection 4",1.5427337E-4,0.0,0.0,0.0,5.1424457E-5,1.5427337E-4,0.0
-428,"Death Valley (Fish Lake Valley), Subsection 5",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,0.0
-429,"Death Valley (Fish Lake Valley), Subsection 6",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,0.0
-430,"Death Valley (Fish Lake Valley), Subsection 7",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,0.0
-431,"Death Valley (Fish Lake Valley), Subsection 8",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,0.0
-432,"Death Valley (Fish Lake Valley), Subsection 9",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,0.0
-433,"Death Valley (Fish Lake Valley), Subsection 10",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
+412,"Death Valley (Black Mtns Frontal), Subsection 0",2.65981E-4,0.0,0.0,0.0,4.4330172E-5,2.65981E-4,0.0
+413,"Death Valley (Black Mtns Frontal), Subsection 1",2.65981E-4,0.0,0.0,0.0,4.4330172E-5,2.65981E-4,0.0
+414,"Death Valley (Black Mtns Frontal), Subsection 2",2.65981E-4,0.0,0.0,0.0,4.4330172E-5,2.65981E-4,0.0
+415,"Death Valley (Black Mtns Frontal), Subsection 3",3.103112E-4,0.0,0.0,0.0,8.8660345E-5,3.103112E-4,0.0
+416,"Death Valley (Black Mtns Frontal), Subsection 4",3.103112E-4,0.0,0.0,0.0,8.8660345E-5,3.103112E-4,0.0
+417,"Death Valley (Black Mtns Frontal), Subsection 5",3.103112E-4,0.0,0.0,0.0,8.8660345E-5,3.103112E-4,0.0
+418,"Death Valley (Black Mtns Frontal), Subsection 6",3.103112E-4,0.0,0.0,0.0,8.8660345E-5,3.103112E-4,0.0
+419,"Death Valley (Black Mtns Frontal), Subsection 7",3.103112E-4,0.0,0.0,0.0,8.8660345E-5,3.103112E-4,0.0
+420,"Death Valley (Black Mtns Frontal), Subsection 8",3.103112E-4,0.0,0.0,0.0,8.8660345E-5,3.103112E-4,0.0
+421,"Death Valley (Black Mtns Frontal), Subsection 9",3.103112E-4,0.0,0.0,0.0,8.8660345E-5,3.103112E-4,0.0
+422,"Death Valley (Black Mtns Frontal), Subsection 10",3.103112E-4,0.0,0.0,0.0,8.8660345E-5,3.103112E-4,0.0
+423,"Death Valley (Fish Lake Valley), Subsection 0",1.329905E-4,0.0,0.0,0.0,4.4330172E-5,1.329905E-4,0.0
+424,"Death Valley (Fish Lake Valley), Subsection 1",1.329905E-4,0.0,0.0,0.0,4.4330172E-5,1.329905E-4,0.0
+425,"Death Valley (Fish Lake Valley), Subsection 2",1.329905E-4,0.0,0.0,0.0,4.4330172E-5,1.329905E-4,0.0
+426,"Death Valley (Fish Lake Valley), Subsection 3",1.329905E-4,0.0,0.0,0.0,4.4330172E-5,1.329905E-4,0.0
+427,"Death Valley (Fish Lake Valley), Subsection 4",1.329905E-4,0.0,0.0,0.0,4.4330172E-5,1.329905E-4,0.0
+428,"Death Valley (Fish Lake Valley), Subsection 5",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,0.0
+429,"Death Valley (Fish Lake Valley), Subsection 6",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,0.0
+430,"Death Valley (Fish Lake Valley), Subsection 7",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,0.0
+431,"Death Valley (Fish Lake Valley), Subsection 8",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,0.0
+432,"Death Valley (Fish Lake Valley), Subsection 9",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,0.0
+433,"Death Valley (Fish Lake Valley), Subsection 10",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
 434,"Death Valley (Fish Lake Valley), Subsection 11",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-435,"Death Valley (No), Subsection 0",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-436,"Death Valley (No), Subsection 1",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-437,"Death Valley (No), Subsection 2",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-438,"Death Valley (No), Subsection 3",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-439,"Death Valley (No), Subsection 4",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-440,"Death Valley (No), Subsection 5",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-441,"Death Valley (No), Subsection 6",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-442,"Death Valley (No), Subsection 7",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-443,"Death Valley (No), Subsection 8",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-444,"Death Valley (No), Subsection 9",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-445,"Death Valley (No), Subsection 10",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-446,"Death Valley (No), Subsection 11",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-447,"Death Valley (No), Subsection 12",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-448,"Death Valley (No), Subsection 13",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-449,"Death Valley (No), Subsection 14",2.571223E-4,0.0,0.0,0.0,5.1424457E-5,2.571223E-4,0.0
-450,"Death Valley (No), Subsection 15",2.0569783E-4,0.0,0.0,0.0,5.1424457E-5,2.0569783E-4,0.0
-451,"Death Valley (No), Subsection 16",1.5427337E-4,0.0,0.0,0.0,5.1424457E-5,1.5427337E-4,0.0
-452,"Death Valley (So), Subsection 0",4.628201E-4,0.0,0.0,0.0,1.5427337E-4,4.628201E-4,0.0
-453,"Death Valley (So), Subsection 1",4.628201E-4,0.0,0.0,0.0,1.5427337E-4,4.628201E-4,0.0
-454,"Death Valley (So), Subsection 2",5.142446E-4,0.0,0.0,0.0,1.5427337E-4,5.142446E-4,0.0
-455,"Death Valley (So), Subsection 3",4.628201E-4,0.0,0.0,0.0,1.5427337E-4,4.628201E-4,0.0
-456,"Death Valley (So), Subsection 4",4.1139565E-4,0.0,0.0,0.0,1.5427337E-4,4.1139565E-4,0.0
-457,"Death Valley (So), Subsection 5",3.599712E-4,0.0,0.0,0.0,1.0284891E-4,3.599712E-4,0.0
-458,"Death Valley (So), Subsection 6",3.0854673E-4,0.0,0.0,0.0,1.0284891E-4,3.0854673E-4,0.0
+435,"Death Valley (No), Subsection 0",2.65981E-4,0.0,0.0,0.0,4.4330172E-5,2.65981E-4,0.0
+436,"Death Valley (No), Subsection 1",2.65981E-4,0.0,0.0,0.0,4.4330172E-5,2.65981E-4,0.0
+437,"Death Valley (No), Subsection 2",2.65981E-4,0.0,0.0,0.0,4.4330172E-5,2.65981E-4,0.0
+438,"Death Valley (No), Subsection 3",2.65981E-4,0.0,0.0,0.0,4.4330172E-5,2.65981E-4,0.0
+439,"Death Valley (No), Subsection 4",2.65981E-4,0.0,0.0,0.0,4.4330172E-5,2.65981E-4,0.0
+440,"Death Valley (No), Subsection 5",2.65981E-4,0.0,0.0,0.0,4.4330172E-5,2.65981E-4,0.0
+441,"Death Valley (No), Subsection 6",2.65981E-4,0.0,0.0,0.0,4.4330172E-5,2.65981E-4,0.0
+442,"Death Valley (No), Subsection 7",2.65981E-4,0.0,0.0,0.0,4.4330172E-5,2.65981E-4,0.0
+443,"Death Valley (No), Subsection 8",2.65981E-4,0.0,0.0,0.0,4.4330172E-5,2.65981E-4,0.0
+444,"Death Valley (No), Subsection 9",2.65981E-4,0.0,0.0,0.0,4.4330172E-5,2.65981E-4,0.0
+445,"Death Valley (No), Subsection 10",2.2165086E-4,0.0,0.0,0.0,4.4330172E-5,2.2165086E-4,0.0
+446,"Death Valley (No), Subsection 11",2.2165086E-4,0.0,0.0,0.0,4.4330172E-5,2.2165086E-4,0.0
+447,"Death Valley (No), Subsection 12",2.2165086E-4,0.0,0.0,0.0,4.4330172E-5,2.2165086E-4,0.0
+448,"Death Valley (No), Subsection 13",2.2165086E-4,0.0,0.0,0.0,4.4330172E-5,2.2165086E-4,0.0
+449,"Death Valley (No), Subsection 14",2.2165086E-4,0.0,0.0,0.0,4.4330172E-5,2.2165086E-4,0.0
+450,"Death Valley (No), Subsection 15",1.7732069E-4,0.0,0.0,0.0,4.4330172E-5,1.7732069E-4,0.0
+451,"Death Valley (No), Subsection 16",1.329905E-4,0.0,0.0,0.0,4.4330172E-5,1.329905E-4,0.0
+452,"Death Valley (So), Subsection 0",5.31962E-4,0.0,0.0,0.0,1.7732069E-4,5.31962E-4,0.0
+453,"Death Valley (So), Subsection 1",5.31962E-4,0.0,0.0,0.0,1.7732069E-4,5.31962E-4,0.0
+454,"Death Valley (So), Subsection 2",5.762922E-4,0.0,0.0,0.0,1.7732069E-4,5.762922E-4,0.0
+455,"Death Valley (So), Subsection 3",5.762922E-4,0.0,0.0,0.0,2.2165086E-4,5.762922E-4,0.0
+456,"Death Valley (So), Subsection 4",4.8763189E-4,0.0,0.0,0.0,2.2165086E-4,4.8763189E-4,0.0
+457,"Death Valley (So), Subsection 5",3.9897155E-4,0.0,0.0,0.0,1.329905E-4,3.9897155E-4,0.0
+458,"Death Valley (So), Subsection 6",3.5464138E-4,0.0,0.0,0.0,1.329905E-4,3.5464138E-4,0.0
 459,"Deep Springs, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 460,"Deep Springs, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 461,"Deep Springs, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -493,17 +493,17 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 491,"Eaton Roughs 2011 CFM, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 492,"Eaton Roughs 2011 CFM, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 493,"Eaton Roughs 2011 CFM, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-494,"Eaton Roughs 2011 CFM, Subsection 3",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-495,"Eaton Roughs 2011 CFM, Subsection 4",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-496,"Eaton Roughs 2011 CFM, Subsection 5",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-497,"Eaton Roughs 2011 CFM, Subsection 6",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-498,"Eaton Roughs 2011 CFM, Subsection 7",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-499,"Eaton Roughs 2011 CFM, Subsection 8",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-500,"Eaton Roughs 2011 CFM, Subsection 9",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-501,"Eaton Roughs 2011 CFM, Subsection 10",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-502,"Eaton Roughs 2011 CFM, Subsection 11",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-503,"Eaton Roughs 2011 CFM, Subsection 12",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-504,"Eaton Roughs 2011 CFM, Subsection 13",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
+494,"Eaton Roughs 2011 CFM, Subsection 3",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+495,"Eaton Roughs 2011 CFM, Subsection 4",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+496,"Eaton Roughs 2011 CFM, Subsection 5",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+497,"Eaton Roughs 2011 CFM, Subsection 6",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+498,"Eaton Roughs 2011 CFM, Subsection 7",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+499,"Eaton Roughs 2011 CFM, Subsection 8",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+500,"Eaton Roughs 2011 CFM, Subsection 9",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+501,"Eaton Roughs 2011 CFM, Subsection 10",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+502,"Eaton Roughs 2011 CFM, Subsection 11",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+503,"Eaton Roughs 2011 CFM, Subsection 12",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+504,"Eaton Roughs 2011 CFM, Subsection 13",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
 505,"Elmore Ranch, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 506,"Elmore Ranch, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 507,"Elmore Ranch, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -516,10 +516,10 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 514,"Elsinore (Coyote Mountains), Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 515,"Elsinore (Coyote Mountains), Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 516,"Elsinore (Coyote Mountains), Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-517,"Elsinore (Glen Ivy) rev, Subsection 0",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-518,"Elsinore (Glen Ivy) rev, Subsection 1",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-519,"Elsinore (Glen Ivy) rev, Subsection 2",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-520,"Elsinore (Glen Ivy) rev, Subsection 3",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
+517,"Elsinore (Glen Ivy) rev, Subsection 0",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+518,"Elsinore (Glen Ivy) rev, Subsection 1",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+519,"Elsinore (Glen Ivy) rev, Subsection 2",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+520,"Elsinore (Glen Ivy) rev, Subsection 3",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
 521,"Elsinore (Julian), Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 522,"Elsinore (Julian), Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 523,"Elsinore (Julian), Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -528,14 +528,14 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 526,"Elsinore (Julian), Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 527,"Elsinore (Julian), Subsection 6",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 528,"Elsinore (Julian), Subsection 7",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-529,"Elsinore (Stepovers Combined), Subsection 0",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-530,"Elsinore (Stepovers Combined), Subsection 1",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-531,"Elsinore (Temecula) rev, Subsection 0",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-532,"Elsinore (Temecula) rev, Subsection 1",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-533,"Elsinore (Temecula) rev, Subsection 2",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-534,"Elsinore (Temecula) rev, Subsection 3",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-535,"Elsinore (Temecula) rev, Subsection 4",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-536,"Elsinore (Temecula) rev, Subsection 5",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
+529,"Elsinore (Stepovers Combined), Subsection 0",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+530,"Elsinore (Stepovers Combined), Subsection 1",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+531,"Elsinore (Temecula) rev, Subsection 0",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+532,"Elsinore (Temecula) rev, Subsection 1",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+533,"Elsinore (Temecula) rev, Subsection 2",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+534,"Elsinore (Temecula) rev, Subsection 3",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+535,"Elsinore (Temecula) rev, Subsection 4",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+536,"Elsinore (Temecula) rev, Subsection 5",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
 537,"Elysian Park (Lower CFM), Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 538,"Elysian Park (Lower CFM), Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 539,"Elysian Park (Lower CFM), Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -593,48 +593,48 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 591,"Garlic Springs, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 592,"Garlic Springs, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 593,"Garlic Springs, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-594,"Garlock (Central), Subsection 0",0.0062737837,0.0,1.0284891E-4,7.713669E-4,0.003034043,0.0062737837,0.0031883165
-595,"Garlock (Central), Subsection 1",0.0065823304,0.0,1.0284891E-4,7.713669E-4,0.0031368919,0.0065823304,0.0034454386
-596,"Garlock (Central), Subsection 2",0.0066851797,0.0,1.0284891E-4,7.713669E-4,0.0031368919,0.0066851797,0.0034968632
-597,"Garlock (Central), Subsection 3",0.0066851797,0.0,1.0284891E-4,7.713669E-4,0.0031368919,0.0066851797,0.0034968632
-598,"Garlock (Central), Subsection 4",0.0066851797,0.0,1.0284891E-4,7.713669E-4,0.0031368919,0.0066851797,0.0034968632
-599,"Garlock (Central), Subsection 5",0.006736604,0.0,1.0284891E-4,7.713669E-4,0.0031883165,0.006736604,0.0035482876
-600,"Garlock (Central), Subsection 6",0.007199424,0.0,1.5427337E-4,8.227913E-4,0.0034454386,0.007199424,0.003702561
-601,"Garlock (Central), Subsection 7",0.012084748,1.0284891E-4,3.0854673E-4,0.0015427337,0.0059138127,0.012084748,0.006170935
-602,"Garlock (Central), Subsection 8",0.015581611,1.5427337E-4,3.599712E-4,0.0020055538,0.007816518,0.015581611,0.0077136685
-603,"Garlock (Central), Subsection 9",0.017844286,2.0569783E-4,4.628201E-4,0.0021598272,0.008793582,0.017690014,0.008845007
-604,"Garlock (Central), Subsection 10",0.01835853,2.0569783E-4,4.628201E-4,0.0022626761,0.009050705,0.018204259,0.009256402
-605,"Garlock (Central), Subsection 11",0.019078474,2.0569783E-4,4.628201E-4,0.0022626761,0.0094621,0.0189242,0.009667798
-606,"Garlock (Central), Subsection 12",0.019232746,2.0569783E-4,4.628201E-4,0.0022626761,0.009616373,0.019078474,0.0098220715
-607,"Garlock (Central), Subsection 13",0.019284172,2.0569783E-4,4.628201E-4,0.0022626761,0.009616373,0.019129898,0.0098220715
-608,"Garlock (Central), Subsection 14",0.019232746,2.0569783E-4,4.628201E-4,0.0022626761,0.009616373,0.019078474,0.009770647
-609,"Garlock (Central), Subsection 15",0.019181322,2.0569783E-4,4.628201E-4,0.0022626761,0.009564949,0.019027049,0.009719223
-610,"Garlock (Central), Subsection 16",0.019129898,2.0569783E-4,4.628201E-4,0.0022626761,0.009564949,0.018975625,0.009667798
-611,"Garlock (Central), Subsection 17",0.019027049,2.0569783E-4,4.628201E-4,0.0022626761,0.0094621,0.018872775,0.009564949
-612,"Garlock (Central), Subsection 18",0.018512804,2.0569783E-4,4.1139565E-4,0.0022112518,0.009204978,0.01835853,0.009410676
-613,"Garlock (Central), Subsection 19",0.01846138,2.0569783E-4,4.1139565E-4,0.0022112518,0.009204978,0.018307107,0.009359252
-614,"Garlock (East), Subsection 0",0.0049367477,0.0,0.0,5.142446E-4,0.0025712228,0.0049367477,0.0027254962
-615,"Garlock (East), Subsection 1",0.0049881726,0.0,0.0,5.142446E-4,0.0025712228,0.0049881726,0.0027254962
-616,"Garlock (East), Subsection 2",0.0049881726,0.0,0.0,4.628201E-4,0.0025712228,0.0049881726,0.0027254962
-617,"Garlock (East), Subsection 3",0.0049881726,0.0,0.0,4.628201E-4,0.0025712228,0.0049881726,0.0027254962
-618,"Garlock (East), Subsection 4",0.0048853233,0.0,0.0,4.628201E-4,0.0025197985,0.0048853233,0.0026226474
-619,"Garlock (East), Subsection 5",0.004628201,0.0,0.0,4.1139565E-4,0.002365525,0.004628201,0.0025197985
-620,"Garlock (East), Subsection 6",0.004113957,0.0,0.0,4.1139565E-4,0.0020569784,0.004113957,0.0022112518
-621,"Garlock (East), Subsection 7",0.0033940142,0.0,0.0,3.599712E-4,0.0016455826,0.0033940142,0.0018512805
-622,"Garlock (West), Subsection 0",0.0020055538,0.0,1.0284891E-4,4.1139565E-4,0.0012341869,0.0020055538,0.0010284892
-623,"Garlock (West), Subsection 1",0.0021598272,0.0,1.0284891E-4,4.628201E-4,0.0013370359,0.0021598272,0.0011313381
-624,"Garlock (West), Subsection 2",0.0022626761,0.0,1.0284891E-4,4.628201E-4,0.0014398848,0.0022626761,0.0011827626
-625,"Garlock (West), Subsection 3",0.002365525,0.0,1.0284891E-4,4.628201E-4,0.0014398848,0.002365525,0.0011827626
-626,"Garlock (West), Subsection 4",0.0026226474,0.0,1.0284891E-4,4.628201E-4,0.0014913093,0.0026226474,0.0013370359
-627,"Garlock (West), Subsection 5",0.0027254962,0.0,1.0284891E-4,4.628201E-4,0.0014913093,0.0027254962,0.0013884604
-628,"Garlock (West), Subsection 6",0.0028283452,0.0,1.0284891E-4,5.142446E-4,0.0015941582,0.0028283452,0.0014913093
-629,"Garlock (West), Subsection 7",0.0029311941,0.0,1.0284891E-4,5.142446E-4,0.0015941582,0.0029311941,0.0015427337
-630,"Garlock (West), Subsection 8",0.0029826185,0.0,1.0284891E-4,5.142446E-4,0.0015941582,0.0029826185,0.0015427337
-631,"Garlock (West), Subsection 9",0.0029826185,0.0,1.0284891E-4,5.142446E-4,0.0015941582,0.0029826185,0.0015427337
-632,"Garlock (West), Subsection 10",0.003034043,0.0,1.0284891E-4,5.142446E-4,0.0015941582,0.003034043,0.0015427337
-633,"Garlock (West), Subsection 11",0.0032911652,0.0,1.0284891E-4,5.142446E-4,0.0017484316,0.0032911652,0.0015941582
-634,"Garlock (West), Subsection 12",0.0039596832,0.0,1.0284891E-4,5.142446E-4,0.0020055538,0.0039596832,0.0019541294
-635,"Garlock (West), Subsection 13",0.0039596832,0.0,1.0284891E-4,5.142446E-4,0.0020055538,0.0039596832,0.0019541294
+594,"Garlock (Central), Subsection 0",0.0058072526,0.0,8.8660345E-5,7.536129E-4,0.0027928008,0.0058072526,0.0030144516
+595,"Garlock (Central), Subsection 1",0.0060732337,0.0,8.8660345E-5,7.536129E-4,0.002881461,0.0060732337,0.0032361024
+596,"Garlock (Central), Subsection 2",0.0062062237,0.0,8.8660345E-5,7.536129E-4,0.0029257913,0.0062062237,0.0032804327
+597,"Garlock (Central), Subsection 3",0.0062062237,0.0,8.8660345E-5,7.536129E-4,0.0029257913,0.0062062237,0.0032804327
+598,"Garlock (Central), Subsection 4",0.0062062237,0.0,8.8660345E-5,7.536129E-4,0.0029257913,0.0062062237,0.0032804327
+599,"Garlock (Central), Subsection 5",0.006250554,0.0,8.8660345E-5,7.536129E-4,0.0029701216,0.006250554,0.003324763
+600,"Garlock (Central), Subsection 6",0.0068268464,0.0,1.329905E-4,8.4227324E-4,0.003324763,0.0068268464,0.0035907438
+601,"Garlock (Central), Subsection 7",0.012102136,8.8660345E-5,2.65981E-4,0.0015958862,0.005940243,0.012102136,0.006250554
+602,"Garlock (Central), Subsection 8",0.015338239,1.329905E-4,3.103112E-4,0.0019948578,0.0077134497,0.015338239,0.0076247896
+603,"Garlock (Central), Subsection 9",0.017643409,1.7732069E-4,3.9897155E-4,0.0021721784,0.008821704,0.017510418,0.0087773735
+604,"Garlock (Central), Subsection 10",0.01813104,1.7732069E-4,3.9897155E-4,0.0022608386,0.0090876855,0.017998049,0.009176346
+605,"Garlock (Central), Subsection 11",0.018973313,1.7732069E-4,4.4330172E-4,0.002305169,0.009575317,0.018840322,0.009530987
+606,"Garlock (Central), Subsection 12",0.019150633,1.7732069E-4,4.4330172E-4,0.0023494991,0.009752638,0.019017644,0.009708308
+607,"Garlock (Central), Subsection 13",0.019194964,1.7732069E-4,4.4330172E-4,0.0023494991,0.009752638,0.019061973,0.009708308
+608,"Garlock (Central), Subsection 14",0.019150633,1.7732069E-4,4.4330172E-4,0.0023494991,0.009752638,0.019017644,0.009663978
+609,"Garlock (Central), Subsection 15",0.019106304,1.7732069E-4,4.4330172E-4,0.0023494991,0.009708308,0.018973313,0.009619647
+610,"Garlock (Central), Subsection 16",0.019061973,1.7732069E-4,4.4330172E-4,0.0023494991,0.009708308,0.018928982,0.009575317
+611,"Garlock (Central), Subsection 17",0.018973313,1.7732069E-4,4.4330172E-4,0.0023494991,0.009619647,0.018840322,0.009486657
+612,"Garlock (Central), Subsection 18",0.018530011,1.7732069E-4,3.9897155E-4,0.002305169,0.009397997,0.01839702,0.009353667
+613,"Garlock (Central), Subsection 19",0.018485682,1.7732069E-4,3.9897155E-4,0.002305169,0.009397997,0.018352691,0.009309336
+614,"Garlock (East), Subsection 0",0.004831989,0.0,0.0,5.31962E-4,0.0024824897,0.004831989,0.0027041405
+615,"Garlock (East), Subsection 1",0.004920649,0.0,0.0,5.31962E-4,0.0024824897,0.004920649,0.0027041405
+616,"Garlock (East), Subsection 2",0.0049649794,0.0,0.0,4.8763189E-4,0.0025268197,0.0049649794,0.0027041405
+617,"Garlock (East), Subsection 3",0.0049649794,0.0,0.0,4.8763189E-4,0.0025268197,0.0049649794,0.0027041405
+618,"Garlock (East), Subsection 4",0.004831989,0.0,0.0,4.8763189E-4,0.0024381594,0.004831989,0.00257115
+619,"Garlock (East), Subsection 5",0.004610338,0.0,0.0,4.4330172E-4,0.002305169,0.004610338,0.0024824897
+620,"Garlock (East), Subsection 6",0.0040783756,0.0,0.0,3.9897155E-4,0.0019948578,0.0040783756,0.0021721784
+621,"Garlock (East), Subsection 7",0.003369093,0.0,0.0,3.5464138E-4,0.0016402163,0.003369093,0.0017732069
+622,"Garlock (West), Subsection 0",0.0017288767,0.0,8.8660345E-5,3.5464138E-4,0.001063924,0.0017288767,8.8660343E-4
+623,"Garlock (West), Subsection 1",0.0018618671,0.0,8.8660345E-5,3.9897155E-4,0.0011525844,0.0018618671,9.7526377E-4
+624,"Garlock (West), Subsection 2",0.0019505275,0.0,8.8660345E-5,3.9897155E-4,0.0012412448,0.0019505275,0.0010195939
+625,"Garlock (West), Subsection 3",0.0020391878,0.0,8.8660345E-5,3.9897155E-4,0.0012412448,0.0020391878,0.0010195939
+626,"Garlock (West), Subsection 4",0.0022608386,0.0,8.8660345E-5,3.9897155E-4,0.001285575,0.0022608386,0.0011525844
+627,"Garlock (West), Subsection 5",0.0023494991,0.0,8.8660345E-5,3.9897155E-4,0.001285575,0.0023494991,0.0011969146
+628,"Garlock (West), Subsection 6",0.0024381594,0.0,8.8660345E-5,4.4330172E-4,0.0013742353,0.0024381594,0.001285575
+629,"Garlock (West), Subsection 7",0.00257115,0.0,8.8660345E-5,4.4330172E-4,0.0014185655,0.00257115,0.0013299051
+630,"Garlock (West), Subsection 8",0.00261548,0.0,8.8660345E-5,4.4330172E-4,0.0014185655,0.00261548,0.0013299051
+631,"Garlock (West), Subsection 9",0.00261548,0.0,8.8660345E-5,4.4330172E-4,0.0014185655,0.00261548,0.0013299051
+632,"Garlock (West), Subsection 10",0.0026598102,0.0,8.8660345E-5,4.4330172E-4,0.0014185655,0.0026598102,0.0013299051
+633,"Garlock (West), Subsection 11",0.0030144516,0.0,8.8660345E-5,4.4330172E-4,0.0015515559,0.0030144516,0.0015072258
+634,"Garlock (West), Subsection 12",0.003635074,0.0,8.8660345E-5,4.4330172E-4,0.001817537,0.003635074,0.0018618671
+635,"Garlock (West), Subsection 13",0.003635074,0.0,8.8660345E-5,4.4330172E-4,0.001817537,0.003635074,0.0018618671
 636,"Gillem - Big Crack 2011 CFM, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 637,"Gillem - Big Crack 2011 CFM, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 638,"Gillem - Big Crack 2011 CFM, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -843,9 +843,9 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 841,"Hayward (So) extension 2011 CFM, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 842,"Hayward (So) extension 2011 CFM, Subsection 6",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 843,"Hector Mine, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-844,"Hector Mine, Subsection 1",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
-845,"Hector Mine, Subsection 2",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
-846,"Hector Mine, Subsection 3",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
+844,"Hector Mine, Subsection 1",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
+845,"Hector Mine, Subsection 2",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
+846,"Hector Mine, Subsection 3",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
 847,"Helendale-So Lockhart, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 848,"Helendale-So Lockhart, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 849,"Helendale-So Lockhart, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -857,20 +857,20 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 855,"Helendale-So Lockhart, Subsection 8",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 856,"Helendale-So Lockhart, Subsection 9",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 857,"Helendale-So Lockhart, Subsection 10",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-858,"Helendale-So Lockhart, Subsection 11",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-859,"Helendale-So Lockhart, Subsection 12",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-860,"Helendale-So Lockhart, Subsection 13",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-861,"Helendale-So Lockhart, Subsection 14",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-862,"Helendale-So Lockhart, Subsection 15",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-863,"Helendale-So Lockhart, Subsection 16",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-864,"Helendale-So Lockhart, Subsection 17",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
+858,"Helendale-So Lockhart, Subsection 11",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+859,"Helendale-So Lockhart, Subsection 12",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+860,"Helendale-So Lockhart, Subsection 13",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+861,"Helendale-So Lockhart, Subsection 14",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+862,"Helendale-So Lockhart, Subsection 15",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+863,"Helendale-So Lockhart, Subsection 16",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+864,"Helendale-So Lockhart, Subsection 17",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
 865,"Hilton Creek 2011 CFM, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 866,"Hilton Creek 2011 CFM, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 867,"Hilton Creek 2011 CFM, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 868,"Hilton Creek 2011 CFM, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-869,"Hollywood, Subsection 0",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-870,"Hollywood, Subsection 1",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-871,"Hollywood, Subsection 2",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
+869,"Hollywood, Subsection 0",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+870,"Hollywood, Subsection 1",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+871,"Hollywood, Subsection 2",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
 872,"Holser alt 1, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 873,"Holser alt 1, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 874,"Holser alt 1, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -931,19 +931,19 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 929,"Hosgri (Extension), Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 930,"Hosgri (Extension), Subsection 6",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 931,"Hosgri (Extension), Subsection 7",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-932,"Hunter Mountain-Saline Valley, Subsection 0",0.0053481436,1.0284891E-4,1.5427337E-4,6.1709346E-4,0.0024683739,0.0053481436,0.0021598272
-933,"Hunter Mountain-Saline Valley, Subsection 1",0.0053481436,1.0284891E-4,1.5427337E-4,6.1709346E-4,0.0024683739,0.0053481436,0.0021598272
-934,"Hunter Mountain-Saline Valley, Subsection 2",0.0053481436,1.0284891E-4,1.5427337E-4,6.1709346E-4,0.0024683739,0.0053481436,0.0021598272
-935,"Hunter Mountain-Saline Valley, Subsection 3",0.0053481436,1.0284891E-4,1.5427337E-4,6.1709346E-4,0.0024683739,0.0053481436,0.0021598272
-936,"Hunter Mountain-Saline Valley, Subsection 4",0.0053481436,1.0284891E-4,1.5427337E-4,6.1709346E-4,0.0024683739,0.0053481436,0.0021598272
-937,"Hunter Mountain-Saline Valley, Subsection 5",0.0011313381,0.0,0.0,1.0284891E-4,3.0854673E-4,0.0011313381,3.599712E-4
-938,"Hunter Mountain-Saline Valley, Subsection 6",5.142446E-4,0.0,0.0,5.1424457E-5,1.5427337E-4,5.142446E-4,1.5427337E-4
-939,"Hunter Mountain-Saline Valley, Subsection 7",4.628201E-4,0.0,0.0,5.1424457E-5,1.5427337E-4,4.628201E-4,1.5427337E-4
-940,"Hunter Mountain-Saline Valley, Subsection 8",4.628201E-4,0.0,0.0,5.1424457E-5,1.5427337E-4,4.628201E-4,1.5427337E-4
-941,"Hunter Mountain-Saline Valley, Subsection 9",4.1139565E-4,0.0,0.0,5.1424457E-5,1.5427337E-4,4.1139565E-4,1.0284891E-4
-942,"Hunter Mountain-Saline Valley, Subsection 10",4.1139565E-4,0.0,0.0,5.1424457E-5,1.5427337E-4,4.1139565E-4,1.0284891E-4
-943,"Hunter Mountain-Saline Valley, Subsection 11",4.1139565E-4,0.0,0.0,5.1424457E-5,1.5427337E-4,4.1139565E-4,1.0284891E-4
-944,"Hunter Mountain-Saline Valley, Subsection 12",3.599712E-4,0.0,0.0,5.1424457E-5,1.5427337E-4,3.599712E-4,1.0284891E-4
+932,"Hunter Mountain-Saline Valley, Subsection 0",0.00509797,8.8660345E-5,1.329905E-4,5.762922E-4,0.0024381594,0.00509797,0.002083518
+933,"Hunter Mountain-Saline Valley, Subsection 1",0.00509797,8.8660345E-5,1.329905E-4,5.762922E-4,0.0024381594,0.00509797,0.002083518
+934,"Hunter Mountain-Saline Valley, Subsection 2",0.00509797,8.8660345E-5,1.329905E-4,5.762922E-4,0.0024381594,0.00509797,0.002083518
+935,"Hunter Mountain-Saline Valley, Subsection 3",0.00509797,8.8660345E-5,1.329905E-4,5.762922E-4,0.0024381594,0.00509797,0.002083518
+936,"Hunter Mountain-Saline Valley, Subsection 4",0.00509797,8.8660345E-5,1.329905E-4,5.762922E-4,0.0024381594,0.00509797,0.002083518
+937,"Hunter Mountain-Saline Valley, Subsection 5",0.001063924,0.0,0.0,8.8660345E-5,3.103112E-4,0.001063924,3.5464138E-4
+938,"Hunter Mountain-Saline Valley, Subsection 6",4.8763189E-4,0.0,0.0,4.4330172E-5,1.329905E-4,4.8763189E-4,1.329905E-4
+939,"Hunter Mountain-Saline Valley, Subsection 7",4.4330172E-4,0.0,0.0,4.4330172E-5,1.329905E-4,4.4330172E-4,1.329905E-4
+940,"Hunter Mountain-Saline Valley, Subsection 8",4.4330172E-4,0.0,0.0,4.4330172E-5,1.329905E-4,4.4330172E-4,1.329905E-4
+941,"Hunter Mountain-Saline Valley, Subsection 9",3.9897155E-4,0.0,0.0,4.4330172E-5,1.329905E-4,3.9897155E-4,8.8660345E-5
+942,"Hunter Mountain-Saline Valley, Subsection 10",3.9897155E-4,0.0,0.0,4.4330172E-5,1.329905E-4,3.9897155E-4,8.8660345E-5
+943,"Hunter Mountain-Saline Valley, Subsection 11",3.9897155E-4,0.0,0.0,4.4330172E-5,1.329905E-4,3.9897155E-4,8.8660345E-5
+944,"Hunter Mountain-Saline Valley, Subsection 12",3.5464138E-4,0.0,0.0,4.4330172E-5,1.329905E-4,3.5464138E-4,8.8660345E-5
 945,"Hunting Creek - Bartlett Springs connector 2011, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 946,"Hunting Creek - Bartlett Springs connector 2011, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 947,"Hunting Creek - Bartlett Springs connector 2011, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1056,14 +1056,14 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1054,"Laguna Salada, Subsection 12",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1055,"Laguna Salada, Subsection 13",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1056,"Laguna Salada, Subsection 14",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1057,"Lake Isabella (Seismicity), Subsection 0",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1058,"Lake Isabella (Seismicity), Subsection 1",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1059,"Lake Isabella (Seismicity), Subsection 2",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1060,"Lake Isabella (Seismicity), Subsection 3",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1061,"Lake Isabella (Seismicity), Subsection 4",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1062,"Lake Isabella (Seismicity), Subsection 5",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1063,"Lake Isabella (Seismicity), Subsection 6",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1064,"Lake Isabella (Seismicity), Subsection 7",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
+1057,"Lake Isabella (Seismicity), Subsection 0",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1058,"Lake Isabella (Seismicity), Subsection 1",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1059,"Lake Isabella (Seismicity), Subsection 2",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1060,"Lake Isabella (Seismicity), Subsection 3",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1061,"Lake Isabella (Seismicity), Subsection 4",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1062,"Lake Isabella (Seismicity), Subsection 5",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1063,"Lake Isabella (Seismicity), Subsection 6",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1064,"Lake Isabella (Seismicity), Subsection 7",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
 1065,"Las Positas, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1066,"Las Positas, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1067,"Last Chance, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1077,22 +1077,22 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1075,"Lenwood-Lockhart-Old Woman Springs, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1076,"Lenwood-Lockhart-Old Woman Springs, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1077,"Lenwood-Lockhart-Old Woman Springs, Subsection 6",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1078,"Lenwood-Lockhart-Old Woman Springs, Subsection 7",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
-1079,"Lenwood-Lockhart-Old Woman Springs, Subsection 8",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1080,"Lenwood-Lockhart-Old Woman Springs, Subsection 9",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1081,"Lenwood-Lockhart-Old Woman Springs, Subsection 10",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1082,"Lenwood-Lockhart-Old Woman Springs, Subsection 11",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1083,"Lenwood-Lockhart-Old Woman Springs, Subsection 12",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1084,"Lenwood-Lockhart-Old Woman Springs, Subsection 13",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1085,"Lenwood-Lockhart-Old Woman Springs, Subsection 14",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1086,"Lenwood-Lockhart-Old Woman Springs, Subsection 15",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1087,"Lenwood-Lockhart-Old Woman Springs, Subsection 16",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1088,"Lenwood-Lockhart-Old Woman Springs, Subsection 17",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1089,"Lenwood-Lockhart-Old Woman Springs, Subsection 18",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1090,"Lenwood-Lockhart-Old Woman Springs, Subsection 19",1.5427337E-4,0.0,0.0,0.0,5.1424457E-5,1.5427337E-4,5.1424457E-5
-1091,"Lenwood-Lockhart-Old Woman Springs, Subsection 20",1.5427337E-4,0.0,0.0,0.0,5.1424457E-5,1.5427337E-4,5.1424457E-5
-1092,"Lenwood-Lockhart-Old Woman Springs, Subsection 21",1.5427337E-4,0.0,0.0,0.0,5.1424457E-5,1.5427337E-4,5.1424457E-5
-1093,"Lenwood-Lockhart-Old Woman Springs, Subsection 22",1.0284891E-4,0.0,0.0,0.0,5.1424457E-5,1.0284891E-4,0.0
+1078,"Lenwood-Lockhart-Old Woman Springs, Subsection 7",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
+1079,"Lenwood-Lockhart-Old Woman Springs, Subsection 8",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1080,"Lenwood-Lockhart-Old Woman Springs, Subsection 9",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1081,"Lenwood-Lockhart-Old Woman Springs, Subsection 10",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1082,"Lenwood-Lockhart-Old Woman Springs, Subsection 11",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1083,"Lenwood-Lockhart-Old Woman Springs, Subsection 12",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1084,"Lenwood-Lockhart-Old Woman Springs, Subsection 13",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1085,"Lenwood-Lockhart-Old Woman Springs, Subsection 14",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1086,"Lenwood-Lockhart-Old Woman Springs, Subsection 15",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1087,"Lenwood-Lockhart-Old Woman Springs, Subsection 16",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1088,"Lenwood-Lockhart-Old Woman Springs, Subsection 17",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1089,"Lenwood-Lockhart-Old Woman Springs, Subsection 18",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1090,"Lenwood-Lockhart-Old Woman Springs, Subsection 19",1.329905E-4,0.0,0.0,0.0,4.4330172E-5,1.329905E-4,4.4330172E-5
+1091,"Lenwood-Lockhart-Old Woman Springs, Subsection 20",1.329905E-4,0.0,0.0,0.0,4.4330172E-5,1.329905E-4,4.4330172E-5
+1092,"Lenwood-Lockhart-Old Woman Springs, Subsection 21",1.329905E-4,0.0,0.0,0.0,4.4330172E-5,1.329905E-4,4.4330172E-5
+1093,"Lenwood-Lockhart-Old Woman Springs, Subsection 22",8.8660345E-5,0.0,0.0,0.0,4.4330172E-5,8.8660345E-5,0.0
 1094,"Likely 2011 CFM, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1095,"Likely 2011 CFM, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1096,"Likely 2011 CFM, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1124,13 +1124,13 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1122,"Lions Head 2011 CFM, Subsection 8",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1123,"Lions Head 2011 CFM, Subsection 9",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1124,"Lions Head 2011 CFM, Subsection 10",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1125,"Little Lake, Subsection 0",0.001902705,0.0,2.0569783E-4,3.599712E-4,0.0012341869,0.001902705,0.0011827626
-1126,"Little Lake, Subsection 1",0.0024683739,0.0,3.0854673E-4,5.142446E-4,0.0016455826,0.0024683739,0.0016455826
-1127,"Little Lake, Subsection 2",0.0024683739,0.0,3.0854673E-4,5.142446E-4,0.0016455826,0.0024683739,0.0016455826
-1128,"Little Lake, Subsection 3",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1129,"Little Lake, Subsection 4",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1130,"Little Lake, Subsection 5",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
-1131,"Little Lake, Subsection 6",1.0284891E-4,0.0,0.0,0.0,0.0,1.0284891E-4,5.1424457E-5
+1125,"Little Lake, Subsection 0",0.0020391878,0.0,1.7732069E-4,3.5464138E-4,0.0012412448,0.0020391878,0.0013742353
+1126,"Little Lake, Subsection 1",0.0027928008,0.0,3.103112E-4,5.762922E-4,0.0017732069,0.0027928008,0.0019505275
+1127,"Little Lake, Subsection 2",0.0027928008,0.0,3.103112E-4,5.762922E-4,0.0017732069,0.0027928008,0.0019505275
+1128,"Little Lake, Subsection 3",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1129,"Little Lake, Subsection 4",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1130,"Little Lake, Subsection 5",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
+1131,"Little Lake, Subsection 6",8.8660345E-5,0.0,0.0,0.0,0.0,8.8660345E-5,4.4330172E-5
 1132,"Little Salmon (Offshore), Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1133,"Little Salmon (Offshore), Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1134,"Little Salmon (Offshore), Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1222,20 +1222,20 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1220,"Malibu Coast alt 1, Subsection 7",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1221,"Malibu Coast alt 1, Subsection 8",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1222,"Malibu Coast alt 1, Subsection 9",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1223,"Manix-Afton Hills, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1224,"Manix-Afton Hills, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1225,"Manix-Afton Hills, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1226,"Manix-Afton Hills, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1227,"Manix-Afton Hills, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1228,"Manix-Afton Hills, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1229,"Manix-Afton Hills, Subsection 6",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1230,"Manix-Afton Hills, Subsection 7",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1231,"Manix-Afton Hills, Subsection 8",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1232,"McKinleyville (alt1), Subsection 0",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-1233,"McKinleyville (alt1), Subsection 1",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-1234,"McKinleyville (alt1), Subsection 2",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-1235,"McKinleyville (alt1), Subsection 3",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-1236,"McKinleyville (alt1), Subsection 4",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
+1223,"Manix-Afton Hills, Subsection 0",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1224,"Manix-Afton Hills, Subsection 1",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1225,"Manix-Afton Hills, Subsection 2",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1226,"Manix-Afton Hills, Subsection 3",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1227,"Manix-Afton Hills, Subsection 4",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1228,"Manix-Afton Hills, Subsection 5",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1229,"Manix-Afton Hills, Subsection 6",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1230,"Manix-Afton Hills, Subsection 7",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1231,"Manix-Afton Hills, Subsection 8",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1232,"McKinleyville (alt1), Subsection 0",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1233,"McKinleyville (alt1), Subsection 1",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1234,"McKinleyville (alt1), Subsection 2",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1235,"McKinleyville (alt1), Subsection 3",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1236,"McKinleyville (alt1), Subsection 4",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
 1237,"McLean Lake, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1238,"McLean Lake, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1239,"McLean Lake, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1302,8 +1302,8 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1300,"Mission Hills 2011, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1301,"Mission Ridge-Arroyo Parida-Santa Ana, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1302,"Mission Ridge-Arroyo Parida-Santa Ana, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1303,"Mission Ridge-Arroyo Parida-Santa Ana, Subsection 2",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1304,"Mission Ridge-Arroyo Parida-Santa Ana, Subsection 3",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
+1303,"Mission Ridge-Arroyo Parida-Santa Ana, Subsection 2",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1304,"Mission Ridge-Arroyo Parida-Santa Ana, Subsection 3",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
 1305,"Mission Ridge-Arroyo Parida-Santa Ana, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1306,"Mission Ridge-Arroyo Parida-Santa Ana, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1307,"Mission Ridge-Arroyo Parida-Santa Ana, Subsection 6",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1415,8 +1415,8 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1413,"Northridge, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1414,"Northridge Hills, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1415,"Northridge Hills, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1416,"Oak Ridge (Onshore), Subsection 0",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1417,"Oak Ridge (Onshore), Subsection 1",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
+1416,"Oak Ridge (Onshore), Subsection 0",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1417,"Oak Ridge (Onshore), Subsection 1",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
 1418,"Oak Ridge (Onshore), Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1419,"Oak Ridge (Onshore), Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1420,"Oak Ridge (Onshore), Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1497,11 +1497,11 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1495,"Owens Valley Keough Hot Springs, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1496,"Owens Valley Keough Hot Springs, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1497,"Owens Valley Keough Hot Springs, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1498,"Owl Lake, Subsection 0",0.006839453,1.0284891E-4,2.0569783E-4,9.256402E-4,0.0034968632,0.006839453,0.003599712
-1499,"Owl Lake, Subsection 1",0.006839453,1.0284891E-4,2.0569783E-4,9.256402E-4,0.0034968632,0.006839453,0.003599712
-1500,"Owl Lake, Subsection 2",0.0065823304,1.0284891E-4,2.0569783E-4,8.742158E-4,0.0034454386,0.0065823304,0.0033940142
-1501,"Owl Lake, Subsection 3",0.0062737837,1.0284891E-4,2.0569783E-4,8.742158E-4,0.0032397409,0.0062737837,0.0032911652
-1502,"Owl Lake, Subsection 4",0.0053481436,1.0284891E-4,2.0569783E-4,8.227913E-4,0.0029311941,0.0053481436,0.0028797695
+1498,"Owl Lake, Subsection 0",0.006738186,8.8660345E-5,2.2165086E-4,0.0010195939,0.003635074,0.006738186,0.0034134232
+1499,"Owl Lake, Subsection 1",0.006738186,8.8660345E-5,2.2165086E-4,0.0010195939,0.003635074,0.006738186,0.0034134232
+1500,"Owl Lake, Subsection 2",0.006472205,8.8660345E-5,2.2165086E-4,9.309336E-4,0.0035464137,0.006472205,0.0032361024
+1501,"Owl Lake, Subsection 3",0.0061175637,8.8660345E-5,2.2165086E-4,8.8660343E-4,0.0032804327,0.0061175637,0.0031031119
+1502,"Owl Lake, Subsection 4",0.00518663,8.8660345E-5,1.7732069E-4,7.979431E-4,0.0029701216,0.00518663,0.0027041405
 1503,"Ozena, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1504,"Ozena, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1505,"Ozena, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1522,32 +1522,32 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1520,"Palos Verdes, Subsection 13",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1521,"Palos Verdes, Subsection 14",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1522,"Palos Verdes, Subsection 15",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1523,"Panamint Valley, Subsection 0",0.0069937264,1.0284891E-4,2.0569783E-4,8.227913E-4,0.0032397409,0.0069937264,0.0030854675
-1524,"Panamint Valley, Subsection 1",0.007096575,1.0284891E-4,2.0569783E-4,8.227913E-4,0.0032911652,0.007096575,0.0031368919
-1525,"Panamint Valley, Subsection 2",0.006890877,1.0284891E-4,2.0569783E-4,8.227913E-4,0.0031883165,0.006890877,0.003034043
-1526,"Panamint Valley, Subsection 3",0.0055538416,1.0284891E-4,1.5427337E-4,6.1709346E-4,0.0025197985,0.0055538416,0.0023141005
-1527,"Panamint Valley, Subsection 4",0.0055538416,1.0284891E-4,1.5427337E-4,6.1709346E-4,0.0025197985,0.0055538416,0.0023141005
-1528,"Panamint Valley, Subsection 5",0.0055538416,1.0284891E-4,1.5427337E-4,6.1709346E-4,0.0025197985,0.0055538416,0.0023141005
-1529,"Panamint Valley, Subsection 6",0.0058623883,1.0284891E-4,1.5427337E-4,6.6851795E-4,0.0027254962,0.0058623883,0.0024683739
-1530,"Panamint Valley, Subsection 7",0.0058623883,1.0284891E-4,1.5427337E-4,6.6851795E-4,0.0027254962,0.0058623883,0.0024683739
-1531,"Panamint Valley, Subsection 8",0.0059138127,1.0284891E-4,1.5427337E-4,6.6851795E-4,0.0027254962,0.0059138127,0.0024683739
-1532,"Panamint Valley, Subsection 9",0.0059138127,1.0284891E-4,1.5427337E-4,6.6851795E-4,0.0027254962,0.0059138127,0.0024683739
-1533,"Panamint Valley, Subsection 10",0.0059138127,1.0284891E-4,1.5427337E-4,6.6851795E-4,0.0027254962,0.0059138127,0.0024683739
-1534,"Panamint Valley, Subsection 11",0.0059138127,1.0284891E-4,1.5427337E-4,6.6851795E-4,0.0027254962,0.0059138127,0.0024683739
-1535,"Panamint Valley, Subsection 12",0.0059138127,1.0284891E-4,1.5427337E-4,6.6851795E-4,0.0027254962,0.0059138127,0.0024683739
-1536,"Panamint Valley, Subsection 13",0.005810964,1.0284891E-4,1.5427337E-4,6.6851795E-4,0.0026226474,0.005810964,0.0024169495
-1537,"Panamint Valley, Subsection 14",0.005759539,1.0284891E-4,1.5427337E-4,6.6851795E-4,0.0026226474,0.005759539,0.002365525
-1538,"Panamint Valley, Subsection 15",0.0057081147,1.0284891E-4,1.5427337E-4,6.6851795E-4,0.0025712228,0.0057081147,0.002365525
-1539,"Panamint Valley, Subsection 16",0.005605266,1.0284891E-4,1.5427337E-4,6.6851795E-4,0.0025712228,0.005605266,0.0023141005
-1540,"Paradise, Subsection 0",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-1541,"Paradise, Subsection 1",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-1542,"Paradise, Subsection 2",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-1543,"Paradise, Subsection 3",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-1544,"Paradise, Subsection 4",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-1545,"Paradise, Subsection 5",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-1546,"Paradise, Subsection 6",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-1547,"Paradise, Subsection 7",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-1548,"Paradise, Subsection 8",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
+1523,"Panamint Valley, Subsection 0",0.0071814875,8.8660345E-5,1.7732069E-4,7.979431E-4,0.003324763,0.0071814875,0.0031917724
+1524,"Panamint Valley, Subsection 1",0.007270148,8.8660345E-5,1.7732069E-4,7.979431E-4,0.003369093,0.007270148,0.0032361024
+1525,"Panamint Valley, Subsection 2",0.007004167,8.8660345E-5,1.7732069E-4,7.979431E-4,0.0032804327,0.007004167,0.0030587818
+1526,"Panamint Valley, Subsection 3",0.0053196205,8.8660345E-5,1.329905E-4,5.762922E-4,0.0024824897,0.0053196205,0.0022608386
+1527,"Panamint Valley, Subsection 4",0.0053196205,8.8660345E-5,1.329905E-4,5.762922E-4,0.0024824897,0.0053196205,0.0022608386
+1528,"Panamint Valley, Subsection 5",0.0053196205,8.8660345E-5,1.329905E-4,5.762922E-4,0.0024824897,0.0053196205,0.0022608386
+1529,"Panamint Valley, Subsection 6",0.0056299316,8.8660345E-5,1.329905E-4,6.206224E-4,0.0026598102,0.0056299316,0.0023938292
+1530,"Panamint Valley, Subsection 7",0.0056299316,8.8660345E-5,1.329905E-4,6.206224E-4,0.0026598102,0.0056299316,0.0023938292
+1531,"Panamint Valley, Subsection 8",0.005674262,8.8660345E-5,1.329905E-4,6.206224E-4,0.0026598102,0.005674262,0.0023938292
+1532,"Panamint Valley, Subsection 9",0.005674262,8.8660345E-5,1.329905E-4,6.206224E-4,0.0026598102,0.005674262,0.0023938292
+1533,"Panamint Valley, Subsection 10",0.005674262,8.8660345E-5,1.329905E-4,6.206224E-4,0.0026598102,0.005674262,0.0023938292
+1534,"Panamint Valley, Subsection 11",0.005674262,8.8660345E-5,1.329905E-4,6.206224E-4,0.0026598102,0.005674262,0.0023938292
+1535,"Panamint Valley, Subsection 12",0.005674262,8.8660345E-5,1.329905E-4,6.206224E-4,0.0026598102,0.005674262,0.0023938292
+1536,"Panamint Valley, Subsection 13",0.0055856016,8.8660345E-5,1.329905E-4,6.206224E-4,0.00257115,0.0055856016,0.0023494991
+1537,"Panamint Valley, Subsection 14",0.0055412715,8.8660345E-5,1.329905E-4,6.206224E-4,0.00257115,0.0055412715,0.002305169
+1538,"Panamint Valley, Subsection 15",0.005496941,8.8660345E-5,1.329905E-4,6.206224E-4,0.0025268197,0.005496941,0.002305169
+1539,"Panamint Valley, Subsection 16",0.005408281,8.8660345E-5,1.329905E-4,6.206224E-4,0.0025268197,0.005408281,0.0022608386
+1540,"Paradise, Subsection 0",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1541,"Paradise, Subsection 1",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1542,"Paradise, Subsection 2",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1543,"Paradise, Subsection 3",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1544,"Paradise, Subsection 4",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1545,"Paradise, Subsection 5",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1546,"Paradise, Subsection 6",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1547,"Paradise, Subsection 7",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1548,"Paradise, Subsection 8",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
 1549,"Peralta Hills, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1550,"Peralta Hills, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1551,"Pilarcitos 2011 CFM, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1564,9 +1564,9 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1562,"Pine Mtn, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1563,"Pine Mtn, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1564,"Pine Mtn, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1565,"Pine Mtn, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1566,"Pine Mtn, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1567,"Pine Mtn, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1565,"Pine Mtn, Subsection 3",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1566,"Pine Mtn, Subsection 4",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+1567,"Pine Mtn, Subsection 5",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
 1568,"Pinto Mtn, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1569,"Pinto Mtn, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1570,"Pinto Mtn, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1575,26 +1575,26 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1573,"Pinto Mtn, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1574,"Pinto Mtn, Subsection 6",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1575,"Pinto Mtn, Subsection 7",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1576,"Pinto Mtn, Subsection 8",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
-1577,"Pinto Mtn, Subsection 9",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
+1576,"Pinto Mtn, Subsection 8",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
+1577,"Pinto Mtn, Subsection 9",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
 1578,"Pinto Mtn, Subsection 10",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1579,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 0",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
-1580,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 1",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
-1581,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 2",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
-1582,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 3",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
-1583,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 4",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
-1584,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 5",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
-1585,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 6",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
-1586,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 7",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5
+1579,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 0",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
+1580,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 1",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
+1581,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 2",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
+1582,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 3",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
+1583,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 4",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
+1584,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 5",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
+1585,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 6",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
+1586,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 7",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5
 1587,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 8",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1588,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 9",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1589,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 10",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1590,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 11",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1591,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 12",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1592,"Pisgah-Bullion Mtn-Mesquite Lk, Subsection 13",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1593,"Pitas Point (Lower West), Subsection 0",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1594,"Pitas Point (Lower West), Subsection 1",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1595,"Pitas Point (Lower West), Subsection 2",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
+1593,"Pitas Point (Lower West), Subsection 0",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1594,"Pitas Point (Lower West), Subsection 1",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1595,"Pitas Point (Lower West), Subsection 2",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
 1596,"Pitas Point (Lower)-Montalvo, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1597,"Pitas Point (Lower)-Montalvo, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1598,"Pittville 2011 CFM, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1644,14 +1644,14 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1642,"Quien Sabe 2011 CFM, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1643,"Quien Sabe 2011 CFM, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1644,"Raymond, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1645,"Raymond, Subsection 1",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1646,"Raymond, Subsection 2",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
+1645,"Raymond, Subsection 1",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1646,"Raymond, Subsection 2",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
 1647,"Red Mountain, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1648,"Red Mountain, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1649,"Red Mountain, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1650,"Red Mountain, Subsection 3",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1651,"Red Mountain, Subsection 4",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1652,"Red Mountain, Subsection 5",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
+1650,"Red Mountain, Subsection 3",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1651,"Red Mountain, Subsection 4",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1652,"Red Mountain, Subsection 5",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
 1653,"Red Mountain, Subsection 6",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1654,"Red Mountain, Subsection 7",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1655,"Red Mountain, Subsection 8",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1771,35 +1771,35 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1769,"Russ 2011 CFM, Subsection 6",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1770,"Russ 2011 CFM, Subsection 7",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1771,"Russ 2011 CFM, Subsection 8",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1772,"San Andreas (Big Bend), Subsection 0",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1773,"San Andreas (Big Bend), Subsection 1",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1774,"San Andreas (Big Bend), Subsection 2",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1775,"San Andreas (Big Bend), Subsection 3",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1776,"San Andreas (Big Bend), Subsection 4",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1777,"San Andreas (Big Bend), Subsection 5",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1778,"San Andreas (Big Bend), Subsection 6",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1779,"San Andreas (Carrizo) rev, Subsection 0",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1780,"San Andreas (Carrizo) rev, Subsection 1",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1781,"San Andreas (Carrizo) rev, Subsection 2",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1782,"San Andreas (Carrizo) rev, Subsection 3",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1783,"San Andreas (Carrizo) rev, Subsection 4",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1784,"San Andreas (Carrizo) rev, Subsection 5",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1785,"San Andreas (Carrizo) rev, Subsection 6",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1786,"San Andreas (Carrizo) rev, Subsection 7",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1787,"San Andreas (Cholame) rev, Subsection 0",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1788,"San Andreas (Cholame) rev, Subsection 1",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1789,"San Andreas (Cholame) rev, Subsection 2",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1790,"San Andreas (Cholame) rev, Subsection 3",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1791,"San Andreas (Cholame) rev, Subsection 4",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1792,"San Andreas (Cholame) rev, Subsection 5",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-1793,"San Andreas (Cholame) rev, Subsection 6",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
+1772,"San Andreas (Big Bend), Subsection 0",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1773,"San Andreas (Big Bend), Subsection 1",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1774,"San Andreas (Big Bend), Subsection 2",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1775,"San Andreas (Big Bend), Subsection 3",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1776,"San Andreas (Big Bend), Subsection 4",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1777,"San Andreas (Big Bend), Subsection 5",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1778,"San Andreas (Big Bend), Subsection 6",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1779,"San Andreas (Carrizo) rev, Subsection 0",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1780,"San Andreas (Carrizo) rev, Subsection 1",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1781,"San Andreas (Carrizo) rev, Subsection 2",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1782,"San Andreas (Carrizo) rev, Subsection 3",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1783,"San Andreas (Carrizo) rev, Subsection 4",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1784,"San Andreas (Carrizo) rev, Subsection 5",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1785,"San Andreas (Carrizo) rev, Subsection 6",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1786,"San Andreas (Carrizo) rev, Subsection 7",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1787,"San Andreas (Cholame) rev, Subsection 0",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1788,"San Andreas (Cholame) rev, Subsection 1",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1789,"San Andreas (Cholame) rev, Subsection 2",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1790,"San Andreas (Cholame) rev, Subsection 3",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1791,"San Andreas (Cholame) rev, Subsection 4",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1792,"San Andreas (Cholame) rev, Subsection 5",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+1793,"San Andreas (Cholame) rev, Subsection 6",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
 1794,"San Andreas (Cholame) rev, Subsection 7",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1795,"San Andreas (Cholame) rev, Subsection 8",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1796,"San Andreas (Cholame) rev, Subsection 9",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1797,"San Andreas (Cholame) rev, Subsection 10",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1798,"San Andreas (Coachella) rev, Subsection 0",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,0.0
-1799,"San Andreas (Coachella) rev, Subsection 1",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,0.0
-1800,"San Andreas (Coachella) rev, Subsection 2",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,0.0
+1798,"San Andreas (Coachella) rev, Subsection 0",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,0.0
+1799,"San Andreas (Coachella) rev, Subsection 1",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,0.0
+1800,"San Andreas (Coachella) rev, Subsection 2",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,0.0
 1801,"San Andreas (Coachella) rev, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1802,"San Andreas (Coachella) rev, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1803,"San Andreas (Coachella) rev, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1831,38 +1831,38 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1829,"San Andreas (Creeping Section) 2011 CFM, Subsection 18",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1830,"San Andreas (Creeping Section) 2011 CFM, Subsection 19",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1831,"San Andreas (Creeping Section) 2011 CFM, Subsection 20",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1832,"San Andreas (Mojave N), Subsection 0",0.001902705,0.0,1.0284891E-4,4.1139565E-4,0.0011827626,0.001902705,9.770647E-4
-1833,"San Andreas (Mojave N), Subsection 1",0.001902705,0.0,1.0284891E-4,4.1139565E-4,0.0011827626,0.001902705,9.770647E-4
-1834,"San Andreas (Mojave N), Subsection 2",0.0016970071,0.0,1.0284891E-4,2.571223E-4,0.0010284892,0.0016970071,8.742158E-4
-1835,"San Andreas (Mojave N), Subsection 3",0.0015941582,0.0,5.1424457E-5,2.0569783E-4,9.770647E-4,0.0015941582,8.227913E-4
-1836,"San Andreas (Mojave N), Subsection 4",0.0014398848,0.0,5.1424457E-5,1.5427337E-4,8.742158E-4,0.0014398848,7.199424E-4
-1837,"San Andreas (Mojave S), Subsection 0",0.0014398848,0.0,5.1424457E-5,1.5427337E-4,8.742158E-4,0.0014398848,7.199424E-4
-1838,"San Andreas (Mojave S), Subsection 1",0.0014398848,0.0,5.1424457E-5,1.5427337E-4,8.742158E-4,0.0014398848,7.199424E-4
-1839,"San Andreas (Mojave S), Subsection 2",0.0013884604,0.0,5.1424457E-5,1.5427337E-4,8.227913E-4,0.0013884604,7.199424E-4
-1840,"San Andreas (Mojave S), Subsection 3",0.0013884604,0.0,5.1424457E-5,1.5427337E-4,8.227913E-4,0.0013884604,7.199424E-4
-1841,"San Andreas (Mojave S), Subsection 4",0.0013370359,0.0,5.1424457E-5,1.5427337E-4,7.713669E-4,0.0013370359,6.6851795E-4
-1842,"San Andreas (Mojave S), Subsection 5",0.0011827626,0.0,5.1424457E-5,1.5427337E-4,7.713669E-4,0.0011827626,6.6851795E-4
-1843,"San Andreas (Mojave S), Subsection 6",0.0011313381,0.0,5.1424457E-5,1.5427337E-4,7.713669E-4,0.0011313381,6.1709346E-4
-1844,"San Andreas (Mojave S), Subsection 7",0.0011313381,0.0,5.1424457E-5,1.5427337E-4,7.713669E-4,0.0011313381,6.1709346E-4
-1845,"San Andreas (Mojave S), Subsection 8",0.0011313381,0.0,5.1424457E-5,1.5427337E-4,7.713669E-4,0.0011313381,6.1709346E-4
-1846,"San Andreas (Mojave S), Subsection 9",0.0011827626,0.0,5.1424457E-5,1.5427337E-4,7.713669E-4,0.0011827626,6.1709346E-4
-1847,"San Andreas (Mojave S), Subsection 10",0.0011313381,0.0,0.0,1.0284891E-4,7.199424E-4,0.0011313381,5.6566903E-4
-1848,"San Andreas (Mojave S), Subsection 11",0.0011313381,0.0,0.0,1.0284891E-4,7.199424E-4,0.0011313381,5.6566903E-4
-1849,"San Andreas (Mojave S), Subsection 12",0.0010799136,0.0,0.0,1.0284891E-4,7.199424E-4,0.0010799136,5.6566903E-4
-1850,"San Andreas (Mojave S), Subsection 13",0.0011313381,0.0,0.0,1.0284891E-4,7.199424E-4,0.0011313381,5.6566903E-4
-1851,"San Andreas (Mojave S), Subsection 14",0.0010284892,0.0,0.0,1.0284891E-4,6.6851795E-4,0.0010284892,5.142446E-4
-1852,"San Andreas (North Branch Mill Creek), Subsection 0",1.5427337E-4,0.0,0.0,5.1424457E-5,5.1424457E-5,1.5427337E-4,0.0
-1853,"San Andreas (North Branch Mill Creek), Subsection 1",1.5427337E-4,0.0,0.0,5.1424457E-5,5.1424457E-5,1.5427337E-4,0.0
-1854,"San Andreas (North Branch Mill Creek), Subsection 2",1.0284891E-4,0.0,0.0,5.1424457E-5,5.1424457E-5,1.0284891E-4,0.0
-1855,"San Andreas (North Branch Mill Creek), Subsection 3",1.0284891E-4,0.0,0.0,5.1424457E-5,5.1424457E-5,1.0284891E-4,0.0
-1856,"San Andreas (North Branch Mill Creek), Subsection 4",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,0.0
-1857,"San Andreas (North Branch Mill Creek), Subsection 5",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,0.0
-1858,"San Andreas (North Branch Mill Creek), Subsection 6",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,0.0
-1859,"San Andreas (North Branch Mill Creek), Subsection 7",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,0.0
-1860,"San Andreas (North Branch Mill Creek), Subsection 8",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,0.0
-1861,"San Andreas (North Branch Mill Creek), Subsection 9",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,0.0
-1862,"San Andreas (North Branch Mill Creek), Subsection 10",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,0.0
-1863,"San Andreas (North Branch Mill Creek), Subsection 11",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,0.0
+1832,"San Andreas (Mojave N), Subsection 0",0.0016402163,0.0,8.8660345E-5,3.5464138E-4,0.0010195939,0.0016402163,8.4227324E-4
+1833,"San Andreas (Mojave N), Subsection 1",0.0016402163,0.0,8.8660345E-5,3.5464138E-4,0.0010195939,0.0016402163,8.4227324E-4
+1834,"San Andreas (Mojave N), Subsection 2",0.0014628957,0.0,8.8660345E-5,2.2165086E-4,8.8660343E-4,0.0014628957,7.536129E-4
+1835,"San Andreas (Mojave N), Subsection 3",0.0013742353,0.0,4.4330172E-5,1.7732069E-4,8.4227324E-4,0.0013742353,7.0928276E-4
+1836,"San Andreas (Mojave N), Subsection 4",0.0012412448,0.0,4.4330172E-5,1.329905E-4,7.536129E-4,0.0012412448,6.206224E-4
+1837,"San Andreas (Mojave S), Subsection 0",0.0012412448,0.0,4.4330172E-5,1.329905E-4,7.536129E-4,0.0012412448,6.206224E-4
+1838,"San Andreas (Mojave S), Subsection 1",0.0012412448,0.0,4.4330172E-5,1.329905E-4,7.536129E-4,0.0012412448,6.206224E-4
+1839,"San Andreas (Mojave S), Subsection 2",0.0011969146,0.0,4.4330172E-5,1.329905E-4,7.0928276E-4,0.0011969146,6.206224E-4
+1840,"San Andreas (Mojave S), Subsection 3",0.0011969146,0.0,4.4330172E-5,1.329905E-4,7.0928276E-4,0.0011969146,6.206224E-4
+1841,"San Andreas (Mojave S), Subsection 4",0.0011525844,0.0,4.4330172E-5,1.329905E-4,6.6495256E-4,0.0011525844,5.762922E-4
+1842,"San Andreas (Mojave S), Subsection 5",0.0010195939,0.0,4.4330172E-5,1.329905E-4,6.6495256E-4,0.0010195939,5.762922E-4
+1843,"San Andreas (Mojave S), Subsection 6",9.7526377E-4,0.0,4.4330172E-5,1.329905E-4,6.6495256E-4,9.7526377E-4,5.31962E-4
+1844,"San Andreas (Mojave S), Subsection 7",9.7526377E-4,0.0,4.4330172E-5,1.329905E-4,6.6495256E-4,9.7526377E-4,5.31962E-4
+1845,"San Andreas (Mojave S), Subsection 8",9.7526377E-4,0.0,4.4330172E-5,1.329905E-4,6.6495256E-4,9.7526377E-4,5.31962E-4
+1846,"San Andreas (Mojave S), Subsection 9",0.0010195939,0.0,4.4330172E-5,1.329905E-4,6.6495256E-4,0.0010195939,5.31962E-4
+1847,"San Andreas (Mojave S), Subsection 10",9.7526377E-4,0.0,0.0,8.8660345E-5,6.206224E-4,9.7526377E-4,4.8763189E-4
+1848,"San Andreas (Mojave S), Subsection 11",0.0010195939,0.0,0.0,8.8660345E-5,6.6495256E-4,0.0010195939,4.8763189E-4
+1849,"San Andreas (Mojave S), Subsection 12",9.7526377E-4,0.0,0.0,8.8660345E-5,6.6495256E-4,9.7526377E-4,4.8763189E-4
+1850,"San Andreas (Mojave S), Subsection 13",0.0010195939,0.0,0.0,8.8660345E-5,6.6495256E-4,0.0010195939,4.8763189E-4
+1851,"San Andreas (Mojave S), Subsection 14",9.309336E-4,0.0,0.0,8.8660345E-5,6.206224E-4,9.309336E-4,4.4330172E-4
+1852,"San Andreas (North Branch Mill Creek), Subsection 0",1.329905E-4,0.0,0.0,4.4330172E-5,4.4330172E-5,1.329905E-4,0.0
+1853,"San Andreas (North Branch Mill Creek), Subsection 1",1.329905E-4,0.0,0.0,4.4330172E-5,4.4330172E-5,1.329905E-4,0.0
+1854,"San Andreas (North Branch Mill Creek), Subsection 2",8.8660345E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,8.8660345E-5,0.0
+1855,"San Andreas (North Branch Mill Creek), Subsection 3",8.8660345E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,8.8660345E-5,0.0
+1856,"San Andreas (North Branch Mill Creek), Subsection 4",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,0.0
+1857,"San Andreas (North Branch Mill Creek), Subsection 5",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,0.0
+1858,"San Andreas (North Branch Mill Creek), Subsection 6",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,0.0
+1859,"San Andreas (North Branch Mill Creek), Subsection 7",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,0.0
+1860,"San Andreas (North Branch Mill Creek), Subsection 8",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,0.0
+1861,"San Andreas (North Branch Mill Creek), Subsection 9",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,0.0
+1862,"San Andreas (North Branch Mill Creek), Subsection 10",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,0.0
+1863,"San Andreas (North Branch Mill Creek), Subsection 11",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,0.0
 1864,"San Andreas (North Coast) 2011 CFM, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1865,"San Andreas (North Coast) 2011 CFM, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1866,"San Andreas (North Coast) 2011 CFM, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1943,27 +1943,27 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 1941,"San Andreas (Peninsula) 2011 CFM, Subsection 13",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1942,"San Andreas (Peninsula) 2011 CFM, Subsection 14",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1943,"San Andreas (Peninsula) 2011 CFM, Subsection 15",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1944,"San Andreas (San Bernardino N), Subsection 0",9.256402E-4,0.0,0.0,1.0284891E-4,5.6566903E-4,9.256402E-4,4.628201E-4
-1945,"San Andreas (San Bernardino N), Subsection 1",9.256402E-4,0.0,0.0,1.0284891E-4,5.6566903E-4,9.256402E-4,4.628201E-4
-1946,"San Andreas (San Bernardino N), Subsection 2",7.713669E-4,0.0,0.0,5.1424457E-5,4.1139565E-4,7.713669E-4,3.599712E-4
-1947,"San Andreas (San Bernardino N), Subsection 3",6.6851795E-4,0.0,0.0,5.1424457E-5,3.599712E-4,6.6851795E-4,3.0854673E-4
-1948,"San Andreas (San Bernardino N), Subsection 4",6.1709346E-4,0.0,0.0,5.1424457E-5,3.0854673E-4,6.1709346E-4,2.571223E-4
-1949,"San Andreas (San Bernardino N), Subsection 5",5.142446E-4,0.0,0.0,5.1424457E-5,2.571223E-4,5.142446E-4,2.0569783E-4
-1950,"San Andreas (San Bernardino S), Subsection 0",3.0854673E-4,0.0,0.0,0.0,2.0569783E-4,3.0854673E-4,2.0569783E-4
-1951,"San Andreas (San Bernardino S), Subsection 1",3.0854673E-4,0.0,0.0,0.0,2.0569783E-4,3.0854673E-4,2.0569783E-4
-1952,"San Andreas (San Bernardino S), Subsection 2",2.0569783E-4,0.0,0.0,0.0,1.0284891E-4,2.0569783E-4,1.5427337E-4
-1953,"San Andreas (San Bernardino S), Subsection 3",1.5427337E-4,0.0,0.0,0.0,1.0284891E-4,1.5427337E-4,1.5427337E-4
-1954,"San Andreas (San Bernardino S), Subsection 4",1.0284891E-4,0.0,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4
-1955,"San Andreas (San Bernardino S), Subsection 5",1.0284891E-4,0.0,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4
-1956,"San Andreas (San Bernardino S), Subsection 6",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5
+1944,"San Andreas (San Bernardino N), Subsection 0",8.4227324E-4,0.0,0.0,8.8660345E-5,5.31962E-4,8.4227324E-4,3.9897155E-4
+1945,"San Andreas (San Bernardino N), Subsection 1",8.4227324E-4,0.0,0.0,8.8660345E-5,5.31962E-4,8.4227324E-4,3.9897155E-4
+1946,"San Andreas (San Bernardino N), Subsection 2",7.0928276E-4,0.0,0.0,4.4330172E-5,3.9897155E-4,7.0928276E-4,3.103112E-4
+1947,"San Andreas (San Bernardino N), Subsection 3",6.206224E-4,0.0,0.0,4.4330172E-5,3.5464138E-4,6.206224E-4,2.65981E-4
+1948,"San Andreas (San Bernardino N), Subsection 4",5.762922E-4,0.0,0.0,4.4330172E-5,3.103112E-4,5.762922E-4,2.2165086E-4
+1949,"San Andreas (San Bernardino N), Subsection 5",4.8763189E-4,0.0,0.0,4.4330172E-5,2.65981E-4,4.8763189E-4,1.7732069E-4
+1950,"San Andreas (San Bernardino S), Subsection 0",3.103112E-4,0.0,0.0,0.0,2.2165086E-4,3.103112E-4,1.7732069E-4
+1951,"San Andreas (San Bernardino S), Subsection 1",3.103112E-4,0.0,0.0,0.0,2.2165086E-4,3.103112E-4,1.7732069E-4
+1952,"San Andreas (San Bernardino S), Subsection 2",2.2165086E-4,0.0,0.0,0.0,1.329905E-4,2.2165086E-4,1.329905E-4
+1953,"San Andreas (San Bernardino S), Subsection 3",1.7732069E-4,0.0,0.0,0.0,1.329905E-4,1.7732069E-4,1.329905E-4
+1954,"San Andreas (San Bernardino S), Subsection 4",1.329905E-4,0.0,0.0,0.0,8.8660345E-5,1.329905E-4,8.8660345E-5
+1955,"San Andreas (San Bernardino S), Subsection 5",1.329905E-4,0.0,0.0,0.0,8.8660345E-5,1.329905E-4,8.8660345E-5
+1956,"San Andreas (San Bernardino S), Subsection 6",8.8660345E-5,0.0,0.0,0.0,8.8660345E-5,8.8660345E-5,4.4330172E-5
 1957,"San Andreas (San Gorgonio Pass-Garnet HIll), Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1958,"San Andreas (San Gorgonio Pass-Garnet HIll), Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1959,"San Andreas (San Gorgonio Pass-Garnet HIll), Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1960,"San Andreas (San Gorgonio Pass-Garnet HIll), Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1961,"San Andreas (San Gorgonio Pass-Garnet HIll), Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1962,"San Andreas (San Gorgonio Pass-Garnet HIll), Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1963,"San Andreas (San Gorgonio Pass-Garnet HIll), Subsection 6",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5
-1964,"San Andreas (San Gorgonio Pass-Garnet HIll), Subsection 7",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5
+1963,"San Andreas (San Gorgonio Pass-Garnet HIll), Subsection 6",8.8660345E-5,0.0,0.0,0.0,8.8660345E-5,8.8660345E-5,4.4330172E-5
+1964,"San Andreas (San Gorgonio Pass-Garnet HIll), Subsection 7",8.8660345E-5,0.0,0.0,0.0,8.8660345E-5,8.8660345E-5,4.4330172E-5
 1965,"San Andreas (Santa Cruz Mts) 2011 CFM, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1966,"San Andreas (Santa Cruz Mts) 2011 CFM, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1967,"San Andreas (Santa Cruz Mts) 2011 CFM, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2152,12 +2152,12 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 2150,"San Gregorio (South) 2011 CFM, Subsection 12",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2151,"San Gregorio (South) 2011 CFM, Subsection 13",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2152,"San Gregorio (South) 2011 CFM, Subsection 14",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2153,"San Jacinto (Anza) rev, Subsection 0",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2154,"San Jacinto (Anza) rev, Subsection 1",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2155,"San Jacinto (Anza) rev, Subsection 2",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2156,"San Jacinto (Anza) rev, Subsection 3",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2157,"San Jacinto (Anza) rev, Subsection 4",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2158,"San Jacinto (Anza) rev, Subsection 5",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
+2153,"San Jacinto (Anza) rev, Subsection 0",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2154,"San Jacinto (Anza) rev, Subsection 1",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2155,"San Jacinto (Anza) rev, Subsection 2",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2156,"San Jacinto (Anza) rev, Subsection 3",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2157,"San Jacinto (Anza) rev, Subsection 4",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2158,"San Jacinto (Anza) rev, Subsection 5",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
 2159,"San Jacinto (Borrego), Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2160,"San Jacinto (Borrego), Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2161,"San Jacinto (Borrego), Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2170,27 +2170,27 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 2168,"San Jacinto (Clark) rev, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2169,"San Jacinto (Clark) rev, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2170,"San Jacinto (Clark) rev, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2171,"San Jacinto (Coyote Creek), Subsection 0",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2172,"San Jacinto (Coyote Creek), Subsection 1",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2173,"San Jacinto (Coyote Creek), Subsection 2",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2174,"San Jacinto (Coyote Creek), Subsection 3",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2175,"San Jacinto (Coyote Creek), Subsection 4",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
+2171,"San Jacinto (Coyote Creek), Subsection 0",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2172,"San Jacinto (Coyote Creek), Subsection 1",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2173,"San Jacinto (Coyote Creek), Subsection 2",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2174,"San Jacinto (Coyote Creek), Subsection 3",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2175,"San Jacinto (Coyote Creek), Subsection 4",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
 2176,"San Jacinto (Coyote Creek), Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2177,"San Jacinto (Lytle Creek connector), Subsection 0",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,5.1424457E-5
-2178,"San Jacinto (Lytle Creek connector), Subsection 1",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,5.1424457E-5
-2179,"San Jacinto (Lytle Creek connector), Subsection 2",5.1424457E-5,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5,5.1424457E-5
-2180,"San Jacinto (San Bernardino), Subsection 0",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5
-2181,"San Jacinto (San Bernardino), Subsection 1",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5
-2182,"San Jacinto (San Bernardino), Subsection 2",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5
-2183,"San Jacinto (San Bernardino), Subsection 3",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2184,"San Jacinto (San Bernardino), Subsection 4",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2185,"San Jacinto (San Jacinto Valley) rev, Subsection 0",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2186,"San Jacinto (San Jacinto Valley) rev, Subsection 1",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2187,"San Jacinto (San Jacinto Valley) rev, Subsection 2",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2188,"San Jacinto (Stepovers Combined), Subsection 0",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2189,"San Jacinto (Stepovers Combined), Subsection 1",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2190,"San Jacinto (Stepovers Combined), Subsection 2",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
-2191,"San Jacinto (Stepovers Combined), Subsection 3",1.0284891E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.0284891E-4,1.0284891E-4
+2177,"San Jacinto (Lytle Creek connector), Subsection 0",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,4.4330172E-5
+2178,"San Jacinto (Lytle Creek connector), Subsection 1",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,4.4330172E-5
+2179,"San Jacinto (Lytle Creek connector), Subsection 2",4.4330172E-5,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5,4.4330172E-5
+2180,"San Jacinto (San Bernardino), Subsection 0",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5
+2181,"San Jacinto (San Bernardino), Subsection 1",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5
+2182,"San Jacinto (San Bernardino), Subsection 2",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5
+2183,"San Jacinto (San Bernardino), Subsection 3",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2184,"San Jacinto (San Bernardino), Subsection 4",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2185,"San Jacinto (San Jacinto Valley) rev, Subsection 0",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2186,"San Jacinto (San Jacinto Valley) rev, Subsection 1",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2187,"San Jacinto (San Jacinto Valley) rev, Subsection 2",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2188,"San Jacinto (Stepovers Combined), Subsection 0",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2189,"San Jacinto (Stepovers Combined), Subsection 1",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2190,"San Jacinto (Stepovers Combined), Subsection 2",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
+2191,"San Jacinto (Stepovers Combined), Subsection 3",8.8660345E-5,0.0,0.0,4.4330172E-5,8.8660345E-5,8.8660345E-5,8.8660345E-5
 2192,"San Jacinto (Superstition Mtn), Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2193,"San Jacinto (Superstition Mtn), Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2194,"San Jacinto (Superstition Mtn), Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2284,8 +2284,8 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 2282,"Santa Cruz Island, Subsection 10",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2283,"Santa Monica Bay, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2284,"Santa Monica Bay, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2285,"Santa Monica alt 1, Subsection 0",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-2286,"Santa Monica alt 1, Subsection 1",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
+2285,"Santa Monica alt 1, Subsection 0",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+2286,"Santa Monica alt 1, Subsection 1",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
 2287,"Santa Rosa Island, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2288,"Santa Rosa Island, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2289,"Santa Rosa Island, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2376,10 +2376,10 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 2374,"Sierra Madre (San Fernando), Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2375,"Sierra Madre (San Fernando), Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2376,"Sierra Madre (San Fernando), Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2377,"Sierra Nevada  (No Extension), Subsection 0",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5
-2378,"Sierra Nevada  (No Extension), Subsection 1",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5
-2379,"Sierra Nevada  (No Extension), Subsection 2",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5
-2380,"Sierra Nevada  (No Extension), Subsection 3",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,5.1424457E-5
+2377,"Sierra Nevada  (No Extension), Subsection 0",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5
+2378,"Sierra Nevada  (No Extension), Subsection 1",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5
+2379,"Sierra Nevada  (No Extension), Subsection 2",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5
+2380,"Sierra Nevada  (No Extension), Subsection 3",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,4.4330172E-5
 2381,"Silver Creek 2011 CFM, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2382,"Silver Creek 2011 CFM, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2383,"Silver Creek 2011 CFM, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2389,31 +2389,31 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 2387,"Silver Creek 2011 CFM, Subsection 6",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2388,"Silver Creek 2011 CFM, Subsection 7",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2389,"Silver Creek 2011 CFM, Subsection 8",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2390,"Simi-Santa Rosa, Subsection 0",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-2391,"Simi-Santa Rosa, Subsection 1",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-2392,"Simi-Santa Rosa, Subsection 2",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-2393,"Simi-Santa Rosa, Subsection 3",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-2394,"Simi-Santa Rosa, Subsection 4",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-2395,"Simi-Santa Rosa, Subsection 5",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
-2396,"Simi-Santa Rosa, Subsection 6",5.1424457E-5,0.0,0.0,0.0,5.1424457E-5,5.1424457E-5,0.0
+2390,"Simi-Santa Rosa, Subsection 0",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+2391,"Simi-Santa Rosa, Subsection 1",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+2392,"Simi-Santa Rosa, Subsection 2",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+2393,"Simi-Santa Rosa, Subsection 3",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+2394,"Simi-Santa Rosa, Subsection 4",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+2395,"Simi-Santa Rosa, Subsection 5",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
+2396,"Simi-Santa Rosa, Subsection 6",4.4330172E-5,0.0,0.0,0.0,4.4330172E-5,4.4330172E-5,0.0
 2397,"Sisar, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2398,"Sisar, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2399,"Skinner Flat 2011 CFM, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2400,"Skinner Flat 2011 CFM, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2401,"Skinner Flat 2011 CFM, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2402,"So Sierra Nevada, Subsection 0",3.599712E-4,0.0,0.0,0.0,1.5427337E-4,3.599712E-4,1.5427337E-4
-2403,"So Sierra Nevada, Subsection 1",3.599712E-4,0.0,0.0,0.0,1.5427337E-4,3.599712E-4,1.5427337E-4
-2404,"So Sierra Nevada, Subsection 2",4.1139565E-4,0.0,0.0,5.1424457E-5,2.0569783E-4,4.1139565E-4,2.0569783E-4
-2405,"So Sierra Nevada, Subsection 3",4.1139565E-4,0.0,0.0,5.1424457E-5,2.0569783E-4,4.1139565E-4,2.0569783E-4
-2406,"So Sierra Nevada, Subsection 4",4.1139565E-4,0.0,0.0,5.1424457E-5,2.0569783E-4,4.1139565E-4,2.0569783E-4
-2407,"So Sierra Nevada, Subsection 5",4.1139565E-4,0.0,0.0,5.1424457E-5,2.0569783E-4,4.1139565E-4,2.0569783E-4
-2408,"So Sierra Nevada, Subsection 6",3.599712E-4,0.0,0.0,5.1424457E-5,2.0569783E-4,3.599712E-4,2.0569783E-4
-2409,"So Sierra Nevada, Subsection 7",2.571223E-4,0.0,0.0,5.1424457E-5,2.0569783E-4,2.571223E-4,2.0569783E-4
-2410,"So Sierra Nevada, Subsection 8",2.0569783E-4,0.0,0.0,5.1424457E-5,2.0569783E-4,2.0569783E-4,1.5427337E-4
-2411,"So Sierra Nevada, Subsection 9",2.571223E-4,0.0,0.0,5.1424457E-5,1.5427337E-4,2.571223E-4,2.0569783E-4
-2412,"So Sierra Nevada, Subsection 10",2.571223E-4,0.0,0.0,5.1424457E-5,1.5427337E-4,2.571223E-4,2.0569783E-4
-2413,"So Sierra Nevada, Subsection 11",1.5427337E-4,0.0,0.0,0.0,1.0284891E-4,1.5427337E-4,1.0284891E-4
-2414,"So Sierra Nevada, Subsection 12",1.5427337E-4,0.0,0.0,0.0,1.0284891E-4,1.5427337E-4,1.0284891E-4
+2402,"So Sierra Nevada, Subsection 0",3.103112E-4,0.0,0.0,0.0,1.329905E-4,3.103112E-4,1.329905E-4
+2403,"So Sierra Nevada, Subsection 1",3.103112E-4,0.0,0.0,0.0,1.329905E-4,3.103112E-4,1.329905E-4
+2404,"So Sierra Nevada, Subsection 2",3.5464138E-4,0.0,0.0,4.4330172E-5,1.7732069E-4,3.5464138E-4,1.7732069E-4
+2405,"So Sierra Nevada, Subsection 3",3.5464138E-4,0.0,0.0,4.4330172E-5,1.7732069E-4,3.5464138E-4,1.7732069E-4
+2406,"So Sierra Nevada, Subsection 4",3.5464138E-4,0.0,0.0,4.4330172E-5,1.7732069E-4,3.5464138E-4,1.7732069E-4
+2407,"So Sierra Nevada, Subsection 5",3.5464138E-4,0.0,0.0,4.4330172E-5,1.7732069E-4,3.5464138E-4,1.7732069E-4
+2408,"So Sierra Nevada, Subsection 6",3.103112E-4,0.0,0.0,4.4330172E-5,1.7732069E-4,3.103112E-4,1.7732069E-4
+2409,"So Sierra Nevada, Subsection 7",2.2165086E-4,0.0,0.0,4.4330172E-5,1.7732069E-4,2.2165086E-4,1.7732069E-4
+2410,"So Sierra Nevada, Subsection 8",1.7732069E-4,0.0,0.0,4.4330172E-5,1.7732069E-4,1.7732069E-4,1.329905E-4
+2411,"So Sierra Nevada, Subsection 9",2.2165086E-4,0.0,0.0,4.4330172E-5,1.329905E-4,2.2165086E-4,1.7732069E-4
+2412,"So Sierra Nevada, Subsection 10",2.2165086E-4,0.0,0.0,4.4330172E-5,1.329905E-4,2.2165086E-4,1.7732069E-4
+2413,"So Sierra Nevada, Subsection 11",1.329905E-4,0.0,0.0,0.0,8.8660345E-5,1.329905E-4,8.8660345E-5
+2414,"So Sierra Nevada, Subsection 12",1.329905E-4,0.0,0.0,0.0,8.8660345E-5,1.329905E-4,8.8660345E-5
 2415,"South Cuyama, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2416,"South Cuyama, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2417,"South Cuyama, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2482,13 +2482,13 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 2480,"Table Bluff, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2481,"Table Bluff, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2482,"Table Bluff, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2483,"Tank Canyon, Subsection 0",3.0854673E-4,0.0,0.0,5.1424457E-5,2.0569783E-4,3.0854673E-4,1.5427337E-4
-2484,"Tank Canyon, Subsection 1",3.0854673E-4,0.0,0.0,5.1424457E-5,2.0569783E-4,3.0854673E-4,1.5427337E-4
-2485,"Tank Canyon, Subsection 2",3.0854673E-4,0.0,0.0,5.1424457E-5,2.0569783E-4,3.0854673E-4,1.5427337E-4
-2486,"Tank Canyon, Subsection 3",3.0854673E-4,0.0,0.0,5.1424457E-5,2.0569783E-4,3.0854673E-4,1.5427337E-4
-2487,"Tank Canyon, Subsection 4",3.0854673E-4,0.0,0.0,5.1424457E-5,2.0569783E-4,3.0854673E-4,1.5427337E-4
-2488,"Tank Canyon, Subsection 5",1.5427337E-4,0.0,0.0,0.0,1.0284891E-4,1.5427337E-4,1.0284891E-4
-2489,"Tank Canyon, Subsection 6",1.5427337E-4,0.0,0.0,0.0,1.0284891E-4,1.5427337E-4,1.0284891E-4
+2483,"Tank Canyon, Subsection 0",3.103112E-4,0.0,0.0,4.4330172E-5,1.7732069E-4,3.103112E-4,1.329905E-4
+2484,"Tank Canyon, Subsection 1",3.103112E-4,0.0,0.0,4.4330172E-5,1.7732069E-4,3.103112E-4,1.329905E-4
+2485,"Tank Canyon, Subsection 2",3.103112E-4,0.0,0.0,4.4330172E-5,1.7732069E-4,3.103112E-4,1.329905E-4
+2486,"Tank Canyon, Subsection 3",3.103112E-4,0.0,0.0,4.4330172E-5,1.7732069E-4,3.103112E-4,1.329905E-4
+2487,"Tank Canyon, Subsection 4",3.103112E-4,0.0,0.0,4.4330172E-5,1.7732069E-4,3.103112E-4,1.329905E-4
+2488,"Tank Canyon, Subsection 5",1.329905E-4,0.0,0.0,0.0,8.8660345E-5,1.329905E-4,8.8660345E-5
+2489,"Tank Canyon, Subsection 6",1.329905E-4,0.0,0.0,0.0,8.8660345E-5,1.329905E-4,8.8660345E-5
 2490,"Thirty Mile Bank, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2491,"Thirty Mile Bank, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2492,"Thirty Mile Bank, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2502,20 +2502,20 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 2500,"Tin Mountain, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2501,"Tin Mountain, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2502,"Tin Mountain, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2503,"Towne Pass, Subsection 0",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-2504,"Towne Pass, Subsection 1",1.5427337E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.5427337E-4,1.0284891E-4
-2505,"Towne Pass, Subsection 2",1.5427337E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.5427337E-4,1.0284891E-4
-2506,"Towne Pass, Subsection 3",1.5427337E-4,0.0,0.0,5.1424457E-5,1.0284891E-4,1.5427337E-4,1.0284891E-4
+2503,"Towne Pass, Subsection 0",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+2504,"Towne Pass, Subsection 1",1.329905E-4,0.0,0.0,4.4330172E-5,8.8660345E-5,1.329905E-4,8.8660345E-5
+2505,"Towne Pass, Subsection 2",1.329905E-4,0.0,0.0,4.4330172E-5,8.8660345E-5,1.329905E-4,8.8660345E-5
+2506,"Towne Pass, Subsection 3",1.329905E-4,0.0,0.0,4.4330172E-5,8.8660345E-5,1.329905E-4,8.8660345E-5
 2507,"Towne Pass, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2508,"Towne Pass, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2509,"Trinidad (alt1), Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2510,"Trinidad (alt1), Subsection 1",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-2511,"Trinidad (alt1), Subsection 2",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-2512,"Trinidad (alt1), Subsection 3",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-2513,"Trinidad (alt1), Subsection 4",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-2514,"Trinidad (alt1), Subsection 5",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-2515,"Trinidad (alt1), Subsection 6",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
-2516,"Trinidad (alt1), Subsection 7",5.1424457E-5,0.0,0.0,0.0,0.0,5.1424457E-5,0.0
+2510,"Trinidad (alt1), Subsection 1",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+2511,"Trinidad (alt1), Subsection 2",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+2512,"Trinidad (alt1), Subsection 3",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+2513,"Trinidad (alt1), Subsection 4",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+2514,"Trinidad (alt1), Subsection 5",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+2515,"Trinidad (alt1), Subsection 6",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
+2516,"Trinidad (alt1), Subsection 7",4.4330172E-5,0.0,0.0,0.0,0.0,4.4330172E-5,0.0
 2517,"Ventura-Pitas Point, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2518,"Ventura-Pitas Point, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2519,"Ventura-Pitas Point, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
