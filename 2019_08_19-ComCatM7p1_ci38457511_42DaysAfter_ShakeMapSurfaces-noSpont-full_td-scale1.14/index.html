@@ -62,15 +62,6 @@ img {
 <li><a href="#trigger-rupture-depth-map">Trigger Rupture Depth Map</a></li>
 <li><a href="#fault-distances-to-triggers">Fault Distances To Triggers</a></li>
 <li><a href="#individual-simulated-catalog-maps">Individual Simulated Catalog Maps</a></li>
-<li><a href="#comcat-data-comparisons">ComCat Data Comparisons</a>
-<ul>
-<li><a href="#comcat-magnitude-number-distributions">ComCat Magnitude-Number Distributions</a></li>
-<li><a href="#comcat-cumulative-number-vs-time">ComCat Cumulative Number Vs Time</a></li>
-<li><a href="#comcat-cumulative-number-simulation-percentiles">ComCat Cumulative Number Simulation Percentiles</a></li>
-<li><a href="#comcat-mean-spatial-distribution">ComCat Mean Spatial Distribution</a></li>
-<li><a href="#comcat-depth-distribution">ComCat Depth Distribution</a></li>
-</ul>
-</li>
 <li><a href="#section-participation">Section Participation</a>
 <ul>
 <li><a href="#section-participation-plots">Section Participation Plots</a></li>
@@ -748,51 +739,6 @@ img {
 <tr><td><strong>1 Month</strong></td><td><img src="plots/sim_catalog_map_p0.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.5_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.9_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p100.0_1mo.png" alt="Map" /></td></tr>
 <tr><td><strong>1 Year</strong></td><td><img src="plots/sim_catalog_map_p0.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.5_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.9_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p100.0_1yr.png" alt="Map" /></td></tr>
 <tr><td><strong>10 Year</strong></td><td><img src="plots/sim_catalog_map_p0.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.5_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.9_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p100.0_10yr.png" alt="Map" /></td></tr>
-</tbody>
-</table>
-<h2 id="comcat-data-comparisons">ComCat Data Comparisons</h2>
-<p><em><a href="#table-of-contents">(top)</a></em></p>
-<p>These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc=3.0</p>
-<p>Last updated at 2019/08/25 01:57:04 UTC, 7.9 d after the simulation start time</p>
-<h3 id="comcat-magnitude-number-distributions">ComCat Magnitude-Number Distributions</h3>
-<p><em><a href="#table-of-contents">(top)</a></em></p>
-<p><img src="plots/comcat_compare_mag_num.png" alt="MND" /></p>
-<h3 id="comcat-cumulative-number-vs-time">ComCat Cumulative Number Vs Time</h3>
-<p><em><a href="#table-of-contents">(top)</a></em></p>
-<table>
-<thead>
-<tr><th>M≥3</th><th>M≥4</th><th>M≥5</th></tr>
-</thead>
-<tbody>
-<tr><td><img src="plots/comcat_compare_cumulative_num_m3.png" alt="MND" /></td><td><img src="plots/comcat_compare_cumulative_num_m4.png" alt="MND" /></td><td><img src="plots/comcat_compare_cumulative_num_m5.png" alt="MND" /></td></tr>
-</tbody>
-</table>
-<h3 id="comcat-cumulative-number-simulation-percentiles">ComCat Cumulative Number Simulation Percentiles</h3>
-<p><em><a href="#table-of-contents">(top)</a></em></p>
-<p><img src="plots/comcat_compare_cumulative_num_percentile.png" alt="MND" /></p>
-<h3 id="comcat-mean-spatial-distribution">ComCat Mean Spatial Distribution</h3>
-<p><em><a href="#table-of-contents">(top)</a></em></p>
-<table>
-<thead>
-<tr><th></th><th>1 Day</th><th>1 Week</th><th>7.9 Day</th></tr>
-</thead>
-<tbody>
-<tr><td><strong>M≥3</strong></td><td><img src="plots/comcat_compare_mean_1d_m3.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m3.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_7.9d_m3.png" alt="Map" /></td></tr>
-<tr><td><strong>M≥4</strong></td><td><img src="plots/comcat_compare_mean_1d_m4.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m4.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_7.9d_m4.png" alt="Map" /></td></tr>
-<tr><td><strong>M≥5</strong></td><td><img src="plots/comcat_compare_mean_1d_m5.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m5.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_7.9d_m5.png" alt="Map" /></td></tr>
-<tr><td><strong>M≥6</strong></td><td><img src="plots/comcat_compare_mean_1d_m6.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m6.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_7.9d_m6.png" alt="Map" /></td></tr>
-<tr><td><strong>M≥7</strong></td><td><img src="plots/comcat_compare_mean_1d_m7.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m7.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_7.9d_m7.png" alt="Map" /></td></tr>
-<tr><td><strong>M≥8</strong></td><td><img src="plots/comcat_compare_mean_1d_m8.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m8.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_7.9d_m8.png" alt="Map" /></td></tr>
-</tbody>
-</table>
-<h3 id="comcat-depth-distribution">ComCat Depth Distribution</h3>
-<p><em><a href="#table-of-contents">(top)</a></em></p>
-<table>
-<thead>
-<tr><th>M≥3</th><th>M≥4</th><th>M≥5</th><th>M≥6</th><th>M≥7</th><th>M≥8</th></tr>
-</thead>
-<tbody>
-<tr><td><img src="plots/comcat_compare_depth_m3.png" alt="Depth Distribution" /></td><td><img src="plots/comcat_compare_depth_m4.png" alt="Depth Distribution" /></td><td><img src="plots/comcat_compare_depth_m5.png" alt="Depth Distribution" /></td><td><img src="plots/comcat_compare_depth_m6.png" alt="Depth Distribution" /></td><td><img src="plots/comcat_compare_depth_m7.png" alt="Depth Distribution" /></td><td><img src="plots/comcat_compare_depth_m8.png" alt="Depth Distribution" /></td></tr>
 </tbody>
 </table>
 <h2 id="section-participation">Section Participation</h2>
