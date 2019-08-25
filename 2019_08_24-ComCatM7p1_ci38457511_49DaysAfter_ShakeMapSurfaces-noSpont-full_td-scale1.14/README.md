@@ -692,7 +692,7 @@ These are map plots of individual catalogs from the simulations, selected as the
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc=3.1
 
-Last updated at 2019/08/25 16:35:46 UTC, 1.6 d after the simulation start time
+Last updated at 2019/08/25 18:35:32 UTC, 1.6 d after the simulation start time
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
