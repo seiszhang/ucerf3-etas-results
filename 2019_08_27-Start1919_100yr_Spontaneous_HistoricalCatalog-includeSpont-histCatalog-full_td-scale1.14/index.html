@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+	border-collapse: collapse
+}
+table, th, td {
+	border: 1px solid black
+}
+body {
+	max-width:1000px;
+	margin: auto;
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+</style>
+</head>
+<body>
+<h1 id="start-1919-100-yr-spontaneous-historical-catalog-results">Start 1919, 100 yr, Spontaneous, Historical Catalog Results</h1>
+<table>
+<thead>
+<tr><th></th><th>Start 1919, 100 yr, Spontaneous, Historical Catalog</th></tr>
+</thead>
+<tbody>
+<tr><td>Num Simulations</td><td>0 (incomplete)</td></tr>
+<tr><td>Start Time</td><td>1919/01/01 00:00:00 UTC</td></tr>
+<tr><td>Start Time Epoch Milliseconds</td><td>-1609459200000</td></tr>
+<tr><td>Duration</td><td>100 Years</td></tr>
+<tr><td>Includes Spontaneous?</td><td>true</td></tr>
+<tr><td>Trigger Ruptures</td><td><em>(none)</em></td></tr>
+<tr><td>Historical Ruptures</td><td>165 Trigger Ruptures</td></tr>
+<tr><td></td><td>First: M7.3 at 1852/01/05 04:40:39 UTC</td></tr>
+<tr><td></td><td>Last: M6.5 at 1918/07/15 00:24:39 UTC</td></tr>
+<tr><td></td><td>Largest: M7.9 at 1857/01/09 16:25:39 UTC</td></tr>
+<tr><td>Config Generated With</td><td>u3etas_config_builder.sh --start-year 1919 --num-simulations 1000 --duration-years 100 --include-spontaneous --historical-catalog --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec</td></tr>
+</tbody>
+</table>
+<h2 id="table-of-contents">Table Of Contents</h2>
+<ul>
+<li><a href="#section-participation">Section Participation</a></li>
+<li><a href="#json-input-file">JSON Input File</a></li>
+</ul>
+<h2 id="section-participation">Section Participation</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>No supra-seismogenic ruptures in any catalog</p>
+<h2 id="json-input-file">JSON Input File</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<pre><code>{
+  &quot;numSimulations&quot;: 1000,
+  &quot;duration&quot;: 100.0,
+  &quot;startYear&quot;: 1919,
+  &quot;includeSpontaneous&quot;: true,
+  &quot;randomSeed&quot;: 1566932682299,
+  &quot;binaryOutput&quot;: true,
+  &quot;binaryOutputFilters&quot;: [
+    {
+      &quot;prefix&quot;: &quot;results_complete&quot;,
+      &quot;descendantsOnly&quot;: false
+    },
+    {
+      &quot;prefix&quot;: &quot;results_m5_preserve_chain&quot;,
+      &quot;minMag&quot;: 5.0,
+      &quot;preserveChainBelowMag&quot;: true,
+      &quot;descendantsOnly&quot;: false
+    }
+  ],
+  &quot;forceRecalc&quot;: false,
+  &quot;simulationName&quot;: &quot;Start 1919, 100 yr, Spontaneous, Historical Catalog&quot;,
+  &quot;numRetries&quot;: 3,
+  &quot;outputDir&quot;: &quot;${ETAS_SIM_DIR}/2019_08_27-Start1919_100yr_Spontaneous_HistoricalCatalog-includeSpont-histCatalog-full_td-scale1.14&quot;,
+  &quot;triggerCatalog&quot;: &quot;${ETAS_LAUNCHER}/inputs/u3_historical_catalog.txt&quot;,
+  &quot;triggerCatalogSurfaceMappings&quot;: &quot;${ETAS_LAUNCHER}/inputs/u3_historical_catalog_finite_fault_mappings.xml&quot;,
+  &quot;treatTriggerCatalogAsSpontaneous&quot;: true,
+  &quot;cacheDir&quot;: &quot;${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba&quot;,
+  &quot;fssFile&quot;: &quot;${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip&quot;,
+  &quot;probModel&quot;: &quot;FULL_TD&quot;,
+  &quot;applySubSeisForSupraNucl&quot;: true,
+  &quot;totRateScaleFactor&quot;: 1.14,
+  &quot;gridSeisCorr&quot;: true,
+  &quot;timeIndependentERF&quot;: false,
+  &quot;griddedOnly&quot;: false,
+  &quot;imposeGR&quot;: false,
+  &quot;includeIndirectTriggering&quot;: true,
+  &quot;gridSeisDiscr&quot;: 0.1,
+  &quot;catalogCompletenessModel&quot;: &quot;RELAXED&quot;,
+  &quot;configCommand&quot;: &quot;u3etas_config_builder.sh --start-year 1919 --num-simulations 1000 --duration-years 100 --include-spontaneous --historical-catalog --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec&quot;,
+  &quot;configTime&quot;: 1566932682299
+}
+</code></pre>
+</body>
+</html>
