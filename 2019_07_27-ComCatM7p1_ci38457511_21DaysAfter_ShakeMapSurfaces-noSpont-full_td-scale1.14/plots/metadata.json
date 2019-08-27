@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1566819331549,
-  "plotEndTime": 1566820932479,
+  "plotStartTime": 1566894611498,
+  "plotEndTime": 1566895721250,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_07_27-ComCatM7p1_ci38457511_21DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/results_complete.bin"
   },
-  "launcherGitHash": "b0fd74af37cb86b5c5a1e496b3852415963325c5",
-  "launcherGitTime": 1566346036000,
+  "launcherGitHash": "9b7dde01d03b5d7878fe8ea6638cc15fdd77ff58",
+  "launcherGitTime": 1566865067000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
@@ -671,20 +671,22 @@
     },
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
-      "version": 5,
-      "time": 1566819331549,
+      "version": 6,
+      "time": 1566894611498,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc\u003d3.0",
         "",
-        "Last updated at 2019/08/26 11:35:50 UTC, 1 mo after the simulation start time",
+        "Last updated at 2019/08/27 08:30:25 UTC, 1 mo after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
         "",
-        "![MND](plots/comcat_compare_mag_num.png)",
+        "| Incremental MND | Cumulative MND |",
+        "|-----|-----|",
+        "| ![Incremental MND](plots/comcat_compare_mag_num.png) | ![Cumi MND](plots/comcat_compare_mag_num_cumulative.png) |",
         "",
         "### ComCat Cumulative Number Vs Time",
         "*[(top)](#table-of-contents)*",

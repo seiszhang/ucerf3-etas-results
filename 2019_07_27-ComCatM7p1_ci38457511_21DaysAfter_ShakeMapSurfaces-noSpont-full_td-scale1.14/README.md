@@ -691,12 +691,14 @@ These are map plots of individual catalogs from the simulations, selected as the
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc=3.0
 
-Last updated at 2019/08/26 11:35:50 UTC, 1 mo after the simulation start time
+Last updated at 2019/08/27 08:30:25 UTC, 1 mo after the simulation start time
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
 
-![MND](plots/comcat_compare_mag_num.png)
+| Incremental MND | Cumulative MND |
+|-----|-----|
+| ![Incremental MND](plots/comcat_compare_mag_num.png) | ![Cumi MND](plots/comcat_compare_mag_num_cumulative.png) |
 
 ### ComCat Cumulative Number Vs Time
 *[(top)](#table-of-contents)*

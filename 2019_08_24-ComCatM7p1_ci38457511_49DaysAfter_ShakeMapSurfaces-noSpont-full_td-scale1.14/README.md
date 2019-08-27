@@ -12,6 +12,7 @@
 |   | Last: M2.51 at 2019/08/23 23:52:22 UTC |
 |   | Largest: M7.1 at 2019/07/06 03:19:53 UTC |
 | Historical Ruptures | *(none)* |
+| Config Generated With | u3etas_comcat_event_config_builder.sh --event-id ci38457511 --num-simulations 100000 --days-before 7 --days-after 49 --finite-surf-shakemap --finite-surf-shakemap-min-mag 5 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec |
 
 ## Table Of Contents
 
@@ -692,12 +693,14 @@ These are map plots of individual catalogs from the simulations, selected as the
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc=3.1
 
-Last updated at 2019/08/26 16:38:49 UTC, 2.6 d after the simulation start time
+Last updated at 2019/08/27 00:46:57 UTC, 2.9 d after the simulation start time
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
 
-![MND](plots/comcat_compare_mag_num.png)
+| Incremental MND | Cumulative MND |
+|-----|-----|
+| ![Incremental MND](plots/comcat_compare_mag_num.png) | ![Cumi MND](plots/comcat_compare_mag_num_cumulative.png) |
 
 ### ComCat Cumulative Number Vs Time
 *[(top)](#table-of-contents)*
@@ -714,14 +717,14 @@ Last updated at 2019/08/26 16:38:49 UTC, 2.6 d after the simulation start time
 ### ComCat Mean Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 2.6 Day |
+|  | 1 Day | 2.9 Day |
 |-----|-----|-----|
-| **M≥3.1** | ![Map](plots/comcat_compare_mean_1d_m3.1.png) | ![Map](plots/comcat_compare_mean_2.6d_m3.1.png) |
-| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_2.6d_m4.png) |
-| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_2.6d_m5.png) |
-| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_2.6d_m6.png) |
-| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_2.6d_m7.png) |
-| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_2.6d_m8.png) |
+| **M≥3.1** | ![Map](plots/comcat_compare_mean_1d_m3.1.png) | ![Map](plots/comcat_compare_mean_2.9d_m3.1.png) |
+| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_2.9d_m4.png) |
+| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_2.9d_m5.png) |
+| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_2.9d_m6.png) |
+| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_2.9d_m7.png) |
+| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_2.9d_m8.png) |
 
 ### ComCat Depth Distribution
 *[(top)](#table-of-contents)*
