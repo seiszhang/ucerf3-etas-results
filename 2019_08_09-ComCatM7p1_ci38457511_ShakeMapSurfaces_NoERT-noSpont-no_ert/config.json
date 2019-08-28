@@ -2703,6 +2703,7 @@
     "maxDepth": 24.0,
     "minMag": 2.5,
     "startTime": 1561778393040,
-    "endTime": 1562383193041
+    "endTime": 1562383193041,
+    "magComplete": 3.5
   }
 }
