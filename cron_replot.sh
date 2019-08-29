@@ -22,7 +22,7 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
 
 cd $DIR
 
-./replot_build_index.sh --update-interval 60 $@
+./replot_build_index.sh $@
 
 echo
 echo "************* DONE PLOTTING **************"
