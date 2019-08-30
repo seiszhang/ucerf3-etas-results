@@ -1,17 +1,17 @@
 {
-  "plotStartTime": 1567107271122,
-  "plotEndTime": 1567107272735,
+  "plotStartTime": 1567140507265,
+  "plotEndTime": 1567140537384,
   "simulationsProcessed": 1000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_08_27-Start1919_100yr_Log10_k_2p31_p1p08_c0p04_Spontaneous-includeSpont-full_td-scale1.14-modParams/results_m5_preserve_chain.bin"
   },
-  "launcherGitHash": "197bff71c18ed2413c423e37c29c0573e44fe38c",
-  "launcherGitTime": 1567102454000,
+  "launcherGitHash": "b77172a24685e29ad96feaf0a6abb2935f976efe",
+  "launcherGitTime": 1567126538000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
-      "version": 1,
-      "time": 1567068971383,
+      "version": 2,
+      "time": 1567140507265,
       "markdown": [
         "## Magnitude Frequency Distribution",
         "*[(top)](#table-of-contents)*",
