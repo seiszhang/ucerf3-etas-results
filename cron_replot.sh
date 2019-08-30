@@ -7,6 +7,7 @@ date
 echo "******************************************"
 export ETAS_LAUNCHER=/home/scec-02/kmilner/ucerf3/ucerf3-etas-launcher
 export ETAS_SIM_DIR=/home/scec-02/kmilner/ucerf3/etas_sim
+export ETAS_MEM_GB=80
 
 LOCKFILE=/tmp/${USER}_etas_lock.txt
 if [ -e ${LOCKFILE} ] && kill -0 `cat ${LOCKFILE}`; then
