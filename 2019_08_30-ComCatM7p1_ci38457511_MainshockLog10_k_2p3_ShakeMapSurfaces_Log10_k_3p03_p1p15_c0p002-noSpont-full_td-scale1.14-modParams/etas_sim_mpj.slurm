@@ -18,7 +18,7 @@
 ## ETAS PARAMETERS ##
 
 # path to the JSON configuration file
-ETAS_CONF_JSON=${ETAS_SIM_DIR}/2019_08_30-Start1919_1000yr_Log10_k_2p31_p1p08_c0p04_ScaleFactor1p0_Spontaneous_HistoricalCatalog-includeSpont-histCatalog-full_td-modParams/config.json
+ETAS_CONF_JSON=${ETAS_SIM_DIR}/2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002-noSpont-full_td-scale1.14-modParams/config.json
 
 ## JAVA/MPJ PARAMETERS ##
 

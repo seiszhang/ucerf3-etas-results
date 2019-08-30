@@ -1,9 +1,9 @@
 {
-  "plotStartTime": 1567204478765,
-  "plotEndTime": 1567204512934,
+  "plotStartTime": 1567208080130,
+  "plotEndTime": 1567208099678,
   "simulationsProcessed": 0,
   "dataFile": {
-    "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_08_30-Start1919_1000yr_Log10_k_2p31_p1p08_c0p04_ScaleFactor1p0_Spontaneous_HistoricalCatalog-includeSpont-histCatalog-full_td-modParams/results"
+    "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_08_30-Start1919_500yr_Log10_k_2p31_p1p08_c0p04_ScaleFactor1p0_Spontaneous_HistoricalCatalog-includeSpont-histCatalog-full_td-modParams/results"
   },
   "launcherGitHash": "c1b8003c5a9323fe499f1fb8d03361c3998a6fb1",
   "launcherGitTime": 1567203404000,
@@ -11,7 +11,7 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_FaultParticipationPlot",
       "version": 1,
-      "time": 1567204478765,
+      "time": 1567208080130,
       "markdown": [
         "## Section Participation",
         "*[(top)](#table-of-contents)*",
