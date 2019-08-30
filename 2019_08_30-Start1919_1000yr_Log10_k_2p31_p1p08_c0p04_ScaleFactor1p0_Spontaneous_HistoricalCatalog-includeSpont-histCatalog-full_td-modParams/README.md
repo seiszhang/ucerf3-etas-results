@@ -1,8 +1,33 @@
-# Start 1919, 1000 yr, Log10(k)=-2.31, p=1.08, c=0.04, Scale Factor 1.0, Spontaneous, Historical Catalog
+# Start 1919, 1000 yr, Log10(k)=-2.31, p=1.08, c=0.04, Scale Factor 1.0, Spontaneous, Historical Catalog Results
 
-No simulation results are yet available.
+|   | Start 1919, 1000 yr, Log10(k)=-2.31, p=1.08, c=0.04, Scale Factor 1.0, Spontaneous, Historical Catalog |
+|-----|-----|
+| Num Simulations | 0 (incomplete) |
+| Start Time | 1919/01/01 00:00:00 UTC |
+| Start Time Epoch Milliseconds | -1609459200000 |
+| Duration | 1000 Years |
+| Includes Spontaneous? | true |
+| Trigger Ruptures | *(none)* |
+| Historical Ruptures | 165 Trigger Ruptures |
+|   | First: M7.3 at 1852/01/05 04:40:39 UTC |
+|   | Last: M6.5 at 1918/07/15 00:24:39 UTC |
+|   | Largest: M7.9 at 1857/01/09 16:25:39 UTC |
+| Config Generated With | u3etas_config_builder.sh --start-year 1919 --num-simulations 500 --duration-years 1000 --include-spontaneous --historical-catalog --etas-k -2.31 --etas-p 1.08 --etas-c 0.04 --scale-factor 1.0 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec |
+
+## Table Of Contents
+
+* [Section Participation](#section-participation)
+* [JSON Input File](#json-input-file)
+
+## Section Participation
+*[(top)](#table-of-contents)*
+
+No supra-seismogenic ruptures in any catalog
+
 
 ## JSON Input File
+*[(top)](#table-of-contents)*
+
 ```
 {
   "numSimulations": 500,

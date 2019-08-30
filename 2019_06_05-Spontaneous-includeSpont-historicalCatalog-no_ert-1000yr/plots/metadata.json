@@ -1,17 +1,17 @@
 {
-  "plotStartTime": 1567125830655,
-  "plotEndTime": 1567125851057,
+  "plotStartTime": 1567206245310,
+  "plotEndTime": 1567206283982,
   "simulationsProcessed": 1000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_06_05-Spontaneous-includeSpont-historicalCatalog-no_ert-1000yr/results_m5_preserve_chain.bin"
   },
-  "launcherGitHash": "197bff71c18ed2413c423e37c29c0573e44fe38c",
-  "launcherGitTime": 1567102454000,
+  "launcherGitHash": "c1b8003c5a9323fe499f1fb8d03361c3998a6fb1",
+  "launcherGitTime": 1567203404000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
-      "version": 1,
-      "time": 1564806114055,
+      "version": 2,
+      "time": 1567206245310,
       "markdown": [
         "## Magnitude Frequency Distribution",
         "*[(top)](#table-of-contents)*",
@@ -278,6 +278,18 @@
         "| **800.0** | 8.585639 | 8.59375 | 8.60125 | 0.31719527 | 7.91375 | 8.27125 | 8.90125 | 9.18125 |",
         "| **900.0** | 8.582465 | 8.593333 | 8.62 | 0.30177572 | 7.9466667 | 8.295555 | 8.887777 | 9.132222 |",
         "| **1000.0** | 8.580552 | 8.592 | 8.819 | 0.28859344 | 7.981 | 8.294 | 8.862 | 9.121 |",
+        ""
+      ]
+    },
+    {
+      "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_StationarityPlot",
+      "version": 1,
+      "time": 1567206245310,
+      "markdown": [
+        "## Simulation Stationarity",
+        "*[(top)](#table-of-contents)*",
+        "",
+        "![Stationarity Plot](plots/stationarity.png)",
         ""
       ]
     },

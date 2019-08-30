@@ -18,6 +18,7 @@
   * [80 Year Variability](#80-year-variability)
   * [28 Year Variability](#28-year-variability)
   * [Variability Duration Dependence](#variability-duration-dependence)
+* [Simulation Stationarity](#simulation-stationarity)
 * [Section Participation](#section-participation)
   * [Section Participation Plots](#section-participation-plots)
   * [Supra-Seismogenic Parent Sections Table](#supra-seismogenic-parent-sections-table)
@@ -252,6 +253,12 @@
 | **96.0** | 7.473104 | 7.3854165 | 7.3020835 | 0.8167764 | 6.09375 | 6.6770835 | 8.260417 | 9.3125 |
 | **98.0** | 7.470592 | 7.377551 | 7.6530614 | 0.80855864 | 6.112245 | 6.6938777 | 8.244898 | 9.27551 |
 | **100.0** | 7.46682 | 7.37 | 7.15 | 0.8024234 | 6.1 | 6.69 | 8.26 | 9.25 |
+
+
+## Simulation Stationarity
+*[(top)](#table-of-contents)*
+
+![Stationarity Plot](plots/stationarity.png)
 
 
 ## Section Participation

@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1567140474944,
-  "plotEndTime": 1567140505581,
+  "plotStartTime": 1567204549566,
+  "plotEndTime": 1567204566962,
   "simulationsProcessed": 1000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_08_27-Start1919_100yr_Log10_k_2p31_p1p08_c0p04_Spontaneous_HistoricalCatalog-includeSpont-histCatalog-full_td-scale1.14-modParams/results_m5_preserve_chain.bin"
   },
-  "launcherGitHash": "b77172a24685e29ad96feaf0a6abb2935f976efe",
-  "launcherGitTime": 1567126538000,
+  "launcherGitHash": "c1b8003c5a9323fe499f1fb8d03361c3998a6fb1",
+  "launcherGitTime": 1567203404000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
@@ -243,6 +243,18 @@
         "| **96.0** | 7.965854 | 7.8958335 | 7.53125 | 0.69659644 | 6.7708335 | 7.2708335 | 8.625 | 9.489583 |",
         "| **98.0** | 7.9681325 | 7.897959 | 7.877551 | 0.686965 | 6.785714 | 7.2959185 | 8.642858 | 9.438775 |",
         "| **100.0** | 7.972 | 7.91 | 8.4 | 0.6838336 | 6.78 | 7.29 | 8.62 | 9.52 |",
+        ""
+      ]
+    },
+    {
+      "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_StationarityPlot",
+      "version": 1,
+      "time": 1567204549566,
+      "markdown": [
+        "## Simulation Stationarity",
+        "*[(top)](#table-of-contents)*",
+        "",
+        "![Stationarity Plot](plots/stationarity.png)",
         ""
       ]
     },
