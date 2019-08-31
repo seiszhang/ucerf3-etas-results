@@ -2,7 +2,7 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2019/08/30 | [ComCat M7.1 (ci38457511), ShakeMap Surface (Version 10)](2019_08_30-ComCatM7p1_ci38457511_ShakeMapSurface_Version10-noSpont-full_td-scale1.14/README.md) | 2019/07/05 | 100000 | 74.8% | 2019/08/31 |
+| 2019/08/30 | [ComCat M7.1 (ci38457511), ShakeMap Surface (Version 10)](2019_08_30-ComCatM7p1_ci38457511_ShakeMapSurface_Version10-noSpont-full_td-scale1.14/README.md) | 2019/07/05 | 100000 | 95.8% | 2019/08/31 |
 | 2019/08/30 | [Start 1919, 500 yr, Log10(k)=-2.31, p=1.08, c=0.04, Scale Factor 1.0, Spontaneous, Historical Catalog](2019_08_30-Start1919_500yr_Log10_k_2p31_p1p08_c0p04_ScaleFactor1p0_Spontaneous_HistoricalCatalog-includeSpont-histCatalog-full_td-modParams/README.md) | 1918/12/31 | 1000 | Done | 2019/08/30 |
 | 2019/08/30 | [ComCat M7.1 (ci38457511), Mainshock Log10(k)=-2.3, ShakeMap Surfaces, Log10(k)=-3.03, p=1.15, c=0.002](2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002-noSpont-full_td-scale1.14-modParams/README.md) | 2019/07/05 | 100000 | Done | 2019/08/31 |
 | 2019/08/28 | [ComCat M7.1 (ci38457511), Mainshock Log10(k)=-2.2412, ShakeMap Surfaces, Log10(k)=-2.666, p=1.07133, c=8.0307E-4](2019_08_28-ComCatM7p1_ci38457511_MainshockLog10_k_2p2412_ShakeMapSurfaces_Log10_k_2p666_p1p07133_c8p0307E4-noSpont-full_td-scale1.14-modParams/README.md) | 2019/07/05 | 100000 | Done | 2019/08/30 |
