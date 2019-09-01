@@ -1,314 +1,314 @@
 Parent ID,Parent Name,Total Mean Annual Rate,Total 500 Year Prob
-861,Airport Lake,1.6890596E-4,0.08445297
-667,Almanor 2011 CFM,4.2610365E-4,0.19769673
-219,Anacapa-Dume alt 1,1.4587332E-4,0.07101727
-197,Anaheim,1.9193858E-5,0.009596929
-722,Antelope Valley 2011,3.7236084E-4,0.18426104
-845,Ash Hill,2.1497121E-4,0.10556622
-881,Baker,6.1420345E-5,0.030710172
-668,Bartlett Springs 2011 CFM,0.0013013436,0.5201535
-669,Battle Creek 2011 CFM,9.9808065E-5,0.04990403
-842,Bear River fault zone,2.955854E-4,0.13819578
-581,Bennett Valley 2011 CFM,4.184261E-4,0.2034549
-158,Bicycle Lake,2.533589E-4,0.12667947
-741,Big Lagoon - Bald Mtn 2011 CFM,5.6046067E-4,0.25143954
-192,Big Pine (Central),9.596929E-5,0.047984645
-191,Big Pine (East),2.3416507E-4,0.117082536
-200,Big Pine (West),3.8387716E-6,0.0019193857
-87,Blackwater,1.497121E-4,0.07485604
-169,Blue Cut,3.4548945E-4,0.16890594
-170,Brawley (Seismic Zone) alt 1,0.0067140115,0.99040306
-541,Breckenridge 2011,1.5355086E-5,0.007677543
-882,Bullion Mountains,2.303263E-4,0.11132438
-94,Burnt Mtn,3.262956E-4,0.16314779
-561,Butano 2011 CFM,3.5316698E-4,0.15930901
-165,Cady,1.7658349E-4,0.08445297
-602,Calaveras (Central) 2011 CFM,0.0034587332,0.85796547
-601,Calaveras (No) 2011 CFM,0.0015201536,0.60076773
-621,Calaveras (So) - Paicines extension 2011 CFM,0.0032783109,0.84452975
-603,Calaveras (So) 2011 CFM,0.0027178503,0.756238
-88,Calico-Hidalgo,5.4510555E-4,0.23992322
-724,Camp Rock 2011,1.7274472E-4,0.08445297
-173,Canada David (Detachment),7.677543E-5,0.038387716
-176,Carlsbad,1.1900192E-4,0.05950096
-721,Carson Range (Genoa),5.259117E-4,0.24952015
-670,Casmalia 2011 CFM,1.1516315E-4,0.057581574
-34,Cedar Mtn-Mahogany Mtn,2.6103648E-4,0.12092131
-172,Cerro Prieto,0.010026871,0.9980806
-129,Channel Islands Thrust,9.213052E-4,0.38579655
-214,Channel Islands Western Deep Ramp,2.8023034E-4,0.13051823
-238,Chino alt 1,4.7984644E-4,0.21689059
-124,Clamshell-Sawpit,8.445298E-5,0.042226486
-844,Clayton,2.034549E-4,0.10172745
-81,Cleghorn,1.4587332E-4,0.07293666
-884,Cleghorn Lake,4.069098E-4,0.18618043
+861,Airport Lake,1.54E-4,0.077
+667,Almanor 2011 CFM,4.0E-4,0.188
+219,Anacapa-Dume alt 1,1.3E-4,0.064
+197,Anaheim,2.0E-5,0.01
+722,Antelope Valley 2011,3.78E-4,0.184
+845,Ash Hill,2.16E-4,0.107
+881,Baker,8.0E-5,0.04
+668,Bartlett Springs 2011 CFM,0.001316,0.527
+669,Battle Creek 2011 CFM,1.14E-4,0.057
+842,Bear River fault zone,2.96E-4,0.142
+581,Bennett Valley 2011 CFM,4.44E-4,0.213
+158,Bicycle Lake,2.3E-4,0.115
+741,Big Lagoon - Bald Mtn 2011 CFM,6.16E-4,0.27
+192,Big Pine (Central),1.0E-4,0.049
+191,Big Pine (East),2.48E-4,0.123
+200,Big Pine (West),6.0E-6,0.003
+87,Blackwater,1.64E-4,0.081
+169,Blue Cut,3.04E-4,0.15
+170,Brawley (Seismic Zone) alt 1,0.006726,0.991
+541,Breckenridge 2011,1.0E-5,0.005
+882,Bullion Mountains,2.36E-4,0.116
+94,Burnt Mtn,3.6E-4,0.18
+561,Butano 2011 CFM,3.48E-4,0.162
+165,Cady,1.88E-4,0.09
+602,Calaveras (Central) 2011 CFM,0.003536,0.863
+601,Calaveras (No) 2011 CFM,0.001536,0.599
+621,Calaveras (So) - Paicines extension 2011 CFM,0.003336,0.841
+603,Calaveras (So) 2011 CFM,0.002774,0.783
+88,Calico-Hidalgo,5.56E-4,0.254
+724,Camp Rock 2011,1.62E-4,0.079
+173,Canada David (Detachment),7.2E-5,0.036
+176,Carlsbad,1.22E-4,0.06
+721,Carson Range (Genoa),5.36E-4,0.256
+670,Casmalia 2011 CFM,1.08E-4,0.054
+34,Cedar Mtn-Mahogany Mtn,2.32E-4,0.111
+172,Cerro Prieto,0.010182,0.999
+129,Channel Islands Thrust,8.74E-4,0.372
+214,Channel Islands Western Deep Ramp,2.62E-4,0.123
+238,Chino alt 1,4.76E-4,0.22
+124,Clamshell-Sawpit,9.0E-5,0.044
+844,Clayton,2.1E-4,0.105
+81,Cleghorn,1.64E-4,0.08
+884,Cleghorn Lake,3.92E-4,0.184
 883,Cleghorn Pass,0.0,0.0
-582,Collayami 2011 CFM,6.525912E-5,0.032629557
-184,Compton,2.1113244E-4,0.10172745
-622,Concord 2011 CFM,8.099808E-4,0.3512476
-626,Contra Costa (Lafayette) 2011 CFM,1.7658349E-4,0.08637236
-633,Contra Costa Shear Zone (connector) 2011 CFM,2.0729366E-4,0.10364683
-776,Coronado Bank alt1,5.335893E-4,0.2591171
-157,Coyote Canyon,6.333973E-4,0.28982726
-163,Coyote Lake,3.761996E-4,0.18234165
-125,Cucamonga,3.2245682E-4,0.15738964
-894,Davis Creek,5.3742802E-5,0.026871402
-245,Death Valley (Black Mtns Frontal),3.646833E-4,0.17850287
-45,Death Valley (Fish Lake Valley),5.297505E-4,0.24952015
-46,Death Valley (No),4.069098E-4,0.19961612
-246,Death Valley (So),6.8330136E-4,0.31477928
-51,Deep Springs,4.2610365E-4,0.20729366
-230,Del Valle,1.1900192E-4,0.057581574
-889,Dog Valley,7.293666E-5,0.03646833
-888,Dry Mountain,6.1420345E-5,0.030710172
-249,Earthquake Valley,4.3378118E-4,0.21113244
-255,Earthquake Valley (No  Extension),5.259117E-4,0.25335893
-256,Earthquake Valley (So Extension),3.7236084E-4,0.18234165
-671,East Huasna 2011 CFM,2.6871401E-5,0.011516315
-672,Eaton Roughs 2011 CFM,0.0014702495,0.5393474
-96,Elmore Ranch,7.9078693E-4,0.35700575
-103,Elsinore (Coyote Mountains),3.5316698E-4,0.17274472
-296,Elsinore (Glen Ivy) rev,0.0012936661,0.4894434
-102,Elsinore (Julian),1.8426104E-4,0.09213052
-402,Elsinore (Stepovers Combined),4.222649E-4,0.19961612
-299,Elsinore (Temecula) rev,3.2245682E-4,0.1612284
-196,Elysian Park (Lower CFM),1.5355086E-5,0.007677543
-146,Elysian Park (Upper),5.7965453E-4,0.25335893
-90,Emerson-Copper Mtn 2011,3.915547E-4,0.18618043
-95,Eureka Peak,0.0,0.0
-20,Fickle Hill (alt1),1.9193858E-4,0.09213052
-698,Fish Slough 2011 CFM,4.606526E-5,0.02303263
-893,Fitzhugh Creek,3.0710173E-5,0.015355086
-204,Fontana (Seismicity),1.1132438E-4,0.05566219
-634,Franklin 2011 CFM,3.4548945E-4,0.17082533
-699,Garberville - Briceland 2011 CFM,0.0013512477,0.53358924
-159,Garlic Springs,1.5738963E-4,0.07869482
-341,Garlock (Central),0.0010441459,0.45297503
-48,Garlock (East),0.0010863724,0.48368523
-49,Garlock (West),6.4491364E-4,0.30710173
-700,Gillem - Big Crack 2011 CFM,9.213052E-5,0.04606526
-160,Goldstone Lake,6.065259E-4,0.28598848
-701,Goose Lake 2011 CFM,3.0710173E-5,0.015355086
-86,Gravel Hills-Harper Lk,2.6487524E-4,0.13243762
-131,Great Valley 01,1.5355086E-5,0.007677543
-133,Great Valley 02,3.4548946E-5,0.017274473
-132,Great Valley 03 Mysterious Ridge,6.026871E-4,0.2821497
+582,Collayami 2011 CFM,6.0E-5,0.03
+184,Compton,2.16E-4,0.104
+622,Concord 2011 CFM,9.08E-4,0.388
+626,Contra Costa (Lafayette) 2011 CFM,1.76E-4,0.086
+633,Contra Costa Shear Zone (connector) 2011 CFM,2.22E-4,0.11
+776,Coronado Bank alt1,5.52E-4,0.268
+157,Coyote Canyon,6.26E-4,0.283
+163,Coyote Lake,4.02E-4,0.192
+125,Cucamonga,2.84E-4,0.139
+894,Davis Creek,5.8E-5,0.029
+245,Death Valley (Black Mtns Frontal),3.48E-4,0.171
+45,Death Valley (Fish Lake Valley),5.14E-4,0.242
+46,Death Valley (No),4.08E-4,0.2
+246,Death Valley (So),7.04E-4,0.318
+51,Deep Springs,4.4E-4,0.216
+230,Del Valle,1.44E-4,0.071
+889,Dog Valley,8.0E-5,0.04
+888,Dry Mountain,6.6E-5,0.033
+249,Earthquake Valley,4.12E-4,0.2
+255,Earthquake Valley (No  Extension),5.04E-4,0.241
+256,Earthquake Valley (So Extension),3.42E-4,0.168
+671,East Huasna 2011 CFM,3.4E-5,0.016
+672,Eaton Roughs 2011 CFM,0.001416,0.527
+96,Elmore Ranch,7.72E-4,0.343
+103,Elsinore (Coyote Mountains),3.76E-4,0.179
+296,Elsinore (Glen Ivy) rev,0.001204,0.463
+102,Elsinore (Julian),2.14E-4,0.106
+402,Elsinore (Stepovers Combined),4.16E-4,0.199
+299,Elsinore (Temecula) rev,3.26E-4,0.162
+196,Elysian Park (Lower CFM),1.6E-5,0.008
+146,Elysian Park (Upper),5.86E-4,0.261
+90,Emerson-Copper Mtn 2011,3.88E-4,0.183
+95,Eureka Peak,4.0E-6,0.002
+20,Fickle Hill (alt1),1.66E-4,0.081
+698,Fish Slough 2011 CFM,5.0E-5,0.024
+893,Fitzhugh Creek,3.8E-5,0.018
+204,Fontana (Seismicity),1.04E-4,0.052
+634,Franklin 2011 CFM,3.5E-4,0.168
+699,Garberville - Briceland 2011 CFM,0.001348,0.533
+159,Garlic Springs,1.52E-4,0.076
+341,Garlock (Central),0.001066,0.462
+48,Garlock (East),0.001116,0.477
+49,Garlock (West),6.38E-4,0.305
+700,Gillem - Big Crack 2011 CFM,8.4E-5,0.042
+160,Goldstone Lake,6.0E-4,0.284
+701,Goose Lake 2011 CFM,2.0E-5,0.01
+86,Gravel Hills-Harper Lk,2.44E-4,0.121
+131,Great Valley 01,1.8E-5,0.009
+133,Great Valley 02,4.4E-5,0.022
+132,Great Valley 03 Mysterious Ridge,6.3E-4,0.293
 383,Great Valley 03a Dunnigan Hills,0.0,0.0
-134,Great Valley 04a Trout Creek,4.069098E-4,0.19769673
-381,Great Valley 04b Gordon Valley,3.9923226E-4,0.19577736
+134,Great Valley 04a Trout Creek,4.02E-4,0.198
+381,Great Valley 04b Gordon Valley,4.14E-4,0.204
 717,Great Valley 05 Pittsburg - Kirby Hills alt1,0.0,0.0
-645,Great Valley 06 (Midland) 2011 CFM alt1,4.568138E-4,0.2034549
-136,Great Valley 07 (Orestimba),2.1497121E-4,0.10556622
-137,Great Valley 08 (Quinto),1.3819578E-4,0.06909789
-151,Great Valley 09 (Laguna Seca),3.8387717E-4,0.18042226
-138,Great Valley 10 (Panoche),3.1861805E-4,0.15738964
-139,Great Valley 11,2.9174663E-4,0.14587332
-140,Great Valley 12,1.8426104E-4,0.09213052
-142,Great Valley 13 (Coalinga),3.3397312E-4,0.16698657
-141,Great Valley 14 (Kettleman Hills),1.7274472E-4,0.08637236
-623,Green Valley 2011 CFM,0.0017850288,0.63147795
-636,Greenville (No) 2011 CFM,7.447217E-4,0.33397314
-635,Greenville (So) 2011 CFM,5.067178E-4,0.24184261
-702,Hartley Springs 2011 CFM,3.4165068E-4,0.16506718
-37,Hat Creek-McArthur-Mayfield,3.4165068E-4,0.15738964
-639,Hayward (No) 2011 CFM,0.0027255279,0.82725525
-638,Hayward (So) 2011 CFM,0.0068099806,0.9961612
-637,Hayward (So) extension 2011 CFM,0.002099808,0.7024952
-167,Hector Mine,2.6103648E-4,0.12284069
-84,Helendale-So Lockhart,2.68714E-4,0.13243762
-703,Hilton Creek 2011 CFM,4.9520156E-4,0.24568138
-108,Hollywood,2.9174663E-4,0.14011516
-228,Holser alt 1,1.9961613E-4,0.09788868
-723,Homestead Valley 2011,3.0326296E-4,0.14203455
-704,Honey Lake 2011 CFM,5.7581573E-4,0.27447218
-30,Hosgri,4.6449137E-4,0.20537429
-208,Hosgri (Extension),9.9808065E-5,0.04990403
-50,Hunter Mountain-Saline Valley,7.485605E-4,0.34165066
-677,Hunting Creek - Bartlett Springs connector 2011,9.328215E-4,0.4203455
-640,Hunting Creek - Berryessa 2011 CFM,0.0016429942,0.60076773
-97,Imperial,0.0071324375,0.99232244
-678,Incline Village 2011 CFM,3.0710173E-5,0.015355086
-65,Independence rev 2011,2.3416507E-4,0.11516315
-892,Jess Valley,4.606526E-5,0.02303263
-91,Johnson Valley (No) 2011 rev,3.262956E-4,0.15547025
-168,Joshua Tree (Seismicity),2.6871401E-5,0.013435701
-679,Keddie Ridge 2011 CFM,1.0364683E-4,0.051823415
-542,Kern Canyon (Lake Isabella) 2011,3.8387716E-5,0.019193858
-544,Kern Canyon (North Kern) 2011,4.9904032E-5,0.024952015
-543,Kern Canyon (South Kern) 2011,6.909789E-5,0.034548946
-92,Kickapoo,1.07485605E-4,0.051823415
-680,King Range 2011 CFM,2.3416507E-4,0.11516315
-641,La Panza 2011,1.1132438E-4,0.04990403
-104,Laguna Salada,5.412668E-4,0.25143954
-207,Lake Isabella (Seismicity),1.3051824E-4,0.06333973
+645,Great Valley 06 (Midland) 2011 CFM alt1,4.52E-4,0.204
+136,Great Valley 07 (Orestimba),1.98E-4,0.098
+137,Great Valley 08 (Quinto),1.8E-4,0.09
+151,Great Valley 09 (Laguna Seca),3.72E-4,0.179
+138,Great Valley 10 (Panoche),2.92E-4,0.145
+139,Great Valley 11,2.78E-4,0.136
+140,Great Valley 12,1.74E-4,0.086
+142,Great Valley 13 (Coalinga),2.9E-4,0.144
+141,Great Valley 14 (Kettleman Hills),1.5E-4,0.075
+623,Green Valley 2011 CFM,0.001934,0.66
+636,Greenville (No) 2011 CFM,7.7E-4,0.351
+635,Greenville (So) 2011 CFM,5.0E-4,0.242
+702,Hartley Springs 2011 CFM,3.18E-4,0.155
+37,Hat Creek-McArthur-Mayfield,3.68E-4,0.174
+639,Hayward (No) 2011 CFM,0.002748,0.82
+638,Hayward (So) 2011 CFM,0.006764,0.994
+637,Hayward (So) extension 2011 CFM,0.002084,0.692
+167,Hector Mine,2.94E-4,0.14
+84,Helendale-So Lockhart,2.72E-4,0.133
+703,Hilton Creek 2011 CFM,4.56E-4,0.227
+108,Hollywood,2.94E-4,0.144
+228,Holser alt 1,1.74E-4,0.084
+723,Homestead Valley 2011,2.84E-4,0.134
+704,Honey Lake 2011 CFM,5.84E-4,0.274
+30,Hosgri,4.86E-4,0.213
+208,Hosgri (Extension),9.4E-5,0.047
+50,Hunter Mountain-Saline Valley,8.0E-4,0.36
+677,Hunting Creek - Bartlett Springs connector 2011,9.26E-4,0.417
+640,Hunting Creek - Berryessa 2011 CFM,0.001784,0.628
+97,Imperial,0.007082,0.992
+678,Incline Village 2011 CFM,3.2E-5,0.016
+65,Independence rev 2011,2.0E-4,0.099
+892,Jess Valley,4.0E-5,0.02
+91,Johnson Valley (No) 2011 rev,3.5E-4,0.169
+168,Joshua Tree (Seismicity),2.2E-5,0.011
+679,Keddie Ridge 2011 CFM,1.22E-4,0.061
+542,Kern Canyon (Lake Isabella) 2011,4.0E-5,0.02
+544,Kern Canyon (North Kern) 2011,6.6E-5,0.032
+543,Kern Canyon (South Kern) 2011,6.6E-5,0.033
+92,Kickapoo,1.02E-4,0.05
+680,King Range 2011 CFM,2.24E-4,0.111
+641,La Panza 2011,1.0E-4,0.046
+104,Laguna Salada,5.38E-4,0.251
+207,Lake Isabella (Seismicity),1.26E-4,0.062
 642,Las Positas,0.0,0.0
-890,Last Chance,6.909789E-5,0.034548946
-85,Lenwood-Lockhart-Old Woman Springs,5.105566E-4,0.2284069
-705,Likely 2011 CFM,2.3800383E-4,0.117082536
-681,Lions Head 2011 CFM,1.1516315E-5,0.0057581575
-144,Little Lake,2.6487524E-4,0.12859885
-16,Little Salmon (Offshore),6.333973E-4,0.30134356
-17,Little Salmon (Onshore),0.0014817659,0.65834934
-683,Los Alamos 2011 CFM,2.7255277E-4,0.134357
-780,Los Alamos extension,2.3800383E-4,0.11516315
-643,Los Medanos - Roe Island,1.5355086E-5,0.007677543
-74,Los Osos 2011,8.445298E-5,0.042226486
-201,Lost Hills,4.222649E-4,0.20921305
-166,Ludlow,2.0729366E-4,0.09980806
-644,Maacama 2011 CFM,0.002790787,0.76391554
-22,Mad River (alt1),4.184261E-4,0.19001919
-221,Malibu Coast (Extension) alt 1,1.5355086E-4,0.07101727
-220,Malibu Coast alt 1,1.9193858E-4,0.0940499
-164,Manix-Afton Hills,3.1477926E-4,0.14587332
-21,McKinleyville (alt1),5.6046067E-4,0.2571977
-155,McLean Lake,3.761996E-4,0.18618043
-13,Mendocino,0.007059501,0.96928984
-605,Mission (connected) 2011 CFM,4.8368523E-4,0.22264875
-250,Mission Creek,3.646833E-4,0.16890594
-779,Mission Hills 2011,1.3819578E-4,0.065259114
-78,Mission Ridge-Arroyo Parida-Santa Ana,4.6833014E-4,0.20921305
-686,Mohawk Valley 2011 CFM,2.2648752E-4,0.10940499
-707,Mono Lake 2011 CFM,4.6833014E-4,0.22648752
-646,Monte Vista - Shannon 2011 CFM,0.0012898273,0.54702497
-11,Monterey Bay-Tularcitos,4.3761995E-4,0.19961612
-188,Morales (East),1.5355086E-5,0.007677543
-187,Morales (West),1.9193858E-5,0.009596929
-711,Mount Diablo Thrust North CFM,3.6084454E-4,0.1765835
-713,Mount Diablo Thrust South,3.3013435E-4,0.15738964
-156,Nelson Lake,2.1113244E-4,0.09596929
-122,Newport-Inglewood (Offshore),2.7255277E-4,0.12667947
-235,Newport-Inglewood alt 1,2.6103648E-4,0.12476008
-83,North Frontal  (East),1.880998E-4,0.0940499
-82,North Frontal  (West),1.4203455E-4,0.06909789
-199,North Salt Lake,1.9193858E-5,0.009596929
-687,North Tahoe 2011 CFM,1.34357E-4,0.0671785
-130,Northridge,4.1074856E-4,0.18618043
-211,Northridge Hills,1.34357E-4,0.0671785
-116,Oak Ridge (Onshore),8.6372363E-4,0.35700575
-709,Oceanic - West Huasna,3.3397312E-4,0.15355086
-777,Oceanside alt1,2.955854E-4,0.13819578
-921,Ortigalita (North),8.829175E-4,0.3512476
-9,Ortigalita (South),6.1036466E-4,0.28790787
-64,Owens Valley,3.915547E-4,0.18618043
-891,Owens Valley Keough Hot Springs,1.07485605E-4,0.053742804
-47,Owl Lake,6.641075E-4,0.30326295
-841,Ozena,5.3742802E-5,0.026871402
-109,Palos Verdes,6.257198E-4,0.28790787
-244,Panamint Valley,7.869482E-4,0.34932822
-162,Paradise,3.1477926E-4,0.14587332
-186,Peralta Hills,2.6871401E-5,0.013435701
-647,Pilarcitos 2011 CFM,2.034549E-4,0.09980806
-193,Pine Mtn,2.8023034E-4,0.1362764
-93,Pinto Mtn,0.0010211132,0.40307102
-89,Pisgah-Bullion Mtn-Mesquite Lk,4.4913628E-4,0.20921305
-212,Pitas Point (Lower West),3.1861805E-4,0.15738964
-215,Pitas Point (Lower)-Montalvo,2.0729366E-4,0.10364683
-688,Pittville 2011 CFM,7.677543E-5,0.03646833
-58,Pleito,9.904031E-4,0.43953934
-666,Point Reyes 2011 CFM,1.07485605E-4,0.053742804
-843,Point Reyes 2011 connector,3.8387716E-5,0.019193858
-545,Polaris 2011 CFM,1.2284069E-4,0.05950096
-240,Puente Hills,2.4568138E-4,0.11900192
-648,Quien Sabe 2011 CFM,9.213052E-5,0.04606526
-152,Raymond,4.4145875E-4,0.20729366
-118,Red Mountain,0.001209213,0.46449137
-161,Red Pass,2.6871401E-5,0.013435701
-232,Redondo Canyon alt 1,5.3742802E-5,0.026871402
-649,Reliz 2011 CFM,1.7274472E-4,0.0806142
-205,Richfield,3.8387716E-6,0.0019193857
-650,Rinconada 2011 CFM,1.8426104E-4,0.08637236
+890,Last Chance,6.6E-5,0.033
+85,Lenwood-Lockhart-Old Woman Springs,4.9E-4,0.221
+705,Likely 2011 CFM,2.2E-4,0.107
+681,Lions Head 2011 CFM,8.0E-6,0.004
+144,Little Lake,2.58E-4,0.126
+16,Little Salmon (Offshore),6.46E-4,0.31
+17,Little Salmon (Onshore),0.001522,0.662
+683,Los Alamos 2011 CFM,2.66E-4,0.13
+780,Los Alamos extension,2.38E-4,0.117
+643,Los Medanos - Roe Island,2.8E-5,0.014
+74,Los Osos 2011,1.08E-4,0.052
+201,Lost Hills,4.2E-4,0.207
+166,Ludlow,2.02E-4,0.099
+644,Maacama 2011 CFM,0.002724,0.768
+22,Mad River (alt1),4.18E-4,0.191
+221,Malibu Coast (Extension) alt 1,1.36E-4,0.065
+220,Malibu Coast alt 1,1.6E-4,0.079
+164,Manix-Afton Hills,3.1E-4,0.144
+21,McKinleyville (alt1),5.54E-4,0.255
+155,McLean Lake,3.42E-4,0.17
+13,Mendocino,0.007104,0.976
+605,Mission (connected) 2011 CFM,4.72E-4,0.209
+250,Mission Creek,4.1E-4,0.188
+779,Mission Hills 2011,1.24E-4,0.06
+78,Mission Ridge-Arroyo Parida-Santa Ana,4.5E-4,0.206
+686,Mohawk Valley 2011 CFM,2.46E-4,0.119
+707,Mono Lake 2011 CFM,4.7E-4,0.229
+646,Monte Vista - Shannon 2011 CFM,0.001334,0.561
+11,Monterey Bay-Tularcitos,4.22E-4,0.198
+188,Morales (East),2.2E-5,0.011
+187,Morales (West),2.0E-5,0.01
+711,Mount Diablo Thrust North CFM,3.86E-4,0.188
+713,Mount Diablo Thrust South,3.52E-4,0.17
+156,Nelson Lake,1.76E-4,0.083
+122,Newport-Inglewood (Offshore),2.62E-4,0.125
+235,Newport-Inglewood alt 1,3.0E-4,0.139
+83,North Frontal  (East),1.82E-4,0.091
+82,North Frontal  (West),1.4E-4,0.069
+199,North Salt Lake,1.8E-5,0.009
+687,North Tahoe 2011 CFM,1.52E-4,0.076
+130,Northridge,4.24E-4,0.192
+211,Northridge Hills,1.34E-4,0.067
+116,Oak Ridge (Onshore),8.36E-4,0.354
+709,Oceanic - West Huasna,3.32E-4,0.152
+777,Oceanside alt1,3.32E-4,0.158
+921,Ortigalita (North),9.58E-4,0.375
+9,Ortigalita (South),6.22E-4,0.293
+64,Owens Valley,4.06E-4,0.192
+891,Owens Valley Keough Hot Springs,1.34E-4,0.066
+47,Owl Lake,6.42E-4,0.301
+841,Ozena,5.4E-5,0.027
+109,Palos Verdes,6.6E-4,0.304
+244,Panamint Valley,7.86E-4,0.349
+162,Paradise,3.14E-4,0.15
+186,Peralta Hills,3.4E-5,0.017
+647,Pilarcitos 2011 CFM,1.78E-4,0.087
+193,Pine Mtn,2.78E-4,0.134
+93,Pinto Mtn,0.001018,0.414
+89,Pisgah-Bullion Mtn-Mesquite Lk,4.94E-4,0.226
+212,Pitas Point (Lower West),3.42E-4,0.166
+215,Pitas Point (Lower)-Montalvo,2.22E-4,0.111
+688,Pittville 2011 CFM,7.8E-5,0.038
+58,Pleito,0.001012,0.461
+666,Point Reyes 2011 CFM,1.06E-4,0.053
+843,Point Reyes 2011 connector,5.6E-5,0.028
+545,Polaris 2011 CFM,1.34E-4,0.065
+240,Puente Hills,2.2E-4,0.107
+648,Quien Sabe 2011 CFM,1.02E-4,0.051
+152,Raymond,4.3E-4,0.206
+118,Red Mountain,0.001184,0.46
+161,Red Pass,2.8E-5,0.014
+232,Redondo Canyon alt 1,7.0E-5,0.034
+649,Reliz 2011 CFM,2.26E-4,0.108
+205,Richfield,6.0E-6,0.003
+650,Rinconada 2011 CFM,1.78E-4,0.085
 38,Robinson Creek,0.0,0.0
 689,Rocky Ledge 2011 CFM,0.0,0.0
-651,Rodgers Creek - Healdsburg 2011 CFM,0.0021151633,0.7428023
-123,Rose Canyon,4.721689E-4,0.21880998
-42,Round Valley,1.9193858E-4,0.09596929
-690,Russ 2011 CFM,5.8349327E-4,0.268714
-287,San Andreas (Big Bend),0.003865643,0.99040306
-300,San Andreas (Carrizo) rev,0.004825336,1.0
-285,San Andreas (Cholame) rev,0.0050211134,1.0
-295,San Andreas (Coachella) rev,0.00449904,0.9846449
-658,San Andreas (Creeping Section) 2011 CFM,0.009147793,0.9961612
-286,San Andreas (Mojave N),0.004019194,0.9980806
-301,San Andreas (Mojave S),0.0059769675,0.9980806
-294,San Andreas (North Branch Mill Creek),4.7984644E-4,0.2284069
-654,San Andreas (North Coast) 2011 CFM,0.003900192,0.9808061
-653,San Andreas (Offshore) 2011 CFM,0.00462572,0.9788868
-32,San Andreas (Parkfield),0.0038042227,0.9443378
-655,San Andreas (Peninsula) 2011 CFM,0.0030326296,0.9193858
-282,San Andreas (San Bernardino N),0.0056084455,0.9961612
-283,San Andreas (San Bernardino S),0.0043915547,0.975048
-284,San Andreas (San Gorgonio Pass-Garnet HIll),0.0035547025,0.9443378
-657,San Andreas (Santa Cruz Mts) 2011 CFM,0.0058733206,0.99040306
-80,San Cayetano,5.950096E-4,0.2725528
-178,San Clemente,6.372361E-4,0.28982726
-774,San Diego Trough north alt1,5.2207295E-4,0.23992322
-177,San Diego Trough south,5.6046067E-4,0.2725528
-247,San Gabriel,2.1497121E-4,0.10364683
-248,San Gabriel (Extension),1.3819578E-4,0.06909789
-194,San Gorgonio Pass,2.571977E-4,0.12284069
-660,San Gregorio (North) 2011 CFM,0.001259117,0.5143954
-661,San Gregorio (South) 2011 CFM,4.1074856E-4,0.19385797
-293,San Jacinto (Anza) rev,0.0015163148,0.6257198
-99,San Jacinto (Borrego),9.366603E-4,0.40882918
-292,San Jacinto (Clark) rev,9.75048E-4,0.4491363
-101,San Jacinto (Coyote Creek),7.293666E-4,0.33013436
-901,San Jacinto (Lytle Creek connector),1.8426104E-4,0.09213052
-119,San Jacinto (San Bernardino),8.867562E-4,0.40115163
-289,San Jacinto (San Jacinto Valley) rev,8.9827256E-4,0.4049904
-401,San Jacinto (Stepovers Combined),0.0010211132,0.45297503
-28,San Jacinto (Superstition Mtn),0.0016161228,0.63147795
-143,San Joaquin Hills,5.7581576E-5,0.028790787
-107,San Jose,9.213052E-5,0.04606526
-31,San Juan,2.7639157E-4,0.134357
-692,San Luis Range - Oceano 2011 CFM,3.8387716E-5,0.017274473
-693,San Luis Range - Pecho 2011 CFM,3.0710173E-5,0.013435701
-691,San Luis Range 2011 CFM,1.3819578E-4,0.0671785
-181,San Pedro Basin,4.452975E-4,0.21880998
-183,San Pedro Escarpment,1.9193858E-5,0.009596929
-198,San Vicente,7.677543E-6,0.0038387715
-775,Santa Cruz Catalina Ridge alt1,4.0307103E-4,0.19577736
-111,Santa Cruz Island,4.568138E-4,0.19961612
-185,Santa Monica Bay,0.0,0.0
-226,Santa Monica alt 1,1.9961613E-4,0.09788868
-110,Santa Rosa Island,2.6487524E-4,0.12284069
-778,Santa Susana East (connector),4.452975E-4,0.21305183
-227,Santa Susana alt 1,6.257198E-4,0.29174665
-79,Santa Ynez (East),4.6449137E-4,0.21113244
-77,Santa Ynez (West),8.445298E-4,0.33013436
-781,Santa Ynez River,3.0710173E-4,0.14587332
-662,Sargent 2011 CFM,5.681382E-4,0.2706334
-209,Scodie Lineament,4.9904032E-5,0.024952015
-885,Sheephole,6.525912E-5,0.032629557
-547,Shoreline,3.0710173E-5,0.015355086
-114,Sierra Madre,2.9174663E-4,0.14203455
-113,Sierra Madre (San Fernando),2.2648752E-4,0.11324376
-210,Sierra Nevada  (No Extension),3.1477926E-4,0.15547025
-664,Silver Creek 2011 CFM,6.1420345E-5,0.030710172
-115,Simi-Santa Rosa,4.1458732E-4,0.20153551
-202,Sisar,1.1516315E-4,0.057581574
+651,Rodgers Creek - Healdsburg 2011 CFM,0.002164,0.746
+123,Rose Canyon,4.72E-4,0.219
+42,Round Valley,1.96E-4,0.098
+690,Russ 2011 CFM,5.48E-4,0.258
+287,San Andreas (Big Bend),0.003898,0.99
+300,San Andreas (Carrizo) rev,0.004858,0.999
+285,San Andreas (Cholame) rev,0.005068,0.998
+295,San Andreas (Coachella) rev,0.004464,0.984
+658,San Andreas (Creeping Section) 2011 CFM,0.00908,0.998
+286,San Andreas (Mojave N),0.004006,0.996
+301,San Andreas (Mojave S),0.00606,0.999
+294,San Andreas (North Branch Mill Creek),4.52E-4,0.214
+654,San Andreas (North Coast) 2011 CFM,0.004018,0.981
+653,San Andreas (Offshore) 2011 CFM,0.004682,0.981
+32,San Andreas (Parkfield),0.003856,0.955
+655,San Andreas (Peninsula) 2011 CFM,0.003084,0.931
+282,San Andreas (San Bernardino N),0.005568,0.99
+283,San Andreas (San Bernardino S),0.004406,0.969
+284,San Andreas (San Gorgonio Pass-Garnet HIll),0.003478,0.925
+657,San Andreas (Santa Cruz Mts) 2011 CFM,0.005772,0.989
+80,San Cayetano,5.9E-4,0.268
+178,San Clemente,6.24E-4,0.288
+774,San Diego Trough north alt1,4.94E-4,0.23
+177,San Diego Trough south,5.58E-4,0.264
+247,San Gabriel,1.94E-4,0.093
+248,San Gabriel (Extension),1.32E-4,0.066
+194,San Gorgonio Pass,2.42E-4,0.117
+660,San Gregorio (North) 2011 CFM,0.00126,0.523
+661,San Gregorio (South) 2011 CFM,4.02E-4,0.192
+293,San Jacinto (Anza) rev,0.001458,0.602
+99,San Jacinto (Borrego),8.24E-4,0.362
+292,San Jacinto (Clark) rev,9.64E-4,0.446
+101,San Jacinto (Coyote Creek),6.48E-4,0.291
+901,San Jacinto (Lytle Creek connector),1.76E-4,0.087
+119,San Jacinto (San Bernardino),8.62E-4,0.395
+289,San Jacinto (San Jacinto Valley) rev,8.84E-4,0.405
+401,San Jacinto (Stepovers Combined),9.94E-4,0.447
+28,San Jacinto (Superstition Mtn),0.001548,0.607
+143,San Joaquin Hills,7.6E-5,0.038
+107,San Jose,9.2E-5,0.046
+31,San Juan,2.66E-4,0.128
+692,San Luis Range - Oceano 2011 CFM,4.4E-5,0.021
+693,San Luis Range - Pecho 2011 CFM,1.8E-5,0.008
+691,San Luis Range 2011 CFM,1.76E-4,0.079
+181,San Pedro Basin,3.98E-4,0.195
+183,San Pedro Escarpment,1.6E-5,0.008
+198,San Vicente,6.0E-6,0.003
+775,Santa Cruz Catalina Ridge alt1,3.56E-4,0.172
+111,Santa Cruz Island,4.3E-4,0.187
+185,Santa Monica Bay,8.0E-6,0.004
+226,Santa Monica alt 1,1.88E-4,0.093
+110,Santa Rosa Island,2.5E-4,0.119
+778,Santa Susana East (connector),4.4E-4,0.213
+227,Santa Susana alt 1,6.14E-4,0.289
+79,Santa Ynez (East),4.5E-4,0.208
+77,Santa Ynez (West),9.1E-4,0.354
+781,Santa Ynez River,3.0E-4,0.14
+662,Sargent 2011 CFM,5.7E-4,0.267
+209,Scodie Lineament,4.0E-5,0.02
+885,Sheephole,7.2E-5,0.036
+547,Shoreline,3.6E-5,0.017
+114,Sierra Madre,2.86E-4,0.141
+113,Sierra Madre (San Fernando),2.42E-4,0.121
+210,Sierra Nevada  (No Extension),3.18E-4,0.155
+664,Silver Creek 2011 CFM,6.2E-5,0.031
+115,Simi-Santa Rosa,3.86E-4,0.188
+202,Sisar,1.24E-4,0.062
 694,Skinner Flat 2011 CFM,0.0,0.0
-63,So Sierra Nevada,3.915547E-4,0.19001919
-189,South Cuyama,5.3742802E-5,0.026871402
-719,South Klamath Lake East,2.8023034E-4,0.12859885
-720,South Klamath Lake West,3.109405E-4,0.13819578
-98,Superstition Hills,0.0011439539,0.47792706
-708,Surprise Valley 2011 CFM,3.7236084E-4,0.1612284
-695,Swain Ravine - Spenceville,4.222649E-5,0.021113243
-15,Table Bluff,4.1074856E-4,0.19961612
-145,Tank Canyon,3.0326296E-4,0.14779271
-174,Thirty Mile Bank,2.4184262E-4,0.117082536
-887,Tin Mountain,7.293666E-5,0.03646833
-886,Towne Pass,4.9904032E-5,0.024952015
-19,Trinidad (alt1),0.0011285988,0.47600767
-117,Ventura-Pitas Point,5.2207295E-4,0.23992322
-112,Verdugo,1.07485605E-4,0.053742804
-696,Walker Spring 2011 CFM,4.9904032E-5,0.024952015
-665,West Napa 2011 CFM,5.37428E-4,0.25527832
-321,West Tahoe,2.7639157E-4,0.1362764
-44,White Mountains,3.761996E-4,0.17466411
-253,White Wolf,2.2648752E-4,0.11324376
-254,White Wolf (Extension),1.34357E-4,0.0671785
-236,Whittier alt 1,3.9539346E-4,0.18426104
-697,Wight Way 2011 CFM,2.303263E-5,0.011516315
-206,Yorba Linda,2.303263E-5,0.011516315
-715,Zayante-Vergeles 2011 CFM,2.6871401E-5,0.013435701
+63,So Sierra Nevada,3.7E-4,0.179
+189,South Cuyama,4.8E-5,0.024
+719,South Klamath Lake East,2.74E-4,0.126
+720,South Klamath Lake West,3.2E-4,0.143
+98,Superstition Hills,0.001122,0.467
+708,Surprise Valley 2011 CFM,3.46E-4,0.156
+695,Swain Ravine - Spenceville,5.4E-5,0.027
+15,Table Bluff,3.84E-4,0.186
+145,Tank Canyon,2.76E-4,0.134
+174,Thirty Mile Bank,2.36E-4,0.115
+887,Tin Mountain,7.2E-5,0.036
+886,Towne Pass,4.4E-5,0.022
+19,Trinidad (alt1),0.001138,0.471
+117,Ventura-Pitas Point,5.36E-4,0.243
+112,Verdugo,1.16E-4,0.058
+696,Walker Spring 2011 CFM,6.4E-5,0.032
+665,West Napa 2011 CFM,5.16E-4,0.245
+321,West Tahoe,3.16E-4,0.154
+44,White Mountains,3.52E-4,0.167
+253,White Wolf,2.28E-4,0.114
+254,White Wolf (Extension),1.26E-4,0.062
+236,Whittier alt 1,3.76E-4,0.176
+697,Wight Way 2011 CFM,2.4E-5,0.012
+206,Yorba Linda,2.4E-5,0.012
+715,Zayante-Vergeles 2011 CFM,3.6E-5,0.018
