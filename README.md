@@ -2,8 +2,6 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2019/09/01 | [Start 2012, 100 yr, NoERT, Spontaneous, Historical Catalog](2019_09_01-Start2012_100yr_NoERT_Spontaneous_HistoricalCatalog-includeSpont-histCatalog-no_ert/README.md) | 2011/12/31 | 1000 | Done | 2019/09/02 |
-| 2019/09/01 | [Start 2012, 100 yr, Scale Factor 1.0, Spontaneous, Historical Catalog](2019_09_01-Start2012_100yr_ScaleFactor1p0_Spontaneous_HistoricalCatalog-includeSpont-histCatalog-full_td/README.md) | 2011/12/31 | 1000 | Done | 2019/09/02 |
 | 2019/09/01 | [Start 1919, 100 yr, Scale Factor 1.212, Spontaneous, Historical Catalog](2019_09_01-Start1919_100yr_ScaleFactor1p212_Spontaneous_HistoricalCatalog-includeSpont-histCatalog-full_td-scale1.212/README.md) | 1918/12/31 | 1000 | Done | 2019/09/01 |
 | 2019/08/31 | [ComCat M7.1 (ci38457511), 28 Days After, Mainshock Log10(k)=-2.3, ShakeMap Surfaces, Log10(k)=-3.03, p=1.15, c=0.002](2019_08_31-ComCatM7p1_ci38457511_28DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002-noSpont-full_td-scale1.14-modParams/README.md) | 2019/08/02 | 100000 | Done | 2019/09/01 |
 | 2019/08/31 | [ComCat M7.1 (ci38457511), 56 Days After, ShakeMap Surfaces](2019_08_31-ComCatM7p1_ci38457511_56DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/30 | 100000 | Done | 2019/09/02 |
@@ -26,11 +24,11 @@
 | 2019/08/20 | [ComCat M6.4 (ci38443183), Point Sources](2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14/README.md) | 2019/07/04 | 100000 | Done | 2019/08/30 |
 | 2019/08/20 | [ComCat M6.4 (ci38443183), ShakeMap Surface](2019_08_20-ComCatM6p4_ci38443183_ShakeMapSurface-noSpont-full_td-scale1.14/README.md) | 2019/07/04 | 100000 | Done | 2019/08/30 |
 | 2019/08/20 | [ComCat M7.1 (ci38457511), Inverted Surface (minSlip=0.5), ShakeMap Surface](2019_08_20-ComCatM7p1_ci38457511_InvertedSurface_minSlip0p5_ShakeMapSurface-noSpont-full_td-scale1.14/README.md) | 2019/07/05 | 100000 | Done | 2019/08/30 |
-| 2019/08/20 | [ComCat M7.1 (ci38457511), 28 Days After, Point Sources](2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_PointSources-noSpont-full_td-scale1.14/README.md) | 2019/08/02 | 100000 | Done | 2019/09/01 |
+| 2019/08/20 | [ComCat M7.1 (ci38457511), 28 Days After, Point Sources](2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_PointSources-noSpont-full_td-scale1.14/README.md) | 2019/08/02 | 100000 | Done | 2019/09/02 |
 | 2019/08/20 | [ComCat M7.1 (ci38457511), Point Sources](2019_08_20-ComCatM7p1_ci38457511_PointSources-noSpont-full_td-scale1.14/README.md) | 2019/07/05 | 100000 | Done | 2019/08/30 |
 | 2019/08/19 | [ComCat M7.1 (ci38457511), 14 Days After, ShakeMap Surfaces](2019_08_19-ComCatM7p1_ci38457511_14DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/07/19 | 100000 | Done | 2019/08/30 |
 | 2019/08/19 | [ComCat M7.1 (ci38457511), 42 Days After, ShakeMap Surfaces](2019_08_19-ComCatM7p1_ci38457511_42DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/16 | 100000 | Done | 2019/09/01 |
-| 2019/08/19 | [ComCat M7.1 (ci38457511), 35 Days After, ShakeMap Surfaces](2019_08_19-ComCatM7p1_ci38457511_35DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/09 | 100000 | Done | 2019/09/01 |
+| 2019/08/19 | [ComCat M7.1 (ci38457511), 35 Days After, ShakeMap Surfaces](2019_08_19-ComCatM7p1_ci38457511_35DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/09 | 100000 | Done | 2019/09/02 |
 | 2019/08/09 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, NoERT](2019_08_09-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoERT-noSpont-no_ert/README.md) | 2019/07/05 | 100000 | Done | 2019/08/30 |
 | 2019/08/03 | [ComCat M7.1 (ci38457511), 28 Days After, ShakeMap Surfaces](2019_08_03-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/02 | 100000 | Done | 2019/09/01 |
 | 2019/07/27 | [ComCat M7.1 (ci38457511), 21 Days After, ShakeMap Surfaces](2019_07_27-ComCatM7p1_ci38457511_21DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/07/26 | 100000 | Done | 2019/08/30 |
