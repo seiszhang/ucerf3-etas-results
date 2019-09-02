@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1567368657105,
-  "plotEndTime": 1567370570434,
+  "plotStartTime": 1567464307656,
+  "plotEndTime": 1567465967763,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_08_03-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/results_complete.bin"
