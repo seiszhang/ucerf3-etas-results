@@ -20,7 +20,7 @@
   "forceRecalc": false,
   "simulationName": "Start 1919, 100 yr, Scale Factor 1.212, Spontaneous, Historical Catalog",
   "numRetries": 3,
-  "outputDir": "${ETAS_SIM_DIR}/2019_09_01-Start1919_100yr_ScaleFactor1p212_Spontaneous_HistoricalCatalog-includeSpont-histCatalog-full_td-scale1.212",
+  "outputDir": "${ETAS_SIM_DIR}/2019_09_01-Start1919_100yr_ScaleFactor1p212_Spontaneous_HistoricalCatalog",
   "triggerCatalog": "${ETAS_LAUNCHER}/inputs/u3_historical_catalog.txt",
   "triggerCatalogSurfaceMappings": "${ETAS_LAUNCHER}/inputs/u3_historical_catalog_finite_fault_mappings.xml",
   "treatTriggerCatalogAsSpontaneous": true,

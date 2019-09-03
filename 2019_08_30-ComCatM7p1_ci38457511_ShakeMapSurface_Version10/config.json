@@ -20,7 +20,7 @@
   "forceRecalc": false,
   "simulationName": "ComCat M7.1 (ci38457511), ShakeMap Surface (Version 10)",
   "numRetries": 3,
-  "outputDir": "${ETAS_SIM_DIR}/2019_08_30-ComCatM7p1_ci38457511_ShakeMapSurface_Version10-noSpont-full_td-scale1.14",
+  "outputDir": "${ETAS_SIM_DIR}/2019_08_30-ComCatM7p1_ci38457511_ShakeMapSurface_Version10",
   "triggerRuptures": [
     {
       "occurrenceTimeMillis": 1562259775340,
