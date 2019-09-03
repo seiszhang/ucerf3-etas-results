@@ -1,0 +1,3006 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+	border-collapse: collapse
+}
+table, th, td {
+	border: 1px solid black
+}
+body {
+	max-width:1000px;
+	margin: auto;
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+</style>
+</head>
+<body>
+<h1 id="comcat-m71-ci38457511-point-sources-no-faults-results">ComCat M7.1 (ci38457511), Point Sources, No Faults Results</h1>
+<table>
+<thead>
+<tr><th></th><th>ComCat M7.1 (ci38457511), Point Sources, No Faults</th></tr>
+</thead>
+<tbody>
+<tr><td>Num Simulations</td><td>100000</td></tr>
+<tr><td>Start Time</td><td>2019/07/06 03:19:54 UTC</td></tr>
+<tr><td>Start Time Epoch Milliseconds</td><td>1562383194040</td></tr>
+<tr><td>Duration</td><td>10 Years</td></tr>
+<tr><td>Includes Spontaneous?</td><td>false</td></tr>
+<tr><td>Trigger Ruptures</td><td>269 Trigger Ruptures</td></tr>
+<tr><td></td><td>First: M3.98 at 2019/07/04 17:02:55 UTC</td></tr>
+<tr><td></td><td>Last: M7.1 at 2019/07/06 03:19:53 UTC</td></tr>
+<tr><td></td><td>Largest: M7.1 at 2019/07/06 03:19:53 UTC</td></tr>
+<tr><td>Historical Ruptures</td><td><em>(none)</em></td></tr>
+<tr><td>Config Generated With</td><td>u3etas_comcat_event_config_builder.sh --event-id ci38457511 --num-simulations 100000 --days-before 7 --gridded-only --mag-complete 3.5 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec</td></tr>
+</tbody>
+</table>
+<h2 id="table-of-contents">Table Of Contents</h2>
+<ul>
+<li><a href="#probabilities-summary-table">Probabilities Summary Table</a></li>
+<li><a href="#magnitude-number-distribution">Magnitude Number Distribution</a>
+<ul>
+<li><a href="#10-year-magnitude-number-distribution">10 Year Magnitude Number Distribution</a></li>
+<li><a href="#1-year-magnitude-number-distribution">1 Year Magnitude Number Distribution</a></li>
+<li><a href="#1-month-magnitude-number-distribution">1 Month Magnitude Number Distribution</a></li>
+<li><a href="#1-week-magnitude-number-distribution">1 Week Magnitude Number Distribution</a></li>
+<li><a href="#1-day-magnitude-number-distribution">1 Day Magnitude Number Distribution</a></li>
+<li><a href="#1-hour-magnitude-number-distribution">1 Hour Magnitude Number Distribution</a></li>
+</ul>
+</li>
+<li><a href="#hazard-change-over-time">Hazard Change Over Time</a>
+<ul>
+<li><a href="#m50-hazard-change-over-time">M≥5.0 Hazard Change Over Time</a></li>
+<li><a href="#m60-hazard-change-over-time">M≥6.0 Hazard Change Over Time</a></li>
+<li><a href="#m70-hazard-change-over-time">M≥7.0 Hazard Change Over Time</a></li>
+<li><a href="#m80-hazard-change-over-time">M≥8.0 Hazard Change Over Time</a></li>
+</ul>
+</li>
+<li><a href="#trigger-rupture-fault-map">Trigger Rupture Fault Map</a></li>
+<li><a href="#fault-distances-to-triggers">Fault Distances To Triggers</a></li>
+<li><a href="#individual-simulated-catalog-maps">Individual Simulated Catalog Maps</a></li>
+<li><a href="#comcat-data-comparisons">ComCat Data Comparisons</a>
+<ul>
+<li><a href="#comcat-magnitude-number-distributions">ComCat Magnitude-Number Distributions</a></li>
+<li><a href="#comcat-cumulative-number-vs-time">ComCat Cumulative Number Vs Time</a></li>
+<li><a href="#comcat-cumulative-number-simulation-percentiles">ComCat Cumulative Number Simulation Percentiles</a></li>
+<li><a href="#comcat-mean-spatial-distribution">ComCat Mean Spatial Distribution</a></li>
+<li><a href="#comcat-depth-distribution">ComCat Depth Distribution</a></li>
+</ul>
+</li>
+<li><a href="#gridded-nucleation">Gridded Nucleation</a></li>
+<li><a href="#json-input-file">JSON Input File</a></li>
+</ul>
+<h2 id="probabilities-summary-table">Probabilities Summary Table</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>Magnitude</th><th>1 Hour Prob</th><th>1 Day Prob</th><th>1 Week Prob</th><th>1 Month Prob</th><th>1 Year Prob</th><th>10 Year Prob</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M≥4</strong></td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M≥4.5</strong></td><td>0.992 (99.17%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M≥5</strong></td><td>0.782 (78.20%)</td><td>0.980 (97.96%)</td><td>0.996 (99.60%)</td><td>0.999 (99.89%)</td><td>1.000 (99.98%)</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M≥5.5</strong></td><td>0.387 (38.67%)</td><td>0.721 (72.08%)</td><td>0.842 (84.17%)</td><td>0.900 (89.96%)</td><td>0.953 (95.32%)</td><td>0.977 (97.70%)</td></tr>
+<tr><td><strong>M≥6</strong></td><td>0.144 (14.44%)</td><td>0.340 (33.98%)</td><td>0.455 (45.48%)</td><td>0.533 (53.33%)</td><td>0.647 (64.65%)</td><td>0.726 (72.58%)</td></tr>
+<tr><td><strong>M≥6.5</strong></td><td>0.048 (4.82%)</td><td>0.126 (12.60%)</td><td>0.182 (18.24%)</td><td>0.226 (22.61%)</td><td>0.300 (29.98%)</td><td>0.364 (36.39%)</td></tr>
+<tr><td><strong>M≥7</strong></td><td>0.015 (1.53%)</td><td>0.041 (4.12%)</td><td>0.062 (6.24%)</td><td>0.080 (7.99%)</td><td>0.112 (11.20%)</td><td>0.143 (14.33%)</td></tr>
+<tr><td><strong>M≥7.1</strong></td><td>0.012 (1.21%)</td><td>0.033 (3.30%)</td><td>0.050 (5.00%)</td><td>0.064 (6.44%)</td><td>0.091 (9.08%)</td><td>0.117 (11.72%)</td></tr>
+<tr><td><strong>M≥7.5</strong></td><td>3.97E-3 (0.40%)</td><td>0.012 (1.15%)</td><td>0.019 (1.85%)</td><td>0.024 (2.42%)</td><td>0.035 (3.55%)</td><td>0.047 (4.73%)</td></tr>
+<tr><td><strong>M≥8</strong></td><td>7.60E-4 (0.08%)</td><td>2.27E-3 (0.23%)</td><td>3.82E-3 (0.38%)</td><td>5.02E-3 (0.50%)</td><td>7.68E-3 (0.77%)</td><td>0.011 (1.08%)</td></tr>
+</tbody>
+</table>
+<h2 id="magnitude-number-distribution">Magnitude Number Distribution</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<h3 id="10-year-magnitude-number-distribution">10 Year Magnitude Number Distribution</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><strong>Legend</strong></p>
+<ul>
+<li><strong>Mean</strong> (thick black line): mean expected number across all 100000 catalogs</li>
+<li><strong>2.5%,97.5%</strong> (thin black lines): expected number percentiles across all 100000 catalogs</li>
+<li><strong>Median</strong> (thin blue line): median expected number across all 100000 catalogs</li>
+<li><strong>Mode</strong> (thin cyan line): modal expected number across all 100000 catalogs</li>
+<li><strong>10 yr Probability</strong> (thin red line): 10 year probability calculated as the fraction of catalogs with at least 1 occurrence</li>
+<li><strong>10 yr Supraseismogenic Probability</strong> (thin dashed red line): same as above, but only for supraseismogenic ruptures on explicitly modeled UCERF3 faults</li>
+<li><strong>95% Conf</strong> (light red shaded region): binomial 95% confidence bounds on probability</li>
+<li><strong>Primary</strong> (thin green line): mean expected number from primary triggered aftershocks only (no secondary, tertiary, etc...) across all 100000 catalogs</li>
+</ul>
+<p><img src="plots/10yr_mag_num_cumulative_triggered.png" alt="MFD Plot" /></p>
+<table>
+<thead>
+<tr><th>Mag</th><th>Mean</th><th>2.5 %ile</th><th>97.5 %ile</th><th>Median</th><th>Mode</th><th>10 yr Probability</th><th>10 yr Supra-Seis Prob</th><th>Primary Aftershocks Mean</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M≥2.5</strong></td><td>7838.728</td><td>3701.000</td><td>33133.000</td><td>4987.000</td><td>4238.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>2393.759</td></tr>
+<tr><td><strong>M≥2.6</strong></td><td>6226.562</td><td>2936.000</td><td>26328.000</td><td>3961.000</td><td>3262.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>1901.467</td></tr>
+<tr><td><strong>M≥2.7</strong></td><td>4945.886</td><td>2328.000</td><td>20903.000</td><td>3148.000</td><td>2828.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>1510.436</td></tr>
+<tr><td><strong>M≥2.8</strong></td><td>3928.773</td><td>1845.000</td><td>16629.000</td><td>2501.000</td><td>2174.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>1199.808</td></tr>
+<tr><td><strong>M≥2.9</strong></td><td>3120.641</td><td>1462.000</td><td>13221.000</td><td>1986.000</td><td>1776.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>953.009</td></tr>
+<tr><td><strong>M≥3</strong></td><td>2478.842</td><td>1157.000</td><td>10479.000</td><td>1579.000</td><td>1356.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>757.030</td></tr>
+<tr><td><strong>M≥3.1</strong></td><td>1968.999</td><td>915.000</td><td>8334.000</td><td>1254.000</td><td>1027.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>601.322</td></tr>
+<tr><td><strong>M≥3.2</strong></td><td>1563.972</td><td>723.000</td><td>6612.000</td><td>997.000</td><td>820.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>477.617</td></tr>
+<tr><td><strong>M≥3.3</strong></td><td>1242.270</td><td>571.000</td><td>5256.000</td><td>793.000</td><td>699.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>379.324</td></tr>
+<tr><td><strong>M≥3.4</strong></td><td>986.786</td><td>450.000</td><td>4181.000</td><td>630.000</td><td>538.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>301.348</td></tr>
+<tr><td><strong>M≥3.5</strong></td><td>783.831</td><td>355.000</td><td>3317.000</td><td>501.000</td><td>423.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>239.355</td></tr>
+<tr><td><strong>M≥3.6</strong></td><td>622.564</td><td>279.000</td><td>2629.000</td><td>398.000</td><td>325.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>190.131</td></tr>
+<tr><td><strong>M≥3.7</strong></td><td>494.506</td><td>219.000</td><td>2092.000</td><td>317.000</td><td>268.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>151.014</td></tr>
+<tr><td><strong>M≥3.8</strong></td><td>392.785</td><td>171.000</td><td>1662.000</td><td>252.000</td><td>211.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>119.944</td></tr>
+<tr><td><strong>M≥3.9</strong></td><td>312.071</td><td>134.000</td><td>1325.000</td><td>201.000</td><td>179.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>95.298</td></tr>
+<tr><td><strong>M≥4</strong></td><td>247.913</td><td>104.000</td><td>1053.000</td><td>160.000</td><td>138.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>75.714</td></tr>
+<tr><td><strong>M≥4.1</strong></td><td>196.903</td><td>81.000</td><td>836.000</td><td>127.000</td><td>109.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>60.134</td></tr>
+<tr><td><strong>M≥4.2</strong></td><td>156.389</td><td>63.000</td><td>663.000</td><td>101.000</td><td>89.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>47.763</td></tr>
+<tr><td><strong>M≥4.3</strong></td><td>124.223</td><td>48.000</td><td>527.000</td><td>81.000</td><td>69.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>37.943</td></tr>
+<tr><td><strong>M≥4.4</strong></td><td>98.669</td><td>37.000</td><td>421.000</td><td>64.000</td><td>53.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>30.130</td></tr>
+<tr><td><strong>M≥4.5</strong></td><td>78.375</td><td>28.000</td><td>335.000</td><td>51.000</td><td>45.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>23.937</td></tr>
+<tr><td><strong>M≥4.6</strong></td><td>62.263</td><td>21.000</td><td>266.000</td><td>41.000</td><td>34.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>19.024</td></tr>
+<tr><td><strong>M≥4.7</strong></td><td>49.451</td><td>16.000</td><td>213.000</td><td>32.000</td><td>27.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>15.105</td></tr>
+<tr><td><strong>M≥4.8</strong></td><td>39.278</td><td>12.000</td><td>169.000</td><td>26.000</td><td>21.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>11.997</td></tr>
+<tr><td><strong>M≥4.9</strong></td><td>31.198</td><td>8.000</td><td>135.000</td><td>20.000</td><td>16.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>9.531</td></tr>
+<tr><td><strong>M≥5</strong></td><td>24.773</td><td>6.000</td><td>107.000</td><td>16.000</td><td>13.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>7.575</td></tr>
+<tr><td><strong>M≥5.1</strong></td><td>19.678</td><td>4.000</td><td>86.000</td><td>13.000</td><td>10.000</td><td>1.000 (99.98%)</td><td>0.000 (0.00%)</td><td>6.014</td></tr>
+<tr><td><strong>M≥5.2</strong></td><td>15.629</td><td>3.000</td><td>69.000</td><td>10.000</td><td>8.000</td><td>0.999 (99.91%)</td><td>0.000 (0.00%)</td><td>4.778</td></tr>
+<tr><td><strong>M≥5.3</strong></td><td>12.407</td><td>2.000</td><td>55.000</td><td>8.000</td><td>6.000</td><td>0.997 (99.67%)</td><td>0.000 (0.00%)</td><td>3.794</td></tr>
+<tr><td><strong>M≥5.4</strong></td><td>9.851</td><td>1.000</td><td>44.000</td><td>6.000</td><td>5.000</td><td>0.991 (99.06%)</td><td>0.000 (0.00%)</td><td>3.010</td></tr>
+<tr><td><strong>M≥5.5</strong></td><td>7.827</td><td>1.000</td><td>36.000</td><td>5.000</td><td>3.000</td><td>0.977 (97.70%)</td><td>0.000 (0.00%)</td><td>2.394</td></tr>
+<tr><td><strong>M≥5.6</strong></td><td>6.210</td><td>0.000</td><td>29.000</td><td>4.000</td><td>3.000</td><td>0.952 (95.18%)</td><td>0.000 (0.00%)</td><td>1.897</td></tr>
+<tr><td><strong>M≥5.7</strong></td><td>4.932</td><td>0.000</td><td>23.000</td><td>3.000</td><td>2.000</td><td>0.913 (91.32%)</td><td>0.000 (0.00%)</td><td>1.508</td></tr>
+<tr><td><strong>M≥5.8</strong></td><td>3.917</td><td>0.000</td><td>19.000</td><td>2.000</td><td>1.000</td><td>0.861 (86.09%)</td><td>0.000 (0.00%)</td><td>1.199</td></tr>
+<tr><td><strong>M≥5.9</strong></td><td>3.110</td><td>0.000</td><td>16.000</td><td>2.000</td><td>1.000</td><td>0.797 (79.73%)</td><td>0.000 (0.00%)</td><td>0.950</td></tr>
+<tr><td><strong>M≥6</strong></td><td>2.468</td><td>0.000</td><td>13.000</td><td>1.000</td><td>0.000</td><td>0.726 (72.58%)</td><td>0.000 (0.00%)</td><td>0.755</td></tr>
+<tr><td><strong>M≥6.1</strong></td><td>1.957</td><td>0.000</td><td>11.000</td><td>1.000</td><td>0.000</td><td>0.650 (65.00%)</td><td>0.000 (0.00%)</td><td>0.599</td></tr>
+<tr><td><strong>M≥6.2</strong></td><td>1.551</td><td>0.000</td><td>9.000</td><td>1.000</td><td>0.000</td><td>0.572 (57.17%)</td><td>0.000 (0.00%)</td><td>0.474</td></tr>
+<tr><td><strong>M≥6.3</strong></td><td>1.232</td><td>0.000</td><td>7.000</td><td>0.000</td><td>0.000</td><td>0.498 (49.81%)</td><td>0.000 (0.00%)</td><td>0.376</td></tr>
+<tr><td><strong>M≥6.4</strong></td><td>0.977</td><td>0.000</td><td>6.000</td><td>0.000</td><td>0.000</td><td>0.429 (42.86%)</td><td>0.000 (0.00%)</td><td>0.298</td></tr>
+<tr><td><strong>M≥6.5</strong></td><td>0.771</td><td>0.000</td><td>5.000</td><td>0.000</td><td>0.000</td><td>0.364 (36.39%)</td><td>0.000 (0.00%)</td><td>0.235</td></tr>
+<tr><td><strong>M≥6.6</strong></td><td>0.610</td><td>0.000</td><td>4.000</td><td>0.000</td><td>0.000</td><td>0.306 (30.63%)</td><td>0.000 (0.00%)</td><td>0.185</td></tr>
+<tr><td><strong>M≥6.7</strong></td><td>0.481</td><td>0.000</td><td>4.000</td><td>0.000</td><td>0.000</td><td>0.255 (25.52%)</td><td>0.000 (0.00%)</td><td>0.146</td></tr>
+<tr><td><strong>M≥6.8</strong></td><td>0.380</td><td>0.000</td><td>3.000</td><td>0.000</td><td>0.000</td><td>0.213 (21.31%)</td><td>0.000 (0.00%)</td><td>0.115</td></tr>
+<tr><td><strong>M≥6.9</strong></td><td>0.299</td><td>0.000</td><td>3.000</td><td>0.000</td><td>0.000</td><td>0.175 (17.54%)</td><td>0.000 (0.00%)</td><td>0.091</td></tr>
+<tr><td><strong>M≥7</strong></td><td>0.233</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.143 (14.33%)</td><td>0.000 (0.00%)</td><td>0.071</td></tr>
+<tr><td><strong>M≥7.1</strong></td><td>0.183</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.117 (11.72%)</td><td>0.000 (0.00%)</td><td>0.056</td></tr>
+<tr><td><strong>M≥7.2</strong></td><td>0.143</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.095 (9.51%)</td><td>0.000 (0.00%)</td><td>0.043</td></tr>
+<tr><td><strong>M≥7.3</strong></td><td>0.111</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.076 (7.65%)</td><td>0.000 (0.00%)</td><td>0.033</td></tr>
+<tr><td><strong>M≥7.4</strong></td><td>0.084</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.060 (5.99%)</td><td>0.000 (0.00%)</td><td>0.026</td></tr>
+<tr><td><strong>M≥7.5</strong></td><td>0.064</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.047 (4.73%)</td><td>0.000 (0.00%)</td><td>0.019</td></tr>
+<tr><td><strong>M≥7.6</strong></td><td>0.049</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.037 (3.72%)</td><td>0.000 (0.00%)</td><td>0.015</td></tr>
+<tr><td><strong>M≥7.7</strong></td><td>0.036</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.029 (2.85%)</td><td>0.000 (0.00%)</td><td>0.011</td></tr>
+<tr><td><strong>M≥7.8</strong></td><td>0.027</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.022 (2.17%)</td><td>0.000 (0.00%)</td><td>8.09E-3</td></tr>
+<tr><td><strong>M≥7.9</strong></td><td>0.019</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.016 (1.57%)</td><td>0.000 (0.00%)</td><td>5.46E-3</td></tr>
+<tr><td><strong>M≥8</strong></td><td>0.012</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.011 (1.08%)</td><td>0.000 (0.00%)</td><td>3.64E-3</td></tr>
+<tr><td><strong>M≥8.1</strong></td><td>7.54E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>6.96E-3 (0.70%)</td><td>0.000 (0.00%)</td><td>2.32E-3</td></tr>
+<tr><td><strong>M≥8.2</strong></td><td>3.34E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>3.20E-3 (0.32%)</td><td>0.000 (0.00%)</td><td>1.08E-3</td></tr>
+<tr><td><strong>M≥8.3</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.4</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.5</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.6</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.7</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.8</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+</tbody>
+</table>
+<h3 id="1-year-magnitude-number-distribution">1 Year Magnitude Number Distribution</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><strong>Legend</strong></p>
+<ul>
+<li><strong>Mean</strong> (thick black line): mean expected number across all 100000 catalogs</li>
+<li><strong>2.5%,97.5%</strong> (thin black lines): expected number percentiles across all 100000 catalogs</li>
+<li><strong>Median</strong> (thin blue line): median expected number across all 100000 catalogs</li>
+<li><strong>Mode</strong> (thin cyan line): modal expected number across all 100000 catalogs</li>
+<li><strong>1 yr Probability</strong> (thin red line): 1 year probability calculated as the fraction of catalogs with at least 1 occurrence</li>
+<li><strong>1 yr Supraseismogenic Probability</strong> (thin dashed red line): same as above, but only for supraseismogenic ruptures on explicitly modeled UCERF3 faults</li>
+<li><strong>95% Conf</strong> (light red shaded region): binomial 95% confidence bounds on probability</li>
+<li><strong>Primary</strong> (thin green line): mean expected number from primary triggered aftershocks only (no secondary, tertiary, etc...) across all 100000 catalogs</li>
+</ul>
+<p><img src="plots/1yr_mag_num_cumulative_triggered.png" alt="MFD Plot" /></p>
+<table>
+<thead>
+<tr><th>Mag</th><th>Mean</th><th>2.5 %ile</th><th>97.5 %ile</th><th>Median</th><th>Mode</th><th>1 yr Probability</th><th>1 yr Supra-Seis Prob</th><th>Primary Aftershocks Mean</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M≥2.5</strong></td><td>5377.946</td><td>2975.000</td><td>19200.000</td><td>3784.000</td><td>3300.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>2085.232</td></tr>
+<tr><td><strong>M≥2.6</strong></td><td>4271.877</td><td>2358.000</td><td>15262.000</td><td>3006.000</td><td>2618.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>1656.373</td></tr>
+<tr><td><strong>M≥2.7</strong></td><td>3393.291</td><td>1869.000</td><td>12118.000</td><td>2389.000</td><td>2107.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>1315.720</td></tr>
+<tr><td><strong>M≥2.8</strong></td><td>2695.445</td><td>1480.000</td><td>9639.000</td><td>1898.000</td><td>1652.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>1045.152</td></tr>
+<tr><td><strong>M≥2.9</strong></td><td>2140.991</td><td>1172.000</td><td>7646.000</td><td>1508.000</td><td>1312.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>830.188</td></tr>
+<tr><td><strong>M≥3</strong></td><td>1700.691</td><td>926.000</td><td>6077.000</td><td>1199.000</td><td>1085.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>659.463</td></tr>
+<tr><td><strong>M≥3.1</strong></td><td>1350.876</td><td>732.000</td><td>4832.000</td><td>953.000</td><td>825.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>523.832</td></tr>
+<tr><td><strong>M≥3.2</strong></td><td>1072.974</td><td>578.000</td><td>3839.000</td><td>758.000</td><td>661.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>416.058</td></tr>
+<tr><td><strong>M≥3.3</strong></td><td>852.232</td><td>456.000</td><td>3050.000</td><td>602.000</td><td>534.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>330.416</td></tr>
+<tr><td><strong>M≥3.4</strong></td><td>677.016</td><td>359.000</td><td>2422.000</td><td>479.000</td><td>424.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>262.500</td></tr>
+<tr><td><strong>M≥3.5</strong></td><td>537.758</td><td>282.000</td><td>1925.000</td><td>381.000</td><td>345.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>208.496</td></tr>
+<tr><td><strong>M≥3.6</strong></td><td>427.111</td><td>221.000</td><td>1531.000</td><td>303.000</td><td>269.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>165.612</td></tr>
+<tr><td><strong>M≥3.7</strong></td><td>339.248</td><td>173.000</td><td>1215.000</td><td>241.000</td><td>214.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>131.541</td></tr>
+<tr><td><strong>M≥3.8</strong></td><td>269.462</td><td>135.000</td><td>965.000</td><td>192.000</td><td>169.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>104.482</td></tr>
+<tr><td><strong>M≥3.9</strong></td><td>214.094</td><td>105.000</td><td>768.000</td><td>153.000</td><td>133.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>83.011</td></tr>
+<tr><td><strong>M≥4</strong></td><td>170.066</td><td>82.000</td><td>610.000</td><td>122.000</td><td>108.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>65.952</td></tr>
+<tr><td><strong>M≥4.1</strong></td><td>135.078</td><td>63.000</td><td>486.000</td><td>97.000</td><td>85.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>52.381</td></tr>
+<tr><td><strong>M≥4.2</strong></td><td>107.291</td><td>49.000</td><td>385.000</td><td>77.000</td><td>70.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>41.611</td></tr>
+<tr><td><strong>M≥4.3</strong></td><td>85.234</td><td>37.000</td><td>306.000</td><td>61.000</td><td>55.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>33.059</td></tr>
+<tr><td><strong>M≥4.4</strong></td><td>67.699</td><td>28.000</td><td>244.000</td><td>49.000</td><td>43.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>26.249</td></tr>
+<tr><td><strong>M≥4.5</strong></td><td>53.774</td><td>21.000</td><td>194.000</td><td>39.000</td><td>34.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>20.848</td></tr>
+<tr><td><strong>M≥4.6</strong></td><td>42.719</td><td>16.000</td><td>155.000</td><td>31.000</td><td>27.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>16.570</td></tr>
+<tr><td><strong>M≥4.7</strong></td><td>33.919</td><td>12.000</td><td>124.000</td><td>25.000</td><td>21.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>13.158</td></tr>
+<tr><td><strong>M≥4.8</strong></td><td>26.943</td><td>8.000</td><td>99.000</td><td>20.000</td><td>16.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>10.450</td></tr>
+<tr><td><strong>M≥4.9</strong></td><td>21.397</td><td>6.000</td><td>79.000</td><td>16.000</td><td>12.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>8.302</td></tr>
+<tr><td><strong>M≥5</strong></td><td>16.997</td><td>4.000</td><td>63.000</td><td>12.000</td><td>10.000</td><td>1.000 (99.98%)</td><td>0.000 (0.00%)</td><td>6.596</td></tr>
+<tr><td><strong>M≥5.1</strong></td><td>13.496</td><td>3.000</td><td>51.000</td><td>10.000</td><td>8.000</td><td>0.999 (99.92%)</td><td>0.000 (0.00%)</td><td>5.237</td></tr>
+<tr><td><strong>M≥5.2</strong></td><td>10.719</td><td>2.000</td><td>41.000</td><td>8.000</td><td>6.000</td><td>0.997 (99.70%)</td><td>0.000 (0.00%)</td><td>4.160</td></tr>
+<tr><td><strong>M≥5.3</strong></td><td>8.510</td><td>1.000</td><td>33.000</td><td>6.000</td><td>5.000</td><td>0.991 (99.07%)</td><td>0.000 (0.00%)</td><td>3.304</td></tr>
+<tr><td><strong>M≥5.4</strong></td><td>6.755</td><td>1.000</td><td>27.000</td><td>5.000</td><td>4.000</td><td>0.977 (97.71%)</td><td>0.000 (0.00%)</td><td>2.623</td></tr>
+<tr><td><strong>M≥5.5</strong></td><td>5.369</td><td>0.000</td><td>21.000</td><td>4.000</td><td>3.000</td><td>0.953 (95.32%)</td><td>0.000 (0.00%)</td><td>2.087</td></tr>
+<tr><td><strong>M≥5.6</strong></td><td>4.260</td><td>0.000</td><td>18.000</td><td>3.000</td><td>2.000</td><td>0.915 (91.52%)</td><td>0.000 (0.00%)</td><td>1.654</td></tr>
+<tr><td><strong>M≥5.7</strong></td><td>3.378</td><td>0.000</td><td>14.000</td><td>2.000</td><td>1.000</td><td>0.862 (86.18%)</td><td>0.000 (0.00%)</td><td>1.313</td></tr>
+<tr><td><strong>M≥5.8</strong></td><td>2.682</td><td>0.000</td><td>12.000</td><td>2.000</td><td>1.000</td><td>0.796 (79.63%)</td><td>0.000 (0.00%)</td><td>1.044</td></tr>
+<tr><td><strong>M≥5.9</strong></td><td>2.130</td><td>0.000</td><td>10.000</td><td>1.000</td><td>0.000</td><td>0.723 (72.33%)</td><td>0.000 (0.00%)</td><td>0.826</td></tr>
+<tr><td><strong>M≥6</strong></td><td>1.690</td><td>0.000</td><td>8.000</td><td>1.000</td><td>0.000</td><td>0.647 (64.65%)</td><td>0.000 (0.00%)</td><td>0.657</td></tr>
+<tr><td><strong>M≥6.1</strong></td><td>1.340</td><td>0.000</td><td>7.000</td><td>1.000</td><td>0.000</td><td>0.568 (56.79%)</td><td>0.000 (0.00%)</td><td>0.521</td></tr>
+<tr><td><strong>M≥6.2</strong></td><td>1.062</td><td>0.000</td><td>6.000</td><td>0.000</td><td>0.000</td><td>0.491 (49.05%)</td><td>0.000 (0.00%)</td><td>0.412</td></tr>
+<tr><td><strong>M≥6.3</strong></td><td>0.844</td><td>0.000</td><td>5.000</td><td>0.000</td><td>0.000</td><td>0.421 (42.11%)</td><td>0.000 (0.00%)</td><td>0.327</td></tr>
+<tr><td><strong>M≥6.4</strong></td><td>0.670</td><td>0.000</td><td>4.000</td><td>0.000</td><td>0.000</td><td>0.357 (35.72%)</td><td>0.000 (0.00%)</td><td>0.260</td></tr>
+<tr><td><strong>M≥6.5</strong></td><td>0.528</td><td>0.000</td><td>4.000</td><td>0.000</td><td>0.000</td><td>0.300 (29.98%)</td><td>0.000 (0.00%)</td><td>0.205</td></tr>
+<tr><td><strong>M≥6.6</strong></td><td>0.417</td><td>0.000</td><td>3.000</td><td>0.000</td><td>0.000</td><td>0.249 (24.95%)</td><td>0.000 (0.00%)</td><td>0.161</td></tr>
+<tr><td><strong>M≥6.7</strong></td><td>0.330</td><td>0.000</td><td>3.000</td><td>0.000</td><td>0.000</td><td>0.206 (20.62%)</td><td>0.000 (0.00%)</td><td>0.128</td></tr>
+<tr><td><strong>M≥6.8</strong></td><td>0.261</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.170 (17.00%)</td><td>0.000 (0.00%)</td><td>0.101</td></tr>
+<tr><td><strong>M≥6.9</strong></td><td>0.205</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.138 (13.83%)</td><td>0.000 (0.00%)</td><td>0.079</td></tr>
+<tr><td><strong>M≥7</strong></td><td>0.160</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.112 (11.20%)</td><td>0.000 (0.00%)</td><td>0.062</td></tr>
+<tr><td><strong>M≥7.1</strong></td><td>0.126</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.091 (9.08%)</td><td>0.000 (0.00%)</td><td>0.049</td></tr>
+<tr><td><strong>M≥7.2</strong></td><td>0.098</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.073 (7.28%)</td><td>0.000 (0.00%)</td><td>0.038</td></tr>
+<tr><td><strong>M≥7.3</strong></td><td>0.076</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.058 (5.78%)</td><td>0.000 (0.00%)</td><td>0.029</td></tr>
+<tr><td><strong>M≥7.4</strong></td><td>0.058</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.045 (4.51%)</td><td>0.000 (0.00%)</td><td>0.022</td></tr>
+<tr><td><strong>M≥7.5</strong></td><td>0.044</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.035 (3.55%)</td><td>0.000 (0.00%)</td><td>0.017</td></tr>
+<tr><td><strong>M≥7.6</strong></td><td>0.034</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.028 (2.76%)</td><td>0.000 (0.00%)</td><td>0.013</td></tr>
+<tr><td><strong>M≥7.7</strong></td><td>0.025</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.021 (2.10%)</td><td>0.000 (0.00%)</td><td>9.68E-3</td></tr>
+<tr><td><strong>M≥7.8</strong></td><td>0.019</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.016 (1.59%)</td><td>0.000 (0.00%)</td><td>7.09E-3</td></tr>
+<tr><td><strong>M≥7.9</strong></td><td>0.013</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.011 (1.14%)</td><td>0.000 (0.00%)</td><td>4.77E-3</td></tr>
+<tr><td><strong>M≥8</strong></td><td>8.45E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>7.68E-3 (0.77%)</td><td>0.000 (0.00%)</td><td>3.17E-3</td></tr>
+<tr><td><strong>M≥8.1</strong></td><td>5.26E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>5.02E-3 (0.50%)</td><td>0.000 (0.00%)</td><td>2.07E-3</td></tr>
+<tr><td><strong>M≥8.2</strong></td><td>2.40E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>2.33E-3 (0.23%)</td><td>0.000 (0.00%)</td><td>9.70E-4</td></tr>
+<tr><td><strong>M≥8.3</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.4</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.5</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.6</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.7</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.8</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+</tbody>
+</table>
+<h3 id="1-month-magnitude-number-distribution">1 Month Magnitude Number Distribution</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><strong>Legend</strong></p>
+<ul>
+<li><strong>Mean</strong> (thick black line): mean expected number across all 100000 catalogs</li>
+<li><strong>2.5%,97.5%</strong> (thin black lines): expected number percentiles across all 100000 catalogs</li>
+<li><strong>Median</strong> (thin blue line): median expected number across all 100000 catalogs</li>
+<li><strong>Mode</strong> (thin cyan line): modal expected number across all 100000 catalogs</li>
+<li><strong>1 mo Probability</strong> (thin red line): 1 month probability calculated as the fraction of catalogs with at least 1 occurrence</li>
+<li><strong>1 mo Supraseismogenic Probability</strong> (thin dashed red line): same as above, but only for supraseismogenic ruptures on explicitly modeled UCERF3 faults</li>
+<li><strong>95% Conf</strong> (light red shaded region): binomial 95% confidence bounds on probability</li>
+<li><strong>Primary</strong> (thin green line): mean expected number from primary triggered aftershocks only (no secondary, tertiary, etc...) across all 100000 catalogs</li>
+</ul>
+<p><img src="plots/1mo_mag_num_cumulative_triggered.png" alt="MFD Plot" /></p>
+<table>
+<thead>
+<tr><th>Mag</th><th>Mean</th><th>2.5 %ile</th><th>97.5 %ile</th><th>Median</th><th>Mode</th><th>1 mo Probability</th><th>1 mo Supra-Seis Prob</th><th>Primary Aftershocks Mean</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M≥2.5</strong></td><td>3416.362</td><td>2201.000</td><td>9841.000</td><td>2643.000</td><td>2383.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>1690.394</td></tr>
+<tr><td><strong>M≥2.6</strong></td><td>2713.693</td><td>1743.000</td><td>7829.000</td><td>2100.000</td><td>1880.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>1342.731</td></tr>
+<tr><td><strong>M≥2.7</strong></td><td>2155.565</td><td>1379.000</td><td>6213.000</td><td>1668.000</td><td>1547.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>1066.592</td></tr>
+<tr><td><strong>M≥2.8</strong></td><td>1712.193</td><td>1091.000</td><td>4937.000</td><td>1326.000</td><td>1212.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>847.231</td></tr>
+<tr><td><strong>M≥2.9</strong></td><td>1359.972</td><td>862.000</td><td>3912.000</td><td>1054.000</td><td>975.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>672.971</td></tr>
+<tr><td><strong>M≥3</strong></td><td>1080.319</td><td>681.000</td><td>3116.000</td><td>838.000</td><td>765.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>534.561</td></tr>
+<tr><td><strong>M≥3.1</strong></td><td>858.098</td><td>537.000</td><td>2475.000</td><td>667.000</td><td>613.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>424.600</td></tr>
+<tr><td><strong>M≥3.2</strong></td><td>681.580</td><td>423.000</td><td>1967.000</td><td>530.000</td><td>485.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>337.237</td></tr>
+<tr><td><strong>M≥3.3</strong></td><td>541.347</td><td>333.000</td><td>1565.000</td><td>422.000</td><td>388.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>267.834</td></tr>
+<tr><td><strong>M≥3.4</strong></td><td>430.040</td><td>262.000</td><td>1246.000</td><td>336.000</td><td>304.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>212.789</td></tr>
+<tr><td><strong>M≥3.5</strong></td><td>341.590</td><td>205.000</td><td>990.000</td><td>267.000</td><td>249.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>169.007</td></tr>
+<tr><td><strong>M≥3.6</strong></td><td>271.330</td><td>160.000</td><td>788.000</td><td>212.000</td><td>197.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>134.255</td></tr>
+<tr><td><strong>M≥3.7</strong></td><td>215.521</td><td>125.000</td><td>627.000</td><td>169.000</td><td>160.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>106.647</td></tr>
+<tr><td><strong>M≥3.8</strong></td><td>171.194</td><td>97.000</td><td>499.000</td><td>135.000</td><td>123.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>84.715</td></tr>
+<tr><td><strong>M≥3.9</strong></td><td>136.015</td><td>75.000</td><td>396.000</td><td>107.000</td><td>98.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>67.303</td></tr>
+<tr><td><strong>M≥4</strong></td><td>108.058</td><td>58.000</td><td>315.000</td><td>85.000</td><td>79.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>53.474</td></tr>
+<tr><td><strong>M≥4.1</strong></td><td>85.838</td><td>45.000</td><td>251.000</td><td>68.000</td><td>62.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>42.471</td></tr>
+<tr><td><strong>M≥4.2</strong></td><td>68.182</td><td>34.000</td><td>199.000</td><td>54.000</td><td>48.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>33.739</td></tr>
+<tr><td><strong>M≥4.3</strong></td><td>54.167</td><td>26.000</td><td>159.000</td><td>43.000</td><td>38.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>26.801</td></tr>
+<tr><td><strong>M≥4.4</strong></td><td>43.021</td><td>19.000</td><td>127.000</td><td>34.000</td><td>32.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>21.282</td></tr>
+<tr><td><strong>M≥4.5</strong></td><td>34.174</td><td>14.000</td><td>101.000</td><td>27.000</td><td>24.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>16.906</td></tr>
+<tr><td><strong>M≥4.6</strong></td><td>27.153</td><td>11.000</td><td>81.000</td><td>22.000</td><td>19.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>13.435</td></tr>
+<tr><td><strong>M≥4.7</strong></td><td>21.567</td><td>8.000</td><td>65.000</td><td>17.000</td><td>15.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>10.675</td></tr>
+<tr><td><strong>M≥4.8</strong></td><td>17.134</td><td>5.000</td><td>52.000</td><td>14.000</td><td>12.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>8.479</td></tr>
+<tr><td><strong>M≥4.9</strong></td><td>13.606</td><td>4.000</td><td>42.000</td><td>11.000</td><td>10.000</td><td>1.000 (99.98%)</td><td>0.000 (0.00%)</td><td>6.739</td></tr>
+<tr><td><strong>M≥5</strong></td><td>10.808</td><td>2.000</td><td>34.000</td><td>9.000</td><td>7.000</td><td>0.999 (99.89%)</td><td>0.000 (0.00%)</td><td>5.354</td></tr>
+<tr><td><strong>M≥5.1</strong></td><td>8.582</td><td>2.000</td><td>27.000</td><td>7.000</td><td>5.000</td><td>0.996 (99.58%)</td><td>0.000 (0.00%)</td><td>4.250</td></tr>
+<tr><td><strong>M≥5.2</strong></td><td>6.818</td><td>1.000</td><td>22.000</td><td>5.000</td><td>4.000</td><td>0.988 (98.79%)</td><td>0.000 (0.00%)</td><td>3.377</td></tr>
+<tr><td><strong>M≥5.3</strong></td><td>5.412</td><td>0.000</td><td>18.000</td><td>4.000</td><td>3.000</td><td>0.971 (97.09%)</td><td>0.000 (0.00%)</td><td>2.679</td></tr>
+<tr><td><strong>M≥5.4</strong></td><td>4.296</td><td>0.000</td><td>15.000</td><td>3.000</td><td>2.000</td><td>0.942 (94.19%)</td><td>0.000 (0.00%)</td><td>2.127</td></tr>
+<tr><td><strong>M≥5.5</strong></td><td>3.414</td><td>0.000</td><td>12.000</td><td>3.000</td><td>2.000</td><td>0.900 (89.96%)</td><td>0.000 (0.00%)</td><td>1.692</td></tr>
+<tr><td><strong>M≥5.6</strong></td><td>2.708</td><td>0.000</td><td>10.000</td><td>2.000</td><td>1.000</td><td>0.840 (84.03%)</td><td>0.000 (0.00%)</td><td>1.341</td></tr>
+<tr><td><strong>M≥5.7</strong></td><td>2.148</td><td>0.000</td><td>9.000</td><td>1.000</td><td>1.000</td><td>0.770 (77.03%)</td><td>0.000 (0.00%)</td><td>1.065</td></tr>
+<tr><td><strong>M≥5.8</strong></td><td>1.705</td><td>0.000</td><td>7.000</td><td>1.000</td><td>0.000</td><td>0.692 (69.25%)</td><td>0.000 (0.00%)</td><td>0.847</td></tr>
+<tr><td><strong>M≥5.9</strong></td><td>1.354</td><td>0.000</td><td>6.000</td><td>1.000</td><td>0.000</td><td>0.613 (61.27%)</td><td>0.000 (0.00%)</td><td>0.669</td></tr>
+<tr><td><strong>M≥6</strong></td><td>1.075</td><td>0.000</td><td>5.000</td><td>1.000</td><td>0.000</td><td>0.533 (53.33%)</td><td>0.000 (0.00%)</td><td>0.533</td></tr>
+<tr><td><strong>M≥6.1</strong></td><td>0.852</td><td>0.000</td><td>4.000</td><td>0.000</td><td>0.000</td><td>0.459 (45.87%)</td><td>0.000 (0.00%)</td><td>0.423</td></tr>
+<tr><td><strong>M≥6.2</strong></td><td>0.675</td><td>0.000</td><td>4.000</td><td>0.000</td><td>0.000</td><td>0.389 (38.89%)</td><td>0.000 (0.00%)</td><td>0.335</td></tr>
+<tr><td><strong>M≥6.3</strong></td><td>0.535</td><td>0.000</td><td>3.000</td><td>0.000</td><td>0.000</td><td>0.327 (32.75%)</td><td>0.000 (0.00%)</td><td>0.265</td></tr>
+<tr><td><strong>M≥6.4</strong></td><td>0.425</td><td>0.000</td><td>3.000</td><td>0.000</td><td>0.000</td><td>0.274 (27.36%)</td><td>0.000 (0.00%)</td><td>0.210</td></tr>
+<tr><td><strong>M≥6.5</strong></td><td>0.335</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.226 (22.61%)</td><td>0.000 (0.00%)</td><td>0.166</td></tr>
+<tr><td><strong>M≥6.6</strong></td><td>0.264</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.186 (18.56%)</td><td>0.000 (0.00%)</td><td>0.131</td></tr>
+<tr><td><strong>M≥6.7</strong></td><td>0.210</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.152 (15.21%)</td><td>0.000 (0.00%)</td><td>0.104</td></tr>
+<tr><td><strong>M≥6.8</strong></td><td>0.165</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.124 (12.41%)</td><td>0.000 (0.00%)</td><td>0.082</td></tr>
+<tr><td><strong>M≥6.9</strong></td><td>0.130</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.100 (9.99%)</td><td>0.000 (0.00%)</td><td>0.064</td></tr>
+<tr><td><strong>M≥7</strong></td><td>0.102</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.080 (7.99%)</td><td>0.000 (0.00%)</td><td>0.050</td></tr>
+<tr><td><strong>M≥7.1</strong></td><td>0.080</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.064 (6.44%)</td><td>0.000 (0.00%)</td><td>0.040</td></tr>
+<tr><td><strong>M≥7.2</strong></td><td>0.063</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.051 (5.10%)</td><td>0.000 (0.00%)</td><td>0.031</td></tr>
+<tr><td><strong>M≥7.3</strong></td><td>0.048</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.040 (4.03%)</td><td>0.000 (0.00%)</td><td>0.024</td></tr>
+<tr><td><strong>M≥7.4</strong></td><td>0.037</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.031 (3.11%)</td><td>0.000 (0.00%)</td><td>0.018</td></tr>
+<tr><td><strong>M≥7.5</strong></td><td>0.028</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.024 (2.42%)</td><td>0.000 (0.00%)</td><td>0.014</td></tr>
+<tr><td><strong>M≥7.6</strong></td><td>0.021</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.019 (1.88%)</td><td>0.000 (0.00%)</td><td>0.011</td></tr>
+<tr><td><strong>M≥7.7</strong></td><td>0.016</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.014 (1.41%)</td><td>0.000 (0.00%)</td><td>7.84E-3</td></tr>
+<tr><td><strong>M≥7.8</strong></td><td>0.012</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.011 (1.06%)</td><td>0.000 (0.00%)</td><td>5.79E-3</td></tr>
+<tr><td><strong>M≥7.9</strong></td><td>8.24E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>7.61E-3 (0.76%)</td><td>0.000 (0.00%)</td><td>3.88E-3</td></tr>
+<tr><td><strong>M≥8</strong></td><td>5.37E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>5.02E-3 (0.50%)</td><td>0.000 (0.00%)</td><td>2.58E-3</td></tr>
+<tr><td><strong>M≥8.1</strong></td><td>3.46E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>3.37E-3 (0.34%)</td><td>0.000 (0.00%)</td><td>1.75E-3</td></tr>
+<tr><td><strong>M≥8.2</strong></td><td>1.60E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>1.56E-3 (0.16%)</td><td>0.000 (0.00%)</td><td>8.00E-4</td></tr>
+<tr><td><strong>M≥8.3</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.4</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.5</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.6</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.7</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.8</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+</tbody>
+</table>
+<h3 id="1-week-magnitude-number-distribution">1 Week Magnitude Number Distribution</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><strong>Legend</strong></p>
+<ul>
+<li><strong>Mean</strong> (thick black line): mean expected number across all 100000 catalogs</li>
+<li><strong>2.5%,97.5%</strong> (thin black lines): expected number percentiles across all 100000 catalogs</li>
+<li><strong>Median</strong> (thin blue line): median expected number across all 100000 catalogs</li>
+<li><strong>Mode</strong> (thin cyan line): modal expected number across all 100000 catalogs</li>
+<li><strong>1 wk Probability</strong> (thin red line): 1 week probability calculated as the fraction of catalogs with at least 1 occurrence</li>
+<li><strong>1 wk Supraseismogenic Probability</strong> (thin dashed red line): same as above, but only for supraseismogenic ruptures on explicitly modeled UCERF3 faults</li>
+<li><strong>95% Conf</strong> (light red shaded region): binomial 95% confidence bounds on probability</li>
+<li><strong>Primary</strong> (thin green line): mean expected number from primary triggered aftershocks only (no secondary, tertiary, etc...) across all 100000 catalogs</li>
+</ul>
+<p><img src="plots/1wk_mag_num_cumulative_triggered.png" alt="MFD Plot" /></p>
+<table>
+<thead>
+<tr><th>Mag</th><th>Mean</th><th>2.5 %ile</th><th>97.5 %ile</th><th>Median</th><th>Mode</th><th>1 wk Probability</th><th>1 wk Supra-Seis Prob</th><th>Primary Aftershocks Mean</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M≥2.5</strong></td><td>2524.497</td><td>1758.000</td><td>6296.000</td><td>2052.000</td><td>1949.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>1431.201</td></tr>
+<tr><td><strong>M≥2.6</strong></td><td>2005.212</td><td>1392.000</td><td>5004.000</td><td>1631.000</td><td>1526.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>1136.807</td></tr>
+<tr><td><strong>M≥2.7</strong></td><td>1592.854</td><td>1101.000</td><td>3976.000</td><td>1296.000</td><td>1227.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>903.013</td></tr>
+<tr><td><strong>M≥2.8</strong></td><td>1265.214</td><td>869.000</td><td>3153.000</td><td>1031.000</td><td>970.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>717.290</td></tr>
+<tr><td><strong>M≥2.9</strong></td><td>1004.986</td><td>687.000</td><td>2513.000</td><td>820.000</td><td>767.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>569.762</td></tr>
+<tr><td><strong>M≥3</strong></td><td>798.321</td><td>541.000</td><td>1993.000</td><td>652.000</td><td>606.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>452.561</td></tr>
+<tr><td><strong>M≥3.1</strong></td><td>634.088</td><td>426.000</td><td>1586.000</td><td>518.000</td><td>482.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>359.461</td></tr>
+<tr><td><strong>M≥3.2</strong></td><td>503.631</td><td>335.000</td><td>1261.000</td><td>412.000</td><td>386.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>285.494</td></tr>
+<tr><td><strong>M≥3.3</strong></td><td>400.004</td><td>263.000</td><td>1002.000</td><td>328.000</td><td>308.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>226.735</td></tr>
+<tr><td><strong>M≥3.4</strong></td><td>317.753</td><td>206.000</td><td>797.000</td><td>261.000</td><td>245.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>180.134</td></tr>
+<tr><td><strong>M≥3.5</strong></td><td>252.387</td><td>161.000</td><td>633.000</td><td>208.000</td><td>192.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>143.074</td></tr>
+<tr><td><strong>M≥3.6</strong></td><td>200.477</td><td>126.000</td><td>505.000</td><td>165.000</td><td>152.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>113.644</td></tr>
+<tr><td><strong>M≥3.7</strong></td><td>159.248</td><td>98.000</td><td>402.000</td><td>132.000</td><td>123.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>90.270</td></tr>
+<tr><td><strong>M≥3.8</strong></td><td>126.499</td><td>76.000</td><td>320.000</td><td>105.000</td><td>99.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>71.704</td></tr>
+<tr><td><strong>M≥3.9</strong></td><td>100.500</td><td>58.000</td><td>255.000</td><td>83.000</td><td>75.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>56.962</td></tr>
+<tr><td><strong>M≥4</strong></td><td>79.843</td><td>45.000</td><td>203.000</td><td>66.000</td><td>61.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>45.253</td></tr>
+<tr><td><strong>M≥4.1</strong></td><td>63.428</td><td>34.000</td><td>162.000</td><td>53.000</td><td>49.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>35.941</td></tr>
+<tr><td><strong>M≥4.2</strong></td><td>50.378</td><td>26.000</td><td>129.000</td><td>42.000</td><td>38.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>28.549</td></tr>
+<tr><td><strong>M≥4.3</strong></td><td>40.016</td><td>20.000</td><td>102.000</td><td>33.000</td><td>30.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>22.678</td></tr>
+<tr><td><strong>M≥4.4</strong></td><td>31.780</td><td>15.000</td><td>82.000</td><td>27.000</td><td>25.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>18.005</td></tr>
+<tr><td><strong>M≥4.5</strong></td><td>25.245</td><td>11.000</td><td>66.000</td><td>21.000</td><td>19.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>14.301</td></tr>
+<tr><td><strong>M≥4.6</strong></td><td>20.054</td><td>8.000</td><td>53.000</td><td>17.000</td><td>15.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>11.363</td></tr>
+<tr><td><strong>M≥4.7</strong></td><td>15.932</td><td>6.000</td><td>43.000</td><td>13.000</td><td>12.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>9.031</td></tr>
+<tr><td><strong>M≥4.8</strong></td><td>12.656</td><td>4.000</td><td>34.000</td><td>11.000</td><td>9.000</td><td>1.000 (99.98%)</td><td>0.000 (0.00%)</td><td>7.174</td></tr>
+<tr><td><strong>M≥4.9</strong></td><td>10.050</td><td>3.000</td><td>28.000</td><td>8.000</td><td>7.000</td><td>0.999 (99.89%)</td><td>0.000 (0.00%)</td><td>5.703</td></tr>
+<tr><td><strong>M≥5</strong></td><td>7.985</td><td>2.000</td><td>22.000</td><td>7.000</td><td>6.000</td><td>0.996 (99.60%)</td><td>0.000 (0.00%)</td><td>4.530</td></tr>
+<tr><td><strong>M≥5.1</strong></td><td>6.338</td><td>1.000</td><td>18.000</td><td>5.000</td><td>4.000</td><td>0.988 (98.81%)</td><td>0.000 (0.00%)</td><td>3.597</td></tr>
+<tr><td><strong>M≥5.2</strong></td><td>5.038</td><td>0.000</td><td>15.000</td><td>4.000</td><td>3.000</td><td>0.972 (97.21%)</td><td>0.000 (0.00%)</td><td>2.858</td></tr>
+<tr><td><strong>M≥5.3</strong></td><td>4.001</td><td>0.000</td><td>13.000</td><td>3.000</td><td>2.000</td><td>0.943 (94.29%)</td><td>0.000 (0.00%)</td><td>2.268</td></tr>
+<tr><td><strong>M≥5.4</strong></td><td>3.176</td><td>0.000</td><td>10.000</td><td>2.000</td><td>2.000</td><td>0.900 (89.99%)</td><td>0.000 (0.00%)</td><td>1.801</td></tr>
+<tr><td><strong>M≥5.5</strong></td><td>2.524</td><td>0.000</td><td>9.000</td><td>2.000</td><td>1.000</td><td>0.842 (84.17%)</td><td>0.000 (0.00%)</td><td>1.433</td></tr>
+<tr><td><strong>M≥5.6</strong></td><td>2.002</td><td>0.000</td><td>7.000</td><td>1.000</td><td>1.000</td><td>0.771 (77.07%)</td><td>0.000 (0.00%)</td><td>1.136</td></tr>
+<tr><td><strong>M≥5.7</strong></td><td>1.590</td><td>0.000</td><td>6.000</td><td>1.000</td><td>1.000</td><td>0.694 (69.35%)</td><td>0.000 (0.00%)</td><td>0.903</td></tr>
+<tr><td><strong>M≥5.8</strong></td><td>1.262</td><td>0.000</td><td>5.000</td><td>1.000</td><td>0.000</td><td>0.612 (61.17%)</td><td>0.000 (0.00%)</td><td>0.718</td></tr>
+<tr><td><strong>M≥5.9</strong></td><td>1.001</td><td>0.000</td><td>5.000</td><td>1.000</td><td>0.000</td><td>0.531 (53.11%)</td><td>0.000 (0.00%)</td><td>0.567</td></tr>
+<tr><td><strong>M≥6</strong></td><td>0.794</td><td>0.000</td><td>4.000</td><td>0.000</td><td>0.000</td><td>0.455 (45.48%)</td><td>0.000 (0.00%)</td><td>0.451</td></tr>
+<tr><td><strong>M≥6.1</strong></td><td>0.629</td><td>0.000</td><td>3.000</td><td>0.000</td><td>0.000</td><td>0.386 (38.56%)</td><td>0.000 (0.00%)</td><td>0.358</td></tr>
+<tr><td><strong>M≥6.2</strong></td><td>0.498</td><td>0.000</td><td>3.000</td><td>0.000</td><td>0.000</td><td>0.323 (32.29%)</td><td>0.000 (0.00%)</td><td>0.283</td></tr>
+<tr><td><strong>M≥6.3</strong></td><td>0.395</td><td>0.000</td><td>3.000</td><td>0.000</td><td>0.000</td><td>0.269 (26.85%)</td><td>0.000 (0.00%)</td><td>0.224</td></tr>
+<tr><td><strong>M≥6.4</strong></td><td>0.313</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.222 (22.23%)</td><td>0.000 (0.00%)</td><td>0.177</td></tr>
+<tr><td><strong>M≥6.5</strong></td><td>0.248</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.182 (18.24%)</td><td>0.000 (0.00%)</td><td>0.141</td></tr>
+<tr><td><strong>M≥6.6</strong></td><td>0.195</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.148 (14.84%)</td><td>0.000 (0.00%)</td><td>0.111</td></tr>
+<tr><td><strong>M≥6.7</strong></td><td>0.156</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.121 (12.12%)</td><td>0.000 (0.00%)</td><td>0.088</td></tr>
+<tr><td><strong>M≥6.8</strong></td><td>0.122</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.098 (9.77%)</td><td>0.000 (0.00%)</td><td>0.069</td></tr>
+<tr><td><strong>M≥6.9</strong></td><td>0.096</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.078 (7.83%)</td><td>0.000 (0.00%)</td><td>0.054</td></tr>
+<tr><td><strong>M≥7</strong></td><td>0.075</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.062 (6.24%)</td><td>0.000 (0.00%)</td><td>0.043</td></tr>
+<tr><td><strong>M≥7.1</strong></td><td>0.059</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.050 (5.00%)</td><td>0.000 (0.00%)</td><td>0.034</td></tr>
+<tr><td><strong>M≥7.2</strong></td><td>0.046</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.039 (3.94%)</td><td>0.000 (0.00%)</td><td>0.026</td></tr>
+<tr><td><strong>M≥7.3</strong></td><td>0.036</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.031 (3.11%)</td><td>0.000 (0.00%)</td><td>0.020</td></tr>
+<tr><td><strong>M≥7.4</strong></td><td>0.027</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.024 (2.40%)</td><td>0.000 (0.00%)</td><td>0.015</td></tr>
+<tr><td><strong>M≥7.5</strong></td><td>0.021</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.019 (1.85%)</td><td>0.000 (0.00%)</td><td>0.012</td></tr>
+<tr><td><strong>M≥7.6</strong></td><td>0.016</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.014 (1.44%)</td><td>0.000 (0.00%)</td><td>8.93E-3</td></tr>
+<tr><td><strong>M≥7.7</strong></td><td>0.012</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.011 (1.08%)</td><td>0.000 (0.00%)</td><td>6.65E-3</td></tr>
+<tr><td><strong>M≥7.8</strong></td><td>8.74E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>8.09E-3 (0.81%)</td><td>0.000 (0.00%)</td><td>4.86E-3</td></tr>
+<tr><td><strong>M≥7.9</strong></td><td>6.05E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>5.69E-3 (0.57%)</td><td>0.000 (0.00%)</td><td>3.23E-3</td></tr>
+<tr><td><strong>M≥8</strong></td><td>4.02E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>3.82E-3 (0.38%)</td><td>0.000 (0.00%)</td><td>2.18E-3</td></tr>
+<tr><td><strong>M≥8.1</strong></td><td>2.62E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>2.57E-3 (0.26%)</td><td>0.000 (0.00%)</td><td>1.47E-3</td></tr>
+<tr><td><strong>M≥8.2</strong></td><td>1.21E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>1.19E-3 (0.12%)</td><td>0.000 (0.00%)</td><td>6.80E-4</td></tr>
+<tr><td><strong>M≥8.3</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.4</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.5</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.6</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.7</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.8</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+</tbody>
+</table>
+<h3 id="1-day-magnitude-number-distribution">1 Day Magnitude Number Distribution</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><strong>Legend</strong></p>
+<ul>
+<li><strong>Mean</strong> (thick black line): mean expected number across all 100000 catalogs</li>
+<li><strong>2.5%,97.5%</strong> (thin black lines): expected number percentiles across all 100000 catalogs</li>
+<li><strong>Median</strong> (thin blue line): median expected number across all 100000 catalogs</li>
+<li><strong>Mode</strong> (thin cyan line): modal expected number across all 100000 catalogs</li>
+<li><strong>1 d Probability</strong> (thin red line): 1 day probability calculated as the fraction of catalogs with at least 1 occurrence</li>
+<li><strong>1 d Supraseismogenic Probability</strong> (thin dashed red line): same as above, but only for supraseismogenic ruptures on explicitly modeled UCERF3 faults</li>
+<li><strong>95% Conf</strong> (light red shaded region): binomial 95% confidence bounds on probability</li>
+<li><strong>Primary</strong> (thin green line): mean expected number from primary triggered aftershocks only (no secondary, tertiary, etc...) across all 100000 catalogs</li>
+</ul>
+<p><img src="plots/1d_mag_num_cumulative_triggered.png" alt="MFD Plot" /></p>
+<table>
+<thead>
+<tr><th>Mag</th><th>Mean</th><th>2.5 %ile</th><th>97.5 %ile</th><th>Median</th><th>Mode</th><th>1 d Probability</th><th>1 d Supra-Seis Prob</th><th>Primary Aftershocks Mean</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M≥2.5</strong></td><td>1568.680</td><td>1205.000</td><td>3193.000</td><td>1364.000</td><td>1314.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>1064.566</td></tr>
+<tr><td><strong>M≥2.6</strong></td><td>1246.038</td><td>952.000</td><td>2538.000</td><td>1085.000</td><td>1042.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>845.606</td></tr>
+<tr><td><strong>M≥2.7</strong></td><td>989.763</td><td>752.000</td><td>2014.000</td><td>862.000</td><td>820.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>671.679</td></tr>
+<tr><td><strong>M≥2.8</strong></td><td>786.189</td><td>593.000</td><td>1601.000</td><td>686.000</td><td>662.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>533.557</td></tr>
+<tr><td><strong>M≥2.9</strong></td><td>624.539</td><td>467.000</td><td>1271.000</td><td>546.000</td><td>529.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>423.839</td></tr>
+<tr><td><strong>M≥3</strong></td><td>496.109</td><td>367.000</td><td>1014.000</td><td>434.000</td><td>414.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>336.651</td></tr>
+<tr><td><strong>M≥3.1</strong></td><td>394.081</td><td>288.000</td><td>805.000</td><td>345.000</td><td>325.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>267.412</td></tr>
+<tr><td><strong>M≥3.2</strong></td><td>313.013</td><td>226.000</td><td>640.000</td><td>275.000</td><td>269.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>212.383</td></tr>
+<tr><td><strong>M≥3.3</strong></td><td>248.610</td><td>177.000</td><td>508.000</td><td>218.000</td><td>209.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>168.670</td></tr>
+<tr><td><strong>M≥3.4</strong></td><td>197.488</td><td>138.000</td><td>405.000</td><td>174.000</td><td>164.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>134.001</td></tr>
+<tr><td><strong>M≥3.5</strong></td><td>156.853</td><td>107.000</td><td>322.000</td><td>138.000</td><td>132.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>106.428</td></tr>
+<tr><td><strong>M≥3.6</strong></td><td>124.589</td><td>83.000</td><td>256.000</td><td>110.000</td><td>105.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>84.536</td></tr>
+<tr><td><strong>M≥3.7</strong></td><td>98.972</td><td>64.000</td><td>204.000</td><td>88.000</td><td>86.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>67.157</td></tr>
+<tr><td><strong>M≥3.8</strong></td><td>78.616</td><td>49.000</td><td>163.000</td><td>70.000</td><td>67.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>53.343</td></tr>
+<tr><td><strong>M≥3.9</strong></td><td>62.453</td><td>38.000</td><td>130.000</td><td>55.000</td><td>54.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>42.371</td></tr>
+<tr><td><strong>M≥4</strong></td><td>49.602</td><td>29.000</td><td>104.000</td><td>44.000</td><td>43.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>33.648</td></tr>
+<tr><td><strong>M≥4.1</strong></td><td>39.405</td><td>22.000</td><td>83.000</td><td>35.000</td><td>33.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>26.727</td></tr>
+<tr><td><strong>M≥4.2</strong></td><td>31.296</td><td>16.000</td><td>66.000</td><td>28.000</td><td>26.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>21.231</td></tr>
+<tr><td><strong>M≥4.3</strong></td><td>24.861</td><td>12.000</td><td>53.000</td><td>22.000</td><td>21.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>16.866</td></tr>
+<tr><td><strong>M≥4.4</strong></td><td>19.742</td><td>9.000</td><td>43.000</td><td>18.000</td><td>16.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>13.387</td></tr>
+<tr><td><strong>M≥4.5</strong></td><td>15.681</td><td>6.000</td><td>35.000</td><td>14.000</td><td>12.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>10.631</td></tr>
+<tr><td><strong>M≥4.6</strong></td><td>12.454</td><td>4.000</td><td>28.000</td><td>11.000</td><td>10.000</td><td>1.000 (99.99%)</td><td>0.000 (0.00%)</td><td>8.444</td></tr>
+<tr><td><strong>M≥4.7</strong></td><td>9.892</td><td>3.000</td><td>23.000</td><td>9.000</td><td>8.000</td><td>1.000 (99.96%)</td><td>0.000 (0.00%)</td><td>6.708</td></tr>
+<tr><td><strong>M≥4.8</strong></td><td>7.857</td><td>2.000</td><td>19.000</td><td>7.000</td><td>6.000</td><td>0.998 (99.80%)</td><td>0.000 (0.00%)</td><td>5.329</td></tr>
+<tr><td><strong>M≥4.9</strong></td><td>6.243</td><td>1.000</td><td>16.000</td><td>5.000</td><td>5.000</td><td>0.993 (99.25%)</td><td>0.000 (0.00%)</td><td>4.239</td></tr>
+<tr><td><strong>M≥5</strong></td><td>4.957</td><td>1.000</td><td>13.000</td><td>4.000</td><td>4.000</td><td>0.980 (97.96%)</td><td>0.000 (0.00%)</td><td>3.367</td></tr>
+<tr><td><strong>M≥5.1</strong></td><td>3.936</td><td>0.000</td><td>11.000</td><td>3.000</td><td>3.000</td><td>0.956 (95.61%)</td><td>0.000 (0.00%)</td><td>2.675</td></tr>
+<tr><td><strong>M≥5.2</strong></td><td>3.126</td><td>0.000</td><td>9.000</td><td>3.000</td><td>2.000</td><td>0.917 (91.75%)</td><td>0.000 (0.00%)</td><td>2.124</td></tr>
+<tr><td><strong>M≥5.3</strong></td><td>2.480</td><td>0.000</td><td>8.000</td><td>2.000</td><td>1.000</td><td>0.863 (86.34%)</td><td>0.000 (0.00%)</td><td>1.685</td></tr>
+<tr><td><strong>M≥5.4</strong></td><td>1.968</td><td>0.000</td><td>6.000</td><td>2.000</td><td>1.000</td><td>0.796 (79.62%)</td><td>0.000 (0.00%)</td><td>1.339</td></tr>
+<tr><td><strong>M≥5.5</strong></td><td>1.565</td><td>0.000</td><td>6.000</td><td>1.000</td><td>1.000</td><td>0.721 (72.08%)</td><td>0.000 (0.00%)</td><td>1.065</td></tr>
+<tr><td><strong>M≥5.6</strong></td><td>1.244</td><td>0.000</td><td>5.000</td><td>1.000</td><td>0.000</td><td>0.639 (63.91%)</td><td>0.000 (0.00%)</td><td>0.846</td></tr>
+<tr><td><strong>M≥5.7</strong></td><td>0.986</td><td>0.000</td><td>4.000</td><td>1.000</td><td>0.000</td><td>0.557 (55.72%)</td><td>0.000 (0.00%)</td><td>0.672</td></tr>
+<tr><td><strong>M≥5.8</strong></td><td>0.783</td><td>0.000</td><td>4.000</td><td>0.000</td><td>0.000</td><td>0.478 (47.83%)</td><td>0.000 (0.00%)</td><td>0.534</td></tr>
+<tr><td><strong>M≥5.9</strong></td><td>0.621</td><td>0.000</td><td>3.000</td><td>0.000</td><td>0.000</td><td>0.405 (40.48%)</td><td>0.000 (0.00%)</td><td>0.422</td></tr>
+<tr><td><strong>M≥6</strong></td><td>0.493</td><td>0.000</td><td>3.000</td><td>0.000</td><td>0.000</td><td>0.340 (33.98%)</td><td>0.000 (0.00%)</td><td>0.335</td></tr>
+<tr><td><strong>M≥6.1</strong></td><td>0.391</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.283 (28.26%)</td><td>0.000 (0.00%)</td><td>0.266</td></tr>
+<tr><td><strong>M≥6.2</strong></td><td>0.309</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.233 (23.27%)</td><td>0.000 (0.00%)</td><td>0.211</td></tr>
+<tr><td><strong>M≥6.3</strong></td><td>0.245</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.191 (19.07%)</td><td>0.000 (0.00%)</td><td>0.167</td></tr>
+<tr><td><strong>M≥6.4</strong></td><td>0.194</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.155 (15.52%)</td><td>0.000 (0.00%)</td><td>0.132</td></tr>
+<tr><td><strong>M≥6.5</strong></td><td>0.153</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.126 (12.60%)</td><td>0.000 (0.00%)</td><td>0.105</td></tr>
+<tr><td><strong>M≥6.6</strong></td><td>0.121</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.101 (10.13%)</td><td>0.000 (0.00%)</td><td>0.082</td></tr>
+<tr><td><strong>M≥6.7</strong></td><td>0.096</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.082 (8.21%)</td><td>0.000 (0.00%)</td><td>0.066</td></tr>
+<tr><td><strong>M≥6.8</strong></td><td>0.076</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.065 (6.54%)</td><td>0.000 (0.00%)</td><td>0.051</td></tr>
+<tr><td><strong>M≥6.9</strong></td><td>0.059</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.052 (5.20%)</td><td>0.000 (0.00%)</td><td>0.040</td></tr>
+<tr><td><strong>M≥7</strong></td><td>0.047</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.041 (4.12%)</td><td>0.000 (0.00%)</td><td>0.032</td></tr>
+<tr><td><strong>M≥7.1</strong></td><td>0.037</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.033 (3.30%)</td><td>0.000 (0.00%)</td><td>0.025</td></tr>
+<tr><td><strong>M≥7.2</strong></td><td>0.028</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.026 (2.55%)</td><td>0.000 (0.00%)</td><td>0.019</td></tr>
+<tr><td><strong>M≥7.3</strong></td><td>0.022</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.020 (2.00%)</td><td>0.000 (0.00%)</td><td>0.015</td></tr>
+<tr><td><strong>M≥7.4</strong></td><td>0.017</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.015 (1.53%)</td><td>0.000 (0.00%)</td><td>0.011</td></tr>
+<tr><td><strong>M≥7.5</strong></td><td>0.012</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.012 (1.15%)</td><td>0.000 (0.00%)</td><td>8.51E-3</td></tr>
+<tr><td><strong>M≥7.6</strong></td><td>9.29E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>8.70E-3 (0.87%)</td><td>0.000 (0.00%)</td><td>6.46E-3</td></tr>
+<tr><td><strong>M≥7.7</strong></td><td>6.83E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>6.41E-3 (0.64%)</td><td>0.000 (0.00%)</td><td>4.76E-3</td></tr>
+<tr><td><strong>M≥7.8</strong></td><td>5.07E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>4.81E-3 (0.48%)</td><td>0.000 (0.00%)</td><td>3.47E-3</td></tr>
+<tr><td><strong>M≥7.9</strong></td><td>3.56E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>3.42E-3 (0.34%)</td><td>0.000 (0.00%)</td><td>2.45E-3</td></tr>
+<tr><td><strong>M≥8</strong></td><td>2.36E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>2.27E-3 (0.23%)</td><td>0.000 (0.00%)</td><td>1.61E-3</td></tr>
+<tr><td><strong>M≥8.1</strong></td><td>1.48E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>1.44E-3 (0.14%)</td><td>0.000 (0.00%)</td><td>1.05E-3</td></tr>
+<tr><td><strong>M≥8.2</strong></td><td>7.10E-4</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>6.90E-4 (0.07%)</td><td>0.000 (0.00%)</td><td>5.20E-4</td></tr>
+<tr><td><strong>M≥8.3</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.4</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.5</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.6</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.7</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.8</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+</tbody>
+</table>
+<h3 id="1-hour-magnitude-number-distribution">1 Hour Magnitude Number Distribution</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><strong>Legend</strong></p>
+<ul>
+<li><strong>Mean</strong> (thick black line): mean expected number across all 100000 catalogs</li>
+<li><strong>2.5%,97.5%</strong> (thin black lines): expected number percentiles across all 100000 catalogs</li>
+<li><strong>Median</strong> (thin blue line): median expected number across all 100000 catalogs</li>
+<li><strong>Mode</strong> (thin cyan line): modal expected number across all 100000 catalogs</li>
+<li><strong>1 hr Probability</strong> (thin red line): 1 hour probability calculated as the fraction of catalogs with at least 1 occurrence</li>
+<li><strong>1 hr Supraseismogenic Probability</strong> (thin dashed red line): same as above, but only for supraseismogenic ruptures on explicitly modeled UCERF3 faults</li>
+<li><strong>95% Conf</strong> (light red shaded region): binomial 95% confidence bounds on probability</li>
+<li><strong>Primary</strong> (thin green line): mean expected number from primary triggered aftershocks only (no secondary, tertiary, etc...) across all 100000 catalogs</li>
+</ul>
+<p><img src="plots/1hr_mag_num_cumulative_triggered.png" alt="MFD Plot" /></p>
+<table>
+<thead>
+<tr><th>Mag</th><th>Mean</th><th>2.5 %ile</th><th>97.5 %ile</th><th>Median</th><th>Mode</th><th>1 hr Probability</th><th>1 hr Supra-Seis Prob</th><th>Primary Aftershocks Mean</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M≥2.5</strong></td><td>519.107</td><td>445.000</td><td>698.000</td><td>497.000</td><td>494.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>457.617</td></tr>
+<tr><td><strong>M≥2.6</strong></td><td>412.327</td><td>349.000</td><td>556.000</td><td>395.000</td><td>395.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>363.486</td></tr>
+<tr><td><strong>M≥2.7</strong></td><td>327.540</td><td>274.000</td><td>442.000</td><td>314.000</td><td>309.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>288.728</td></tr>
+<tr><td><strong>M≥2.8</strong></td><td>260.177</td><td>214.000</td><td>353.000</td><td>250.000</td><td>243.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>229.356</td></tr>
+<tr><td><strong>M≥2.9</strong></td><td>206.670</td><td>167.000</td><td>281.000</td><td>199.000</td><td>195.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>182.176</td></tr>
+<tr><td><strong>M≥3</strong></td><td>164.157</td><td>130.000</td><td>224.000</td><td>158.000</td><td>156.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>144.706</td></tr>
+<tr><td><strong>M≥3.1</strong></td><td>130.383</td><td>101.000</td><td>179.000</td><td>125.000</td><td>124.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>114.932</td></tr>
+<tr><td><strong>M≥3.2</strong></td><td>103.582</td><td>78.000</td><td>143.000</td><td>100.000</td><td>98.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>91.309</td></tr>
+<tr><td><strong>M≥3.3</strong></td><td>82.247</td><td>61.000</td><td>115.000</td><td>79.000</td><td>77.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>72.512</td></tr>
+<tr><td><strong>M≥3.4</strong></td><td>65.336</td><td>47.000</td><td>92.000</td><td>63.000</td><td>60.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>57.608</td></tr>
+<tr><td><strong>M≥3.5</strong></td><td>51.890</td><td>36.000</td><td>75.000</td><td>50.000</td><td>49.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>45.753</td></tr>
+<tr><td><strong>M≥3.6</strong></td><td>41.221</td><td>27.000</td><td>61.000</td><td>40.000</td><td>38.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>36.345</td></tr>
+<tr><td><strong>M≥3.7</strong></td><td>32.742</td><td>20.000</td><td>49.000</td><td>31.000</td><td>31.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>28.870</td></tr>
+<tr><td><strong>M≥3.8</strong></td><td>26.009</td><td>15.000</td><td>40.000</td><td>25.000</td><td>24.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>22.935</td></tr>
+<tr><td><strong>M≥3.9</strong></td><td>20.659</td><td>11.000</td><td>33.000</td><td>20.000</td><td>19.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>18.223</td></tr>
+<tr><td><strong>M≥4</strong></td><td>16.405</td><td>8.000</td><td>27.000</td><td>16.000</td><td>15.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>14.473</td></tr>
+<tr><td><strong>M≥4.1</strong></td><td>13.024</td><td>6.000</td><td>22.000</td><td>12.000</td><td>12.000</td><td>1.000 (100.00%)</td><td>0.000 (0.00%)</td><td>11.489</td></tr>
+<tr><td><strong>M≥4.2</strong></td><td>10.351</td><td>4.000</td><td>19.000</td><td>10.000</td><td>9.000</td><td>1.000 (99.99%)</td><td>0.000 (0.00%)</td><td>9.131</td></tr>
+<tr><td><strong>M≥4.3</strong></td><td>8.225</td><td>3.000</td><td>16.000</td><td>8.000</td><td>7.000</td><td>0.999 (99.94%)</td><td>0.000 (0.00%)</td><td>7.255</td></tr>
+<tr><td><strong>M≥4.4</strong></td><td>6.526</td><td>2.000</td><td>13.000</td><td>6.000</td><td>6.000</td><td>0.998 (99.76%)</td><td>0.000 (0.00%)</td><td>5.754</td></tr>
+<tr><td><strong>M≥4.5</strong></td><td>5.182</td><td>1.000</td><td>11.000</td><td>5.000</td><td>4.000</td><td>0.992 (99.17%)</td><td>0.000 (0.00%)</td><td>4.569</td></tr>
+<tr><td><strong>M≥4.6</strong></td><td>4.118</td><td>1.000</td><td>9.000</td><td>4.000</td><td>3.000</td><td>0.977 (97.73%)</td><td>0.000 (0.00%)</td><td>3.631</td></tr>
+<tr><td><strong>M≥4.7</strong></td><td>3.272</td><td>0.000</td><td>8.000</td><td>3.000</td><td>3.000</td><td>0.952 (95.21%)</td><td>0.000 (0.00%)</td><td>2.883</td></tr>
+<tr><td><strong>M≥4.8</strong></td><td>2.601</td><td>0.000</td><td>7.000</td><td>2.000</td><td>2.000</td><td>0.911 (91.11%)</td><td>0.000 (0.00%)</td><td>2.293</td></tr>
+<tr><td><strong>M≥4.9</strong></td><td>2.068</td><td>0.000</td><td>6.000</td><td>2.000</td><td>1.000</td><td>0.853 (85.31%)</td><td>0.000 (0.00%)</td><td>1.823</td></tr>
+<tr><td><strong>M≥5</strong></td><td>1.640</td><td>0.000</td><td>5.000</td><td>1.000</td><td>1.000</td><td>0.782 (78.20%)</td><td>0.000 (0.00%)</td><td>1.447</td></tr>
+<tr><td><strong>M≥5.1</strong></td><td>1.302</td><td>0.000</td><td>4.000</td><td>1.000</td><td>1.000</td><td>0.703 (70.27%)</td><td>0.000 (0.00%)</td><td>1.148</td></tr>
+<tr><td><strong>M≥5.2</strong></td><td>1.035</td><td>0.000</td><td>4.000</td><td>1.000</td><td>0.000</td><td>0.619 (61.91%)</td><td>0.000 (0.00%)</td><td>0.912</td></tr>
+<tr><td><strong>M≥5.3</strong></td><td>0.823</td><td>0.000</td><td>3.000</td><td>1.000</td><td>0.000</td><td>0.536 (53.64%)</td><td>0.000 (0.00%)</td><td>0.726</td></tr>
+<tr><td><strong>M≥5.4</strong></td><td>0.653</td><td>0.000</td><td>3.000</td><td>0.000</td><td>0.000</td><td>0.458 (45.79%)</td><td>0.000 (0.00%)</td><td>0.576</td></tr>
+<tr><td><strong>M≥5.5</strong></td><td>0.520</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.387 (38.67%)</td><td>0.000 (0.00%)</td><td>0.459</td></tr>
+<tr><td><strong>M≥5.6</strong></td><td>0.412</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.321 (32.15%)</td><td>0.000 (0.00%)</td><td>0.364</td></tr>
+<tr><td><strong>M≥5.7</strong></td><td>0.328</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.266 (26.63%)</td><td>0.000 (0.00%)</td><td>0.290</td></tr>
+<tr><td><strong>M≥5.8</strong></td><td>0.261</td><td>0.000</td><td>2.000</td><td>0.000</td><td>0.000</td><td>0.218 (21.84%)</td><td>0.000 (0.00%)</td><td>0.231</td></tr>
+<tr><td><strong>M≥5.9</strong></td><td>0.207</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.178 (17.76%)</td><td>0.000 (0.00%)</td><td>0.183</td></tr>
+<tr><td><strong>M≥6</strong></td><td>0.165</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.144 (14.44%)</td><td>0.000 (0.00%)</td><td>0.145</td></tr>
+<tr><td><strong>M≥6.1</strong></td><td>0.130</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.116 (11.62%)</td><td>0.000 (0.00%)</td><td>0.115</td></tr>
+<tr><td><strong>M≥6.2</strong></td><td>0.103</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.093 (9.33%)</td><td>0.000 (0.00%)</td><td>0.091</td></tr>
+<tr><td><strong>M≥6.3</strong></td><td>0.081</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.075 (7.47%)</td><td>0.000 (0.00%)</td><td>0.072</td></tr>
+<tr><td><strong>M≥6.4</strong></td><td>0.064</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.060 (5.97%)</td><td>0.000 (0.00%)</td><td>0.057</td></tr>
+<tr><td><strong>M≥6.5</strong></td><td>0.051</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.048 (4.82%)</td><td>0.000 (0.00%)</td><td>0.045</td></tr>
+<tr><td><strong>M≥6.6</strong></td><td>0.041</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.039 (3.86%)</td><td>0.000 (0.00%)</td><td>0.036</td></tr>
+<tr><td><strong>M≥6.7</strong></td><td>0.033</td><td>0.000</td><td>1.000</td><td>0.000</td><td>0.000</td><td>0.031 (3.12%)</td><td>0.000 (0.00%)</td><td>0.029</td></tr>
+<tr><td><strong>M≥6.8</strong></td><td>0.026</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.025 (2.47%)</td><td>0.000 (0.00%)</td><td>0.023</td></tr>
+<tr><td><strong>M≥6.9</strong></td><td>0.020</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.019 (1.94%)</td><td>0.000 (0.00%)</td><td>0.018</td></tr>
+<tr><td><strong>M≥7</strong></td><td>0.016</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.015 (1.53%)</td><td>0.000 (0.00%)</td><td>0.014</td></tr>
+<tr><td><strong>M≥7.1</strong></td><td>0.013</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.012 (1.21%)</td><td>0.000 (0.00%)</td><td>0.011</td></tr>
+<tr><td><strong>M≥7.2</strong></td><td>9.53E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>9.24E-3 (0.92%)</td><td>0.000 (0.00%)</td><td>8.34E-3</td></tr>
+<tr><td><strong>M≥7.3</strong></td><td>7.34E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>7.12E-3 (0.71%)</td><td>0.000 (0.00%)</td><td>6.43E-3</td></tr>
+<tr><td><strong>M≥7.4</strong></td><td>5.47E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>5.36E-3 (0.54%)</td><td>0.000 (0.00%)</td><td>4.84E-3</td></tr>
+<tr><td><strong>M≥7.5</strong></td><td>4.06E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>3.97E-3 (0.40%)</td><td>0.000 (0.00%)</td><td>3.54E-3</td></tr>
+<tr><td><strong>M≥7.6</strong></td><td>3.06E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>3.00E-3 (0.30%)</td><td>0.000 (0.00%)</td><td>2.73E-3</td></tr>
+<tr><td><strong>M≥7.7</strong></td><td>2.12E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>2.09E-3 (0.21%)</td><td>0.000 (0.00%)</td><td>1.93E-3</td></tr>
+<tr><td><strong>M≥7.8</strong></td><td>1.58E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>1.56E-3 (0.16%)</td><td>0.000 (0.00%)</td><td>1.43E-3</td></tr>
+<tr><td><strong>M≥7.9</strong></td><td>1.09E-3</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>1.07E-3 (0.11%)</td><td>0.000 (0.00%)</td><td>9.90E-4</td></tr>
+<tr><td><strong>M≥8</strong></td><td>7.70E-4</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>7.60E-4 (0.08%)</td><td>0.000 (0.00%)</td><td>6.90E-4</td></tr>
+<tr><td><strong>M≥8.1</strong></td><td>4.30E-4</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>4.20E-4 (0.04%)</td><td>0.000 (0.00%)</td><td>4.00E-4</td></tr>
+<tr><td><strong>M≥8.2</strong></td><td>2.00E-4</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>1.90E-4 (0.02%)</td><td>0.000 (0.00%)</td><td>1.90E-4</td></tr>
+<tr><td><strong>M≥8.3</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.4</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.5</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.6</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.7</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.8</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥8.9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+<tr><td><strong>M≥9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td><td>0.000</td></tr>
+</tbody>
+</table>
+<h2 id="hazard-change-over-time">Hazard Change Over Time</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>These plots show how the probability of ruptures of various magnitudes within 100km of any scenario rupture changes over time</p>
+<h3 id="m50-hazard-change-over-time">M≥5.0 Hazard Change Over Time</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><img src="plots/hazard_change_100km_m5.0.png" alt="Hazard Change" /></p>
+<table>
+<thead>
+<tr><th>Forecast Duration</th><th>UCERF3-ETAS [95% Conf]</th><th>UCERF3-ETAS Triggered Only</th><th>UCERF3-TD</th><th>UCERF3-ETAS/TD Gain</th><th>UCERF3-TI</th></tr>
+</thead>
+<tbody>
+<tr><td>1 Hour</td><td>0.780 [0.777 - 0.783]</td><td>0.780</td><td>6.70E-5</td><td>11639.07</td><td>6.65E-5</td></tr>
+<tr><td>1 Day</td><td>0.979 [0.978 - 0.980]</td><td>0.979</td><td>1.61E-3</td><td>609.2</td><td>1.60E-3</td></tr>
+<tr><td>1 Week</td><td>0.996 [0.996 - 0.996]</td><td>0.996</td><td>0.011</td><td>88.95</td><td>0.011</td></tr>
+<tr><td>1 Month</td><td>0.999 [0.999 - 0.999]</td><td>0.999</td><td>0.047</td><td>21.2</td><td>0.047</td></tr>
+<tr><td>1 Year</td><td>1.000 [1.000 - 1.000]</td><td>1.000</td><td>0.444</td><td>2.25</td><td>0.442</td></tr>
+<tr><td>10 Years</td><td>1.000 [1.000 - 1.000]</td><td>1.000</td><td>0.997</td><td>1</td><td>0.997</td></tr>
+<tr><td>30 Years</td><td>1.000 [1.000 - 1.000] *</td><td>*</td><td>1.000</td><td>1 *</td><td>1.000</td></tr>
+<tr><td>100 Years</td><td>1.000 [1.000 - 1.000] *</td><td>*</td><td>1.000</td><td>1 *</td><td>1.000</td></tr>
+</tbody>
+</table>
+<p>* <em>forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included</em></p>
+<h3 id="m60-hazard-change-over-time">M≥6.0 Hazard Change Over Time</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><img src="plots/hazard_change_100km_m6.0.png" alt="Hazard Change" /></p>
+<table>
+<thead>
+<tr><th>Forecast Duration</th><th>UCERF3-ETAS [95% Conf]</th><th>UCERF3-ETAS Triggered Only</th><th>UCERF3-TD</th><th>UCERF3-ETAS/TD Gain</th><th>UCERF3-TI</th></tr>
+</thead>
+<tbody>
+<tr><td>1 Hour</td><td>0.144 [0.141 - 0.146]</td><td>0.144</td><td>7.57E-6</td><td>18981.36</td><td>7.08E-6</td></tr>
+<tr><td>1 Day</td><td>0.338 [0.335 - 0.341]</td><td>0.338</td><td>1.82E-4</td><td>1862.53</td><td>1.70E-4</td></tr>
+<tr><td>1 Week</td><td>0.453 [0.450 - 0.456]</td><td>0.452</td><td>1.27E-3</td><td>356.75</td><td>1.19E-3</td></tr>
+<tr><td>1 Month</td><td>0.533 [0.530 - 0.536]</td><td>0.530</td><td>5.43E-3</td><td>98.12</td><td>5.08E-3</td></tr>
+<tr><td>1 Year</td><td>0.666 [0.663 - 0.669]</td><td>0.643</td><td>0.064</td><td>10.38</td><td>0.060</td></tr>
+<tr><td>10 Years</td><td>0.857 [0.856 - 0.858]</td><td>0.722</td><td>0.485</td><td>1.77</td><td>0.462</td></tr>
+<tr><td>30 Years</td><td>0.962 [0.962 - 0.963] *</td><td>*</td><td>0.864</td><td>1.11 *</td><td>0.845</td></tr>
+<tr><td>100 Years</td><td>1.000 [1.000 - 1.000] *</td><td>*</td><td>0.999</td><td>1 *</td><td>0.998</td></tr>
+</tbody>
+</table>
+<p>* <em>forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included</em></p>
+<h3 id="m70-hazard-change-over-time">M≥7.0 Hazard Change Over Time</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><img src="plots/hazard_change_100km_m7.0.png" alt="Hazard Change" /></p>
+<table>
+<thead>
+<tr><th>Forecast Duration</th><th>UCERF3-ETAS [95% Conf]</th><th>UCERF3-ETAS Triggered Only</th><th>UCERF3-TD</th><th>UCERF3-ETAS/TD Gain</th><th>UCERF3-TI</th></tr>
+</thead>
+<tbody>
+<tr><td>1 Hour</td><td>0.015 [0.014 - 0.016]</td><td>0.015</td><td>7.00E-7</td><td>21626.19</td><td>6.33E-7</td></tr>
+<tr><td>1 Day</td><td>0.041 [0.040 - 0.042]</td><td>0.041</td><td>1.68E-5</td><td>2436.14</td><td>1.52E-5</td></tr>
+<tr><td>1 Week</td><td>0.062 [0.061 - 0.064]</td><td>0.062</td><td>1.18E-4</td><td>527.43</td><td>1.06E-4</td></tr>
+<tr><td>1 Month</td><td>0.080 [0.078 - 0.081]</td><td>0.079</td><td>5.04E-4</td><td>158.2</td><td>4.55E-4</td></tr>
+<tr><td>1 Year</td><td>0.116 [0.114 - 0.118]</td><td>0.111</td><td>6.11E-3</td><td>19.04</td><td>5.53E-3</td></tr>
+<tr><td>10 Years</td><td>0.193 [0.191 - 0.195]</td><td>0.142</td><td>0.060</td><td>3.24</td><td>0.054</td></tr>
+<tr><td>30 Years</td><td>0.288 [0.286 - 0.290] *</td><td>*</td><td>0.170</td><td>1.69 *</td><td>0.153</td></tr>
+<tr><td>100 Years</td><td>0.551 [0.550 - 0.553] *</td><td>*</td><td>0.477</td><td>1.16 *</td><td>0.426</td></tr>
+</tbody>
+</table>
+<p>* <em>forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included</em></p>
+<h3 id="m80-hazard-change-over-time">M≥8.0 Hazard Change Over Time</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><img src="plots/hazard_change_100km_m8.0.png" alt="Hazard Change" /></p>
+<table>
+<thead>
+<tr><th>Forecast Duration</th><th>UCERF3-ETAS [95% Conf]</th><th>UCERF3-ETAS Triggered Only</th><th>UCERF3-TD</th><th>UCERF3-ETAS/TD Gain</th><th>UCERF3-TI</th></tr>
+</thead>
+<tbody>
+<tr><td>1 Hour</td><td>7.60E-4 [6.03E-4 - 9.57E-4]</td><td>7.60E-4</td><td>1.24E-8</td><td>61458.99</td><td>1.06E-8</td></tr>
+<tr><td>1 Day</td><td>2.23E-3 [1.95E-3 - 2.55E-3]</td><td>2.23E-3</td><td>2.97E-7</td><td>7514.78</td><td>2.54E-7</td></tr>
+<tr><td>1 Week</td><td>3.78E-3 [3.42E-3 - 4.19E-3]</td><td>3.78E-3</td><td>2.08E-6</td><td>1820.48</td><td>1.78E-6</td></tr>
+<tr><td>1 Month</td><td>4.99E-3 [4.57E-3 - 5.45E-3]</td><td>4.98E-3</td><td>8.90E-6</td><td>560.32</td><td>7.63E-6</td></tr>
+<tr><td>1 Year</td><td>7.73E-3 [7.20E-3 - 8.29E-3]</td><td>7.62E-3</td><td>1.08E-4</td><td>71.29</td><td>9.29E-5</td></tr>
+<tr><td>10 Years</td><td>0.012 [0.011 - 0.012]</td><td>0.011</td><td>1.10E-3</td><td>10.66</td><td>9.29E-4</td></tr>
+<tr><td>30 Years</td><td>0.014 [0.013 - 0.015] *</td><td>*</td><td>3.50E-3</td><td>4.02 *</td><td>2.78E-3</td></tr>
+<tr><td>100 Years</td><td>0.024 [0.024 - 0.025] *</td><td>*</td><td>0.014</td><td>1.76 *</td><td>9.25E-3</td></tr>
+</tbody>
+</table>
+<p>* <em>forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included</em></p>
+<h2 id="trigger-rupture-fault-map">Trigger Rupture Fault Map</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><img src="plots/trigger_rup_fault_map.png" alt="Map" /></p>
+<h2 id="fault-distances-to-triggers">Fault Distances To Triggers</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>Section Name</th><th>Strike, Dip, Rake</th><th># Hypos In Poly</th><th>Max Mag w/ Hypo In Poly</th><th># Surfs In Poly</th><th>Max Mag w/ Surf In Poly</th><th>Min Dist To Any (km)</th><th>Min Poly Dist To Any (km)</th><th>Min Dist To Largest (km)</th><th>Min Poly Dist To Largest (km)</th></tr>
+</thead>
+<tbody>
+<tr><td>Airport Lake</td><td>359, 50, -90</td><td>90</td><td>7.1</td><td>90</td><td>7.1</td><td>5.612</td><td>0.000</td><td>5.612</td><td>0.000</td></tr>
+<tr><td>Little Lake</td><td>327, 90, 180</td><td>16</td><td>3.75</td><td>16</td><td>3.75</td><td>2.268</td><td>0.000</td><td>13.471</td><td>1.469</td></tr>
+<tr><td>Garlock (Central)</td><td>71, 90, 0</td><td>2</td><td>3.21</td><td>2</td><td>3.21</td><td>10.487</td><td>0.000</td><td>31.947</td><td>19.940</td></tr>
+<tr><td>So Sierra Nevada</td><td>2, 50, -90</td><td>1</td><td>2.75</td><td>1</td><td>2.75</td><td>1.410</td><td>0.000</td><td>16.191</td><td>15.188</td></tr>
+<tr><td>Tank Canyon</td><td>189, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>10.848</td><td>10.827</td><td>23.737</td><td>23.674</td></tr>
+<tr><td>Scodie Lineament</td><td>221, 68, 0</td><td>0</td><td></td><td>0</td><td></td><td>16.722</td><td>15.781</td><td>36.559</td><td>32.668</td></tr>
+</tbody>
+</table>
+<h2 id="individual-simulated-catalog-maps">Individual Simulated Catalog Maps</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>These are map plots of individual catalogs from the simulations, selected as the closest catalog to each of the given percentiles in terms of total number of events.</p>
+<table>
+<thead>
+<tr><th>Duration</th><th>p0.0 %-ile</th><th>p25.0 %-ile</th><th>p50.0 %-ile</th><th>p75.0 %-ile</th><th>p90.0 %-ile</th><th>p95.0 %-ile</th><th>p97.5 %-ile</th><th>p98.0 %-ile</th><th>p99.0 %-ile</th><th>p99.5 %-ile</th><th>p99.9 %-ile</th><th>p100.0 %-ile</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>1 Week</strong></td><td><img src="plots/sim_catalog_map_p0.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.5_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.9_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p100.0_1wk.png" alt="Map" /></td></tr>
+<tr><td><strong>1 Month</strong></td><td><img src="plots/sim_catalog_map_p0.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.5_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.9_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p100.0_1mo.png" alt="Map" /></td></tr>
+<tr><td><strong>1 Year</strong></td><td><img src="plots/sim_catalog_map_p0.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.5_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.9_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p100.0_1yr.png" alt="Map" /></td></tr>
+<tr><td><strong>10 Year</strong></td><td><img src="plots/sim_catalog_map_p0.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.5_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.9_10yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p100.0_10yr.png" alt="Map" /></td></tr>
+</tbody>
+</table>
+<h2 id="comcat-data-comparisons">ComCat Data Comparisons</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc=3.5</p>
+<p>Last updated at 2019/09/03 21:37:52 UTC, 2 mo after the simulation start time</p>
+<h3 id="comcat-magnitude-number-distributions">ComCat Magnitude-Number Distributions</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>Incremental MND</th><th>Cumulative MND</th></tr>
+</thead>
+<tbody>
+<tr><td><img src="plots/comcat_compare_mag_num.png" alt="Incremental MND" /></td><td><img src="plots/comcat_compare_mag_num_cumulative.png" alt="Cumi MND" /></td></tr>
+</tbody>
+</table>
+<h3 id="comcat-cumulative-number-vs-time">ComCat Cumulative Number Vs Time</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>M≥3.5</th><th>M≥4</th><th>M≥5</th><th>M≥6</th><th>M≥7</th></tr>
+</thead>
+<tbody>
+<tr><td><img src="plots/comcat_compare_cumulative_num_m3.5.png" alt="MND" /></td><td><img src="plots/comcat_compare_cumulative_num_m4.png" alt="MND" /></td><td><img src="plots/comcat_compare_cumulative_num_m5.png" alt="MND" /></td><td><img src="plots/comcat_compare_cumulative_num_m6.png" alt="MND" /></td><td><img src="plots/comcat_compare_cumulative_num_m7.png" alt="MND" /></td></tr>
+</tbody>
+</table>
+<h3 id="comcat-cumulative-number-simulation-percentiles">ComCat Cumulative Number Simulation Percentiles</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><img src="plots/comcat_compare_cumulative_num_percentile.png" alt="MND" /></p>
+<h3 id="comcat-mean-spatial-distribution">ComCat Mean Spatial Distribution</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th></th><th>1 Day</th><th>1 Week</th><th>1 Month</th><th>2 Month</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M≥3.5</strong></td><td><img src="plots/comcat_compare_mean_1d_m3.5.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m3.5.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1mo_m3.5.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_2mo_m3.5.png" alt="Map" /></td></tr>
+<tr><td><strong>M≥4</strong></td><td><img src="plots/comcat_compare_mean_1d_m4.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m4.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1mo_m4.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_2mo_m4.png" alt="Map" /></td></tr>
+<tr><td><strong>M≥5</strong></td><td><img src="plots/comcat_compare_mean_1d_m5.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m5.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1mo_m5.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_2mo_m5.png" alt="Map" /></td></tr>
+<tr><td><strong>M≥6</strong></td><td><img src="plots/comcat_compare_mean_1d_m6.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m6.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1mo_m6.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_2mo_m6.png" alt="Map" /></td></tr>
+<tr><td><strong>M≥7</strong></td><td><img src="plots/comcat_compare_mean_1d_m7.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m7.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1mo_m7.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_2mo_m7.png" alt="Map" /></td></tr>
+<tr><td><strong>M≥8</strong></td><td><img src="plots/comcat_compare_mean_1d_m8.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m8.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1mo_m8.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_2mo_m8.png" alt="Map" /></td></tr>
+</tbody>
+</table>
+<h3 id="comcat-depth-distribution">ComCat Depth Distribution</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>M≥3.5</th><th>M≥4</th><th>M≥5</th><th>M≥6</th><th>M≥7</th><th>M≥8</th></tr>
+</thead>
+<tbody>
+<tr><td><img src="plots/comcat_compare_depth_m3.5.png" alt="Depth Distribution" /></td><td><img src="plots/comcat_compare_depth_m4.png" alt="Depth Distribution" /></td><td><img src="plots/comcat_compare_depth_m5.png" alt="Depth Distribution" /></td><td><img src="plots/comcat_compare_depth_m6.png" alt="Depth Distribution" /></td><td><img src="plots/comcat_compare_depth_m7.png" alt="Depth Distribution" /></td><td><img src="plots/comcat_compare_depth_m8.png" alt="Depth Distribution" /></td></tr>
+</tbody>
+</table>
+<h2 id="gridded-nucleation">Gridded Nucleation</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>Min Mag</th><th>Triggered Ruptures (no spontaneous)</th><th>Triggered Ruptures (primary aftershocks only)</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M≥2.5</strong></td><td><img src="plots/gridded_nucleation_triggered_m2.5.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_primary_m2.5.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M≥5</strong></td><td><img src="plots/gridded_nucleation_triggered_m5.0.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_primary_m5.0.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M≥6</strong></td><td><img src="plots/gridded_nucleation_triggered_m6.0.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_primary_m6.0.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M≥7</strong></td><td><img src="plots/gridded_nucleation_triggered_m7.0.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_primary_m7.0.png" alt="Nucleation Plot" /></td></tr>
+</tbody>
+</table>
+<h2 id="json-input-file">JSON Input File</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<pre><code>{
+  &quot;numSimulations&quot;: 100000,
+  &quot;duration&quot;: 10.0,
+  &quot;startTimeMillis&quot;: 1562383194040,
+  &quot;includeSpontaneous&quot;: false,
+  &quot;randomSeed&quot;: 1567534331751,
+  &quot;binaryOutput&quot;: true,
+  &quot;binaryOutputFilters&quot;: [
+    {
+      &quot;prefix&quot;: &quot;results_complete&quot;,
+      &quot;descendantsOnly&quot;: false
+    },
+    {
+      &quot;prefix&quot;: &quot;results_m5_preserve_chain&quot;,
+      &quot;minMag&quot;: 5.0,
+      &quot;preserveChainBelowMag&quot;: true,
+      &quot;descendantsOnly&quot;: false
+    }
+  ],
+  &quot;forceRecalc&quot;: false,
+  &quot;simulationName&quot;: &quot;ComCat M7.1 (ci38457511), Point Sources, No Faults&quot;,
+  &quot;numRetries&quot;: 3,
+  &quot;outputDir&quot;: &quot;${ETAS_SIM_DIR}/2019_09_03-ComCatM7p1_ci38457511_PointSources_NoFaults&quot;,
+  &quot;triggerRuptures&quot;: [
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562259775340,
+      &quot;comcatEventID&quot;: &quot;ci38443095&quot;,
+      &quot;mag&quot;: 3.98,
+      &quot;latitude&quot;: 35.708,
+      &quot;longitude&quot;: -117.5036667,
+      &quot;depth&quot;: 10.58
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261629000,
+      &quot;comcatEventID&quot;: &quot;ci38443183&quot;,
+      &quot;mag&quot;: 6.4,
+      &quot;latitude&quot;: 35.7053333,
+      &quot;longitude&quot;: -117.5038333,
+      &quot;depth&quot;: 10.5
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261701660,
+      &quot;comcatEventID&quot;: &quot;ci38443191&quot;,
+      &quot;mag&quot;: 4.49,
+      &quot;latitude&quot;: 35.644,
+      &quot;longitude&quot;: -117.56716670000002,
+      &quot;depth&quot;: 4.64
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261746340,
+      &quot;comcatEventID&quot;: &quot;ci37222356&quot;,
+      &quot;mag&quot;: 3.63,
+      &quot;latitude&quot;: 35.6936667,
+      &quot;longitude&quot;: -117.437,
+      &quot;depth&quot;: 7.65
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261752170,
+      &quot;comcatEventID&quot;: &quot;ci37218988&quot;,
+      &quot;mag&quot;: 4.28,
+      &quot;latitude&quot;: 35.687,
+      &quot;longitude&quot;: -117.50616670000001,
+      &quot;depth&quot;: 1.6
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261818950,
+      &quot;comcatEventID&quot;: &quot;ci37222380&quot;,
+      &quot;mag&quot;: 3.41,
+      &quot;latitude&quot;: 35.7258333,
+      &quot;longitude&quot;: -117.55933330000002,
+      &quot;depth&quot;: 5.3
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261821140,
+      &quot;comcatEventID&quot;: &quot;ci37222372&quot;,
+      &quot;mag&quot;: 3.66,
+      &quot;latitude&quot;: 35.7105,
+      &quot;longitude&quot;: -117.4773333,
+      &quot;depth&quot;: 1.57
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261834850,
+      &quot;comcatEventID&quot;: &quot;ci37222364&quot;,
+      &quot;mag&quot;: 3.97,
+      &quot;latitude&quot;: 35.6655,
+      &quot;longitude&quot;: -117.516,
+      &quot;depth&quot;: 1.64
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261845640,
+      &quot;comcatEventID&quot;: &quot;ci37218996&quot;,
+      &quot;mag&quot;: 4.01,
+      &quot;latitude&quot;: 35.6758333,
+      &quot;longitude&quot;: -117.45750000000001,
+      &quot;depth&quot;: 15.82
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261875500,
+      &quot;comcatEventID&quot;: &quot;ci38443199&quot;,
+      &quot;mag&quot;: 3.86,
+      &quot;latitude&quot;: 35.7456667,
+      &quot;longitude&quot;: -117.5516667,
+      &quot;depth&quot;: 8.29
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261901450,
+      &quot;comcatEventID&quot;: &quot;ci37421941&quot;,
+      &quot;mag&quot;: 3.73,
+      &quot;latitude&quot;: 35.714,
+      &quot;longitude&quot;: -117.476,
+      &quot;depth&quot;: 1.74
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261927500,
+      &quot;comcatEventID&quot;: &quot;us70004a0n&quot;,
+      &quot;mag&quot;: 3.5,
+      &quot;latitude&quot;: 35.6215,
+      &quot;longitude&quot;: -117.5782,
+      &quot;depth&quot;: 9.7
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261927760,
+      &quot;comcatEventID&quot;: &quot;ci37222396&quot;,
+      &quot;mag&quot;: 3.5,
+      &quot;latitude&quot;: 35.6235,
+      &quot;longitude&quot;: -117.596,
+      &quot;depth&quot;: 8.55
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261973310,
+      &quot;comcatEventID&quot;: &quot;ci37222404&quot;,
+      &quot;mag&quot;: 3.11,
+      &quot;latitude&quot;: 35.5743333,
+      &quot;longitude&quot;: -117.63666670000002,
+      &quot;depth&quot;: 6.85
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261975360,
+      &quot;comcatEventID&quot;: &quot;ci38443215&quot;,
+      &quot;mag&quot;: 3.69,
+      &quot;latitude&quot;: 35.6873333,
+      &quot;longitude&quot;: -117.4935,
+      &quot;depth&quot;: 10.86
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262002250,
+      &quot;comcatEventID&quot;: &quot;ci38443223&quot;,
+      &quot;mag&quot;: 3.8,
+      &quot;latitude&quot;: 35.7253333,
+      &quot;longitude&quot;: -117.57083329999999,
+      &quot;depth&quot;: 6.63
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262018520,
+      &quot;comcatEventID&quot;: &quot;ci38443231&quot;,
+      &quot;mag&quot;: 4.13,
+      &quot;latitude&quot;: 35.707,
+      &quot;longitude&quot;: -117.5101667,
+      &quot;depth&quot;: 8.66
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262034900,
+      &quot;comcatEventID&quot;: &quot;ci37222508&quot;,
+      &quot;mag&quot;: 3.54,
+      &quot;latitude&quot;: 35.6948333,
+      &quot;longitude&quot;: -117.50183330000002,
+      &quot;depth&quot;: 2.04
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262046140,
+      &quot;comcatEventID&quot;: &quot;ci37222516&quot;,
+      &quot;mag&quot;: 3.42,
+      &quot;latitude&quot;: 35.7298333,
+      &quot;longitude&quot;: -117.55483330000001,
+      &quot;depth&quot;: 7.72
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262080850,
+      &quot;comcatEventID&quot;: &quot;ci37421957&quot;,
+      &quot;mag&quot;: 3.3,
+      &quot;latitude&quot;: 35.7266667,
+      &quot;longitude&quot;: -117.5288333,
+      &quot;depth&quot;: 1.97
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262174130,
+      &quot;comcatEventID&quot;: &quot;ci38443239&quot;,
+      &quot;mag&quot;: 3.22,
+      &quot;latitude&quot;: 35.7301667,
+      &quot;longitude&quot;: -117.55866669999999,
+      &quot;depth&quot;: 7.84
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262209200,
+      &quot;comcatEventID&quot;: &quot;us70004a0z&quot;,
+      &quot;mag&quot;: 3.6,
+      &quot;latitude&quot;: 35.6783,
+      &quot;longitude&quot;: -117.5488,
+      &quot;depth&quot;: 5.15
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262264020,
+      &quot;comcatEventID&quot;: &quot;ci37421981&quot;,
+      &quot;mag&quot;: 2.77,
+      &quot;latitude&quot;: 35.7478333,
+      &quot;longitude&quot;: -117.54000000000002,
+      &quot;depth&quot;: 9.4
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262272820,
+      &quot;comcatEventID&quot;: &quot;ci38443255&quot;,
+      &quot;mag&quot;: 3.86,
+      &quot;latitude&quot;: 35.6875,
+      &quot;longitude&quot;: -117.5071667,
+      &quot;depth&quot;: 1.54
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262305780,
+      &quot;comcatEventID&quot;: &quot;ci37421997&quot;,
+      &quot;mag&quot;: 3.03,
+      &quot;latitude&quot;: 35.6976667,
+      &quot;longitude&quot;: -117.48649999999999,
+      &quot;depth&quot;: 2.24
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262323950,
+      &quot;comcatEventID&quot;: &quot;ci37421989&quot;,
+      &quot;mag&quot;: 3.03,
+      &quot;latitude&quot;: 35.7151667,
+      &quot;longitude&quot;: -117.5473333,
+      &quot;depth&quot;: 7.21
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262328630,
+      &quot;comcatEventID&quot;: &quot;ci37222524&quot;,
+      &quot;mag&quot;: 3.21,
+      &quot;latitude&quot;: 35.7348333,
+      &quot;longitude&quot;: -117.53683330000001,
+      &quot;depth&quot;: 10.34
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262363710,
+      &quot;comcatEventID&quot;: &quot;ci38443263&quot;,
+      &quot;mag&quot;: 2.96,
+      &quot;latitude&quot;: 35.6431667,
+      &quot;longitude&quot;: -117.6101667,
+      &quot;depth&quot;: 10.14
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262380320,
+      &quot;comcatEventID&quot;: &quot;ci37222532&quot;,
+      &quot;mag&quot;: 2.56,
+      &quot;latitude&quot;: 35.6563333,
+      &quot;longitude&quot;: -117.5325,
+      &quot;depth&quot;: 1.52
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262409960,
+      &quot;comcatEventID&quot;: &quot;ci38443271&quot;,
+      &quot;mag&quot;: 3.07,
+      &quot;latitude&quot;: 35.6385,
+      &quot;longitude&quot;: -117.6108333,
+      &quot;depth&quot;: 10.97
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262437810,
+      &quot;comcatEventID&quot;: &quot;ci38443279&quot;,
+      &quot;mag&quot;: 3.5,
+      &quot;latitude&quot;: 35.7455,
+      &quot;longitude&quot;: -117.5465,
+      &quot;depth&quot;: 7.11
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262460970,
+      &quot;comcatEventID&quot;: &quot;ci37222548&quot;,
+      &quot;mag&quot;: 3.11,
+      &quot;latitude&quot;: 35.726,
+      &quot;longitude&quot;: -117.55849999999998,
+      &quot;depth&quot;: 3.58
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262474970,
+      &quot;comcatEventID&quot;: &quot;ci37222556&quot;,
+      &quot;mag&quot;: 3.4,
+      &quot;latitude&quot;: 35.7286667,
+      &quot;longitude&quot;: -117.56066670000001,
+      &quot;depth&quot;: 5.25
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262483160,
+      &quot;comcatEventID&quot;: &quot;ci37222564&quot;,
+      &quot;mag&quot;: 3.27,
+      &quot;latitude&quot;: 35.6365,
+      &quot;longitude&quot;: -117.55183330000001,
+      &quot;depth&quot;: 6.62
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262495680,
+      &quot;comcatEventID&quot;: &quot;ci37222572&quot;,
+      &quot;mag&quot;: 3.11,
+      &quot;latitude&quot;: 35.7053333,
+      &quot;longitude&quot;: -117.5245,
+      &quot;depth&quot;: 5.52
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262504150,
+      &quot;comcatEventID&quot;: &quot;ci37222580&quot;,
+      &quot;mag&quot;: 2.96,
+      &quot;latitude&quot;: 35.6593333,
+      &quot;longitude&quot;: -117.52633330000002,
+      &quot;depth&quot;: 2.68
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262575190,
+      &quot;comcatEventID&quot;: &quot;ci37222596&quot;,
+      &quot;mag&quot;: 2.52,
+      &quot;latitude&quot;: 35.7335,
+      &quot;longitude&quot;: -117.50683330000001,
+      &quot;depth&quot;: 3.91
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262578950,
+      &quot;comcatEventID&quot;: &quot;ci37222668&quot;,
+      &quot;mag&quot;: 2.57,
+      &quot;latitude&quot;: 35.687,
+      &quot;longitude&quot;: -117.49066670000002,
+      &quot;depth&quot;: 10.66
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262648290,
+      &quot;comcatEventID&quot;: &quot;ci37222692&quot;,
+      &quot;mag&quot;: 2.73,
+      &quot;latitude&quot;: 35.738,
+      &quot;longitude&quot;: -117.52933329999999,
+      &quot;depth&quot;: 7.72
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262648960,
+      &quot;comcatEventID&quot;: &quot;ci38443303&quot;,
+      &quot;mag&quot;: 2.79,
+      &quot;latitude&quot;: 35.678,
+      &quot;longitude&quot;: -117.49916670000002,
+      &quot;depth&quot;: 1.14
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262706650,
+      &quot;comcatEventID&quot;: &quot;ci38443287&quot;,
+      &quot;mag&quot;: 3.46,
+      &quot;latitude&quot;: 35.674,
+      &quot;longitude&quot;: -117.52349999999998,
+      &quot;depth&quot;: 5.3
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262761700,
+      &quot;comcatEventID&quot;: &quot;ci38443295&quot;,
+      &quot;mag&quot;: 2.92,
+      &quot;latitude&quot;: 35.7218333,
+      &quot;longitude&quot;: -117.5251667,
+      &quot;depth&quot;: 7.04
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262899560,
+      &quot;comcatEventID&quot;: &quot;ci38443327&quot;,
+      &quot;mag&quot;: 2.53,
+      &quot;latitude&quot;: 35.6391667,
+      &quot;longitude&quot;: -117.5628333,
+      &quot;depth&quot;: 10.48
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562262930800,
+      &quot;comcatEventID&quot;: &quot;ci37222876&quot;,
+      &quot;mag&quot;: 2.57,
+      &quot;latitude&quot;: 35.6705,
+      &quot;longitude&quot;: -117.5221667,
+      &quot;depth&quot;: 3.91
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263051460,
+      &quot;comcatEventID&quot;: &quot;ci38443311&quot;,
+      &quot;mag&quot;: 2.95,
+      &quot;latitude&quot;: 35.6595,
+      &quot;longitude&quot;: -117.5223333,
+      &quot;depth&quot;: 2.3
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263063060,
+      &quot;comcatEventID&quot;: &quot;ci37222932&quot;,
+      &quot;mag&quot;: 2.78,
+      &quot;latitude&quot;: 35.6725,
+      &quot;longitude&quot;: -117.4743333,
+      &quot;depth&quot;: 8.76
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263082640,
+      &quot;comcatEventID&quot;: &quot;ci38443319&quot;,
+      &quot;mag&quot;: 3.33,
+      &quot;latitude&quot;: 35.702,
+      &quot;longitude&quot;: -117.50833330000002,
+      &quot;depth&quot;: 4.77
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263240190,
+      &quot;comcatEventID&quot;: &quot;ci38443335&quot;,
+      &quot;mag&quot;: 2.67,
+      &quot;latitude&quot;: 35.6303333,
+      &quot;longitude&quot;: -117.569,
+      &quot;depth&quot;: 1.64
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263261190,
+      &quot;comcatEventID&quot;: &quot;ci37223148&quot;,
+      &quot;mag&quot;: 2.59,
+      &quot;latitude&quot;: 35.6733333,
+      &quot;longitude&quot;: -117.5118333,
+      &quot;depth&quot;: 1.49
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263283180,
+      &quot;comcatEventID&quot;: &quot;ci37422005&quot;,
+      &quot;mag&quot;: 3.53,
+      &quot;latitude&quot;: 35.6876667,
+      &quot;longitude&quot;: -117.50849999999998,
+      &quot;depth&quot;: 1.26
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263291230,
+      &quot;comcatEventID&quot;: &quot;ci37223156&quot;,
+      &quot;mag&quot;: 3.42,
+      &quot;latitude&quot;: 35.5978333,
+      &quot;longitude&quot;: -117.5905,
+      &quot;depth&quot;: 6.79
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263374110,
+      &quot;comcatEventID&quot;: &quot;ci38443351&quot;,
+      &quot;mag&quot;: 2.53,
+      &quot;latitude&quot;: 35.6066667,
+      &quot;longitude&quot;: -117.58216670000002,
+      &quot;depth&quot;: 5.8
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263398590,
+      &quot;comcatEventID&quot;: &quot;ci38443359&quot;,
+      &quot;mag&quot;: 2.85,
+      &quot;latitude&quot;: 35.7478333,
+      &quot;longitude&quot;: -117.5425,
+      &quot;depth&quot;: 6.85
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263541830,
+      &quot;comcatEventID&quot;: &quot;ci38443375&quot;,
+      &quot;mag&quot;: 2.76,
+      &quot;latitude&quot;: 35.7153333,
+      &quot;longitude&quot;: -117.5295,
+      &quot;depth&quot;: 4.54
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263555910,
+      &quot;comcatEventID&quot;: &quot;ci37223228&quot;,
+      &quot;mag&quot;: 2.61,
+      &quot;latitude&quot;: 35.7266667,
+      &quot;longitude&quot;: -117.5165,
+      &quot;depth&quot;: 8.96
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263576110,
+      &quot;comcatEventID&quot;: &quot;ci38443383&quot;,
+      &quot;mag&quot;: 3.79,
+      &quot;latitude&quot;: 35.6606667,
+      &quot;longitude&quot;: -117.523,
+      &quot;depth&quot;: 2.14
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263611050,
+      &quot;comcatEventID&quot;: &quot;ci37223236&quot;,
+      &quot;mag&quot;: 2.6,
+      &quot;latitude&quot;: 35.6931667,
+      &quot;longitude&quot;: -117.46200000000002,
+      &quot;depth&quot;: 11.56
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263629270,
+      &quot;comcatEventID&quot;: &quot;ci38443391&quot;,
+      &quot;mag&quot;: 3.51,
+      &quot;latitude&quot;: 35.5991667,
+      &quot;longitude&quot;: -117.6101667,
+      &quot;depth&quot;: 2.12
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263630910,
+      &quot;comcatEventID&quot;: &quot;ci37223244&quot;,
+      &quot;mag&quot;: 3.49,
+      &quot;latitude&quot;: 35.6508333,
+      &quot;longitude&quot;: -117.54200000000002,
+      &quot;depth&quot;: 2.77
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263670810,
+      &quot;comcatEventID&quot;: &quot;ci37223252&quot;,
+      &quot;mag&quot;: 2.55,
+      &quot;latitude&quot;: 35.72950000000001,
+      &quot;longitude&quot;: -117.533,
+      &quot;depth&quot;: 7.25
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263713160,
+      &quot;comcatEventID&quot;: &quot;ci38443407&quot;,
+      &quot;mag&quot;: 3.38,
+      &quot;latitude&quot;: 35.6678333,
+      &quot;longitude&quot;: -117.50616670000001,
+      &quot;depth&quot;: 2.27
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263725070,
+      &quot;comcatEventID&quot;: &quot;ci37223308&quot;,
+      &quot;mag&quot;: 3.55,
+      &quot;latitude&quot;: 35.7108333,
+      &quot;longitude&quot;: -117.47683329999998,
+      &quot;depth&quot;: 1.17
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263832710,
+      &quot;comcatEventID&quot;: &quot;ci38443415&quot;,
+      &quot;mag&quot;: 3.46,
+      &quot;latitude&quot;: 35.6598333,
+      &quot;longitude&quot;: -117.53483330000002,
+      &quot;depth&quot;: 10.25
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263882870,
+      &quot;comcatEventID&quot;: &quot;ci38443423&quot;,
+      &quot;mag&quot;: 2.69,
+      &quot;latitude&quot;: 35.6003333,
+      &quot;longitude&quot;: -117.5951667,
+      &quot;depth&quot;: 7.33
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562263972070,
+      &quot;comcatEventID&quot;: &quot;ci38443431&quot;,
+      &quot;mag&quot;: 3.44,
+      &quot;latitude&quot;: 35.6703333,
+      &quot;longitude&quot;: -117.5605,
+      &quot;depth&quot;: 6.91
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264025530,
+      &quot;comcatEventID&quot;: &quot;ci37223380&quot;,
+      &quot;mag&quot;: 2.89,
+      &quot;latitude&quot;: 35.7003333,
+      &quot;longitude&quot;: -117.4873333,
+      &quot;depth&quot;: 10.98
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264031400,
+      &quot;comcatEventID&quot;: &quot;ci38443439&quot;,
+      &quot;mag&quot;: 3.5,
+      &quot;latitude&quot;: 35.7081667,
+      &quot;longitude&quot;: -117.485,
+      &quot;depth&quot;: 6.44
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264104970,
+      &quot;comcatEventID&quot;: &quot;ci38443447&quot;,
+      &quot;mag&quot;: 2.75,
+      &quot;latitude&quot;: 35.6103333,
+      &quot;longitude&quot;: -117.59500000000001,
+      &quot;depth&quot;: 4.94
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264112820,
+      &quot;comcatEventID&quot;: &quot;ci37420701&quot;,
+      &quot;mag&quot;: 3.23,
+      &quot;latitude&quot;: 35.6691667,
+      &quot;longitude&quot;: -117.5203333,
+      &quot;depth&quot;: 1.84
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264193730,
+      &quot;comcatEventID&quot;: &quot;ci38443463&quot;,
+      &quot;mag&quot;: 2.94,
+      &quot;latitude&quot;: 35.7251667,
+      &quot;longitude&quot;: -117.53350000000002,
+      &quot;depth&quot;: 6.74
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264235320,
+      &quot;comcatEventID&quot;: &quot;ci38443471&quot;,
+      &quot;mag&quot;: 2.87,
+      &quot;latitude&quot;: 35.7185,
+      &quot;longitude&quot;: -117.5336667,
+      &quot;depth&quot;: 4.94
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264325720,
+      &quot;comcatEventID&quot;: &quot;ci38443487&quot;,
+      &quot;mag&quot;: 3.38,
+      &quot;latitude&quot;: 35.638,
+      &quot;longitude&quot;: -117.611,
+      &quot;depth&quot;: 9.43
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264332070,
+      &quot;comcatEventID&quot;: &quot;ci37223676&quot;,
+      &quot;mag&quot;: 2.98,
+      &quot;latitude&quot;: 35.6123333,
+      &quot;longitude&quot;: -117.624,
+      &quot;depth&quot;: 0.0
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264348090,
+      &quot;comcatEventID&quot;: &quot;ci37223684&quot;,
+      &quot;mag&quot;: 2.6,
+      &quot;latitude&quot;: 35.7236667,
+      &quot;longitude&quot;: -117.50849999999998,
+      &quot;depth&quot;: 11.57
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264485340,
+      &quot;comcatEventID&quot;: &quot;ci38443495&quot;,
+      &quot;mag&quot;: 2.61,
+      &quot;latitude&quot;: 35.67883330000001,
+      &quot;longitude&quot;: -117.51533330000001,
+      &quot;depth&quot;: 2.91
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264763750,
+      &quot;comcatEventID&quot;: &quot;ci38443519&quot;,
+      &quot;mag&quot;: 3.13,
+      &quot;latitude&quot;: 35.6638333,
+      &quot;longitude&quot;: -117.5245,
+      &quot;depth&quot;: 2.53
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264846770,
+      &quot;comcatEventID&quot;: &quot;ci38443527&quot;,
+      &quot;mag&quot;: 3.29,
+      &quot;latitude&quot;: 35.6748333,
+      &quot;longitude&quot;: -117.51433329999999,
+      &quot;depth&quot;: 2.68
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264879440,
+      &quot;comcatEventID&quot;: &quot;ci38443535&quot;,
+      &quot;mag&quot;: 4.23,
+      &quot;latitude&quot;: 35.745,
+      &quot;longitude&quot;: -117.55216669999999,
+      &quot;depth&quot;: 6.64
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562264923640,
+      &quot;comcatEventID&quot;: &quot;ci38443543&quot;,
+      &quot;mag&quot;: 3.75,
+      &quot;latitude&quot;: 35.6661667,
+      &quot;longitude&quot;: -117.5656667,
+      &quot;depth&quot;: 7.14
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562265289010,
+      &quot;comcatEventID&quot;: &quot;ci37224604&quot;,
+      &quot;mag&quot;: 2.59,
+      &quot;latitude&quot;: 35.6895,
+      &quot;longitude&quot;: -117.4883333,
+      &quot;depth&quot;: 0.63
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562265344040,
+      &quot;comcatEventID&quot;: &quot;ci38443575&quot;,
+      &quot;mag&quot;: 2.5,
+      &quot;latitude&quot;: 35.7215,
+      &quot;longitude&quot;: -117.56550000000001,
+      &quot;depth&quot;: 0.16
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562265451500,
+      &quot;comcatEventID&quot;: &quot;ci38443591&quot;,
+      &quot;mag&quot;: 2.64,
+      &quot;latitude&quot;: 35.72,
+      &quot;longitude&quot;: -117.5723333,
+      &quot;depth&quot;: 1.34
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562265525650,
+      &quot;comcatEventID&quot;: &quot;ci38443599&quot;,
+      &quot;mag&quot;: 2.69,
+      &quot;latitude&quot;: 35.7046661,
+      &quot;longitude&quot;: -117.49666600000002,
+      &quot;depth&quot;: 3.96
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562265584440,
+      &quot;comcatEventID&quot;: &quot;ci38443607&quot;,
+      &quot;mag&quot;: 4.59,
+      &quot;latitude&quot;: 35.6013333,
+      &quot;longitude&quot;: -117.59700000000001,
+      &quot;depth&quot;: 2.81
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562265656740,
+      &quot;comcatEventID&quot;: &quot;ci37224612&quot;,
+      &quot;mag&quot;: 3.05,
+      &quot;latitude&quot;: 35.652,
+      &quot;longitude&quot;: -117.53683330000001,
+      &quot;depth&quot;: 2.03
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562265674270,
+      &quot;comcatEventID&quot;: &quot;ci38443615&quot;,
+      &quot;mag&quot;: 3.07,
+      &quot;latitude&quot;: 35.6763333,
+      &quot;longitude&quot;: -117.5115,
+      &quot;depth&quot;: 2.13
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562265865000,
+      &quot;comcatEventID&quot;: &quot;ci38443631&quot;,
+      &quot;mag&quot;: 3.09,
+      &quot;latitude&quot;: 35.719,
+      &quot;longitude&quot;: -117.55866669999999,
+      &quot;depth&quot;: 2.06
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266026590,
+      &quot;comcatEventID&quot;: &quot;ci38443647&quot;,
+      &quot;mag&quot;: 4.34,
+      &quot;latitude&quot;: 35.6758333,
+      &quot;longitude&quot;: -117.48533330000001,
+      &quot;depth&quot;: 8.53
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266042600,
+      &quot;comcatEventID&quot;: &quot;ci37421213&quot;,
+      &quot;mag&quot;: 4.02,
+      &quot;latitude&quot;: 35.6755,
+      &quot;longitude&quot;: -117.472,
+      &quot;depth&quot;: 10.27
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266207160,
+      &quot;comcatEventID&quot;: &quot;ci38443663&quot;,
+      &quot;mag&quot;: 2.73,
+      &quot;latitude&quot;: 35.641,
+      &quot;longitude&quot;: -117.56266670000001,
+      &quot;depth&quot;: 8.95
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266215910,
+      &quot;comcatEventID&quot;: &quot;ci38443671&quot;,
+      &quot;mag&quot;: 3.7,
+      &quot;latitude&quot;: 35.682,
+      &quot;longitude&quot;: -117.4961667,
+      &quot;depth&quot;: 1.26
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266333530,
+      &quot;comcatEventID&quot;: &quot;ci38443679&quot;,
+      &quot;mag&quot;: 2.78,
+      &quot;latitude&quot;: 35.6543333,
+      &quot;longitude&quot;: -117.53983330000001,
+      &quot;depth&quot;: 0.88
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266376130,
+      &quot;comcatEventID&quot;: &quot;ci38443687&quot;,
+      &quot;mag&quot;: 2.93,
+      &quot;latitude&quot;: 35.741,
+      &quot;longitude&quot;: -117.561,
+      &quot;depth&quot;: 0.23
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266407670,
+      &quot;comcatEventID&quot;: &quot;ci38443695&quot;,
+      &quot;mag&quot;: 3.36,
+      &quot;latitude&quot;: 35.7285,
+      &quot;longitude&quot;: -117.5605,
+      &quot;depth&quot;: 7.87
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266453990,
+      &quot;comcatEventID&quot;: &quot;ci38443703&quot;,
+      &quot;mag&quot;: 4.07,
+      &quot;latitude&quot;: 35.5975,
+      &quot;longitude&quot;: -117.5996667,
+      &quot;depth&quot;: 5.33
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266527680,
+      &quot;comcatEventID&quot;: &quot;ci38443711&quot;,
+      &quot;mag&quot;: 3.03,
+      &quot;latitude&quot;: 35.6753333,
+      &quot;longitude&quot;: -117.4795,
+      &quot;depth&quot;: 10.71
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266566420,
+      &quot;comcatEventID&quot;: &quot;ci38443719&quot;,
+      &quot;mag&quot;: 4.58,
+      &quot;latitude&quot;: 35.716,
+      &quot;longitude&quot;: -117.56000000000002,
+      &quot;depth&quot;: 1.92
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266582030,
+      &quot;comcatEventID&quot;: &quot;ci37420717&quot;,
+      &quot;mag&quot;: 4.21,
+      &quot;latitude&quot;: 35.7086667,
+      &quot;longitude&quot;: -117.55416669999998,
+      &quot;depth&quot;: 1.16
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266687790,
+      &quot;comcatEventID&quot;: &quot;ci38443727&quot;,
+      &quot;mag&quot;: 2.85,
+      &quot;latitude&quot;: 35.7266667,
+      &quot;longitude&quot;: -117.56516670000002,
+      &quot;depth&quot;: 0.09
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266809670,
+      &quot;comcatEventID&quot;: &quot;ci38443751&quot;,
+      &quot;mag&quot;: 3.22,
+      &quot;latitude&quot;: 35.7111667,
+      &quot;longitude&quot;: -117.55133329999998,
+      &quot;depth&quot;: 1.99
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266870800,
+      &quot;comcatEventID&quot;: &quot;ci38443759&quot;,
+      &quot;mag&quot;: 3.03,
+      &quot;latitude&quot;: 35.7086667,
+      &quot;longitude&quot;: -117.5565,
+      &quot;depth&quot;: 2.15
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562266944640,
+      &quot;comcatEventID&quot;: &quot;ci38443775&quot;,
+      &quot;mag&quot;: 2.56,
+      &quot;latitude&quot;: 35.645,
+      &quot;longitude&quot;: -117.5373333,
+      &quot;depth&quot;: 0.01
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562267419820,
+      &quot;comcatEventID&quot;: &quot;ci38443823&quot;,
+      &quot;mag&quot;: 3.29,
+      &quot;latitude&quot;: 35.694,
+      &quot;longitude&quot;: -117.4901667,
+      &quot;depth&quot;: 1.58
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562267699490,
+      &quot;comcatEventID&quot;: &quot;ci38443831&quot;,
+      &quot;mag&quot;: 3.0,
+      &quot;latitude&quot;: 35.6548333,
+      &quot;longitude&quot;: -117.53883330000001,
+      &quot;depth&quot;: 2.42
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562267766200,
+      &quot;comcatEventID&quot;: &quot;ci38443839&quot;,
+      &quot;mag&quot;: 2.5,
+      &quot;latitude&quot;: 35.721,
+      &quot;longitude&quot;: -117.56650000000002,
+      &quot;depth&quot;: 0.12
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562267871360,
+      &quot;comcatEventID&quot;: &quot;ci38443855&quot;,
+      &quot;mag&quot;: 2.98,
+      &quot;latitude&quot;: 35.6951667,
+      &quot;longitude&quot;: -117.50966670000001,
+      &quot;depth&quot;: 1.46
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562267878140,
+      &quot;comcatEventID&quot;: &quot;ci37224620&quot;,
+      &quot;mag&quot;: 3.26,
+      &quot;latitude&quot;: 35.6268333,
+      &quot;longitude&quot;: -117.601,
+      &quot;depth&quot;: 10.4
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562268051750,
+      &quot;comcatEventID&quot;: &quot;ci38443863&quot;,
+      &quot;mag&quot;: 2.8,
+      &quot;latitude&quot;: 35.6389999,
+      &quot;longitude&quot;: -117.5526657,
+      &quot;depth&quot;: 1.11
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562268092090,
+      &quot;comcatEventID&quot;: &quot;ci38443871&quot;,
+      &quot;mag&quot;: 4.5,
+      &quot;latitude&quot;: 35.6715,
+      &quot;longitude&quot;: -117.4788333,
+      &quot;depth&quot;: 5.16
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562268380340,
+      &quot;comcatEventID&quot;: &quot;ci38443879&quot;,
+      &quot;mag&quot;: 2.69,
+      &quot;latitude&quot;: 35.7086667,
+      &quot;longitude&quot;: -117.48333330000001,
+      &quot;depth&quot;: 1.39
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562268438340,
+      &quot;comcatEventID&quot;: &quot;ci38443895&quot;,
+      &quot;mag&quot;: 2.81,
+      &quot;latitude&quot;: 35.6696667,
+      &quot;longitude&quot;: -117.47999999999999,
+      &quot;depth&quot;: 6.24
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562269189760,
+      &quot;comcatEventID&quot;: &quot;ci38443983&quot;,
+      &quot;mag&quot;: 2.63,
+      &quot;latitude&quot;: 35.683,
+      &quot;longitude&quot;: -117.5195,
+      &quot;depth&quot;: 5.84
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562269229180,
+      &quot;comcatEventID&quot;: &quot;ci38443991&quot;,
+      &quot;mag&quot;: 2.65,
+      &quot;latitude&quot;: 35.6556667,
+      &quot;longitude&quot;: -117.5158333,
+      &quot;depth&quot;: 1.76
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562269744980,
+      &quot;comcatEventID&quot;: &quot;ci38444047&quot;,
+      &quot;mag&quot;: 3.26,
+      &quot;latitude&quot;: 35.683,
+      &quot;longitude&quot;: -117.4895,
+      &quot;depth&quot;: 1.04
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562269876980,
+      &quot;comcatEventID&quot;: &quot;ci38444063&quot;,
+      &quot;mag&quot;: 3.35,
+      &quot;latitude&quot;: 35.71,
+      &quot;longitude&quot;: -117.5561667,
+      &quot;depth&quot;: 2.09
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562269933070,
+      &quot;comcatEventID&quot;: &quot;ci38444071&quot;,
+      &quot;mag&quot;: 2.86,
+      &quot;latitude&quot;: 35.6101667,
+      &quot;longitude&quot;: -117.5861667,
+      &quot;depth&quot;: 6.38
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562270160500,
+      &quot;comcatEventID&quot;: &quot;ci38444103&quot;,
+      &quot;mag&quot;: 4.16,
+      &quot;latitude&quot;: 35.6623333,
+      &quot;longitude&quot;: -117.524,
+      &quot;depth&quot;: 1.49
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562270280220,
+      &quot;comcatEventID&quot;: &quot;ci38444119&quot;,
+      &quot;mag&quot;: 2.65,
+      &quot;latitude&quot;: 35.7131667,
+      &quot;longitude&quot;: -117.5561667,
+      &quot;depth&quot;: 0.16
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562270492930,
+      &quot;comcatEventID&quot;: &quot;ci38444135&quot;,
+      &quot;mag&quot;: 2.5,
+      &quot;latitude&quot;: 35.678,
+      &quot;longitude&quot;: -117.589,
+      &quot;depth&quot;: 7.89
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562270655500,
+      &quot;comcatEventID&quot;: &quot;ci38444143&quot;,
+      &quot;mag&quot;: 2.56,
+      &quot;latitude&quot;: 35.7048333,
+      &quot;longitude&quot;: -117.48683330000001,
+      &quot;depth&quot;: 1.23
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562270768250,
+      &quot;comcatEventID&quot;: &quot;ci38444159&quot;,
+      &quot;mag&quot;: 3.39,
+      &quot;latitude&quot;: 35.6991667,
+      &quot;longitude&quot;: -117.48916669999998,
+      &quot;depth&quot;: 10.27
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562271091460,
+      &quot;comcatEventID&quot;: &quot;ci38444191&quot;,
+      &quot;mag&quot;: 2.61,
+      &quot;latitude&quot;: 35.683,
+      &quot;longitude&quot;: -117.50483330000002,
+      &quot;depth&quot;: 1.69
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562271290340,
+      &quot;comcatEventID&quot;: &quot;ci38444215&quot;,
+      &quot;mag&quot;: 3.99,
+      &quot;latitude&quot;: 35.6991667,
+      &quot;longitude&quot;: -117.5125,
+      &quot;depth&quot;: 5.75
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562271456830,
+      &quot;comcatEventID&quot;: &quot;ci38444231&quot;,
+      &quot;mag&quot;: 3.09,
+      &quot;latitude&quot;: 35.7,
+      &quot;longitude&quot;: -117.4836667,
+      &quot;depth&quot;: 1.25
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562271789930,
+      &quot;comcatEventID&quot;: &quot;ci38444263&quot;,
+      &quot;mag&quot;: 3.43,
+      &quot;latitude&quot;: 35.6408333,
+      &quot;longitude&quot;: -117.59733329999999,
+      &quot;depth&quot;: 10.39
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562271838650,
+      &quot;comcatEventID&quot;: &quot;ci38444271&quot;,
+      &quot;mag&quot;: 2.53,
+      &quot;latitude&quot;: 35.6583333,
+      &quot;longitude&quot;: -117.56233329999999,
+      &quot;depth&quot;: 4.39
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562272472100,
+      &quot;comcatEventID&quot;: &quot;ci38444311&quot;,
+      &quot;mag&quot;: 2.61,
+      &quot;latitude&quot;: 35.640667,
+      &quot;longitude&quot;: -117.5833359,
+      &quot;depth&quot;: 8.68
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562273126710,
+      &quot;comcatEventID&quot;: &quot;ci38444407&quot;,
+      &quot;mag&quot;: 3.1,
+      &quot;latitude&quot;: 35.70283330000001,
+      &quot;longitude&quot;: -117.4775,
+      &quot;depth&quot;: 1.31
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562273725070,
+      &quot;comcatEventID&quot;: &quot;ci38444487&quot;,
+      &quot;mag&quot;: 3.4,
+      &quot;latitude&quot;: 35.7116667,
+      &quot;longitude&quot;: -117.4808333,
+      &quot;depth&quot;: 2.39
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562273832360,
+      &quot;comcatEventID&quot;: &quot;ci38444503&quot;,
+      &quot;mag&quot;: 2.54,
+      &quot;latitude&quot;: 35.6585,
+      &quot;longitude&quot;: -117.53199999999998,
+      &quot;depth&quot;: 8.73
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562274175820,
+      &quot;comcatEventID&quot;: &quot;ci38444543&quot;,
+      &quot;mag&quot;: 3.47,
+      &quot;latitude&quot;: 35.69,
+      &quot;longitude&quot;: -117.4831667,
+      &quot;depth&quot;: 7.89
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562274428600,
+      &quot;comcatEventID&quot;: &quot;ci38444559&quot;,
+      &quot;mag&quot;: 2.52,
+      &quot;latitude&quot;: 35.5995,
+      &quot;longitude&quot;: -117.59783330000002,
+      &quot;depth&quot;: 4.74
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562275395050,
+      &quot;comcatEventID&quot;: &quot;ci38444687&quot;,
+      &quot;mag&quot;: 2.8,
+      &quot;latitude&quot;: 35.6951667,
+      &quot;longitude&quot;: -117.4893333,
+      &quot;depth&quot;: 1.65
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562275595000,
+      &quot;comcatEventID&quot;: &quot;ci38444719&quot;,
+      &quot;mag&quot;: 2.98,
+      &quot;latitude&quot;: 35.6748333,
+      &quot;longitude&quot;: -117.5253333,
+      &quot;depth&quot;: 9.41
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562275966060,
+      &quot;comcatEventID&quot;: &quot;ci38444783&quot;,
+      &quot;mag&quot;: 2.62,
+      &quot;latitude&quot;: 35.725,
+      &quot;longitude&quot;: -117.56916670000001,
+      &quot;depth&quot;: 2.03
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562276014350,
+      &quot;comcatEventID&quot;: &quot;ci38444791&quot;,
+      &quot;mag&quot;: 3.15,
+      &quot;latitude&quot;: 35.617,
+      &quot;longitude&quot;: -117.58983330000001,
+      &quot;depth&quot;: 7.45
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562276433420,
+      &quot;comcatEventID&quot;: &quot;ci38444823&quot;,
+      &quot;mag&quot;: 3.44,
+      &quot;latitude&quot;: 35.67016670000001,
+      &quot;longitude&quot;: -117.51816670000001,
+      &quot;depth&quot;: 1.78
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562276519830,
+      &quot;comcatEventID&quot;: &quot;ci38444847&quot;,
+      &quot;mag&quot;: 2.74,
+      &quot;latitude&quot;: 35.7193333,
+      &quot;longitude&quot;: -117.53216670000002,
+      &quot;depth&quot;: 2.19
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562276794030,
+      &quot;comcatEventID&quot;: &quot;ci38444895&quot;,
+      &quot;mag&quot;: 2.5,
+      &quot;latitude&quot;: 35.7011667,
+      &quot;longitude&quot;: -117.47866669999999,
+      &quot;depth&quot;: 0.93
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562276824370,
+      &quot;comcatEventID&quot;: &quot;ci38444903&quot;,
+      &quot;mag&quot;: 3.25,
+      &quot;latitude&quot;: 35.6335,
+      &quot;longitude&quot;: -117.606,
+      &quot;depth&quot;: 9.67
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562277755060,
+      &quot;comcatEventID&quot;: &quot;ci38445015&quot;,
+      &quot;mag&quot;: 3.44,
+      &quot;latitude&quot;: 35.6768333,
+      &quot;longitude&quot;: -117.5128333,
+      &quot;depth&quot;: 2.88
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562277922533,
+      &quot;comcatEventID&quot;: &quot;us70004ach&quot;,
+      &quot;mag&quot;: 3.3,
+      &quot;latitude&quot;: 35.7232,
+      &quot;longitude&quot;: -117.4508,
+      &quot;depth&quot;: 9.45
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562278328280,
+      &quot;comcatEventID&quot;: &quot;ci38445087&quot;,
+      &quot;mag&quot;: 4.47,
+      &quot;latitude&quot;: 35.7443333,
+      &quot;longitude&quot;: -117.56633329999998,
+      &quot;depth&quot;: 1.97
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562279346560,
+      &quot;comcatEventID&quot;: &quot;ci38445183&quot;,
+      &quot;mag&quot;: 2.51,
+      &quot;latitude&quot;: 35.7038333,
+      &quot;longitude&quot;: -117.49499999999999,
+      &quot;depth&quot;: 9.8
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562279407880,
+      &quot;comcatEventID&quot;: &quot;ci38445199&quot;,
+      &quot;mag&quot;: 2.62,
+      &quot;latitude&quot;: 35.7008333,
+      &quot;longitude&quot;: -117.4893333,
+      &quot;depth&quot;: 1.85
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562280141780,
+      &quot;comcatEventID&quot;: &quot;ci38445295&quot;,
+      &quot;mag&quot;: 3.23,
+      &quot;latitude&quot;: 35.7221667,
+      &quot;longitude&quot;: -117.52349999999998,
+      &quot;depth&quot;: 4.41
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562281630780,
+      &quot;comcatEventID&quot;: &quot;ci38445463&quot;,
+      &quot;mag&quot;: 2.59,
+      &quot;latitude&quot;: 35.7041667,
+      &quot;longitude&quot;: -117.4886667,
+      &quot;depth&quot;: 1.92
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562281960400,
+      &quot;comcatEventID&quot;: &quot;ci38445495&quot;,
+      &quot;mag&quot;: 3.53,
+      &quot;latitude&quot;: 35.6731667,
+      &quot;longitude&quot;: -117.4713333,
+      &quot;depth&quot;: 9.01
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562281985010,
+      &quot;comcatEventID&quot;: &quot;ci38445503&quot;,
+      &quot;mag&quot;: 3.04,
+      &quot;latitude&quot;: 35.7461667,
+      &quot;longitude&quot;: -117.5775,
+      &quot;depth&quot;: 4.4
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562283240630,
+      &quot;comcatEventID&quot;: &quot;ci37420973&quot;,
+      &quot;mag&quot;: 3.82,
+      &quot;latitude&quot;: 35.6623333,
+      &quot;longitude&quot;: -117.5245,
+      &quot;depth&quot;: 2.61
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562283242380,
+      &quot;comcatEventID&quot;: &quot;ci38445703&quot;,
+      &quot;mag&quot;: 4.04,
+      &quot;latitude&quot;: 35.6011667,
+      &quot;longitude&quot;: -117.61066670000001,
+      &quot;depth&quot;: 4.75
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562283753830,
+      &quot;comcatEventID&quot;: &quot;ci38445751&quot;,
+      &quot;mag&quot;: 3.72,
+      &quot;latitude&quot;: 35.7478333,
+      &quot;longitude&quot;: -117.56783330000002,
+      &quot;depth&quot;: 4.36
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562284476390,
+      &quot;comcatEventID&quot;: &quot;ci38445839&quot;,
+      &quot;mag&quot;: 3.39,
+      &quot;latitude&quot;: 35.656,
+      &quot;longitude&quot;: -117.5233333,
+      &quot;depth&quot;: 1.71
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562285645640,
+      &quot;comcatEventID&quot;: &quot;ci38445935&quot;,
+      &quot;mag&quot;: 2.76,
+      &quot;latitude&quot;: 35.6458333,
+      &quot;longitude&quot;: -117.54716670000002,
+      &quot;depth&quot;: 0.29
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562285881410,
+      &quot;comcatEventID&quot;: &quot;ci38445975&quot;,
+      &quot;mag&quot;: 4.04,
+      &quot;latitude&quot;: 35.7718333,
+      &quot;longitude&quot;: -117.61783330000002,
+      &quot;depth&quot;: 2.59
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562286529030,
+      &quot;comcatEventID&quot;: &quot;ci38446031&quot;,
+      &quot;mag&quot;: 2.8,
+      &quot;latitude&quot;: 35.7215,
+      &quot;longitude&quot;: -117.5465,
+      &quot;depth&quot;: 7.03
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562286726670,
+      &quot;comcatEventID&quot;: &quot;ci38446071&quot;,
+      &quot;mag&quot;: 4.02,
+      &quot;latitude&quot;: 35.7033333,
+      &quot;longitude&quot;: -117.4828333,
+      &quot;depth&quot;: 1.0
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562286799610,
+      &quot;comcatEventID&quot;: &quot;ci38446079&quot;,
+      &quot;mag&quot;: 2.66,
+      &quot;latitude&quot;: 35.7436676,
+      &quot;longitude&quot;: -117.55566409999999,
+      &quot;depth&quot;: 5.42
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562287539460,
+      &quot;comcatEventID&quot;: &quot;ci38446159&quot;,
+      &quot;mag&quot;: 3.85,
+      &quot;latitude&quot;: 35.6946667,
+      &quot;longitude&quot;: -117.50833330000002,
+      &quot;depth&quot;: 6.22
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562287780920,
+      &quot;comcatEventID&quot;: &quot;ci38446175&quot;,
+      &quot;mag&quot;: 2.52,
+      &quot;latitude&quot;: 35.7096667,
+      &quot;longitude&quot;: -117.47866669999999,
+      &quot;depth&quot;: 1.91
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562288933450,
+      &quot;comcatEventID&quot;: &quot;ci38446343&quot;,
+      &quot;mag&quot;: 3.11,
+      &quot;latitude&quot;: 35.7245,
+      &quot;longitude&quot;: -117.548,
+      &quot;depth&quot;: 1.89
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562289493420,
+      &quot;comcatEventID&quot;: &quot;ci38446391&quot;,
+      &quot;mag&quot;: 3.21,
+      &quot;latitude&quot;: 35.6583333,
+      &quot;longitude&quot;: -117.52283329999999,
+      &quot;depth&quot;: 1.85
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562291154030,
+      &quot;comcatEventID&quot;: &quot;ci38446527&quot;,
+      &quot;mag&quot;: 2.55,
+      &quot;latitude&quot;: 35.5946655,
+      &quot;longitude&quot;: -117.5978317,
+      &quot;depth&quot;: 4.1
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562291887280,
+      &quot;comcatEventID&quot;: &quot;ci38446615&quot;,
+      &quot;mag&quot;: 2.68,
+      &quot;latitude&quot;: 35.7118333,
+      &quot;longitude&quot;: -117.46816670000001,
+      &quot;depth&quot;: 0.68
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562292100910,
+      &quot;comcatEventID&quot;: &quot;ci38446639&quot;,
+      &quot;mag&quot;: 3.21,
+      &quot;latitude&quot;: 35.7734985,
+      &quot;longitude&quot;: -117.6149979,
+      &quot;depth&quot;: 0.22
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562292119010,
+      &quot;comcatEventID&quot;: &quot;ci38446647&quot;,
+      &quot;mag&quot;: 3.98,
+      &quot;latitude&quot;: 35.6401667,
+      &quot;longitude&quot;: -117.5461667,
+      &quot;depth&quot;: 11.3
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562292319160,
+      &quot;comcatEventID&quot;: &quot;ci38446671&quot;,
+      &quot;mag&quot;: 3.34,
+      &quot;latitude&quot;: 35.6558342,
+      &quot;longitude&quot;: -117.5234985,
+      &quot;depth&quot;: 1.57
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562292831940,
+      &quot;comcatEventID&quot;: &quot;ci38446767&quot;,
+      &quot;mag&quot;: 2.65,
+      &quot;latitude&quot;: 35.6405,
+      &quot;longitude&quot;: -117.55783329999998,
+      &quot;depth&quot;: 10.3
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562293181860,
+      &quot;comcatEventID&quot;: &quot;ci38446807&quot;,
+      &quot;mag&quot;: 3.25,
+      &quot;latitude&quot;: 35.7746658,
+      &quot;longitude&quot;: -117.6169968,
+      &quot;depth&quot;: 2.35
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562293435650,
+      &quot;comcatEventID&quot;: &quot;ci38446831&quot;,
+      &quot;mag&quot;: 2.8,
+      &quot;latitude&quot;: 35.7128333,
+      &quot;longitude&quot;: -117.4743333,
+      &quot;depth&quot;: 0.81
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562295589610,
+      &quot;comcatEventID&quot;: &quot;ci38447047&quot;,
+      &quot;mag&quot;: 2.81,
+      &quot;latitude&quot;: 35.661,
+      &quot;longitude&quot;: -117.519,
+      &quot;depth&quot;: 0.21
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562295673270,
+      &quot;comcatEventID&quot;: &quot;ci38447055&quot;,
+      &quot;mag&quot;: 2.72,
+      &quot;latitude&quot;: 35.744,
+      &quot;longitude&quot;: -117.5648333,
+      &quot;depth&quot;: 5.49
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562296518720,
+      &quot;comcatEventID&quot;: &quot;ci38447143&quot;,
+      &quot;mag&quot;: 3.27,
+      &quot;latitude&quot;: 35.6286659,
+      &quot;longitude&quot;: -117.5633316,
+      &quot;depth&quot;: 3.95
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562296793710,
+      &quot;comcatEventID&quot;: &quot;ci38447191&quot;,
+      &quot;mag&quot;: 3.32,
+      &quot;latitude&quot;: 35.6426659,
+      &quot;longitude&quot;: -117.529335,
+      &quot;depth&quot;: 0.61
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562296893030,
+      &quot;comcatEventID&quot;: &quot;ci38447207&quot;,
+      &quot;mag&quot;: 2.53,
+      &quot;latitude&quot;: 35.7783333,
+      &quot;longitude&quot;: -117.6173333,
+      &quot;depth&quot;: 1.76
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562297120610,
+      &quot;comcatEventID&quot;: &quot;ci38447231&quot;,
+      &quot;mag&quot;: 2.54,
+      &quot;latitude&quot;: 35.6911667,
+      &quot;longitude&quot;: -117.5123333,
+      &quot;depth&quot;: 4.17
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562298372730,
+      &quot;comcatEventID&quot;: &quot;ci38447383&quot;,
+      &quot;mag&quot;: 2.56,
+      &quot;latitude&quot;: 35.698,
+      &quot;longitude&quot;: -117.48033330000001,
+      &quot;depth&quot;: 1.34
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562298414390,
+      &quot;comcatEventID&quot;: &quot;ci38447391&quot;,
+      &quot;mag&quot;: 3.07,
+      &quot;latitude&quot;: 35.6823349,
+      &quot;longitude&quot;: -117.5,
+      &quot;depth&quot;: 0.59
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562298613940,
+      &quot;comcatEventID&quot;: &quot;ci38447407&quot;,
+      &quot;mag&quot;: 2.52,
+      &quot;latitude&quot;: 35.7093333,
+      &quot;longitude&quot;: -117.4758333,
+      &quot;depth&quot;: 0.41
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562299898470,
+      &quot;comcatEventID&quot;: &quot;ci38447591&quot;,
+      &quot;mag&quot;: 3.53,
+      &quot;latitude&quot;: 35.7226677,
+      &quot;longitude&quot;: -117.55300139999999,
+      &quot;depth&quot;: 1.02
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562299981170,
+      &quot;comcatEventID&quot;: &quot;ci38447599&quot;,
+      &quot;mag&quot;: 2.62,
+      &quot;latitude&quot;: 35.6773333,
+      &quot;longitude&quot;: -117.551,
+      &quot;depth&quot;: 7.07
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562300085340,
+      &quot;comcatEventID&quot;: &quot;ci38447623&quot;,
+      &quot;mag&quot;: 3.48,
+      &quot;latitude&quot;: 35.6983337,
+      &quot;longitude&quot;: -117.481163,
+      &quot;depth&quot;: 1.26
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562301184910,
+      &quot;comcatEventID&quot;: &quot;ci38447727&quot;,
+      &quot;mag&quot;: 2.54,
+      &quot;latitude&quot;: 35.6588333,
+      &quot;longitude&quot;: -117.51783330000002,
+      &quot;depth&quot;: 2.08
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562302565260,
+      &quot;comcatEventID&quot;: &quot;ci38447911&quot;,
+      &quot;mag&quot;: 2.52,
+      &quot;latitude&quot;: 35.6596667,
+      &quot;longitude&quot;: -117.54183330000001,
+      &quot;depth&quot;: 7.89
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562302899770,
+      &quot;comcatEventID&quot;: &quot;ci38447927&quot;,
+      &quot;mag&quot;: 2.61,
+      &quot;latitude&quot;: 35.5718333,
+      &quot;longitude&quot;: -117.6181667,
+      &quot;depth&quot;: 4.86
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562303437620,
+      &quot;comcatEventID&quot;: &quot;ci38447999&quot;,
+      &quot;mag&quot;: 3.19,
+      &quot;latitude&quot;: 35.7073326,
+      &quot;longitude&quot;: -117.47533420000002,
+      &quot;depth&quot;: 6.11
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562303905370,
+      &quot;comcatEventID&quot;: &quot;ci38448031&quot;,
+      &quot;mag&quot;: 3.45,
+      &quot;latitude&quot;: 35.7700005,
+      &quot;longitude&quot;: -117.61250310000001,
+      &quot;depth&quot;: 2.34
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562304556070,
+      &quot;comcatEventID&quot;: &quot;ci38448071&quot;,
+      &quot;mag&quot;: 2.64,
+      &quot;latitude&quot;: 35.636,
+      &quot;longitude&quot;: -117.58783330000001,
+      &quot;depth&quot;: 6.71
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562305212140,
+      &quot;comcatEventID&quot;: &quot;ci38448143&quot;,
+      &quot;mag&quot;: 2.82,
+      &quot;latitude&quot;: 35.6776667,
+      &quot;longitude&quot;: -117.51066670000002,
+      &quot;depth&quot;: 2.02
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562305958100,
+      &quot;comcatEventID&quot;: &quot;ci38448183&quot;,
+      &quot;mag&quot;: 2.5,
+      &quot;latitude&quot;: 35.70283330000001,
+      &quot;longitude&quot;: -117.4845,
+      &quot;depth&quot;: 0.25
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562306963130,
+      &quot;comcatEventID&quot;: &quot;ci38448295&quot;,
+      &quot;mag&quot;: 3.65,
+      &quot;latitude&quot;: 35.6223335,
+      &quot;longitude&quot;: -117.57333369999999,
+      &quot;depth&quot;: 6.19
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562308842510,
+      &quot;comcatEventID&quot;: &quot;ci38448487&quot;,
+      &quot;mag&quot;: 3.2,
+      &quot;latitude&quot;: 35.7036667,
+      &quot;longitude&quot;: -117.50849909999998,
+      &quot;depth&quot;: 2.33
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562309940440,
+      &quot;comcatEventID&quot;: &quot;ci38448591&quot;,
+      &quot;mag&quot;: 2.64,
+      &quot;latitude&quot;: 35.7166667,
+      &quot;longitude&quot;: -117.54133330000002,
+      &quot;depth&quot;: 0.35
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562309973610,
+      &quot;comcatEventID&quot;: &quot;ci38448599&quot;,
+      &quot;mag&quot;: 2.58,
+      &quot;latitude&quot;: 35.6706667,
+      &quot;longitude&quot;: -117.4831667,
+      &quot;depth&quot;: 6.7
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562310142290,
+      &quot;comcatEventID&quot;: &quot;ci38448631&quot;,
+      &quot;mag&quot;: 3.17,
+      &quot;latitude&quot;: 35.7268333,
+      &quot;longitude&quot;: -117.56416320000001,
+      &quot;depth&quot;: 1.54
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562311657020,
+      &quot;comcatEventID&quot;: &quot;ci38448791&quot;,
+      &quot;mag&quot;: 3.72,
+      &quot;latitude&quot;: 35.75,
+      &quot;longitude&quot;: -117.56416320000001,
+      &quot;depth&quot;: 3.38
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562312353540,
+      &quot;comcatEventID&quot;: &quot;ci38448863&quot;,
+      &quot;mag&quot;: 3.46,
+      &quot;latitude&quot;: 35.68600080000001,
+      &quot;longitude&quot;: -117.4801636,
+      &quot;depth&quot;: 9.49
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562313643330,
+      &quot;comcatEventID&quot;: &quot;ci38449015&quot;,
+      &quot;mag&quot;: 2.9,
+      &quot;latitude&quot;: 35.7501667,
+      &quot;longitude&quot;: -117.56216670000002,
+      &quot;depth&quot;: 7.07
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562314864840,
+      &quot;comcatEventID&quot;: &quot;ci38449191&quot;,
+      &quot;mag&quot;: 3.46,
+      &quot;latitude&quot;: 35.6011658,
+      &quot;longitude&quot;: -117.6039963,
+      &quot;depth&quot;: 4.2
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562316409740,
+      &quot;comcatEventID&quot;: &quot;ci38449335&quot;,
+      &quot;mag&quot;: 3.09,
+      &quot;latitude&quot;: 35.6926651,
+      &quot;longitude&quot;: -117.49099730000002,
+      &quot;depth&quot;: 7.04
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562316842500,
+      &quot;comcatEventID&quot;: &quot;ci38449351&quot;,
+      &quot;mag&quot;: 3.55,
+      &quot;latitude&quot;: 35.7039986,
+      &quot;longitude&quot;: -117.50250240000001,
+      &quot;depth&quot;: 7.27
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562317880610,
+      &quot;comcatEventID&quot;: &quot;ci38449503&quot;,
+      &quot;mag&quot;: 2.9,
+      &quot;latitude&quot;: 35.6663333,
+      &quot;longitude&quot;: -117.52766670000001,
+      &quot;depth&quot;: 6.61
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562319989260,
+      &quot;comcatEventID&quot;: &quot;ci38449719&quot;,
+      &quot;mag&quot;: 3.51,
+      &quot;latitude&quot;: 35.6479988,
+      &quot;longitude&quot;: -117.54533390000002,
+      &quot;depth&quot;: 3.76
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562321794490,
+      &quot;comcatEventID&quot;: &quot;ci38449919&quot;,
+      &quot;mag&quot;: 3.1,
+      &quot;latitude&quot;: 35.663166,
+      &quot;longitude&quot;: -117.50299840000001,
+      &quot;depth&quot;: 6.09
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562322437720,
+      &quot;comcatEventID&quot;: &quot;ci38449999&quot;,
+      &quot;mag&quot;: 2.53,
+      &quot;latitude&quot;: 35.7246667,
+      &quot;longitude&quot;: -117.5358333,
+      &quot;depth&quot;: 6.6
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562322796080,
+      &quot;comcatEventID&quot;: &quot;ci38450047&quot;,
+      &quot;mag&quot;: 2.75,
+      &quot;latitude&quot;: 35.68050000000001,
+      &quot;longitude&quot;: -117.4775,
+      &quot;depth&quot;: 0.83
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562324246570,
+      &quot;comcatEventID&quot;: &quot;ci38450215&quot;,
+      &quot;mag&quot;: 2.89,
+      &quot;latitude&quot;: 35.7433333,
+      &quot;longitude&quot;: -117.54933329999999,
+      &quot;depth&quot;: 10.81
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562324378860,
+      &quot;comcatEventID&quot;: &quot;ci38450223&quot;,
+      &quot;mag&quot;: 3.54,
+      &quot;latitude&quot;: 35.6041679,
+      &quot;longitude&quot;: -117.5926666,
+      &quot;depth&quot;: 1.97
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562324873040,
+      &quot;comcatEventID&quot;: &quot;ci38450263&quot;,
+      &quot;mag&quot;: 5.36,
+      &quot;latitude&quot;: 35.7603333,
+      &quot;longitude&quot;: -117.57500000000002,
+      &quot;depth&quot;: 6.95
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562325009580,
+      &quot;comcatEventID&quot;: &quot;ci38450271&quot;,
+      &quot;mag&quot;: 3.44,
+      &quot;latitude&quot;: 35.746666,
+      &quot;longitude&quot;: -117.59333039999999,
+      &quot;depth&quot;: 6.49
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562325091820,
+      &quot;comcatEventID&quot;: &quot;ci38450279&quot;,
+      &quot;mag&quot;: 2.96,
+      &quot;latitude&quot;: 35.7498333,
+      &quot;longitude&quot;: -117.56949999999999,
+      &quot;depth&quot;: 4.28
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562325139080,
+      &quot;comcatEventID&quot;: &quot;ci38450287&quot;,
+      &quot;mag&quot;: 2.93,
+      &quot;latitude&quot;: 35.7505,
+      &quot;longitude&quot;: -117.5688333,
+      &quot;depth&quot;: 3.62
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562325439580,
+      &quot;comcatEventID&quot;: &quot;ci38450295&quot;,
+      &quot;mag&quot;: 2.55,
+      &quot;latitude&quot;: 35.777,
+      &quot;longitude&quot;: -117.56699999999998,
+      &quot;depth&quot;: 4.93
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562325624920,
+      &quot;comcatEventID&quot;: &quot;ci38450319&quot;,
+      &quot;mag&quot;: 2.56,
+      &quot;latitude&quot;: 35.7588333,
+      &quot;longitude&quot;: -117.57466670000001,
+      &quot;depth&quot;: 7.08
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562325908730,
+      &quot;comcatEventID&quot;: &quot;ci38450367&quot;,
+      &quot;mag&quot;: 2.6,
+      &quot;latitude&quot;: 35.6436667,
+      &quot;longitude&quot;: -117.5891667,
+      &quot;depth&quot;: 8.26
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562326154790,
+      &quot;comcatEventID&quot;: &quot;ci38450415&quot;,
+      &quot;mag&quot;: 3.05,
+      &quot;latitude&quot;: 35.7718315,
+      &quot;longitude&quot;: -117.5686646,
+      &quot;depth&quot;: 3.75
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562326291390,
+      &quot;comcatEventID&quot;: &quot;ci38450447&quot;,
+      &quot;mag&quot;: 2.52,
+      &quot;latitude&quot;: 35.758,
+      &quot;longitude&quot;: -117.58216670000002,
+      &quot;depth&quot;: 7.12
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562326563920,
+      &quot;comcatEventID&quot;: &quot;ci38450511&quot;,
+      &quot;mag&quot;: 3.19,
+      &quot;latitude&quot;: 35.7631667,
+      &quot;longitude&quot;: -117.5838333,
+      &quot;depth&quot;: 7.91
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562327510810,
+      &quot;comcatEventID&quot;: &quot;ci38450631&quot;,
+      &quot;mag&quot;: 2.72,
+      &quot;latitude&quot;: 35.6008333,
+      &quot;longitude&quot;: -117.60383329999999,
+      &quot;depth&quot;: 4.64
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562327929210,
+      &quot;comcatEventID&quot;: &quot;ci38450663&quot;,
+      &quot;mag&quot;: 2.88,
+      &quot;latitude&quot;: 35.648,
+      &quot;longitude&quot;: -117.585,
+      &quot;depth&quot;: 6.77
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562329437990,
+      &quot;comcatEventID&quot;: &quot;ci38450935&quot;,
+      &quot;mag&quot;: 3.26,
+      &quot;latitude&quot;: 35.7228317,
+      &quot;longitude&quot;: -117.52850340000002,
+      &quot;depth&quot;: 3.14
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562330310020,
+      &quot;comcatEventID&quot;: &quot;ci38451079&quot;,
+      &quot;mag&quot;: 4.09,
+      &quot;latitude&quot;: 35.7716667,
+      &quot;longitude&quot;: -117.57066670000002,
+      &quot;depth&quot;: 6.82
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562331000450,
+      &quot;comcatEventID&quot;: &quot;ci38451175&quot;,
+      &quot;mag&quot;: 2.65,
+      &quot;latitude&quot;: 35.758,
+      &quot;longitude&quot;: -117.57366670000002,
+      &quot;depth&quot;: 6.92
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562331304830,
+      &quot;comcatEventID&quot;: &quot;ci38451239&quot;,
+      &quot;mag&quot;: 3.65,
+      &quot;latitude&quot;: 35.7508316,
+      &quot;longitude&quot;: -117.5633316,
+      &quot;depth&quot;: 6.9
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562332343380,
+      &quot;comcatEventID&quot;: &quot;ci38451383&quot;,
+      &quot;mag&quot;: 2.75,
+      &quot;latitude&quot;: 35.7586667,
+      &quot;longitude&quot;: -117.5676667,
+      &quot;depth&quot;: 5.07
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562334063040,
+      &quot;comcatEventID&quot;: &quot;ci38451623&quot;,
+      &quot;mag&quot;: 2.75,
+      &quot;latitude&quot;: 35.7051667,
+      &quot;longitude&quot;: -117.5111667,
+      &quot;depth&quot;: 6.82
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562334453490,
+      &quot;comcatEventID&quot;: &quot;ci38451671&quot;,
+      &quot;mag&quot;: 2.61,
+      &quot;latitude&quot;: 35.7465,
+      &quot;longitude&quot;: -117.5656667,
+      &quot;depth&quot;: 3.19
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562334941070,
+      &quot;comcatEventID&quot;: &quot;ci38451727&quot;,
+      &quot;mag&quot;: 2.63,
+      &quot;latitude&quot;: 35.7153333,
+      &quot;longitude&quot;: -117.5081667,
+      &quot;depth&quot;: 9.68
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562335307420,
+      &quot;comcatEventID&quot;: &quot;ci38451775&quot;,
+      &quot;mag&quot;: 2.53,
+      &quot;latitude&quot;: 35.7918333,
+      &quot;longitude&quot;: -117.61550000000001,
+      &quot;depth&quot;: 1.03
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562337573410,
+      &quot;comcatEventID&quot;: &quot;ci38452095&quot;,
+      &quot;mag&quot;: 3.94,
+      &quot;latitude&quot;: 35.7428322,
+      &quot;longitude&quot;: -117.56749730000001,
+      &quot;depth&quot;: 2.33
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562337629890,
+      &quot;comcatEventID&quot;: &quot;ci38452103&quot;,
+      &quot;mag&quot;: 3.21,
+      &quot;latitude&quot;: 35.5613327,
+      &quot;longitude&quot;: -117.6133347,
+      &quot;depth&quot;: 3.28
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562338809210,
+      &quot;comcatEventID&quot;: &quot;ci38452247&quot;,
+      &quot;mag&quot;: 2.78,
+      &quot;latitude&quot;: 35.6818333,
+      &quot;longitude&quot;: -117.59733329999999,
+      &quot;depth&quot;: 0.27
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562339017620,
+      &quot;comcatEventID&quot;: &quot;ci38452271&quot;,
+      &quot;mag&quot;: 2.76,
+      &quot;latitude&quot;: 35.663000000000004,
+      &quot;longitude&quot;: -117.5275,
+      &quot;depth&quot;: 2.81
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562339537840,
+      &quot;comcatEventID&quot;: &quot;ci38452367&quot;,
+      &quot;mag&quot;: 2.57,
+      &quot;latitude&quot;: 35.7438316,
+      &quot;longitude&quot;: -117.5596695,
+      &quot;depth&quot;: 1.17
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562339943630,
+      &quot;comcatEventID&quot;: &quot;ci38452431&quot;,
+      &quot;mag&quot;: 2.55,
+      &quot;latitude&quot;: 35.7223333,
+      &quot;longitude&quot;: -117.551,
+      &quot;depth&quot;: 0.33
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562341563870,
+      &quot;comcatEventID&quot;: &quot;ci38452607&quot;,
+      &quot;mag&quot;: 2.98,
+      &quot;latitude&quot;: 35.6993332,
+      &quot;longitude&quot;: -117.48300170000002,
+      &quot;depth&quot;: 1.21
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562346156530,
+      &quot;comcatEventID&quot;: &quot;ci38453279&quot;,
+      &quot;mag&quot;: 3.84,
+      &quot;latitude&quot;: 35.6175003,
+      &quot;longitude&quot;: -117.5821686,
+      &quot;depth&quot;: 9.91
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562349432530,
+      &quot;comcatEventID&quot;: &quot;ci38453711&quot;,
+      &quot;mag&quot;: 2.51,
+      &quot;latitude&quot;: 35.7163333,
+      &quot;longitude&quot;: -117.47483329999999,
+      &quot;depth&quot;: 1.51
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562349596220,
+      &quot;comcatEventID&quot;: &quot;ci38453719&quot;,
+      &quot;mag&quot;: 3.42,
+      &quot;latitude&quot;: 35.7924995,
+      &quot;longitude&quot;: -117.6153336,
+      &quot;depth&quot;: 3.33
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562350192590,
+      &quot;comcatEventID&quot;: &quot;ci38453815&quot;,
+      &quot;mag&quot;: 2.71,
+      &quot;latitude&quot;: 35.6693333,
+      &quot;longitude&quot;: -117.5243333,
+      &quot;depth&quot;: 2.25
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562352030950,
+      &quot;comcatEventID&quot;: &quot;ci38454007&quot;,
+      &quot;mag&quot;: 2.6,
+      &quot;latitude&quot;: 35.7251667,
+      &quot;longitude&quot;: -117.56066670000001,
+      &quot;depth&quot;: 2.79
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562356776960,
+      &quot;comcatEventID&quot;: &quot;ci38454567&quot;,
+      &quot;mag&quot;: 2.74,
+      &quot;latitude&quot;: 35.7391667,
+      &quot;longitude&quot;: -117.5648333,
+      &quot;depth&quot;: 2.68
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562359878730,
+      &quot;comcatEventID&quot;: &quot;ci38454919&quot;,
+      &quot;mag&quot;: 2.74,
+      &quot;latitude&quot;: 35.6678333,
+      &quot;longitude&quot;: -117.51833329999998,
+      &quot;depth&quot;: 4.44
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562359898360,
+      &quot;comcatEventID&quot;: &quot;ci38454927&quot;,
+      &quot;mag&quot;: 2.64,
+      &quot;latitude&quot;: 35.6696667,
+      &quot;longitude&quot;: -117.51499999999999,
+      &quot;depth&quot;: 2.7
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562361217630,
+      &quot;comcatEventID&quot;: &quot;ci38455103&quot;,
+      &quot;mag&quot;: 2.82,
+      &quot;latitude&quot;: 35.7436667,
+      &quot;longitude&quot;: -117.551,
+      &quot;depth&quot;: 6.78
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562361451180,
+      &quot;comcatEventID&quot;: &quot;ci38455135&quot;,
+      &quot;mag&quot;: 2.83,
+      &quot;latitude&quot;: 35.717,
+      &quot;longitude&quot;: -117.52466670000001,
+      &quot;depth&quot;: 4.96
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562362226100,
+      &quot;comcatEventID&quot;: &quot;ci38455199&quot;,
+      &quot;mag&quot;: 2.77,
+      &quot;latitude&quot;: 35.6113333,
+      &quot;longitude&quot;: -117.59233330000002,
+      &quot;depth&quot;: 7.55
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562364310410,
+      &quot;comcatEventID&quot;: &quot;ci38455447&quot;,
+      &quot;mag&quot;: 2.83,
+      &quot;latitude&quot;: 35.6968333,
+      &quot;longitude&quot;: -117.51066670000002,
+      &quot;depth&quot;: 2.59
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562364448340,
+      &quot;comcatEventID&quot;: &quot;ci38455463&quot;,
+      &quot;mag&quot;: 2.8,
+      &quot;latitude&quot;: 35.6841667,
+      &quot;longitude&quot;: -117.49983330000002,
+      &quot;depth&quot;: 6.8
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562364622690,
+      &quot;comcatEventID&quot;: &quot;ci38455487&quot;,
+      &quot;mag&quot;: 2.57,
+      &quot;latitude&quot;: 35.7351667,
+      &quot;longitude&quot;: -117.5451667,
+      &quot;depth&quot;: 4.51
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562366303380,
+      &quot;comcatEventID&quot;: &quot;ci38455679&quot;,
+      &quot;mag&quot;: 3.03,
+      &quot;latitude&quot;: 35.7750015,
+      &quot;longitude&quot;: -117.6006699,
+      &quot;depth&quot;: 2.38
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562367667890,
+      &quot;comcatEventID&quot;: &quot;ci38455855&quot;,
+      &quot;mag&quot;: 2.51,
+      &quot;latitude&quot;: 35.683,
+      &quot;longitude&quot;: -117.50616670000001,
+      &quot;depth&quot;: 0.73
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562368051440,
+      &quot;comcatEventID&quot;: &quot;ci38455903&quot;,
+      &quot;mag&quot;: 2.63,
+      &quot;latitude&quot;: 35.7975,
+      &quot;longitude&quot;: -117.611,
+      &quot;depth&quot;: 4.21
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562371859260,
+      &quot;comcatEventID&quot;: &quot;ci38456327&quot;,
+      &quot;mag&quot;: 2.58,
+      &quot;latitude&quot;: 35.7625,
+      &quot;longitude&quot;: -117.5686667,
+      &quot;depth&quot;: 4.19
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562371982560,
+      &quot;comcatEventID&quot;: &quot;ci38456351&quot;,
+      &quot;mag&quot;: 3.46,
+      &quot;latitude&quot;: 35.7248344,
+      &quot;longitude&quot;: -117.55516819999998,
+      &quot;depth&quot;: 2.11
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562372032500,
+      &quot;comcatEventID&quot;: &quot;ci38456359&quot;,
+      &quot;mag&quot;: 2.78,
+      &quot;latitude&quot;: 35.7443333,
+      &quot;longitude&quot;: -117.5468333,
+      &quot;depth&quot;: 10.57
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562372081700,
+      &quot;comcatEventID&quot;: &quot;ci38456367&quot;,
+      &quot;mag&quot;: 2.8,
+      &quot;latitude&quot;: 35.771,
+      &quot;longitude&quot;: -117.60016669999999,
+      &quot;depth&quot;: 2.52
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562372139190,
+      &quot;comcatEventID&quot;: &quot;ci38456375&quot;,
+      &quot;mag&quot;: 2.97,
+      &quot;latitude&quot;: 35.7733345,
+      &quot;longitude&quot;: -117.60250090000001,
+      &quot;depth&quot;: 2.91
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562372337740,
+      &quot;comcatEventID&quot;: &quot;ci38456391&quot;,
+      &quot;mag&quot;: 2.68,
+      &quot;latitude&quot;: 35.7708333,
+      &quot;longitude&quot;: -117.6183333,
+      &quot;depth&quot;: 2.46
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562372410300,
+      &quot;comcatEventID&quot;: &quot;ci38456407&quot;,
+      &quot;mag&quot;: 2.75,
+      &quot;latitude&quot;: 35.88850000000001,
+      &quot;longitude&quot;: -117.9086667,
+      &quot;depth&quot;: 1.93
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562374285720,
+      &quot;comcatEventID&quot;: &quot;ci38456615&quot;,
+      &quot;mag&quot;: 3.63,
+      &quot;latitude&quot;: 35.7471657,
+      &quot;longitude&quot;: -117.58049770000001,
+      &quot;depth&quot;: 4.9
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562374285720,
+      &quot;comcatEventID&quot;: &quot;us70004bkq&quot;,
+      &quot;mag&quot;: 3.8,
+      &quot;latitude&quot;: 35.7472,
+      &quot;longitude&quot;: -117.5805,
+      &quot;depth&quot;: 4.9
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562374313780,
+      &quot;comcatEventID&quot;: &quot;ci38456623&quot;,
+      &quot;mag&quot;: 3.01,
+      &quot;latitude&quot;: 35.68650050000001,
+      &quot;longitude&quot;: -117.4781647,
+      &quot;depth&quot;: 6.98
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562378010760,
+      &quot;comcatEventID&quot;: &quot;ci38457015&quot;,
+      &quot;mag&quot;: 2.8,
+      &quot;latitude&quot;: 35.716,
+      &quot;longitude&quot;: -117.53350000000002,
+      &quot;depth&quot;: 4.66
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562379072280,
+      &quot;comcatEventID&quot;: &quot;ci38457103&quot;,
+      &quot;mag&quot;: 2.53,
+      &quot;latitude&quot;: 35.6246667,
+      &quot;longitude&quot;: -117.59700000000001,
+      &quot;depth&quot;: 7.04
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562380934090,
+      &quot;comcatEventID&quot;: &quot;ci38457263&quot;,
+      &quot;mag&quot;: 2.63,
+      &quot;latitude&quot;: 35.5985,
+      &quot;longitude&quot;: -117.5873333,
+      &quot;depth&quot;: 4.32
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562381713060,
+      &quot;comcatEventID&quot;: &quot;ci38457343&quot;,
+      &quot;mag&quot;: 2.81,
+      &quot;latitude&quot;: 35.7715,
+      &quot;longitude&quot;: -117.6006667,
+      &quot;depth&quot;: 2.2
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562382992480,
+      &quot;comcatEventID&quot;: &quot;ci38457487&quot;,
+      &quot;mag&quot;: 4.97,
+      &quot;latitude&quot;: 35.7253333,
+      &quot;longitude&quot;: -117.55350000000001,
+      &quot;depth&quot;: 0.88
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562383193040,
+      &quot;comcatEventID&quot;: &quot;ci38457511&quot;,
+      &quot;mag&quot;: 7.1,
+      &quot;latitude&quot;: 35.7695,
+      &quot;longitude&quot;: -117.59933329999998,
+      &quot;depth&quot;: 8.0
+    }
+  ],
+  &quot;cacheDir&quot;: &quot;${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba&quot;,
+  &quot;fssFile&quot;: &quot;${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip&quot;,
+  &quot;probModel&quot;: &quot;POISSON&quot;,
+  &quot;applySubSeisForSupraNucl&quot;: true,
+  &quot;totRateScaleFactor&quot;: 1.0,
+  &quot;gridSeisCorr&quot;: true,
+  &quot;timeIndependentERF&quot;: false,
+  &quot;griddedOnly&quot;: true,
+  &quot;imposeGR&quot;: false,
+  &quot;includeIndirectTriggering&quot;: true,
+  &quot;gridSeisDiscr&quot;: 0.1,
+  &quot;catalogCompletenessModel&quot;: &quot;RELAXED&quot;,
+  &quot;configCommand&quot;: &quot;u3etas_comcat_event_config_builder.sh --event-id ci38457511 --num-simulations 100000 --days-before 7 --gridded-only --mag-complete 3.5 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec&quot;,
+  &quot;configTime&quot;: 1567534331751,
+  &quot;comcatMetadata&quot;: {
+    &quot;region&quot;: {
+      &quot;centerLatitude&quot;: 35.7695,
+      &quot;centerLongitude&quot;: -117.59933329999998,
+      &quot;radius&quot;: 47.75292736576897
+    },
+    &quot;eventID&quot;: &quot;ci38457511&quot;,
+    &quot;minDepth&quot;: -10.0,
+    &quot;maxDepth&quot;: 24.0,
+    &quot;minMag&quot;: 2.5,
+    &quot;startTime&quot;: 1561778393040,
+    &quot;endTime&quot;: 1562383193041,
+    &quot;magComplete&quot;: 3.5
+  }
+}
+</code></pre>
+</body>
+</html>
