@@ -1,8 +1,33 @@
-# Start 2012, 500 yr, Scale Factor 1.0, Spontaneous, Historical Catalog
+# Start 2012, 500 yr, Scale Factor 1.0, Spontaneous, Historical Catalog Results
 
-No simulation results are yet available.
+|   | Start 2012, 500 yr, Scale Factor 1.0, Spontaneous, Historical Catalog |
+|-----|-----|
+| Num Simulations | 0 (incomplete) |
+| Start Time | 2012/01/01 00:00:00 UTC |
+| Start Time Epoch Milliseconds | 1325376000000 |
+| Duration | 500 Years |
+| Includes Spontaneous? | true |
+| Trigger Ruptures | *(none)* |
+| Historical Ruptures | 60366 Trigger Ruptures |
+|   | First: M7.3 at 1852/01/05 04:40:39 UTC |
+|   | Last: M3.2 at 2011/12/31 19:14:44 UTC |
+|   | Largest: M7.9 at 1857/01/09 16:25:39 UTC |
+| Config Generated With | u3etas_config_builder.sh --start-year 2012 --num-simulations 1000 --duration-years 500 --include-spontaneous --historical-catalog --scale-factor 1.0 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec |
+
+## Table Of Contents
+
+* [Section Participation](#section-participation)
+* [JSON Input File](#json-input-file)
+
+## Section Participation
+*[(top)](#table-of-contents)*
+
+No supra-seismogenic ruptures in any catalog
+
 
 ## JSON Input File
+*[(top)](#table-of-contents)*
+
 ```
 {
   "numSimulations": 1000,

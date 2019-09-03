@@ -1,0 +1,23 @@
+{
+  "plotStartTime": 1567467959038,
+  "plotEndTime": 1567467983549,
+  "simulationsProcessed": 0,
+  "dataFile": {
+    "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_09_02-Start2012_500yr_ScaleFactor1p0_Spontaneous_HistoricalCatalog-includeSpont-histCatalog-full_td/results"
+  },
+  "launcherGitHash": "c1b8003c5a9323fe499f1fb8d03361c3998a6fb1",
+  "launcherGitTime": 1567203404000,
+  "plots": [
+    {
+      "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_FaultParticipationPlot",
+      "version": 1,
+      "time": 1567467959038,
+      "markdown": [
+        "## Section Participation",
+        "*[(top)](#table-of-contents)*",
+        "",
+        "No supra-seismogenic ruptures in any catalog"
+      ]
+    }
+  ]
+}
