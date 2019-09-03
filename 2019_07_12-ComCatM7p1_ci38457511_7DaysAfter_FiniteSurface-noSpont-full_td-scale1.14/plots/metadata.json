@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1567204835819,
-  "plotEndTime": 1567204847643,
+  "plotStartTime": 1567536694127,
+  "plotEndTime": 1567536714578,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_07_12-ComCatM7p1_ci38457511_7DaysAfter_FiniteSurface-noSpont-full_td-scale1.14/results_complete.bin"
   },
-  "launcherGitHash": "c1b8003c5a9323fe499f1fb8d03361c3998a6fb1",
-  "launcherGitTime": 1567203404000,
+  "launcherGitHash": "94bbb5472369dafe84ef6b86e02e87039d534127",
+  "launcherGitTime": 1567533105000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
