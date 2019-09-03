@@ -693,7 +693,7 @@ These are map plots of individual catalogs from the simulations, selected as the
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc=3.5
 
-Last updated at 2019/09/03 12:55:37 UTC, 3.4 d after the simulation start time
+Last updated at 2019/09/03 19:37:43 UTC, 3.7 d after the simulation start time
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
@@ -717,14 +717,14 @@ Last updated at 2019/09/03 12:55:37 UTC, 3.4 d after the simulation start time
 ### ComCat Mean Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 3.4 Day |
+|  | 1 Day | 3.7 Day |
 |-----|-----|-----|
-| **M≥3.5** | ![Map](plots/comcat_compare_mean_1d_m3.5.png) | ![Map](plots/comcat_compare_mean_3.4d_m3.5.png) |
-| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_3.4d_m4.png) |
-| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_3.4d_m5.png) |
-| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_3.4d_m6.png) |
-| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_3.4d_m7.png) |
-| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_3.4d_m8.png) |
+| **M≥3.5** | ![Map](plots/comcat_compare_mean_1d_m3.5.png) | ![Map](plots/comcat_compare_mean_3.7d_m3.5.png) |
+| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_3.7d_m4.png) |
+| **M≥5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_3.7d_m5.png) |
+| **M≥6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_3.7d_m6.png) |
+| **M≥7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_3.7d_m7.png) |
+| **M≥8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_3.7d_m8.png) |
 
 ### ComCat Depth Distribution
 *[(top)](#table-of-contents)*
@@ -887,7 +887,7 @@ The first 5 sections (sorted by trigger rate) are plotted below. All fault MPDs 
   "forceRecalc": false,
   "simulationName": "ComCat M7.1 (ci38457511), 56 Days After, ShakeMap Surfaces",
   "numRetries": 3,
-  "outputDir": "${ETAS_SIM_DIR}/2019_08_31-ComCatM7p1_ci38457511_56DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14",
+  "outputDir": "${ETAS_SIM_DIR}/2019_08_31-ComCatM7p1_ci38457511_56DaysAfter_ShakeMapSurfaces",
   "triggerRuptures": [
     {
       "occurrenceTimeMillis": 1562259775340,
