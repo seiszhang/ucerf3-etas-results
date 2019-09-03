@@ -2,7 +2,7 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2019/09/02 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Scale Factor 1.0](2019_09_02-ComCatM7p1_ci38457511_ShakeMapSurfaces_ScaleFactor1p0-noSpont-full_td/README.md) | 2019/07/05 | 100000 | 65.7% | 2019/09/03 |
+| 2019/09/02 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Scale Factor 1.0](2019_09_02-ComCatM7p1_ci38457511_ShakeMapSurfaces_ScaleFactor1p0-noSpont-full_td/README.md) | 2019/07/05 | 100000 | Done | 2019/09/03 |
 | 2019/09/02 | [ComCat M7.1 (ci38457511), 7 Days After, Mainshock Log10(k)=-2.3, ShakeMap Surfaces, Log10(k)=-3.03, p=1.15, c=0.002](2019_09_02-ComCatM7p1_ci38457511_7DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002-noSpont-full_td-scale1.14-modParams/README.md) | 2019/07/12 | 100000 | Done | 2019/09/03 |
 | 2019/09/02 | [Start 2012, 500 yr, NoERT, Spontaneous, Historical Catalog](2019_09_02-Start2012_500yr_NoERT_Spontaneous_HistoricalCatalog-includeSpont-histCatalog-no_ert/README.md) | 2011/12/31 | 1000 | Done | 2019/09/02 |
 | 2019/09/02 | [Start 2012, 500 yr, Scale Factor 1.0, Spontaneous, Historical Catalog](2019_09_02-Start2012_500yr_ScaleFactor1p0_Spontaneous_HistoricalCatalog-includeSpont-histCatalog-full_td/README.md) | 2011/12/31 | 1000 | Done | 2019/09/03 |
