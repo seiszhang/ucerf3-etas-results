@@ -1,0 +1,8 @@
+Name,1 Week Prob M≥7.1,1 Month Prob M≥7.1,1 Month Mean Num M≥3.5,1 Month Median Num M≥3.5,1 Month Garlock Prob M≥7,1 Month SAF Mojave Prob M≥7
+"M7.1, ShakeMap Source",2.991%,3.707%,286.2,257.0,3.123%,0.294%
+"M7.1, ShakeMap Source, No Faults",4.903%,6.360%,343.3,267.0,N/A,N/A
+"M7.1, ShakeMap Source, NoERT Branch",3.480%,4.529%,295.1,258.0,3.934%,0.405%
+"M7.1, ShakeMap Source, Seq. Specific",3.852%,4.261%,299.0,294.0,3.696%,0.352%
+"M7.1, ShakeMap Source, No TotRateScaleFactor)",2.969%,3.794%,287.1,258.0,3.180%,0.322%
+Range,[2.969% 4.903%],[3.707% 6.360%],[286.2 343.3],[257.0 294.0],[3.123% 3.934%],[0.294% 0.405%]
+"Gain (w.r.t. M7.1, ShakeMap Source)",[0.99 1.64],[1.00 1.72],[1.00 1.20],[1.00 1.14],[1.00 1.26],[1.00 1.38]
