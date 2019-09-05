@@ -56,21 +56,23 @@ This is a landing page for various Ridgecrest figures and tables
 
 | Name | 1 Week Prob M≥7.1 | 1 Month Prob M≥7.1 | 1 Month Mean Num M≥3.5 | 1 Month Median Num M≥3.5 | 1 Month Garlock Prob M≥7 | 1 Month SAF Mojave Prob M≥7 |
 |-----|-----|-----|-----|-----|-----|-----|
-| *M7.1, ShakeMap Source* | *2.991%* | *3.707%* | *286.2* | *257.0* | *3.123%* | *0.294%* |
+| *M7.1, ShakeMap Source* | *3.014%* | *3.755%* | *287.1* | *258.0* | *3.174%* | *0.315%* |
 | M7.1, ShakeMap Source, No Faults | 4.903% | 6.360% | 343.3 | 267.0 | N/A | N/A |
 | M7.1, ShakeMap Source, NoERT Branch | 3.480% | 4.529% | 295.1 | 258.0 | 3.934% | 0.405% |
+| M7.1, ShakeMap Source, FM 3.2 | 3.088% | 3.928% | 286.9 | 257.0 | 3.324% | 0.287% |
+| M7.1, ShakeMap Source, Early Catalog | 2.991% | 3.707% | 286.2 | 257.0 | 3.123% | 0.294% |
 | M7.1, ShakeMap Source, Seq. Specific | 3.852% | 4.261% | 299.0 | 294.0 | 3.696% | 0.352% |
 | M7.1, ShakeMap Source, No TotRateScaleFactor) | 2.969% | 3.794% | 287.1 | 258.0 | 3.180% | 0.322% |
 | M7.1, Point Source, No Faults) | 4.997% | 6.436% | 341.6 | 267.0 | N/A | N/A |
-| **Range** | **[2.969% 4.997%]** | **[3.707% 6.436%]** | **[286.2 343.3]** | **[257.0 294.0]** | **[3.123% 3.934%]** | **[0.294% 0.405%]** |
-| **Gain (w.r.t. M7.1, ShakeMap Source)** | **[0.99 1.67]** | **[1.00 1.74]** | **[1.00 1.20]** | **[1.00 1.14]** | **[1.00 1.26]** | **[1.00 1.38]** |
+| **Range** | **[2.969% 4.997%]** | **[3.707% 6.436%]** | **[286.2 343.3]** | **[257.0 294.0]** | **[3.123% 3.934%]** | **[0.287% 0.405%]** |
+| **Gain (w.r.t. M7.1, ShakeMap Source)** | **[0.99 1.66]** | **[0.99 1.71]** | **[1.00 1.20]** | **[1.00 1.14]** | **[0.98 1.24]** | **[0.91 1.29]** |
 #### M7.1, Parameter Variations Input Maps
 
-| M7.1, ShakeMap Source | M7.1, ShakeMap Source, No Faults | M7.1, ShakeMap Source, NoERT Branch |
-|-----|-----|-----|
-| ![Map](resources/comb_chart_map_2019_07_16-ComCatM7p1_ci38457511_ShakeMapSurfaces-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly.png) | ![Map](resources/comb_chart_map_2019_08_09-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoERT-noSpont-no_ert.png) |
-| M7.1, ShakeMap Source, Seq. Specific | M7.1, ShakeMap Source, No TotRateScaleFactor) | M7.1, Point Source, No Faults) |
-| ![Map](resources/comb_chart_map_2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002.png) | ![Map](resources/comb_chart_map_2019_09_02-ComCatM7p1_ci38457511_ShakeMapSurfaces_ScaleFactor1p0.png) | ![Map](resources/comb_chart_map_2019_09_03-ComCatM7p1_ci38457511_PointSources_NoFaults.png) |
+| M7.1, ShakeMap Source | M7.1, ShakeMap Source, No Faults | M7.1, ShakeMap Source, NoERT Branch | M7.1, ShakeMap Source, FM 3.2 |
+|-----|-----|-----|-----|
+| ![Map](resources/comb_chart_map_2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces.png) | ![Map](resources/comb_chart_map_2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly.png) | ![Map](resources/comb_chart_map_2019_08_09-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoERT-noSpont-no_ert.png) | ![Map](resources/comb_chart_map_2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces_FM3_2.png) |
+| M7.1, ShakeMap Source, Early Catalog | M7.1, ShakeMap Source, Seq. Specific | M7.1, ShakeMap Source, No TotRateScaleFactor) | M7.1, Point Source, No Faults) |
+| ![Map](resources/comb_chart_map_2019_07_16-ComCatM7p1_ci38457511_ShakeMapSurfaces-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002.png) | ![Map](resources/comb_chart_map_2019_09_02-ComCatM7p1_ci38457511_ShakeMapSurfaces_ScaleFactor1p0.png) | ![Map](resources/comb_chart_map_2019_09_03-ComCatM7p1_ci38457511_PointSources_NoFaults.png) |
 ## Cumulative Number Plots
 
 ### ShakeMap Surfaces
