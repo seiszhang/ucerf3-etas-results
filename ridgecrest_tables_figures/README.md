@@ -28,7 +28,7 @@ This is a landing page for various Ridgecrest figures and tables
 
 | M6.4, Point Source | M6.4, ShakeMap Source |
 |-----|-----|
-| ![Map](resources/trigger_map_2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14.png) | ![Map](resources/trigger_map_2019_08_20-ComCatM6p4_ci38443183_ShakeMapSurface-noSpont-full_td-scale1.14.png) |
+| ![Map](resources/comb_chart_map_2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_08_20-ComCatM6p4_ci38443183_ShakeMapSurface-noSpont-full_td-scale1.14.png) |
 
 ### M7.1, Geometry Variations Summary Table
 
@@ -48,9 +48,9 @@ This is a landing page for various Ridgecrest figures and tables
 
 | M7.1, Point Source | M7.1, ShakeMap Source | M7.1, ShakeMap Source (Culled) | M7.1, ShakeMap Source (Planar Extents) |
 |-----|-----|-----|-----|
-| ![Map](resources/trigger_map_2019_08_20-ComCatM7p1_ci38457511_PointSources-noSpont-full_td-scale1.14.png) | ![Map](resources/trigger_map_2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces.png) | ![Map](resources/trigger_map_2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces_CulledSurface.png) | ![Map](resources/trigger_map_2019_09_03-ComCatM7p1_ci38457511_ShakeMapSurfaces_PlanarExtents.png) |
+| ![Map](resources/comb_chart_map_2019_08_20-ComCatM7p1_ci38457511_PointSources-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces.png) | ![Map](resources/comb_chart_map_2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces_CulledSurface.png) | ![Map](resources/comb_chart_map_2019_09_03-ComCatM7p1_ci38457511_ShakeMapSurfaces_PlanarExtents.png) |
 | M7.1, Prev ShakeMap Source (V10) | M7.1, Quad Source | M7.1, Inverted Source | M7.1, Inverted Source (minSlip=0.5) |
-| ![Map](resources/trigger_map_2019_08_30-ComCatM7p1_ci38457511_ShakeMapSurface_Version10.png) | ![Map](resources/trigger_map_2019_07_11-ComCatM7p1_ci38457511_FiniteSurface-noSpont-full_td-scale1.14.png) | ![Map](resources/trigger_map_2019_07_18-ComCatM7p1_ci38457511_InvertedSurface_ShakeMapSurface-noSpont-full_td-scale1.14.png) | ![Map](resources/trigger_map_2019_08_20-ComCatM7p1_ci38457511_InvertedSurface_minSlip0p5_ShakeMapSurface-noSpont-full_td-scale1.14.png) |
+| ![Map](resources/comb_chart_map_2019_08_30-ComCatM7p1_ci38457511_ShakeMapSurface_Version10.png) | ![Map](resources/comb_chart_map_2019_07_11-ComCatM7p1_ci38457511_FiniteSurface-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_07_18-ComCatM7p1_ci38457511_InvertedSurface_ShakeMapSurface-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_08_20-ComCatM7p1_ci38457511_InvertedSurface_minSlip0p5_ShakeMapSurface-noSpont-full_td-scale1.14.png) |
 
 ### M7.1, Parameter Variations Summary Table
 
@@ -68,9 +68,9 @@ This is a landing page for various Ridgecrest figures and tables
 
 | M7.1, ShakeMap Source | M7.1, ShakeMap Source, No Faults | M7.1, ShakeMap Source, NoERT Branch |
 |-----|-----|-----|
-| ![Map](resources/trigger_map_2019_07_16-ComCatM7p1_ci38457511_ShakeMapSurfaces-noSpont-full_td-scale1.14.png) | ![Map](resources/trigger_map_2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly.png) | ![Map](resources/trigger_map_2019_08_09-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoERT-noSpont-no_ert.png) |
+| ![Map](resources/comb_chart_map_2019_07_16-ComCatM7p1_ci38457511_ShakeMapSurfaces-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly.png) | ![Map](resources/comb_chart_map_2019_08_09-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoERT-noSpont-no_ert.png) |
 | M7.1, ShakeMap Source, Seq. Specific | M7.1, ShakeMap Source, No TotRateScaleFactor) | M7.1, Point Source, No Faults) |
-| ![Map](resources/trigger_map_2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002.png) | ![Map](resources/trigger_map_2019_09_02-ComCatM7p1_ci38457511_ShakeMapSurfaces_ScaleFactor1p0.png) | ![Map](resources/trigger_map_2019_09_03-ComCatM7p1_ci38457511_PointSources_NoFaults.png) |
+| ![Map](resources/comb_chart_map_2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002.png) | ![Map](resources/comb_chart_map_2019_09_02-ComCatM7p1_ci38457511_ShakeMapSurfaces_ScaleFactor1p0.png) | ![Map](resources/comb_chart_map_2019_09_03-ComCatM7p1_ci38457511_PointSources_NoFaults.png) |
 ## Cumulative Number Plots
 
 ### ShakeMap Surfaces
