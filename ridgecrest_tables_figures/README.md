@@ -1,8 +1,8 @@
 # Ridgecrest M6.4 & M7.1 Summary Figures and Tables
 
-This is a landing page for various Ridgecrest figures and tables. Click on the simulation names in the tables below to see the details of each simulation, along with many plots.
+This is a landing page for various Ridgecrest figures and tables. Click on the simulation names in the tables below to see the details of each simulation, along with *many* plots.
 
-[Download my 2019 SCEC Annual Meeting poster here.](2019_SCEC_Poster.pdf)
+Download my [2019 SCEC Annual Meeting poster here.](Milner_2019_SCEC_Poster.pdf), or [read the abstract here](https://www.scec.org/publication/9401).
 
 You can also view the complete list of UCERF3-ETAS simulations [here](../README.md), though the list is quite long and not all are for Ridgecrest.
 
