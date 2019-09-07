@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1567795057696,
-  "plotEndTime": 1567796241503,
+  "plotStartTime": 1567823880979,
+  "plotEndTime": 1567824972926,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_08_31-ComCatM7p1_ci38457511_56DaysAfter_ShakeMapSurfaces/results_complete.bin"
@@ -673,14 +673,14 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 8,
-      "time": 1567795057696,
+      "time": 1567823880979,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc\u003d3.5",
         "",
-        "Last updated at 2019/09/06 18:37:55 UTC, 1 wk after the simulation start time",
+        "Last updated at 2019/09/07 02:38:21 UTC, 1 wk after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
