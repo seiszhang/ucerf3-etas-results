@@ -53,8 +53,8 @@
 | 2019/07/06 | [Searless Valley Sequence Finite Fault](2019_07_06-SearlessValleySequenceFiniteFault-noSpont-full_td-10yr-following-M7.1/README.md) | 2019/07/05 | 100000 | Done | 2019/09/04 |
 | 2019/07/06 | [Searless Valley Sequence Finite Fault](2019_07_06-SearlessValleySequenceFiniteFault-noSpont-full_td-10yr-start-noon/README.md) | 2019/07/06 | 100000 | Done | 2019/09/04 |
 | 2019/07/05 | [Searles Valley M6.4 and M7.1 PointSource](2019_07_05-M7.1_SearlesValley_Sequence_UpdatedMw_and_depth/README.md) | 2019/07/05 | 100000 | Done | 2019/09/04 |
+| 2019/07/04 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-no_ert-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2019/09/04 |
+| 2019/07/04 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-full_td-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2019/09/04 |
 | 2019/07/04 | [Searles Valley M6.4](2019_07_04-SearlesValleyM64-includeSpont-full_td-10yr/README.md) | 2019/07/04 | 100000 | Done | 2019/09/04 |
-| 2019/06/05 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-full_td-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2019/09/04 |
-| 2019/06/05 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-no_ert-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2019/09/04 |
 | 2019/02/26 | [Historical1919](2019_02_26-Historical1919-includeSpont-historicalCatalog-100yr-8threads/README.md) | 1918/12/31 | 2 | Unknown | Unknown |
 
