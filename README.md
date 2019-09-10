@@ -2,10 +2,10 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2019/09/09 | [ComCat M7.1 (ci38457511), 63 Days After, ShakeMap Surfaces](2019_09_09-ComCatM7p1_ci38457511_63DaysAfter_ShakeMapSurfaces/README.md) | 2019/09/06 | 100000 | Done | 2019/09/09 |
+| 2019/09/09 | [ComCat M7.1 (ci38457511), 63 Days After, ShakeMap Surfaces](2019_09_09-ComCatM7p1_ci38457511_63DaysAfter_ShakeMapSurfaces/README.md) | 2019/09/06 | 100000 | Done | 2019/09/10 |
 | 2019/09/09 | [ComCat M7.1 (ci38457511), 7 Days After, Mainshock Log10(k)=-2.3, ShakeMap Surfaces, Log10(k)=-3.03, p=1.15, c=0.002](2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15/README.md) | 2019/07/12 | 100000 | Done | 2019/09/10 |
 | 2019/09/09 | [ComCat M7.1 (ci38457511), 28 Days After, ShakeMap Surfaces (Planar Extents)](2019_09_09-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_PlanarExtents/README.md) | 2019/08/02 | 100000 | Unknown | Unknown |
-| 2019/09/09 | [ComCat M7.1 (ci38457511), 7 Days After, Point Sources](2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_PointSources/README.md) | 2019/07/12 | 100000 | 29.9% | 2019/09/10 |
+| 2019/09/09 | [ComCat M7.1 (ci38457511), 7 Days After, Point Sources](2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_PointSources/README.md) | 2019/07/12 | 100000 | 59.4% | 2019/09/10 |
 | 2019/09/09 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces (Planar Extents)](2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_PlanarExtents/README.md) | 2019/07/12 | 100000 | Unknown | Unknown |
 | 2019/09/04 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, FM3_2](2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces_FM3_2/README.md) | 2019/07/05 | 100000 | Done | 2019/09/05 |
 | 2019/09/04 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces](2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/README.md) | 2019/07/05 | 100000 | Done | 2019/09/05 |
@@ -44,7 +44,7 @@
 | 2019/08/19 | [ComCat M7.1 (ci38457511), 42 Days After, ShakeMap Surfaces](2019_08_19-ComCatM7p1_ci38457511_42DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/16 | 100000 | Done | 2019/09/10 |
 | 2019/08/19 | [ComCat M7.1 (ci38457511), 35 Days After, ShakeMap Surfaces](2019_08_19-ComCatM7p1_ci38457511_35DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/09 | 100000 | Done | 2019/09/09 |
 | 2019/08/09 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, NoERT](2019_08_09-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoERT-noSpont-no_ert/README.md) | 2019/07/05 | 100000 | Done | 2019/09/05 |
-| 2019/08/03 | [ComCat M7.1 (ci38457511), 28 Days After, ShakeMap Surfaces](2019_08_03-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/02 | 100000 | Done | 2019/09/04 |
+| 2019/08/03 | [ComCat M7.1 (ci38457511), 28 Days After, ShakeMap Surfaces](2019_08_03-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/02 | 100000 | Done | 2019/09/10 |
 | 2019/07/27 | [ComCat M7.1 (ci38457511), 21 Days After, ShakeMap Surfaces](2019_07_27-ComCatM7p1_ci38457511_21DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/07/26 | 100000 | Done | 2019/09/05 |
 | 2019/07/25 | [ComCat M7.1 (ci38457511), 19.6 Days After, ShakeMap Surfaces](2019_07_25-ComCatM7p1_ci38457511_19p6DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/07/25 | 100000 | Done | 2019/09/05 |
 | 2019/07/18 | [ComCat M7.1 (ci38457511), Inverted Surface, ShakeMap Surface](2019_07_18-ComCatM7p1_ci38457511_InvertedSurface_ShakeMapSurface-noSpont-full_td-scale1.14/README.md) | 2019/07/05 | 100000 | Done | 2019/09/05 |
@@ -58,8 +58,8 @@
 | 2019/07/06 | [Searless Valley Sequence Finite Fault](2019_07_06-SearlessValleySequenceFiniteFault-noSpont-full_td-10yr-following-M7.1/README.md) | 2019/07/05 | 100000 | Done | 2019/09/04 |
 | 2019/07/06 | [Searless Valley Sequence Finite Fault](2019_07_06-SearlessValleySequenceFiniteFault-noSpont-full_td-10yr-start-noon/README.md) | 2019/07/06 | 100000 | Done | 2019/09/04 |
 | 2019/07/05 | [Searles Valley M6.4 and M7.1 PointSource](2019_07_05-M7.1_SearlesValley_Sequence_UpdatedMw_and_depth/README.md) | 2019/07/05 | 100000 | Done | 2019/09/04 |
-| 2019/07/04 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-no_ert-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2019/09/04 |
-| 2019/07/04 | [Historical1919](2019_02_26-Historical1919-includeSpont-historicalCatalog-100yr-8threads/README.md) | 1918/12/31 | 2 | Unknown | Unknown |
 | 2019/07/04 | [Searles Valley M6.4](2019_07_04-SearlesValleyM64-includeSpont-full_td-10yr/README.md) | 2019/07/04 | 100000 | Done | 2019/09/04 |
 | 2019/06/05 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-full_td-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2019/09/04 |
+| 2019/06/05 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-no_ert-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2019/09/04 |
+| 2019/02/26 | [Historical1919](2019_02_26-Historical1919-includeSpont-historicalCatalog-100yr-8threads/README.md) | 1918/12/31 | 2 | Unknown | Unknown |
 
