@@ -83,9 +83,9 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 634,Franklin 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 699,Garberville - Briceland 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 159,Garlic Springs,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-341,Garlock (Central),3.0329288E-4,0.0,0.0,0.0,1.7331023E-4,3.0329288E-4,1.2998267E-4
-48,Garlock (East),2.5996534E-4,0.0,0.0,0.0,1.2998267E-4,2.5996534E-4,8.665511E-5
-49,Garlock (West),3.0329288E-4,0.0,0.0,0.0,1.7331023E-4,3.0329288E-4,1.2998267E-4
+341,Garlock (Central),2.8985506E-4,0.0,0.0,0.0,1.6563147E-4,2.8985506E-4,1.242236E-4
+48,Garlock (East),2.484472E-4,0.0,0.0,0.0,1.242236E-4,2.484472E-4,8.2815735E-5
+49,Garlock (West),2.8985506E-4,0.0,0.0,0.0,1.6563147E-4,2.8985506E-4,1.242236E-4
 700,Gillem - Big Crack 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 160,Goldstone Lake,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 701,Goose Lake 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -162,7 +162,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 164,Manix-Afton Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 21,McKinleyville (alt1),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 155,McLean Lake,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13,Mendocino,4.3327556E-5,0.0,0.0,0.0,0.0,4.3327556E-5,0.0
+13,Mendocino,4.1407868E-5,0.0,0.0,0.0,0.0,4.1407868E-5,0.0
 605,Mission (connected) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 250,Mission Creek,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 779,Mission Hills 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -223,22 +223,22 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 123,Rose Canyon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 42,Round Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 690,Russ 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-287,San Andreas (Big Bend),4.3327556E-5,0.0,0.0,0.0,0.0,4.3327556E-5,0.0
-300,San Andreas (Carrizo) rev,4.3327556E-5,0.0,0.0,0.0,0.0,4.3327556E-5,0.0
-285,San Andreas (Cholame) rev,4.3327556E-5,0.0,0.0,0.0,0.0,4.3327556E-5,0.0
-295,San Andreas (Coachella) rev,2.1663778E-4,0.0,0.0,0.0,8.665511E-5,2.1663778E-4,1.2998267E-4
-658,San Andreas (Creeping Section) 2011 CFM,4.3327556E-5,0.0,0.0,0.0,0.0,4.3327556E-5,0.0
-286,San Andreas (Mojave N),3.4662045E-4,0.0,0.0,0.0,1.7331023E-4,3.4662045E-4,1.2998267E-4
-301,San Andreas (Mojave S),3.4662045E-4,0.0,0.0,0.0,1.7331023E-4,3.4662045E-4,1.2998267E-4
-294,San Andreas (North Branch Mill Creek),8.665511E-5,0.0,0.0,0.0,4.3327556E-5,8.665511E-5,4.3327556E-5
-654,San Andreas (North Coast) 2011 CFM,4.3327556E-5,0.0,0.0,0.0,0.0,4.3327556E-5,0.0
-653,San Andreas (Offshore) 2011 CFM,4.3327556E-5,0.0,0.0,0.0,0.0,4.3327556E-5,0.0
-32,San Andreas (Parkfield),4.3327556E-5,0.0,0.0,0.0,0.0,4.3327556E-5,0.0
-655,San Andreas (Peninsula) 2011 CFM,4.3327556E-5,0.0,0.0,0.0,0.0,4.3327556E-5,0.0
-282,San Andreas (San Bernardino N),3.0329288E-4,0.0,0.0,0.0,1.7331023E-4,3.0329288E-4,1.2998267E-4
-283,San Andreas (San Bernardino S),1.2998267E-4,0.0,0.0,0.0,4.3327556E-5,1.2998267E-4,8.665511E-5
-284,San Andreas (San Gorgonio Pass-Garnet HIll),1.2998267E-4,0.0,0.0,0.0,4.3327556E-5,1.2998267E-4,8.665511E-5
-657,San Andreas (Santa Cruz Mts) 2011 CFM,4.3327556E-5,0.0,0.0,0.0,0.0,4.3327556E-5,0.0
+287,San Andreas (Big Bend),4.1407868E-5,0.0,0.0,0.0,0.0,4.1407868E-5,0.0
+300,San Andreas (Carrizo) rev,4.1407868E-5,0.0,0.0,0.0,0.0,4.1407868E-5,0.0
+285,San Andreas (Cholame) rev,4.1407868E-5,0.0,0.0,0.0,0.0,4.1407868E-5,0.0
+295,San Andreas (Coachella) rev,2.0703934E-4,0.0,0.0,0.0,8.2815735E-5,2.0703934E-4,1.242236E-4
+658,San Andreas (Creeping Section) 2011 CFM,4.1407868E-5,0.0,0.0,0.0,0.0,4.1407868E-5,0.0
+286,San Andreas (Mojave N),3.3126294E-4,0.0,0.0,0.0,1.6563147E-4,3.3126294E-4,1.242236E-4
+301,San Andreas (Mojave S),3.3126294E-4,0.0,0.0,0.0,1.6563147E-4,3.3126294E-4,1.242236E-4
+294,San Andreas (North Branch Mill Creek),8.2815735E-5,0.0,0.0,0.0,4.1407868E-5,8.2815735E-5,4.1407868E-5
+654,San Andreas (North Coast) 2011 CFM,4.1407868E-5,0.0,0.0,0.0,0.0,4.1407868E-5,0.0
+653,San Andreas (Offshore) 2011 CFM,4.1407868E-5,0.0,0.0,0.0,0.0,4.1407868E-5,0.0
+32,San Andreas (Parkfield),4.1407868E-5,0.0,0.0,0.0,0.0,4.1407868E-5,0.0
+655,San Andreas (Peninsula) 2011 CFM,4.1407868E-5,0.0,0.0,0.0,0.0,4.1407868E-5,0.0
+282,San Andreas (San Bernardino N),2.8985506E-4,0.0,0.0,0.0,1.6563147E-4,2.8985506E-4,1.242236E-4
+283,San Andreas (San Bernardino S),1.242236E-4,0.0,0.0,0.0,4.1407868E-5,1.242236E-4,8.2815735E-5
+284,San Andreas (San Gorgonio Pass-Garnet HIll),1.242236E-4,0.0,0.0,0.0,4.1407868E-5,1.242236E-4,8.2815735E-5
+657,San Andreas (Santa Cruz Mts) 2011 CFM,4.1407868E-5,0.0,0.0,0.0,0.0,4.1407868E-5,0.0
 80,San Cayetano,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 178,San Clemente,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 774,San Diego Trough north alt1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -248,14 +248,14 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 194,San Gorgonio Pass,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 660,San Gregorio (North) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 661,San Gregorio (South) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-293,San Jacinto (Anza) rev,8.665511E-5,0.0,0.0,0.0,8.665511E-5,8.665511E-5,0.0
-99,San Jacinto (Borrego),4.3327556E-5,0.0,0.0,0.0,4.3327556E-5,4.3327556E-5,0.0
+293,San Jacinto (Anza) rev,8.2815735E-5,0.0,0.0,0.0,8.2815735E-5,8.2815735E-5,0.0
+99,San Jacinto (Borrego),4.1407868E-5,0.0,0.0,0.0,4.1407868E-5,4.1407868E-5,0.0
 292,San Jacinto (Clark) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-101,San Jacinto (Coyote Creek),4.3327556E-5,0.0,0.0,0.0,4.3327556E-5,4.3327556E-5,0.0
-901,San Jacinto (Lytle Creek connector),4.3327556E-5,0.0,0.0,0.0,4.3327556E-5,4.3327556E-5,0.0
-119,San Jacinto (San Bernardino),8.665511E-5,0.0,0.0,0.0,8.665511E-5,8.665511E-5,0.0
-289,San Jacinto (San Jacinto Valley) rev,8.665511E-5,0.0,0.0,0.0,8.665511E-5,8.665511E-5,0.0
-401,San Jacinto (Stepovers Combined),8.665511E-5,0.0,0.0,0.0,8.665511E-5,8.665511E-5,0.0
+101,San Jacinto (Coyote Creek),4.1407868E-5,0.0,0.0,0.0,4.1407868E-5,4.1407868E-5,0.0
+901,San Jacinto (Lytle Creek connector),4.1407868E-5,0.0,0.0,0.0,4.1407868E-5,4.1407868E-5,0.0
+119,San Jacinto (San Bernardino),8.2815735E-5,0.0,0.0,0.0,8.2815735E-5,8.2815735E-5,0.0
+289,San Jacinto (San Jacinto Valley) rev,8.2815735E-5,0.0,0.0,0.0,8.2815735E-5,8.2815735E-5,0.0
+401,San Jacinto (Stepovers Combined),8.2815735E-5,0.0,0.0,0.0,8.2815735E-5,8.2815735E-5,0.0
 28,San Jacinto (Superstition Mtn),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 143,San Joaquin Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 107,San Jose,0.0,0.0,0.0,0.0,0.0,0.0,0.0
