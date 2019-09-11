@@ -17,7 +17,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 200,Big Pine (West),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 87,Blackwater,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 169,Blue Cut,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-170,Brawley (Seismic Zone) alt 1,6.0357317E-5,0.0,0.0,0.0,6.0357317E-5,6.0357317E-5,6.0357317E-5
+170,Brawley (Seismic Zone) alt 1,5.193726E-5,0.0,0.0,0.0,5.193726E-5,5.193726E-5,5.193726E-5
 541,Breckenridge 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 882,Bullion Mountains,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 94,Burnt Mtn,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -27,8 +27,8 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 601,Calaveras (No) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 621,Calaveras (So) - Paicines extension 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 603,Calaveras (So) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-88,Calico-Hidalgo,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
-724,Camp Rock 2011,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
+88,Calico-Hidalgo,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
+724,Camp Rock 2011,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
 173,Canada David (Detachment),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 176,Carlsbad,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 721,Carson Range (Genoa),0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -40,7 +40,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 238,Chino alt 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 124,Clamshell-Sawpit,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 844,Clayton,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-81,Cleghorn,1.20714634E-4,0.0,0.0,0.0,6.0357317E-5,1.20714634E-4,6.0357317E-5
+81,Cleghorn,1.0387452E-4,0.0,0.0,0.0,5.193726E-5,1.0387452E-4,5.193726E-5
 884,Cleghorn Lake,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 883,Cleghorn Pass,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 582,Collayami 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -51,12 +51,12 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 776,Coronado Bank alt1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 157,Coyote Canyon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 163,Coyote Lake,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-125,Cucamonga,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
+125,Cucamonga,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
 894,Davis Creek,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-245,Death Valley (Black Mtns Frontal),5.4321584E-4,0.0,0.0,6.0357317E-5,3.0178658E-4,5.4321584E-4,0.0
-45,Death Valley (Fish Lake Valley),3.0178658E-4,0.0,0.0,6.0357317E-5,1.8107194E-4,3.0178658E-4,0.0
-46,Death Valley (No),5.4321584E-4,0.0,0.0,6.0357317E-5,3.0178658E-4,5.4321584E-4,0.0
-246,Death Valley (So),4.8285854E-4,0.0,0.0,6.0357317E-5,2.4142927E-4,4.8285854E-4,0.0
+245,Death Valley (Black Mtns Frontal),5.193726E-4,0.0,0.0,5.193726E-5,3.1162356E-4,5.193726E-4,0.0
+45,Death Valley (Fish Lake Valley),3.1162356E-4,0.0,5.193726E-5,1.0387452E-4,2.0774904E-4,3.1162356E-4,5.193726E-5
+46,Death Valley (No),5.713099E-4,0.0,5.193726E-5,1.0387452E-4,3.6356083E-4,5.713099E-4,5.193726E-5
+246,Death Valley (So),4.1549807E-4,0.0,0.0,5.193726E-5,2.0774904E-4,4.1549807E-4,0.0
 51,Deep Springs,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 230,Del Valle,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 889,Dog Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -74,7 +74,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 299,Elsinore (Temecula) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 196,Elysian Park (Lower CFM),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 146,Elysian Park (Upper),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-90,Emerson-Copper Mtn 2011,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
+90,Emerson-Copper Mtn 2011,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
 95,Eureka Peak,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 20,Fickle Hill (alt1),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 698,Fish Slough 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -83,13 +83,13 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 634,Franklin 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 699,Garberville - Briceland 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 159,Garlic Springs,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-341,Garlock (Central),0.011528247,0.0,3.0178658E-4,0.0016900048,0.0063375183,0.011528247,0.0060357316
-48,Garlock (East),0.0033196523,0.0,0.0,2.4142927E-4,0.0018710768,0.0033196523,0.0016900048
-49,Garlock (West),0.0048889425,0.0,6.0357317E-5,4.225012E-4,0.0025350072,0.0048889425,0.0027160791
+341,Garlock (Central),0.01137426,0.0,3.6356083E-4,0.0017139296,0.0064402204,0.01137426,0.005972785
+48,Garlock (East),0.0032201102,0.0,5.193726E-5,2.596863E-4,0.0019216787,0.0032201102,0.0017139296
+49,Garlock (West),0.004622416,0.0,1.0387452E-4,4.1549807E-4,0.0025449258,0.004622416,0.002596863
 700,Gillem - Big Crack 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 160,Goldstone Lake,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 701,Goose Lake 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-86,Gravel Hills-Harper Lk,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
+86,Gravel Hills-Harper Lk,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
 131,Great Valley 01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 133,Great Valley 02,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 132,Great Valley 03 Mysterious Ridge,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -119,16 +119,16 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 703,Hilton Creek 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 108,Hollywood,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 228,Holser alt 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-723,Homestead Valley 2011,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
+723,Homestead Valley 2011,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
 704,Honey Lake 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 30,Hosgri,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 208,Hosgri (Extension),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-50,Hunter Mountain-Saline Valley,0.0067600193,0.0,2.4142927E-4,0.0012675036,0.0039232257,0.0067600193,0.0033196523
+50,Hunter Mountain-Saline Valley,0.006959593,0.0,2.596863E-4,0.0013503687,0.004051106,0.006959593,0.0033759219
 677,Hunting Creek - Bartlett Springs connector 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 640,Hunting Creek - Berryessa 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-97,Imperial,6.0357317E-5,0.0,0.0,0.0,6.0357317E-5,6.0357317E-5,6.0357317E-5
+97,Imperial,5.193726E-5,0.0,0.0,0.0,5.193726E-5,5.193726E-5,5.193726E-5
 678,Incline Village 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-65,Independence rev 2011,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,6.0357317E-5
+65,Independence rev 2011,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,5.193726E-5
 892,Jess Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 91,Johnson Valley (No) 2011 rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 168,Joshua Tree (Seismicity),0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -146,7 +146,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 85,Lenwood-Lockhart-Old Woman Springs,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 705,Likely 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 681,Lions Head 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-144,Little Lake,6.0357317E-5,0.0,0.0,0.0,6.0357317E-5,6.0357317E-5,6.0357317E-5
+144,Little Lake,5.193726E-5,0.0,0.0,0.0,5.193726E-5,5.193726E-5,5.193726E-5
 16,Little Salmon (Offshore),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 17,Little Salmon (Onshore),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 683,Los Alamos 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -162,9 +162,9 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 164,Manix-Afton Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 21,McKinleyville (alt1),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 155,McLean Lake,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13,Mendocino,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
+13,Mendocino,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
 605,Mission (connected) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-250,Mission Creek,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
+250,Mission Creek,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
 779,Mission Hills 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 78,Mission Ridge-Arroyo Parida-Santa Ana,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 686,Mohawk Valley 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -178,8 +178,8 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 156,Nelson Lake,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 122,Newport-Inglewood (Offshore),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 235,Newport-Inglewood alt 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-83,North Frontal  (East),6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
-82,North Frontal  (West),6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
+83,North Frontal  (East),5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
+82,North Frontal  (West),5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
 199,North Salt Lake,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 687,North Tahoe 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 130,Northridge,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -189,13 +189,13 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 777,Oceanside alt1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 921,Ortigalita (North),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 9,Ortigalita (South),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-64,Owens Valley,6.0357317E-5,0.0,0.0,0.0,6.0357317E-5,6.0357317E-5,6.0357317E-5
+64,Owens Valley,1.0387452E-4,0.0,0.0,0.0,5.193726E-5,1.0387452E-4,5.193726E-5
 891,Owens Valley Keough Hot Springs,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-47,Owl Lake,5.4321584E-4,0.0,6.0357317E-5,1.20714634E-4,4.225012E-4,5.4321584E-4,4.225012E-4
+47,Owl Lake,5.193726E-4,0.0,5.193726E-5,1.0387452E-4,4.1549807E-4,5.193726E-4,3.6356083E-4
 841,Ozena,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 109,Palos Verdes,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-244,Panamint Valley,0.0067600193,0.0,2.4142927E-4,0.0012675036,0.0039232257,0.0067600193,0.0033196523
-162,Paradise,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
+244,Panamint Valley,0.006959593,0.0,2.596863E-4,0.0013503687,0.004051106,0.006959593,0.0033759219
+162,Paradise,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
 186,Peralta Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 647,Pilarcitos 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 193,Pine Mtn,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -223,22 +223,22 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 123,Rose Canyon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 42,Round Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 690,Russ 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-287,San Andreas (Big Bend),1.20714634E-4,0.0,0.0,0.0,6.0357317E-5,1.20714634E-4,6.0357317E-5
-300,San Andreas (Carrizo) rev,1.20714634E-4,0.0,0.0,0.0,6.0357317E-5,1.20714634E-4,6.0357317E-5
-285,San Andreas (Cholame) rev,1.20714634E-4,0.0,0.0,0.0,6.0357317E-5,1.20714634E-4,6.0357317E-5
-295,San Andreas (Coachella) rev,3.6214388E-4,0.0,0.0,0.0,1.8107194E-4,3.6214388E-4,2.4142927E-4
-658,San Andreas (Creeping Section) 2011 CFM,1.20714634E-4,0.0,0.0,0.0,6.0357317E-5,1.20714634E-4,6.0357317E-5
-286,San Andreas (Mojave N),0.0019314341,0.0,0.0,0.0,8.450024E-4,0.0018710768,0.0012071463
-301,San Andreas (Mojave S),0.0016296476,0.0,0.0,0.0,6.639305E-4,0.0015692902,9.657171E-4
-294,San Andreas (North Branch Mill Creek),1.20714634E-4,0.0,0.0,0.0,6.0357317E-5,1.20714634E-4,6.0357317E-5
-654,San Andreas (North Coast) 2011 CFM,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
-653,San Andreas (Offshore) 2011 CFM,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
-32,San Andreas (Parkfield),1.20714634E-4,0.0,0.0,0.0,6.0357317E-5,1.20714634E-4,6.0357317E-5
-655,San Andreas (Peninsula) 2011 CFM,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
-282,San Andreas (San Bernardino N),0.0010260744,0.0,0.0,0.0,3.6214388E-4,0.0010260744,6.0357316E-4
-283,San Andreas (San Bernardino S),6.639305E-4,0.0,0.0,0.0,1.20714634E-4,6.639305E-4,3.6214388E-4
-284,San Andreas (San Gorgonio Pass-Garnet HIll),3.0178658E-4,0.0,0.0,0.0,1.20714634E-4,3.0178658E-4,1.8107194E-4
-657,San Andreas (Santa Cruz Mts) 2011 CFM,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
+287,San Andreas (Big Bend),1.0387452E-4,0.0,0.0,0.0,5.193726E-5,1.0387452E-4,5.193726E-5
+300,San Andreas (Carrizo) rev,1.0387452E-4,0.0,0.0,0.0,5.193726E-5,1.0387452E-4,5.193726E-5
+285,San Andreas (Cholame) rev,1.0387452E-4,0.0,0.0,0.0,5.193726E-5,1.0387452E-4,5.193726E-5
+295,San Andreas (Coachella) rev,3.1162356E-4,0.0,0.0,0.0,1.5581178E-4,3.1162356E-4,2.0774904E-4
+658,San Andreas (Creeping Section) 2011 CFM,1.0387452E-4,0.0,0.0,0.0,5.193726E-5,1.0387452E-4,5.193726E-5
+286,San Andreas (Mojave N),0.0017139296,0.0,0.0,0.0,7.790589E-4,0.0016619923,0.0010387452
+301,San Andreas (Mojave S),0.0014542433,0.0,0.0,0.0,6.232471E-4,0.001402306,8.3099614E-4
+294,San Andreas (North Branch Mill Creek),1.0387452E-4,0.0,0.0,0.0,5.193726E-5,1.0387452E-4,5.193726E-5
+654,San Andreas (North Coast) 2011 CFM,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
+653,San Andreas (Offshore) 2011 CFM,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
+32,San Andreas (Parkfield),1.0387452E-4,0.0,0.0,0.0,5.193726E-5,1.0387452E-4,5.193726E-5
+655,San Andreas (Peninsula) 2011 CFM,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
+282,San Andreas (San Bernardino N),9.348707E-4,0.0,0.0,0.0,3.6356083E-4,9.348707E-4,5.193726E-4
+283,San Andreas (San Bernardino S),5.713099E-4,0.0,0.0,0.0,1.0387452E-4,5.713099E-4,3.1162356E-4
+284,San Andreas (San Gorgonio Pass-Garnet HIll),2.596863E-4,0.0,0.0,0.0,1.0387452E-4,2.596863E-4,1.5581178E-4
+657,San Andreas (Santa Cruz Mts) 2011 CFM,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
 80,San Cayetano,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 178,San Clemente,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 774,San Diego Trough north alt1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -248,14 +248,14 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 194,San Gorgonio Pass,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 660,San Gregorio (North) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 661,San Gregorio (South) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-293,San Jacinto (Anza) rev,6.0357317E-5,0.0,0.0,0.0,6.0357317E-5,6.0357317E-5,0.0
-99,San Jacinto (Borrego),0.0,0.0,0.0,0.0,0.0,0.0,0.0
+293,San Jacinto (Anza) rev,1.0387452E-4,0.0,0.0,0.0,1.0387452E-4,1.0387452E-4,0.0
+99,San Jacinto (Borrego),5.193726E-5,0.0,0.0,0.0,5.193726E-5,5.193726E-5,0.0
 292,San Jacinto (Clark) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-101,San Jacinto (Coyote Creek),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-901,San Jacinto (Lytle Creek connector),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-119,San Jacinto (San Bernardino),6.0357317E-5,0.0,0.0,0.0,6.0357317E-5,6.0357317E-5,0.0
-289,San Jacinto (San Jacinto Valley) rev,6.0357317E-5,0.0,0.0,0.0,6.0357317E-5,6.0357317E-5,0.0
-401,San Jacinto (Stepovers Combined),6.0357317E-5,0.0,0.0,0.0,6.0357317E-5,6.0357317E-5,0.0
+101,San Jacinto (Coyote Creek),5.193726E-5,0.0,0.0,0.0,5.193726E-5,5.193726E-5,0.0
+901,San Jacinto (Lytle Creek connector),5.193726E-5,0.0,0.0,0.0,5.193726E-5,5.193726E-5,0.0
+119,San Jacinto (San Bernardino),1.0387452E-4,0.0,0.0,0.0,1.0387452E-4,1.0387452E-4,0.0
+289,San Jacinto (San Jacinto Valley) rev,1.0387452E-4,0.0,0.0,0.0,1.0387452E-4,1.0387452E-4,0.0
+401,San Jacinto (Stepovers Combined),1.0387452E-4,0.0,0.0,0.0,1.0387452E-4,1.0387452E-4,0.0
 28,San Jacinto (Superstition Mtn),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 143,San Joaquin Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 107,San Jose,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -280,14 +280,14 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 209,Scodie Lineament,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 885,Sheephole,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 547,Shoreline,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-114,Sierra Madre,6.0357317E-5,0.0,0.0,0.0,0.0,6.0357317E-5,0.0
+114,Sierra Madre,5.193726E-5,0.0,0.0,0.0,0.0,5.193726E-5,0.0
 113,Sierra Madre (San Fernando),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-210,Sierra Nevada  (No Extension),1.20714634E-4,0.0,0.0,0.0,6.0357317E-5,1.20714634E-4,1.20714634E-4
+210,Sierra Nevada  (No Extension),1.5581178E-4,0.0,0.0,0.0,5.193726E-5,1.5581178E-4,1.0387452E-4
 664,Silver Creek 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 115,Simi-Santa Rosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 202,Sisar,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 694,Skinner Flat 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-63,So Sierra Nevada,1.20714634E-4,0.0,0.0,0.0,6.0357317E-5,1.20714634E-4,1.20714634E-4
+63,So Sierra Nevada,1.5581178E-4,0.0,0.0,0.0,5.193726E-5,1.5581178E-4,1.0387452E-4
 189,South Cuyama,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 719,South Klamath Lake East,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 720,South Klamath Lake West,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -295,7 +295,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 708,Surprise Valley 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 695,Swain Ravine - Spenceville,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 15,Table Bluff,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-145,Tank Canyon,6.0357317E-5,0.0,0.0,0.0,6.0357317E-5,6.0357317E-5,0.0
+145,Tank Canyon,5.193726E-5,0.0,0.0,0.0,5.193726E-5,5.193726E-5,0.0
 174,Thirty Mile Bank,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 887,Tin Mountain,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 886,Towne Pass,0.0,0.0,0.0,0.0,0.0,0.0,0.0
