@@ -2,7 +2,7 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2019/09/16 | [ComCat M7.1 (ci38457511), 70 Days After, ShakeMap Surfaces](2019_09_16-ComCatM7p1_ci38457511_70DaysAfter_ShakeMapSurfaces/README.md) | 2019/09/13 | 100000 | 51.7% | 2019/09/16 |
+| 2019/09/16 | [ComCat M7.1 (ci38457511), 70 Days After, ShakeMap Surfaces](2019_09_16-ComCatM7p1_ci38457511_70DaysAfter_ShakeMapSurfaces/README.md) | 2019/09/13 | 100000 | 53.6% | 2019/09/16 |
 | 2019/09/12 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces, No Faults](2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/README.md) | 2019/07/12 | 100000 | Done | 2019/09/13 |
 | 2019/09/12 | [ComCat M7.1 (ci38457511), 28 Days After, ShakeMap Surfaces](2019_09_12-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces/README.md) | 2019/08/02 | 100000 | Done | 2019/09/12 |
 | 2019/09/12 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces](2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces/README.md) | 2019/07/12 | 100000 | Done | 2019/09/12 |
