@@ -9,6 +9,8 @@ You can also view the complete list of UCERF3-ETAS simulations [here](../README.
 * [Summary Tables](#summary-tables)
   * [M6.4 Summary Table](#m64-summary-table)
     * [M6.4 Input Maps](#m64-input-maps)
+  * [M6.4 (Just Before 7.1) Summary Table](#m64-just-before-71-summary-table)
+    * [M6.4 (Just Before 7.1) Input Maps](#m64-just-before-71-input-maps)
   * [M7.1, Geometry Variations Summary Table](#m71-geometry-variations-summary-table)
     * [M7.1, Geometry Variations Input Maps](#m71-geometry-variations-input-maps)
   * [M7.1, Parameter Variations Summary Table](#m71-parameter-variations-summary-table)
@@ -38,6 +40,20 @@ You can also view the complete list of UCERF3-ETAS simulations [here](../README.
 | **[M6.4, Point Source](../2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14/README.md)** | **[M6.4, ShakeMap Source](../2019_08_20-ComCatM6p4_ci38443183_ShakeMapSurface-noSpont-full_td-scale1.14/README.md)** |
 |-----|-----|
 | ![Map](resources/comb_chart_map_2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_08_20-ComCatM6p4_ci38443183_ShakeMapSurface-noSpont-full_td-scale1.14.png) |
+
+### M6.4 (Just Before 7.1) Summary Table
+
+| Name | 1 Week Prob M≥7.1 | 1 Month Prob M≥7.1 | 1 Month Mean Num M≥3.5 | 1 Month Median Num M≥3.5 | 1 Month Garlock Prob M≥7 | 1 Month SAF Mojave Prob M≥7 |
+|-----|-----|-----|-----|-----|-----|-----|
+| [M6.4, Point Source, Just Before 7.1](../2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_PointSources/README.md) | 0.101% | 0.164% | 23.6 | 20.0 | 0.103% | 0.088% |
+| *[M6.4, ShakeMap Source, Just Before 7.1](../2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_ShakeMapSurface/README.md)* | *0.146%* | *0.241%* | *24.1* | *20.0* | *0.177%* | *0.093%* |
+| **Range** | **[0.101% 0.146%]** | **[0.164% 0.241%]** | **[23.6 24.1]** | **[20.0 20.0]** | **[0.103% 0.177%]** | **[0.088% 0.093%]** |
+| **Gain (w.r.t. M6.4, ShakeMap Source, Just Before 7.1)** | **[0.69 1.00]** | **[0.68 1.00]** | **[0.98 1.00]** | **[1.00 1.00]** | **[0.58 1.00]** | **[0.95 1.00]** |
+#### M6.4 (Just Before 7.1) Input Maps
+
+| **[M6.4, Point Source, Just Before 7.1](../2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_PointSources/README.md)** | **[M6.4, ShakeMap Source, Just Before 7.1](../2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_ShakeMapSurface/README.md)** |
+|-----|-----|
+| ![Map](resources/comb_chart_map_2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_PointSources.png) | ![Map](resources/comb_chart_map_2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_ShakeMapSurface.png) |
 
 ### M7.1, Geometry Variations Summary Table
 
@@ -99,15 +115,19 @@ You can also view the complete list of UCERF3-ETAS simulations [here](../README.
 | [M7.1, Quad Source, 7 Days After](../2019_07_12-ComCatM7p1_ci38457511_7DaysAfter_FiniteSurface-noSpont-full_td-scale1.14/README.md) | 0.409% | 0.973% | 62.7 | 53.0 | 0.881% | 0.144% |
 | [M7.1, ShakeMap Source (Planar Extents), 7 Days After](../2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_PlanarExtents/README.md) | 0.473% | 1.145% | 66.4 | 56.0 | 1.046% | 0.154% |
 | [M7.1, ShakeMap Source, Seq. Specific, 7 Days After](../2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15/README.md) | 0.174% | 0.424% | 28.2 | 27.0 | 0.382% | 0.101% |
+| [M7.1, KML Surface Rupture Source, 7 Days After](../2019_09_18-ComCatM7p1_ci38457511_7DaysAfter_KMLSurface_ShakeMapSurface/README.md) | 0.290% | 0.773% | 64.4 | 56.0 | 0.592% | 0.132% |
+| [M7.1, KML Surface Rupture Source (Field Verified Only), 7 Days After](../2019_09_18-ComCatM7p1_ci38457511_7DaysAfter_KMLSurface_ShakeMapSurface_FieldVerified/README.md) | 0.315% | 0.743% | 64.3 | 56.0 | 0.569% | 0.123% |
 | **Range** | **[0.174% 0.589%]** | **[0.424% 1.483%]** | **[28.2 75.8]** | **[27.0 56.0]** | **[0.315% 1.046%]** | **[0.101% 0.154%]** |
 | **Gain (w.r.t. M7.1, ShakeMap Source, 7 Days After)** | **[0.45 1.51]** | **[0.47 1.63]** | **[0.43 1.17]** | **[0.48 1.00]** | **[0.40 1.33]** | **[0.71 1.08]** |
 #### M7.1, 7 Days After Input Maps
 
-| **[M7.1, ShakeMap Source, 7 Days After](../2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces/README.md)** | **[M7.1, ShakeMap Source, 7 Days After (Early Catalog)](../2019_07_16-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md)** | **[M7.1, ShakeMap Source, No Faults, 7 Days After](../2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/README.md)** | **[M7.1, Point Source, 7 Days After](../2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_PointSources/README.md)** |
-|-----|-----|-----|-----|
-| ![Map](resources/comb_chart_map_2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces.png) | ![Map](resources/comb_chart_map_2019_07_16-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults.png) | ![Map](resources/comb_chart_map_2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_PointSources.png) |
-| **[M7.1, Quad Source, 7 Days After](../2019_07_12-ComCatM7p1_ci38457511_7DaysAfter_FiniteSurface-noSpont-full_td-scale1.14/README.md)** | **[M7.1, ShakeMap Source (Planar Extents), 7 Days After](../2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_PlanarExtents/README.md)** | **[M7.1, ShakeMap Source, Seq. Specific, 7 Days After](../2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15/README.md)** |  |
-| ![Map](resources/comb_chart_map_2019_07_12-ComCatM7p1_ci38457511_7DaysAfter_FiniteSurface-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_PlanarExtents.png) | ![Map](resources/comb_chart_map_2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15.png) |  |
+| **[M7.1, ShakeMap Source, 7 Days After](../2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces/README.md)** | **[M7.1, ShakeMap Source, 7 Days After (Early Catalog)](../2019_07_16-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md)** | **[M7.1, ShakeMap Source, No Faults, 7 Days After](../2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/README.md)** |
+|-----|-----|-----|
+| ![Map](resources/comb_chart_map_2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces.png) | ![Map](resources/comb_chart_map_2019_07_16-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults.png) |
+| **[M7.1, Point Source, 7 Days After](../2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_PointSources/README.md)** | **[M7.1, Quad Source, 7 Days After](../2019_07_12-ComCatM7p1_ci38457511_7DaysAfter_FiniteSurface-noSpont-full_td-scale1.14/README.md)** | **[M7.1, ShakeMap Source (Planar Extents), 7 Days After](../2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_PlanarExtents/README.md)** |
+| ![Map](resources/comb_chart_map_2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_PointSources.png) | ![Map](resources/comb_chart_map_2019_07_12-ComCatM7p1_ci38457511_7DaysAfter_FiniteSurface-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_PlanarExtents.png) |
+| **[M7.1, ShakeMap Source, Seq. Specific, 7 Days After](../2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15/README.md)** | **[M7.1, KML Surface Rupture Source, 7 Days After](../2019_09_18-ComCatM7p1_ci38457511_7DaysAfter_KMLSurface_ShakeMapSurface/README.md)** | **[M7.1, KML Surface Rupture Source (Field Verified Only), 7 Days After](../2019_09_18-ComCatM7p1_ci38457511_7DaysAfter_KMLSurface_ShakeMapSurface_FieldVerified/README.md)** |
+| ![Map](resources/comb_chart_map_2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15.png) | ![Map](resources/comb_chart_map_2019_09_18-ComCatM7p1_ci38457511_7DaysAfter_KMLSurface_ShakeMapSurface.png) | ![Map](resources/comb_chart_map_2019_09_18-ComCatM7p1_ci38457511_7DaysAfter_KMLSurface_ShakeMapSurface_FieldVerified.png) |
 
 ### M7.1, 28 Days After Summary Table
 
@@ -119,15 +139,17 @@ You can also view the complete list of UCERF3-ETAS simulations [here](../README.
 | [M7.1, ShakeMap Source, No Faults, 28 Days After](../2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/README.md) | 0.191% | 0.646% | 31.6 | 23.0 | N/A | N/A |
 | [M7.1, ShakeMap Source (Planar Extents), 28 Days After](../2019_09_09-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_PlanarExtents/README.md) | 0.136% | 0.500% | 27.9 | 23.0 | 0.464% | 0.113% |
 | [M7.1, ShakeMap Source, Seq. Specific, 28 Days After](../2019_08_31-ComCatM7p1_ci38457511_28DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/README.md) | 0.043% | 0.157% | 10.8 | 10.0 | 0.152% | 0.093% |
+| [M7.1, KML Surface Rupture Source, 28 Days After](../2019_09_18-ComCatM7p1_ci38457511_28DaysAfter_KMLSurface_ShakeMapSurface/README.md) | 0.087% | 0.310% | 27.1 | 23.0 | 0.248% | 0.106% |
+| [M7.1, KML Surface Rupture Source (Field Verified Only), 28 Days After](../2019_09_18-ComCatM7p1_ci38457511_28DaysAfter_KMLSurface_ShakeMapSurface_FieldVerified/README.md) | 0.102% | 0.310% | 27.0 | 23.0 | 0.254% | 0.097% |
 | **Range** | **[0.043% 0.191%]** | **[0.157% 0.646%]** | **[10.8 31.6]** | **[10.0 23.0]** | **[0.148% 0.464%]** | **[0.093% 0.113%]** |
 | **Gain (w.r.t. M7.1, ShakeMap Source, 28 Days After)** | **[0.47 2.08]** | **[0.43 1.77]** | **[0.40 1.16]** | **[0.43 1.00]** | **[0.46 1.43]** | **[0.86 1.05]** |
 #### M7.1, 28 Days After Input Maps
 
-| **[M7.1, ShakeMap Source, 28 Days After](../2019_09_12-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces/README.md)** | **[M7.1, ShakeMap Source, 28 Days After (Early Catalog)](../2019_08_03-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md)** | **[M7.1, Point Source, 28 Days After](../2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_PointSources-noSpont-full_td-scale1.14/README.md)** |
-|-----|-----|-----|
-| ![Map](resources/comb_chart_map_2019_09_12-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces.png) | ![Map](resources/comb_chart_map_2019_08_03-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_PointSources-noSpont-full_td-scale1.14.png) |
-| **[M7.1, ShakeMap Source, No Faults, 28 Days After](../2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/README.md)** | **[M7.1, ShakeMap Source (Planar Extents), 28 Days After](../2019_09_09-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_PlanarExtents/README.md)** | **[M7.1, ShakeMap Source, Seq. Specific, 28 Days After](../2019_08_31-ComCatM7p1_ci38457511_28DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/README.md)** |
-| ![Map](resources/comb_chart_map_2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly.png) | ![Map](resources/comb_chart_map_2019_09_09-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_PlanarExtents.png) | ![Map](resources/comb_chart_map_2019_08_31-ComCatM7p1_ci38457511_28DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002.png) |
+| **[M7.1, ShakeMap Source, 28 Days After](../2019_09_12-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces/README.md)** | **[M7.1, ShakeMap Source, 28 Days After (Early Catalog)](../2019_08_03-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md)** | **[M7.1, Point Source, 28 Days After](../2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_PointSources-noSpont-full_td-scale1.14/README.md)** | **[M7.1, ShakeMap Source, No Faults, 28 Days After](../2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/README.md)** |
+|-----|-----|-----|-----|
+| ![Map](resources/comb_chart_map_2019_09_12-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces.png) | ![Map](resources/comb_chart_map_2019_08_03-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_PointSources-noSpont-full_td-scale1.14.png) | ![Map](resources/comb_chart_map_2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly.png) |
+| **[M7.1, ShakeMap Source (Planar Extents), 28 Days After](../2019_09_09-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_PlanarExtents/README.md)** | **[M7.1, ShakeMap Source, Seq. Specific, 28 Days After](../2019_08_31-ComCatM7p1_ci38457511_28DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/README.md)** | **[M7.1, KML Surface Rupture Source, 28 Days After](../2019_09_18-ComCatM7p1_ci38457511_28DaysAfter_KMLSurface_ShakeMapSurface/README.md)** | **[M7.1, KML Surface Rupture Source (Field Verified Only), 28 Days After](../2019_09_18-ComCatM7p1_ci38457511_28DaysAfter_KMLSurface_ShakeMapSurface_FieldVerified/README.md)** |
+| ![Map](resources/comb_chart_map_2019_09_09-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_PlanarExtents.png) | ![Map](resources/comb_chart_map_2019_08_31-ComCatM7p1_ci38457511_28DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002.png) | ![Map](resources/comb_chart_map_2019_09_18-ComCatM7p1_ci38457511_28DaysAfter_KMLSurface_ShakeMapSurface.png) | ![Map](resources/comb_chart_map_2019_09_18-ComCatM7p1_ci38457511_28DaysAfter_KMLSurface_ShakeMapSurface_FieldVerified.png) |
 ## Cumulative Number Plots
 
 ### ShakeMap Surfaces
