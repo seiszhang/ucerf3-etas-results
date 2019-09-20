@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1568968317910,
-  "plotEndTime": 1568968339409,
+  "plotStartTime": 1569015509081,
+  "plotEndTime": 1569016247859,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_09_09-ComCatM7p1_ci38457511_63DaysAfter_ShakeMapSurfaces/results_complete.bin"
   },
-  "launcherGitHash": "006af48cb3886f17ebd35a5e967bfa0de0dbc960",
-  "launcherGitTime": 1568959438000,
+  "launcherGitHash": "8a4f8dcc926499cec69867d247c6ce5213c99cb5",
+  "launcherGitTime": 1569009963000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
@@ -673,14 +673,14 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 9,
-      "time": 1568938236585,
+      "time": 1569015509081,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc\u003d3.5",
         "",
-        "Last updated at 2019/09/20 00:11:01 UTC, 12.9 d after the simulation start time",
+        "Last updated at 2019/09/20 21:38:48 UTC, 2 wk after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
@@ -704,7 +704,7 @@
         "### ComCat Probability Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 1 Week | Current (12.9 Day) |",
+        "|  | 1 Day | 1 Week | Current (2 Week) |",
         "|-----|-----|-----|-----|",
         "| **M≥3.5** | ![Map](plots/comcat_compare_prob_1d_m3.5.png) | ![Map](plots/comcat_compare_prob_1wk_m3.5.png) | ![Map](plots/comcat_compare_prob_current_m3.5.png) |",
         "| **M≥4** | ![Map](plots/comcat_compare_prob_1d_m4.png) | ![Map](plots/comcat_compare_prob_1wk_m4.png) | ![Map](plots/comcat_compare_prob_current_m4.png) |",
@@ -716,7 +716,7 @@
         "### ComCat Mean Expectation Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 1 Week | Current (12.9 Day) |",
+        "|  | 1 Day | 1 Week | Current (2 Week) |",
         "|-----|-----|-----|-----|",
         "| **M≥3.5** | ![Map](plots/comcat_compare_mean_1d_m3.5.png) | ![Map](plots/comcat_compare_mean_1wk_m3.5.png) | ![Map](plots/comcat_compare_mean_current_m3.5.png) |",
         "| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_1wk_m4.png) | ![Map](plots/comcat_compare_mean_current_m4.png) |",
