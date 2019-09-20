@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+	border-collapse: collapse
+}
+table, th, td {
+	border: 1px solid black
+}
+body {
+	max-width:1000px;
+	margin: auto;
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+</style>
+</head>
+<body>
+<h1 id="etas-configuration-for-comcat-m64-ci38443183-point-sources-impose-g-r">ETAS Configuration for ComCat M6.4 (ci38443183), Point Sources, Impose G-R</h1>
+<table>
+<thead>
+<tr><th></th><th>ComCat M6.4 (ci38443183), Point Sources, Impose G-R</th></tr>
+</thead>
+<tbody>
+<tr><td>Num Simulations</td><td>100000</td></tr>
+<tr><td>Start Time</td><td>2019/07/04 17:33:50 UTC</td></tr>
+<tr><td>Start Time Epoch Milliseconds</td><td>1562261630000</td></tr>
+<tr><td>Duration</td><td>10 Years</td></tr>
+<tr><td>Includes Spontaneous?</td><td>false</td></tr>
+<tr><td>Historical Ruptures</td><td><em>(none)</em></td></tr>
+<tr><td>Config Generated With</td><td>u3etas_comcat_event_config_builder.sh --event-id ci38443183 --num-simulations 100000 --days-before 7 --impose-gr --mag-complete 3.5 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec</td></tr>
+</tbody>
+</table>
+<h2 id="table-of-contents">Table Of Contents</h2>
+<ul>
+<li><a href="#trigger-rupture-fault-map">Trigger Rupture Fault Map</a></li>
+<li><a href="#fault-distances-to-triggers">Fault Distances To Triggers</a></li>
+<li><a href="#possible-finite-rupture-subsection-mappings">Possible Finite Rupture Subsection Mappings</a></li>
+<li><a href="#json-input-file">JSON Input File</a></li>
+</ul>
+<h2 id="trigger-rupture-fault-map">Trigger Rupture Fault Map</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><img src="./trigger_rup_fault_map.png" alt="Map" /></p>
+<h2 id="fault-distances-to-triggers">Fault Distances To Triggers</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>Section Name</th><th>Strike, Dip, Rake</th><th># Hypos In Poly</th><th>Max Mag w/ Hypo In Poly</th><th># Surfs In Poly</th><th>Max Mag w/ Surf In Poly</th><th>Min Dist To Any (km)</th><th>Min Poly Dist To Any (km)</th><th>Min Dist To Largest (km)</th><th>Min Poly Dist To Largest (km)</th></tr>
+</thead>
+<tbody>
+<tr><td>Airport Lake</td><td>358, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>12.124</td><td>2.716</td><td>12.221</td><td>2.716</td></tr>
+<tr><td>Little Lake</td><td>327, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>16.936</td><td>4.928</td><td>16.936</td><td>4.928</td></tr>
+<tr><td>Tank Canyon</td><td>189, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>17.039</td><td>16.895</td><td>17.039</td><td>16.895</td></tr>
+<tr><td>So Sierra Nevada</td><td>360, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>22.039</td><td>21.742</td><td>22.039</td><td>21.742</td></tr>
+<tr><td>Garlock (Central)</td><td>70, 90, 0</td><td>0</td><td></td><td>0</td><td></td><td>22.766</td><td>10.797</td><td>22.766</td><td>10.797</td></tr>
+</tbody>
+</table>
+<h2 id="possible-finite-rupture-subsection-mappings">Possible Finite Rupture Subsection Mappings</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>This gives any possible finite rupture surface subsection mappings. In the plot below, potentially suggested subsections are outlined in green, and all subsections for which any of this rupture is within the fault polygon are in gray. Suggested sections are those for which the area of the input rupture within the polygon is at least 50.0 % of the sub section area</p>
+<p>Overlapping polygons are removed according to the mean distance of the actual subsection surface, with the polygons of closer sections masking out the polygons of further sections</p>
+<p>As this is a point source, there will be no matches, but sections within 25km will be listed</p>
+<p><img src="./finite_rup_subsection_mappings.png" alt="Map" /></p>
+<table>
+<thead>
+<tr><th>Section Index</th><th>Section Name</th><th>Suggested Match?</th><th>Section Area</th><th>Sect Distance To Rup</th><th>Hypocenter in Polygon?</th></tr>
+</thead>
+<tbody>
+<tr><td>0</td><td>Airport Lake, Subsection 0</td><td>no</td><td>120.19</td><td>mean=19.4 [12.34 26.92] [km]</td><td>no</td></tr>
+<tr><td>1</td><td>Airport Lake, Subsection 1</td><td>no</td><td>120.19</td><td>mean=24.55 [17.47 31.93] [km]</td><td>no</td></tr>
+<tr><td>2</td><td>Airport Lake, Subsection 2</td><td>no</td><td>120.19</td><td>mean=30.57 [24.05 37.04] [km]</td><td>no</td></tr>
+<tr><td>602</td><td>Garlock (Central), Subsection 8</td><td>no</td><td>61.94</td><td>mean=26.66 [24.59 29.42] [km]</td><td>no</td></tr>
+<tr><td>603</td><td>Garlock (Central), Subsection 9</td><td>no</td><td>61.94</td><td>mean=24.43 [22.96 26.78] [km]</td><td>no</td></tr>
+<tr><td>604</td><td>Garlock (Central), Subsection 10</td><td>no</td><td>61.94</td><td>mean=23.57 [22.77 25.16] [km]</td><td>no</td></tr>
+<tr><td>605</td><td>Garlock (Central), Subsection 11</td><td>no</td><td>61.94</td><td>mean=24.11 [22.86 26.22] [km]</td><td>no</td></tr>
+<tr><td>606</td><td>Garlock (Central), Subsection 12</td><td>no</td><td>61.94</td><td>mean=25.86 [24.03 28.43] [km]</td><td>no</td></tr>
+<tr><td>1125</td><td>Little Lake, Subsection 0</td><td>no</td><td>73.13</td><td>mean=17.73 [16.93 19.59] [km]</td><td>no</td></tr>
+<tr><td>1126</td><td>Little Lake, Subsection 1</td><td>no</td><td>73.13</td><td>mean=18.97 [17.35 21.61] [km]</td><td>no</td></tr>
+<tr><td>1127</td><td>Little Lake, Subsection 2</td><td>no</td><td>73.13</td><td>mean=21.98 [19.69 25.07] [km]</td><td>no</td></tr>
+<tr><td>1128</td><td>Little Lake, Subsection 3</td><td>no</td><td>73.13</td><td>mean=26.17 [23.5 29.47] [km]</td><td>no</td></tr>
+<tr><td>2407</td><td>So Sierra Nevada, Subsection 5</td><td>no</td><td>138.31</td><td>mean=28.91 [22.07 37.06] [km]</td><td>no</td></tr>
+<tr><td>2408</td><td>So Sierra Nevada, Subsection 6</td><td>no</td><td>138.31</td><td>mean=28.97 [22.22 36.39] [km]</td><td>no</td></tr>
+<tr><td>2484</td><td>Tank Canyon, Subsection 1</td><td>no</td><td>48.93</td><td>mean=27.5 [22.93 32.52] [km]</td><td>no</td></tr>
+<tr><td>2485</td><td>Tank Canyon, Subsection 2</td><td>no</td><td>48.93</td><td>mean=24.13 [19.59 28.58] [km]</td><td>no</td></tr>
+<tr><td>2486</td><td>Tank Canyon, Subsection 3</td><td>no</td><td>48.93</td><td>mean=21.83 [18.15 26.17] [km]</td><td>no</td></tr>
+<tr><td>2487</td><td>Tank Canyon, Subsection 4</td><td>no</td><td>48.93</td><td>mean=22.25 [18.32 26.43] [km]</td><td>no</td></tr>
+<tr><td>2488</td><td>Tank Canyon, Subsection 5</td><td>no</td><td>48.93</td><td>mean=22.59 [18.54 26.98] [km]</td><td>no</td></tr>
+<tr><td>2489</td><td>Tank Canyon, Subsection 6</td><td>no</td><td>48.93</td><td>mean=21.74 [16.86 26.95] [km]</td><td>no</td></tr>
+</tbody>
+</table>
+<h2 id="json-input-file">JSON Input File</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<pre><code>{
+  &quot;numSimulations&quot;: 100000,
+  &quot;duration&quot;: 10.0,
+  &quot;startTimeMillis&quot;: 1562261630000,
+  &quot;includeSpontaneous&quot;: false,
+  &quot;randomSeed&quot;: 1568924297288,
+  &quot;binaryOutput&quot;: true,
+  &quot;binaryOutputFilters&quot;: [
+    {
+      &quot;prefix&quot;: &quot;results_complete&quot;,
+      &quot;descendantsOnly&quot;: false
+    },
+    {
+      &quot;prefix&quot;: &quot;results_m5_preserve_chain&quot;,
+      &quot;minMag&quot;: 5.0,
+      &quot;preserveChainBelowMag&quot;: true,
+      &quot;descendantsOnly&quot;: false
+    }
+  ],
+  &quot;forceRecalc&quot;: false,
+  &quot;simulationName&quot;: &quot;ComCat M6.4 (ci38443183), Point Sources, Impose G-R&quot;,
+  &quot;numRetries&quot;: 3,
+  &quot;outputDir&quot;: &quot;${ETAS_SIM_DIR}/2019_09_19-ComCatM6p4_ci38443183_PointSources_ImposeGR&quot;,
+  &quot;triggerRuptures&quot;: [
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562259775340,
+      &quot;comcatEventID&quot;: &quot;ci38443095&quot;,
+      &quot;mag&quot;: 3.98,
+      &quot;latitude&quot;: 35.708,
+      &quot;longitude&quot;: -117.5036667,
+      &quot;depth&quot;: 10.58
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1562261629000,
+      &quot;comcatEventID&quot;: &quot;ci38443183&quot;,
+      &quot;mag&quot;: 6.4,
+      &quot;latitude&quot;: 35.7053333,
+      &quot;longitude&quot;: -117.5038333,
+      &quot;depth&quot;: 10.5
+    }
+  ],
+  &quot;cacheDir&quot;: &quot;${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba&quot;,
+  &quot;fssFile&quot;: &quot;${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip&quot;,
+  &quot;probModel&quot;: &quot;FULL_TD&quot;,
+  &quot;applySubSeisForSupraNucl&quot;: true,
+  &quot;totRateScaleFactor&quot;: 1.14,
+  &quot;gridSeisCorr&quot;: true,
+  &quot;timeIndependentERF&quot;: false,
+  &quot;griddedOnly&quot;: false,
+  &quot;imposeGR&quot;: true,
+  &quot;includeIndirectTriggering&quot;: true,
+  &quot;gridSeisDiscr&quot;: 0.1,
+  &quot;catalogCompletenessModel&quot;: &quot;RELAXED&quot;,
+  &quot;configCommand&quot;: &quot;u3etas_comcat_event_config_builder.sh --event-id ci38443183 --num-simulations 100000 --days-before 7 --impose-gr --mag-complete 3.5 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec&quot;,
+  &quot;configTime&quot;: 1568924297288,
+  &quot;comcatMetadata&quot;: {
+    &quot;region&quot;: {
+      &quot;centerLatitude&quot;: 35.7053333,
+      &quot;centerLongitude&quot;: -117.5038333,
+      &quot;radius&quot;: 15.703628043335499
+    },
+    &quot;eventID&quot;: &quot;ci38443183&quot;,
+    &quot;minDepth&quot;: -10.0,
+    &quot;maxDepth&quot;: 24.0,
+    &quot;minMag&quot;: 2.5,
+    &quot;startTime&quot;: 1561656829000,
+    &quot;endTime&quot;: 1562261629001,
+    &quot;magComplete&quot;: 3.5
+  }
+}
+</code></pre>
+</body>
+</html>

@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1568907198159,
-  "plotEndTime": 1568908217049,
+  "plotStartTime": 1568967524567,
+  "plotEndTime": 1568968252877,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_09_16-ComCatM7p1_ci38457511_70DaysAfter_ShakeMapSurfaces/results_complete.bin"
   },
-  "launcherGitHash": "4361912d2c4edfd045b1dd30340ab7a70335e23b",
-  "launcherGitTime": 1568835022000,
+  "launcherGitHash": "006af48cb3886f17ebd35a5e967bfa0de0dbc960",
+  "launcherGitTime": 1568959438000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
@@ -672,14 +672,14 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 9,
-      "time": 1568907198159,
+      "time": 1568967524567,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc\u003d3.5",
         "",
-        "Last updated at 2019/09/19 15:33:48 UTC, 5.5 d after the simulation start time",
+        "Last updated at 2019/09/20 08:19:05 UTC, 6.2 d after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
@@ -703,7 +703,7 @@
         "### ComCat Probability Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | Current (5.5 Day) |",
+        "|  | 1 Day | Current (6.2 Day) |",
         "|-----|-----|-----|",
         "| **M≥3.5** | ![Map](plots/comcat_compare_prob_1d_m3.5.png) | ![Map](plots/comcat_compare_prob_current_m3.5.png) |",
         "| **M≥4** | ![Map](plots/comcat_compare_prob_1d_m4.png) | ![Map](plots/comcat_compare_prob_current_m4.png) |",
@@ -715,7 +715,7 @@
         "### ComCat Mean Expectation Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | Current (5.5 Day) |",
+        "|  | 1 Day | Current (6.2 Day) |",
         "|-----|-----|-----|",
         "| **M≥3.5** | ![Map](plots/comcat_compare_mean_1d_m3.5.png) | ![Map](plots/comcat_compare_mean_current_m3.5.png) |",
         "| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_current_m4.png) |",
