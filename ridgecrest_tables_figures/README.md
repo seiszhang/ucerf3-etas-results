@@ -6,6 +6,10 @@ Download my [2019 SCEC Annual Meeting poster here](Milner_2019_SCEC_Poster.pdf),
 
 You can also view the complete list of UCERF3-ETAS simulations [here](../README.md), though the list is quite long and not all are for Ridgecrest.
 
+* [Paper Figures](#paper-figures)
+  * [Figures for Paper](#figures-for-paper)
+    * [Result Plots](#result-plots)
+    * [Geometry Overlay Plots](#geometry-overlay-plots)
 * [Summary Tables](#summary-tables)
   * [M6.4 Summary Table](#m64-summary-table)
     * [M6.4 Input Maps](#m64-input-maps)
@@ -24,6 +28,31 @@ You can also view the complete list of UCERF3-ETAS simulations [here](../README.
   * [Point Sources](#point-sources)
   * [ShakeMap Surfaces, No Faults](#shakemap-surfaces-no-faults)
   * [ShakeMap Surfaces, Sequence Specific Params](#shakemap-surfaces-sequence-specific-params)
+
+## Paper Figures
+
+### Figures for Paper
+
+#### Result Plots
+
+| Simulation | 1-Month MND | Comcat Mag/Num | 1-Month M&ge;3.5 Map | M&ge;3.5 Time Func |
+|-----|-----|-----|-----|-----|
+| [ComCat M6.4 (ci38443183), Point Sources](../2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14/README.md) | ![Plot](paper_figures/2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14/1mo_mag_num_cumulative_triggered.png) | ![Plot](paper_figures/2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14/comcat_compare_mag_num.png) | ![Plot](paper_figures/2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14/comcat_compare_prob_1mo_m3.5.png) | ![Plot](paper_figures/2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14/comcat_compare_cumulative_num_m3.5.png) |
+| [ComCat M7.1 (ci38457511), ShakeMap Surfaces](../2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/README.md) | ![Plot](paper_figures/2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/1mo_mag_num_cumulative_triggered.png) | ![Plot](paper_figures/2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/comcat_compare_mag_num.png) | ![Plot](paper_figures/2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/comcat_compare_prob_1mo_m3.5.png) | ![Plot](paper_figures/2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/comcat_compare_cumulative_num_m3.5.png) |
+| [ComCat M7.1 (ci38457511), Point Sources](../2019_08_20-ComCatM7p1_ci38457511_PointSources-noSpont-full_td-scale1.14/README.md) | ![Plot](paper_figures/2019_08_20-ComCatM7p1_ci38457511_PointSources-noSpont-full_td-scale1.14/1mo_mag_num_cumulative_triggered.png) | ![Plot](paper_figures/2019_08_20-ComCatM7p1_ci38457511_PointSources-noSpont-full_td-scale1.14/comcat_compare_mag_num.png) | ![Plot](paper_figures/2019_08_20-ComCatM7p1_ci38457511_PointSources-noSpont-full_td-scale1.14/comcat_compare_prob_1mo_m3.5.png) | ![Plot](paper_figures/2019_08_20-ComCatM7p1_ci38457511_PointSources-noSpont-full_td-scale1.14/comcat_compare_cumulative_num_m3.5.png) |
+| [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces](../2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces/README.md) | ![Plot](paper_figures/2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces/1mo_mag_num_cumulative_triggered.png) | ![Plot](paper_figures/2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces/comcat_compare_mag_num.png) | ![Plot](paper_figures/2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces/comcat_compare_prob_1mo_m3.5.png) | ![Plot](paper_figures/2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces/comcat_compare_cumulative_num_m3.5.png) |
+| [ComCat M7.1 (ci38457511), 7 Days After, Point Sources](../2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_PointSources/README.md) | ![Plot](paper_figures/2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_PointSources/1mo_mag_num_cumulative_triggered.png) | ![Plot](paper_figures/2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_PointSources/comcat_compare_mag_num.png) | ![Plot](paper_figures/2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_PointSources/comcat_compare_prob_1mo_m3.5.png) | ![Plot](paper_figures/2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_PointSources/comcat_compare_cumulative_num_m3.5.png) |
+| [ComCat M7.1 (ci38457511), ShakeMap Surfaces, No Faults](../2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/README.md) | ![Plot](paper_figures/2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/1mo_mag_num_cumulative_triggered.png) | ![Plot](paper_figures/2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/comcat_compare_mag_num.png) | ![Plot](paper_figures/2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/comcat_compare_prob_1mo_m3.5.png) | ![Plot](paper_figures/2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/comcat_compare_cumulative_num_m3.5.png) |
+| [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces, No Faults](../2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/README.md) | ![Plot](paper_figures/2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/1mo_mag_num_cumulative_triggered.png) | ![Plot](paper_figures/2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/comcat_compare_mag_num.png) | ![Plot](paper_figures/2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/comcat_compare_prob_1mo_m3.5.png) | ![Plot](paper_figures/2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/comcat_compare_cumulative_num_m3.5.png) |
+#### Geometry Overlay Plots
+
+This plot shows the first few finite fault surfaces used
+
+![Map](paper_figures/geom_compare_finite.png)
+
+This plot shows different versions of the ShakeMap surface
+
+![Map](paper_figures/geom_compare_shakemap.png)
 
 ## Summary Tables
 
