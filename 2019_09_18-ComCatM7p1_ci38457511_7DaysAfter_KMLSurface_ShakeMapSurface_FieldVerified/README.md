@@ -692,7 +692,7 @@ These are map plots of individual catalogs from the simulations, selected as the
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc=3.5
 
-Last updated at 2019/09/20 23:47:50 UTC, 10 wk after the simulation start time
+Last updated at 2019/09/24 07:09:32 UTC, 73.2 d after the simulation start time
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
@@ -716,7 +716,7 @@ Last updated at 2019/09/20 23:47:50 UTC, 10 wk after the simulation start time
 ### ComCat Probability Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 1 Week | 1 Month | Current (10 Week) |
+|  | 1 Day | 1 Week | 1 Month | Current (73.2 Day) |
 |-----|-----|-----|-----|-----|
 | **M≥3.5** | ![Map](plots/comcat_compare_prob_1d_m3.5.png) | ![Map](plots/comcat_compare_prob_1wk_m3.5.png) | ![Map](plots/comcat_compare_prob_1mo_m3.5.png) | ![Map](plots/comcat_compare_prob_current_m3.5.png) |
 | **M≥4** | ![Map](plots/comcat_compare_prob_1d_m4.png) | ![Map](plots/comcat_compare_prob_1wk_m4.png) | ![Map](plots/comcat_compare_prob_1mo_m4.png) | ![Map](plots/comcat_compare_prob_current_m4.png) |
@@ -728,7 +728,7 @@ Last updated at 2019/09/20 23:47:50 UTC, 10 wk after the simulation start time
 ### ComCat Mean Expectation Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 1 Week | 1 Month | Current (10 Week) |
+|  | 1 Day | 1 Week | 1 Month | Current (73.2 Day) |
 |-----|-----|-----|-----|-----|
 | **M≥3.5** | ![Map](plots/comcat_compare_mean_1d_m3.5.png) | ![Map](plots/comcat_compare_mean_1wk_m3.5.png) | ![Map](plots/comcat_compare_mean_1mo_m3.5.png) | ![Map](plots/comcat_compare_mean_current_m3.5.png) |
 | **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_1wk_m4.png) | ![Map](plots/comcat_compare_mean_1mo_m4.png) | ![Map](plots/comcat_compare_mean_current_m4.png) |
