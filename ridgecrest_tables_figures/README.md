@@ -145,7 +145,7 @@ This plot shows different versions of the ShakeMap surface
 | [M7.1, ShakeMap Source (Planar Extents), 7 Days After](../2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_PlanarExtents/README.md) | 0.473% | 1.145% | 66.4 | 56.0 | 1.046% | 0.154% |
 | [M7.1, ShakeMap Source, Seq. Specific, 7 Days After](../2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15/README.md) | 0.174% | 0.424% | 28.2 | 27.0 | 0.382% | 0.101% |
 | [M7.1, KML Surface Rupture Source, 7 Days After](../2019_09_18-ComCatM7p1_ci38457511_7DaysAfter_KMLSurface_ShakeMapSurface/README.md) | 0.290% | 0.773% | 64.4 | 56.0 | 0.592% | 0.132% |
-| [M7.1, KML Surface Rupture Source (Field Verified Only), 7 Days After](../2019_09_18-ComCatM7p1_ci38457511_7DaysAfter_KMLSurface_ShakeMapSurface_FieldVerified/README.md) | 0.315% | 0.743% | 64.3 | 56.0 | 0.569% | 0.123% |
+| [M7.1, KML Surface Rupture Source (Field Verified Only), 7 Days After](../2019_09_18-ComCatM7p1_ci38457511_7DaysAfter_KMLSurface_ShakeMapSurface_FieldVerified/README.md) | 0.309% | 0.737% | 64.2 | 56.0 | 0.548% | 0.120% |
 | **Range** | **[0.174% 0.589%]** | **[0.424% 1.483%]** | **[28.2 75.8]** | **[27.0 56.0]** | **[0.315% 1.046%]** | **[0.101% 0.154%]** |
 | **Gain (w.r.t. M7.1, ShakeMap Source, 7 Days After)** | **[0.45 1.51]** | **[0.47 1.63]** | **[0.43 1.17]** | **[0.48 1.00]** | **[0.40 1.33]** | **[0.71 1.08]** |
 #### M7.1, 7 Days After Input Maps
