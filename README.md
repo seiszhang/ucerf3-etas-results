@@ -2,7 +2,7 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2019/09/24 | [ComCat M6.4 (ci38443183), Point Sources, No Faults](2019_09_24-ComCatM6p4_ci38443183_PointSources_NoFaults/README.md) | 2019/07/04 | 100000 | 3% | 2019/09/24 |
+| 2019/09/24 | [ComCat M6.4 (ci38443183), Point Sources, No Faults](2019_09_24-ComCatM6p4_ci38443183_PointSources_NoFaults/README.md) | 2019/07/04 | 100000 | 4.1% | 2019/09/24 |
 | 2019/09/19 | [ComCat M6.4 (ci38443183), Point Sources, Impose G-R](2019_09_19-ComCatM6p4_ci38443183_PointSources_ImposeGR/README.md) | 2019/07/04 | 100000 | Done | 2019/09/24 |
 | 2019/09/19 | [ComCat M6.4 (ci38443183), 1.4 Days After, Point Sources](2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_PointSources/README.md) | 2019/07/05 | 100000 | Done | 2019/09/24 |
 | 2019/09/19 | [ComCat M6.4 (ci38443183), 1.4 Days After, ShakeMap Surface](2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_ShakeMapSurface/README.md) | 2019/07/05 | 100000 | Done | 2019/09/24 |
