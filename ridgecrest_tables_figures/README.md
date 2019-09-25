@@ -9,6 +9,7 @@ You can also view the complete list of UCERF3-ETAS simulations [here](../README.
 * [Paper Figures](#paper-figures)
   * [Input Plots](#input-plots)
   * [Result Plots](#result-plots)
+  * [Preferred Model Individual Catalog Plots](#preferred-model-individual-catalog-plots)
   * [Geometry Overlay Plots](#geometry-overlay-plots)
 * [Summary Tables](#summary-tables)
   * [M6.4 Summary Table](#m64-summary-table)
@@ -48,6 +49,12 @@ This plot shows the first few finite fault surfaces used
 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, No Faults](../2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/README.md) | ![Plot](paper_figures/2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/1mo_mag_num_cumulative_triggered.png) | ![Plot](paper_figures/2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/comcat_compare_mag_num.png) | ![Plot](paper_figures/2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/comcat_compare_prob_1mo_m3.5.png) | ![Plot](paper_figures/2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/comcat_compare_cumulative_num_m3.5.png) |
 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces, No Faults](../2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/README.md) | ![Plot](paper_figures/2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/1mo_mag_num_cumulative_triggered.png) | ![Plot](paper_figures/2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/comcat_compare_mag_num.png) | ![Plot](paper_figures/2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/comcat_compare_prob_1mo_m3.5.png) | ![Plot](paper_figures/2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/comcat_compare_cumulative_num_m3.5.png) |
 | [ComCat M7.1 (ci38457511), Mainshock Log10(k)=-2.3, ShakeMap Surfaces, Log10(k)=-3.03, p=1.15, c=0.002](../2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/README.md) | ![Plot](paper_figures/2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/1mo_mag_num_cumulative_triggered.png) | ![Plot](paper_figures/2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/comcat_compare_mag_num.png) | ![Plot](paper_figures/2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/comcat_compare_prob_1mo_m3.5.png) | ![Plot](paper_figures/2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/comcat_compare_cumulative_num_m3.5.png) |
+### Preferred Model Individual Catalog Plots
+
+| p50.0 %-ile Catalog | p97.5 %-ile Catalog | p99.999 %-ile Catalog |
+|-----|-----|-----|
+| ![Map](paper_figures/2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/sim_catalog_map_p50.0_1mo.png) | ![Map](paper_figures/2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/sim_catalog_map_p97.5_1mo.png) | ![Map](paper_figures/2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/sim_catalog_map_p99.999_1mo.png) |
+
 ### Geometry Overlay Plots
 
 This plot shows the first few finite fault surfaces used
