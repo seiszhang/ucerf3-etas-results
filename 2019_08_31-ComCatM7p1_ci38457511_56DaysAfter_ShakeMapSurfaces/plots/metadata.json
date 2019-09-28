@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1569594799096,
-  "plotEndTime": 1569595462018,
+  "plotStartTime": 1569692003330,
+  "plotEndTime": 1569692732788,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_08_31-ComCatM7p1_ci38457511_56DaysAfter_ShakeMapSurfaces/results_complete.bin"
@@ -673,14 +673,14 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 12,
-      "time": 1569594799096,
+      "time": 1569692003330,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file, and consider ruptures above Mc\u003d3.5",
         "",
-        "Last updated at 2019/09/27 14:33:46 UTC, 27.5 d after the simulation start time",
+        "Last updated at 2019/09/28 17:33:47 UTC, 28.6 d after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
@@ -704,7 +704,7 @@
         "### ComCat Probability Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 1 Week | Current (27.5 Day) |",
+        "|  | 1 Day | 1 Week | Current (28.6 Day) |",
         "|-----|-----|-----|-----|",
         "| **M≥3.5** | ![Map](plots/comcat_compare_prob_1d_m3.5.png) | ![Map](plots/comcat_compare_prob_1wk_m3.5.png) | ![Map](plots/comcat_compare_prob_current_m3.5.png) |",
         "| **M≥4** | ![Map](plots/comcat_compare_prob_1d_m4.png) | ![Map](plots/comcat_compare_prob_1wk_m4.png) | ![Map](plots/comcat_compare_prob_current_m4.png) |",
@@ -716,7 +716,7 @@
         "### ComCat Mean Expectation Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 1 Week | Current (27.5 Day) |",
+        "|  | 1 Day | 1 Week | Current (28.6 Day) |",
         "|-----|-----|-----|-----|",
         "| **M≥3.5** | ![Map](plots/comcat_compare_mean_1d_m3.5.png) | ![Map](plots/comcat_compare_mean_1wk_m3.5.png) | ![Map](plots/comcat_compare_mean_current_m3.5.png) |",
         "| **M≥4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_1wk_m4.png) | ![Map](plots/comcat_compare_mean_current_m4.png) |",
