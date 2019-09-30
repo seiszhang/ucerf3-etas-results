@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+	border-collapse: collapse
+}
+table, th, td {
+	border: 1px solid black
+}
+body {
+	max-width:1000px;
+	margin: auto;
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+</style>
+</head>
+<body>
+<h1 id="etas-configuration-for-comcat-m71-ci38457511-shakemap-surfaces-log10k-23856-p12164-c00068906">ETAS Configuration for ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.3856, p=1.2164, c=0.0068906</h1>
+<table>
+<thead>
+<tr><th></th><th>ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.3856, p=1.2164, c=0.0068906</th></tr>
+</thead>
+<tbody>
+<tr><td>Num Simulations</td><td>100000</td></tr>
+<tr><td>Start Time</td><td>2019/07/06 03:19:54 UTC</td></tr>
+<tr><td>Start Time Epoch Milliseconds</td><td>1562383194040</td></tr>
+<tr><td>Duration</td><td>10 Years</td></tr>
+<tr><td>Includes Spontaneous?</td><td>false</td></tr>
+<tr><td>Trigger Ruptures</td><td>270 Trigger Ruptures</td></tr>
+<tr><td></td><td>First: M3.98 at 2019/07/04 17:02:55 UTC</td></tr>
+<tr><td></td><td>Last: M7.1 at 2019/07/06 03:19:53 UTC</td></tr>
+<tr><td></td><td>Largest: M7.1 at 2019/07/06 03:19:53 UTC</td></tr>
+<tr><td>Historical Ruptures</td><td><em>(none)</em></td></tr>
+<tr><td>Config Generated With</td><td>u3etas_comcat_event_config_builder.sh --event-id ci38457511 --num-simulations 100000 --days-before 7 --mag-complete 3.5 --etas-k -2.3856 --etas-p 1.2164 --etas-c 0.0068906 --finite-surf-shakemap --finite-surf-shakemap-min-mag 5 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec</td></tr>
+</tbody>
+</table>
+<h2 id="table-of-contents">Table Of Contents</h2>
+<ul>
+<li><a href="#trigger-rupture-fault-map">Trigger Rupture Fault Map</a></li>
+<li><a href="#trigger-rupture-depth-map">Trigger Rupture Depth Map</a></li>
+<li><a href="#fault-distances-to-triggers">Fault Distances To Triggers</a></li>
+<li><a href="#possible-finite-rupture-subsection-mappings">Possible Finite Rupture Subsection Mappings</a></li>
+<li><a href="#json-input-file">JSON Input File</a></li>
+</ul>
+<h2 id="trigger-rupture-fault-map">Trigger Rupture Fault Map</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><img src="./trigger_rup_fault_map.png" alt="Map" /></p>
+<h2 id="trigger-rupture-depth-map">Trigger Rupture Depth Map</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><img src="./trigger_rup_depth_map.png" alt="Map" /></p>
+<h2 id="fault-distances-to-triggers">Fault Distances To Triggers</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>Section Name</th><th>Strike, Dip, Rake</th><th># Hypos In Poly</th><th>Max Mag w/ Hypo In Poly</th><th># Surfs In Poly</th><th>Max Mag w/ Surf In Poly</th><th>Min Dist To Any (km)</th><th>Min Poly Dist To Any (km)</th><th>Min Dist To Largest (km)</th><th>Min Poly Dist To Largest (km)</th><th>Min Hypo Dist To Largest (km)</th><th>Min Hypo Poly Dist To Largest (km)</th></tr>
+</thead>
+<tbody>
+<tr><td>Airport Lake</td><td>359, 50, -90</td><td>91</td><td>7.1</td><td>91</td><td>7.1</td><td>0.036</td><td>0.000</td><td>0.036</td><td>0.000</td><td>5.612</td><td>0.000</td></tr>
+<tr><td>Little Lake</td><td>327, 90, 180</td><td>15</td><td>3.75</td><td>16</td><td>7.1</td><td>2.268</td><td>0.000</td><td>11.284</td><td>0.000</td><td>13.471</td><td>1.469</td></tr>
+<tr><td>Garlock (Central)</td><td>71, 90, 0</td><td>2</td><td>2.76</td><td>3</td><td>7.1</td><td>5.600</td><td>0.000</td><td>5.600</td><td>0.000</td><td>22.766</td><td>10.797</td></tr>
+<tr><td>So Sierra Nevada</td><td>2, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>4.248</td><td>4.233</td><td>4.248</td><td>4.233</td><td>16.191</td><td>15.188</td></tr>
+<tr><td>Tank Canyon</td><td>189, 50, -90</td><td>0</td><td></td><td>0</td><td></td><td>9.015</td><td>9.011</td><td>9.015</td><td>9.011</td><td>17.039</td><td>16.895</td></tr>
+<tr><td>Blackwater</td><td>323, 90, 180</td><td>0</td><td></td><td>0</td><td></td><td>14.394</td><td>8.726</td><td>14.394</td><td>8.726</td><td>29.622</td><td>27.613</td></tr>
+</tbody>
+</table>
+<h2 id="possible-finite-rupture-subsection-mappings">Possible Finite Rupture Subsection Mappings</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>This gives any possible finite rupture surface subsection mappings. In the plot below, potentially suggested subsections are outlined in green, and all subsections for which any of this rupture is within the fault polygon are in gray. Suggested sections are those for which the area of the input rupture within the polygon is at least 50.0 % of the sub section area</p>
+<p>Overlapping polygons are removed according to the mean distance of the actual subsection surface, with the polygons of closer sections masking out the polygons of further sections</p>
+<p><img src="./finite_rup_subsection_mappings.png" alt="Map" /></p>
+<table>
+<thead>
+<tr><th>Section Index</th><th>Section Name</th><th>Suggested Match?</th><th>Section Area</th><th>Rup Area in Raw Poly</th><th>Rup Area in No-Overlap Poly</th><th>Area Fraction</th><th>Sect Distance To Rup</th><th>Hypocenter in Polygon?</th></tr>
+</thead>
+<tbody>
+<tr><td>0</td><td>Airport Lake, Subsection 0</td><td><em>yes</em></td><td>120.19</td><td>322.07</td><td>322.07</td><td>2.68</td><td>mean=6.09 [0.29 11.59] [km]</td><td><em>yes</em></td></tr>
+<tr><td>1</td><td>Airport Lake, Subsection 1</td><td><em>yes</em></td><td>120.19</td><td>240.09</td><td>240.09</td><td>2</td><td>mean=3.08 [0.11 8.65] [km]</td><td>no</td></tr>
+<tr><td>2</td><td>Airport Lake, Subsection 2</td><td><em>yes</em></td><td>120.19</td><td>60.48</td><td>60.48</td><td>0.5</td><td>mean=3.32 [0.31 8.48] [km]</td><td>no</td></tr>
+<tr><td>605</td><td>Garlock (Central), Subsection 11</td><td><em>yes</em></td><td>61.94</td><td>81.32</td><td>81.32</td><td>1.31</td><td>mean=6.51 [5.6 8.05] [km]</td><td>no</td></tr>
+<tr><td>606</td><td>Garlock (Central), Subsection 12</td><td>no</td><td>61.94</td><td>24.4</td><td>24.4</td><td>0.39</td><td>mean=6.51 [5.6 8.06] [km]</td><td>no</td></tr>
+<tr><td>1130</td><td>Little Lake, Subsection 5</td><td>no</td><td>73.13</td><td>26.97</td><td>0</td><td>0</td><td>mean=11.55 [11.29 12.16] [km]</td><td>no</td></tr>
+</tbody>
+</table>
+<h2 id="json-input-file">JSON Input File</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<pre><code>{
+  &quot;numSimulations&quot;: 100000,
+  &quot;duration&quot;: 10.0,
+  &quot;startTimeMillis&quot;: 1562383194040,
+  &quot;includeSpontaneous&quot;: false,
+  &quot;randomSeed&quot;: 1569881636444,
+  &quot;binaryOutput&quot;: true,
+  &quot;binaryOutputFilters&quot;: [
+    {
+      &quot;prefix&quot;: &quot;results_complete&quot;,
+      &quot;descendantsOnly&quot;: false
+    },
+    {
+      &quot;prefix&quot;: &quot;results_m5_preserve_chain&quot;,
+      &quot;minMag&quot;: 5.0,
+      &quot;preserveChainBelowMag&quot;: true,
+      &quot;descendantsOnly&quot;: false
+    }
+  ],
+  &quot;forceRecalc&quot;: false,
+  &quot;simulationName&quot;: &quot;ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)\u003d-2.3856, p\u003d1.2164, c\u003d0.0068906&quot;,
+  &quot;numRetries&quot;: 3,
+  &quot;outputDir&quot;: &quot;${ETAS_SIM_DIR}/2019_09_30-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p3856_p1p2164_c0p0068906&quot;,
+  &quot;triggerRuptures&quot;: [
+    &quot;omitted due to length, see original input file&quot;
+  ],
+  &quot;cacheDir&quot;: &quot;${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba&quot;,
+  &quot;fssFile&quot;: &quot;${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip&quot;,
+  &quot;probModel&quot;: &quot;FULL_TD&quot;,
+  &quot;applySubSeisForSupraNucl&quot;: true,
+  &quot;totRateScaleFactor&quot;: 1.14,
+  &quot;gridSeisCorr&quot;: true,
+  &quot;timeIndependentERF&quot;: false,
+  &quot;griddedOnly&quot;: false,
+  &quot;imposeGR&quot;: false,
+  &quot;includeIndirectTriggering&quot;: true,
+  &quot;gridSeisDiscr&quot;: 0.1,
+  &quot;catalogCompletenessModel&quot;: &quot;RELAXED&quot;,
+  &quot;etas_p&quot;: 1.2164,
+  &quot;etas_c&quot;: 0.0068906,
+  &quot;etas_log10_k&quot;: -2.3856,
+  &quot;configCommand&quot;: &quot;u3etas_comcat_event_config_builder.sh --event-id ci38457511 --num-simulations 100000 --days-before 7 --mag-complete 3.5 --etas-k -2.3856 --etas-p 1.2164 --etas-c 0.0068906 --finite-surf-shakemap --finite-surf-shakemap-min-mag 5 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec&quot;,
+  &quot;configTime&quot;: 1569881636444,
+  &quot;comcatMetadata&quot;: {
+    &quot;region&quot;: {
+      &quot;border&quot;: [
+        {
+          &quot;latitude&quot;: 35.15123745324938,
+          &quot;longitude&quot;: -117.46198765392752
+        },
+        {
+          &quot;latitude&quot;: 35.170513097218205,
+          &quot;longitude&quot;: -117.55046477274733
+        },
+        {
+          &quot;latitude&quot;: 35.201997575622634,
+          &quot;longitude&quot;: -117.63356287896195
+        },
+        {
+          &quot;latitude&quot;: 35.24474776584818,
+          &quot;longitude&quot;: -117.70878534540662
+        },
+        {
+          &quot;latitude&quot;: 35.2893890362986,
+          &quot;longitude&quot;: -117.76387551603122
+        },
+        {
+          &quot;latitude&quot;: 35.288830898189985,
+          &quot;longitude&quot;: -117.76465036296011
+        },
+        {
+          &quot;latitude&quot;: 35.62116745212862,
+          &quot;longitude&quot;: -118.13026990137416
+        },
+        {
+          &quot;latitude&quot;: 35.621789874646055,
+          &quot;longitude&quot;: -118.12940866580139
+        },
+        {
+          &quot;latitude&quot;: 35.621789874646055,
+          &quot;longitude&quot;: -118.12940866580136
+        },
+        {
+          &quot;latitude&quot;: 35.63100857737423,
+          &quot;longitude&quot;: -118.14083341711117
+        },
+        {
+          &quot;latitude&quot;: 35.69213881200874,
+          &quot;longitude&quot;: -118.19401186444136
+        },
+        {
+          &quot;latitude&quot;: 35.759827796433385,
+          &quot;longitude&quot;: -118.23338865654299
+        },
+        {
+          &quot;latitude&quot;: 35.8320329014668,
+          &quot;longitude&quot;: -118.25773927868946
+        },
+        {
+          &quot;latitude&quot;: 35.906569563076914,
+          &quot;longitude&quot;: -118.26628547708222
+        },
+        {
+          &quot;latitude&quot;: 35.9811764992231,
+          &quot;longitude&quot;: -118.25872343341653
+        },
+        {
+          &quot;latitude&quot;: 36.05358395358725,
+          &quot;longitude&quot;: -118.23523828089384
+        },
+        {
+          &quot;latitude&quot;: 36.12158296055357,
+          &quot;longitude&quot;: -118.19650389473806
+        },
+        {
+          &quot;latitude&quot;: 36.18309350302806,
+          &quot;longitude&quot;: -118.14366730262441
+        },
+        {
+          &quot;latitude&quot;: 36.23622937613509,
+          &quot;longitude&quot;: -118.07831757407638
+        },
+        {
+          &quot;latitude&quot;: 36.279357589115186,
+          &quot;longitude&quot;: -118.00243964650828
+        },
+        {
+          &quot;latitude&quot;: 36.31115024550475,
+          &quot;longitude&quot;: -117.91835419890715
+        },
+        {
+          &quot;latitude&quot;: 36.33062704347584,
+          &quot;longitude&quot;: -117.82864534929934
+        },
+        {
+          &quot;latitude&quot;: 36.337186832826475,
+          &quot;longitude&quot;: -117.7360785775
+        },
+        {
+          &quot;latitude&quot;: 36.33062704347584,
+          &quot;longitude&quot;: -117.64351180570065
+        },
+        {
+          &quot;latitude&quot;: 36.31115024550475,
+          &quot;longitude&quot;: -117.55380295609284
+        },
+        {
+          &quot;latitude&quot;: 36.279357589115186,
+          &quot;longitude&quot;: -117.46971750849171
+        },
+        {
+          &quot;latitude&quot;: 36.23622937613509,
+          &quot;longitude&quot;: -117.39383958092363
+        },
+        {
+          &quot;latitude&quot;: 36.19237301765921,
+          &quot;longitude&quot;: -117.33990236386252
+        },
+        {
+          &quot;latitude&quot;: 36.19237301765921,
+          &quot;longitude&quot;: -117.3399023638625
+        },
+        {
+          &quot;latitude&quot;: 36.19300476664728,
+          &quot;longitude&quot;: -117.33902822340912
+        },
+        {
+          &quot;latitude&quot;: 35.858277657147454,
+          &quot;longitude&quot;: -116.97410396317103
+        },
+        {
+          &quot;latitude&quot;: 35.85771127553969,
+          &quot;longitude&quot;: -116.97489025431044
+        },
+        {
+          &quot;latitude&quot;: 35.849566414597014,
+          &quot;longitude&quot;: -116.96491461360324
+        },
+        {
+          &quot;latitude&quot;: 35.78805819220281,
+          &quot;longitude&quot;: -116.9122967694479
+        },
+        {
+          &quot;latitude&quot;: 35.72006106557635,
+          &quot;longitude&quot;: -116.87372034968973
+        },
+        {
+          &quot;latitude&quot;: 35.64765482528862,
+          &quot;longitude&quot;: -116.85032807444419
+        },
+        {
+          &quot;latitude&quot;: 35.57304829206068,
+          &quot;longitude&quot;: -116.8427916482061
+        },
+        {
+          &quot;latitude&quot;: 35.49851117585832,
+          &quot;longitude&quot;: -116.8512961557198
+        },
+        {
+          &quot;latitude&quot;: 35.42630481575459,
+          &quot;longitude&quot;: -116.87553976530553
+        },
+        {
+          &quot;latitude&quot;: 35.35861392859174,
+          &quot;longitude&quot;: -116.91474809853695
+        },
+        {
+          &quot;latitude&quot;: 35.29748137319737,
+          &quot;longitude&quot;: -116.96770221389164
+        },
+        {
+          &quot;latitude&quot;: 35.24474776584818,
+          &quot;longitude&quot;: -117.03277884359336
+        },
+        {
+          &quot;latitude&quot;: 35.201997575622634,
+          &quot;longitude&quot;: -117.10800131003803
+        },
+        {
+          &quot;latitude&quot;: 35.170513097218205,
+          &quot;longitude&quot;: -117.19109941625265
+        },
+        {
+          &quot;latitude&quot;: 35.15123745324938,
+          &quot;longitude&quot;: -117.27957653507247
+        },
+        {
+          &quot;latitude&quot;: 35.14474752487352,
+          &quot;longitude&quot;: -117.3707820945
+        }
+      ]
+    },
+    &quot;eventID&quot;: &quot;ci38457511&quot;,
+    &quot;minDepth&quot;: -10.0,
+    &quot;maxDepth&quot;: 24.0,
+    &quot;minMag&quot;: 2.5,
+    &quot;startTime&quot;: 1561778393040,
+    &quot;endTime&quot;: 1562383193041,
+    &quot;magComplete&quot;: 3.5
+  }
+}
+</code></pre>
+</body>
+</html>
