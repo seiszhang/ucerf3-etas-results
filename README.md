@@ -2,7 +2,7 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2019/09/30 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Mod Mag ci38443183=M6.56, Log10(k)=-2.32, p=1.21, c=0.0072443597](2019_09_30-ComCatM7p1_ci38457511_ShakeMapSurfaces_ModMagci38443183M6p56_Log10_k_2p32_p1p21_c0p007244/README.md) | 2019/07/05 | 100000 | 1.9% | 2019/09/30 |
+| 2019/09/30 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Mod Mag ci38443183=M6.56, Log10(k)=-2.32, p=1.21, c=0.0072443597](2019_09_30-ComCatM7p1_ci38457511_ShakeMapSurfaces_ModMagci38443183M6p56_Log10_k_2p32_p1p21_c0p007244/README.md) | 2019/07/05 | 100000 | 1.2% | 2019/09/30 |
 | 2019/09/27 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.52, p=1.21, c=0.004168694, ModMag6.53](2019_09_27-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p52_p1p21_c0p004168694_ModMag6p53/README.md) | 2019/07/05 | 100000 | Done | 2019/09/28 |
 | 2019/09/24 | [ComCat M6.4 (ci38443183), Point Sources, No Faults](2019_09_24-ComCatM6p4_ci38443183_PointSources_NoFaults/README.md) | 2019/07/04 | 100000 | Done | 2019/09/28 |
 | 2019/09/19 | [ComCat M6.4 (ci38443183), Point Sources, Impose G-R](2019_09_19-ComCatM6p4_ci38443183_PointSources_ImposeGR/README.md) | 2019/07/04 | 100000 | Done | 2019/09/28 |
