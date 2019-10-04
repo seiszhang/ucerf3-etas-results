@@ -4,7 +4,7 @@
 |-----|-----|-----|-----|-----|-----|
 | 2019/09/30 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.5807, p=1.2481, c=0.0057006](2019_09_30-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p5807_p1p2481_c0p0057006/README.md) | 2019/07/05 | 100000 | Done | 2019/10/03 |
 | 2019/09/30 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.3856, p=1.2164, c=0.0068906, No Faults](2019_09_30-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p3856_p1p2164_c0p0068906_NoFaults/README.md) | 2019/07/05 | 100000 | 1% | 2019/10/03 |
-| 2019/09/30 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.3856, p=1.2164, c=0.0068906](2019_09_30-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p3856_p1p2164_c0p0068906/README.md) | 2019/07/05 | 100000 | 14.3% | 2019/10/04 |
+| 2019/09/30 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.3856, p=1.2164, c=0.0068906](2019_09_30-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p3856_p1p2164_c0p0068906/README.md) | 2019/07/05 | 100000 | 18.9% | 2019/10/04 |
 | 2019/09/27 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.52, p=1.21, c=0.004168694, ModMag6.53](2019_09_27-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p52_p1p21_c0p004168694_ModMag6p53/README.md) | 2019/07/05 | 100000 | Done | 2019/10/03 |
 | 2019/09/24 | [ComCat M6.4 (ci38443183), Point Sources, No Faults](2019_09_24-ComCatM6p4_ci38443183_PointSources_NoFaults/README.md) | 2019/07/04 | 100000 | Done | 2019/10/03 |
 | 2019/09/19 | [ComCat M6.4 (ci38443183), Point Sources, Impose G-R](2019_09_19-ComCatM6p4_ci38443183_PointSources_ImposeGR/README.md) | 2019/07/04 | 100000 | Done | 2019/10/03 |
@@ -17,7 +17,7 @@
 | 2019/09/17 | [ComCat M7.1 (ci38457511), KML Surface, ShakeMap Surface, Field-Verified](2019_09_17-ComCatM7p1_ci38457511_KMLSurface_ShakeMapSurface_FieldVerified/README.md) | 2019/07/05 | 100000 | Done | 2019/10/04 |
 | 2019/09/17 | [ComCat M7.1 (ci38457511), KML Surface, ShakeMap Surface](2019_09_17-ComCatM7p1_ci38457511_KMLSurface_ShakeMapSurface/README.md) | 2019/07/05 | 100000 | Done | 2019/10/04 |
 | 2019/09/16 | [ComCat M7.1 (ci38457511), 70 Days After, ShakeMap Surfaces](2019_09_16-ComCatM7p1_ci38457511_70DaysAfter_ShakeMapSurfaces/README.md) | 2019/09/13 | 100000 | Done | 2019/10/04 |
-| 2019/09/12 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces, No Faults](2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/README.md) | 2019/07/12 | 100000 | Done | 2019/09/28 |
+| 2019/09/12 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces, No Faults](2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/README.md) | 2019/07/12 | 100000 | Done | 2019/10/04 |
 | 2019/09/12 | [ComCat M7.1 (ci38457511), 28 Days After, ShakeMap Surfaces](2019_09_12-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces/README.md) | 2019/08/02 | 100000 | Done | 2019/09/28 |
 | 2019/09/12 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces](2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces/README.md) | 2019/07/12 | 100000 | Done | 2019/09/28 |
 | 2019/09/09 | [ComCat M7.1 (ci38457511), 63 Days After, ShakeMap Surfaces](2019_09_09-ComCatM7p1_ci38457511_63DaysAfter_ShakeMapSurfaces/README.md) | 2019/09/06 | 100000 | Done | 2019/10/03 |
