@@ -49,6 +49,7 @@
   * [M≥7.5 Parent Sections Table](#m75-parent-sections-table)
   * [M≥8 Parent Sections Table](#m8-parent-sections-table)
   * [Fault Magnitude-Probability Distributions](#fault-magnitude-probability-distributions)
+* [Gridded Nucleation](#gridded-nucleation)
 * [JSON Input File](#json-input-file)
 
 ## Probabilities Summary Table
@@ -686,7 +687,7 @@ These are map plots of individual catalogs from the simulations, selected as the
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.
 
-Last updated at 2019/10/04 17:34:04 UTC, 3 mo after the simulation start time
+Last updated at 2019/10/12 03:52:06 UTC, 14 wk after the simulation start time
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
@@ -717,7 +718,7 @@ The following plots compare simulation results with ComCat data above a magnitud
 ### ComCat Probability Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 1 Week | 1 Month | Current (3 Month) |
+|  | 1 Day | 1 Week | 1 Month | Current (14 Week) |
 |-----|-----|-----|-----|-----|
 | **M&ge;Mc(t)** | ![Map](plots/comcat_compare_prob_1d_td_mc.png) | ![Map](plots/comcat_compare_prob_1wk_td_mc.png) | ![Map](plots/comcat_compare_prob_1mo_td_mc.png) | ![Map](plots/comcat_compare_prob_current_td_mc.png) |
 | **M&ge;3.5** | ![Map](plots/comcat_compare_prob_1d_m3.5.png) | ![Map](plots/comcat_compare_prob_1wk_m3.5.png) | ![Map](plots/comcat_compare_prob_1mo_m3.5.png) | ![Map](plots/comcat_compare_prob_current_m3.5.png) |
@@ -730,7 +731,7 @@ The following plots compare simulation results with ComCat data above a magnitud
 ### ComCat Mean Expectation Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 1 Week | 1 Month | Current (3 Month) |
+|  | 1 Day | 1 Week | 1 Month | Current (14 Week) |
 |-----|-----|-----|-----|-----|
 | **M&ge;Mc(t)** | ![Map](plots/comcat_compare_mean_1d_td_mc.png) | ![Map](plots/comcat_compare_mean_1wk_td_mc.png) | ![Map](plots/comcat_compare_mean_1mo_td_mc.png) | ![Map](plots/comcat_compare_mean_current_td_mc.png) |
 | **M&ge;3.5** | ![Map](plots/comcat_compare_mean_1d_m3.5.png) | ![Map](plots/comcat_compare_mean_1wk_m3.5.png) | ![Map](plots/comcat_compare_mean_1mo_m3.5.png) | ![Map](plots/comcat_compare_mean_current_m3.5.png) |
@@ -863,6 +864,16 @@ The first 5 sections (sorted by trigger rate) are plotted below. All fault MPDs 
 | ![MPD](plots/parent_sect_mpds/Little_Lake_1wk.png) | ![MPD](plots/parent_sect_mpds/Little_Lake_1mo.png) | ![MPD](plots/parent_sect_mpds/Little_Lake_1yr.png) | ![MPD](plots/parent_sect_mpds/Little_Lake_10yr.png) |
 | ![MPD](plots/parent_sect_mpds/Airport_Lake_1wk.png) | ![MPD](plots/parent_sect_mpds/Airport_Lake_1mo.png) | ![MPD](plots/parent_sect_mpds/Airport_Lake_1yr.png) | ![MPD](plots/parent_sect_mpds/Airport_Lake_10yr.png) |
 | ![MPD](plots/parent_sect_mpds/Owl_Lake_1wk.png) | ![MPD](plots/parent_sect_mpds/Owl_Lake_1mo.png) | ![MPD](plots/parent_sect_mpds/Owl_Lake_1yr.png) | ![MPD](plots/parent_sect_mpds/Owl_Lake_10yr.png) |
+
+## Gridded Nucleation
+*[(top)](#table-of-contents)*
+
+| Min Mag | Triggered Ruptures (no spontaneous) | Triggered Ruptures (primary aftershocks only) |
+|-----|-----|-----|
+| **M&ge;2.5** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m2.5.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m2.5.png) |
+| **M&ge;5** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m5.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m5.0.png) |
+| **M&ge;6** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m6.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m6.0.png) |
+| **M&ge;7** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m7.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m7.0.png) |
 
 
 ## JSON Input File
