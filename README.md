@@ -2,7 +2,7 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2019/10/11 | [Start 2012, 500 yr, Spontaneous, Historical Catalog](2019_10_11-Start2012_500yr_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | 99% | 2019/10/11 |
+| 2019/10/11 | [Start 2012, 500 yr, Spontaneous, Historical Catalog](2019_10_11-Start2012_500yr_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/10/11 |
 | 2019/10/11 | [Start 2012, 500 yr, Spontaneous, Historical Catalog, AleatoryKTest](2019_10_11-Start2012_500yr_Spontaneous_HistoricalCatalog_AleatoryKTest/README.md) | 2011/12/31 | 1000 | Done | 2019/10/11 |
 | 2019/09/30 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.5807, p=1.2481, c=0.0057006](2019_09_30-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p5807_p1p2481_c0p0057006/README.md) | 2019/07/05 | 100000 | Done | 2019/10/10 |
 | 2019/09/30 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.3856, p=1.2164, c=0.0068906, No Faults](2019_09_30-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p3856_p1p2164_c0p0068906_NoFaults/README.md) | 2019/07/05 | 100000 | Done | 2019/10/05 |
