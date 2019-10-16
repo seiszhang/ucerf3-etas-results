@@ -1,9 +1,9 @@
 {
-  "plotStartTime": 1571193198844,
-  "plotEndTime": 1571194542327,
+  "plotStartTime": 1571196791829,
+  "plotEndTime": 1571196947472,
   "simulationsProcessed": 100000,
   "dataFile": {
-    "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_10_15-ComCatM4p71_nc73292360_PointSources/results_complete_partial.bin"
+    "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_10_15-ComCatM4p71_nc73292360_PointSources/results_complete.bin"
   },
   "launcherGitHash": "c384c42832fe1d597fbc6a35769e4fa5974df28d",
   "launcherGitTime": 1571180681000,
@@ -678,14 +678,14 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 15,
-      "time": 1571193198844,
+      "time": 1571196791829,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.",
         "",
-        "Last updated at 2019/10/16 02:33:44 UTC, 6.9 hr after the simulation start time",
+        "Last updated at 2019/10/16 03:33:34 UTC, 7.9 hr after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
@@ -704,9 +704,9 @@
         "### ComCat Cumulative Number Vs Time",
         "*[(top)](#table-of-contents)*",
         "",
-        "| M\u0026ge;Mc(t) | M\u0026ge;3.1 | M\u0026ge;4 | M\u0026ge;4.5 | M\u0026ge;5 |",
-        "|-----|-----|-----|-----|-----|",
-        "| ![MND](plots/comcat_compare_cumulative_num_td_mc.png) | ![MND](plots/comcat_compare_cumulative_num_m3.1.png) | ![MND](plots/comcat_compare_cumulative_num_m4.png) | ![MND](plots/comcat_compare_cumulative_num_m4.5.png) | ![MND](plots/comcat_compare_cumulative_num_m5.png) |",
+        "| M\u0026ge;Mc(t) | M\u0026ge;3 | M\u0026ge;3.5 | M\u0026ge;4 | M\u0026ge;4.5 | M\u0026ge;5 |",
+        "|-----|-----|-----|-----|-----|-----|",
+        "| ![MND](plots/comcat_compare_cumulative_num_td_mc.png) | ![MND](plots/comcat_compare_cumulative_num_m3.png) | ![MND](plots/comcat_compare_cumulative_num_m3.5.png) | ![MND](plots/comcat_compare_cumulative_num_m4.png) | ![MND](plots/comcat_compare_cumulative_num_m4.5.png) | ![MND](plots/comcat_compare_cumulative_num_m5.png) |",
         "",
         "### ComCat Cumulative Number Simulation Percentiles",
         "*[(top)](#table-of-contents)*",
@@ -716,10 +716,11 @@
         "### ComCat Probability Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | Current (6.9 Hour) |",
+        "|  | Current (7.9 Hour) |",
         "|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_prob_current_td_mc.png) |",
-        "| **M\u0026ge;3.1** | ![Map](plots/comcat_compare_prob_current_m3.1.png) |",
+        "| **M\u0026ge;3** | ![Map](plots/comcat_compare_prob_current_m3.png) |",
+        "| **M\u0026ge;3.5** | ![Map](plots/comcat_compare_prob_current_m3.5.png) |",
         "| **M\u0026ge;4** | ![Map](plots/comcat_compare_prob_current_m4.png) |",
         "| **M\u0026ge;4.5** | ![Map](plots/comcat_compare_prob_current_m4.5.png) |",
         "| **M\u0026ge;5** | ![Map](plots/comcat_compare_prob_current_m5.png) |",
@@ -728,10 +729,11 @@
         "### ComCat Mean Expectation Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | Current (6.9 Hour) |",
+        "|  | Current (7.9 Hour) |",
         "|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_mean_current_td_mc.png) |",
-        "| **M\u0026ge;3.1** | ![Map](plots/comcat_compare_mean_current_m3.1.png) |",
+        "| **M\u0026ge;3** | ![Map](plots/comcat_compare_mean_current_m3.png) |",
+        "| **M\u0026ge;3.5** | ![Map](plots/comcat_compare_mean_current_m3.5.png) |",
         "| **M\u0026ge;4** | ![Map](plots/comcat_compare_mean_current_m4.png) |",
         "| **M\u0026ge;4.5** | ![Map](plots/comcat_compare_mean_current_m4.5.png) |",
         "| **M\u0026ge;5** | ![Map](plots/comcat_compare_mean_current_m5.png) |",
@@ -740,9 +742,9 @@
         "### ComCat Depth Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "| M\u0026ge;Mc(t) | M\u0026ge;3.1 | M\u0026ge;4 | M\u0026ge;4.5 | M\u0026ge;5 | M\u0026ge;5.5 |",
-        "|-----|-----|-----|-----|-----|-----|",
-        "| ![Depth Distribution](plots/comcat_compare_depth_td_mc.png) | ![Depth Distribution](plots/comcat_compare_depth_m3.1.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.5.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.5.png) |"
+        "| M\u0026ge;Mc(t) | M\u0026ge;3 | M\u0026ge;3.5 | M\u0026ge;4 | M\u0026ge;4.5 | M\u0026ge;5 | M\u0026ge;5.5 |",
+        "|-----|-----|-----|-----|-----|-----|-----|",
+        "| ![Depth Distribution](plots/comcat_compare_depth_td_mc.png) | ![Depth Distribution](plots/comcat_compare_depth_m3.png) | ![Depth Distribution](plots/comcat_compare_depth_m3.5.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.5.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.5.png) |"
       ]
     },
     {
