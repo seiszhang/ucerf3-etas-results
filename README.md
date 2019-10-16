@@ -2,7 +2,7 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2019/10/15 | [ComCat M4.71 (nc73292360), Point Sources](2019_10_15-ComCatM4p71_nc73292360_PointSources/README.md) | 2019/10/15 | 100000 | 55.5% | 2019/10/15 |
+| 2019/10/15 | [ComCat M4.71 (nc73292360), Point Sources](2019_10_15-ComCatM4p71_nc73292360_PointSources/README.md) | 2019/10/15 | 100000 | 77.4% | 2019/10/15 |
 | 2019/10/15 | [Start 2012, 500 yr, kCOV=1.16, Spontaneous, Historical Catalog](2019_10_15-Start2012_500yr_kCOV1p16_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Unknown | Unknown |
 | 2019/10/11 | [Start 2012, 500 yr, Spontaneous, Historical Catalog](2019_10_11-Start2012_500yr_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/10/15 |
 | 2019/10/11 | [Start 2012, 500 yr, Spontaneous, Historical Catalog, AleatoryKTest](2019_10_11-Start2012_500yr_Spontaneous_HistoricalCatalog_AleatoryKTest/README.md) | 2011/12/31 | 1000 | Done | 2019/10/15 |
