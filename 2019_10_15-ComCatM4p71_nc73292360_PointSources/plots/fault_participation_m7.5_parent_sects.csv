@@ -23,10 +23,10 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 94,Burnt Mtn,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 561,Butano 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 165,Cady,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-602,Calaveras (Central) 2011 CFM,6.097561E-5,0.0,3.0487805E-5,3.0487805E-5,6.097561E-5,6.097561E-5,0.0
-601,Calaveras (No) 2011 CFM,3.0487805E-5,0.0,0.0,0.0,3.0487805E-5,3.0487805E-5,0.0
-621,Calaveras (So) - Paicines extension 2011 CFM,6.097561E-5,0.0,3.0487805E-5,3.0487805E-5,6.097561E-5,6.097561E-5,0.0
-603,Calaveras (So) 2011 CFM,6.097561E-5,0.0,3.0487805E-5,3.0487805E-5,6.097561E-5,6.097561E-5,0.0
+602,Calaveras (Central) 2011 CFM,5.4054053E-5,0.0,1.8018018E-5,1.8018018E-5,3.6036035E-5,5.4054053E-5,0.0
+601,Calaveras (No) 2011 CFM,1.8018018E-5,0.0,0.0,0.0,1.8018018E-5,1.8018018E-5,0.0
+621,Calaveras (So) - Paicines extension 2011 CFM,7.207207E-5,0.0,1.8018018E-5,1.8018018E-5,3.6036035E-5,7.207207E-5,1.8018018E-5
+603,Calaveras (So) 2011 CFM,5.4054053E-5,0.0,1.8018018E-5,1.8018018E-5,3.6036035E-5,5.4054053E-5,0.0
 88,Calico-Hidalgo,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 724,Camp Rock 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 173,Canada David (Detachment),0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -46,8 +46,8 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 582,Collayami 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 184,Compton,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 622,Concord 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-626,Contra Costa (Lafayette) 2011 CFM,3.0487805E-5,0.0,0.0,0.0,3.0487805E-5,3.0487805E-5,0.0
-633,Contra Costa Shear Zone (connector) 2011 CFM,3.0487805E-5,0.0,0.0,0.0,3.0487805E-5,3.0487805E-5,0.0
+626,Contra Costa (Lafayette) 2011 CFM,1.8018018E-5,0.0,0.0,0.0,1.8018018E-5,1.8018018E-5,0.0
+633,Contra Costa Shear Zone (connector) 2011 CFM,1.8018018E-5,0.0,0.0,0.0,1.8018018E-5,1.8018018E-5,0.0
 776,Coronado Bank alt1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 157,Coyote Canyon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 163,Coyote Lake,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -111,8 +111,8 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 635,Greenville (So) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 702,Hartley Springs 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 37,Hat Creek-McArthur-Mayfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-639,Hayward (No) 2011 CFM,3.0487805E-5,0.0,3.0487805E-5,3.0487805E-5,3.0487805E-5,3.0487805E-5,0.0
-638,Hayward (So) 2011 CFM,3.0487805E-5,0.0,3.0487805E-5,3.0487805E-5,3.0487805E-5,3.0487805E-5,0.0
+639,Hayward (No) 2011 CFM,3.6036035E-5,0.0,1.8018018E-5,1.8018018E-5,1.8018018E-5,3.6036035E-5,0.0
+638,Hayward (So) 2011 CFM,3.6036035E-5,0.0,1.8018018E-5,1.8018018E-5,1.8018018E-5,3.6036035E-5,0.0
 637,Hayward (So) extension 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 167,Hector Mine,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 84,Helendale-So Lockhart,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -121,7 +121,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 228,Holser alt 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 723,Homestead Valley 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 704,Honey Lake 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-30,Hosgri,3.0487805E-5,0.0,0.0,0.0,0.0,3.0487805E-5,0.0
+30,Hosgri,1.8018018E-5,0.0,0.0,0.0,0.0,1.8018018E-5,0.0
 208,Hosgri (Extension),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 50,Hunter Mountain-Saline Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 677,Hunting Creek - Bartlett Springs connector 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -185,7 +185,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 130,Northridge,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 211,Northridge Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 116,Oak Ridge (Onshore),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-709,Oceanic - West Huasna,3.0487805E-5,0.0,0.0,0.0,0.0,3.0487805E-5,0.0
+709,Oceanic - West Huasna,1.8018018E-5,0.0,0.0,0.0,0.0,1.8018018E-5,0.0
 777,Oceanside alt1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 921,Ortigalita (North),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 9,Ortigalita (South),0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -219,26 +219,26 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 650,Rinconada 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 38,Robinson Creek,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 689,Rocky Ledge 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-651,Rodgers Creek - Healdsburg 2011 CFM,3.0487805E-5,0.0,3.0487805E-5,3.0487805E-5,3.0487805E-5,3.0487805E-5,0.0
+651,Rodgers Creek - Healdsburg 2011 CFM,3.6036035E-5,0.0,1.8018018E-5,1.8018018E-5,1.8018018E-5,3.6036035E-5,0.0
 123,Rose Canyon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 42,Round Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 690,Russ 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-287,San Andreas (Big Bend),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-300,San Andreas (Carrizo) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-285,San Andreas (Cholame) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+287,San Andreas (Big Bend),3.6036035E-5,0.0,0.0,0.0,1.8018018E-5,3.6036035E-5,3.6036035E-5
+300,San Andreas (Carrizo) rev,3.6036035E-5,0.0,0.0,0.0,1.8018018E-5,3.6036035E-5,3.6036035E-5
+285,San Andreas (Cholame) rev,3.6036035E-5,0.0,0.0,0.0,1.8018018E-5,3.6036035E-5,3.6036035E-5
 295,San Andreas (Coachella) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-658,San Andreas (Creeping Section) 2011 CFM,6.097561E-5,0.0,0.0,3.0487805E-5,6.097561E-5,6.097561E-5,3.0487805E-5
-286,San Andreas (Mojave N),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-301,San Andreas (Mojave S),0.0,0.0,0.0,0.0,0.0,0.0,0.0
+658,San Andreas (Creeping Section) 2011 CFM,1.08108106E-4,0.0,1.8018018E-5,3.6036035E-5,7.207207E-5,1.08108106E-4,9.009009E-5
+286,San Andreas (Mojave N),3.6036035E-5,0.0,0.0,0.0,1.8018018E-5,3.6036035E-5,3.6036035E-5
+301,San Andreas (Mojave S),3.6036035E-5,0.0,0.0,0.0,1.8018018E-5,3.6036035E-5,3.6036035E-5
 294,San Andreas (North Branch Mill Creek),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-654,San Andreas (North Coast) 2011 CFM,3.0487805E-5,0.0,0.0,0.0,0.0,3.0487805E-5,0.0
+654,San Andreas (North Coast) 2011 CFM,1.8018018E-5,0.0,0.0,0.0,0.0,1.8018018E-5,0.0
 653,San Andreas (Offshore) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-32,San Andreas (Parkfield),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-655,San Andreas (Peninsula) 2011 CFM,6.097561E-5,0.0,0.0,3.0487805E-5,6.097561E-5,6.097561E-5,3.0487805E-5
-282,San Andreas (San Bernardino N),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-283,San Andreas (San Bernardino S),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-284,San Andreas (San Gorgonio Pass-Garnet HIll),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-657,San Andreas (Santa Cruz Mts) 2011 CFM,6.097561E-5,0.0,0.0,3.0487805E-5,6.097561E-5,6.097561E-5,3.0487805E-5
+32,San Andreas (Parkfield),3.6036035E-5,0.0,0.0,0.0,1.8018018E-5,3.6036035E-5,3.6036035E-5
+655,San Andreas (Peninsula) 2011 CFM,9.009009E-5,0.0,1.8018018E-5,3.6036035E-5,5.4054053E-5,9.009009E-5,7.207207E-5
+282,San Andreas (San Bernardino N),3.6036035E-5,0.0,0.0,0.0,1.8018018E-5,3.6036035E-5,3.6036035E-5
+283,San Andreas (San Bernardino S),3.6036035E-5,0.0,0.0,0.0,1.8018018E-5,3.6036035E-5,3.6036035E-5
+284,San Andreas (San Gorgonio Pass-Garnet HIll),1.8018018E-5,0.0,0.0,0.0,1.8018018E-5,1.8018018E-5,1.8018018E-5
+657,San Andreas (Santa Cruz Mts) 2011 CFM,9.009009E-5,0.0,1.8018018E-5,3.6036035E-5,5.4054053E-5,9.009009E-5,7.207207E-5
 80,San Cayetano,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 178,San Clemente,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 774,San Diego Trough north alt1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -246,8 +246,8 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 247,San Gabriel,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 248,San Gabriel (Extension),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 194,San Gorgonio Pass,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-660,San Gregorio (North) 2011 CFM,3.0487805E-5,0.0,0.0,0.0,0.0,3.0487805E-5,0.0
-661,San Gregorio (South) 2011 CFM,3.0487805E-5,0.0,0.0,0.0,0.0,3.0487805E-5,0.0
+660,San Gregorio (North) 2011 CFM,1.8018018E-5,0.0,0.0,0.0,0.0,1.8018018E-5,0.0
+661,San Gregorio (South) 2011 CFM,1.8018018E-5,0.0,0.0,0.0,0.0,1.8018018E-5,0.0
 293,San Jacinto (Anza) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 99,San Jacinto (Borrego),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 292,San Jacinto (Clark) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -303,7 +303,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 117,Ventura-Pitas Point,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 112,Verdugo,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 696,Walker Spring 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-665,West Napa 2011 CFM,3.0487805E-5,0.0,0.0,0.0,3.0487805E-5,3.0487805E-5,0.0
+665,West Napa 2011 CFM,1.8018018E-5,0.0,0.0,0.0,1.8018018E-5,1.8018018E-5,0.0
 321,West Tahoe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 44,White Mountains,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 253,White Wolf,0.0,0.0,0.0,0.0,0.0,0.0,0.0
