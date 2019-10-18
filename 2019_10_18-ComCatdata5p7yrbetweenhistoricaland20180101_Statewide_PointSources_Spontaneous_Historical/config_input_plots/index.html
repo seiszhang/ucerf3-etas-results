@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+	border-collapse: collapse
+}
+table, th, td {
+	border: 1px solid black
+}
+body {
+	max-width:1000px;
+	margin: auto;
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+</style>
+</head>
+<body>
+<h1 id="etas-configuration-for-comcat-data-57-yr-between-historical-and-2018-01-01-statewide-point-sources-spontaneous-historical-catalog">ETAS Configuration for ComCat data 5.7 yr between historical and 2018-01-01, Statewide, Point Sources, Spontaneous, Historical Catalog</h1>
+<table>
+<thead>
+<tr><th></th><th>ComCat data 5.7 yr between historical and 2018-01-01, Statewide, Point Sources, Spontaneous, Historical Catalog</th></tr>
+</thead>
+<tbody>
+<tr><td>Num Simulations</td><td>10000</td></tr>
+<tr><td>Start Time</td><td>2018/01/01 00:00:01 UTC</td></tr>
+<tr><td>Start Time Epoch Milliseconds</td><td>1514764801000</td></tr>
+<tr><td>Duration</td><td>10 Years</td></tr>
+<tr><td>Includes Spontaneous?</td><td>true</td></tr>
+<tr><td>Trigger Ruptures</td><td>6246 Trigger Ruptures</td></tr>
+<tr><td></td><td>First: M2.54 at 2012/04/24 19:45:59 UTC</td></tr>
+<tr><td></td><td>Last: M2.6 at 2017/12/31 14:29:31 UTC</td></tr>
+<tr><td></td><td>Largest: M6.8 at 2014/03/10 05:18:13 UTC</td></tr>
+<tr><td>Historical Ruptures</td><td>60415 Trigger Ruptures</td></tr>
+<tr><td></td><td>First: M7.3 at 1852/01/05 04:40:39 UTC</td></tr>
+<tr><td></td><td>Last: M3.31 at 2012/04/24 19:44:09 UTC</td></tr>
+<tr><td></td><td>Largest: M7.9 at 1857/01/09 16:25:39 UTC</td></tr>
+<tr><td>Config Generated With</td><td>u3etas_comcat_config_builder.sh --start-after-historical --end-date 2018-01-01 --historical-catalog --include-spontaneous --num-simulations 10000 --finite-surf-shakemap --finite-surf-shakemap-min-mag 6 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec</td></tr>
+</tbody>
+</table>
+<h2 id="table-of-contents">Table Of Contents</h2>
+<ul>
+<li><a href="#trigger-rupture-fault-map">Trigger Rupture Fault Map</a></li>
+<li><a href="#nc72182046-possible-finite-rupture-subsection-mappings">nc72182046 Possible Finite Rupture Subsection Mappings</a></li>
+<li><a href="#nc72282711-possible-finite-rupture-subsection-mappings">nc72282711 Possible Finite Rupture Subsection Mappings</a></li>
+<li><a href="#json-input-file">JSON Input File</a></li>
+</ul>
+<h2 id="trigger-rupture-fault-map">Trigger Rupture Fault Map</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><img src="./trigger_rup_fault_map.png" alt="Map" /></p>
+<h2 id="nc72182046-possible-finite-rupture-subsection-mappings">nc72182046 Possible Finite Rupture Subsection Mappings</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>This gives any possible finite rupture surface subsection mappings. In the plot below, potentially suggested subsections are outlined in green, and all subsections for which any of this rupture is within the fault polygon are in gray. Suggested sections are those for which the area of the input rupture within the polygon is at least 50.0 % of the sub section area</p>
+<p>Overlapping polygons are removed according to the mean distance of the actual subsection surface, with the polygons of closer sections masking out the polygons of further sections</p>
+<p>As this is a point source, there will be no matches, but sections within 25km will be listed</p>
+<p><img src="./finite_rup_subsection_mappings_nc72182046.png" alt="Map" /></p>
+<table>
+<thead>
+<tr><th>Section Index</th><th>Section Name</th><th>Suggested Match?</th><th>Section Area</th><th>Sect Distance To Rup</th><th>Hypocenter in Polygon?</th></tr>
+</thead>
+<tbody></tbody>
+</table>
+<h2 id="nc72282711-possible-finite-rupture-subsection-mappings">nc72282711 Possible Finite Rupture Subsection Mappings</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>This gives any possible finite rupture surface subsection mappings. In the plot below, potentially suggested subsections are outlined in green, and all subsections for which any of this rupture is within the fault polygon are in gray. Suggested sections are those for which the area of the input rupture within the polygon is at least 50.0 % of the sub section area</p>
+<p>Overlapping polygons are removed according to the mean distance of the actual subsection surface, with the polygons of closer sections masking out the polygons of further sections</p>
+<p>As this is a point source, there will be no matches, but sections within 25km will be listed</p>
+<p><img src="./finite_rup_subsection_mappings_nc72282711.png" alt="Map" /></p>
+<table>
+<thead>
+<tr><th>Section Index</th><th>Section Name</th><th>Suggested Match?</th><th>Section Area</th><th>Sect Distance To Rup</th><th>Hypocenter in Polygon?</th></tr>
+</thead>
+<tbody>
+<tr><td>90</td><td>Bennett Valley 2011 CFM, Subsection 0</td><td>no</td><td>42.62</td><td>mean=16.84 [13.83 20.28] [km]</td><td>no</td></tr>
+<tr><td>91</td><td>Bennett Valley 2011 CFM, Subsection 1</td><td>no</td><td>42.62</td><td>mean=20.46 [17.4 23.88] [km]</td><td>no</td></tr>
+<tr><td>92</td><td>Bennett Valley 2011 CFM, Subsection 2</td><td>no</td><td>42.62</td><td>mean=24.24 [21.42 27.41] [km]</td><td>no</td></tr>
+<tr><td>351</td><td>Contra Costa Shear Zone (connector) 2011 CFM, Subsection 0</td><td>no</td><td>70.54</td><td>mean=13.01 [8.77 17.98] [km]</td><td>no</td></tr>
+<tr><td>352</td><td>Contra Costa Shear Zone (connector) 2011 CFM, Subsection 1</td><td>no</td><td>70.54</td><td>mean=18.62 [14.77 23.13] [km]</td><td>no</td></tr>
+<tr><td>353</td><td>Contra Costa Shear Zone (connector) 2011 CFM, Subsection 2</td><td>no</td><td>70.54</td><td>mean=24.37 [20.73 28.59] [km]</td><td>no</td></tr>
+<tr><td>583</td><td>Franklin 2011 CFM, Subsection 3</td><td>no</td><td>75.29</td><td>mean=26.5 [23.01 30.55] [km]</td><td>no</td></tr>
+<tr><td>584</td><td>Franklin 2011 CFM, Subsection 4</td><td>no</td><td>75.29</td><td>mean=20.53 [16.95 24.71] [km]</td><td>no</td></tr>
+<tr><td>585</td><td>Franklin 2011 CFM, Subsection 5</td><td>no</td><td>75.29</td><td>mean=14.63 [10.7 19.29] [km]</td><td>no</td></tr>
+<tr><td>707</td><td>Great Valley 04b Gordon Valley, Subsection 1</td><td>no</td><td>93.69</td><td>mean=28.67 [21.76 35.74] [km]</td><td>no</td></tr>
+<tr><td>708</td><td>Great Valley 04b Gordon Valley, Subsection 2</td><td>no</td><td>93.69</td><td>mean=25.98 [19.44 32.49] [km]</td><td>no</td></tr>
+<tr><td>709</td><td>Great Valley 04b Gordon Valley, Subsection 3</td><td>no</td><td>93.69</td><td>mean=25.24 [19.18 31.59] [km]</td><td>no</td></tr>
+<tr><td>775</td><td>Green Valley 2011 CFM, Subsection 0</td><td>no</td><td>34.59</td><td>mean=20.56 [18.07 23.25] [km]</td><td>no</td></tr>
+<tr><td>776</td><td>Green Valley 2011 CFM, Subsection 1</td><td>no</td><td>34.59</td><td>mean=16.09 [14.09 18.41] [km]</td><td>no</td></tr>
+<tr><td>777</td><td>Green Valley 2011 CFM, Subsection 2</td><td>no</td><td>34.59</td><td>mean=13.07 [12.09 14.58] [km]</td><td>no</td></tr>
+<tr><td>778</td><td>Green Valley 2011 CFM, Subsection 3</td><td>no</td><td>16.93</td><td>mean=12.41 [12.03 13.19] [km]</td><td>no</td></tr>
+<tr><td>779</td><td>Green Valley 2011 CFM, Subsection 4</td><td>no</td><td>8.65</td><td>mean=14.7 [13.11 16.54] [km]</td><td>no</td></tr>
+<tr><td>780</td><td>Green Valley 2011 CFM, Subsection 5</td><td>no</td><td>9.98</td><td>mean=19.04 [16.61 21.51] [km]</td><td>no</td></tr>
+<tr><td>781</td><td>Green Valley 2011 CFM, Subsection 6</td><td>no</td><td>30.26</td><td>mean=24.1 [21.53 26.79] [km]</td><td>no</td></tr>
+<tr><td>823</td><td>Hayward (No) 2011 CFM, Subsection 5</td><td>no</td><td>47.83</td><td>mean=24.24 [21.49 27.34] [km]</td><td>no</td></tr>
+<tr><td>824</td><td>Hayward (No) 2011 CFM, Subsection 6</td><td>no</td><td>48.31</td><td>mean=20.88 [18.3 23.89] [km]</td><td>no</td></tr>
+<tr><td>825</td><td>Hayward (No) 2011 CFM, Subsection 7</td><td>no</td><td>53.81</td><td>mean=18.31 [15.53 21.69] [km]</td><td>no</td></tr>
+<tr><td>826</td><td>Hayward (No) 2011 CFM, Subsection 8</td><td>no</td><td>56.64</td><td>mean=16.09 [13.2 19.82] [km]</td><td>no</td></tr>
+<tr><td>827</td><td>Hayward (No) 2011 CFM, Subsection 9</td><td>no</td><td>56.8</td><td>mean=14.8 [12.66 18.06] [km]</td><td>no</td></tr>
+<tr><td>952</td><td>Hunting Creek - Berryessa 2011 CFM, Subsection 0</td><td>no</td><td>34.02</td><td>mean=25.92 [23.59 28.5] [km]</td><td>no</td></tr>
+<tr><td>1723</td><td>Rodgers Creek - Healdsburg 2011 CFM, Subsection 0</td><td>no</td><td>61.57</td><td>mean=13.33 [9.79 17.55] [km]</td><td>no</td></tr>
+<tr><td>1724</td><td>Rodgers Creek - Healdsburg 2011 CFM, Subsection 1</td><td>no</td><td>65.11</td><td>mean=16.79 [12.92 21.23] [km]</td><td>no</td></tr>
+<tr><td>1725</td><td>Rodgers Creek - Healdsburg 2011 CFM, Subsection 2</td><td>no</td><td>67.07</td><td>mean=21.21 [17.19 25.72] [km]</td><td>no</td></tr>
+<tr><td>1726</td><td>Rodgers Creek - Healdsburg 2011 CFM, Subsection 3</td><td>no</td><td>68.82</td><td>mean=26.23 [22.22 30.75] [km]</td><td>no</td></tr>
+<tr><td>2537</td><td>West Napa 2011 CFM, Subsection 1</td><td>no</td><td>85.21</td><td>mean=27.07 [23.36 31.51] [km]</td><td>no</td></tr>
+<tr><td>2538</td><td>West Napa 2011 CFM, Subsection 2</td><td>no</td><td>84.69</td><td>mean=21.04 [17.14 25.79] [km]</td><td>no</td></tr>
+<tr><td>2539</td><td>West Napa 2011 CFM, Subsection 3</td><td>no</td><td>82.66</td><td>mean=15.25 [11.01 20.26] [km]</td><td>no</td></tr>
+<tr><td>2540</td><td>West Napa 2011 CFM, Subsection 4</td><td>no</td><td>84.64</td><td>mean=9.92 [4.86 15.92] [km]</td><td>no</td></tr>
+<tr><td>2541</td><td>West Napa 2011 CFM, Subsection 5</td><td>no</td><td>85.21</td><td>mean=5.9 [0.68 12.51] [km]</td><td><em>yes</em></td></tr>
+<tr><td>2542</td><td>West Napa 2011 CFM, Subsection 6</td><td>no</td><td>85.21</td><td>mean=7.36 [1.7 13.68] [km]</td><td>no</td></tr>
+</tbody>
+</table>
+<h2 id="json-input-file">JSON Input File</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<pre><code>{
+  &quot;numSimulations&quot;: 10000,
+  &quot;duration&quot;: 10.0,
+  &quot;startTimeMillis&quot;: 1514764801000,
+  &quot;includeSpontaneous&quot;: true,
+  &quot;randomSeed&quot;: 1571427657409,
+  &quot;binaryOutput&quot;: true,
+  &quot;binaryOutputFilters&quot;: [
+    {
+      &quot;prefix&quot;: &quot;results_complete&quot;,
+      &quot;descendantsOnly&quot;: false
+    },
+    {
+      &quot;prefix&quot;: &quot;results_m5_preserve_chain&quot;,
+      &quot;minMag&quot;: 5.0,
+      &quot;preserveChainBelowMag&quot;: true,
+      &quot;descendantsOnly&quot;: false
+    },
+    {
+      &quot;prefix&quot;: &quot;results_triggered_descendants&quot;,
+      &quot;descendantsOnly&quot;: true
+    }
+  ],
+  &quot;forceRecalc&quot;: false,
+  &quot;simulationName&quot;: &quot;ComCat data 5.7 yr between historical and 2018-01-01, Statewide, Point Sources, Spontaneous, Historical Catalog&quot;,
+  &quot;numRetries&quot;: 3,
+  &quot;outputDir&quot;: &quot;${ETAS_SIM_DIR}/2019_10_18-ComCatdata5p7yrbetweenhistoricaland20180101_Statewide_PointSources_Spontaneous_Historical&quot;,
+  &quot;triggerCatalog&quot;: &quot;${ETAS_LAUNCHER}/inputs/u3_historical_catalog.txt&quot;,
+  &quot;triggerCatalogSurfaceMappings&quot;: &quot;${ETAS_LAUNCHER}/inputs/u3_historical_catalog_finite_fault_mappings.xml&quot;,
+  &quot;treatTriggerCatalogAsSpontaneous&quot;: true,
+  &quot;triggerRuptures&quot;: [
+    &quot;omitted due to length, see original input file&quot;
+  ],
+  &quot;cacheDir&quot;: &quot;${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba&quot;,
+  &quot;fssFile&quot;: &quot;${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip&quot;,
+  &quot;probModel&quot;: &quot;FULL_TD&quot;,
+  &quot;applySubSeisForSupraNucl&quot;: true,
+  &quot;totRateScaleFactor&quot;: 1.14,
+  &quot;gridSeisCorr&quot;: true,
+  &quot;timeIndependentERF&quot;: false,
+  &quot;griddedOnly&quot;: false,
+  &quot;imposeGR&quot;: false,
+  &quot;includeIndirectTriggering&quot;: true,
+  &quot;gridSeisDiscr&quot;: 0.1,
+  &quot;catalogCompletenessModel&quot;: &quot;RELAXED&quot;,
+  &quot;configCommand&quot;: &quot;u3etas_comcat_config_builder.sh --start-after-historical --end-date 2018-01-01 --historical-catalog --include-spontaneous --num-simulations 10000 --finite-surf-shakemap --finite-surf-shakemap-min-mag 6 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec&quot;,
+  &quot;configTime&quot;: 1571427657409,
+  &quot;comcatMetadata&quot;: {
+    &quot;region&quot;: {
+      &quot;border&quot;: [
+        {
+          &quot;latitude&quot;: 43.0,
+          &quot;longitude&quot;: -125.2
+        },
+        {
+          &quot;latitude&quot;: 43.0,
+          &quot;longitude&quot;: -119.0
+        },
+        {
+          &quot;latitude&quot;: 39.4,
+          &quot;longitude&quot;: -119.0
+        },
+        {
+          &quot;latitude&quot;: 35.7,
+          &quot;longitude&quot;: -114.00000000000001
+        },
+        {
+          &quot;latitude&quot;: 34.3,
+          &quot;longitude&quot;: -113.1
+        },
+        {
+          &quot;latitude&quot;: 32.9,
+          &quot;longitude&quot;: -113.5
+        },
+        {
+          &quot;latitude&quot;: 32.2,
+          &quot;longitude&quot;: -113.6
+        },
+        {
+          &quot;latitude&quot;: 31.7,
+          &quot;longitude&quot;: -114.5
+        },
+        {
+          &quot;latitude&quot;: 31.5,
+          &quot;longitude&quot;: -117.1
+        },
+        {
+          &quot;latitude&quot;: 31.900000000000002,
+          &quot;longitude&quot;: -117.90000000000002
+        },
+        {
+          &quot;latitude&quot;: 32.8,
+          &quot;longitude&quot;: -118.40000000000002
+        },
+        {
+          &quot;latitude&quot;: 33.7,
+          &quot;longitude&quot;: -121.0
+        },
+        {
+          &quot;latitude&quot;: 34.2,
+          &quot;longitude&quot;: -121.6
+        },
+        {
+          &quot;latitude&quot;: 37.7,
+          &quot;longitude&quot;: -123.80000000000001
+        },
+        {
+          &quot;latitude&quot;: 40.2,
+          &quot;longitude&quot;: -125.4
+        },
+        {
+          &quot;latitude&quot;: 40.5,
+          &quot;longitude&quot;: -125.4
+        }
+      ]
+    },
+    &quot;minDepth&quot;: -10.0,
+    &quot;maxDepth&quot;: 24.0,
+    &quot;minMag&quot;: 2.5,
+    &quot;startTime&quot;: 1335296660000,
+    &quot;endTime&quot;: 1514764800000
+  }
+}
+</code></pre>
+</body>
+</html>
