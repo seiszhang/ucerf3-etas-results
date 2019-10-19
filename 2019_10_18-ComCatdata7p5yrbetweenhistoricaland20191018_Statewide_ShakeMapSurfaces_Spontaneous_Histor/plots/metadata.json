@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1571484795853,
-  "plotEndTime": 1571484927246,
+  "plotStartTime": 1571488395098,
+  "plotEndTime": 1571488532287,
   "simulationsProcessed": 10000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_10_18-ComCatdata7p5yrbetweenhistoricaland20191018_Statewide_ShakeMapSurfaces_Spontaneous_Histor/results_triggered_descendants.bin"
@@ -1215,14 +1215,14 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 15,
-      "time": 1571484795853,
+      "time": 1571488395098,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.",
         "",
-        "Last updated at 2019/10/19 11:33:45 UTC, 16.2 hr after the simulation start time",
+        "Last updated at 2019/10/19 12:33:43 UTC, 17.2 hr after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
@@ -1253,7 +1253,7 @@
         "### ComCat Probability Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | Current (16.2 Hour) |",
+        "|  | Current (17.2 Hour) |",
         "|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_prob_current_td_mc.png) |",
         "| **M\u0026ge;3.8** | ![Map](plots/comcat_compare_prob_current_m3.8.png) |",
@@ -1266,7 +1266,7 @@
         "### ComCat Mean Expectation Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | Current (16.2 Hour) |",
+        "|  | Current (17.2 Hour) |",
         "|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_mean_current_td_mc.png) |",
         "| **M\u0026ge;3.8** | ![Map](plots/comcat_compare_mean_current_m3.8.png) |",
