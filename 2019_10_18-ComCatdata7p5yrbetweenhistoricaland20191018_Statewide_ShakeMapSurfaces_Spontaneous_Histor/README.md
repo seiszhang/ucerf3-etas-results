@@ -49,6 +49,13 @@
 * [Trigger Rupture Fault Map](#trigger-rupture-fault-map)
 * [Individual Simulated Catalog Maps](#individual-simulated-catalog-maps)
 * [ComCat Data Comparisons](#comcat-data-comparisons)
+  * [ComCat Magnitude-Number Distributions](#comcat-magnitude-number-distributions)
+  * [ComCat Time-Dependent Mc](#comcat-time-dependent-mc)
+  * [ComCat Cumulative Number Vs Time](#comcat-cumulative-number-vs-time)
+  * [ComCat Cumulative Number Simulation Percentiles](#comcat-cumulative-number-simulation-percentiles)
+  * [ComCat Probability Spatial Distribution](#comcat-probability-spatial-distribution)
+  * [ComCat Mean Expectation Spatial Distribution](#comcat-mean-expectation-spatial-distribution)
+  * [ComCat Depth Distribution](#comcat-depth-distribution)
 * [Section Participation](#section-participation)
   * [Section Participation Plots](#section-participation-plots)
   * [Supra-Seismogenic Parent Sections Table](#supra-seismogenic-parent-sections-table)
@@ -1243,7 +1250,68 @@ These are map plots of individual catalogs from the simulations, selected as the
 ## ComCat Data Comparisons
 *[(top)](#table-of-contents)*
 
-No ComCat events found
+These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.
+
+Last updated at 2019/10/19 01:35:46 UTC, 6.2 hr after the simulation start time
+
+### ComCat Magnitude-Number Distributions
+*[(top)](#table-of-contents)*
+
+| Incremental MND | Cumulative MND |
+|-----|-----|
+| ![Incremental MND](plots/comcat_compare_mag_num.png) | ![Cumi MND](plots/comcat_compare_mag_num_cumulative.png) |
+
+### ComCat Time-Dependent Mc
+*[(top)](#table-of-contents)*
+
+The following plots compare simulation results with ComCat data above a magnitude threshold. Plots labeled as *M&ge;Mc(t)* use the time-dependent magnitude of completeness (Mc) defined in Helmstetter et al. (2006), which is plotted below. In the case of multiple M&ge;5 ruptures, either as input to the simulation or in the comparison data, the maximum calculated time-dependent Mc is used. This time-dependent Mc function is plotted below.
+
+![TD MC](plots/comcat_compare_td_mc.png)
+
+### ComCat Cumulative Number Vs Time
+*[(top)](#table-of-contents)*
+
+| M&ge;Mc(t) | M&ge;3.8 | M&ge;4 | M&ge;5 |
+|-----|-----|-----|-----|
+| ![MND](plots/comcat_compare_cumulative_num_td_mc.png) | ![MND](plots/comcat_compare_cumulative_num_m3.8.png) | ![MND](plots/comcat_compare_cumulative_num_m4.png) | ![MND](plots/comcat_compare_cumulative_num_m5.png) |
+
+### ComCat Cumulative Number Simulation Percentiles
+*[(top)](#table-of-contents)*
+
+![MND](plots/comcat_compare_cumulative_num_percentile.png)
+
+### ComCat Probability Spatial Distribution
+*[(top)](#table-of-contents)*
+
+|  | Current (6.2 Hour) |
+|-----|-----|
+| **M&ge;Mc(t)** | ![Map](plots/comcat_compare_prob_current_td_mc.png) |
+| **M&ge;3.8** | ![Map](plots/comcat_compare_prob_current_m3.8.png) |
+| **M&ge;4** | ![Map](plots/comcat_compare_prob_current_m4.png) |
+| **M&ge;5** | ![Map](plots/comcat_compare_prob_current_m5.png) |
+| **M&ge;6** | ![Map](plots/comcat_compare_prob_current_m6.png) |
+| **M&ge;7** | ![Map](plots/comcat_compare_prob_current_m7.png) |
+| **M&ge;8** | ![Map](plots/comcat_compare_prob_current_m8.png) |
+
+### ComCat Mean Expectation Spatial Distribution
+*[(top)](#table-of-contents)*
+
+|  | Current (6.2 Hour) |
+|-----|-----|
+| **M&ge;Mc(t)** | ![Map](plots/comcat_compare_mean_current_td_mc.png) |
+| **M&ge;3.8** | ![Map](plots/comcat_compare_mean_current_m3.8.png) |
+| **M&ge;4** | ![Map](plots/comcat_compare_mean_current_m4.png) |
+| **M&ge;5** | ![Map](plots/comcat_compare_mean_current_m5.png) |
+| **M&ge;6** | ![Map](plots/comcat_compare_mean_current_m6.png) |
+| **M&ge;7** | ![Map](plots/comcat_compare_mean_current_m7.png) |
+| **M&ge;8** | ![Map](plots/comcat_compare_mean_current_m8.png) |
+
+### ComCat Depth Distribution
+*[(top)](#table-of-contents)*
+
+| M&ge;Mc(t) | M&ge;3.8 | M&ge;4 | M&ge;5 | M&ge;6 | M&ge;7 | M&ge;8 |
+|-----|-----|-----|-----|-----|-----|-----|
+| ![Depth Distribution](plots/comcat_compare_depth_td_mc.png) | ![Depth Distribution](plots/comcat_compare_depth_m3.8.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.png) | ![Depth Distribution](plots/comcat_compare_depth_m6.png) | ![Depth Distribution](plots/comcat_compare_depth_m7.png) | ![Depth Distribution](plots/comcat_compare_depth_m8.png) |
 
 ## Section Participation
 *[(top)](#table-of-contents)*

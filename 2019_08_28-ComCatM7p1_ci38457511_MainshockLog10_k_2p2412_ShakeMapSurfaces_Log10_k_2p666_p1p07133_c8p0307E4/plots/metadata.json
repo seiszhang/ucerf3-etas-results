@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1571266475386,
-  "plotEndTime": 1571266498783,
+  "plotStartTime": 1571449739268,
+  "plotEndTime": 1571449759428,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_08_28-ComCatM7p1_ci38457511_MainshockLog10_k_2p2412_ShakeMapSurfaces_Log10_k_2p666_p1p07133_c8p0307E4/results_complete.bin"
   },
-  "launcherGitHash": "a554664cb67c20bd22838aac531dc91eec73c1bb",
-  "launcherGitTime": 1571264666000,
+  "launcherGitHash": "d3fefa7a9f92eebc17ebb29702defe8ca3bcef5c",
+  "launcherGitTime": 1571430583000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
