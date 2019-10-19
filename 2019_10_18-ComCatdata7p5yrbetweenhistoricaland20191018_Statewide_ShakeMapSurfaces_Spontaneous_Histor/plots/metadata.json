@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1571502795724,
-  "plotEndTime": 1571502937337,
+  "plotStartTime": 1571506394655,
+  "plotEndTime": 1571506538996,
   "simulationsProcessed": 10000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_10_18-ComCatdata7p5yrbetweenhistoricaland20191018_Statewide_ShakeMapSurfaces_Spontaneous_Histor/results_triggered_descendants.bin"
@@ -1215,14 +1215,14 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 15,
-      "time": 1571502795724,
+      "time": 1571506394655,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.",
         "",
-        "Last updated at 2019/10/19 16:33:44 UTC, 21.2 hr after the simulation start time",
+        "Last updated at 2019/10/19 17:33:43 UTC, 22.2 hr after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
@@ -1241,9 +1241,9 @@
         "### ComCat Cumulative Number Vs Time",
         "*[(top)](#table-of-contents)*",
         "",
-        "| M\u0026ge;Mc(t) | M\u0026ge;3.3 | M\u0026ge;4 | M\u0026ge;5 |",
+        "| M\u0026ge;Mc(t) | M\u0026ge;3.2 | M\u0026ge;4 | M\u0026ge;5 |",
         "|-----|-----|-----|-----|",
-        "| ![MND](plots/comcat_compare_cumulative_num_td_mc.png) | ![MND](plots/comcat_compare_cumulative_num_m3.3.png) | ![MND](plots/comcat_compare_cumulative_num_m4.png) | ![MND](plots/comcat_compare_cumulative_num_m5.png) |",
+        "| ![MND](plots/comcat_compare_cumulative_num_td_mc.png) | ![MND](plots/comcat_compare_cumulative_num_m3.2.png) | ![MND](plots/comcat_compare_cumulative_num_m4.png) | ![MND](plots/comcat_compare_cumulative_num_m5.png) |",
         "",
         "### ComCat Cumulative Number Simulation Percentiles",
         "*[(top)](#table-of-contents)*",
@@ -1253,10 +1253,10 @@
         "### ComCat Probability Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | Current (21.2 Hour) |",
+        "|  | Current (22.2 Hour) |",
         "|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_prob_current_td_mc.png) |",
-        "| **M\u0026ge;3.3** | ![Map](plots/comcat_compare_prob_current_m3.3.png) |",
+        "| **M\u0026ge;3.2** | ![Map](plots/comcat_compare_prob_current_m3.2.png) |",
         "| **M\u0026ge;4** | ![Map](plots/comcat_compare_prob_current_m4.png) |",
         "| **M\u0026ge;5** | ![Map](plots/comcat_compare_prob_current_m5.png) |",
         "| **M\u0026ge;6** | ![Map](plots/comcat_compare_prob_current_m6.png) |",
@@ -1266,10 +1266,10 @@
         "### ComCat Mean Expectation Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | Current (21.2 Hour) |",
+        "|  | Current (22.2 Hour) |",
         "|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_mean_current_td_mc.png) |",
-        "| **M\u0026ge;3.3** | ![Map](plots/comcat_compare_mean_current_m3.3.png) |",
+        "| **M\u0026ge;3.2** | ![Map](plots/comcat_compare_mean_current_m3.2.png) |",
         "| **M\u0026ge;4** | ![Map](plots/comcat_compare_mean_current_m4.png) |",
         "| **M\u0026ge;5** | ![Map](plots/comcat_compare_mean_current_m5.png) |",
         "| **M\u0026ge;6** | ![Map](plots/comcat_compare_mean_current_m6.png) |",
@@ -1279,9 +1279,9 @@
         "### ComCat Depth Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "| M\u0026ge;Mc(t) | M\u0026ge;3.3 | M\u0026ge;4 | M\u0026ge;5 | M\u0026ge;6 | M\u0026ge;7 | M\u0026ge;8 |",
+        "| M\u0026ge;Mc(t) | M\u0026ge;3.2 | M\u0026ge;4 | M\u0026ge;5 | M\u0026ge;6 | M\u0026ge;7 | M\u0026ge;8 |",
         "|-----|-----|-----|-----|-----|-----|-----|",
-        "| ![Depth Distribution](plots/comcat_compare_depth_td_mc.png) | ![Depth Distribution](plots/comcat_compare_depth_m3.3.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.png) | ![Depth Distribution](plots/comcat_compare_depth_m6.png) | ![Depth Distribution](plots/comcat_compare_depth_m7.png) | ![Depth Distribution](plots/comcat_compare_depth_m8.png) |"
+        "| ![Depth Distribution](plots/comcat_compare_depth_td_mc.png) | ![Depth Distribution](plots/comcat_compare_depth_m3.2.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.png) | ![Depth Distribution](plots/comcat_compare_depth_m6.png) | ![Depth Distribution](plots/comcat_compare_depth_m7.png) | ![Depth Distribution](plots/comcat_compare_depth_m8.png) |"
       ]
     },
     {
