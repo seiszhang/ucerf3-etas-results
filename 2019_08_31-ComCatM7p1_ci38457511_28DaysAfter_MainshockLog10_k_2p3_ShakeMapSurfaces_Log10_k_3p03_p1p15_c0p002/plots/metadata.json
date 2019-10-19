@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1571449588659,
-  "plotEndTime": 1571449608238,
+  "plotStartTime": 1571528347187,
+  "plotEndTime": 1571528768538,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_08_31-ComCatM7p1_ci38457511_28DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/results_complete.bin"
@@ -673,14 +673,14 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 15,
-      "time": 1570919596243,
+      "time": 1571528347187,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.",
         "",
-        "Last updated at 2019/10/12 22:33:43 UTC, 70.8 d after the simulation start time",
+        "Last updated at 2019/10/19 23:39:35 UTC, 77.8 d after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
@@ -692,7 +692,7 @@
         "### ComCat Time-Dependent Mc",
         "*[(top)](#table-of-contents)*",
         "",
-        "The following plots compare simulation results with ComCat data above a magnitude threshold. Plots labeled as *M\u0026ge;Mc(t)* use the time-dependent magnitude of completeness (Mc) defined in Helmstetter et al. (2006), which is plotted below. In the case of multiple M\u0026ge5 ruptures, either as input to the simulation or in the comparison data, the maximum calculated time-dependent Mc is used. This time-dependent Mc function is plotted below.",
+        "The following plots compare simulation results with ComCat data above a magnitude threshold. Plots labeled as *M\u0026ge;Mc(t)* use the time-dependent magnitude of completeness (Mc) defined in Helmstetter et al. (2006), which is plotted below. In the case of multiple M\u0026ge;5 ruptures, either as input to the simulation or in the comparison data, the maximum calculated time-dependent Mc is used. This time-dependent Mc function is plotted below.",
         "",
         "![TD MC](plots/comcat_compare_td_mc.png)",
         "",
@@ -711,7 +711,7 @@
         "### ComCat Probability Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 1 Week | 1 Month | Current (70.8 Day) |",
+        "|  | 1 Day | 1 Week | 1 Month | Current (77.8 Day) |",
         "|-----|-----|-----|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_prob_1d_td_mc.png) | ![Map](plots/comcat_compare_prob_1wk_td_mc.png) | ![Map](plots/comcat_compare_prob_1mo_td_mc.png) | ![Map](plots/comcat_compare_prob_current_td_mc.png) |",
         "| **M\u0026ge;3.5** | ![Map](plots/comcat_compare_prob_1d_m3.5.png) | ![Map](plots/comcat_compare_prob_1wk_m3.5.png) | ![Map](plots/comcat_compare_prob_1mo_m3.5.png) | ![Map](plots/comcat_compare_prob_current_m3.5.png) |",
@@ -724,7 +724,7 @@
         "### ComCat Mean Expectation Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 1 Week | 1 Month | Current (70.8 Day) |",
+        "|  | 1 Day | 1 Week | 1 Month | Current (77.8 Day) |",
         "|-----|-----|-----|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_mean_1d_td_mc.png) | ![Map](plots/comcat_compare_mean_1wk_td_mc.png) | ![Map](plots/comcat_compare_mean_1mo_td_mc.png) | ![Map](plots/comcat_compare_mean_current_td_mc.png) |",
         "| **M\u0026ge;3.5** | ![Map](plots/comcat_compare_mean_1d_m3.5.png) | ![Map](plots/comcat_compare_mean_1wk_m3.5.png) | ![Map](plots/comcat_compare_mean_1mo_m3.5.png) | ![Map](plots/comcat_compare_mean_current_m3.5.png) |",
