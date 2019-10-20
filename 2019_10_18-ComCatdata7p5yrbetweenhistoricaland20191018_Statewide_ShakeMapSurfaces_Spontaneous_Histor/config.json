@@ -27,7 +27,7 @@
   "outputDir": "${ETAS_SIM_DIR}/2019_10_18-ComCatdata7p5yrbetweenhistoricaland20191018_Statewide_ShakeMapSurfaces_Spontaneous_Histor",
   "triggerCatalog": "${ETAS_LAUNCHER}/inputs/u3_historical_catalog.txt",
   "triggerCatalogSurfaceMappings": "${ETAS_LAUNCHER}/inputs/u3_historical_catalog_finite_fault_mappings.xml",
-  "treatTriggerCatalogAsSpontaneous": true,
+  "treatTriggerCatalogAsSpontaneous": false,
   "triggerRuptures": [
     {
       "occurrenceTimeMillis": 1335296759820,
