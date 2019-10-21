@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1571646801623,
-  "plotEndTime": 1571647155846,
+  "plotStartTime": 1571671994121,
+  "plotEndTime": 1571672336982,
   "simulationsProcessed": 10000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_10_18-ComCatdata7p5yrbetweenhistoricaland20191018_Statewide_ShakeMapSurfaces_Spontaneous_Histor/results_triggered_descendants.bin"
@@ -680,14 +680,14 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 15,
-      "time": 1571646801623,
+      "time": 1571671994121,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.",
         "",
-        "Last updated at 2019/10/21 08:34:08 UTC, 2.5 d after the simulation start time",
+        "Last updated at 2019/10/21 15:34:00 UTC, 2.8 d after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
@@ -718,7 +718,7 @@
         "### ComCat Probability Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | Current (2.5 Day) |",
+        "|  | 1 Day | Current (2.8 Day) |",
         "|-----|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_prob_1d_td_mc.png) | ![Map](plots/comcat_compare_prob_current_td_mc.png) |",
         "| **M\u0026ge;3.2** | ![Map](plots/comcat_compare_prob_1d_m3.2.png) | ![Map](plots/comcat_compare_prob_current_m3.2.png) |",
@@ -731,7 +731,7 @@
         "### ComCat Mean Expectation Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | Current (2.5 Day) |",
+        "|  | 1 Day | Current (2.8 Day) |",
         "|-----|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_mean_1d_td_mc.png) | ![Map](plots/comcat_compare_mean_current_td_mc.png) |",
         "| **M\u0026ge;3.2** | ![Map](plots/comcat_compare_mean_1d_m3.2.png) | ![Map](plots/comcat_compare_mean_current_m3.2.png) |",
