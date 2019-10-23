@@ -627,10 +627,10 @@ These plots show how the probability of ruptures of various magnitudes within 10
 
 | Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-ETAS/TD Gain | UCERF3-TI |
 |-----|-----|-----|-----|-----|-----|
-| 1 Hour | 1.10E-3 [1.01E-3 - 1.65E-3] | 1.00E-4 | 1.00E-3 | 1.1 | 9.87E-4 |
+| 1 Hour | 1.10E-3 [1.01E-3 - 1.65E-3] | 1.00E-4 | 1.00E-3 | 1.1 | 9.85E-4 |
 | 1 Day | 0.026 [0.025 - 0.027] | 1.90E-3 | 0.024 | 1.08 | 0.023 |
-| 1 Week | 0.164 [0.163 - 0.166] | 0.011 | 0.155 | 1.06 | 0.153 |
-| 1 Month | 0.531 [0.530 - 0.533] | 0.034 | 0.515 | 1.03 | 0.509 |
+| 1 Week | 0.164 [0.162 - 0.166] | 0.011 | 0.155 | 1.06 | 0.153 |
+| 1 Month | 0.530 [0.529 - 0.532] | 0.034 | 0.514 | 1.03 | 0.508 |
 | 1 Year | 1.000 [1.000 - 1.000] | 0.233 | 1.000 | 1 | 1.000 |
 | 10 Years | 1.000 [1.000 - 1.000] | 0.680 | 1.000 | 1 | 1.000 |
 | 30 Years | 1.000 [1.000 - 1.000] \* | \* | 1.000 | 1 \* | 1.000 |
@@ -644,11 +644,11 @@ These plots show how the probability of ruptures of various magnitudes within 10
 
 | Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-ETAS/TD Gain | UCERF3-TI |
 |-----|-----|-----|-----|-----|-----|
-| 1 Hour | 1.16E-4 [1.16E-4 - 5.95E-4] | 0.000 | 1.16E-4 | 1 | 1.00E-4 |
-| 1 Day | 3.29E-3 [2.97E-3 - 4.03E-3] | 5.00E-4 | 2.79E-3 | 1.18 | 2.41E-3 |
-| 1 Week | 0.022 [0.021 - 0.023] | 2.30E-3 | 0.019 | 1.12 | 0.017 |
-| 1 Month | 0.085 [0.084 - 0.087] | 5.40E-3 | 0.080 | 1.06 | 0.070 |
-| 1 Year | 0.653 [0.651 - 0.654] | 0.037 | 0.639 | 1.02 | 0.585 |
+| 1 Hour | 1.14E-4 [1.14E-4 - 5.92E-4] | 0.000 | 1.14E-4 | 1 | 9.90E-5 |
+| 1 Day | 3.22E-3 [2.91E-3 - 3.96E-3] | 5.00E-4 | 2.72E-3 | 1.18 | 2.37E-3 |
+| 1 Week | 0.021 [0.020 - 0.022] | 2.30E-3 | 0.019 | 1.12 | 0.016 |
+| 1 Month | 0.084 [0.082 - 0.085] | 5.40E-3 | 0.079 | 1.06 | 0.069 |
+| 1 Year | 0.644 [0.643 - 0.646] | 0.037 | 0.631 | 1.02 | 0.580 |
 | 10 Years | 1.000 [1.000 - 1.000] | 0.145 | 1.000 | 1 | 1.000 |
 | 30 Years | 1.000 [1.000 - 1.000] \* | \* | 1.000 | 1 \* | 1.000 |
 | 100 Years | 1.000 [1.000 - 1.000] \* | \* | 1.000 | 1 \* | 1.000 |
@@ -661,13 +661,13 @@ These plots show how the probability of ruptures of various magnitudes within 10
 
 | Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-ETAS/TD Gain | UCERF3-TI |
 |-----|-----|-----|-----|-----|-----|
-| 1 Hour | 1.17E-5 [1.17E-5 - 4.90E-4] | 0.000 | 1.17E-5 | 1 | 9.51E-6 |
-| 1 Day | 2.82E-4 [2.82E-4 - 7.60E-4] | 0.000 | 2.82E-4 | 1 | 2.28E-4 |
-| 1 Week | 2.27E-3 [2.05E-3 - 2.92E-3] | 3.00E-4 | 1.97E-3 | 1.15 | 1.60E-3 |
-| 1 Month | 9.31E-3 [8.85E-3 - 0.010] | 9.00E-4 | 8.41E-3 | 1.11 | 6.82E-3 |
-| 1 Year | 0.102 [0.101 - 0.104] | 4.80E-3 | 0.098 | 1.04 | 0.080 |
-| 10 Years | 0.647 [0.646 - 0.648] | 0.015 | 0.642 | 1.01 | 0.565 |
-| 30 Years | 0.953 [0.953 - 0.953] \* | \* | 0.953 | 1 \* | 0.918 |
+| 1 Hour | 1.17E-5 [1.17E-5 - 4.90E-4] | 0.000 | 1.17E-5 | 1 | 9.50E-6 |
+| 1 Day | 2.81E-4 [2.81E-4 - 7.60E-4] | 0.000 | 2.81E-4 | 1 | 2.28E-4 |
+| 1 Week | 2.27E-3 [2.04E-3 - 2.92E-3] | 3.00E-4 | 1.97E-3 | 1.15 | 1.59E-3 |
+| 1 Month | 9.29E-3 [8.84E-3 - 0.010] | 9.00E-4 | 8.40E-3 | 1.11 | 6.81E-3 |
+| 1 Year | 0.102 [0.101 - 0.103] | 4.80E-3 | 0.098 | 1.04 | 0.080 |
+| 10 Years | 0.647 [0.646 - 0.648] | 0.015 | 0.641 | 1.01 | 0.565 |
+| 30 Years | 0.953 [0.953 - 0.953] \* | \* | 0.952 | 1 \* | 0.918 |
 | 100 Years | 1.000 [1.000 - 1.000] \* | \* | 1.000 | 1 \* | 1.000 |
 
 \* *forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included*
@@ -711,7 +711,7 @@ These are map plots of individual catalogs from the simulations, selected as the
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.
 
-Last updated at 2019/10/20 17:34:02 UTC, 1.8 yr after the simulation start time
+Last updated at 2019/10/23 18:33:42 UTC, 1.8 yr after the simulation start time
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
