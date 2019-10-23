@@ -11,7 +11,7 @@
 |   | First: M3.98 at 2019/07/04 17:02:55 UTC |
 |   | Last: M7.1 at 2019/07/06 03:19:53 UTC |
 |   | Largest: M7.1 at 2019/07/06 03:19:53 UTC |
-| Historical Ruptures | *(none)* |
+| Trigger Ruptures | *(none)* |
 | Config Generated With | u3etas_comcat_event_config_builder.sh --event-id ci38457511 --num-simulations 100000 --days-before 7 --include-spontaneous --finite-surf-shakemap --finite-surf-shakemap-min-mag 5 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec |
 
 ## Table Of Contents
@@ -42,6 +42,7 @@
   * [M&ge;5.0 Hazard Change Over Time](#m50-hazard-change-over-time)
   * [M&ge;6.0 Hazard Change Over Time](#m60-hazard-change-over-time)
   * [M&ge;7.0 Hazard Change Over Time](#m70-hazard-change-over-time)
+  * [M&ge;8.0 Hazard Change Over Time](#m80-hazard-change-over-time)
 * [Trigger Rupture Fault Map](#trigger-rupture-fault-map)
 * [Trigger Rupture Depth Map](#trigger-rupture-depth-map)
 * [Fault Distances To Triggers](#fault-distances-to-triggers)
@@ -59,6 +60,8 @@
   * [Supra-Seismogenic Parent Sections Table](#supra-seismogenic-parent-sections-table)
   * [M≥6.5 Parent Sections Table](#m65-parent-sections-table)
   * [M≥7 Parent Sections Table](#m7-parent-sections-table)
+  * [M≥7.5 Parent Sections Table](#m75-parent-sections-table)
+  * [M≥8 Parent Sections Table](#m8-parent-sections-table)
   * [Fault Magnitude-Probability Distributions](#fault-magnitude-probability-distributions)
 * [Gridded Nucleation](#gridded-nucleation)
 * [JSON Input File](#json-input-file)
@@ -1164,12 +1167,12 @@ These plots show how the probability of ruptures of various magnitudes within 10
 
 | Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-ETAS/TD Gain | UCERF3-TI |
 |-----|-----|-----|-----|-----|-----|
-| 1 Hour | 9.14E-5 [7.48E-5 - 1.52E-4] | 2.00E-5 | 7.14E-5 | 1.28 | 7.09E-5 |
-| 1 Day | 1.91E-3 [1.84E-3 - 2.03E-3] | 2.00E-4 | 1.71E-3 | 1.12 | 1.70E-3 |
-| 1 Week | 0.013 [0.013 - 0.013] | 8.30E-4 | 0.012 | 1.07 | 0.012 |
-| 1 Month | 0.051 [0.051 - 0.052] | 1.35E-3 | 0.050 | 1.03 | 0.050 |
-| 1 Year | 0.466 [0.466 - 0.467] | 2.42E-3 | 0.465 | 1 | 0.463 |
-| 10 Years | 0.998 [0.998 - 0.998] | 3.44E-3 | 0.998 | 1 | 0.998 |
+| 1 Hour | 0.767 [0.765 - 0.770] | 0.767 | 2.97E-5 | 25860.04 | 2.94E-5 |
+| 1 Day | 0.976 [0.975 - 0.977] | 0.976 | 7.12E-4 | 1371.19 | 7.07E-4 |
+| 1 Week | 0.995 [0.994 - 0.995] | 0.995 | 4.97E-3 | 200.07 | 4.94E-3 |
+| 1 Month | 0.999 [0.998 - 0.999] | 0.999 | 0.021 | 47.24 | 0.021 |
+| 1 Year | 1.000 [1.000 - 1.000] | 1.000 | 0.229 | 4.37 | 0.228 |
+| 10 Years | 1.000 [1.000 - 1.000] | 1.000 | 0.926 | 1.08 | 0.924 |
 | 30 Years | 1.000 [1.000 - 1.000] \* | \* | 1.000 | 1 \* | 1.000 |
 | 100 Years | 1.000 [1.000 - 1.000] \* | \* | 1.000 | 1 \* | 1.000 |
 
@@ -1181,14 +1184,14 @@ These plots show how the probability of ruptures of various magnitudes within 10
 
 | Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-ETAS/TD Gain | UCERF3-TI |
 |-----|-----|-----|-----|-----|-----|
-| 1 Hour | 7.85E-6 [7.85E-6 - 5.57E-5] | 0.000 | 7.85E-6 | 1 | 7.36E-6 |
-| 1 Day | 2.38E-4 [2.07E-4 - 3.12E-4] | 5.00E-5 | 1.88E-4 | 1.27 | 1.77E-4 |
-| 1 Week | 1.42E-3 [1.37E-3 - 1.51E-3] | 1.00E-4 | 1.32E-3 | 1.08 | 1.23E-3 |
-| 1 Month | 5.80E-3 [5.73E-3 - 5.90E-3] | 1.60E-4 | 5.64E-3 | 1.03 | 5.28E-3 |
-| 1 Year | 0.067 [0.067 - 0.067] | 2.40E-4 | 0.067 | 1 | 0.062 |
-| 10 Years | 0.498 [0.498 - 0.498] | 3.40E-4 | 0.498 | 1 | 0.475 |
-| 30 Years | 0.874 [0.874 - 0.874] \* | \* | 0.874 | 1 \* | 0.855 |
-| 100 Years | 0.999 [0.999 - 0.999] \* | \* | 0.999 | 1 \* | 0.998 |
+| 1 Hour | 0.108 [0.106 - 0.110] | 0.108 | 3.46E-6 | 31271.45 | 3.23E-6 |
+| 1 Day | 0.265 [0.262 - 0.267] | 0.265 | 8.30E-5 | 3188.82 | 7.76E-5 |
+| 1 Week | 0.365 [0.362 - 0.368] | 0.364 | 5.81E-4 | 627.57 | 5.43E-4 |
+| 1 Month | 0.436 [0.433 - 0.439] | 0.434 | 2.49E-3 | 175.25 | 2.33E-3 |
+| 1 Year | 0.555 [0.552 - 0.558] | 0.542 | 0.030 | 18.59 | 0.028 |
+| 10 Years | 0.722 [0.720 - 0.724] | 0.624 | 0.262 | 2.76 | 0.247 |
+| 30 Years | 0.849 [0.848 - 0.850] \* | \* | 0.599 | 1.42 \* | 0.573 |
+| 100 Years | 0.983 [0.983 - 0.983] \* | \* | 0.954 | 1.03 \* | 0.941 |
 
 \* *forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included*
 ### M&ge;7.0 Hazard Change Over Time
@@ -1198,14 +1201,31 @@ These plots show how the probability of ruptures of various magnitudes within 10
 
 | Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-ETAS/TD Gain | UCERF3-TI |
 |-----|-----|-----|-----|-----|-----|
-| 1 Hour | 7.16E-7 [7.16E-7 - 4.86E-5] | 0.000 | 7.16E-7 | 1 | 6.48E-7 |
-| 1 Day | 2.72E-5 [1.77E-5 - 8.21E-5] | 1.00E-5 | 1.72E-5 | 1.58 | 1.55E-5 |
-| 1 Week | 1.30E-4 [1.21E-4 - 1.85E-4] | 1.00E-5 | 1.20E-4 | 1.08 | 1.09E-4 |
-| 1 Month | 5.25E-4 [5.16E-4 - 5.80E-4] | 1.00E-5 | 5.15E-4 | 1.02 | 4.66E-4 |
-| 1 Year | 6.30E-3 [6.27E-3 - 6.37E-3] | 4.00E-5 | 6.26E-3 | 1.01 | 5.66E-3 |
-| 10 Years | 0.061 [0.061 - 0.061] | 5.00E-5 | 0.061 | 1 | 0.055 |
-| 30 Years | 0.174 [0.174 - 0.174] \* | \* | 0.174 | 1 \* | 0.157 |
-| 100 Years | 0.485 [0.485 - 0.485] \* | \* | 0.485 | 1 \* | 0.433 |
+| 1 Hour | 9.06E-3 [8.49E-3 - 9.67E-3] | 9.06E-3 | 3.59E-7 | 25246.19 | 3.20E-7 |
+| 1 Day | 0.024 [0.023 - 0.025] | 0.024 | 8.61E-6 | 2775.82 | 7.68E-6 |
+| 1 Week | 0.035 [0.034 - 0.036] | 0.035 | 6.03E-5 | 578.34 | 5.38E-5 |
+| 1 Month | 0.044 [0.043 - 0.045] | 0.044 | 2.58E-4 | 170.64 | 2.30E-4 |
+| 1 Year | 0.062 [0.061 - 0.064] | 0.059 | 3.14E-3 | 19.79 | 2.80E-3 |
+| 10 Years | 0.104 [0.103 - 0.106] | 0.075 | 0.031 | 3.35 | 0.028 |
+| 30 Years | 0.161 [0.159 - 0.162] \* | \* | 0.092 | 1.74 \* | 0.081 |
+| 100 Years | 0.346 [0.345 - 0.348] \* | \* | 0.293 | 1.18 \* | 0.245 |
+
+\* *forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included*
+### M&ge;8.0 Hazard Change Over Time
+*[(top)](#table-of-contents)*
+
+![Hazard Change](plots/hazard_change_100km_m8.0.png)
+
+| Forecast Duration | UCERF3-ETAS [95% Conf] | UCERF3-ETAS Triggered Only | UCERF3-TD | UCERF3-ETAS/TD Gain | UCERF3-TI |
+|-----|-----|-----|-----|-----|-----|
+| 1 Hour | 5.00E-5 [1.84E-5 - 1.24E-4] | 5.00E-5 | 1.24E-8 | 4044.28 | 1.06E-8 |
+| 1 Day | 1.20E-4 [6.53E-5 - 2.16E-4] | 1.20E-4 | 2.97E-7 | 405.33 | 2.54E-7 |
+| 1 Week | 1.82E-4 [1.12E-4 - 2.93E-4] | 1.80E-4 | 2.08E-6 | 87.64 | 1.78E-6 |
+| 1 Month | 2.09E-4 [1.34E-4 - 3.24E-4] | 2.00E-4 | 8.90E-6 | 23.46 | 7.63E-6 |
+| 1 Year | 4.28E-4 [3.31E-4 - 5.66E-4] | 3.20E-4 | 1.08E-4 | 3.95 | 9.29E-5 |
+| 10 Years | 1.48E-3 [1.37E-3 - 1.62E-3] | 3.80E-4 | 1.10E-3 | 1.35 | 9.29E-4 |
+| 30 Years | 3.88E-3 [3.77E-3 - 4.03E-3] \* | \* | 3.50E-3 | 1.11 \* | 2.78E-3 |
+| 100 Years | 0.014 [0.014 - 0.014] \* | \* | 0.014 | 1.03 \* | 9.25E-3 |
 
 \* *forecast duration is longer than simulation length, only ETAS ruptures from the first 10 years are included*
 
@@ -1217,6 +1237,7 @@ These plots show how the probability of ruptures of various magnitudes within 10
 *[(top)](#table-of-contents)*
 
 ![Map](plots/trigger_rup_depth_map.png)
+
 ## Fault Distances To Triggers
 *[(top)](#table-of-contents)*
 
@@ -1235,19 +1256,19 @@ These plots show how the probability of ruptures of various magnitudes within 10
 
 These are map plots of individual catalogs from the simulations, selected as the closest catalog to each of the given percentiles in terms of total number of events.
 
-| Duration | p0.0 %-ile | p25.0 %-ile | p50.0 %-ile | p75.0 %-ile | p90.0 %-ile | p95.0 %-ile | p97.5 %-ile | p98.0 %-ile | p99.0 %-ile | p99.5 %-ile | p99.9 %-ile | p100.0 %-ile |
+| Duration | p0.0 %-ile | p25.0 %-ile | p50.0 %-ile | p75.0 %-ile | p90.0 %-ile | p95.0 %-ile | p97.5 %-ile | p98.0 %-ile | p99.0 %-ile | p99.5 %-ile | p99.9 %-ile | p99.999 %-ile |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| **1 Week** | ![Map](plots/sim_catalog_map_p0.0_1wk.png) | ![Map](plots/sim_catalog_map_p25.0_1wk.png) | ![Map](plots/sim_catalog_map_p50.0_1wk.png) | ![Map](plots/sim_catalog_map_p75.0_1wk.png) | ![Map](plots/sim_catalog_map_p90.0_1wk.png) | ![Map](plots/sim_catalog_map_p95.0_1wk.png) | ![Map](plots/sim_catalog_map_p97.5_1wk.png) | ![Map](plots/sim_catalog_map_p98.0_1wk.png) | ![Map](plots/sim_catalog_map_p99.0_1wk.png) | ![Map](plots/sim_catalog_map_p99.5_1wk.png) | ![Map](plots/sim_catalog_map_p99.9_1wk.png) | ![Map](plots/sim_catalog_map_p100.0_1wk.png) |
-| **1 Month** | ![Map](plots/sim_catalog_map_p0.0_1mo.png) | ![Map](plots/sim_catalog_map_p25.0_1mo.png) | ![Map](plots/sim_catalog_map_p50.0_1mo.png) | ![Map](plots/sim_catalog_map_p75.0_1mo.png) | ![Map](plots/sim_catalog_map_p90.0_1mo.png) | ![Map](plots/sim_catalog_map_p95.0_1mo.png) | ![Map](plots/sim_catalog_map_p97.5_1mo.png) | ![Map](plots/sim_catalog_map_p98.0_1mo.png) | ![Map](plots/sim_catalog_map_p99.0_1mo.png) | ![Map](plots/sim_catalog_map_p99.5_1mo.png) | ![Map](plots/sim_catalog_map_p99.9_1mo.png) | ![Map](plots/sim_catalog_map_p100.0_1mo.png) |
-| **1 Year** | ![Map](plots/sim_catalog_map_p0.0_1yr.png) | ![Map](plots/sim_catalog_map_p25.0_1yr.png) | ![Map](plots/sim_catalog_map_p50.0_1yr.png) | ![Map](plots/sim_catalog_map_p75.0_1yr.png) | ![Map](plots/sim_catalog_map_p90.0_1yr.png) | ![Map](plots/sim_catalog_map_p95.0_1yr.png) | ![Map](plots/sim_catalog_map_p97.5_1yr.png) | ![Map](plots/sim_catalog_map_p98.0_1yr.png) | ![Map](plots/sim_catalog_map_p99.0_1yr.png) | ![Map](plots/sim_catalog_map_p99.5_1yr.png) | ![Map](plots/sim_catalog_map_p99.9_1yr.png) | ![Map](plots/sim_catalog_map_p100.0_1yr.png) |
-| **10 Year** | ![Map](plots/sim_catalog_map_p0.0_10yr.png) | ![Map](plots/sim_catalog_map_p25.0_10yr.png) | ![Map](plots/sim_catalog_map_p50.0_10yr.png) | ![Map](plots/sim_catalog_map_p75.0_10yr.png) | ![Map](plots/sim_catalog_map_p90.0_10yr.png) | ![Map](plots/sim_catalog_map_p95.0_10yr.png) | ![Map](plots/sim_catalog_map_p97.5_10yr.png) | ![Map](plots/sim_catalog_map_p98.0_10yr.png) | ![Map](plots/sim_catalog_map_p99.0_10yr.png) | ![Map](plots/sim_catalog_map_p99.5_10yr.png) | ![Map](plots/sim_catalog_map_p99.9_10yr.png) | ![Map](plots/sim_catalog_map_p100.0_10yr.png) |
+| **1 Week** | ![Map](plots/sim_catalog_map_p0.0_1wk.png) | ![Map](plots/sim_catalog_map_p25.0_1wk.png) | ![Map](plots/sim_catalog_map_p50.0_1wk.png) | ![Map](plots/sim_catalog_map_p75.0_1wk.png) | ![Map](plots/sim_catalog_map_p90.0_1wk.png) | ![Map](plots/sim_catalog_map_p95.0_1wk.png) | ![Map](plots/sim_catalog_map_p97.5_1wk.png) | ![Map](plots/sim_catalog_map_p98.0_1wk.png) | ![Map](plots/sim_catalog_map_p99.0_1wk.png) | ![Map](plots/sim_catalog_map_p99.5_1wk.png) | ![Map](plots/sim_catalog_map_p99.9_1wk.png) | ![Map](plots/sim_catalog_map_p99.999_1wk.png) |
+| **1 Month** | ![Map](plots/sim_catalog_map_p0.0_1mo.png) | ![Map](plots/sim_catalog_map_p25.0_1mo.png) | ![Map](plots/sim_catalog_map_p50.0_1mo.png) | ![Map](plots/sim_catalog_map_p75.0_1mo.png) | ![Map](plots/sim_catalog_map_p90.0_1mo.png) | ![Map](plots/sim_catalog_map_p95.0_1mo.png) | ![Map](plots/sim_catalog_map_p97.5_1mo.png) | ![Map](plots/sim_catalog_map_p98.0_1mo.png) | ![Map](plots/sim_catalog_map_p99.0_1mo.png) | ![Map](plots/sim_catalog_map_p99.5_1mo.png) | ![Map](plots/sim_catalog_map_p99.9_1mo.png) | ![Map](plots/sim_catalog_map_p99.999_1mo.png) |
+| **1 Year** | ![Map](plots/sim_catalog_map_p0.0_1yr.png) | ![Map](plots/sim_catalog_map_p25.0_1yr.png) | ![Map](plots/sim_catalog_map_p50.0_1yr.png) | ![Map](plots/sim_catalog_map_p75.0_1yr.png) | ![Map](plots/sim_catalog_map_p90.0_1yr.png) | ![Map](plots/sim_catalog_map_p95.0_1yr.png) | ![Map](plots/sim_catalog_map_p97.5_1yr.png) | ![Map](plots/sim_catalog_map_p98.0_1yr.png) | ![Map](plots/sim_catalog_map_p99.0_1yr.png) | ![Map](plots/sim_catalog_map_p99.5_1yr.png) | ![Map](plots/sim_catalog_map_p99.9_1yr.png) | ![Map](plots/sim_catalog_map_p99.999_1yr.png) |
+| **10 Year** | ![Map](plots/sim_catalog_map_p0.0_10yr.png) | ![Map](plots/sim_catalog_map_p25.0_10yr.png) | ![Map](plots/sim_catalog_map_p50.0_10yr.png) | ![Map](plots/sim_catalog_map_p75.0_10yr.png) | ![Map](plots/sim_catalog_map_p90.0_10yr.png) | ![Map](plots/sim_catalog_map_p95.0_10yr.png) | ![Map](plots/sim_catalog_map_p97.5_10yr.png) | ![Map](plots/sim_catalog_map_p98.0_10yr.png) | ![Map](plots/sim_catalog_map_p99.0_10yr.png) | ![Map](plots/sim_catalog_map_p99.5_10yr.png) | ![Map](plots/sim_catalog_map_p99.9_10yr.png) | ![Map](plots/sim_catalog_map_p99.999_10yr.png) |
 
 ## ComCat Data Comparisons
 *[(top)](#table-of-contents)*
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.
 
-Last updated at 2019/10/21 00:39:23 UTC, 106.9 d after the simulation start time
+Last updated at 2019/10/22 23:34:31 UTC, 108.8 d after the simulation start time
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
@@ -1278,7 +1299,7 @@ The following plots compare simulation results with ComCat data above a magnitud
 ### ComCat Probability Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 1 Week | 1 Month | Current (106.9 Day) |
+|  | 1 Day | 1 Week | 1 Month | Current (108.8 Day) |
 |-----|-----|-----|-----|-----|
 | **M&ge;Mc(t)** | ![Map](plots/comcat_compare_prob_1d_td_mc.png) | ![Map](plots/comcat_compare_prob_1wk_td_mc.png) | ![Map](plots/comcat_compare_prob_1mo_td_mc.png) | ![Map](plots/comcat_compare_prob_current_td_mc.png) |
 | **M&ge;3.5** | ![Map](plots/comcat_compare_prob_1d_m3.5.png) | ![Map](plots/comcat_compare_prob_1wk_m3.5.png) | ![Map](plots/comcat_compare_prob_1mo_m3.5.png) | ![Map](plots/comcat_compare_prob_current_m3.5.png) |
@@ -1291,7 +1312,7 @@ The following plots compare simulation results with ComCat data above a magnitud
 ### ComCat Mean Expectation Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 1 Week | 1 Month | Current (106.9 Day) |
+|  | 1 Day | 1 Week | 1 Month | Current (108.8 Day) |
 |-----|-----|-----|-----|-----|
 | **M&ge;Mc(t)** | ![Map](plots/comcat_compare_mean_1d_td_mc.png) | ![Map](plots/comcat_compare_mean_1wk_td_mc.png) | ![Map](plots/comcat_compare_mean_1mo_td_mc.png) | ![Map](plots/comcat_compare_mean_current_td_mc.png) |
 | **M&ge;3.5** | ![Map](plots/comcat_compare_mean_1d_m3.5.png) | ![Map](plots/comcat_compare_mean_1wk_m3.5.png) | ![Map](plots/comcat_compare_mean_1mo_m3.5.png) | ![Map](plots/comcat_compare_mean_current_m3.5.png) |
@@ -1319,44 +1340,98 @@ The following plots compare simulation results with ComCat data above a magnitud
 | **All Supra. Seis.** | ![Participation Plot](plots/fault_participation_partic_1yr.png) | ![Participation Plot](plots/fault_participation_partic_1yr_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr.png) | ![Participation Plot](plots/fault_participation_partic_10yr_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_triggered_primary.png) |
 | **M&ge;6.5** | ![Participation Plot](plots/fault_participation_partic_1yr_m6.5.png) | ![Participation Plot](plots/fault_participation_partic_1yr_m6.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m6.5.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m6.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m6.5_triggered_primary.png) |
 | **M&ge;7** | ![Participation Plot](plots/fault_participation_partic_1yr_m7.0.png) | ![Participation Plot](plots/fault_participation_partic_1yr_m7.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.0.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.0_triggered_primary.png) |
+| **M&ge;7.5** | ![Participation Plot](plots/fault_participation_partic_1yr_m7.5.png) | ![Participation Plot](plots/fault_participation_partic_1yr_m7.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.5.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.5_triggered_primary.png) |
+| **M&ge;8** | ![Participation Plot](plots/fault_participation_partic_1yr_m8.0.png) | ![Participation Plot](plots/fault_participation_partic_1yr_m8.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m8.0.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m8.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m8.0_triggered_primary.png) |
 
 ### Supra-Seismogenic Parent Sections Table
 *[(top)](#table-of-contents)*
 
+*First 10 of 313 with matching ruptures shown*
+
 | Parent Name | Total 10 Year Mean Count | Total 1 Day Prob | Total 1 Week Prob | Total 1 Month Prob | Total 1 Year Prob | Total 10 Year Prob | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| Garlock (Central) | 4.0E-5 | 0.0 | 0.0 | 1.0E-5 | 3.0E-5 | 4.0E-5 | 4.0E-5 | 0.0 | 0.0 | 1.0E-5 | 3.0E-5 | 4.0E-5 | 1.0E-5 |
-| Tank Canyon | 4.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 3.0E-5 | 4.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 3.0E-5 | 1.0E-5 |
-| Ash Hill | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 0.0 |
-| Elsinore (Glen Ivy) rev | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 0.0 |
-| Elsinore (Stepovers Combined) | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 0.0 |
-| Elsinore (Temecula) rev | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 0.0 |
-| Owl Lake | 1.0E-5 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 1.0E-5 |
-| Panamint Valley | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 |
+| San Andreas (Creeping Section) 2011 CFM | 0.35845 | 1.1E-4 | 6.5E-4 | 0.00244 | 0.03185 | 0.2946 | 2.8E-4 | 8.0E-5 | 9.0E-5 | 1.3E-4 | 2.2E-4 | 2.6E-4 | 5.0E-5 |
+| San Andreas (Parkfield) | 0.35222 | 1.8E-4 | 6.7E-4 | 0.00267 | 0.03306 | 0.33283 | 6.6E-4 | 1.2E-4 | 2.1E-4 | 3.1E-4 | 4.6E-4 | 6.2E-4 | 1.3E-4 |
+| San Andreas (Mojave S) | 0.22805 | 0.00123 | 0.00196 | 0.00369 | 0.02184 | 0.1797 | 0.00495 | 0.0012 | 0.00168 | 0.00228 | 0.00324 | 0.0043 | 0.00192 |
+| Mendocino | 0.21472 | 1.0E-5 | 3.2E-4 | 0.00162 | 0.02015 | 0.19466 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Garlock (Central) | 0.16412 | 0.04743 | 0.06721 | 0.08256 | 0.1132 | 0.15561 | 0.14416 | 0.04743 | 0.06718 | 0.08244 | 0.11155 | 0.13803 | 0.07741 |
+| Cerro Prieto | 0.15148 | 6.0E-5 | 2.4E-4 | 0.00107 | 0.01418 | 0.14757 | 3.0E-5 | 0.0 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 3.0E-5 | 1.0E-5 |
+| Tank Canyon | 0.14184 | 0.02286 | 0.03678 | 0.04939 | 0.07633 | 0.11977 | 0.12031 | 0.02285 | 0.03675 | 0.04931 | 0.07468 | 0.10212 | 0.03071 |
+| Brawley (Seismic Zone) alt 1 | 0.13368 | 0.0 | 2.1E-4 | 9.2E-4 | 0.01274 | 0.12933 | 1.6E-4 | 0.0 | 3.0E-5 | 8.0E-5 | 1.1E-4 | 1.6E-4 | 6.0E-5 |
+| Imperial | 0.12563 | 0.0 | 1.9E-4 | 8.5E-4 | 0.0117 | 0.12146 | 1.4E-4 | 0.0 | 2.0E-5 | 7.0E-5 | 1.0E-4 | 1.4E-4 | 5.0E-5 |
+| Hayward (So) 2011 CFM | 0.1097 | 3.0E-5 | 1.7E-4 | 8.0E-4 | 0.00965 | 0.1005 | 7.0E-5 | 1.0E-5 | 2.0E-5 | 4.0E-5 | 5.0E-5 | 6.0E-5 | 3.0E-5 |
 
 ### M≥6.5 Parent Sections Table
 *[(top)](#table-of-contents)*
 
+*First 10 of 306 with matching ruptures shown*
+
 | Parent Name | Total 10 Year Mean Count | Total 1 Day Prob | Total 1 Week Prob | Total 1 Month Prob | Total 1 Year Prob | Total 10 Year Prob | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| Garlock (Central) | 2.0E-5 | 0.0 | 0.0 | 0.0 | 2.0E-5 | 2.0E-5 | 2.0E-5 | 0.0 | 0.0 | 0.0 | 2.0E-5 | 2.0E-5 | 1.0E-5 |
-| Elsinore (Glen Ivy) rev | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 0.0 |
-| Elsinore (Stepovers Combined) | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 0.0 |
-| Elsinore (Temecula) rev | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 0.0 |
-| Owl Lake | 1.0E-5 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 1.0E-5 |
-| Panamint Valley | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 |
-| Tank Canyon | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 |
+| Cerro Prieto | 0.13052 | 4.0E-5 | 2.1E-4 | 9.5E-4 | 0.0123 | 0.12928 | 3.0E-5 | 0.0 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 3.0E-5 | 1.0E-5 |
+| San Andreas (Creeping Section) 2011 CFM | 0.11914 | 6.0E-5 | 2.8E-4 | 8.9E-4 | 0.01087 | 0.11058 | 1.6E-4 | 4.0E-5 | 4.0E-5 | 8.0E-5 | 1.3E-4 | 1.6E-4 | 4.0E-5 |
+| Hayward (So) 2011 CFM | 0.09404 | 3.0E-5 | 1.4E-4 | 7.0E-4 | 0.00848 | 0.08817 | 7.0E-5 | 1.0E-5 | 2.0E-5 | 4.0E-5 | 5.0E-5 | 6.0E-5 | 3.0E-5 |
+| Mendocino | 0.09357 | 0.0 | 1.0E-4 | 7.0E-4 | 0.00882 | 0.09136 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Brawley (Seismic Zone) alt 1 | 0.09275 | 0.0 | 1.5E-4 | 6.9E-4 | 0.00878 | 0.09071 | 1.5E-4 | 0.0 | 3.0E-5 | 8.0E-5 | 1.1E-4 | 1.5E-4 | 6.0E-5 |
+| Imperial | 0.0918 | 0.0 | 1.4E-4 | 6.8E-4 | 0.00854 | 0.0897 | 1.4E-4 | 0.0 | 2.0E-5 | 7.0E-5 | 1.0E-4 | 1.4E-4 | 5.0E-5 |
+| San Andreas (Mojave S) | 0.0891 | 9.6E-4 | 0.00144 | 0.00237 | 0.01052 | 0.08644 | 0.00354 | 9.5E-4 | 0.00135 | 0.0018 | 0.00254 | 0.00341 | 0.0016 |
+| San Andreas (San Bernardino N) | 0.08626 | 5.2E-4 | 8.6E-4 | 0.00155 | 0.00935 | 0.08163 | 0.00204 | 5.1E-4 | 7.6E-4 | 9.7E-4 | 0.00145 | 0.00195 | 8.7E-4 |
+| San Andreas (Coachella) rev | 0.07373 | 8.0E-5 | 2.4E-4 | 8.1E-4 | 0.00702 | 0.07296 | 3.2E-4 | 8.0E-5 | 1.3E-4 | 2.0E-4 | 2.4E-4 | 3.1E-4 | 1.4E-4 |
+| San Andreas (San Bernardino S) | 0.0733 | 2.8E-4 | 5.6E-4 | 0.00108 | 0.00753 | 0.07195 | 0.00112 | 2.8E-4 | 4.4E-4 | 5.5E-4 | 8.1E-4 | 0.00111 | 3.9E-4 |
 
 ### M≥7 Parent Sections Table
 *[(top)](#table-of-contents)*
 
+*First 10 of 273 with matching ruptures shown*
+
 | Parent Name | Total 10 Year Mean Count | Total 1 Day Prob | Total 1 Week Prob | Total 1 Month Prob | Total 1 Year Prob | Total 10 Year Prob | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| Garlock (Central) | 2.0E-5 | 0.0 | 0.0 | 0.0 | 2.0E-5 | 2.0E-5 | 2.0E-5 | 0.0 | 0.0 | 0.0 | 2.0E-5 | 2.0E-5 | 1.0E-5 |
-| Elsinore (Glen Ivy) rev | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 0.0 |
-| Elsinore (Stepovers Combined) | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 0.0 |
-| Elsinore (Temecula) rev | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 0.0 |
-| Owl Lake | 1.0E-5 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 1.0E-5 |
+| San Andreas (Mojave S) | 0.06705 | 9.6E-4 | 0.00138 | 0.00218 | 0.00863 | 0.06643 | 0.00322 | 9.5E-4 | 0.00132 | 0.00172 | 0.00237 | 0.00316 | 0.00154 |
+| Garlock (Central) | 0.06442 | 0.01712 | 0.02486 | 0.03113 | 0.04321 | 0.06345 | 0.05452 | 0.01712 | 0.02484 | 0.03106 | 0.04232 | 0.05387 | 0.02797 |
+| San Andreas (Carrizo) rev | 0.06297 | 8.0E-5 | 2.1E-4 | 7.5E-4 | 0.0062 | 0.06274 | 4.7E-4 | 8.0E-5 | 1.3E-4 | 2.5E-4 | 3.6E-4 | 4.7E-4 | 9.0E-5 |
+| San Andreas (Coachella) rev | 0.06276 | 8.0E-5 | 2.2E-4 | 6.8E-4 | 0.00605 | 0.06241 | 3.1E-4 | 8.0E-5 | 1.3E-4 | 2.0E-4 | 2.4E-4 | 3.1E-4 | 1.4E-4 |
+| San Andreas (Cholame) rev | 0.06241 | 8.0E-5 | 1.9E-4 | 7.3E-4 | 0.00612 | 0.06219 | 4.7E-4 | 8.0E-5 | 1.1E-4 | 2.3E-4 | 3.6E-4 | 4.7E-4 | 8.0E-5 |
+| San Andreas (Creeping Section) 2011 CFM | 0.06078 | 3.0E-5 | 1.4E-4 | 5.2E-4 | 0.0057 | 0.05883 | 1.4E-4 | 3.0E-5 | 3.0E-5 | 7.0E-5 | 1.1E-4 | 1.4E-4 | 3.0E-5 |
+| San Andreas (San Bernardino N) | 0.05965 | 5.2E-4 | 8.1E-4 | 0.00138 | 0.007 | 0.05875 | 0.00185 | 5.1E-4 | 7.3E-4 | 9.3E-4 | 0.00136 | 0.00181 | 8.6E-4 |
+| San Andreas (Mojave N) | 0.05728 | 0.00115 | 0.00174 | 0.00264 | 0.00829 | 0.05668 | 0.00418 | 0.00115 | 0.00168 | 0.00224 | 0.00316 | 0.00411 | 0.00204 |
+| Brawley (Seismic Zone) alt 1 | 0.05643 | 0.0 | 1.1E-4 | 4.8E-4 | 0.0053 | 0.05627 | 1.2E-4 | 0.0 | 2.0E-5 | 7.0E-5 | 8.0E-5 | 1.2E-4 | 6.0E-5 |
+| San Andreas (San Gorgonio Pass-Garnet HIll) | 0.05452 | 1.0E-4 | 2.6E-4 | 6.6E-4 | 0.00533 | 0.05413 | 4.4E-4 | 1.0E-4 | 1.7E-4 | 2.2E-4 | 3.3E-4 | 4.4E-4 | 1.6E-4 |
+
+### M≥7.5 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 216 with matching ruptures shown*
+
+| Parent Name | Total 10 Year Mean Count | Total 1 Day Prob | Total 1 Week Prob | Total 1 Month Prob | Total 1 Year Prob | Total 10 Year Prob | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Mojave N) | 0.05625 | 0.00115 | 0.00173 | 0.00261 | 0.0082 | 0.0559 | 0.00412 | 0.00115 | 0.00168 | 0.00222 | 0.00313 | 0.00407 | 0.00204 |
+| San Andreas (Mojave S) | 0.05275 | 9.0E-4 | 0.0013 | 0.00202 | 0.00715 | 0.05258 | 0.00302 | 9.0E-4 | 0.00125 | 0.00163 | 0.00225 | 0.00299 | 0.00151 |
+| San Andreas (Big Bend) | 0.04856 | 7.0E-5 | 1.6E-4 | 5.7E-4 | 0.00498 | 0.04847 | 4.1E-4 | 7.0E-5 | 1.1E-4 | 2.1E-4 | 3.1E-4 | 4.1E-4 | 5.0E-5 |
+| San Andreas (Carrizo) rev | 0.04515 | 7.0E-5 | 1.6E-4 | 5.5E-4 | 0.00461 | 0.04515 | 3.8E-4 | 7.0E-5 | 1.1E-4 | 2.1E-4 | 2.9E-4 | 3.8E-4 | 5.0E-5 |
+| San Andreas (San Bernardino N) | 0.04496 | 4.5E-4 | 7.2E-4 | 0.00119 | 0.00548 | 0.0447 | 0.00164 | 4.5E-4 | 6.6E-4 | 8.3E-4 | 0.00123 | 0.00163 | 8.2E-4 |
+| San Andreas (Cholame) rev | 0.04251 | 6.0E-5 | 1.2E-4 | 4.7E-4 | 0.00428 | 0.04251 | 3.4E-4 | 6.0E-5 | 8.0E-5 | 1.8E-4 | 2.6E-4 | 3.4E-4 | 4.0E-5 |
+| San Andreas (San Bernardino S) | 0.03362 | 2.1E-4 | 4.2E-4 | 7.1E-4 | 0.00373 | 0.03354 | 8.4E-4 | 2.1E-4 | 3.6E-4 | 4.4E-4 | 6.1E-4 | 8.4E-4 | 3.6E-4 |
+| San Andreas (Parkfield) | 0.03136 | 4.0E-5 | 8.0E-5 | 2.9E-4 | 0.00305 | 0.03132 | 1.9E-4 | 4.0E-5 | 5.0E-5 | 1.0E-4 | 1.5E-4 | 1.9E-4 | 2.0E-5 |
+| San Andreas (San Gorgonio Pass-Garnet HIll) | 0.02954 | 9.0E-5 | 2.3E-4 | 4.7E-4 | 0.00314 | 0.02945 | 4.2E-4 | 9.0E-5 | 1.6E-4 | 2.1E-4 | 3.1E-4 | 4.2E-4 | 1.5E-4 |
+| San Andreas (Coachella) rev | 0.02838 | 8.0E-5 | 2.0E-4 | 4.3E-4 | 0.00304 | 0.02828 | 2.8E-4 | 8.0E-5 | 1.3E-4 | 1.8E-4 | 2.2E-4 | 2.8E-4 | 1.1E-4 |
+
+### M≥8 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 71 with matching ruptures shown*
+
+| Parent Name | Total 10 Year Mean Count | Total 1 Day Prob | Total 1 Week Prob | Total 1 Month Prob | Total 1 Year Prob | Total 10 Year Prob | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Mojave N) | 0.01507 | 1.2E-4 | 1.9E-4 | 3.5E-4 | 0.00183 | 0.01507 | 4.3E-4 | 1.2E-4 | 1.9E-4 | 2.4E-4 | 3.7E-4 | 4.3E-4 | 1.7E-4 |
+| San Andreas (Mojave S) | 0.01504 | 1.2E-4 | 1.9E-4 | 3.5E-4 | 0.00182 | 0.01504 | 4.3E-4 | 1.2E-4 | 1.9E-4 | 2.4E-4 | 3.7E-4 | 4.3E-4 | 1.7E-4 |
+| San Andreas (San Bernardino N) | 0.01482 | 1.2E-4 | 1.9E-4 | 3.5E-4 | 0.00177 | 0.01482 | 4.3E-4 | 1.2E-4 | 1.9E-4 | 2.4E-4 | 3.7E-4 | 4.3E-4 | 1.7E-4 |
+| San Andreas (Big Bend) | 0.01421 | 0.0 | 1.0E-5 | 1.4E-4 | 0.00143 | 0.01421 | 5.0E-5 | 0.0 | 1.0E-5 | 4.0E-5 | 5.0E-5 | 5.0E-5 | 0.0 |
+| San Andreas (Carrizo) rev | 0.01418 | 0.0 | 1.0E-5 | 1.4E-4 | 0.00143 | 0.01418 | 5.0E-5 | 0.0 | 1.0E-5 | 4.0E-5 | 5.0E-5 | 5.0E-5 | 0.0 |
+| San Andreas (Cholame) rev | 0.01385 | 0.0 | 1.0E-5 | 1.4E-4 | 0.0014 | 0.01385 | 5.0E-5 | 0.0 | 1.0E-5 | 4.0E-5 | 5.0E-5 | 5.0E-5 | 0.0 |
+| San Andreas (Parkfield) | 0.01101 | 0.0 | 1.0E-5 | 8.0E-5 | 0.00102 | 0.01101 | 4.0E-5 | 0.0 | 1.0E-5 | 3.0E-5 | 4.0E-5 | 4.0E-5 | 0.0 |
+| San Andreas (Creeping Section) 2011 CFM | 0.00859 | 0.0 | 0.0 | 6.0E-5 | 8.0E-4 | 0.00859 | 1.0E-5 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 0.0 |
+| San Andreas (San Bernardino S) | 0.00844 | 6.0E-5 | 1.1E-4 | 2.0E-4 | 0.00101 | 0.00844 | 2.4E-4 | 6.0E-5 | 1.1E-4 | 1.3E-4 | 2.0E-4 | 2.4E-4 | 8.0E-5 |
+| San Andreas (Coachella) rev | 0.00843 | 7.0E-5 | 1.0E-4 | 2.0E-4 | 0.00101 | 0.00843 | 1.9E-4 | 7.0E-5 | 1.0E-4 | 1.3E-4 | 1.6E-4 | 1.9E-4 | 8.0E-5 |
 
 ### Fault Magnitude-Probability Distributions
 *[(top)](#table-of-contents)*
@@ -1367,9 +1442,9 @@ The first 5 sections (sorted by trigger rate) are plotted below. All fault MPDs 
 |-----|-----|-----|-----|
 | ![MPD](plots/parent_sect_mpds/Garlock_Central_1wk.png) | ![MPD](plots/parent_sect_mpds/Garlock_Central_1mo.png) | ![MPD](plots/parent_sect_mpds/Garlock_Central_1yr.png) | ![MPD](plots/parent_sect_mpds/Garlock_Central_10yr.png) |
 | ![MPD](plots/parent_sect_mpds/Tank_Canyon_1wk.png) | ![MPD](plots/parent_sect_mpds/Tank_Canyon_1mo.png) | ![MPD](plots/parent_sect_mpds/Tank_Canyon_1yr.png) | ![MPD](plots/parent_sect_mpds/Tank_Canyon_10yr.png) |
+| ![MPD](plots/parent_sect_mpds/Little_Lake_1wk.png) | ![MPD](plots/parent_sect_mpds/Little_Lake_1mo.png) | ![MPD](plots/parent_sect_mpds/Little_Lake_1yr.png) | ![MPD](plots/parent_sect_mpds/Little_Lake_10yr.png) |
+| ![MPD](plots/parent_sect_mpds/Airport_Lake_1wk.png) | ![MPD](plots/parent_sect_mpds/Airport_Lake_1mo.png) | ![MPD](plots/parent_sect_mpds/Airport_Lake_1yr.png) | ![MPD](plots/parent_sect_mpds/Airport_Lake_10yr.png) |
 | ![MPD](plots/parent_sect_mpds/Owl_Lake_1wk.png) | ![MPD](plots/parent_sect_mpds/Owl_Lake_1mo.png) | ![MPD](plots/parent_sect_mpds/Owl_Lake_1yr.png) | ![MPD](plots/parent_sect_mpds/Owl_Lake_10yr.png) |
-| ![MPD](plots/parent_sect_mpds/Elsinore_Stepovers_Combined_1wk.png) | ![MPD](plots/parent_sect_mpds/Elsinore_Stepovers_Combined_1mo.png) | ![MPD](plots/parent_sect_mpds/Elsinore_Stepovers_Combined_1yr.png) | ![MPD](plots/parent_sect_mpds/Elsinore_Stepovers_Combined_10yr.png) |
-| ![MPD](plots/parent_sect_mpds/Elsinore_Temecula_rev_1wk.png) | ![MPD](plots/parent_sect_mpds/Elsinore_Temecula_rev_1mo.png) | ![MPD](plots/parent_sect_mpds/Elsinore_Temecula_rev_1yr.png) | ![MPD](plots/parent_sect_mpds/Elsinore_Temecula_rev_10yr.png) |
 
 ## Gridded Nucleation
 *[(top)](#table-of-contents)*
