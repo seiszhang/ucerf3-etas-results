@@ -1252,7 +1252,7 @@ These are map plots of individual catalogs from the simulations, selected as the
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.
 
-Last updated at 2019/10/23 19:17:23 UTC, 23.7 hr after the simulation start time
+Last updated at 2019/10/23 23:10:16 UTC, 1.2 d after the simulation start time
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
@@ -1283,28 +1283,28 @@ The following plots compare simulation results with ComCat data above a magnitud
 ### ComCat Probability Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | Current (23.7 Hour) |
-|-----|-----|
-| **M&ge;Mc(t)** | ![Map](plots/comcat_compare_prob_current_td_mc.png) |
-| **M&ge;3** | ![Map](plots/comcat_compare_prob_current_m3.png) |
-| **M&ge;4** | ![Map](plots/comcat_compare_prob_current_m4.png) |
-| **M&ge;5** | ![Map](plots/comcat_compare_prob_current_m5.png) |
-| **M&ge;6** | ![Map](plots/comcat_compare_prob_current_m6.png) |
-| **M&ge;7** | ![Map](plots/comcat_compare_prob_current_m7.png) |
-| **M&ge;8** | ![Map](plots/comcat_compare_prob_current_m8.png) |
+|  | 1 Day | Current (1.2 Day) |
+|-----|-----|-----|
+| **M&ge;Mc(t)** | ![Map](plots/comcat_compare_prob_1d_td_mc.png) | ![Map](plots/comcat_compare_prob_current_td_mc.png) |
+| **M&ge;3** | ![Map](plots/comcat_compare_prob_1d_m3.png) | ![Map](plots/comcat_compare_prob_current_m3.png) |
+| **M&ge;4** | ![Map](plots/comcat_compare_prob_1d_m4.png) | ![Map](plots/comcat_compare_prob_current_m4.png) |
+| **M&ge;5** | ![Map](plots/comcat_compare_prob_1d_m5.png) | ![Map](plots/comcat_compare_prob_current_m5.png) |
+| **M&ge;6** | ![Map](plots/comcat_compare_prob_1d_m6.png) | ![Map](plots/comcat_compare_prob_current_m6.png) |
+| **M&ge;7** | ![Map](plots/comcat_compare_prob_1d_m7.png) | ![Map](plots/comcat_compare_prob_current_m7.png) |
+| **M&ge;8** | ![Map](plots/comcat_compare_prob_1d_m8.png) | ![Map](plots/comcat_compare_prob_current_m8.png) |
 
 ### ComCat Mean Expectation Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | Current (23.7 Hour) |
-|-----|-----|
-| **M&ge;Mc(t)** | ![Map](plots/comcat_compare_mean_current_td_mc.png) |
-| **M&ge;3** | ![Map](plots/comcat_compare_mean_current_m3.png) |
-| **M&ge;4** | ![Map](plots/comcat_compare_mean_current_m4.png) |
-| **M&ge;5** | ![Map](plots/comcat_compare_mean_current_m5.png) |
-| **M&ge;6** | ![Map](plots/comcat_compare_mean_current_m6.png) |
-| **M&ge;7** | ![Map](plots/comcat_compare_mean_current_m7.png) |
-| **M&ge;8** | ![Map](plots/comcat_compare_mean_current_m8.png) |
+|  | 1 Day | Current (1.2 Day) |
+|-----|-----|-----|
+| **M&ge;Mc(t)** | ![Map](plots/comcat_compare_mean_1d_td_mc.png) | ![Map](plots/comcat_compare_mean_current_td_mc.png) |
+| **M&ge;3** | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_current_m3.png) |
+| **M&ge;4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_current_m4.png) |
+| **M&ge;5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_current_m5.png) |
+| **M&ge;6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_current_m6.png) |
+| **M&ge;7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_current_m7.png) |
+| **M&ge;8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_current_m8.png) |
 
 ### ComCat Depth Distribution
 *[(top)](#table-of-contents)*
