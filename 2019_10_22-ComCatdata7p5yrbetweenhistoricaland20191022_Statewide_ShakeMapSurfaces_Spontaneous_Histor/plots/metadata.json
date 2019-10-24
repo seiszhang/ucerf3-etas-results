@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1571916802713,
-  "plotEndTime": 1571917732034,
+  "plotStartTime": 1571924002947,
+  "plotEndTime": 1571925054236,
   "simulationsProcessed": 10000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_10_22-ComCatdata7p5yrbetweenhistoricaland20191022_Statewide_ShakeMapSurfaces_Spontaneous_Histor/results_complete.bin"
@@ -1215,14 +1215,14 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 15,
-      "time": 1571916802713,
+      "time": 1571924002947,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.",
         "",
-        "Last updated at 2019/10/24 11:33:26 UTC, 1.7 d after the simulation start time",
+        "Last updated at 2019/10/24 13:33:27 UTC, 1.7 d after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
