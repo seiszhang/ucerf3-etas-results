@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1571938401520,
-  "plotEndTime": 1571939421276,
+  "plotStartTime": 1571942000491,
+  "plotEndTime": 1571944591262,
   "simulationsProcessed": 10000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_10_22-ComCatdata7p5yrbetweenhistoricaland20191022_Statewide_ShakeMapSurfaces_Spontaneous_Histor/results_complete.bin"
   },
-  "launcherGitHash": "a4348c242f7708c38bddb773965d609b68b83e7b",
-  "launcherGitTime": 1571871782000,
+  "launcherGitHash": "4d32c2fb0a20f938e41a1e25000b0836dce8d2d3",
+  "launcherGitTime": 1571941815000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
@@ -1286,8 +1286,8 @@
     },
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_FaultParticipationPlot",
-      "version": 1,
-      "time": 1571858217807,
+      "version": 2,
+      "time": 1571942000491,
       "markdown": [
         "## Section Participation",
         "*[(top)](#table-of-contents)*",
