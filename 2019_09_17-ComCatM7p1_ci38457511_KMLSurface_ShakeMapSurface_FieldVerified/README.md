@@ -11,7 +11,7 @@
 |   | First: M3.98 at 2019/07/04 17:02:55 UTC |
 |   | Last: M7.1 at 2019/07/06 03:19:53 UTC |
 |   | Largest: M7.1 at 2019/07/06 03:19:53 UTC |
-| Historical Ruptures | *(none)* |
+| Trigger Ruptures | *(none)* |
 | Config Generated With | u3etas_comcat_event_config_builder.sh --event-id ci38457511 --num-simulations 100000 --days-before 7 --mag-complete 3.5 --finite-surf-shakemap --finite-surf-shakemap-min-mag 5 --kml-surf /home/kevin/OpenSHA/UCERF3/etas/ridgecrest_plots/ridgecrest.kmz --kml-surf-lower-depth 12 --kml-surf-name Field --kml-surf-name-contains --name-add Field-Verified --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec |
 
 ## Table Of Contents
