@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1571873001155,
-  "plotEndTime": 1571873003689,
+  "plotStartTime": 1571994318520,
+  "plotEndTime": 1571995637314,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_09_09-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_PlanarExtents/results_complete.bin"
   },
-  "launcherGitHash": "a4348c242f7708c38bddb773965d609b68b83e7b",
-  "launcherGitTime": 1571871782000,
+  "launcherGitHash": "ab11241492bb2d0f7059138452d3a55cd79b2498",
+  "launcherGitTime": 1571956003000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
@@ -743,8 +743,8 @@
     },
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_FaultParticipationPlot",
-      "version": 1,
-      "time": 1568194691075,
+      "version": 2,
+      "time": 1571994318520,
       "markdown": [
         "## Section Participation",
         "*[(top)](#table-of-contents)*",
