@@ -11,7 +11,7 @@
 |   | First: M3.98 at 2019/07/04 17:02:55 UTC |
 |   | Last: M4.97 at 2019/07/06 03:16:32 UTC |
 |   | Largest: M6.4 at 2019/07/04 17:33:49 UTC |
-| Historical Ruptures | *(none)* |
+| Trigger Ruptures | *(none)* |
 | Config Generated With | u3etas_comcat_event_config_builder.sh --event-id ci38443183 --num-simulations 100000 --days-before 7 --hours-after 33.75 --mag-complete 3.5 --finite-surf-shakemap --finite-surf-shakemap-min-mag 5 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec_hiprio |
 
 ## Table Of Contents

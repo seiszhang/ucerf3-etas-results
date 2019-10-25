@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1571872959575,
-  "plotEndTime": 1571872963409,
+  "plotStartTime": 1571964559407,
+  "plotEndTime": 1571965161814,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_PointSources/results_complete.bin"
   },
-  "launcherGitHash": "a4348c242f7708c38bddb773965d609b68b83e7b",
-  "launcherGitTime": 1571871782000,
+  "launcherGitHash": "ab11241492bb2d0f7059138452d3a55cd79b2498",
+  "launcherGitTime": 1571956003000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
@@ -716,8 +716,8 @@
     },
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_FaultParticipationPlot",
-      "version": 1,
-      "time": 1568997196558,
+      "version": 2,
+      "time": 1571964559407,
       "markdown": [
         "## Section Participation",
         "*[(top)](#table-of-contents)*",

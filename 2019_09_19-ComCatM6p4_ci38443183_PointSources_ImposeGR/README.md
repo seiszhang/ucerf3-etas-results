@@ -7,7 +7,7 @@
 | Start Time Epoch Milliseconds | 1562261630000 |
 | Duration | 10 Years |
 | Includes Spontaneous? | false |
-| Historical Ruptures | *(none)* |
+| Trigger Ruptures | *(none)* |
 | Config Generated With | u3etas_comcat_event_config_builder.sh --event-id ci38443183 --num-simulations 100000 --days-before 7 --impose-gr --mag-complete 3.5 --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec |
 
 ## Table Of Contents
