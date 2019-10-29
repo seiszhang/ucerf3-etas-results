@@ -39,7 +39,7 @@ This plot shows the first few finite fault surfaces used
 ![Map](paper_figures/input_events_faults.png)
 ### Result Plots
 
-| Simulation | 1-Month MND | Comcat Mag/Num | 1-Month M&ge;3.5 Map | M&ge;3.5 Time Func |
+| Simulation | 1-Month MND | Comcat Mag/Num | 1-Month M&ge;3.7 Map | M&ge;3.7 Time Func |
 |-----|-----|-----|-----|-----|
 | [ComCat M6.4 (ci38443183), Point Sources](../2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14/README.md) | ![Plot](paper_figures/2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14/1mo_mag_num_cumulative_triggered.png) | ![Plot](paper_figures/2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14/comcat_compare_mag_num.png) | ![Plot](paper_figures/2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14/comcat_compare_prob_1mo_m3.5.png) | ![Plot](paper_figures/2019_08_20-ComCatM6p4_ci38443183_PointSources-noSpont-full_td-scale1.14/comcat_compare_cumulative_num_m3.5.png) |
 | [ComCat M6.4 (ci38443183), Point Sources, No Faults](../2019_09_24-ComCatM6p4_ci38443183_PointSources_NoFaults/README.md) | ![Plot](paper_figures/2019_09_24-ComCatM6p4_ci38443183_PointSources_NoFaults/1mo_mag_num_cumulative_triggered.png) | ![Plot](paper_figures/2019_09_24-ComCatM6p4_ci38443183_PointSources_NoFaults/comcat_compare_mag_num.png) | ![Plot](paper_figures/2019_09_24-ComCatM6p4_ci38443183_PointSources_NoFaults/comcat_compare_prob_1mo_m3.5.png) | ![Plot](paper_figures/2019_09_24-ComCatM6p4_ci38443183_PointSources_NoFaults/comcat_compare_cumulative_num_m3.5.png) |
