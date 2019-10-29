@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1571956414938,
-  "plotEndTime": 1571956420877,
+  "plotStartTime": 1572376400869,
+  "plotEndTime": 1572378432908,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_10_21-ComCatM7p1_ci38457511_ShakeMapSurfaces_kCOV1p16/results_complete.bin"
@@ -666,14 +666,14 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 15,
-      "time": 1571722396283,
+      "time": 1572376400869,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.",
         "",
-        "Last updated at 2019/10/22 05:33:42 UTC, 108.1 d after the simulation start time",
+        "Last updated at 2019/10/29 19:13:23 UTC, 115.7 d after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
@@ -704,7 +704,7 @@
         "### ComCat Probability Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 1 Week | 1 Month | Current (108.1 Day) |",
+        "|  | 1 Day | 1 Week | 1 Month | Current (115.7 Day) |",
         "|-----|-----|-----|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_prob_1d_td_mc.png) | ![Map](plots/comcat_compare_prob_1wk_td_mc.png) | ![Map](plots/comcat_compare_prob_1mo_td_mc.png) | ![Map](plots/comcat_compare_prob_current_td_mc.png) |",
         "| **M\u0026ge;3.5** | ![Map](plots/comcat_compare_prob_1d_m3.5.png) | ![Map](plots/comcat_compare_prob_1wk_m3.5.png) | ![Map](plots/comcat_compare_prob_1mo_m3.5.png) | ![Map](plots/comcat_compare_prob_current_m3.5.png) |",
@@ -717,7 +717,7 @@
         "### ComCat Mean Expectation Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 1 Week | 1 Month | Current (108.1 Day) |",
+        "|  | 1 Day | 1 Week | 1 Month | Current (115.7 Day) |",
         "|-----|-----|-----|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_mean_1d_td_mc.png) | ![Map](plots/comcat_compare_mean_1wk_td_mc.png) | ![Map](plots/comcat_compare_mean_1mo_td_mc.png) | ![Map](plots/comcat_compare_mean_current_td_mc.png) |",
         "| **M\u0026ge;3.5** | ![Map](plots/comcat_compare_mean_1d_m3.5.png) | ![Map](plots/comcat_compare_mean_1wk_m3.5.png) | ![Map](plots/comcat_compare_mean_1mo_m3.5.png) | ![Map](plots/comcat_compare_mean_current_m3.5.png) |",
