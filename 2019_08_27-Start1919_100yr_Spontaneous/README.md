@@ -8,7 +8,7 @@
 | Duration | 100 Years |
 | Includes Spontaneous? | true |
 | Trigger Ruptures | *(none)* |
-| Historical Ruptures | *(none)* |
+| Trigger Ruptures | *(none)* |
 | Config Generated With | u3etas_config_builder.sh --start-year 1919 --num-simulations 1000 --duration-years 100 --include-spontaneous --hpc-site USC_HPC --nodes 36 --hours 24 --queue scec |
 
 ## Table Of Contents
@@ -401,7 +401,7 @@
   "forceRecalc": false,
   "simulationName": "Start 1919, 100 yr, Spontaneous",
   "numRetries": 3,
-  "outputDir": "${ETAS_SIM_DIR}/2019_08_27-Start1919_100yr_Spontaneous-includeSpont-full_td-scale1.14",
+  "outputDir": "${ETAS_SIM_DIR}/2019_08_27-Start1919_100yr_Spontaneous",
   "cacheDir": "${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba",
   "fssFile": "${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip",
   "probModel": "FULL_TD",
