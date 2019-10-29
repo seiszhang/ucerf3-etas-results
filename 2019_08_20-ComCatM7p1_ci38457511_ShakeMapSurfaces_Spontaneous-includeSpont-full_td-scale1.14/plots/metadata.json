@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1571873086667,
-  "plotEndTime": 1571873090661,
+  "plotStartTime": 1572348043060,
+  "plotEndTime": 1572359123562,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_Spontaneous-includeSpont-full_td-scale1.14/results_complete.bin"
   },
-  "launcherGitHash": "a4348c242f7708c38bddb773965d609b68b83e7b",
-  "launcherGitTime": 1571871782000,
+  "launcherGitHash": "ab11241492bb2d0f7059138452d3a55cd79b2498",
+  "launcherGitTime": 1571956003000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
@@ -1303,8 +1303,8 @@
     },
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_FaultParticipationPlot",
-      "version": 1,
-      "time": 1571787251959,
+      "version": 2,
+      "time": 1572348043060,
       "markdown": [
         "## Section Participation",
         "*[(top)](#table-of-contents)*",
