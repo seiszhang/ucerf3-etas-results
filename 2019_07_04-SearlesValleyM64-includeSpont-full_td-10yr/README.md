@@ -7,7 +7,7 @@
 | Start Time Epoch Milliseconds | 1562261628000 |
 | Duration | 10 Years |
 | Includes Spontaneous? | false |
-| Historical Ruptures | *(none)* |
+| Trigger Ruptures | *(none)* |
 
 ## Table Of Contents
 
