@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1571873122320,
-  "plotEndTime": 1571873124608,
+  "plotStartTime": 1572402791821,
+  "plotEndTime": 1572403867572,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_08_03-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/results_complete.bin"
   },
-  "launcherGitHash": "a4348c242f7708c38bddb773965d609b68b83e7b",
-  "launcherGitTime": 1571871782000,
+  "launcherGitHash": "ab11241492bb2d0f7059138452d3a55cd79b2498",
+  "launcherGitTime": 1571956003000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
@@ -673,14 +673,14 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 15,
-      "time": 1571629579397,
+      "time": 1572402791821,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.",
         "",
-        "Last updated at 2019/10/21 03:46:36 UTC, 79 d after the simulation start time",
+        "Last updated at 2019/10/30 02:33:14 UTC, 88 d after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
@@ -711,7 +711,7 @@
         "### ComCat Probability Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 1 Week | 1 Month | Current (79 Day) |",
+        "|  | 1 Day | 1 Week | 1 Month | Current (88 Day) |",
         "|-----|-----|-----|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_prob_1d_td_mc.png) | ![Map](plots/comcat_compare_prob_1wk_td_mc.png) | ![Map](plots/comcat_compare_prob_1mo_td_mc.png) | ![Map](plots/comcat_compare_prob_current_td_mc.png) |",
         "| **M\u0026ge;3.5** | ![Map](plots/comcat_compare_prob_1d_m3.5.png) | ![Map](plots/comcat_compare_prob_1wk_m3.5.png) | ![Map](plots/comcat_compare_prob_1mo_m3.5.png) | ![Map](plots/comcat_compare_prob_current_m3.5.png) |",
@@ -724,7 +724,7 @@
         "### ComCat Mean Expectation Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 1 Week | 1 Month | Current (79 Day) |",
+        "|  | 1 Day | 1 Week | 1 Month | Current (88 Day) |",
         "|-----|-----|-----|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_mean_1d_td_mc.png) | ![Map](plots/comcat_compare_mean_1wk_td_mc.png) | ![Map](plots/comcat_compare_mean_1mo_td_mc.png) | ![Map](plots/comcat_compare_mean_current_td_mc.png) |",
         "| **M\u0026ge;3.5** | ![Map](plots/comcat_compare_mean_1d_m3.5.png) | ![Map](plots/comcat_compare_mean_1wk_m3.5.png) | ![Map](plots/comcat_compare_mean_1mo_m3.5.png) | ![Map](plots/comcat_compare_mean_current_m3.5.png) |",
@@ -744,8 +744,8 @@
     },
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_FaultParticipationPlot",
-      "version": 1,
-      "time": 1564889675219,
+      "version": 2,
+      "time": 1572402791821,
       "markdown": [
         "## Section Participation",
         "*[(top)](#table-of-contents)*",
