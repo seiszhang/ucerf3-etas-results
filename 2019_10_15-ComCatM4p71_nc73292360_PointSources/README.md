@@ -695,7 +695,7 @@ These are map plots of individual catalogs from the simulations, selected as the
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.
 
-Last updated at 2019/10/31 12:33:24 UTC, 15.7 d after the simulation start time
+Last updated at 2019/11/01 13:33:36 UTC, 16.7 d after the simulation start time
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
@@ -726,7 +726,7 @@ The following plots compare simulation results with ComCat data above a magnitud
 ### ComCat Probability Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 1 Week | Current (15.7 Day) |
+|  | 1 Day | 1 Week | Current (16.7 Day) |
 |-----|-----|-----|-----|
 | **M&ge;Mc(t)** | ![Map](plots/comcat_compare_prob_1d_td_mc.png) | ![Map](plots/comcat_compare_prob_1wk_td_mc.png) | ![Map](plots/comcat_compare_prob_current_td_mc.png) |
 | **M&ge;3.2** | ![Map](plots/comcat_compare_prob_1d_m3.2.png) | ![Map](plots/comcat_compare_prob_1wk_m3.2.png) | ![Map](plots/comcat_compare_prob_current_m3.2.png) |
@@ -738,7 +738,7 @@ The following plots compare simulation results with ComCat data above a magnitud
 ### ComCat Mean Expectation Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | 1 Day | 1 Week | Current (15.7 Day) |
+|  | 1 Day | 1 Week | Current (16.7 Day) |
 |-----|-----|-----|-----|
 | **M&ge;Mc(t)** | ![Map](plots/comcat_compare_mean_1d_td_mc.png) | ![Map](plots/comcat_compare_mean_1wk_td_mc.png) | ![Map](plots/comcat_compare_mean_current_td_mc.png) |
 | **M&ge;3.2** | ![Map](plots/comcat_compare_mean_1d_m3.2.png) | ![Map](plots/comcat_compare_mean_1wk_m3.2.png) | ![Map](plots/comcat_compare_mean_current_m3.2.png) |
