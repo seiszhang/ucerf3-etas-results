@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1572575602346,
-  "plotEndTime": 1572576463296,
+  "plotStartTime": 1572622404718,
+  "plotEndTime": 1572623240828,
   "simulationsProcessed": 10000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_10_18-ComCatdata7p5yrbetweenhistoricaland20191018_Statewide_ShakeMapSurfaces_Spontaneous_Histor/results_complete.bin"
@@ -1215,14 +1215,14 @@
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_ComcatComparePlot",
       "version": 15,
-      "time": 1572575602346,
+      "time": 1572622404718,
       "markdown": [
         "## ComCat Data Comparisons",
         "*[(top)](#table-of-contents)*",
         "",
         "These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.",
         "",
-        "Last updated at 2019/11/01 02:33:25 UTC, 13.3 d after the simulation start time",
+        "Last updated at 2019/11/01 15:33:28 UTC, 2 wk after the simulation start time",
         "",
         "### ComCat Magnitude-Number Distributions",
         "*[(top)](#table-of-contents)*",
@@ -1253,7 +1253,7 @@
         "### ComCat Probability Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 1 Week | Current (13.3 Day) |",
+        "|  | 1 Day | 1 Week | Current (2 Week) |",
         "|-----|-----|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_prob_1d_td_mc.png) | ![Map](plots/comcat_compare_prob_1wk_td_mc.png) | ![Map](plots/comcat_compare_prob_current_td_mc.png) |",
         "| **M\u0026ge;3.2** | ![Map](plots/comcat_compare_prob_1d_m3.2.png) | ![Map](plots/comcat_compare_prob_1wk_m3.2.png) | ![Map](plots/comcat_compare_prob_current_m3.2.png) |",
@@ -1266,7 +1266,7 @@
         "### ComCat Mean Expectation Spatial Distribution",
         "*[(top)](#table-of-contents)*",
         "",
-        "|  | 1 Day | 1 Week | Current (13.3 Day) |",
+        "|  | 1 Day | 1 Week | Current (2 Week) |",
         "|-----|-----|-----|-----|",
         "| **M\u0026ge;Mc(t)** | ![Map](plots/comcat_compare_mean_1d_td_mc.png) | ![Map](plots/comcat_compare_mean_1wk_td_mc.png) | ![Map](plots/comcat_compare_mean_current_td_mc.png) |",
         "| **M\u0026ge;3.2** | ![Map](plots/comcat_compare_mean_1d_m3.2.png) | ![Map](plots/comcat_compare_mean_1wk_m3.2.png) | ![Map](plots/comcat_compare_mean_current_m3.2.png) |",
