@@ -695,7 +695,7 @@ These are map plots of individual catalogs from the simulations, selected as the
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.
 
-Last updated at 2019/11/05 17:33:24 UTC, 14.5 hr after the simulation start time
+Last updated at 2019/11/05 19:59:05 UTC, 16.9 hr after the simulation start time
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
@@ -726,7 +726,7 @@ The following plots compare simulation results with ComCat data above a magnitud
 ### ComCat Probability Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | Current (14.5 Hour) |
+|  | Current (16.9 Hour) |
 |-----|-----|
 | **M&ge;Mc(t)** | ![Map](plots/comcat_compare_prob_current_td_mc.png) |
 | **M&ge;3.5** | ![Map](plots/comcat_compare_prob_current_m3.5.png) |
@@ -739,7 +739,7 @@ The following plots compare simulation results with ComCat data above a magnitud
 ### ComCat Mean Expectation Spatial Distribution
 *[(top)](#table-of-contents)*
 
-|  | Current (14.5 Hour) |
+|  | Current (16.9 Hour) |
 |-----|-----|
 | **M&ge;Mc(t)** | ![Map](plots/comcat_compare_mean_current_td_mc.png) |
 | **M&ge;3.5** | ![Map](plots/comcat_compare_mean_current_m3.5.png) |
