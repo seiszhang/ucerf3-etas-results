@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1572984679474,
-  "plotEndTime": 1572984856716,
+  "plotStartTime": 1573012093433,
+  "plotEndTime": 1573012239051,
   "simulationsProcessed": 1000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_10_29-Start2012_500yr_kCOV1p5_Spontaneous_HistoricalCatalog/results_m5_preserve_chain.bin"
   },
-  "launcherGitHash": "08b15a0de3864d925c11dcd6d4b798d7a7d80dc2",
-  "launcherGitTime": 1572976061000,
+  "launcherGitHash": "7a334d59551bdb6a3e85a0264f404abc77155370",
+  "launcherGitTime": 1573006208000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_HazardChangePlot",
