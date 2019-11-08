@@ -15,7 +15,7 @@
 | 2019/10/18 | [Start 2012, 500 yr, kCOV=1.16, No Faults, Spontaneous, Historical Catalog](2019_10_18-Start2012_500yr_kCOV1p16_NoFaults_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/11/06 |
 | 2019/10/18 | [ComCat data 5.7 yr between historical and 2018-01-01, Statewide, Point Sources, Spontaneous, Historical Catalog](2019_10_18-ComCatdata5p7yrbetweenhistoricaland20180101_Statewide_PointSources_Spontaneous_Historical/README.md) | 2017/12/31 | 10000 | Done | 2019/11/06 |
 | 2019/10/18 | [ComCat data 7.5 yr between historical and 2019-10-18, Statewide, ShakeMap Surfaces, Spontaneous, Historical Catalog](2019_10_18-ComCatdata7p5yrbetweenhistoricaland20191018_Statewide_ShakeMapSurfaces_Spontaneous_Histor/README.md) | 2019/10/18 | 10000 | Done | 2019/11/08 |
-| 2019/10/15 | [ComCat M4.71 (nc73292360), Point Sources](2019_10_15-ComCatM4p71_nc73292360_PointSources/README.md) | 2019/10/15 | 100000 | Done | 2019/11/07 |
+| 2019/10/15 | [ComCat M4.71 (nc73292360), Point Sources](2019_10_15-ComCatM4p71_nc73292360_PointSources/README.md) | 2019/10/15 | 100000 | Done | 2019/11/08 |
 | 2019/10/15 | [Start 2012, 500 yr, kCOV=1.16, Spontaneous, Historical Catalog](2019_10_15-Start2012_500yr_kCOV1p16_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/11/06 |
 | 2019/10/11 | [Start 2012, 500 yr, Spontaneous, Historical Catalog](2019_10_11-Start2012_500yr_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/11/06 |
 | 2019/10/11 | [Start 2012, 500 yr, Spontaneous, Historical Catalog, AleatoryKTest](2019_10_11-Start2012_500yr_Spontaneous_HistoricalCatalog_AleatoryKTest/README.md) | 2011/12/31 | 1000 | Done | 2019/11/06 |
@@ -90,11 +90,11 @@
 | 2019/07/11 | [ComCat M7.1 (ci38457511), 5.9 Days After, Finite Surface](2019_07_11-ComCatM7p1_ci38457511_5p9DaysAfter_FiniteSurface-noSpont-full_td-scale1.14/README.md) | 2019/07/11 | 100000 | Done | 2019/11/08 |
 | 2019/07/11 | [ComCat M7.1 (ci38457511), Finite Surface, No Faults](2019_07_11-ComCatM7p1_ci38457511_FiniteSurface_NoFaults-noSpont-poisson-griddedOnly/README.md) | 2019/07/05 | 100000 | Done | 2019/11/08 |
 | 2019/07/11 | [ComCat M7.1 (ci38457511), Finite Surface](2019_07_11-ComCatM7p1_ci38457511_FiniteSurface-noSpont-full_td-scale1.14/README.md) | 2019/07/05 | 100000 | Done | 2019/11/08 |
-| 2019/07/06 | [Searless Valley Sequence Finite Fault](2019_07_06-SearlessValleySequenceFiniteFault-noSpont-full_td-10yr-following-M7.1/README.md) | 2019/07/05 | 100000 | Done | 2019/10/30 |
-| 2019/07/06 | [Searless Valley Sequence Finite Fault](2019_07_06-SearlessValleySequenceFiniteFault-noSpont-full_td-10yr-start-noon/README.md) | 2019/07/06 | 100000 | Done | 2019/10/30 |
-| 2019/07/05 | [Searles Valley M6.4 and M7.1 PointSource](2019_07_05-M7.1_SearlesValley_Sequence_UpdatedMw_and_depth/README.md) | 2019/07/05 | 100000 | Done | 2019/10/30 |
-| 2019/07/04 | [Searles Valley M6.4](2019_07_04-SearlesValleyM64-includeSpont-full_td-10yr/README.md) | 2019/07/04 | 100000 | Done | 2019/10/30 |
-| 2019/06/05 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-full_td-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2019/10/30 |
-| 2019/06/05 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-no_ert-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2019/10/30 |
+| 2019/07/06 | [Searless Valley Sequence Finite Fault](2019_07_06-SearlessValleySequenceFiniteFault-noSpont-full_td-10yr-following-M7.1/README.md) | 2019/07/05 | 100000 | Done | 2019/11/08 |
+| 2019/07/06 | [Searless Valley Sequence Finite Fault](2019_07_06-SearlessValleySequenceFiniteFault-noSpont-full_td-10yr-start-noon/README.md) | 2019/07/06 | 100000 | Done | 2019/11/08 |
+| 2019/07/05 | [Searles Valley M6.4 and M7.1 PointSource](2019_07_05-M7.1_SearlesValley_Sequence_UpdatedMw_and_depth/README.md) | 2019/07/05 | 100000 | Done | 2019/11/08 |
+| 2019/07/04 | [Searles Valley M6.4](2019_07_04-SearlesValleyM64-includeSpont-full_td-10yr/README.md) | 2019/07/04 | 100000 | Done | 2019/11/08 |
+| 2019/06/05 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-full_td-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2019/11/08 |
+| 2019/06/05 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-no_ert-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2019/11/08 |
 | 2019/02/26 | [Historical1919](2019_02_26-Historical1919-includeSpont-historicalCatalog-100yr-8threads/README.md) | 1918/12/31 | 2 | Unknown | Unknown |
 
