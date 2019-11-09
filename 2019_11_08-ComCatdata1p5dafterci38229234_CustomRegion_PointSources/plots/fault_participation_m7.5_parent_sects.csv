@@ -182,9 +182,9 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 82,North Frontal  (West),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 199,North Salt Lake,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 687,North Tahoe 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-130,Northridge,3.1592583E-5,0.0,1.5796291E-5,3.1592583E-5,3.1592583E-5,3.1592583E-5,3.1592583E-5
+130,Northridge,2.5806452E-5,0.0,1.2903226E-5,2.5806452E-5,2.5806452E-5,2.5806452E-5,2.5806452E-5
 211,Northridge Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-116,Oak Ridge (Onshore),1.5796292E-4,0.0,4.7388872E-5,9.4777744E-5,1.2637033E-4,1.5796292E-4,9.4777744E-5
+116,Oak Ridge (Onshore),1.2903225E-4,0.0,3.8709677E-5,7.7419354E-5,1.0322581E-4,1.2903225E-4,7.7419354E-5
 709,Oceanic - West Huasna,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 777,Oceanside alt1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 921,Ortigalita (North),0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -201,8 +201,8 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 193,Pine Mtn,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 93,Pinto Mtn,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 89,Pisgah-Bullion Mtn-Mesquite Lk,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-212,Pitas Point (Lower West),1.5796291E-5,0.0,0.0,1.5796291E-5,1.5796291E-5,1.5796291E-5,1.5796291E-5
-215,Pitas Point (Lower)-Montalvo,1.5796291E-5,0.0,0.0,1.5796291E-5,1.5796291E-5,1.5796291E-5,1.5796291E-5
+212,Pitas Point (Lower West),1.2903226E-5,0.0,0.0,1.2903226E-5,1.2903226E-5,1.2903226E-5,1.2903226E-5
+215,Pitas Point (Lower)-Montalvo,1.2903226E-5,0.0,0.0,1.2903226E-5,1.2903226E-5,1.2903226E-5,1.2903226E-5
 688,Pittville 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 58,Pleito,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 666,Point Reyes 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -239,7 +239,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 283,San Andreas (San Bernardino S),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 284,San Andreas (San Gorgonio Pass-Garnet HIll),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 657,San Andreas (Santa Cruz Mts) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-80,San Cayetano,6.3185165E-5,0.0,1.5796291E-5,3.1592583E-5,4.7388872E-5,6.3185165E-5,3.1592583E-5
+80,San Cayetano,5.1612904E-5,0.0,1.2903226E-5,2.5806452E-5,3.8709677E-5,5.1612904E-5,2.5806452E-5
 178,San Clemente,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 774,San Diego Trough north alt1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 177,San Diego Trough south,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -271,10 +271,10 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 185,Santa Monica Bay,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 226,Santa Monica alt 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 110,Santa Rosa Island,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-778,Santa Susana East (connector),9.4777744E-5,0.0,1.5796291E-5,4.7388872E-5,7.898146E-5,9.4777744E-5,3.1592583E-5
-227,Santa Susana alt 1,1.4216662E-4,0.0,4.7388872E-5,7.898146E-5,1.1057404E-4,1.4216662E-4,7.898146E-5
+778,Santa Susana East (connector),7.7419354E-5,0.0,1.2903226E-5,3.8709677E-5,6.451613E-5,7.7419354E-5,2.5806452E-5
+227,Santa Susana alt 1,1.16129035E-4,0.0,3.8709677E-5,6.451613E-5,9.032258E-5,1.16129035E-4,6.451613E-5
 79,Santa Ynez (East),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-77,Santa Ynez (West),1.5796291E-5,0.0,0.0,1.5796291E-5,1.5796291E-5,1.5796291E-5,1.5796291E-5
+77,Santa Ynez (West),1.2903226E-5,0.0,0.0,1.2903226E-5,1.2903226E-5,1.2903226E-5,1.2903226E-5
 781,Santa Ynez River,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 662,Sargent 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 209,Scodie Lineament,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -285,7 +285,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 210,Sierra Nevada  (No Extension),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 664,Silver Creek 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 115,Simi-Santa Rosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-202,Sisar,3.1592583E-5,0.0,0.0,1.5796291E-5,1.5796291E-5,3.1592583E-5,3.1592583E-5
+202,Sisar,2.5806452E-5,0.0,0.0,1.2903226E-5,1.2903226E-5,2.5806452E-5,2.5806452E-5
 694,Skinner Flat 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 63,So Sierra Nevada,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 189,South Cuyama,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -300,8 +300,8 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 887,Tin Mountain,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 886,Towne Pass,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 19,Trinidad (alt1),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-117,Ventura-Pitas Point,1.5796292E-4,0.0,4.7388872E-5,9.4777744E-5,1.2637033E-4,1.5796292E-4,9.4777744E-5
-112,Verdugo,1.5796291E-5,0.0,1.5796291E-5,1.5796291E-5,1.5796291E-5,1.5796291E-5,1.5796291E-5
+117,Ventura-Pitas Point,1.2903225E-4,0.0,3.8709677E-5,7.7419354E-5,1.0322581E-4,1.2903225E-4,7.7419354E-5
+112,Verdugo,1.2903226E-5,0.0,1.2903226E-5,1.2903226E-5,1.2903226E-5,1.2903226E-5,1.2903226E-5
 696,Walker Spring 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 665,West Napa 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 321,West Tahoe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
