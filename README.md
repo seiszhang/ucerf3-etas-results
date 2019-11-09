@@ -2,7 +2,7 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2019/11/08 | [ComCat data 1.5 d after ci38229234, Custom Region, Point Sources](2019_11_08-ComCatdata1p5dafterci38229234_CustomRegion_PointSources/README.md) | 2019/11/08 | 100000 | 37.1% | 2019/11/08 |
+| 2019/11/08 | [ComCat data 1.5 d after ci38229234, Custom Region, Point Sources](2019_11_08-ComCatdata1p5dafterci38229234_CustomRegion_PointSources/README.md) | 2019/11/08 | 100000 | 50.9% | 2019/11/08 |
 | 2019/11/05 | [Start 2012, 500 yr, kCOV=1.16, Spontaneous, Historical Catalog](2019_11_05-Start2012_500yr_kCOV1p16_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/11/06 |
 | 2019/11/05 | [Start 2012, 500 yr, kCOV=1.5, Spontaneous, Historical Catalog](2019_11_05-Start2012_500yr_kCOV1p5_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/11/06 |
 | 2019/11/05 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, kCOV=1.16](2019_11_05-ComCatM7p1_ci38457511_ShakeMapSurfaces_kCOV1p16/README.md) | 2019/07/05 | 100000 | Done | 2019/11/06 |
