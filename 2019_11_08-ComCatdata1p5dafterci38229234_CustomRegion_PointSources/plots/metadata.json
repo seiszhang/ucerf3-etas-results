@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1574303610930,
-  "plotEndTime": 1574303619207,
+  "plotStartTime": 1574365335672,
+  "plotEndTime": 1574365339466,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_11_08-ComCatdata1p5dafterci38229234_CustomRegion_PointSources/results_complete.bin"
   },
-  "launcherGitHash": "d821bdeaa1ea062a430cbb3a8ac703464f768348",
-  "launcherGitTime": 1574298088000,
+  "launcherGitHash": "ab21df8abf6a1bdbcaaaa6be88a610e0c02b8e6d",
+  "launcherGitTime": 1574358665000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
