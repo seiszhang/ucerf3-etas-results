@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1573843836957,
-  "plotEndTime": 1573845113060,
+  "plotStartTime": 1574306460818,
+  "plotEndTime": 1574306465384,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_07_16-ComCatM7p1_ci38457511_11DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/results_complete.bin"
   },
-  "launcherGitHash": "f809d1c8d38b71bd4763097bcc278c1d02be6c68",
-  "launcherGitTime": 1573061890000,
+  "launcherGitHash": "d821bdeaa1ea062a430cbb3a8ac703464f768348",
+  "launcherGitTime": 1574298088000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
