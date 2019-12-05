@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1574437879949,
-  "plotEndTime": 1574437882136,
+  "plotStartTime": 1575565476697,
+  "plotEndTime": 1575565478094,
   "simulationsProcessed": 1000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_09_02-Start2012_500yr_ScaleFactor1p0_Spontaneous_HistoricalCatalog/results_m5_preserve_chain.bin"
   },
-  "launcherGitHash": "ab21df8abf6a1bdbcaaaa6be88a610e0c02b8e6d",
-  "launcherGitTime": 1574358665000,
+  "launcherGitHash": "70e129f8fd38ba4c4fb1ff7ab48452999ac3fba0",
+  "launcherGitTime": 1575491411000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
