@@ -75,6 +75,12 @@ This plot shows the first few finite fault surfaces used
 
 ![Map](paper_figures/geom_compare_finite.png)
 
+| Name | Total Length (km) | Total Area (km^2) | # Points |
+|-----|-----|-----|-----|
+| ShakeMap | 61.653553 | 924.8033 | 1350 |
+| First Finite | 43.750587 | 525.007 | 585 |
+| Second Finite | 51.0 | 614.33777 | 742 |
+
 This plot shows different versions of the ShakeMap surface
 
 ![Map](paper_figures/geom_compare_shakemap.png)
