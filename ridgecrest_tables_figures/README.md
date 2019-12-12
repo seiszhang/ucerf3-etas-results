@@ -12,6 +12,7 @@ You can also view the complete list of UCERF3-ETAS simulations [here](../README.
   * [Input Plots](#input-plots)
   * [Result Plots](#result-plots)
   * [Preferred Model Individual Catalog Plots](#preferred-model-individual-catalog-plots)
+  * [Observed Event Plot (in percentile region and style)](#observed-event-plot-in-percentile-region-and-style)
   * [Geometry Overlay Plots](#geometry-overlay-plots)
 * [Summary Tables](#summary-tables)
   * [M6.4 Summary Table](#m64-summary-table)
@@ -58,6 +59,16 @@ This plot shows the first few finite fault surfaces used
 |-----|-----|-----|
 | ![Map](paper_figures/2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/sim_catalog_map_p50.0_1mo.png) | ![Map](paper_figures/2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/sim_catalog_map_p97.5_1mo.png) | ![Map](paper_figures/2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/sim_catalog_map_p99.999_1mo.png) |
 
+### Observed Event Plot (in percentile region and style)
+
+![Map](paper_figures/observed_percentile/obs_catalog_map_p97.5_1mo.png)
+
+|  | 1 d | 1 wk | 1 mo |
+|-----|-----|-----|-----|
+| M&ge;2.5 observed count | 1039 | 1560 | 1925 |
+| M&ge;2.5 observed percentile | 0.0 | 0.0 | 0.0 |
+| M&ge;3.5 observed count | 215 | 271 | 302 |
+| M&ge;3.5 observed percentile | 96.5 | 91.28571 | 80.333336 |
 ### Geometry Overlay Plots
 
 This plot shows the first few finite fault surfaces used
@@ -67,6 +78,12 @@ This plot shows the first few finite fault surfaces used
 This plot shows different versions of the ShakeMap surface
 
 ![Map](paper_figures/geom_compare_shakemap.png)
+
+| Name | Total Length (km) | Total Area (km^2) | # Points |
+|-----|-----|-----|-----|
+| Primary | 49.428116 | 741.42175 | 1080 |
+| Parallel Strands | 61.653553 | 924.8033 | 1350 |
+| Extents | 49.62296 | 744.34436 | 750 |
 
 ## Summary Tables
 
