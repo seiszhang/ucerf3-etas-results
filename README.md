@@ -17,7 +17,7 @@
 | 2019/10/18 | [Start 2012, 500 yr, kCOV=1.16, No Faults, Spontaneous, Historical Catalog](2019_10_18-Start2012_500yr_kCOV1p16_NoFaults_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/12/05 |
 | 2019/10/18 | [ComCat data 5.7 yr between historical and 2018-01-01, Statewide, Point Sources, Spontaneous, Historical Catalog](2019_10_18-ComCatdata5p7yrbetweenhistoricaland20180101_Statewide_PointSources_Spontaneous_Historical/README.md) | 2017/12/31 | 10000 | Done | 2019/12/05 |
 | 2019/10/18 | [ComCat data 7.5 yr between historical and 2019-10-18, Statewide, ShakeMap Surfaces, Spontaneous, Historical Catalog](2019_10_18-ComCatdata7p5yrbetweenhistoricaland20191018_Statewide_ShakeMapSurfaces_Spontaneous_Histor/README.md) | 2019/10/18 | 10000 | Done | 2019/12/05 |
-| 2019/10/15 | [ComCat M4.71 (nc73292360), Point Sources](2019_10_15-ComCatM4p71_nc73292360_PointSources/README.md) | 2019/10/15 | 100000 | Done | 2019/12/05 |
+| 2019/10/15 | [ComCat M4.71 (nc73292360), Point Sources](2019_10_15-ComCatM4p71_nc73292360_PointSources/README.md) | 2019/10/15 | 100000 | Done | 2019/12/12 |
 | 2019/10/15 | [Start 2012, 500 yr, kCOV=1.16, Spontaneous, Historical Catalog](2019_10_15-Start2012_500yr_kCOV1p16_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/12/05 |
 | 2019/10/11 | [Start 2012, 500 yr, Spontaneous, Historical Catalog](2019_10_11-Start2012_500yr_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/12/05 |
 | 2019/10/11 | [Start 2012, 500 yr, Spontaneous, Historical Catalog, AleatoryKTest](2019_10_11-Start2012_500yr_Spontaneous_HistoricalCatalog_AleatoryKTest/README.md) | 2011/12/31 | 1000 | Done | 2019/12/05 |
@@ -28,7 +28,7 @@
 | 2019/09/24 | [ComCat M6.4 (ci38443183), Point Sources, No Faults](2019_09_24-ComCatM6p4_ci38443183_PointSources_NoFaults/README.md) | 2019/07/04 | 100000 | Done | 2019/12/05 |
 | 2019/09/19 | [ComCat M6.4 (ci38443183), Point Sources, Impose G-R](2019_09_19-ComCatM6p4_ci38443183_PointSources_ImposeGR/README.md) | 2019/07/04 | 100000 | Done | 2019/12/05 |
 | 2019/09/19 | [ComCat M6.4 (ci38443183), 1.4 Days After, Point Sources](2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_PointSources/README.md) | 2019/07/05 | 100000 | Done | 2019/12/05 |
-| 2019/09/19 | [ComCat M6.4 (ci38443183), 1.4 Days After, ShakeMap Surface](2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_ShakeMapSurface/README.md) | 2019/07/05 | 100000 | Done | 2019/12/05 |
+| 2019/09/19 | [ComCat M6.4 (ci38443183), 1.4 Days After, ShakeMap Surface](2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_ShakeMapSurface/README.md) | 2019/07/05 | 100000 | Done | 2019/12/12 |
 | 2019/09/18 | [ComCat M7.1 (ci38457511), 7 Days After, KML Surface, ShakeMap Surface](2019_09_18-ComCatM7p1_ci38457511_7DaysAfter_KMLSurface_ShakeMapSurface/README.md) | 2019/07/12 | 100000 | Done | 2019/12/05 |
 | 2019/09/18 | [ComCat M7.1 (ci38457511), 28 Days After, KML Surface, ShakeMap Surface](2019_09_18-ComCatM7p1_ci38457511_28DaysAfter_KMLSurface_ShakeMapSurface/README.md) | 2019/08/02 | 100000 | Done | 2019/12/05 |
 | 2019/09/18 | [ComCat M7.1 (ci38457511), 28 Days After, KML Surface, ShakeMap Surface, Field-Verified](2019_09_18-ComCatM7p1_ci38457511_28DaysAfter_KMLSurface_ShakeMapSurface_FieldVerified/README.md) | 2019/08/02 | 100000 | Done | 2019/12/06 |
