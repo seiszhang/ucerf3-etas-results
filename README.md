@@ -44,8 +44,8 @@
 | 2019/09/09 | [ComCat M7.1 (ci38457511), 28 Days After, ShakeMap Surfaces (Planar Extents)](2019_09_09-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_PlanarExtents/README.md) | 2019/08/02 | 100000 | Done | 2019/12/13 |
 | 2019/09/09 | [ComCat M7.1 (ci38457511), 7 Days After, Point Sources](2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_PointSources/README.md) | 2019/07/12 | 100000 | Done | 2019/12/13 |
 | 2019/09/09 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces (Planar Extents)](2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_PlanarExtents/README.md) | 2019/07/12 | 100000 | Done | 2019/12/06 |
-| 2019/09/04 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, FM3_2](2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces_FM3_2/README.md) | 2019/07/05 | 100000 | Done | 2019/12/06 |
-| 2019/09/04 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces](2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/README.md) | 2019/07/05 | 100000 | Done | 2019/12/06 |
+| 2019/09/04 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, FM3_2](2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces_FM3_2/README.md) | 2019/07/05 | 100000 | Done | 2019/12/13 |
+| 2019/09/04 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces](2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/README.md) | 2019/07/05 | 100000 | Done | 2019/12/13 |
 | 2019/09/04 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Culled Surface](2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces_CulledSurface/README.md) | 2019/07/05 | 100000 | Done | 2019/12/06 |
 | 2019/09/03 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces (Planar Extents)](2019_09_03-ComCatM7p1_ci38457511_ShakeMapSurfaces_PlanarExtents/README.md) | 2019/07/05 | 100000 | Done | 2019/12/13 |
 | 2019/09/03 | [ComCat M7.1 (ci38457511), Point Sources, No Faults](2019_09_03-ComCatM7p1_ci38457511_PointSources_NoFaults/README.md) | 2019/07/05 | 100000 | Done | 2019/12/13 |
@@ -60,7 +60,7 @@
 | 2019/08/31 | [Start 1919, 500 yr, Scale Factor 1.0, Spontaneous, Historical Catalog](2019_08_31-Start1919_500yr_ScaleFactor1p0_Spontaneous_HistoricalCatalog/README.md) | 1918/12/31 | 1000 | Done | 2019/12/06 |
 | 2019/08/30 | [ComCat M7.1 (ci38457511), ShakeMap Surface (Version 10)](2019_08_30-ComCatM7p1_ci38457511_ShakeMapSurface_Version10/README.md) | 2019/07/05 | 100000 | Done | 2019/12/13 |
 | 2019/08/30 | [Start 1919, 500 yr, Log10(k)=-2.31, p=1.08, c=0.04, Scale Factor 1.0, Spontaneous, Historical Catalog](2019_08_30-Start1919_500yr_Log10_k_2p31_p1p08_c0p04_ScaleFactor1p0_Spontaneous_HistoricalCatalog/README.md) | 1918/12/31 | 1000 | Done | 2019/12/06 |
-| 2019/08/30 | [ComCat M7.1 (ci38457511), Mainshock Log10(k)=-2.3, ShakeMap Surfaces, Log10(k)=-3.03, p=1.15, c=0.002](2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/README.md) | 2019/07/05 | 100000 | Done | 2019/12/06 |
+| 2019/08/30 | [ComCat M7.1 (ci38457511), Mainshock Log10(k)=-2.3, ShakeMap Surfaces, Log10(k)=-3.03, p=1.15, c=0.002](2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/README.md) | 2019/07/05 | 100000 | Done | 2019/12/13 |
 | 2019/08/28 | [ComCat M7.1 (ci38457511), Mainshock Log10(k)=-2.2412, ShakeMap Surfaces, Log10(k)=-2.666, p=1.07133, c=8.0307E-4](2019_08_28-ComCatM7p1_ci38457511_MainshockLog10_k_2p2412_ShakeMapSurfaces_Log10_k_2p666_p1p07133_c8p0307E4/README.md) | 2019/07/05 | 100000 | Done | 2019/12/06 |
 | 2019/08/28 | [ComCat M7.1 (ci38457511), Mainshock Log10(k)=-2.3, ShakeMap Surfaces, Log10(k)=-3.03, p=1.15, c=4.6773514E-4](2019_08_28-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c4p6773514E4/README.md) | 2019/07/05 | 100000 | Done | 2019/12/06 |
 | 2019/08/28 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.2833, p=1.2434, c=0.0102](2019_08_28-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p2833_p1p2434_c0p0102/README.md) | 2019/07/05 | 100000 | Done | 2019/12/06 |
@@ -68,7 +68,7 @@
 | 2019/08/27 | [Start 1919, 100 yr, Log10(k)=-2.31, p=1.08, c=0.04, Spontaneous](2019_08_27-Start1919_100yr_Log10_k_2p31_p1p08_c0p04_Spontaneous/README.md) | 1918/12/31 | 1000 | Done | 2019/12/05 |
 | 2019/08/27 | [Start 1919, 100 yr, Spontaneous](2019_08_27-Start1919_100yr_Spontaneous/README.md) | 1918/12/31 | 1000 | Done | 2019/12/05 |
 | 2019/08/27 | [Start 1919, 100 yr, Spontaneous, Historical Catalog](2019_08_27-Start1919_100yr_Spontaneous_HistoricalCatalog/README.md) | 1918/12/31 | 1000 | Done | 2019/12/05 |
-| 2019/08/24 | [ComCat M7.1 (ci38457511), 49 Days After, ShakeMap Surfaces](2019_08_24-ComCatM7p1_ci38457511_49DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/23 | 100000 | Done | 2019/12/06 |
+| 2019/08/24 | [ComCat M7.1 (ci38457511), 49 Days After, ShakeMap Surfaces](2019_08_24-ComCatM7p1_ci38457511_49DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/23 | 100000 | Done | 2019/12/13 |
 | 2019/08/20 | [ComCat M7.1 (ci38457511), 28 Days After, ShakeMap Surfaces, No Faults](2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/README.md) | 2019/08/02 | 100000 | Done | 2019/12/06 |
 | 2019/08/20 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, No Faults](2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/README.md) | 2019/07/05 | 100000 | Done | 2019/12/06 |
 | 2019/08/20 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Spontaneous](2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_Spontaneous-includeSpont-full_td-scale1.14/README.md) | 2019/07/05 | 100000 | Done | 2019/12/06 |
