@@ -688,9 +688,9 @@ These are map plots of individual catalogs from the simulations, selected as the
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.
 
-Last updated at 2019/12/21 15:00:51 UTC, 24 weeks after the simulation start time.
+Last updated at 2019/12/29 07:40:13 UTC, 176.2 days after the simulation start time.
 
-Total matching ComCat events found: 2176
+Total matching ComCat events found: 2183
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
@@ -723,20 +723,20 @@ The following plots compare simulation results with ComCat data above a magnitud
 
 *Note: maps labeled 'Forecast' are for a duration that extends into the future, only forecasted values are plotted (ComCat data omitted)*
 
-|  | 1 Day | 1 Week | 1 Month | Current (24 Week) | Forecast: 1 Year |
+|  | 1 Day | 1 Week | 1 Month | Current (176.2 Day) | Forecast: 1 Year |
 |-----|-----|-----|-----|-----|-----|
 | **M&ge;Mc(t)** | ![Map](plots/comcat_compare_prob_1d_td_mc.png) | ![Map](plots/comcat_compare_prob_1wk_td_mc.png) | ![Map](plots/comcat_compare_prob_1mo_td_mc.png) | ![Map](plots/comcat_compare_prob_current_td_mc.png) | ![Map](plots/comcat_compare_prob_1yr_td_mc.png) |
-|  | Prob: 100.00%, Actual: 316 | Prob: 100.00%, Actual: 825 | Prob: 100.00%, Actual: 1175 | Prob: 100.00%, Actual: 1447 | Prob: 100.00% |
+|  | Prob: 100.00%, Actual: 316 | Prob: 100.00%, Actual: 825 | Prob: 100.00%, Actual: 1175 | Prob: 100.00%, Actual: 1454 | Prob: 100.00% |
 | **M&ge;3.5** | ![Map](plots/comcat_compare_prob_1d_m3.5.png) | ![Map](plots/comcat_compare_prob_1wk_m3.5.png) | ![Map](plots/comcat_compare_prob_1mo_m3.5.png) | ![Map](plots/comcat_compare_prob_current_m3.5.png) | ![Map](plots/comcat_compare_prob_1yr_m3.5.png) |
-|  | Prob: 100.00%, Actual: 216 | Prob: 100.00%, Actual: 271 | Prob: 100.00%, Actual: 300 | Prob: 100.00%, Actual: 326 | Prob: 100.00% |
+|  | Prob: 100.00%, Actual: 216 | Prob: 100.00%, Actual: 272 | Prob: 100.00%, Actual: 301 | Prob: 100.00%, Actual: 328 | Prob: 100.00% |
 | **M&ge;4** | ![Map](plots/comcat_compare_prob_1d_m4.png) | ![Map](plots/comcat_compare_prob_1wk_m4.png) | ![Map](plots/comcat_compare_prob_1mo_m4.png) | ![Map](plots/comcat_compare_prob_current_m4.png) | ![Map](plots/comcat_compare_prob_1yr_m4.png) |
 |  | Prob: 100.00%, Actual: 63 | Prob: 100.00%, Actual: 75 | Prob: 100.00%, Actual: 81 | Prob: 100.00%, Actual: 83 | Prob: 100.00% |
 | **M&ge;5** | ![Map](plots/comcat_compare_prob_1d_m5.png) | ![Map](plots/comcat_compare_prob_1wk_m5.png) | ![Map](plots/comcat_compare_prob_1mo_m5.png) | ![Map](plots/comcat_compare_prob_current_m5.png) | ![Map](plots/comcat_compare_prob_1yr_m5.png) |
 |  | Prob: 97.60%, Actual: 2 | Prob: 99.50%, Actual: 2 | Prob: 99.84%, Actual: 2 | Prob: 99.97%, Actual: 3 | Prob: 99.99% |
 | **M&ge;6** | ![Map](plots/comcat_compare_prob_1d_m6.png) | ![Map](plots/comcat_compare_prob_1wk_m6.png) | ![Map](plots/comcat_compare_prob_1mo_m6.png) | ![Map](plots/comcat_compare_prob_current_m6.png) | ![Map](plots/comcat_compare_prob_1yr_m6.png) |
-|  | Prob: 26.40%, Actual: 0 | Prob: 36.11%, Actual: 0 | Prob: 43.26%, Actual: 0 | Prob: 50.78%, Actual: 0 | Prob: 53.77% |
+|  | Prob: 26.40%, Actual: 0 | Prob: 36.11%, Actual: 0 | Prob: 43.26%, Actual: 0 | Prob: 50.95%, Actual: 0 | Prob: 53.77% |
 | **M&ge;7** | ![Map](plots/comcat_compare_prob_1d_m7.png) | ![Map](plots/comcat_compare_prob_1wk_m7.png) | ![Map](plots/comcat_compare_prob_1mo_m7.png) | ![Map](plots/comcat_compare_prob_current_m7.png) | ![Map](plots/comcat_compare_prob_1yr_m7.png) |
-|  | Prob: 2.37%, Actual: 0 | Prob: 3.42%, Actual: 0 | Prob: 4.36%, Actual: 0 | Prob: 5.39%, Actual: 0 | Prob: 5.84% |
+|  | Prob: 2.37%, Actual: 0 | Prob: 3.42%, Actual: 0 | Prob: 4.36%, Actual: 0 | Prob: 5.42%, Actual: 0 | Prob: 5.84% |
 | **M&ge;8** | ![Map](plots/comcat_compare_prob_1d_m8.png) | ![Map](plots/comcat_compare_prob_1wk_m8.png) | ![Map](plots/comcat_compare_prob_1mo_m8.png) | ![Map](plots/comcat_compare_prob_current_m8.png) | ![Map](plots/comcat_compare_prob_1yr_m8.png) |
 |  | Prob: 0.01%, Actual: 0 | Prob: 0.02%, Actual: 0 | Prob: 0.03%, Actual: 0 | Prob: 0.03%, Actual: 0 | Prob: 0.04% |
 
@@ -745,20 +745,20 @@ The following plots compare simulation results with ComCat data above a magnitud
 
 *Note: maps labeled 'Forecast' are for a duration that extends into the future, only forecasted values are plotted (ComCat data omitted)*
 
-|  | 1 Day | 1 Week | 1 Month | Current (24 Week) | Forecast: 1 Year |
+|  | 1 Day | 1 Week | 1 Month | Current (176.2 Day) | Forecast: 1 Year |
 |-----|-----|-----|-----|-----|-----|
 | **M&ge;Mc(t)** | ![Map](plots/comcat_compare_mean_1d_td_mc.png) | ![Map](plots/comcat_compare_mean_1wk_td_mc.png) | ![Map](plots/comcat_compare_mean_1mo_td_mc.png) | ![Map](plots/comcat_compare_mean_current_td_mc.png) | ![Map](plots/comcat_compare_mean_1yr_td_mc.png) |
-|  | Mean: 307.608, Actual: 316 | Mean: 1010.996, Actual: 825 | Mean: 1618.116, Actual: 1175 | Mean: 2395.259, Actual: 1447 | Mean: 2760.442 |
+|  | Mean: 307.608, Actual: 316 | Mean: 1010.996, Actual: 825 | Mean: 1618.116, Actual: 1175 | Mean: 2415.959, Actual: 1454 | Mean: 2760.442 |
 | **M&ge;3.5** | ![Map](plots/comcat_compare_mean_1d_m3.5.png) | ![Map](plots/comcat_compare_mean_1wk_m3.5.png) | ![Map](plots/comcat_compare_mean_1mo_m3.5.png) | ![Map](plots/comcat_compare_mean_current_m3.5.png) | ![Map](plots/comcat_compare_mean_1yr_m3.5.png) |
-|  | Mean: 139.714, Actual: 216 | Mean: 211.044, Actual: 271 | Mean: 271.751, Actual: 300 | Mean: 349.401, Actual: 326 | Mean: 385.878 |
+|  | Mean: 139.714, Actual: 216 | Mean: 211.044, Actual: 272 | Mean: 271.751, Actual: 301 | Mean: 351.470, Actual: 328 | Mean: 385.878 |
 | **M&ge;4** | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_1wk_m4.png) | ![Map](plots/comcat_compare_mean_1mo_m4.png) | ![Map](plots/comcat_compare_mean_current_m4.png) | ![Map](plots/comcat_compare_mean_1yr_m4.png) |
-|  | Mean: 44.077, Actual: 63 | Mean: 66.586, Actual: 75 | Mean: 85.761, Actual: 81 | Mean: 110.254, Actual: 83 | Mean: 121.752 |
+|  | Mean: 44.077, Actual: 63 | Mean: 66.586, Actual: 75 | Mean: 85.761, Actual: 81 | Mean: 110.904, Actual: 83 | Mean: 121.752 |
 | **M&ge;5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_1wk_m5.png) | ![Map](plots/comcat_compare_mean_1mo_m5.png) | ![Map](plots/comcat_compare_mean_current_m5.png) | ![Map](plots/comcat_compare_mean_1yr_m5.png) |
-|  | Mean: 4.286, Actual: 2 | Mean: 6.462, Actual: 2 | Mean: 8.324, Actual: 2 | Mean: 10.708, Actual: 3 | Mean: 11.823 |
+|  | Mean: 4.286, Actual: 2 | Mean: 6.462, Actual: 2 | Mean: 8.324, Actual: 2 | Mean: 10.772, Actual: 3 | Mean: 11.823 |
 | **M&ge;6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_1wk_m6.png) | ![Map](plots/comcat_compare_mean_1mo_m6.png) | ![Map](plots/comcat_compare_mean_current_m6.png) | ![Map](plots/comcat_compare_mean_1yr_m6.png) |
-|  | Mean: 0.325, Actual: 0 | Mean: 0.486, Actual: 0 | Mean: 0.630, Actual: 0 | Mean: 0.810, Actual: 0 | Mean: 0.893 |
+|  | Mean: 0.325, Actual: 0 | Mean: 0.486, Actual: 0 | Mean: 0.630, Actual: 0 | Mean: 0.815, Actual: 0 | Mean: 0.893 |
 | **M&ge;7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_1wk_m7.png) | ![Map](plots/comcat_compare_mean_1mo_m7.png) | ![Map](plots/comcat_compare_mean_current_m7.png) | ![Map](plots/comcat_compare_mean_1yr_m7.png) |
-|  | Mean: 0.024, Actual: 0 | Mean: 0.035, Actual: 0 | Mean: 0.044, Actual: 0 | Mean: 0.055, Actual: 0 | Mean: 0.060 |
+|  | Mean: 0.024, Actual: 0 | Mean: 0.035, Actual: 0 | Mean: 0.044, Actual: 0 | Mean: 0.056, Actual: 0 | Mean: 0.060 |
 | **M&ge;8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_1wk_m8.png) | ![Map](plots/comcat_compare_mean_1mo_m8.png) | ![Map](plots/comcat_compare_mean_current_m8.png) | ![Map](plots/comcat_compare_mean_1yr_m8.png) |
 |  | Mean: 1.40E-4, Actual: 0 | Mean: 1.90E-4, Actual: 0 | Mean: 2.60E-4, Actual: 0 | Mean: 3.30E-4, Actual: 0 | Mean: 3.50E-4 |
 
