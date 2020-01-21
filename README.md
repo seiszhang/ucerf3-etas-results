@@ -89,7 +89,7 @@
 | 2019/07/16 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces](2019_07_16-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/07/12 | 100000 | Done | 2020/01/20 |
 | 2019/07/16 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces](2019_07_16-ComCatM7p1_ci38457511_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/07/05 | 100000 | Done | 2020/01/20 |
 | 2019/07/12 | [ComCat M7.1 (ci38457511), 7 Days After, Finite Surface](2019_07_12-ComCatM7p1_ci38457511_7DaysAfter_FiniteSurface-noSpont-full_td-scale1.14/README.md) | 2019/07/12 | 100000 | Done | 2020/01/20 |
-| 2019/07/11 | [ComCat M7.1 (ci38457511), 5.9 Days After, Finite Surface](2019_07_11-ComCatM7p1_ci38457511_5p9DaysAfter_FiniteSurface-noSpont-full_td-scale1.14/README.md) | 2019/07/11 | 100000 | Done | 2020/01/13 |
+| 2019/07/11 | [ComCat M7.1 (ci38457511), 5.9 Days After, Finite Surface](2019_07_11-ComCatM7p1_ci38457511_5p9DaysAfter_FiniteSurface-noSpont-full_td-scale1.14/README.md) | 2019/07/11 | 100000 | Done | 2020/01/20 |
 | 2019/07/11 | [ComCat M7.1 (ci38457511), Finite Surface, No Faults](2019_07_11-ComCatM7p1_ci38457511_FiniteSurface_NoFaults-noSpont-poisson-griddedOnly/README.md) | 2019/07/05 | 100000 | Done | 2020/01/20 |
 | 2019/07/11 | [ComCat M7.1 (ci38457511), Finite Surface](2019_07_11-ComCatM7p1_ci38457511_FiniteSurface-noSpont-full_td-scale1.14/README.md) | 2019/07/05 | 100000 | Done | 2020/01/20 |
 | 2019/07/06 | [Searless Valley Sequence Finite Fault](2019_07_06-SearlessValleySequenceFiniteFault-noSpont-full_td-10yr-following-M7.1/README.md) | 2019/07/05 | 100000 | Done | 2019/12/07 |
