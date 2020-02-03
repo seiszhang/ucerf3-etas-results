@@ -36,7 +36,7 @@
 | 2019/09/17 | [ComCat M7.1 (ci38457511), KML Surface, ShakeMap Surface, Field-Verified](2019_09_17-ComCatM7p1_ci38457511_KMLSurface_ShakeMapSurface_FieldVerified/README.md) | 2019/07/05 | 100000 | Done | 2020/02/02 |
 | 2019/09/17 | [ComCat M7.1 (ci38457511), KML Surface, ShakeMap Surface](2019_09_17-ComCatM7p1_ci38457511_KMLSurface_ShakeMapSurface/README.md) | 2019/07/05 | 100000 | Done | 2020/02/03 |
 | 2019/09/16 | [ComCat M7.1 (ci38457511), 70 Days After, ShakeMap Surfaces](2019_09_16-ComCatM7p1_ci38457511_70DaysAfter_ShakeMapSurfaces/README.md) | 2019/09/13 | 100000 | Done | 2020/02/03 |
-| 2019/09/12 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces, No Faults](2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/README.md) | 2019/07/12 | 100000 | Done | 2020/01/26 |
+| 2019/09/12 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces, No Faults](2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_NoFaults/README.md) | 2019/07/12 | 100000 | Done | 2020/02/03 |
 | 2019/09/12 | [ComCat M7.1 (ci38457511), 28 Days After, ShakeMap Surfaces](2019_09_12-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces/README.md) | 2019/08/02 | 100000 | Done | 2020/02/02 |
 | 2019/09/12 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces](2019_09_12-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces/README.md) | 2019/07/12 | 100000 | Done | 2020/02/02 |
 | 2019/09/09 | [ComCat M7.1 (ci38457511), 63 Days After, ShakeMap Surfaces](2019_09_09-ComCatM7p1_ci38457511_63DaysAfter_ShakeMapSurfaces/README.md) | 2019/09/06 | 100000 | Done | 2020/02/02 |
@@ -46,7 +46,7 @@
 | 2019/09/09 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces (Planar Extents)](2019_09_09-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces_PlanarExtents/README.md) | 2019/07/12 | 100000 | Done | 2020/01/27 |
 | 2019/09/04 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, FM3_2](2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces_FM3_2/README.md) | 2019/07/05 | 100000 | Done | 2020/01/27 |
 | 2019/09/04 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces](2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces/README.md) | 2019/07/05 | 100000 | Done | 2020/01/27 |
-| 2019/09/04 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Culled Surface](2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces_CulledSurface/README.md) | 2019/07/05 | 100000 | Done | 2020/01/27 |
+| 2019/09/04 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Culled Surface](2019_09_04-ComCatM7p1_ci38457511_ShakeMapSurfaces_CulledSurface/README.md) | 2019/07/05 | 100000 | Done | 2020/02/03 |
 | 2019/09/03 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces (Planar Extents)](2019_09_03-ComCatM7p1_ci38457511_ShakeMapSurfaces_PlanarExtents/README.md) | 2019/07/05 | 100000 | Done | 2020/01/27 |
 | 2019/09/03 | [ComCat M7.1 (ci38457511), Point Sources, No Faults](2019_09_03-ComCatM7p1_ci38457511_PointSources_NoFaults/README.md) | 2019/07/05 | 100000 | Done | 2020/01/27 |
 | 2019/09/02 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Scale Factor 1.0](2019_09_02-ComCatM7p1_ci38457511_ShakeMapSurfaces_ScaleFactor1p0/README.md) | 2019/07/05 | 100000 | Done | 2020/01/28 |
