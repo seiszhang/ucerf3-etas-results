@@ -3,6 +3,7 @@
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
 | 2020/03/03 | [M7AwaySAF](2020_03_03-M7AwaySAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/04 |
+| 2020/03/03 | [M7OnSAF](2020_03_03-M7OnSAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/04 |
 | 2020/03/03 | [M6.5OnSAF](2020_03_03-M6p5OnSAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/03 |
 | 2020/03/03 | [M6.5AwaySAF](2020_03_03-M6p5AwaySAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/03 |
 | 2020/03/03 | [M6AwaySAF](2020_03_03-M6AwaySAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/03 |
