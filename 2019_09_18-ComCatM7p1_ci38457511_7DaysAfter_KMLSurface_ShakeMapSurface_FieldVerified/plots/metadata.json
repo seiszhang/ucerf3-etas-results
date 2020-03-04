@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1582639893223,
-  "plotEndTime": 1582641172190,
+  "plotStartTime": 1583292599237,
+  "plotEndTime": 1583293671958,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_09_18-ComCatM7p1_ci38457511_7DaysAfter_KMLSurface_ShakeMapSurface_FieldVerified/results_complete.bin"

@@ -1,0 +1,11 @@
+{
+  "plotStartTime": 1583291445551,
+  "plotEndTime": 1583292045010,
+  "simulationsProcessed": 25000,
+  "dataFile": {
+    "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2020_03_03-M6p5OnSAF/results_complete.bin"
+  },
+  "launcherGitHash": "3346acc75dbe1cf4f0e6848a28bccd0b48d381a6",
+  "launcherGitTime": 1575574016000,
+  "plots": []
+}

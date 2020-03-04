@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1582649896779,
-  "plotEndTime": 1582650898919,
+  "plotStartTime": 1583294338700,
+  "plotEndTime": 1583295174685,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_09_09-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_PlanarExtents/results_complete.bin"

@@ -1,0 +1,12 @@
+Section Name,"Strike, Dip, Rake",Hypocenter In Polygon?,Surface In Polygon?,Minimum Distance (km),Minimum Poly Distance (km)
+San Andreas (Mojave S),"115, 90, 180",true,true,0.323,0.000
+San Andreas (Mojave N),"109, 90, 180",false,false,0.948,0.895
+San Gabriel,"313, 61, 161",false,false,18.037,15.250
+Pine Mtn,"266, 45, 90",false,false,25.867,25.538
+San Cayetano,"276, 42, 90",false,false,27.931,25.676
+Garlock (West),"64, 90, 0",false,false,30.102,18.247
+Holser alt 1,"99, 58, 90",false,false,30.691,27.937
+Del Valle,"106, 73, 90",false,false,34.632,27.597
+Northridge,"112, 35, 90",false,false,34.759,34.607
+Pleito,"91, 46, 90",false,false,38.367,37.379
+Oak Ridge (Onshore),"81, 65, 90",false,false,39.043,36.144
