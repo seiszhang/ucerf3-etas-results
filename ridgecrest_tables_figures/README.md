@@ -2,6 +2,8 @@
 
 This is a landing page for various Ridgecrest figures and tables. Click on the simulation names in the tables below to see the details of each simulation, along with *many* plots.
 
+Read the [article published in Seismological Research Letters here](https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220190294/582898/Operational-Earthquake-Forecasting-during-the-2019).
+
 Download my [2019 AGU Fall Meeting poster here](Milner_2019_AGU_Poster.pdf), or [read the abstract here](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/590411).
 
 Download my [2019 SCEC Annual Meeting poster here](Milner_2019_SCEC_Poster.pdf), or [read the abstract here](https://www.scec.org/publication/9401).
