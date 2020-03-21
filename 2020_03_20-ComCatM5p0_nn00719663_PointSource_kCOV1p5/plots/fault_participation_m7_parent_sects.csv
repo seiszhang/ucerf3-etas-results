@@ -31,7 +31,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 724,Camp Rock 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 173,Canada David (Detachment),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 176,Carlsbad,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-721,Carson Range (Genoa),4.4827585E-4,1.724138E-4,2.0689656E-4,2.4137931E-4,3.7931034E-4,4.4827585E-4,3.1034483E-4
+721,Carson Range (Genoa),4.4624746E-4,1.4198782E-4,2.2312373E-4,2.8397565E-4,3.8539554E-4,4.4624746E-4,2.434077E-4
 670,Casmalia 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 34,Cedar Mtn-Mahogany Mtn,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 172,Cerro Prieto,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -207,14 +207,14 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 58,Pleito,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 666,Point Reyes 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 843,Point Reyes 2011 connector,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-545,Polaris 2011 CFM,3.448276E-5,0.0,0.0,0.0,3.448276E-5,3.448276E-5,0.0
+545,Polaris 2011 CFM,2.0283976E-5,0.0,0.0,0.0,2.0283976E-5,2.0283976E-5,0.0
 240,Puente Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 648,Quien Sabe 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 152,Raymond,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 118,Red Mountain,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 161,Red Pass,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 232,Redondo Canyon alt 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-649,Reliz 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+649,Reliz 2011 CFM,2.0283976E-5,0.0,0.0,0.0,2.0283976E-5,2.0283976E-5,0.0
 205,Richfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 650,Rinconada 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 38,Robinson Creek,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -246,7 +246,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 247,San Gabriel,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 248,San Gabriel (Extension),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 194,San Gorgonio Pass,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-660,San Gregorio (North) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+660,San Gregorio (North) 2011 CFM,2.0283976E-5,0.0,0.0,0.0,2.0283976E-5,2.0283976E-5,0.0
 661,San Gregorio (South) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 293,San Jacinto (Anza) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 99,San Jacinto (Borrego),0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -304,7 +304,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 112,Verdugo,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 696,Walker Spring 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 665,West Napa 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-321,West Tahoe,3.448276E-5,0.0,0.0,0.0,3.448276E-5,3.448276E-5,0.0
+321,West Tahoe,2.0283976E-5,0.0,0.0,0.0,2.0283976E-5,2.0283976E-5,0.0
 44,White Mountains,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 253,White Wolf,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 254,White Wolf (Extension),0.0,0.0,0.0,0.0,0.0,0.0,0.0

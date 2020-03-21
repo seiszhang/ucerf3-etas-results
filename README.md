@@ -2,7 +2,7 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2020/03/20 | [ComCat M5.0 (nn00719663), Point Source, kCOV=1.5](2020_03_20-ComCatM5p0_nn00719663_PointSource_kCOV1p5/README.md) | 2020/03/20 | 100000 | 29% | 2020/03/20 |
+| 2020/03/20 | [ComCat M5.0 (nn00719663), Point Source, kCOV=1.5](2020_03_20-ComCatM5p0_nn00719663_PointSource_kCOV1p5/README.md) | 2020/03/20 | 100000 | 49.3% | 2020/03/20 |
 | 2020/03/03 | [M7AwaySAF](2020_03_03-M7AwaySAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/04 |
 | 2020/03/03 | [M7OnSAF](2020_03_03-M7OnSAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/04 |
 | 2020/03/03 | [M6.5OnSAF](2020_03_03-M6p5OnSAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/03 |
@@ -92,7 +92,7 @@
 | 2019/07/27 | [ComCat M7.1 (ci38457511), 21 Days After, ShakeMap Surfaces](2019_07_27-ComCatM7p1_ci38457511_21DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/07/26 | 100000 | Done | 2020/03/18 |
 | 2019/07/25 | [ComCat M7.1 (ci38457511), 19.6 Days After, ShakeMap Surfaces](2019_07_25-ComCatM7p1_ci38457511_19p6DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/07/25 | 100000 | Done | 2020/03/20 |
 | 2019/07/18 | [ComCat M7.1 (ci38457511), Inverted Surface, ShakeMap Surface](2019_07_18-ComCatM7p1_ci38457511_InvertedSurface_ShakeMapSurface-noSpont-full_td-scale1.14/README.md) | 2019/07/05 | 100000 | Done | 2020/03/20 |
-| 2019/07/16 | [ComCat M7.1 (ci38457511), 11 Days After, ShakeMap Surfaces](2019_07_16-ComCatM7p1_ci38457511_11DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/07/16 | 100000 | Done | 2020/03/13 |
+| 2019/07/16 | [ComCat M7.1 (ci38457511), 11 Days After, ShakeMap Surfaces](2019_07_16-ComCatM7p1_ci38457511_11DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/07/16 | 100000 | Done | 2020/03/21 |
 | 2019/07/16 | [ComCat M7.1 (ci38457511), 7 Days After, ShakeMap Surfaces](2019_07_16-ComCatM7p1_ci38457511_7DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/07/12 | 100000 | Done | 2020/03/19 |
 | 2019/07/16 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces](2019_07_16-ComCatM7p1_ci38457511_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/07/05 | 100000 | Done | 2020/03/13 |
 | 2019/07/12 | [ComCat M7.1 (ci38457511), 7 Days After, Finite Surface](2019_07_12-ComCatM7p1_ci38457511_7DaysAfter_FiniteSurface-noSpont-full_td-scale1.14/README.md) | 2019/07/12 | 100000 | Done | 2020/03/20 |

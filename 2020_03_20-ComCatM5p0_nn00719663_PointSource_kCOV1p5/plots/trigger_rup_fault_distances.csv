@@ -1,4 +1,6 @@
 Section Name,"Strike, Dip, Rake",Hypocenter In Polygon?,Surface In Polygon?,Minimum Distance (km),Minimum Poly Distance (km)
-Carson Range (Genoa),"352, 50, -90",false,false,2.691,0.233
+Carson Range (Genoa),"353, 50, -90",false,false,2.691,0.233
 Incline Village 2011 CFM,"17, 50, -90",false,false,12.592,12.375
-North Tahoe 2011 CFM,"15, 50, -90",false,false,15.603,15.107
+North Tahoe 2011 CFM,"17, 50, -90",false,false,15.603,15.107
+West Tahoe,"351, 50, -90",false,false,21.980,21.624
+Antelope Valley 2011,"334, 50, -90",false,false,31.880,31.047
