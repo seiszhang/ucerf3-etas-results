@@ -51,7 +51,7 @@
     "region": {
       "centerLatitude": 39.113,
       "centerLongitude": -119.7273,
-      "radius": 1.6982436524617426
+      "radius": 10
     },
     "eventID": "nn00719663",
     "minDepth": -10.0,
