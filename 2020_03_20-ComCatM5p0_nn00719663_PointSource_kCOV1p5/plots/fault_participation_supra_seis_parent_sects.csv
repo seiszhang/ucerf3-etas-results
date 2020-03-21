@@ -23,15 +23,15 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 94,Burnt Mtn,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 561,Butano 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 165,Cady,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-602,Calaveras (Central) 2011 CFM,1.6920474E-5,0.0,0.0,0.0,1.6920474E-5,1.6920474E-5,0.0
-601,Calaveras (No) 2011 CFM,1.6920474E-5,0.0,0.0,0.0,0.0,1.6920474E-5,0.0
+602,Calaveras (Central) 2011 CFM,1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
+601,Calaveras (No) 2011 CFM,1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
 621,Calaveras (So) - Paicines extension 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 603,Calaveras (So) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 88,Calico-Hidalgo,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 724,Camp Rock 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 173,Canada David (Detachment),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 176,Carlsbad,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-721,Carson Range (Genoa),0.012064298,0.004534687,0.006277496,0.0074957698,0.010084602,0.011962775,0.007681895
+721,Carson Range (Genoa),0.01186,0.00462,0.00631,0.00753,0.0099,0.01175,0.00743
 670,Casmalia 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 34,Cedar Mtn-Mahogany Mtn,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 172,Cerro Prieto,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -110,9 +110,9 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 636,Greenville (No) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 635,Greenville (So) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 702,Hartley Springs 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-37,Hat Creek-McArthur-Mayfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,Hat Creek-McArthur-Mayfield,1.0E-5,0.0,0.0,1.0E-5,1.0E-5,1.0E-5,0.0
 639,Hayward (No) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-638,Hayward (So) 2011 CFM,1.6920474E-5,0.0,0.0,0.0,1.6920474E-5,1.6920474E-5,0.0
+638,Hayward (So) 2011 CFM,1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
 637,Hayward (So) extension 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 167,Hector Mine,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 84,Helendale-So Lockhart,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -120,7 +120,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 108,Hollywood,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 228,Holser alt 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 723,Homestead Valley 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-704,Honey Lake 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+704,Honey Lake 2011 CFM,1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
 30,Hosgri,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 208,Hosgri (Extension),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 50,Hunter Mountain-Saline Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -153,7 +153,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 780,Los Alamos extension,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 643,Los Medanos - Roe Island,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 74,Los Osos 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-201,Lost Hills,1.6920474E-5,0.0,0.0,0.0,0.0,1.6920474E-5,0.0
+201,Lost Hills,1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
 166,Ludlow,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 644,Maacama 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 22,Mad River (alt1),0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -170,7 +170,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 686,Mohawk Valley 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 707,Mono Lake 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 646,Monte Vista - Shannon 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-11,Monterey Bay-Tularcitos,1.6920474E-5,0.0,0.0,0.0,1.6920474E-5,1.6920474E-5,0.0
+11,Monterey Bay-Tularcitos,1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
 188,Morales (East),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 187,Morales (West),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 711,Mount Diablo Thrust North CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -181,7 +181,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 83,North Frontal  (East),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 82,North Frontal  (West),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 199,North Salt Lake,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-687,North Tahoe 2011 CFM,1.1844331E-4,5.076142E-5,8.460237E-5,1.0152284E-4,1.0152284E-4,1.1844331E-4,0.0
+687,North Tahoe 2011 CFM,1.2E-4,4.0E-5,6.0E-5,7.0E-5,9.0E-5,1.2E-4,1.0E-5
 130,Northridge,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 211,Northridge Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 116,Oak Ridge (Onshore),0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -207,17 +207,17 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 58,Pleito,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 666,Point Reyes 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 843,Point Reyes 2011 connector,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-545,Polaris 2011 CFM,1.6920474E-5,0.0,0.0,0.0,1.6920474E-5,1.6920474E-5,0.0
+545,Polaris 2011 CFM,1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
 240,Puente Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 648,Quien Sabe 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 152,Raymond,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 118,Red Mountain,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 161,Red Pass,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 232,Redondo Canyon alt 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-649,Reliz 2011 CFM,1.6920474E-5,0.0,0.0,0.0,1.6920474E-5,1.6920474E-5,0.0
+649,Reliz 2011 CFM,1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
 205,Richfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 650,Rinconada 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-38,Robinson Creek,1.6920474E-5,0.0,0.0,0.0,1.6920474E-5,1.6920474E-5,0.0
+38,Robinson Creek,1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
 689,Rocky Ledge 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 651,Rodgers Creek - Healdsburg 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 123,Rose Canyon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -246,7 +246,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 247,San Gabriel,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 248,San Gabriel (Extension),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 194,San Gorgonio Pass,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-660,San Gregorio (North) 2011 CFM,1.6920474E-5,0.0,0.0,0.0,1.6920474E-5,1.6920474E-5,0.0
+660,San Gregorio (North) 2011 CFM,1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
 661,San Gregorio (South) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 293,San Jacinto (Anza) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 99,San Jacinto (Borrego),0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -304,7 +304,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 112,Verdugo,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 696,Walker Spring 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 665,West Napa 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-321,West Tahoe,1.6920474E-5,0.0,0.0,0.0,1.6920474E-5,1.6920474E-5,0.0
+321,West Tahoe,6.0E-5,0.0,0.0,1.0E-5,4.0E-5,6.0E-5,0.0
 44,White Mountains,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 253,White Wolf,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 254,White Wolf (Extension),0.0,0.0,0.0,0.0,0.0,0.0,0.0

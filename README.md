@@ -2,7 +2,7 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2020/03/20 | [ComCat M5.0 (nn00719663), Point Source, kCOV=1.5](2020_03_20-ComCatM5p0_nn00719663_PointSource_kCOV1p5/README.md) | 2020/03/20 | 100000 | 59.1% | 2020/03/21 |
+| 2020/03/20 | [ComCat M5.0 (nn00719663), Point Source, kCOV=1.5](2020_03_20-ComCatM5p0_nn00719663_PointSource_kCOV1p5/README.md) | 2020/03/20 | 100000 | Done | 2020/03/21 |
 | 2020/03/03 | [M7AwaySAF](2020_03_03-M7AwaySAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/04 |
 | 2020/03/03 | [M7OnSAF](2020_03_03-M7OnSAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/04 |
 | 2020/03/03 | [M6.5OnSAF](2020_03_03-M6p5OnSAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/03 |
