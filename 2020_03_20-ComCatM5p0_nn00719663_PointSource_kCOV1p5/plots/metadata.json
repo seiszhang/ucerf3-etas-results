@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1584833611818,
-  "plotEndTime": 1584833933891,
+  "plotStartTime": 1584837204669,
+  "plotEndTime": 1584837557873,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2020_03_20-ComCatM5p0_nn00719663_PointSource_kCOV1p5/results_complete.bin"
