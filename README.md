@@ -2,7 +2,7 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2020/03/20 | [ComCat M5.0 (nn00719663), Point Source, kCOV=1.5](2020_03_20-ComCatM5p0_nn00719663_PointSource_kCOV1p5/README.md) | 2020/03/20 | 100000 | Done | 2020/03/24 |
+| 2020/03/20 | [ComCat M5.0 (nn00719663), Point Source, kCOV=1.5](2020_03_20-ComCatM5p0_nn00719663_PointSource_kCOV1p5/README.md) | 2020/03/20 | 100000 | Done | 2020/03/25 |
 | 2020/03/03 | [M7AwaySAF](2020_03_03-M7AwaySAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/04 |
 | 2020/03/03 | [M7OnSAF](2020_03_03-M7OnSAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/04 |
 | 2020/03/03 | [M6.5OnSAF](2020_03_03-M6p5OnSAF/README.md) | 2019/12/31 | 25000 | Done | 2020/03/03 |
@@ -33,7 +33,7 @@
 | 2019/09/30 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.3856, p=1.2164, c=0.0068906](2019_09_30-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p3856_p1p2164_c0p0068906/README.md) | 2019/07/05 | 100000 | Done | 2020/03/19 |
 | 2019/09/27 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.52, p=1.21, c=0.004168694, ModMag6.53](2019_09_27-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p52_p1p21_c0p004168694_ModMag6p53/README.md) | 2019/07/05 | 100000 | Done | 2020/03/18 |
 | 2019/09/24 | [ComCat M6.4 (ci38443183), Point Sources, No Faults](2019_09_24-ComCatM6p4_ci38443183_PointSources_NoFaults/README.md) | 2019/07/04 | 100000 | Done | 2020/03/19 |
-| 2019/09/19 | [ComCat M6.4 (ci38443183), Point Sources, Impose G-R](2019_09_19-ComCatM6p4_ci38443183_PointSources_ImposeGR/README.md) | 2019/07/04 | 100000 | Done | 2020/03/17 |
+| 2019/09/19 | [ComCat M6.4 (ci38443183), Point Sources, Impose G-R](2019_09_19-ComCatM6p4_ci38443183_PointSources_ImposeGR/README.md) | 2019/07/04 | 100000 | Done | 2020/03/25 |
 | 2019/09/19 | [ComCat M6.4 (ci38443183), 1.4 Days After, Point Sources](2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_PointSources/README.md) | 2019/07/05 | 100000 | Done | 2020/03/18 |
 | 2019/09/19 | [ComCat M6.4 (ci38443183), 1.4 Days After, ShakeMap Surface](2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_ShakeMapSurface/README.md) | 2019/07/05 | 100000 | Done | 2020/03/23 |
 | 2019/09/18 | [ComCat M7.1 (ci38457511), 7 Days After, KML Surface, ShakeMap Surface](2019_09_18-ComCatM7p1_ci38457511_7DaysAfter_KMLSurface_ShakeMapSurface/README.md) | 2019/07/12 | 100000 | Done | 2020/03/24 |
