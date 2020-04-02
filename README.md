@@ -34,7 +34,7 @@
 | 2019/09/27 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.52, p=1.21, c=0.004168694, ModMag6.53](2019_09_27-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p52_p1p21_c0p004168694_ModMag6p53/README.md) | 2019/07/05 | 100000 | Done | 2020/04/01 |
 | 2019/09/24 | [ComCat M6.4 (ci38443183), Point Sources, No Faults](2019_09_24-ComCatM6p4_ci38443183_PointSources_NoFaults/README.md) | 2019/07/04 | 100000 | Done | 2020/03/26 |
 | 2019/09/19 | [ComCat M6.4 (ci38443183), Point Sources, Impose G-R](2019_09_19-ComCatM6p4_ci38443183_PointSources_ImposeGR/README.md) | 2019/07/04 | 100000 | Done | 2020/04/01 |
-| 2019/09/19 | [ComCat M6.4 (ci38443183), 1.4 Days After, Point Sources](2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_PointSources/README.md) | 2019/07/05 | 100000 | Done | 2020/03/25 |
+| 2019/09/19 | [ComCat M6.4 (ci38443183), 1.4 Days After, Point Sources](2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_PointSources/README.md) | 2019/07/05 | 100000 | Done | 2020/04/02 |
 | 2019/09/19 | [ComCat M6.4 (ci38443183), 1.4 Days After, ShakeMap Surface](2019_09_19-ComCatM6p4_ci38443183_1p4DaysAfter_ShakeMapSurface/README.md) | 2019/07/05 | 100000 | Done | 2020/03/31 |
 | 2019/09/18 | [ComCat M7.1 (ci38457511), 7 Days After, KML Surface, ShakeMap Surface](2019_09_18-ComCatM7p1_ci38457511_7DaysAfter_KMLSurface_ShakeMapSurface/README.md) | 2019/07/12 | 100000 | Done | 2020/04/01 |
 | 2019/09/18 | [ComCat M7.1 (ci38457511), 28 Days After, KML Surface, ShakeMap Surface](2019_09_18-ComCatM7p1_ci38457511_28DaysAfter_KMLSurface_ShakeMapSurface/README.md) | 2019/08/02 | 100000 | Done | 2020/04/01 |
@@ -65,7 +65,7 @@
 | 2019/08/31 | [ComCat M7.1 (ci38457511), 56 Days After, ShakeMap Surfaces](2019_08_31-ComCatM7p1_ci38457511_56DaysAfter_ShakeMapSurfaces/README.md) | 2019/08/30 | 100000 | Done | 2020/03/27 |
 | 2019/08/31 | [Start 1919, 100 yr, Log10(k)=-2.31, p=1.08, c=0.04, Scale Factor 1.1338, Spontaneous, Historical Catalog](2019_08_31-Start1919_100yr_Log10_k_2p31_p1p08_c0p04_ScaleFactor1p1338_Spontaneous_HistoricalCatalog/README.md) | 1918/12/31 | 1000 | Done | 2019/12/06 |
 | 2019/08/31 | [Start 1919, 500 yr, Scale Factor 1.0, Spontaneous, Historical Catalog](2019_08_31-Start1919_500yr_ScaleFactor1p0_Spontaneous_HistoricalCatalog/README.md) | 1918/12/31 | 1000 | Done | 2019/12/06 |
-| 2019/08/30 | [ComCat M7.1 (ci38457511), ShakeMap Surface (Version 10)](2019_08_30-ComCatM7p1_ci38457511_ShakeMapSurface_Version10/README.md) | 2019/07/05 | 100000 | Done | 2020/03/26 |
+| 2019/08/30 | [ComCat M7.1 (ci38457511), ShakeMap Surface (Version 10)](2019_08_30-ComCatM7p1_ci38457511_ShakeMapSurface_Version10/README.md) | 2019/07/05 | 100000 | Done | 2020/04/02 |
 | 2019/08/30 | [Start 1919, 500 yr, Log10(k)=-2.31, p=1.08, c=0.04, Scale Factor 1.0, Spontaneous, Historical Catalog](2019_08_30-Start1919_500yr_Log10_k_2p31_p1p08_c0p04_ScaleFactor1p0_Spontaneous_HistoricalCatalog/README.md) | 1918/12/31 | 1000 | Done | 2019/12/06 |
 | 2019/08/30 | [ComCat M7.1 (ci38457511), Mainshock Log10(k)=-2.3, ShakeMap Surfaces, Log10(k)=-3.03, p=1.15, c=0.002](2019_08_30-ComCatM7p1_ci38457511_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/README.md) | 2019/07/05 | 100000 | Done | 2020/03/26 |
 | 2019/08/28 | [ComCat M7.1 (ci38457511), Mainshock Log10(k)=-2.2412, ShakeMap Surfaces, Log10(k)=-2.666, p=1.07133, c=8.0307E-4](2019_08_28-ComCatM7p1_ci38457511_MainshockLog10_k_2p2412_ShakeMapSurfaces_Log10_k_2p666_p1p07133_c8p0307E4/README.md) | 2019/07/05 | 100000 | Done | 2020/03/27 |
