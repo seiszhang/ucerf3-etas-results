@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+	border-collapse: collapse
+}
+table, th, td {
+	border: 1px solid black
+}
+body {
+	max-width:1000px;
+	margin: auto;
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+</style>
+</head>
+<body>
+<h1 id="etas-configuration-for-comcat-m487-ci39126079-47-days-after-point-sources-kcov15">ETAS Configuration for ComCat M4.87 (ci39126079), 4.7 Days After, Point Sources, kCOV=1.5</h1>
+<table>
+<thead>
+<tr><th></th><th>ComCat M4.87 (ci39126079), 4.7 Days After, Point Sources, kCOV=1.5</th></tr>
+</thead>
+<tbody>
+<tr><td>Num Simulations</td><td>100000</td></tr>
+<tr><td>Start Time</td><td>2020/04/08 17:48:08 UTC</td></tr>
+<tr><td>Start Time Epoch Milliseconds</td><td>1586368088968</td></tr>
+<tr><td>Duration</td><td>10 Years</td></tr>
+<tr><td>Includes Spontaneous?</td><td>false</td></tr>
+<tr><td>Trigger Ruptures</td><td>23 Trigger Ruptures</td></tr>
+<tr><td></td><td>First: M4.87 at 2020/04/04 01:53:18 UTC</td></tr>
+<tr><td></td><td>Last: M2.63 at 2020/04/08 04:03:49 UTC</td></tr>
+<tr><td></td><td>Largest: M4.87 at 2020/04/04 01:53:18 UTC</td></tr>
+<tr><td>Trigger Ruptures</td><td><em>(none)</em></td></tr>
+<tr><td>Config Generated With</td><td>u3etas_comcat_event_config_builder.sh --event-id ci39126079 --radius 10 --mag-complete 2.5 --num-simulations 100000 --days-before 7 --end-now --etas-k-cov 1.5 --finite-surf-shakemap --finite-surf-shakemap-min-mag 4.5 --hpc-site USC_HPC --nodes 32 --hours 24</td></tr>
+</tbody>
+</table>
+<h2 id="table-of-contents">Table Of Contents</h2>
+<ul>
+<li><a href="#trigger-rupture-fault-map">Trigger Rupture Fault Map</a></li>
+<li><a href="#fault-distances-to-triggers">Fault Distances To Triggers</a></li>
+<li><a href="#ci39126079-possible-finite-rupture-subsection-mappings">ci39126079 Possible Finite Rupture Subsection Mappings</a></li>
+<li><a href="#json-input-file">JSON Input File</a></li>
+</ul>
+<h2 id="trigger-rupture-fault-map">Trigger Rupture Fault Map</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><img src="./trigger_rup_fault_map.png" alt="Map" /></p>
+<h2 id="fault-distances-to-triggers">Fault Distances To Triggers</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>Section Name</th><th>Strike, Dip, Rake</th><th># Hypos In Poly</th><th>Max Mag w/ Hypo In Poly</th><th># Surfs In Poly</th><th>Max Mag w/ Surf In Poly</th><th>Min Dist To Any (km)</th><th>Min Poly Dist To Any (km)</th><th>Min Dist To Largest (km)</th><th>Min Poly Dist To Largest (km)</th></tr>
+</thead>
+<tbody>
+<tr><td>San Jacinto (Anza) rev</td><td>126, 90, 180</td><td>17</td><td>3.66</td><td>17</td><td>3.66</td><td>0.323</td><td>0.000</td><td>0.771</td><td>0.516</td></tr>
+<tr><td>San Jacinto (Coyote Creek)</td><td>133, 90, 180</td><td>8</td><td>4.87</td><td>8</td><td>4.87</td><td>3.377</td><td>0.000</td><td>3.961</td><td>0.000</td></tr>
+<tr><td>San Jacinto (Clark) rev</td><td>124, 90, 180</td><td>7</td><td>4.87</td><td>7</td><td>4.87</td><td>0.323</td><td>0.000</td><td>0.721</td><td>0.000</td></tr>
+</tbody>
+</table>
+<h2 id="ci39126079-possible-finite-rupture-subsection-mappings">ci39126079 Possible Finite Rupture Subsection Mappings</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>This gives any possible finite rupture surface subsection mappings. In the plot below, potentially suggested subsections are outlined in green, and all subsections for which any of this rupture is within the fault polygon are in gray. Suggested sections are those for which the area of the input rupture within the polygon is at least 50.0 % of the sub section area</p>
+<p>Overlapping polygons are removed according to the mean distance of the actual subsection surface, with the polygons of closer sections masking out the polygons of further sections</p>
+<p>As this is a point source, there will be no matches, but sections within 25km will be listed</p>
+<p><img src="./finite_rup_subsection_mappings_ci39126079.png" alt="Map" /></p>
+<table>
+<thead>
+<tr><th>Section Index</th><th>Section Name</th><th>Suggested Match?</th><th>Section Area</th><th>Sect Distance To Rup</th><th>Hypocenter in Polygon?</th></tr>
+</thead>
+<tbody>
+<tr><td>2155</td><td>San Jacinto (Anza) rev, Subsection 2</td><td>no</td><td>125.44</td><td>mean=27.81 [23.31 32.85] [km]</td><td>no</td></tr>
+<tr><td>2156</td><td>San Jacinto (Anza) rev, Subsection 3</td><td>no</td><td>125.44</td><td>mean=20.31 [15.62 25.62] [km]</td><td>no</td></tr>
+<tr><td>2157</td><td>San Jacinto (Anza) rev, Subsection 4</td><td>no</td><td>125.44</td><td>mean=13.03 [7.93 18.77] [km]</td><td>no</td></tr>
+<tr><td>2158</td><td>San Jacinto (Anza) rev, Subsection 5</td><td>no</td><td>125.44</td><td>mean=6.72 [0.44 12.91] [km]</td><td>no</td></tr>
+<tr><td>2165</td><td>San Jacinto (Clark) rev, Subsection 0</td><td>no</td><td>118.01</td><td>mean=5.98 [0.65 11.53] [km]</td><td><em>yes</em></td></tr>
+<tr><td>2166</td><td>San Jacinto (Clark) rev, Subsection 1</td><td>no</td><td>118.01</td><td>mean=12.25 [7.29 17.58] [km]</td><td>no</td></tr>
+<tr><td>2167</td><td>San Jacinto (Clark) rev, Subsection 2</td><td>no</td><td>118.01</td><td>mean=19.56 [15.05 24.49] [km]</td><td>no</td></tr>
+<tr><td>2168</td><td>San Jacinto (Clark) rev, Subsection 3</td><td>no</td><td>118.01</td><td>mean=27.03 [22.68 31.78] [km]</td><td>no</td></tr>
+<tr><td>2171</td><td>San Jacinto (Coyote Creek), Subsection 0</td><td>no</td><td>113.67</td><td>mean=7.14 [3.95 12.56] [km]</td><td><em>yes</em></td></tr>
+<tr><td>2172</td><td>San Jacinto (Coyote Creek), Subsection 1</td><td>no</td><td>113.67</td><td>mean=11.64 [7.11 17.2] [km]</td><td>no</td></tr>
+<tr><td>2173</td><td>San Jacinto (Coyote Creek), Subsection 2</td><td>no</td><td>113.67</td><td>mean=18.08 [13.81 23.18] [km]</td><td>no</td></tr>
+<tr><td>2174</td><td>San Jacinto (Coyote Creek), Subsection 3</td><td>no</td><td>113.67</td><td>mean=24.92 [20.84 29.68] [km]</td><td>no</td></tr>
+</tbody>
+</table>
+<h2 id="json-input-file">JSON Input File</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<pre><code>{
+  &quot;numSimulations&quot;: 100000,
+  &quot;duration&quot;: 10.0,
+  &quot;startTimeMillis&quot;: 1586368088968,
+  &quot;includeSpontaneous&quot;: false,
+  &quot;randomSeed&quot;: 1586368088193,
+  &quot;binaryOutput&quot;: true,
+  &quot;binaryOutputFilters&quot;: [
+    {
+      &quot;prefix&quot;: &quot;results_complete&quot;,
+      &quot;descendantsOnly&quot;: false
+    },
+    {
+      &quot;prefix&quot;: &quot;results_m5_preserve_chain&quot;,
+      &quot;minMag&quot;: 5.0,
+      &quot;preserveChainBelowMag&quot;: true,
+      &quot;descendantsOnly&quot;: false
+    }
+  ],
+  &quot;forceRecalc&quot;: false,
+  &quot;simulationName&quot;: &quot;ComCat M4.87 (ci39126079), 4.7 Days After, Point Sources, kCOV\u003d1.5&quot;,
+  &quot;numRetries&quot;: 3,
+  &quot;outputDir&quot;: &quot;${ETAS_SIM_DIR}/2020_04_08-ComCatM4p87_ci39126079_4p7DaysAfter_PointSources_kCOV1p5&quot;,
+  &quot;treatTriggerCatalogAsSpontaneous&quot;: false,
+  &quot;triggerRuptures&quot;: [
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585965198920,
+      &quot;comcatEventID&quot;: &quot;ci39126079&quot;,
+      &quot;mag&quot;: 4.87,
+      &quot;latitude&quot;: 33.4895,
+      &quot;longitude&quot;: -116.50633330000001,
+      &quot;depth&quot;: 10.45
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585965262570,
+      &quot;comcatEventID&quot;: &quot;ci39126087&quot;,
+      &quot;mag&quot;: 3.76,
+      &quot;latitude&quot;: 33.49316670000001,
+      &quot;longitude&quot;: -116.50500000000001,
+      &quot;depth&quot;: 10.31
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585965335800,
+      &quot;comcatEventID&quot;: &quot;ci39126103&quot;,
+      &quot;mag&quot;: 3.07,
+      &quot;latitude&quot;: 33.4801667,
+      &quot;longitude&quot;: -116.49033329999999,
+      &quot;depth&quot;: 9.21
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585965417670,
+      &quot;comcatEventID&quot;: &quot;ci39126135&quot;,
+      &quot;mag&quot;: 2.57,
+      &quot;latitude&quot;: 33.496,
+      &quot;longitude&quot;: -116.50666669999998,
+      &quot;depth&quot;: 10.78
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585965900170,
+      &quot;comcatEventID&quot;: &quot;ci39126263&quot;,
+      &quot;mag&quot;: 3.66,
+      &quot;latitude&quot;: 33.4946667,
+      &quot;longitude&quot;: -116.5153333,
+      &quot;depth&quot;: 10.28
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585966584880,
+      &quot;comcatEventID&quot;: &quot;ci39126455&quot;,
+      &quot;mag&quot;: 2.55,
+      &quot;latitude&quot;: 33.4966667,
+      &quot;longitude&quot;: -116.5198333,
+      &quot;depth&quot;: 10.26
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585969163280,
+      &quot;comcatEventID&quot;: &quot;ci39126951&quot;,
+      &quot;mag&quot;: 3.11,
+      &quot;latitude&quot;: 33.5011667,
+      &quot;longitude&quot;: -116.51900000000002,
+      &quot;depth&quot;: 10.37
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585973242120,
+      &quot;comcatEventID&quot;: &quot;ci39127679&quot;,
+      &quot;mag&quot;: 3.6,
+      &quot;latitude&quot;: 33.4913333,
+      &quot;longitude&quot;: -116.51883329999998,
+      &quot;depth&quot;: 9.62
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585977155150,
+      &quot;comcatEventID&quot;: &quot;ci39128103&quot;,
+      &quot;mag&quot;: 3.46,
+      &quot;latitude&quot;: 33.4921667,
+      &quot;longitude&quot;: -116.51183330000002,
+      &quot;depth&quot;: 9.85
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586000957950,
+      &quot;comcatEventID&quot;: &quot;ci39129687&quot;,
+      &quot;mag&quot;: 2.81,
+      &quot;latitude&quot;: 33.4978333,
+      &quot;longitude&quot;: -116.5191667,
+      &quot;depth&quot;: 9.96
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586104067340,
+      &quot;comcatEventID&quot;: &quot;ci39134127&quot;,
+      &quot;mag&quot;: 2.62,
+      &quot;latitude&quot;: 33.5071667,
+      &quot;longitude&quot;: -116.51900000000002,
+      &quot;depth&quot;: 13.14
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586120864910,
+      &quot;comcatEventID&quot;: &quot;ci39134871&quot;,
+      &quot;mag&quot;: 3.49,
+      &quot;latitude&quot;: 33.5036667,
+      &quot;longitude&quot;: -116.5278333,
+      &quot;depth&quot;: 10.53
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586123663660,
+      &quot;comcatEventID&quot;: &quot;ci39135327&quot;,
+      &quot;mag&quot;: 2.7,
+      &quot;latitude&quot;: 33.5015,
+      &quot;longitude&quot;: -116.52599999999998,
+      &quot;depth&quot;: 11.1
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586126089700,
+      &quot;comcatEventID&quot;: &quot;ci39135567&quot;,
+      &quot;mag&quot;: 2.64,
+      &quot;latitude&quot;: 33.498,
+      &quot;longitude&quot;: -116.496,
+      &quot;depth&quot;: 12.65
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586126238820,
+      &quot;comcatEventID&quot;: &quot;ci39135575&quot;,
+      &quot;mag&quot;: 3.5,
+      &quot;latitude&quot;: 33.4961667,
+      &quot;longitude&quot;: -116.49616669999999,
+      &quot;depth&quot;: 13.25
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586128318930,
+      &quot;comcatEventID&quot;: &quot;ci39135751&quot;,
+      &quot;mag&quot;: 2.6,
+      &quot;latitude&quot;: 33.4976667,
+      &quot;longitude&quot;: -116.5215,
+      &quot;depth&quot;: 10.39
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586305849230,
+      &quot;comcatEventID&quot;: &quot;ci39141591&quot;,
+      &quot;mag&quot;: 3.54,
+      &quot;latitude&quot;: 33.4985,
+      &quot;longitude&quot;: -116.52533329999999,
+      &quot;depth&quot;: 9.98
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586306156820,
+      &quot;comcatEventID&quot;: &quot;ci39141695&quot;,
+      &quot;mag&quot;: 3.27,
+      &quot;latitude&quot;: 33.500666700000004,
+      &quot;longitude&quot;: -116.5236667,
+      &quot;depth&quot;: 10.28
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586306216480,
+      &quot;comcatEventID&quot;: &quot;ci39141711&quot;,
+      &quot;mag&quot;: 2.55,
+      &quot;latitude&quot;: 33.4941667,
+      &quot;longitude&quot;: -116.51450000000001,
+      &quot;depth&quot;: 8.71
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586307614260,
+      &quot;comcatEventID&quot;: &quot;ci39141967&quot;,
+      &quot;mag&quot;: 3.22,
+      &quot;latitude&quot;: 33.4981667,
+      &quot;longitude&quot;: -116.5228333,
+      &quot;depth&quot;: 10.27
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586314417320,
+      &quot;comcatEventID&quot;: &quot;ci39142391&quot;,
+      &quot;mag&quot;: 2.64,
+      &quot;latitude&quot;: 33.499,
+      &quot;longitude&quot;: -116.522,
+      &quot;depth&quot;: 10.37
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586318469210,
+      &quot;comcatEventID&quot;: &quot;ci39142551&quot;,
+      &quot;mag&quot;: 2.6,
+      &quot;latitude&quot;: 33.50183330000001,
+      &quot;longitude&quot;: -116.5208333,
+      &quot;depth&quot;: 10.01
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586318629240,
+      &quot;comcatEventID&quot;: &quot;ci39142559&quot;,
+      &quot;mag&quot;: 2.63,
+      &quot;latitude&quot;: 33.4988333,
+      &quot;longitude&quot;: -116.5225,
+      &quot;depth&quot;: 10.38
+    }
+  ],
+  &quot;cacheDir&quot;: &quot;${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba&quot;,
+  &quot;fssFile&quot;: &quot;${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip&quot;,
+  &quot;probModel&quot;: &quot;FULL_TD&quot;,
+  &quot;applySubSeisForSupraNucl&quot;: true,
+  &quot;totRateScaleFactor&quot;: 1.14,
+  &quot;gridSeisCorr&quot;: true,
+  &quot;timeIndependentERF&quot;: false,
+  &quot;griddedOnly&quot;: false,
+  &quot;imposeGR&quot;: false,
+  &quot;includeIndirectTriggering&quot;: true,
+  &quot;gridSeisDiscr&quot;: 0.1,
+  &quot;catalogCompletenessModel&quot;: &quot;RELAXED&quot;,
+  &quot;etas_k_cov&quot;: 1.5,
+  &quot;configCommand&quot;: &quot;u3etas_comcat_event_config_builder.sh --event-id ci39126079 --radius 10 --mag-complete 2.5 --num-simulations 100000 --days-before 7 --end-now --etas-k-cov 1.5 --finite-surf-shakemap --finite-surf-shakemap-min-mag 4.5 --hpc-site USC_HPC --nodes 32 --hours 24&quot;,
+  &quot;configTime&quot;: 1586368088193,
+  &quot;comcatMetadata&quot;: {
+    &quot;region&quot;: {
+      &quot;centerLatitude&quot;: 33.4895,
+      &quot;centerLongitude&quot;: -116.50633330000001,
+      &quot;radius&quot;: 10.0
+    },
+    &quot;eventID&quot;: &quot;ci39126079&quot;,
+    &quot;minDepth&quot;: -10.0,
+    &quot;maxDepth&quot;: 24.0,
+    &quot;minMag&quot;: 2.5,
+    &quot;startTime&quot;: 1585360398920,
+    &quot;endTime&quot;: 1586368087968,
+    &quot;magComplete&quot;: 2.5
+  }
+}
+</code></pre>
+</body>
+</html>

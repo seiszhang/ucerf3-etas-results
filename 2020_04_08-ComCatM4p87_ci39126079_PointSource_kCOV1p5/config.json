@@ -1,0 +1,64 @@
+{
+  "numSimulations": 100000,
+  "duration": 10.0,
+  "startTimeMillis": 1585965199920,
+  "includeSpontaneous": false,
+  "randomSeed": 1586368110344,
+  "binaryOutput": true,
+  "binaryOutputFilters": [
+    {
+      "prefix": "results_complete",
+      "descendantsOnly": false
+    },
+    {
+      "prefix": "results_m5_preserve_chain",
+      "minMag": 5.0,
+      "preserveChainBelowMag": true,
+      "descendantsOnly": false
+    }
+  ],
+  "forceRecalc": false,
+  "simulationName": "ComCat M4.87 (ci39126079), Point Source, kCOV\u003d1.5",
+  "numRetries": 3,
+  "outputDir": "${ETAS_SIM_DIR}/2020_04_08-ComCatM4p87_ci39126079_PointSource_kCOV1p5",
+  "treatTriggerCatalogAsSpontaneous": false,
+  "triggerRuptures": [
+    {
+      "occurrenceTimeMillis": 1585965198920,
+      "comcatEventID": "ci39126079",
+      "mag": 4.87,
+      "latitude": 33.4895,
+      "longitude": -116.50633330000001,
+      "depth": 10.45
+    }
+  ],
+  "cacheDir": "${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba",
+  "fssFile": "${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip",
+  "probModel": "FULL_TD",
+  "applySubSeisForSupraNucl": true,
+  "totRateScaleFactor": 1.14,
+  "gridSeisCorr": true,
+  "timeIndependentERF": false,
+  "griddedOnly": false,
+  "imposeGR": false,
+  "includeIndirectTriggering": true,
+  "gridSeisDiscr": 0.1,
+  "catalogCompletenessModel": "RELAXED",
+  "etas_k_cov": 1.5,
+  "configCommand": "u3etas_comcat_event_config_builder.sh --event-id ci39126079 --radius 10 --mag-complete 2.5 --num-simulations 100000 --days-before 7 --etas-k-cov 1.5 --finite-surf-shakemap --finite-surf-shakemap-min-mag 4.5 --hpc-site USC_HPC --nodes 32 --hours 24",
+  "configTime": 1586368110344,
+  "comcatMetadata": {
+    "region": {
+      "centerLatitude": 33.4895,
+      "centerLongitude": -116.50633330000001,
+      "radius": 10.0
+    },
+    "eventID": "ci39126079",
+    "minDepth": -10.0,
+    "maxDepth": 24.0,
+    "minMag": 2.5,
+    "startTime": 1585360398920,
+    "endTime": 1585965198920,
+    "magComplete": 2.5
+  }
+}
