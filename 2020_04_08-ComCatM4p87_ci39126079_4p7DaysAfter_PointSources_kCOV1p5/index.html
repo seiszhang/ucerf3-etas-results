@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+	border-collapse: collapse
+}
+table, th, td {
+	border: 1px solid black
+}
+body {
+	max-width:1000px;
+	margin: auto;
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+</style>
+</head>
+<body>
+<h1 id="comcat-m487-ci39126079-47-days-after-point-sources-kcov15">ComCat M4.87 (ci39126079), 4.7 Days After, Point Sources, kCOV=1.5</h1>
+<p>No simulation results are yet available, but pre-simulation analysis plots are available <a href="config_input_plots/index.html">here</a>.</p>
+<h2 id="json-input-file">JSON Input File</h2>
+<pre><code>{
+  &quot;numSimulations&quot;: 100000,
+  &quot;duration&quot;: 10.0,
+  &quot;startTimeMillis&quot;: 1586368088968,
+  &quot;includeSpontaneous&quot;: false,
+  &quot;randomSeed&quot;: 1586368088193,
+  &quot;binaryOutput&quot;: true,
+  &quot;binaryOutputFilters&quot;: [
+    {
+      &quot;prefix&quot;: &quot;results_complete&quot;,
+      &quot;descendantsOnly&quot;: false
+    },
+    {
+      &quot;prefix&quot;: &quot;results_m5_preserve_chain&quot;,
+      &quot;minMag&quot;: 5.0,
+      &quot;preserveChainBelowMag&quot;: true,
+      &quot;descendantsOnly&quot;: false
+    }
+  ],
+  &quot;forceRecalc&quot;: false,
+  &quot;simulationName&quot;: &quot;ComCat M4.87 (ci39126079), 4.7 Days After, Point Sources, kCOV\u003d1.5&quot;,
+  &quot;numRetries&quot;: 3,
+  &quot;outputDir&quot;: &quot;${ETAS_SIM_DIR}/2020_04_08-ComCatM4p87_ci39126079_4p7DaysAfter_PointSources_kCOV1p5&quot;,
+  &quot;treatTriggerCatalogAsSpontaneous&quot;: false,
+  &quot;triggerRuptures&quot;: [
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585965198920,
+      &quot;comcatEventID&quot;: &quot;ci39126079&quot;,
+      &quot;mag&quot;: 4.87,
+      &quot;latitude&quot;: 33.4895,
+      &quot;longitude&quot;: -116.50633330000001,
+      &quot;depth&quot;: 10.45
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585965262570,
+      &quot;comcatEventID&quot;: &quot;ci39126087&quot;,
+      &quot;mag&quot;: 3.76,
+      &quot;latitude&quot;: 33.49316670000001,
+      &quot;longitude&quot;: -116.50500000000001,
+      &quot;depth&quot;: 10.31
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585965335800,
+      &quot;comcatEventID&quot;: &quot;ci39126103&quot;,
+      &quot;mag&quot;: 3.07,
+      &quot;latitude&quot;: 33.4801667,
+      &quot;longitude&quot;: -116.49033329999999,
+      &quot;depth&quot;: 9.21
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585965417670,
+      &quot;comcatEventID&quot;: &quot;ci39126135&quot;,
+      &quot;mag&quot;: 2.57,
+      &quot;latitude&quot;: 33.496,
+      &quot;longitude&quot;: -116.50666669999998,
+      &quot;depth&quot;: 10.78
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585965900170,
+      &quot;comcatEventID&quot;: &quot;ci39126263&quot;,
+      &quot;mag&quot;: 3.66,
+      &quot;latitude&quot;: 33.4946667,
+      &quot;longitude&quot;: -116.5153333,
+      &quot;depth&quot;: 10.28
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585966584880,
+      &quot;comcatEventID&quot;: &quot;ci39126455&quot;,
+      &quot;mag&quot;: 2.55,
+      &quot;latitude&quot;: 33.4966667,
+      &quot;longitude&quot;: -116.5198333,
+      &quot;depth&quot;: 10.26
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585969163280,
+      &quot;comcatEventID&quot;: &quot;ci39126951&quot;,
+      &quot;mag&quot;: 3.11,
+      &quot;latitude&quot;: 33.5011667,
+      &quot;longitude&quot;: -116.51900000000002,
+      &quot;depth&quot;: 10.37
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585973242120,
+      &quot;comcatEventID&quot;: &quot;ci39127679&quot;,
+      &quot;mag&quot;: 3.6,
+      &quot;latitude&quot;: 33.4913333,
+      &quot;longitude&quot;: -116.51883329999998,
+      &quot;depth&quot;: 9.62
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585977155150,
+      &quot;comcatEventID&quot;: &quot;ci39128103&quot;,
+      &quot;mag&quot;: 3.46,
+      &quot;latitude&quot;: 33.4921667,
+      &quot;longitude&quot;: -116.51183330000002,
+      &quot;depth&quot;: 9.85
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586000957950,
+      &quot;comcatEventID&quot;: &quot;ci39129687&quot;,
+      &quot;mag&quot;: 2.81,
+      &quot;latitude&quot;: 33.4978333,
+      &quot;longitude&quot;: -116.5191667,
+      &quot;depth&quot;: 9.96
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586104067340,
+      &quot;comcatEventID&quot;: &quot;ci39134127&quot;,
+      &quot;mag&quot;: 2.62,
+      &quot;latitude&quot;: 33.5071667,
+      &quot;longitude&quot;: -116.51900000000002,
+      &quot;depth&quot;: 13.14
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586120864910,
+      &quot;comcatEventID&quot;: &quot;ci39134871&quot;,
+      &quot;mag&quot;: 3.49,
+      &quot;latitude&quot;: 33.5036667,
+      &quot;longitude&quot;: -116.5278333,
+      &quot;depth&quot;: 10.53
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586123663660,
+      &quot;comcatEventID&quot;: &quot;ci39135327&quot;,
+      &quot;mag&quot;: 2.7,
+      &quot;latitude&quot;: 33.5015,
+      &quot;longitude&quot;: -116.52599999999998,
+      &quot;depth&quot;: 11.1
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586126089700,
+      &quot;comcatEventID&quot;: &quot;ci39135567&quot;,
+      &quot;mag&quot;: 2.64,
+      &quot;latitude&quot;: 33.498,
+      &quot;longitude&quot;: -116.496,
+      &quot;depth&quot;: 12.65
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586126238820,
+      &quot;comcatEventID&quot;: &quot;ci39135575&quot;,
+      &quot;mag&quot;: 3.5,
+      &quot;latitude&quot;: 33.4961667,
+      &quot;longitude&quot;: -116.49616669999999,
+      &quot;depth&quot;: 13.25
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586128318930,
+      &quot;comcatEventID&quot;: &quot;ci39135751&quot;,
+      &quot;mag&quot;: 2.6,
+      &quot;latitude&quot;: 33.4976667,
+      &quot;longitude&quot;: -116.5215,
+      &quot;depth&quot;: 10.39
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586305849230,
+      &quot;comcatEventID&quot;: &quot;ci39141591&quot;,
+      &quot;mag&quot;: 3.54,
+      &quot;latitude&quot;: 33.4985,
+      &quot;longitude&quot;: -116.52533329999999,
+      &quot;depth&quot;: 9.98
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586306156820,
+      &quot;comcatEventID&quot;: &quot;ci39141695&quot;,
+      &quot;mag&quot;: 3.27,
+      &quot;latitude&quot;: 33.500666700000004,
+      &quot;longitude&quot;: -116.5236667,
+      &quot;depth&quot;: 10.28
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586306216480,
+      &quot;comcatEventID&quot;: &quot;ci39141711&quot;,
+      &quot;mag&quot;: 2.55,
+      &quot;latitude&quot;: 33.4941667,
+      &quot;longitude&quot;: -116.51450000000001,
+      &quot;depth&quot;: 8.71
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586307614260,
+      &quot;comcatEventID&quot;: &quot;ci39141967&quot;,
+      &quot;mag&quot;: 3.22,
+      &quot;latitude&quot;: 33.4981667,
+      &quot;longitude&quot;: -116.5228333,
+      &quot;depth&quot;: 10.27
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586314417320,
+      &quot;comcatEventID&quot;: &quot;ci39142391&quot;,
+      &quot;mag&quot;: 2.64,
+      &quot;latitude&quot;: 33.499,
+      &quot;longitude&quot;: -116.522,
+      &quot;depth&quot;: 10.37
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586318469210,
+      &quot;comcatEventID&quot;: &quot;ci39142551&quot;,
+      &quot;mag&quot;: 2.6,
+      &quot;latitude&quot;: 33.50183330000001,
+      &quot;longitude&quot;: -116.5208333,
+      &quot;depth&quot;: 10.01
+    },
+    {
+      &quot;occurrenceTimeMillis&quot;: 1586318629240,
+      &quot;comcatEventID&quot;: &quot;ci39142559&quot;,
+      &quot;mag&quot;: 2.63,
+      &quot;latitude&quot;: 33.4988333,
+      &quot;longitude&quot;: -116.5225,
+      &quot;depth&quot;: 10.38
+    }
+  ],
+  &quot;cacheDir&quot;: &quot;${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba&quot;,
+  &quot;fssFile&quot;: &quot;${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip&quot;,
+  &quot;probModel&quot;: &quot;FULL_TD&quot;,
+  &quot;applySubSeisForSupraNucl&quot;: true,
+  &quot;totRateScaleFactor&quot;: 1.14,
+  &quot;gridSeisCorr&quot;: true,
+  &quot;timeIndependentERF&quot;: false,
+  &quot;griddedOnly&quot;: false,
+  &quot;imposeGR&quot;: false,
+  &quot;includeIndirectTriggering&quot;: true,
+  &quot;gridSeisDiscr&quot;: 0.1,
+  &quot;catalogCompletenessModel&quot;: &quot;RELAXED&quot;,
+  &quot;etas_k_cov&quot;: 1.5,
+  &quot;configCommand&quot;: &quot;u3etas_comcat_event_config_builder.sh --event-id ci39126079 --radius 10 --mag-complete 2.5 --num-simulations 100000 --days-before 7 --end-now --etas-k-cov 1.5 --finite-surf-shakemap --finite-surf-shakemap-min-mag 4.5 --hpc-site USC_HPC --nodes 32 --hours 24&quot;,
+  &quot;configTime&quot;: 1586368088193,
+  &quot;comcatMetadata&quot;: {
+    &quot;region&quot;: {
+      &quot;centerLatitude&quot;: 33.4895,
+      &quot;centerLongitude&quot;: -116.50633330000001,
+      &quot;radius&quot;: 10.0
+    },
+    &quot;eventID&quot;: &quot;ci39126079&quot;,
+    &quot;minDepth&quot;: -10.0,
+    &quot;maxDepth&quot;: 24.0,
+    &quot;minMag&quot;: 2.5,
+    &quot;startTime&quot;: 1585360398920,
+    &quot;endTime&quot;: 1586368087968,
+    &quot;magComplete&quot;: 2.5
+  }
+}
+</code></pre>
+</body>
+</html>

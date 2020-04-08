@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+	border-collapse: collapse
+}
+table, th, td {
+	border: 1px solid black
+}
+body {
+	max-width:1000px;
+	margin: auto;
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+</style>
+</head>
+<body>
+<h1 id="comcat-m487-ci39126079-point-source-kcov15">ComCat M4.87 (ci39126079), Point Source, kCOV=1.5</h1>
+<p>No simulation results are yet available, but pre-simulation analysis plots are available <a href="config_input_plots/index.html">here</a>.</p>
+<h2 id="json-input-file">JSON Input File</h2>
+<pre><code>{
+  &quot;numSimulations&quot;: 100000,
+  &quot;duration&quot;: 10.0,
+  &quot;startTimeMillis&quot;: 1585965199920,
+  &quot;includeSpontaneous&quot;: false,
+  &quot;randomSeed&quot;: 1586368110344,
+  &quot;binaryOutput&quot;: true,
+  &quot;binaryOutputFilters&quot;: [
+    {
+      &quot;prefix&quot;: &quot;results_complete&quot;,
+      &quot;descendantsOnly&quot;: false
+    },
+    {
+      &quot;prefix&quot;: &quot;results_m5_preserve_chain&quot;,
+      &quot;minMag&quot;: 5.0,
+      &quot;preserveChainBelowMag&quot;: true,
+      &quot;descendantsOnly&quot;: false
+    }
+  ],
+  &quot;forceRecalc&quot;: false,
+  &quot;simulationName&quot;: &quot;ComCat M4.87 (ci39126079), Point Source, kCOV\u003d1.5&quot;,
+  &quot;numRetries&quot;: 3,
+  &quot;outputDir&quot;: &quot;${ETAS_SIM_DIR}/2020_04_08-ComCatM4p87_ci39126079_PointSource_kCOV1p5&quot;,
+  &quot;treatTriggerCatalogAsSpontaneous&quot;: false,
+  &quot;triggerRuptures&quot;: [
+    {
+      &quot;occurrenceTimeMillis&quot;: 1585965198920,
+      &quot;comcatEventID&quot;: &quot;ci39126079&quot;,
+      &quot;mag&quot;: 4.87,
+      &quot;latitude&quot;: 33.4895,
+      &quot;longitude&quot;: -116.50633330000001,
+      &quot;depth&quot;: 10.45
+    }
+  ],
+  &quot;cacheDir&quot;: &quot;${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba&quot;,
+  &quot;fssFile&quot;: &quot;${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip&quot;,
+  &quot;probModel&quot;: &quot;FULL_TD&quot;,
+  &quot;applySubSeisForSupraNucl&quot;: true,
+  &quot;totRateScaleFactor&quot;: 1.14,
+  &quot;gridSeisCorr&quot;: true,
+  &quot;timeIndependentERF&quot;: false,
+  &quot;griddedOnly&quot;: false,
+  &quot;imposeGR&quot;: false,
+  &quot;includeIndirectTriggering&quot;: true,
+  &quot;gridSeisDiscr&quot;: 0.1,
+  &quot;catalogCompletenessModel&quot;: &quot;RELAXED&quot;,
+  &quot;etas_k_cov&quot;: 1.5,
+  &quot;configCommand&quot;: &quot;u3etas_comcat_event_config_builder.sh --event-id ci39126079 --radius 10 --mag-complete 2.5 --num-simulations 100000 --days-before 7 --etas-k-cov 1.5 --finite-surf-shakemap --finite-surf-shakemap-min-mag 4.5 --hpc-site USC_HPC --nodes 32 --hours 24&quot;,
+  &quot;configTime&quot;: 1586368110344,
+  &quot;comcatMetadata&quot;: {
+    &quot;region&quot;: {
+      &quot;centerLatitude&quot;: 33.4895,
+      &quot;centerLongitude&quot;: -116.50633330000001,
+      &quot;radius&quot;: 10.0
+    },
+    &quot;eventID&quot;: &quot;ci39126079&quot;,
+    &quot;minDepth&quot;: -10.0,
+    &quot;maxDepth&quot;: 24.0,
+    &quot;minMag&quot;: 2.5,
+    &quot;startTime&quot;: 1585360398920,
+    &quot;endTime&quot;: 1585965198920,
+    &quot;magComplete&quot;: 2.5
+  }
+}
+</code></pre>
+</body>
+</html>
