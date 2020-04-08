@@ -1,0 +1,7 @@
+Section Name,"Strike, Dip, Rake",# Hypos In Poly,Max Mag w/ Hypo In Poly,# Surfs In Poly,Max Mag w/ Surf In Poly,Min Dist To Any (km),Min Poly Dist To Any (km),Min Dist To Largest (km),Min Poly Dist To Largest (km)
+San Jacinto (Anza) rev,"127, 90, 180",17,3.66,17,3.66,0.323,0.000,0.771,0.516
+San Jacinto (Coyote Creek),"133, 90, 180",8,4.87,8,4.87,3.377,0.000,3.961,0.000
+San Jacinto (Clark) rev,"124, 90, 180",7,4.87,7,4.87,0.323,0.000,0.721,0.000
+Earthquake Valley (No  Extension),"131, 90, 180",0,,0,,30.053,18.091,30.582,18.619
+Elsinore (Julian),"307, 84, 180",0,,0,,35.696,26.700,36.127,27.222
+San Andreas (Coachella) rev,"134, 90, 180",0,,0,,39.272,27.241,40.588,28.587
