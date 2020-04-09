@@ -40,13 +40,6 @@
   * [ComCat Probability Spatial Distribution](#comcat-probability-spatial-distribution)
   * [ComCat Mean Expectation Spatial Distribution](#comcat-mean-expectation-spatial-distribution)
   * [ComCat Depth Distribution](#comcat-depth-distribution)
-* [Section Participation](#section-participation)
-  * [Supra-Seismogenic Parent Sections Table](#supra-seismogenic-parent-sections-table)
-  * [M≥6.5 Parent Sections Table](#m65-parent-sections-table)
-  * [M≥7 Parent Sections Table](#m7-parent-sections-table)
-  * [M≥7.5 Parent Sections Table](#m75-parent-sections-table)
-  * [M≥8 Parent Sections Table](#m8-parent-sections-table)
-* [Fault Magnitude-Probability Distributions](#fault-magnitude-probability-distributions)
 * [JSON Input File](#json-input-file)
 
 ## Probabilities Summary Table
@@ -692,7 +685,7 @@ These are map plots of individual catalogs from the simulations, selected as the
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.
 
-Last updated at 2020/04/08 22:22:59 UTC, 4.6 hours after the simulation start time.
+Last updated at 2020/04/09 00:33:14 UTC, 6.8 hours after the simulation start time.
 
 Total matching ComCat events found: 0
 
@@ -727,22 +720,22 @@ The following plots compare simulation results with ComCat data above a magnitud
 
 *Note: maps labeled 'Forecast' are for a duration that extends into the future, only forecasted values are plotted (ComCat data omitted)*
 
-|  | Current (4.6 Hour) | Forecast: 1 Day | Forecast: 1 Week | Forecast: 1 Month | Forecast: 1 Year |
+|  | Current (6.8 Hour) | Forecast: 1 Day | Forecast: 1 Week | Forecast: 1 Month | Forecast: 1 Year |
 |-----|-----|-----|-----|-----|-----|
 | **M&ge;Mc(t)** | ![Map](plots/comcat_compare_prob_current_td_mc.png) | ![Map](plots/comcat_compare_prob_1d_td_mc.png) | ![Map](plots/comcat_compare_prob_1wk_td_mc.png) | ![Map](plots/comcat_compare_prob_1mo_td_mc.png) | ![Map](plots/comcat_compare_prob_1yr_td_mc.png) |
-|  | Prob: 7.04%, Actual: 0 | Prob: 26.27% | Prob: 64.66% | Prob: 83.67% | Prob: 95.04% |
+|  | Prob: 9.98%, Actual: 0 | Prob: 26.27% | Prob: 64.66% | Prob: 83.67% | Prob: 95.04% |
 | **M&ge;2.5** | ![Map](plots/comcat_compare_prob_current_m2.5.png) | ![Map](plots/comcat_compare_prob_1d_m2.5.png) | ![Map](plots/comcat_compare_prob_1wk_m2.5.png) | ![Map](plots/comcat_compare_prob_1mo_m2.5.png) | ![Map](plots/comcat_compare_prob_1yr_m2.5.png) |
-|  | Prob: 7.04%, Actual: 0 | Prob: 26.27% | Prob: 64.66% | Prob: 83.67% | Prob: 95.04% |
+|  | Prob: 9.98%, Actual: 0 | Prob: 26.27% | Prob: 64.66% | Prob: 83.67% | Prob: 95.04% |
 | **M&ge;3** | ![Map](plots/comcat_compare_prob_current_m3.png) | ![Map](plots/comcat_compare_prob_1d_m3.png) | ![Map](plots/comcat_compare_prob_1wk_m3.png) | ![Map](plots/comcat_compare_prob_1mo_m3.png) | ![Map](plots/comcat_compare_prob_1yr_m3.png) |
-|  | Prob: 2.35%, Actual: 0 | Prob: 9.92% | Prob: 31.62% | Prob: 50.44% | Prob: 70.74% |
+|  | Prob: 3.35%, Actual: 0 | Prob: 9.92% | Prob: 31.62% | Prob: 50.44% | Prob: 70.74% |
 | **M&ge;3.5** | ![Map](plots/comcat_compare_prob_current_m3.5.png) | ![Map](plots/comcat_compare_prob_1d_m3.5.png) | ![Map](plots/comcat_compare_prob_1wk_m3.5.png) | ![Map](plots/comcat_compare_prob_1mo_m3.5.png) | ![Map](plots/comcat_compare_prob_1yr_m3.5.png) |
-|  | Prob: 0.75%, Actual: 0 | Prob: 3.32% | Prob: 12.34% | Prob: 22.50% | Prob: 37.51% |
+|  | Prob: 1.05%, Actual: 0 | Prob: 3.32% | Prob: 12.34% | Prob: 22.50% | Prob: 37.51% |
 | **M&ge;4** | ![Map](plots/comcat_compare_prob_current_m4.png) | ![Map](plots/comcat_compare_prob_1d_m4.png) | ![Map](plots/comcat_compare_prob_1wk_m4.png) | ![Map](plots/comcat_compare_prob_1mo_m4.png) | ![Map](plots/comcat_compare_prob_1yr_m4.png) |
-|  | Prob: 0.26%, Actual: 0 | Prob: 1.07% | Prob: 4.27% | Prob: 8.53% | Prob: 15.77% |
+|  | Prob: 0.34%, Actual: 0 | Prob: 1.07% | Prob: 4.27% | Prob: 8.53% | Prob: 15.77% |
 | **M&ge;4.5** | ![Map](plots/comcat_compare_prob_current_m4.5.png) | ![Map](plots/comcat_compare_prob_1d_m4.5.png) | ![Map](plots/comcat_compare_prob_1wk_m4.5.png) | ![Map](plots/comcat_compare_prob_1mo_m4.5.png) | ![Map](plots/comcat_compare_prob_1yr_m4.5.png) |
-|  | Prob: 0.07%, Actual: 0 | Prob: 0.32% | Prob: 1.43% | Prob: 2.91% | Prob: 5.70% |
+|  | Prob: 0.09%, Actual: 0 | Prob: 0.32% | Prob: 1.43% | Prob: 2.91% | Prob: 5.70% |
 | **M&ge;5** | ![Map](plots/comcat_compare_prob_current_m5.png) | ![Map](plots/comcat_compare_prob_1d_m5.png) | ![Map](plots/comcat_compare_prob_1wk_m5.png) | ![Map](plots/comcat_compare_prob_1mo_m5.png) | ![Map](plots/comcat_compare_prob_1yr_m5.png) |
-|  | Prob: 0.03%, Actual: 0 | Prob: 0.11% | Prob: 0.47% | Prob: 0.98% | Prob: 1.93% |
+|  | Prob: 0.04%, Actual: 0 | Prob: 0.11% | Prob: 0.47% | Prob: 0.98% | Prob: 1.93% |
 | **M&ge;5.5** | ![Map](plots/comcat_compare_prob_current_m5.5.png) | ![Map](plots/comcat_compare_prob_1d_m5.5.png) | ![Map](plots/comcat_compare_prob_1wk_m5.5.png) | ![Map](plots/comcat_compare_prob_1mo_m5.5.png) | ![Map](plots/comcat_compare_prob_1yr_m5.5.png) |
 |  | Prob: 0.01%, Actual: 0 | Prob: 0.02% | Prob: 0.12% | Prob: 0.27% | Prob: 0.56% |
 
@@ -751,24 +744,24 @@ The following plots compare simulation results with ComCat data above a magnitud
 
 *Note: maps labeled 'Forecast' are for a duration that extends into the future, only forecasted values are plotted (ComCat data omitted)*
 
-|  | Current (4.6 Hour) | Forecast: 1 Day | Forecast: 1 Week | Forecast: 1 Month | Forecast: 1 Year |
+|  | Current (6.8 Hour) | Forecast: 1 Day | Forecast: 1 Week | Forecast: 1 Month | Forecast: 1 Year |
 |-----|-----|-----|-----|-----|-----|
 | **M&ge;Mc(t)** | ![Map](plots/comcat_compare_mean_current_td_mc.png) | ![Map](plots/comcat_compare_mean_1d_td_mc.png) | ![Map](plots/comcat_compare_mean_1wk_td_mc.png) | ![Map](plots/comcat_compare_mean_1mo_td_mc.png) | ![Map](plots/comcat_compare_mean_1yr_td_mc.png) |
-|  | Mean: 0.083, Actual: 0 | Mean: 0.390 | Mean: 1.704 | Mean: 3.635 | Mean: 7.900 |
+|  | Mean: 0.121, Actual: 0 | Mean: 0.390 | Mean: 1.704 | Mean: 3.635 | Mean: 7.900 |
 | **M&ge;2.5** | ![Map](plots/comcat_compare_mean_current_m2.5.png) | ![Map](plots/comcat_compare_mean_1d_m2.5.png) | ![Map](plots/comcat_compare_mean_1wk_m2.5.png) | ![Map](plots/comcat_compare_mean_1mo_m2.5.png) | ![Map](plots/comcat_compare_mean_1yr_m2.5.png) |
-|  | Mean: 0.083, Actual: 0 | Mean: 0.390 | Mean: 1.704 | Mean: 3.635 | Mean: 7.900 |
+|  | Mean: 0.121, Actual: 0 | Mean: 0.390 | Mean: 1.704 | Mean: 3.635 | Mean: 7.900 |
 | **M&ge;3** | ![Map](plots/comcat_compare_mean_current_m3.png) | ![Map](plots/comcat_compare_mean_1d_m3.png) | ![Map](plots/comcat_compare_mean_1wk_m3.png) | ![Map](plots/comcat_compare_mean_1mo_m3.png) | ![Map](plots/comcat_compare_mean_1yr_m3.png) |
-|  | Mean: 0.027, Actual: 0 | Mean: 0.124 | Mean: 0.535 | Mean: 1.144 | Mean: 2.493 |
+|  | Mean: 0.038, Actual: 0 | Mean: 0.124 | Mean: 0.535 | Mean: 1.144 | Mean: 2.493 |
 | **M&ge;3.5** | ![Map](plots/comcat_compare_mean_current_m3.5.png) | ![Map](plots/comcat_compare_mean_1d_m3.5.png) | ![Map](plots/comcat_compare_mean_1wk_m3.5.png) | ![Map](plots/comcat_compare_mean_1mo_m3.5.png) | ![Map](plots/comcat_compare_mean_1yr_m3.5.png) |
-|  | Mean: 8.16E-3, Actual: 0 | Mean: 0.039 | Mean: 0.168 | Mean: 0.360 | Mean: 0.787 |
+|  | Mean: 0.012, Actual: 0 | Mean: 0.039 | Mean: 0.168 | Mean: 0.360 | Mean: 0.787 |
 | **M&ge;4** | ![Map](plots/comcat_compare_mean_current_m4.png) | ![Map](plots/comcat_compare_mean_1d_m4.png) | ![Map](plots/comcat_compare_mean_1wk_m4.png) | ![Map](plots/comcat_compare_mean_1mo_m4.png) | ![Map](plots/comcat_compare_mean_1yr_m4.png) |
-|  | Mean: 2.80E-3, Actual: 0 | Mean: 0.012 | Mean: 0.053 | Mean: 0.115 | Mean: 0.251 |
+|  | Mean: 3.75E-3, Actual: 0 | Mean: 0.012 | Mean: 0.053 | Mean: 0.115 | Mean: 0.251 |
 | **M&ge;4.5** | ![Map](plots/comcat_compare_mean_current_m4.5.png) | ![Map](plots/comcat_compare_mean_1d_m4.5.png) | ![Map](plots/comcat_compare_mean_1wk_m4.5.png) | ![Map](plots/comcat_compare_mean_1mo_m4.5.png) | ![Map](plots/comcat_compare_mean_1yr_m4.5.png) |
-|  | Mean: 7.10E-4, Actual: 0 | Mean: 3.44E-3 | Mean: 0.017 | Mean: 0.036 | Mean: 0.078 |
+|  | Mean: 1.00E-3, Actual: 0 | Mean: 3.44E-3 | Mean: 0.017 | Mean: 0.036 | Mean: 0.078 |
 | **M&ge;5** | ![Map](plots/comcat_compare_mean_current_m5.png) | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_1wk_m5.png) | ![Map](plots/comcat_compare_mean_1mo_m5.png) | ![Map](plots/comcat_compare_mean_1yr_m5.png) |
-|  | Mean: 2.80E-4, Actual: 0 | Mean: 1.11E-3 | Mean: 5.20E-3 | Mean: 0.011 | Mean: 0.024 |
+|  | Mean: 4.00E-4, Actual: 0 | Mean: 1.11E-3 | Mean: 5.20E-3 | Mean: 0.011 | Mean: 0.024 |
 | **M&ge;5.5** | ![Map](plots/comcat_compare_mean_current_m5.5.png) | ![Map](plots/comcat_compare_mean_1d_m5.5.png) | ![Map](plots/comcat_compare_mean_1wk_m5.5.png) | ![Map](plots/comcat_compare_mean_1mo_m5.5.png) | ![Map](plots/comcat_compare_mean_1yr_m5.5.png) |
-|  | Mean: 5.00E-5, Actual: 0 | Mean: 2.30E-4 | Mean: 1.27E-3 | Mean: 2.89E-3 | Mean: 6.59E-3 |
+|  | Mean: 1.00E-4, Actual: 0 | Mean: 2.30E-4 | Mean: 1.27E-3 | Mean: 2.89E-3 | Mean: 6.59E-3 |
 
 ### ComCat Depth Distribution
 *[(top)](#table-of-contents)*
@@ -776,113 +769,6 @@ The following plots compare simulation results with ComCat data above a magnitud
 | M&ge;Mc(t) | M&ge;2.5 | M&ge;3 | M&ge;3.5 | M&ge;4 | M&ge;4.5 | M&ge;5 | M&ge;5.5 |
 |-----|-----|-----|-----|-----|-----|-----|-----|
 | ![Depth Distribution](plots/comcat_compare_depth_td_mc.png) | ![Depth Distribution](plots/comcat_compare_depth_m2.5.png) | ![Depth Distribution](plots/comcat_compare_depth_m3.png) | ![Depth Distribution](plots/comcat_compare_depth_m3.5.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.5.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.5.png) |
-
-## Section Participation
-*[(top)](#table-of-contents)*
-
-
-### Supra-Seismogenic Parent Sections Table
-*[(top)](#table-of-contents)*
-
-*First 10 of 27 with matching ruptures shown*
-
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Jacinto (Clark) rev | 2.4E-4 | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 1.40E-4 (0.01%) | [0.01% 0.02%] | 2.40E-4 (0.02%) | [0.02% 0.04%] | 1.4E-4 |
-| San Jacinto (Anza) rev | 1.8E-4 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 1.1E-4 |
-| San Jacinto (Stepovers Combined) | 5.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 3.0E-5 |
-| Brawley (Seismic Zone) alt 1 | 3.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (Coachella) rev | 3.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 2.0E-5 |
-| Imperial | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
-| San Andreas (Cholame) rev | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (San Bernardino N) | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Jacinto (Coyote Creek) | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Jacinto (San Jacinto Valley) rev | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 2.0E-5 |
-
-### M≥6.5 Parent Sections Table
-*[(top)](#table-of-contents)*
-
-*First 10 of 22 with matching ruptures shown*
-
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Jacinto (Clark) rev | 2.0E-4 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 4.00E-5 (0.00%) | [0.00% 0.01%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 2.00E-4 (0.02%) | [0.01% 0.03%] | 1.1E-4 |
-| San Jacinto (Anza) rev | 1.7E-4 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.70E-4 (0.02%) | [0.01% 0.03%] | 1.0E-4 |
-| San Jacinto (Stepovers Combined) | 5.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 3.0E-5 |
-| San Andreas (Cholame) rev | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (Coachella) rev | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (San Bernardino N) | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Jacinto (Coyote Creek) | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Jacinto (San Jacinto Valley) rev | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 2.0E-5 |
-| Brawley (Seismic Zone) alt 1 | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
-| Cleghorn | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
-
-### M≥7 Parent Sections Table
-*[(top)](#table-of-contents)*
-
-*First 10 of 22 with matching ruptures shown*
-
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Jacinto (Anza) rev | 1.4E-4 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 1.40E-4 (0.01%) | [0.01% 0.02%] | 8.0E-5 |
-| San Jacinto (Clark) rev | 1.3E-4 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 7.0E-5 |
-| San Jacinto (Stepovers Combined) | 5.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 3.0E-5 |
-| San Andreas (Cholame) rev | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Jacinto (San Jacinto Valley) rev | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 2.0E-5 |
-| Brawley (Seismic Zone) alt 1 | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
-| Cleghorn | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
-| Imperial | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
-| North Frontal  (East) | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
-| North Frontal  (West) | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
-
-### M≥7.5 Parent Sections Table
-*[(top)](#table-of-contents)*
-
-*First 10 of 15 with matching ruptures shown*
-
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Jacinto (Anza) rev | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 2.0E-5 |
-| San Jacinto (San Jacinto Valley) rev | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 2.0E-5 |
-| San Jacinto (Stepovers Combined) | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 2.0E-5 |
-| San Andreas (Big Bend) | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (Carrizo) rev | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (Cholame) rev | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (Mojave N) | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (Mojave S) | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (San Bernardino N) | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Jacinto (Borrego) | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-
-### M≥8 Parent Sections Table
-*[(top)](#table-of-contents)*
-
-*First 10 of 11 with matching ruptures shown*
-
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Andreas (Big Bend) | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (Carrizo) rev | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (Cholame) rev | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (Mojave N) | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (Mojave S) | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Andreas (San Bernardino N) | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Jacinto (Anza) rev | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Jacinto (Clark) rev | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Jacinto (San Bernardino) | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-| San Jacinto (San Jacinto Valley) rev | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
-
-## Fault Magnitude-Probability Distributions
-*[(top)](#table-of-contents)*
-
-The first 5 sections (sorted by trigger rate) are plotted below. All fault MPDs are available [here](plots/parent_sect_mpds/README.md)
-
-| 1 Week | 1 Month | 1 Year | 10 Year |
-|-----|-----|-----|-----|
-| ![MPD](plots/parent_sect_mpds/San_Jacinto_Clark_rev_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Clark_rev_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Clark_rev_1yr.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Clark_rev_10yr.png) |
-| ![MPD](plots/parent_sect_mpds/San_Jacinto_Anza_rev_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Anza_rev_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Anza_rev_1yr.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Anza_rev_10yr.png) |
-| ![MPD](plots/parent_sect_mpds/San_Jacinto_Stepovers_Combined_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Stepovers_Combined_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Stepovers_Combined_1yr.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Stepovers_Combined_10yr.png) |
-| ![MPD](plots/parent_sect_mpds/San_Andreas_Coachella_rev_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_Coachella_rev_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_Coachella_rev_1yr.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_Coachella_rev_10yr.png) |
-| ![MPD](plots/parent_sect_mpds/Brawley_Seismic_Zone_alt_1_1wk.png) | ![MPD](plots/parent_sect_mpds/Brawley_Seismic_Zone_alt_1_1mo.png) | ![MPD](plots/parent_sect_mpds/Brawley_Seismic_Zone_alt_1_1yr.png) | ![MPD](plots/parent_sect_mpds/Brawley_Seismic_Zone_alt_1_10yr.png) |
 
 
 ## JSON Input File
