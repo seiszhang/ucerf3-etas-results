@@ -22,7 +22,7 @@ ETAS_CONF_JSON=${ETAS_SIM_DIR}/2020_04_08-ComCatM4p87_ci39126079_PointSource_kCO
 
 # path to ComCat catalog for ComCat comparison plots. this only applies to simulation configuration which include the ComCat metadata files, and where the compute nodes cannot reach the outside world (e.g. for USC HPC). If the compute node can see the outside world, you can leave this as blank (or comment out) and events will be fetched at runtime.
 # this file is generated with the 'u3etas_comcat_catalog_fetcher.sh <config.json>' command
-#COMCAT_CATALOG=/path/to/comcat-events.txt
+COMCAT_CATALOG=/home/scec-02/kmilner/ucerf3/etas_sim/2020_04_08-ComCatM4p87_ci39126079_PointSource_kCOV1p5/comcat-events-2020-04-08-17-15-20events.txt
 
 # no maps option - uncomment this to skip any map generation which requires access to a servlet on opensha.usc.edu. this option should be enabled if your compute nodes cannot reach the outside world (e.g. for USC HPC), or if the opensha server is down or otherwise inaccessible
 NO_MAPS_OPTION="--no-maps"
