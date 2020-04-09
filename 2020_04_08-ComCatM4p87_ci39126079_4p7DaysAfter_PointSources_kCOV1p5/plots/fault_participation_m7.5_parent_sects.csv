@@ -223,19 +223,19 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 123,Rose Canyon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 42,Round Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 690,Russ 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-287,San Andreas (Big Bend),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-300,San Andreas (Carrizo) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-285,San Andreas (Cholame) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+287,San Andreas (Big Bend),1.0E-5,0.0,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5
+300,San Andreas (Carrizo) rev,1.0E-5,0.0,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5
+285,San Andreas (Cholame) rev,1.0E-5,0.0,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5
 295,San Andreas (Coachella) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 658,San Andreas (Creeping Section) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-286,San Andreas (Mojave N),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-301,San Andreas (Mojave S),0.0,0.0,0.0,0.0,0.0,0.0,0.0
+286,San Andreas (Mojave N),1.0E-5,0.0,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5
+301,San Andreas (Mojave S),1.0E-5,0.0,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5
 294,San Andreas (North Branch Mill Creek),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 654,San Andreas (North Coast) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 653,San Andreas (Offshore) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 32,San Andreas (Parkfield),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 655,San Andreas (Peninsula) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-282,San Andreas (San Bernardino N),0.0,0.0,0.0,0.0,0.0,0.0,0.0
+282,San Andreas (San Bernardino N),1.0E-5,0.0,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5
 283,San Andreas (San Bernardino S),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 284,San Andreas (San Gorgonio Pass-Garnet HIll),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 657,San Andreas (Santa Cruz Mts) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -248,15 +248,15 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 194,San Gorgonio Pass,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 660,San Gregorio (North) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 661,San Gregorio (South) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-293,San Jacinto (Anza) rev,3.115265E-5,0.0,0.0,0.0,0.0,3.115265E-5,3.115265E-5
-99,San Jacinto (Borrego),3.115265E-5,0.0,0.0,0.0,0.0,3.115265E-5,3.115265E-5
-292,San Jacinto (Clark) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-101,San Jacinto (Coyote Creek),3.115265E-5,0.0,0.0,0.0,0.0,3.115265E-5,3.115265E-5
+293,San Jacinto (Anza) rev,2.0E-5,0.0,0.0,1.0E-5,1.0E-5,2.0E-5,2.0E-5
+99,San Jacinto (Borrego),1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,1.0E-5
+292,San Jacinto (Clark) rev,1.0E-5,0.0,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5
+101,San Jacinto (Coyote Creek),1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,1.0E-5
 901,San Jacinto (Lytle Creek connector),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-119,San Jacinto (San Bernardino),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-289,San Jacinto (San Jacinto Valley) rev,3.115265E-5,0.0,0.0,0.0,0.0,3.115265E-5,3.115265E-5
-401,San Jacinto (Stepovers Combined),3.115265E-5,0.0,0.0,0.0,0.0,3.115265E-5,3.115265E-5
-28,San Jacinto (Superstition Mtn),3.115265E-5,0.0,0.0,0.0,0.0,3.115265E-5,3.115265E-5
+119,San Jacinto (San Bernardino),1.0E-5,0.0,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5
+289,San Jacinto (San Jacinto Valley) rev,2.0E-5,0.0,0.0,1.0E-5,1.0E-5,2.0E-5,2.0E-5
+401,San Jacinto (Stepovers Combined),2.0E-5,0.0,0.0,1.0E-5,1.0E-5,2.0E-5,2.0E-5
+28,San Jacinto (Superstition Mtn),1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,1.0E-5
 143,San Joaquin Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 107,San Jose,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 31,San Juan,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -291,7 +291,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 189,South Cuyama,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 719,South Klamath Lake East,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 720,South Klamath Lake West,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-98,Superstition Hills,3.115265E-5,0.0,0.0,0.0,0.0,3.115265E-5,3.115265E-5
+98,Superstition Hills,1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,1.0E-5
 708,Surprise Valley 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 695,Swain Ravine - Spenceville,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 15,Table Bluff,0.0,0.0,0.0,0.0,0.0,0.0,0.0

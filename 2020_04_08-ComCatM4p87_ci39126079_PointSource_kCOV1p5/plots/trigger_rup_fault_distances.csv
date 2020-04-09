@@ -1,0 +1,7 @@
+Section Name,"Strike, Dip, Rake",Hypocenter In Polygon?,Surface In Polygon?,Minimum Distance (km),Minimum Poly Distance (km)
+San Jacinto (Clark) rev,"124, 90, 180",true,true,0.721,0.000
+San Jacinto (Coyote Creek),"133, 90, 180",true,true,3.961,0.000
+San Jacinto (Anza) rev,"127, 90, 180",false,false,0.771,0.516
+Earthquake Valley (No  Extension),"131, 90, 180",false,false,30.582,18.619
+Elsinore (Julian),"307, 84, 180",false,false,36.127,27.222
+San Andreas (Coachella) rev,"134, 90, 180",false,false,40.588,28.587
