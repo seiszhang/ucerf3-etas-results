@@ -8,7 +8,7 @@
 | Duration | 500 Years |
 | Includes Spontaneous? | true |
 | Trigger Ruptures | *(none)* |
-| Trigger Ruptures | 60366 Trigger Ruptures |
+| Historical Ruptures | 60366 Trigger Ruptures |
 |   | First: M7.3 at 1852/01/05 04:40:39 UTC |
 |   | Last: M3.2 at 2011/12/31 19:14:44 UTC |
 |   | Largest: M7.9 at 1857/01/09 16:25:39 UTC |
@@ -17,8 +17,6 @@
 ## Table Of Contents
 
 * [Magnitude Frequency Distribution](#magnitude-frequency-distribution)
-  * [Magnitude Frequency Distribution, Including Spontaneous](#magnitude-frequency-distribution-including-spontaneous)
-  * [Magnitude Frequency Distribution, Including Spontaneous, Triggered Events](#magnitude-frequency-distribution-including-spontaneous-triggered-events)
 * [Long Term Rate Variability](#long-term-rate-variability)
   * [162 Year Variability](#162-year-variability)
   * [80 Year Variability](#80-year-variability)
@@ -38,11 +36,6 @@
 ## Magnitude Frequency Distribution
 *[(top)](#table-of-contents)*
 
-### Magnitude Frequency Distribution, Including Spontaneous
-*[(top)](#table-of-contents)*
-
-*Note: This section includes both spontaneous and triggered events*
-
 **Legend**
 * **Mean** (thick black line): mean annual rate across all 1000 catalogs
 * **2.5%,97.5%** (thin black lines): annual rate percentiles across all 1000 catalogs
@@ -52,7 +45,6 @@
 * **500 yr Probability** (thin red line): 500 year probability calculated as the fraction of catalogs with at least 1 occurrence
 * **500 yr Supraseismogenic Probability** (thin dashed red line): same as above, but only for supraseismogenic ruptures on explicitly modeled UCERF3 faults
 * **95% Conf** (light red shaded region): binomial 95% confidence bounds on probability
-* **Primary** (thin green line): mean annual rate from primary triggered aftershocks only (no secondary, tertiary, etc...) across all 1000 catalogs
 
 ![MFD Plot](plots/mfd.png)
 
@@ -99,68 +91,6 @@
 | **M&ge;8.8** | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 (0.00%) | [0.00% 0.48%] | 0.000 (0.00%) |
 | **M&ge;8.9** | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 (0.00%) | [0.00% 0.48%] | 0.000 (0.00%) |
 | **M&ge;9** | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 (0.00%) | [0.00% 0.48%] | 0.000 (0.00%) |
-
-### Magnitude Frequency Distribution, Including Spontaneous, Triggered Events
-*[(top)](#table-of-contents)*
-
-*Note: This section only includes triggered events, spontaneous were calculated but filtered out here*
-
-**Legend**
-* **Mean** (thick black line): mean annual rate across all 1000 catalogs
-* **2.5%,97.5%** (thin black lines): annual rate percentiles across all 1000 catalogs
-* **Median** (thin blue line): median annual rate across all 1000 catalogs
-* **Mode** (thin cyan line): modal annual rate across all 1000 catalogs (scaled to annualized value)
-* **Fault System Solution** (brown line): long-term MFD from the UCERF3 fault system solution
-* **500 yr Probability** (thin red line): 500 year probability calculated as the fraction of catalogs with at least 1 occurrence
-* **500 yr Supraseismogenic Probability** (thin dashed red line): same as above, but only for supraseismogenic ruptures on explicitly modeled UCERF3 faults
-* **95% Conf** (light red shaded region): binomial 95% confidence bounds on probability
-* **Primary** (thin green line): mean annual rate from primary triggered aftershocks only (no secondary, tertiary, etc...) across all 1000 catalogs
-
-![MFD Plot](plots/mfd_triggered.png)
-
-| Mag | Mean | 2.5 %ile | 97.5 %ile | Median | Mode | Long-Term Fault System Solution | 500 yr Probability | 500 yr Prob 95% Conf | 500 yr Supra-Seis Prob | Primary Aftershocks Mean |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| **M&ge;5** | 0.346 | 0.148 | 1.014 | 0.266 | 0.236 | 8.609 | 1.000 (100.00%) | [99.52% 100.00%] | 0.994 (99.40%) | 0.092 |
-| **M&ge;5.1** | 0.273 | 0.118 | 0.800 | 0.212 | 0.214 | 6.830 | 1.000 (100.00%) | [99.52% 100.00%] | 0.994 (99.40%) | 0.073 |
-| **M&ge;5.2** | 0.216 | 0.090 | 0.642 | 0.170 | 0.140 | 5.417 | 1.000 (100.00%) | [99.52% 100.00%] | 0.994 (99.40%) | 0.059 |
-| **M&ge;5.3** | 0.170 | 0.070 | 0.498 | 0.134 | 0.102 | 4.295 | 1.000 (100.00%) | [99.52% 100.00%] | 0.994 (99.40%) | 0.046 |
-| **M&ge;5.4** | 0.133 | 0.052 | 0.386 | 0.106 | 0.094 | 3.404 | 1.000 (100.00%) | [99.52% 100.00%] | 0.994 (99.40%) | 0.037 |
-| **M&ge;5.5** | 0.105 | 0.040 | 0.300 | 0.082 | 0.070 | 2.696 | 1.000 (100.00%) | [99.52% 100.00%] | 0.994 (99.40%) | 0.030 |
-| **M&ge;5.6** | 0.082 | 0.030 | 0.232 | 0.066 | 0.058 | 2.133 | 1.000 (100.00%) | [99.52% 100.00%] | 0.994 (99.40%) | 0.024 |
-| **M&ge;5.7** | 0.064 | 0.022 | 0.180 | 0.052 | 0.048 | 1.686 | 1.000 (100.00%) | [99.52% 100.00%] | 0.994 (99.40%) | 0.019 |
-| **M&ge;5.8** | 0.049 | 0.016 | 0.134 | 0.040 | 0.042 | 1.331 | 1.000 (100.00%) | [99.52% 100.00%] | 0.994 (99.40%) | 0.015 |
-| **M&ge;5.9** | 0.037 | 0.010 | 0.100 | 0.030 | 0.024 | 1.036 | 1.000 (100.00%) | [99.52% 100.00%] | 0.993 (99.30%) | 0.012 |
-| **M&ge;6** | 0.029 | 8.00E-3 | 0.076 | 0.024 | 0.020 | 0.836 | 1.000 (100.00%) | [99.52% 100.00%] | 0.993 (99.30%) | 9.83E-3 |
-| **M&ge;6.1** | 0.022 | 6.00E-3 | 0.056 | 0.018 | 0.014 | 0.660 | 1.000 (100.00%) | [99.52% 100.00%] | 0.988 (98.80%) | 7.63E-3 |
-| **M&ge;6.2** | 0.017 | 4.00E-3 | 0.046 | 0.014 | 0.012 | 0.529 | 0.998 (99.80%) | [99.20% 99.97%] | 0.980 (98.00%) | 6.33E-3 |
-| **M&ge;6.3** | 0.014 | 2.00E-3 | 0.038 | 0.012 | 8.00E-3 | 0.420 | 0.992 (99.20%) | [98.36% 99.63%] | 0.966 (96.60%) | 5.18E-3 |
-| **M&ge;6.4** | 0.011 | 0.000 | 0.030 | 0.010 | 8.00E-3 | 0.332 | 0.975 (97.50%) | [96.28% 98.34%] | 0.944 (94.40%) | 4.13E-3 |
-| **M&ge;6.5** | 8.27E-3 | 0.000 | 0.022 | 8.00E-3 | 6.00E-3 | 0.260 | 0.949 (94.90%) | [93.30% 96.14%] | 0.908 (90.80%) | 3.21E-3 |
-| **M&ge;6.6** | 6.51E-3 | 0.000 | 0.018 | 6.00E-3 | 4.00E-3 | 0.205 | 0.912 (91.20%) | [89.23% 92.85%] | 0.874 (87.40%) | 2.55E-3 |
-| **M&ge;6.7** | 5.01E-3 | 0.000 | 0.016 | 4.00E-3 | 4.00E-3 | 0.160 | 0.850 (85.00%) | [82.60% 87.13%] | 0.814 (81.40%) | 2.04E-3 |
-| **M&ge;6.8** | 4.08E-3 | 0.000 | 0.012 | 4.00E-3 | 2.00E-3 | 0.127 | 0.802 (80.20%) | [77.56% 82.60%] | 0.768 (76.80%) | 1.69E-3 |
-| **M&ge;6.9** | 3.31E-3 | 0.000 | 0.012 | 2.00E-3 | 2.00E-3 | 0.100 | 0.736 (73.60%) | [70.73% 76.29%] | 0.705 (70.50%) | 1.39E-3 |
-| **M&ge;7** | 2.75E-3 | 0.000 | 0.010 | 2.00E-3 | 0.000 | 0.078 | 0.679 (67.90%) | [64.89% 70.77%] | 0.650 (65.00%) | 1.18E-3 |
-| **M&ge;7.1** | 2.12E-3 | 0.000 | 8.00E-3 | 2.00E-3 | 0.000 | 0.060 | 0.600 (60.00%) | [56.88% 63.04%] | 0.580 (58.00%) | 9.18E-4 |
-| **M&ge;7.2** | 1.69E-3 | 0.000 | 6.00E-3 | 2.00E-3 | 0.000 | 0.045 | 0.526 (52.60%) | [49.45% 55.73%] | 0.511 (51.10%) | 7.34E-4 |
-| **M&ge;7.3** | 1.37E-3 | 0.000 | 6.00E-3 | 0.000 | 0.000 | 0.035 | 0.457 (45.70%) | [42.59% 48.85%] | 0.453 (45.30%) | 5.76E-4 |
-| **M&ge;7.4** | 1.08E-3 | 0.000 | 6.00E-3 | 0.000 | 0.000 | 0.027 | 0.385 (38.50%) | [35.48% 41.61%] | 0.383 (38.30%) | 4.48E-4 |
-| **M&ge;7.5** | 8.00E-4 | 0.000 | 4.00E-3 | 0.000 | 0.000 | 0.019 | 0.304 (30.40%) | [27.58% 33.37%] | 0.304 (30.40%) | 3.44E-4 |
-| **M&ge;7.6** | 6.48E-4 | 0.000 | 4.00E-3 | 0.000 | 0.000 | 0.014 | 0.258 (25.80%) | [23.14% 28.65%] | 0.258 (25.80%) | 2.86E-4 |
-| **M&ge;7.7** | 4.66E-4 | 0.000 | 4.00E-3 | 0.000 | 0.000 | 9.58E-3 | 0.199 (19.90%) | [17.50% 22.54%] | 0.199 (19.90%) | 1.96E-4 |
-| **M&ge;7.8** | 3.30E-4 | 0.000 | 2.00E-3 | 0.000 | 0.000 | 6.19E-3 | 0.141 (14.10%) | [12.03% 16.45%] | 0.141 (14.10%) | 1.42E-4 |
-| **M&ge;7.9** | 2.02E-4 | 0.000 | 2.00E-3 | 0.000 | 0.000 | 3.51E-3 | 0.092 (9.20%) | [7.52% 11.21%] | 0.092 (9.20%) | 9.20E-5 |
-| **M&ge;8** | 8.60E-5 | 0.000 | 2.00E-3 | 0.000 | 0.000 | 2.03E-3 | 0.043 (4.30%) | [3.16% 5.80%] | 0.043 (4.30%) | 4.60E-5 |
-| **M&ge;8.1** | 2.80E-5 | 0.000 | 0.000 | 0.000 | 0.000 | 1.02E-3 | 0.014 (1.40%) | [0.80% 2.40%] | 0.014 (1.40%) | 1.40E-5 |
-| **M&ge;8.2** | 1.60E-5 | 0.000 | 0.000 | 0.000 | 0.000 | 4.48E-4 | 8.00E-3 (0.80%) | [0.37% 1.64%] | 8.00E-3 (0.80%) | 1.00E-5 |
-| **M&ge;8.3** | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 1.02E-4 | 0.000 (0.00%) | [0.00% 0.48%] | 0.000 (0.00%) | 0.000 |
-| **M&ge;8.4** | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 (0.00%) | [0.00% 0.48%] | 0.000 (0.00%) | 0.000 |
-| **M&ge;8.5** | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 (0.00%) | [0.00% 0.48%] | 0.000 (0.00%) | 0.000 |
-| **M&ge;8.6** | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 (0.00%) | [0.00% 0.48%] | 0.000 (0.00%) | 0.000 |
-| **M&ge;8.7** | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 (0.00%) | [0.00% 0.48%] | 0.000 (0.00%) | 0.000 |
-| **M&ge;8.8** | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 (0.00%) | [0.00% 0.48%] | 0.000 (0.00%) | 0.000 |
-| **M&ge;8.9** | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 (0.00%) | [0.00% 0.48%] | 0.000 (0.00%) | 0.000 |
-| **M&ge;9** | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 (0.00%) | [0.00% 0.48%] | 0.000 (0.00%) | 0.000 |
 
 
 ## Long Term Rate Variability
@@ -374,112 +304,112 @@
 ### Section Participation Plots
 *[(top)](#table-of-contents)*
 
-| Min Mag | Complete Catalog (including spontaneous) | Ratio WRT Long-Term Model | Triggered Ruptures (no spontaneous) | Triggered Ruptures (primary aftershocks only) |
-|-----|-----|-----|-----|-----|
-| **All Supra. Seis.** | ![Participation Plot](plots/fault_participation_partic.png) | ![Participation Plot](plots/fault_participation_partic_ratio.png) | ![Participation Plot](plots/fault_participation_partic_triggered.png) | ![Participation Plot](plots/fault_participation_partic_triggered_primary.png) |
-| **M&ge;6.5** | ![Participation Plot](plots/fault_participation_partic_m6.5.png) | ![Participation Plot](plots/fault_participation_partic_m6.5_ratio.png) | ![Participation Plot](plots/fault_participation_partic_m6.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_m6.5_triggered_primary.png) |
-| **M&ge;7** | ![Participation Plot](plots/fault_participation_partic_m7.0.png) | ![Participation Plot](plots/fault_participation_partic_m7.0_ratio.png) | ![Participation Plot](plots/fault_participation_partic_m7.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_m7.0_triggered_primary.png) |
-| **M&ge;7.5** | ![Participation Plot](plots/fault_participation_partic_m7.5.png) | ![Participation Plot](plots/fault_participation_partic_m7.5_ratio.png) | ![Participation Plot](plots/fault_participation_partic_m7.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_m7.5_triggered_primary.png) |
-| **M&ge;8** | ![Participation Plot](plots/fault_participation_partic_m8.0.png) | ![Participation Plot](plots/fault_participation_partic_m8.0_ratio.png) | ![Participation Plot](plots/fault_participation_partic_m8.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_m8.0_triggered_primary.png) |
+| Min Mag | Complete Catalog (including spontaneous) | Ratio WRT Long-Term Model |
+|-----|-----|-----|
+| **All Supra. Seis.** | ![Participation Plot](plots/fault_participation_partic.png) | ![Participation Plot](plots/fault_participation_partic_ratio.png) |
+| **M&ge;6.5** | ![Participation Plot](plots/fault_participation_partic_m6.5.png) | ![Participation Plot](plots/fault_participation_partic_m6.5_ratio.png) |
+| **M&ge;7** | ![Participation Plot](plots/fault_participation_partic_m7.0.png) | ![Participation Plot](plots/fault_participation_partic_m7.0_ratio.png) |
+| **M&ge;7.5** | ![Participation Plot](plots/fault_participation_partic_m7.5.png) | ![Participation Plot](plots/fault_participation_partic_m7.5_ratio.png) |
+| **M&ge;8** | ![Participation Plot](plots/fault_participation_partic_m8.0.png) | ![Participation Plot](plots/fault_participation_partic_m8.0_ratio.png) |
 
 ### Supra-Seismogenic Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 313 with matching ruptures shown*
 
-| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Triggered Mean Annual Rate | Triggered 500 Year Prob | Triggered 500 Year 95% Conf | Triggered Primary Mean Annual Rate | Long-Term Fault System Solution Rate |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Andreas (Parkfield) | 0.042132 | 1.000 (100.00%) | [99.52% 100.00%] | 0.003986 | 0.708 (70.80%) | [67.86% 73.58%] | 0.00166 | 0.047238618 |
-| San Andreas (Creeping Section) 2011 CFM | 0.028344 | 1.000 (100.00%) | [99.52% 100.00%] | 0.001052 | 0.335 (33.50%) | [30.59% 36.53%] | 4.44E-4 | 0.03419009 |
-| San Andreas (Mojave S) | 0.018506 | 1.000 (100.00%) | [99.52% 100.00%] | 0.001676 | 0.364 (36.40%) | [33.43% 39.48%] | 6.78E-4 | 0.016211301 |
-| Mendocino | 0.017994 | 1.000 (100.00%) | [99.52% 100.00%] | 0.00101 | 0.346 (34.60%) | [31.67% 37.65%] | 4.86E-4 | 0.028919645 |
-| Cerro Prieto | 0.013446 | 1.000 (100.00%) | [99.52% 100.00%] | 7.72E-4 | 0.243 (24.30%) | [21.70% 27.11%] | 2.9E-4 | 0.015186971 |
-| Imperial | 0.011768 | 1.000 (100.00%) | [99.52% 100.00%] | 5.98E-4 | 0.230 (23.00%) | [20.45% 25.76%] | 2.82E-4 | 0.014349225 |
-| Brawley (Seismic Zone) alt 1 | 0.011074 | 1.000 (100.00%) | [99.52% 100.00%] | 4.94E-4 | 0.198 (19.80%) | [17.40% 22.44%] | 2.18E-4 | 0.013392845 |
-| Hayward (So) 2011 CFM | 0.009346 | 1.000 (100.00%) | [99.52% 100.00%] | 5.98E-4 | 0.207 (20.70%) | [18.26% 23.37%] | 2.88E-4 | 0.009440966 |
-| San Andreas (Offshore) 2011 CFM | 0.00861 | 0.999 (99.90%) | [99.35% 99.99%] | 9.68E-4 | 0.282 (28.20%) | [25.45% 31.12%] | 4.38E-4 | 0.008909097 |
-| Elsinore (Glen Ivy) rev | 0.007882 | 0.993 (99.30%) | [98.50% 99.69%] | 2.4E-4 | 0.082 (8.20%) | [6.61% 10.12%] | 1.0E-4 | 0.008455746 |
+| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| San Andreas (Parkfield) | 0.042132 | 1.000 (100.00%) | [99.52% 100.00%] | 0.047238618 |
+| San Andreas (Creeping Section) 2011 CFM | 0.028344 | 1.000 (100.00%) | [99.52% 100.00%] | 0.03419009 |
+| San Andreas (Mojave S) | 0.018506 | 1.000 (100.00%) | [99.52% 100.00%] | 0.016211301 |
+| Mendocino | 0.017994 | 1.000 (100.00%) | [99.52% 100.00%] | 0.028919645 |
+| Cerro Prieto | 0.013446 | 1.000 (100.00%) | [99.52% 100.00%] | 0.015186971 |
+| Imperial | 0.011768 | 1.000 (100.00%) | [99.52% 100.00%] | 0.014349225 |
+| Brawley (Seismic Zone) alt 1 | 0.011074 | 1.000 (100.00%) | [99.52% 100.00%] | 0.013392845 |
+| Hayward (So) 2011 CFM | 0.009346 | 1.000 (100.00%) | [99.52% 100.00%] | 0.009440966 |
+| San Andreas (Offshore) 2011 CFM | 0.00861 | 0.999 (99.90%) | [99.35% 99.99%] | 0.008909097 |
+| Elsinore (Glen Ivy) rev | 0.007882 | 0.993 (99.30%) | [98.50% 99.69%] | 0.008455746 |
 
 ### M≥6.5 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 305 with matching ruptures shown*
 
-| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Triggered Mean Annual Rate | Triggered 500 Year Prob | Triggered 500 Year 95% Conf | Triggered Primary Mean Annual Rate | Long-Term Fault System Solution Rate |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| Cerro Prieto | 0.011544 | 1.000 (100.00%) | [99.52% 100.00%] | 6.66E-4 | 0.222 (22.20%) | [19.69% 24.93%] | 2.6E-4 | 0.013091409 |
-| San Andreas (Creeping Section) 2011 CFM | 0.010776 | 0.999 (99.90%) | [99.35% 99.99%] | 4.86E-4 | 0.186 (18.60%) | [16.26% 21.18%] | 2.2E-4 | 0.012216282 |
-| Mendocino | 0.009268 | 1.000 (100.00%) | [99.52% 100.00%] | 6.44E-4 | 0.247 (24.70%) | [22.08% 27.52%] | 3.12E-4 | 0.012516479 |
-| Imperial | 0.00816 | 1.000 (100.00%) | [99.52% 100.00%] | 3.72E-4 | 0.153 (15.30%) | [13.16% 17.72%] | 1.68E-4 | 0.0096799815 |
-| Hayward (So) 2011 CFM | 0.007952 | 0.997 (99.70%) | [99.05% 99.92%] | 4.56E-4 | 0.166 (16.60%) | [14.38% 19.09%] | 2.18E-4 | 0.008140643 |
-| Brawley (Seismic Zone) alt 1 | 0.007774 | 1.000 (100.00%) | [99.52% 100.00%] | 3.46E-4 | 0.144 (14.40%) | [12.31% 16.77%] | 1.52E-4 | 0.009075132 |
-| San Andreas (Mojave S) | 0.007002 | 0.998 (99.80%) | [99.20% 99.97%] | 5.06E-4 | 0.193 (19.30%) | [16.93% 21.91%] | 2.12E-4 | 0.0067372364 |
-| San Andreas (Santa Cruz Mts) 2011 CFM | 0.006808 | 0.999 (99.90%) | [99.35% 99.99%] | 4.22E-4 | 0.175 (17.50%) | [15.22% 20.03%] | 2.1E-4 | 0.00821497 |
-| San Andreas (San Bernardino N) | 0.006746 | 1.000 (100.00%) | [99.52% 100.00%] | 3.58E-4 | 0.141 (14.10%) | [12.03% 16.45%] | 1.34E-4 | 0.0067538084 |
-| San Andreas (Offshore) 2011 CFM | 0.006292 | 0.999 (99.90%) | [99.35% 99.99%] | 6.02E-4 | 0.218 (21.80%) | [19.30% 24.52%] | 2.78E-4 | 0.006658823 |
+| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| Cerro Prieto | 0.011544 | 1.000 (100.00%) | [99.52% 100.00%] | 0.013091409 |
+| San Andreas (Creeping Section) 2011 CFM | 0.010776 | 0.999 (99.90%) | [99.35% 99.99%] | 0.012216282 |
+| Mendocino | 0.009268 | 1.000 (100.00%) | [99.52% 100.00%] | 0.012516479 |
+| Imperial | 0.00816 | 1.000 (100.00%) | [99.52% 100.00%] | 0.0096799815 |
+| Hayward (So) 2011 CFM | 0.007952 | 0.997 (99.70%) | [99.05% 99.92%] | 0.008140643 |
+| Brawley (Seismic Zone) alt 1 | 0.007774 | 1.000 (100.00%) | [99.52% 100.00%] | 0.009075132 |
+| San Andreas (Mojave S) | 0.007002 | 0.998 (99.80%) | [99.20% 99.97%] | 0.0067372364 |
+| San Andreas (Santa Cruz Mts) 2011 CFM | 0.006808 | 0.999 (99.90%) | [99.35% 99.99%] | 0.00821497 |
+| San Andreas (San Bernardino N) | 0.006746 | 1.000 (100.00%) | [99.52% 100.00%] | 0.0067538084 |
+| San Andreas (Offshore) 2011 CFM | 0.006292 | 0.999 (99.90%) | [99.35% 99.99%] | 0.006658823 |
 
 ### M≥7 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 272 with matching ruptures shown*
 
-| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Triggered Mean Annual Rate | Triggered 500 Year Prob | Triggered 500 Year 95% Conf | Triggered Primary Mean Annual Rate | Long-Term Fault System Solution Rate |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Andreas (Creeping Section) 2011 CFM | 0.006884 | 0.992 (99.20%) | [98.36% 99.63%] | 3.68E-4 | 0.158 (15.80%) | [13.62% 18.24%] | 1.68E-4 | 0.007612852 |
-| San Andreas (Cholame) rev | 0.0056 | 0.999 (99.90%) | [99.35% 99.99%] | 4.56E-4 | 0.184 (18.40%) | [16.07% 20.97%] | 2.24E-4 | 0.005722108 |
-| San Andreas (Carrizo) rev | 0.005598 | 0.999 (99.90%) | [99.35% 99.99%] | 4.48E-4 | 0.183 (18.30%) | [15.98% 20.87%] | 2.14E-4 | 0.0057427646 |
-| San Andreas (Santa Cruz Mts) 2011 CFM | 0.005298 | 0.992 (99.20%) | [98.36% 99.63%] | 2.94E-4 | 0.128 (12.80%) | [10.82% 15.07%] | 1.4E-4 | 0.0062776324 |
-| San Andreas (Mojave S) | 0.005272 | 0.997 (99.70%) | [99.05% 99.92%] | 3.34E-4 | 0.142 (14.20%) | [12.13% 16.55%] | 1.44E-4 | 0.0052993274 |
-| San Andreas (Mojave N) | 0.004968 | 0.999 (99.90%) | [99.35% 99.99%] | 3.48E-4 | 0.144 (14.40%) | [12.31% 16.77%] | 1.56E-4 | 0.0051040766 |
-| San Andreas (North Coast) 2011 CFM | 0.004732 | 0.996 (99.60%) | [98.90% 99.87%] | 3.54E-4 | 0.149 (14.90%) | [12.78% 17.29%] | 1.52E-4 | 0.005556243 |
-| San Andreas (San Bernardino N) | 0.004626 | 0.986 (98.60%) | [97.60% 99.20%] | 2.6E-4 | 0.113 (11.30%) | [9.44% 13.47%] | 1.06E-4 | 0.004749499 |
-| San Andreas (Big Bend) | 0.004558 | 0.998 (99.80%) | [99.20% 99.97%] | 3.3E-4 | 0.140 (14.00%) | [11.94% 16.34%] | 1.62E-4 | 0.0045623486 |
-| San Andreas (Offshore) 2011 CFM | 0.004444 | 0.995 (99.50%) | [98.77% 99.82%] | 3.6E-4 | 0.154 (15.40%) | [13.25% 17.82%] | 1.78E-4 | 0.0049385377 |
+| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| San Andreas (Creeping Section) 2011 CFM | 0.006884 | 0.992 (99.20%) | [98.36% 99.63%] | 0.007612852 |
+| San Andreas (Cholame) rev | 0.0056 | 0.999 (99.90%) | [99.35% 99.99%] | 0.005722108 |
+| San Andreas (Carrizo) rev | 0.005598 | 0.999 (99.90%) | [99.35% 99.99%] | 0.0057427646 |
+| San Andreas (Santa Cruz Mts) 2011 CFM | 0.005298 | 0.992 (99.20%) | [98.36% 99.63%] | 0.0062776324 |
+| San Andreas (Mojave S) | 0.005272 | 0.997 (99.70%) | [99.05% 99.92%] | 0.0052993274 |
+| San Andreas (Mojave N) | 0.004968 | 0.999 (99.90%) | [99.35% 99.99%] | 0.0051040766 |
+| San Andreas (North Coast) 2011 CFM | 0.004732 | 0.996 (99.60%) | [98.90% 99.87%] | 0.005556243 |
+| San Andreas (San Bernardino N) | 0.004626 | 0.986 (98.60%) | [97.60% 99.20%] | 0.004749499 |
+| San Andreas (Big Bend) | 0.004558 | 0.998 (99.80%) | [99.20% 99.97%] | 0.0045623486 |
+| San Andreas (Offshore) 2011 CFM | 0.004444 | 0.995 (99.50%) | [98.77% 99.82%] | 0.0049385377 |
 
 ### M≥7.5 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 203 with matching ruptures shown*
 
-| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Triggered Mean Annual Rate | Triggered 500 Year Prob | Triggered 500 Year 95% Conf | Triggered Primary Mean Annual Rate | Long-Term Fault System Solution Rate |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Andreas (Mojave N) | 0.004866 | 0.999 (99.90%) | [99.35% 99.99%] | 3.42E-4 | 0.143 (14.30%) | [12.22% 16.66%] | 1.54E-4 | 0.0049894005 |
-| San Andreas (Big Bend) | 0.004436 | 0.997 (99.70%) | [99.05% 99.92%] | 3.22E-4 | 0.138 (13.80%) | [11.75% 16.13%] | 1.56E-4 | 0.0044245115 |
-| San Andreas (Mojave S) | 0.004402 | 0.991 (99.10%) | [98.23% 99.56%] | 2.82E-4 | 0.126 (12.60%) | [10.64% 14.85%] | 1.22E-4 | 0.0045267143 |
-| San Andreas (Carrizo) rev | 0.004144 | 0.993 (99.30%) | [98.50% 99.69%] | 3.12E-4 | 0.136 (13.60%) | [11.57% 15.92%] | 1.5E-4 | 0.004201805 |
-| San Andreas (Cholame) rev | 0.00396 | 0.982 (98.20%) | [97.11% 98.90%] | 3.0E-4 | 0.131 (13.10%) | [11.10% 15.39%] | 1.46E-4 | 0.0040264158 |
-| San Andreas (North Coast) 2011 CFM | 0.003728 | 0.982 (98.20%) | [97.11% 98.90%] | 2.54E-4 | 0.113 (11.30%) | [9.44% 13.47%] | 1.1E-4 | 0.0045710644 |
-| San Andreas (San Bernardino N) | 0.003644 | 0.947 (94.70%) | [93.08% 95.97%] | 2.28E-4 | 0.101 (10.10%) | [8.34% 12.18%] | 9.6E-5 | 0.0037959707 |
-| San Andreas (Creeping Section) 2011 CFM | 0.003528 | 0.909 (90.90%) | [88.90% 92.57%] | 2.22E-4 | 0.102 (10.20%) | [8.43% 12.28%] | 1.06E-4 | 0.0038110747 |
-| San Andreas (Peninsula) 2011 CFM | 0.00313 | 0.951 (95.10%) | [93.52% 96.32%] | 1.92E-4 | 0.089 (8.90%) | [7.24% 10.88%] | 8.2E-5 | 0.0035515025 |
-| San Andreas (Parkfield) | 0.003124 | 0.910 (91.00%) | [89.01% 92.67%] | 2.24E-4 | 0.101 (10.10%) | [8.34% 12.18%] | 1.12E-4 | 0.0032088608 |
+| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| San Andreas (Mojave N) | 0.004866 | 0.999 (99.90%) | [99.35% 99.99%] | 0.0049894005 |
+| San Andreas (Big Bend) | 0.004436 | 0.997 (99.70%) | [99.05% 99.92%] | 0.0044245115 |
+| San Andreas (Mojave S) | 0.004402 | 0.991 (99.10%) | [98.23% 99.56%] | 0.0045267143 |
+| San Andreas (Carrizo) rev | 0.004144 | 0.993 (99.30%) | [98.50% 99.69%] | 0.004201805 |
+| San Andreas (Cholame) rev | 0.00396 | 0.982 (98.20%) | [97.11% 98.90%] | 0.0040264158 |
+| San Andreas (North Coast) 2011 CFM | 0.003728 | 0.982 (98.20%) | [97.11% 98.90%] | 0.0045710644 |
+| San Andreas (San Bernardino N) | 0.003644 | 0.947 (94.70%) | [93.08% 95.97%] | 0.0037959707 |
+| San Andreas (Creeping Section) 2011 CFM | 0.003528 | 0.909 (90.90%) | [88.90% 92.57%] | 0.0038110747 |
+| San Andreas (Peninsula) 2011 CFM | 0.00313 | 0.951 (95.10%) | [93.52% 96.32%] | 0.0035515025 |
+| San Andreas (Parkfield) | 0.003124 | 0.910 (91.00%) | [89.01% 92.67%] | 0.0032088608 |
 
 ### M≥8 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 55 with matching ruptures shown*
 
-| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Triggered Mean Annual Rate | Triggered 500 Year Prob | Triggered 500 Year 95% Conf | Triggered Primary Mean Annual Rate | Long-Term Fault System Solution Rate |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Andreas (Mojave N) | 0.001432 | 0.569 (56.90%) | [53.76% 59.99%] | 7.6E-5 | 0.038 (3.80%) | [2.74% 5.23%] | 4.0E-5 | 0.0018098651 |
-| San Andreas (Mojave S) | 0.001418 | 0.566 (56.60%) | [53.46% 59.69%] | 7.6E-5 | 0.038 (3.80%) | [2.74% 5.23%] | 4.0E-5 | 0.0017636013 |
-| San Andreas (Carrizo) rev | 0.001404 | 0.561 (56.10%) | [52.96% 59.20%] | 7.8E-5 | 0.039 (3.90%) | [2.82% 5.34%] | 4.2E-5 | 0.0017508415 |
-| San Andreas (Big Bend) | 0.001402 | 0.560 (56.00%) | [52.86% 59.10%] | 7.8E-5 | 0.039 (3.90%) | [2.82% 5.34%] | 4.2E-5 | 0.0017453934 |
-| San Andreas (Cholame) rev | 0.00138 | 0.555 (55.50%) | [52.35% 58.60%] | 7.4E-5 | 0.037 (3.70%) | [2.65% 5.12%] | 4.0E-5 | 0.0017193216 |
-| San Andreas (San Bernardino N) | 0.001368 | 0.552 (55.20%) | [52.05% 58.31%] | 7.4E-5 | 0.037 (3.70%) | [2.65% 5.12%] | 4.0E-5 | 0.0016807786 |
-| San Andreas (Parkfield) | 0.001188 | 0.494 (49.40%) | [46.26% 52.55%] | 6.2E-5 | 0.031 (3.10%) | [2.15% 4.42%] | 3.4E-5 | 0.0015122787 |
-| San Andreas (Creeping Section) 2011 CFM | 0.001082 | 0.452 (45.20%) | [42.09% 48.35%] | 5.8E-5 | 0.029 (2.90%) | [1.99% 4.19%] | 3.2E-5 | 0.0014250289 |
-| San Andreas (Santa Cruz Mts) 2011 CFM | 7.42E-4 | 0.330 (33.00%) | [30.11% 36.03%] | 3.4E-5 | 0.017 (1.70%) | [1.03% 2.77%] | 2.2E-5 | 0.0010319632 |
-| San Andreas (Peninsula) 2011 CFM | 6.82E-4 | 0.308 (30.80%) | [27.97% 33.78%] | 3.2E-5 | 0.016 (1.60%) | [0.95% 2.64%] | 2.0E-5 | 9.2652056E-4 |
+| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| San Andreas (Mojave N) | 0.001432 | 0.569 (56.90%) | [53.76% 59.99%] | 0.0018098651 |
+| San Andreas (Mojave S) | 0.001418 | 0.566 (56.60%) | [53.46% 59.69%] | 0.0017636013 |
+| San Andreas (Carrizo) rev | 0.001404 | 0.561 (56.10%) | [52.96% 59.20%] | 0.0017508415 |
+| San Andreas (Big Bend) | 0.001402 | 0.560 (56.00%) | [52.86% 59.10%] | 0.0017453934 |
+| San Andreas (Cholame) rev | 0.00138 | 0.555 (55.50%) | [52.35% 58.60%] | 0.0017193216 |
+| San Andreas (San Bernardino N) | 0.001368 | 0.552 (55.20%) | [52.05% 58.31%] | 0.0016807786 |
+| San Andreas (Parkfield) | 0.001188 | 0.494 (49.40%) | [46.26% 52.55%] | 0.0015122787 |
+| San Andreas (Creeping Section) 2011 CFM | 0.001082 | 0.452 (45.20%) | [42.09% 48.35%] | 0.0014250289 |
+| San Andreas (Santa Cruz Mts) 2011 CFM | 7.42E-4 | 0.330 (33.00%) | [30.11% 36.03%] | 0.0010319632 |
+| San Andreas (Peninsula) 2011 CFM | 6.82E-4 | 0.308 (30.80%) | [27.97% 33.78%] | 9.2652056E-4 |
 
 ## Gridded Nucleation
 *[(top)](#table-of-contents)*
 
-| Min Mag | Complete Catalog (including spontaneous) | Ratio WRT Long-Term Model | Triggered Ruptures (no spontaneous) | Triggered Ruptures (primary aftershocks only) |
-|-----|-----|-----|-----|-----|
-| **M&ge;5** | ![Nucleation Plot](plots/gridded_nucleation_m5.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m5.0_ratio.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_m5.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m5.0.png) |
-| **M&ge;6** | ![Nucleation Plot](plots/gridded_nucleation_m6.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m6.0_ratio.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_m6.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m6.0.png) |
-| **M&ge;7** | ![Nucleation Plot](plots/gridded_nucleation_m7.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m7.0_ratio.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_m7.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m7.0.png) |
+| Min Mag | Complete Catalog (including spontaneous) | Ratio WRT Long-Term Model |
+|-----|-----|-----|
+| **M&ge;5** | ![Nucleation Plot](plots/gridded_nucleation_m5.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m5.0_ratio.png) |
+| **M&ge;6** | ![Nucleation Plot](plots/gridded_nucleation_m6.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m6.0_ratio.png) |
+| **M&ge;7** | ![Nucleation Plot](plots/gridded_nucleation_m7.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m7.0_ratio.png) |
 
 
 ## JSON Input File
@@ -515,7 +445,7 @@
   "outputDir": "${ETAS_SIM_DIR}/2019_11_05-Start2012_500yr_kCOV1p5_Spontaneous_HistoricalCatalog",
   "triggerCatalog": "${ETAS_LAUNCHER}/inputs/u3_historical_catalog.txt",
   "triggerCatalogSurfaceMappings": "${ETAS_LAUNCHER}/inputs/u3_historical_catalog_finite_fault_mappings.xml",
-  "treatTriggerCatalogAsSpontaneous": false,
+  "treatTriggerCatalogAsSpontaneous": true,
   "cacheDir": "${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba",
   "fssFile": "${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip",
   "probModel": "FULL_TD",
