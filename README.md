@@ -14,7 +14,7 @@
 | 2019/11/19 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, FM2_1](2019_11_19-ComCatM7p1_ci38457511_ShakeMapSurfaces_FM2_1/README.md) | 2019/07/05 | 1000000 | Done | 2020/04/08 |
 | 2019/11/08 | [ComCat data 1.5 d after ci38229234, Custom Region, Point Sources](2019_11_08-ComCatdata1p5dafterci38229234_CustomRegion_PointSources/README.md) | 2019/11/08 | 100000 | Done | 2019/12/05 |
 | 2019/11/05 | [Start 2012, 500 yr, kCOV=1.16, Spontaneous, Historical Catalog](2019_11_05-Start2012_500yr_kCOV1p16_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/12/05 |
-| 2019/11/05 | [Start 2012, 500 yr, kCOV=1.5, Spontaneous, Historical Catalog](2019_11_05-Start2012_500yr_kCOV1p5_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/12/05 |
+| 2019/11/05 | [Start 2012, 500 yr, kCOV=1.5, Spontaneous, Historical Catalog](2019_11_05-Start2012_500yr_kCOV1p5_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2020/04/15 |
 | 2019/11/05 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, kCOV=1.16](2019_11_05-ComCatM7p1_ci38457511_ShakeMapSurfaces_kCOV1p16/README.md) | 2019/07/05 | 100000 | Done | 2020/04/09 |
 | 2019/11/05 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, kCOV=1.5](2019_11_05-ComCatM7p1_ci38457511_ShakeMapSurfaces_kCOV1p5/README.md) | 2019/07/05 | 100000 | Done | 2020/04/10 |
 | 2019/11/04 | [ComCat M7.1 (ci38457511), 122 Days After, ShakeMap Surfaces](2019_11_04-ComCatM7p1_ci38457511_122DaysAfter_ShakeMapSurfaces/README.md) | 2019/11/04 | 100000 | Done | 2020/04/09 |
@@ -28,7 +28,7 @@
 | 2019/10/18 | [ComCat data 7.5 yr between historical and 2019-10-18, Statewide, ShakeMap Surfaces, Spontaneous, Historical Catalog](2019_10_18-ComCatdata7p5yrbetweenhistoricaland20191018_Statewide_ShakeMapSurfaces_Spontaneous_Histor/README.md) | 2019/10/18 | 10000 | Done | 2020/04/10 |
 | 2019/10/15 | [ComCat M4.71 (nc73292360), Point Sources](2019_10_15-ComCatM4p71_nc73292360_PointSources/README.md) | 2019/10/15 | 100000 | Done | 2020/04/10 |
 | 2019/10/15 | [Start 2012, 500 yr, kCOV=1.16, Spontaneous, Historical Catalog](2019_10_15-Start2012_500yr_kCOV1p16_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/12/05 |
-| 2019/10/11 | [Start 2012, 500 yr, Spontaneous, Historical Catalog](2019_10_11-Start2012_500yr_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/12/05 |
+| 2019/10/11 | [Start 2012, 500 yr, Spontaneous, Historical Catalog](2019_10_11-Start2012_500yr_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2020/04/15 |
 | 2019/10/11 | [Start 2012, 500 yr, Spontaneous, Historical Catalog, AleatoryKTest](2019_10_11-Start2012_500yr_Spontaneous_HistoricalCatalog_AleatoryKTest/README.md) | 2011/12/31 | 1000 | Done | 2019/12/05 |
 | 2019/09/30 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.5807, p=1.2481, c=0.0057006](2019_09_30-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p5807_p1p2481_c0p0057006/README.md) | 2019/07/05 | 100000 | Done | 2020/04/11 |
 | 2019/09/30 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Log10(k)=-2.3856, p=1.2164, c=0.0068906, No Faults](2019_09_30-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p3856_p1p2164_c0p0068906_NoFaults/README.md) | 2019/07/05 | 100000 | Done | 2020/04/09 |
@@ -107,5 +107,5 @@
 | 2019/07/04 | [Searles Valley M6.4](2019_07_04-SearlesValleyM64-includeSpont-full_td-10yr/README.md) | 2019/07/04 | 100000 | Done | 2019/12/07 |
 | 2019/06/05 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-full_td-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2019/12/07 |
 | 2019/06/05 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-no_ert-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2019/12/07 |
-| 2019/02/26 | [Historical1919](2019_02_26-Historical1919-includeSpont-historicalCatalog-100yr-8threads/README.md) | 1918/12/31 | 2 | Unknown | Unknown |
+| 2019/02/26 | [Historical1919](2019_02_26-Historical1919-includeSpont-historicalCatalog-100yr-8threads/README.md) | 1918/12/31 | 1000 | Unknown | Unknown |
 
