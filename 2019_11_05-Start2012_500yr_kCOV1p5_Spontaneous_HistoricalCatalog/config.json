@@ -27,7 +27,7 @@
   "outputDir": "${ETAS_SIM_DIR}/2019_11_05-Start2012_500yr_kCOV1p5_Spontaneous_HistoricalCatalog",
   "triggerCatalog": "${ETAS_LAUNCHER}/inputs/u3_historical_catalog.txt",
   "triggerCatalogSurfaceMappings": "${ETAS_LAUNCHER}/inputs/u3_historical_catalog_finite_fault_mappings.xml",
-  "treatTriggerCatalogAsSpontaneous": false,
+  "treatTriggerCatalogAsSpontaneous": true,
   "cacheDir": "${ETAS_LAUNCHER}/inputs/cache_fm3p1_ba",
   "fssFile": "${ETAS_LAUNCHER}/inputs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip",
   "probModel": "FULL_TD",
