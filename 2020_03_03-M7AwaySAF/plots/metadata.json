@@ -1,17 +1,17 @@
 {
-  "plotStartTime": 1583346806810,
-  "plotEndTime": 1583347554213,
+  "plotStartTime": 1587452006216,
+  "plotEndTime": 1587452506756,
   "simulationsProcessed": 25000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2020_03_03-M7AwaySAF/results_complete.bin"
   },
-  "launcherGitHash": "3346acc75dbe1cf4f0e6848a28bccd0b48d381a6",
-  "launcherGitTime": 1575574016000,
+  "launcherGitHash": "7c48c38f2aba924e7e62c3d3a5697e2e0a65dbc7",
+  "launcherGitTime": 1587416119000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
-      "version": 2,
-      "time": 1583346806810,
+      "version": 3,
+      "time": 1587452006216,
       "markdown": [
         "## Probabilities Summary Table",
         "*[(top)](#table-of-contents)*",
