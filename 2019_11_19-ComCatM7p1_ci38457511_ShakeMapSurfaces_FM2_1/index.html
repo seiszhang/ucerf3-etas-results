@@ -65,6 +65,7 @@ img {
 <li><a href="#comcat-data-comparisons">ComCat Data Comparisons</a>
 <ul>
 <li><a href="#comcat-magnitude-number-distributions">ComCat Magnitude-Number Distributions</a></li>
+<li><a href="#comcat-magnitude-time-functions">ComCat Magnitude-Time Functions</a></li>
 <li><a href="#comcat-cumulative-number-vs-time">ComCat Cumulative Number Vs Time</a></li>
 <li><a href="#comcat-cumulative-number-simulation-percentiles">ComCat Cumulative Number Simulation Percentiles</a></li>
 <li><a href="#comcat-probability-spatial-distribution">ComCat Probability Spatial Distribution</a></li>
@@ -583,8 +584,8 @@ img {
 <h2 id="comcat-data-comparisons">ComCat Data Comparisons</h2>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p>These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.</p>
-<p>Last updated at 2020/04/17 11:06:27 UTC, 286.3 days after the simulation start time.</p>
-<p>Total matching ComCat events found: 2393</p>
+<p>Last updated at 2020/04/21 07:54:28 UTC, 290.2 days after the simulation start time.</p>
+<p>Total matching ComCat events found: 2396</p>
 <h3 id="comcat-magnitude-number-distributions">ComCat Magnitude-Number Distributions</h3>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <table>
@@ -593,6 +594,18 @@ img {
 </thead>
 <tbody>
 <tr><td><img src="plots/comcat_compare_mag_num.png" alt="Incremental MND" /></td><td><img src="plots/comcat_compare_mag_num_cumulative.png" alt="Cumi MND" /></td></tr>
+</tbody>
+</table>
+<h3 id="comcat-magnitude-time-functions">ComCat Magnitude-Time Functions</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>These plots show the show the magnitude versus time probability function since simulation start. Observed event data lie on top, with those input to the simulation plotted as magenta circles and those that occurred after the simulation start time as cyan circles. Time is relative to the mainshock (M7.1, ci38457511, plotted as a brown circle). Probabilities are only shown above the minimum simulated magnitude, M=5.</p>
+<table>
+<thead>
+<tr><th><img src="plots/mag_time_week.png" alt="One Week" /></th></tr>
+</thead>
+<tbody>
+<tr><td><img src="plots/mag_time_month.png" alt="One Month" /></td></tr>
+<tr><td><img src="plots/mag_time_full.png" alt="Full Mag/Time" /></td></tr>
 </tbody>
 </table>
 <h3 id="comcat-cumulative-number-vs-time">ComCat Cumulative Number Vs Time</h3>
@@ -613,13 +626,13 @@ img {
 <p><em>Note: maps labeled 'Forecast' are for a duration that extends into the future, only forecasted values are plotted (ComCat data omitted)</em></p>
 <table>
 <thead>
-<tr><th></th><th>1 Day</th><th>1 Week</th><th>1 Month</th><th>Current (286.3 Day)</th><th>Forecast: 1 Year</th></tr>
+<tr><th></th><th>1 Day</th><th>1 Week</th><th>1 Month</th><th>Current (290.2 Day)</th><th>Forecast: 1 Year</th></tr>
 </thead>
 <tbody>
 <tr><td><strong>M&ge;5</strong></td><td><img src="plots/comcat_compare_prob_1d_m5.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_1wk_m5.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_1mo_m5.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_current_m5.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_1yr_m5.png" alt="Map" /></td></tr>
-<tr><td></td><td>Prob: 97.48%, Actual: 2</td><td>Prob: 99.47%, Actual: 2</td><td>Prob: 99.84%, Actual: 2</td><td>Prob: 99.97%, Actual: 2</td><td>Prob: 99.98%</td></tr>
+<tr><td></td><td>Prob: 97.48%, Actual: 2</td><td>Prob: 99.47%, Actual: 2</td><td>Prob: 99.84%, Actual: 2</td><td>Prob: 99.98%, Actual: 2</td><td>Prob: 99.98%</td></tr>
 <tr><td><strong>M&ge;6</strong></td><td><img src="plots/comcat_compare_prob_1d_m6.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_1wk_m6.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_1mo_m6.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_current_m6.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_1yr_m6.png" alt="Map" /></td></tr>
-<tr><td></td><td>Prob: 20.30%, Actual: 0</td><td>Prob: 28.60%, Actual: 0</td><td>Prob: 34.74%, Actual: 0</td><td>Prob: 43.56%, Actual: 0</td><td>Prob: 44.45%</td></tr>
+<tr><td></td><td>Prob: 20.30%, Actual: 0</td><td>Prob: 28.60%, Actual: 0</td><td>Prob: 34.74%, Actual: 0</td><td>Prob: 43.60%, Actual: 0</td><td>Prob: 44.45%</td></tr>
 <tr><td><strong>M&ge;7</strong></td><td><img src="plots/comcat_compare_prob_1d_m7.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_1wk_m7.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_1mo_m7.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_current_m7.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_1yr_m7.png" alt="Map" /></td></tr>
 <tr><td></td><td>Prob: 0.95%, Actual: 0</td><td>Prob: 1.44%, Actual: 0</td><td>Prob: 1.83%, Actual: 0</td><td>Prob: 2.52%, Actual: 0</td><td>Prob: 2.60%</td></tr>
 <tr><td><strong>M&ge;8</strong></td><td><img src="plots/comcat_compare_prob_1d_m8.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_1wk_m8.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_1mo_m8.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_current_m8.png" alt="Map" /></td><td><img src="plots/comcat_compare_prob_1yr_m8.png" alt="Map" /></td></tr>
@@ -631,13 +644,13 @@ img {
 <p><em>Note: maps labeled 'Forecast' are for a duration that extends into the future, only forecasted values are plotted (ComCat data omitted)</em></p>
 <table>
 <thead>
-<tr><th></th><th>1 Day</th><th>1 Week</th><th>1 Month</th><th>Current (286.3 Day)</th><th>Forecast: 1 Year</th></tr>
+<tr><th></th><th>1 Day</th><th>1 Week</th><th>1 Month</th><th>Current (290.2 Day)</th><th>Forecast: 1 Year</th></tr>
 </thead>
 <tbody>
 <tr><td><strong>M&ge;5</strong></td><td><img src="plots/comcat_compare_mean_1d_m5.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m5.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1mo_m5.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_current_m5.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1yr_m5.png" alt="Map" /></td></tr>
-<tr><td></td><td>Mean: 4.096, Actual: 2</td><td>Mean: 6.124, Actual: 2</td><td>Mean: 7.818, Actual: 2</td><td>Mean: 10.633, Actual: 2</td><td>Mean: 10.949</td></tr>
+<tr><td></td><td>Mean: 4.096, Actual: 2</td><td>Mean: 6.124, Actual: 2</td><td>Mean: 7.818, Actual: 2</td><td>Mean: 10.650, Actual: 2</td><td>Mean: 10.949</td></tr>
 <tr><td><strong>M&ge;6</strong></td><td><img src="plots/comcat_compare_mean_1d_m6.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m6.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1mo_m6.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_current_m6.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1yr_m6.png" alt="Map" /></td></tr>
-<tr><td></td><td>Mean: 0.236, Actual: 0</td><td>Mean: 0.358, Actual: 0</td><td>Mean: 0.460, Actual: 0</td><td>Mean: 0.632, Actual: 0</td><td>Mean: 0.652</td></tr>
+<tr><td></td><td>Mean: 0.236, Actual: 0</td><td>Mean: 0.358, Actual: 0</td><td>Mean: 0.460, Actual: 0</td><td>Mean: 0.633, Actual: 0</td><td>Mean: 0.652</td></tr>
 <tr><td><strong>M&ge;7</strong></td><td><img src="plots/comcat_compare_mean_1d_m7.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m7.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1mo_m7.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_current_m7.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1yr_m7.png" alt="Map" /></td></tr>
 <tr><td></td><td>Mean: 9.66E-3, Actual: 0</td><td>Mean: 0.015, Actual: 0</td><td>Mean: 0.019, Actual: 0</td><td>Mean: 0.026, Actual: 0</td><td>Mean: 0.027</td></tr>
 <tr><td><strong>M&ge;8</strong></td><td><img src="plots/comcat_compare_mean_1d_m8.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1wk_m8.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1mo_m8.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_current_m8.png" alt="Map" /></td><td><img src="plots/comcat_compare_mean_1yr_m8.png" alt="Map" /></td></tr>

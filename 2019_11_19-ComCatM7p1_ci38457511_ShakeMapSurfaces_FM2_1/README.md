@@ -34,6 +34,7 @@
 * [Individual Simulated Catalog Maps](#individual-simulated-catalog-maps)
 * [ComCat Data Comparisons](#comcat-data-comparisons)
   * [ComCat Magnitude-Number Distributions](#comcat-magnitude-number-distributions)
+  * [ComCat Magnitude-Time Functions](#comcat-magnitude-time-functions)
   * [ComCat Cumulative Number Vs Time](#comcat-cumulative-number-vs-time)
   * [ComCat Cumulative Number Simulation Percentiles](#comcat-cumulative-number-simulation-percentiles)
   * [ComCat Probability Spatial Distribution](#comcat-probability-spatial-distribution)
@@ -525,9 +526,9 @@ These are map plots of individual catalogs from the simulations, selected as the
 
 These plots compare simulated sequences with data from ComCat. All plots only consider events with hypocenters inside the ComCat region defined in the JSON input file.
 
-Last updated at 2020/04/17 11:06:27 UTC, 286.3 days after the simulation start time.
+Last updated at 2020/04/21 07:54:28 UTC, 290.2 days after the simulation start time.
 
-Total matching ComCat events found: 2393
+Total matching ComCat events found: 2396
 
 ### ComCat Magnitude-Number Distributions
 *[(top)](#table-of-contents)*
@@ -535,6 +536,16 @@ Total matching ComCat events found: 2393
 | Incremental MND | Cumulative MND |
 |-----|-----|
 | ![Incremental MND](plots/comcat_compare_mag_num.png) | ![Cumi MND](plots/comcat_compare_mag_num_cumulative.png) |
+
+### ComCat Magnitude-Time Functions
+*[(top)](#table-of-contents)*
+
+These plots show the show the magnitude versus time probability function since simulation start. Observed event data lie on top, with those input to the simulation plotted as magenta circles and those that occurred after the simulation start time as cyan circles. Time is relative to the mainshock (M7.1, ci38457511, plotted as a brown circle). Probabilities are only shown above the minimum simulated magnitude, M=5.
+
+| ![One Week](plots/mag_time_week.png) |
+|-----|
+| ![One Month](plots/mag_time_month.png) |
+| ![Full Mag/Time](plots/mag_time_full.png) |
 
 ### ComCat Cumulative Number Vs Time
 *[(top)](#table-of-contents)*
@@ -553,12 +564,12 @@ Total matching ComCat events found: 2393
 
 *Note: maps labeled 'Forecast' are for a duration that extends into the future, only forecasted values are plotted (ComCat data omitted)*
 
-|  | 1 Day | 1 Week | 1 Month | Current (286.3 Day) | Forecast: 1 Year |
+|  | 1 Day | 1 Week | 1 Month | Current (290.2 Day) | Forecast: 1 Year |
 |-----|-----|-----|-----|-----|-----|
 | **M&ge;5** | ![Map](plots/comcat_compare_prob_1d_m5.png) | ![Map](plots/comcat_compare_prob_1wk_m5.png) | ![Map](plots/comcat_compare_prob_1mo_m5.png) | ![Map](plots/comcat_compare_prob_current_m5.png) | ![Map](plots/comcat_compare_prob_1yr_m5.png) |
-|  | Prob: 97.48%, Actual: 2 | Prob: 99.47%, Actual: 2 | Prob: 99.84%, Actual: 2 | Prob: 99.97%, Actual: 2 | Prob: 99.98% |
+|  | Prob: 97.48%, Actual: 2 | Prob: 99.47%, Actual: 2 | Prob: 99.84%, Actual: 2 | Prob: 99.98%, Actual: 2 | Prob: 99.98% |
 | **M&ge;6** | ![Map](plots/comcat_compare_prob_1d_m6.png) | ![Map](plots/comcat_compare_prob_1wk_m6.png) | ![Map](plots/comcat_compare_prob_1mo_m6.png) | ![Map](plots/comcat_compare_prob_current_m6.png) | ![Map](plots/comcat_compare_prob_1yr_m6.png) |
-|  | Prob: 20.30%, Actual: 0 | Prob: 28.60%, Actual: 0 | Prob: 34.74%, Actual: 0 | Prob: 43.56%, Actual: 0 | Prob: 44.45% |
+|  | Prob: 20.30%, Actual: 0 | Prob: 28.60%, Actual: 0 | Prob: 34.74%, Actual: 0 | Prob: 43.60%, Actual: 0 | Prob: 44.45% |
 | **M&ge;7** | ![Map](plots/comcat_compare_prob_1d_m7.png) | ![Map](plots/comcat_compare_prob_1wk_m7.png) | ![Map](plots/comcat_compare_prob_1mo_m7.png) | ![Map](plots/comcat_compare_prob_current_m7.png) | ![Map](plots/comcat_compare_prob_1yr_m7.png) |
 |  | Prob: 0.95%, Actual: 0 | Prob: 1.44%, Actual: 0 | Prob: 1.83%, Actual: 0 | Prob: 2.52%, Actual: 0 | Prob: 2.60% |
 | **M&ge;8** | ![Map](plots/comcat_compare_prob_1d_m8.png) | ![Map](plots/comcat_compare_prob_1wk_m8.png) | ![Map](plots/comcat_compare_prob_1mo_m8.png) | ![Map](plots/comcat_compare_prob_current_m8.png) | ![Map](plots/comcat_compare_prob_1yr_m8.png) |
@@ -569,12 +580,12 @@ Total matching ComCat events found: 2393
 
 *Note: maps labeled 'Forecast' are for a duration that extends into the future, only forecasted values are plotted (ComCat data omitted)*
 
-|  | 1 Day | 1 Week | 1 Month | Current (286.3 Day) | Forecast: 1 Year |
+|  | 1 Day | 1 Week | 1 Month | Current (290.2 Day) | Forecast: 1 Year |
 |-----|-----|-----|-----|-----|-----|
 | **M&ge;5** | ![Map](plots/comcat_compare_mean_1d_m5.png) | ![Map](plots/comcat_compare_mean_1wk_m5.png) | ![Map](plots/comcat_compare_mean_1mo_m5.png) | ![Map](plots/comcat_compare_mean_current_m5.png) | ![Map](plots/comcat_compare_mean_1yr_m5.png) |
-|  | Mean: 4.096, Actual: 2 | Mean: 6.124, Actual: 2 | Mean: 7.818, Actual: 2 | Mean: 10.633, Actual: 2 | Mean: 10.949 |
+|  | Mean: 4.096, Actual: 2 | Mean: 6.124, Actual: 2 | Mean: 7.818, Actual: 2 | Mean: 10.650, Actual: 2 | Mean: 10.949 |
 | **M&ge;6** | ![Map](plots/comcat_compare_mean_1d_m6.png) | ![Map](plots/comcat_compare_mean_1wk_m6.png) | ![Map](plots/comcat_compare_mean_1mo_m6.png) | ![Map](plots/comcat_compare_mean_current_m6.png) | ![Map](plots/comcat_compare_mean_1yr_m6.png) |
-|  | Mean: 0.236, Actual: 0 | Mean: 0.358, Actual: 0 | Mean: 0.460, Actual: 0 | Mean: 0.632, Actual: 0 | Mean: 0.652 |
+|  | Mean: 0.236, Actual: 0 | Mean: 0.358, Actual: 0 | Mean: 0.460, Actual: 0 | Mean: 0.633, Actual: 0 | Mean: 0.652 |
 | **M&ge;7** | ![Map](plots/comcat_compare_mean_1d_m7.png) | ![Map](plots/comcat_compare_mean_1wk_m7.png) | ![Map](plots/comcat_compare_mean_1mo_m7.png) | ![Map](plots/comcat_compare_mean_current_m7.png) | ![Map](plots/comcat_compare_mean_1yr_m7.png) |
 |  | Mean: 9.66E-3, Actual: 0 | Mean: 0.015, Actual: 0 | Mean: 0.019, Actual: 0 | Mean: 0.026, Actual: 0 | Mean: 0.027 |
 | **M&ge;8** | ![Map](plots/comcat_compare_mean_1d_m8.png) | ![Map](plots/comcat_compare_mean_1wk_m8.png) | ![Map](plots/comcat_compare_mean_1mo_m8.png) | ![Map](plots/comcat_compare_mean_current_m8.png) | ![Map](plots/comcat_compare_mean_1yr_m8.png) |
