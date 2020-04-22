@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1587479596154,
-  "plotEndTime": 1587481695833,
+  "plotStartTime": 1587519190516,
+  "plotEndTime": 1587521172416,
   "simulationsProcessed": 10000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_10_22-ComCatdata5p7yrbetweenhistoricaland20180101_Statewide_PointSources_Spontaneous_Historical/results_complete.bin"
   },
-  "launcherGitHash": "7c48c38f2aba924e7e62c3d3a5697e2e0a65dbc7",
-  "launcherGitTime": 1587416119000,
+  "launcherGitHash": "5a5c4bf5a50d8ca2285ce75f17b4235ba182f1e9",
+  "launcherGitTime": 1587497425000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
