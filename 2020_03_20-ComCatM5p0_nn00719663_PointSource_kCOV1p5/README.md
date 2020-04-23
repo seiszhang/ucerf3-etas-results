@@ -36,6 +36,13 @@
   * [ComCat Probability Spatial Distribution](#comcat-probability-spatial-distribution)
   * [ComCat Mean Expectation Spatial Distribution](#comcat-mean-expectation-spatial-distribution)
   * [ComCat Depth Distribution](#comcat-depth-distribution)
+* [Section Participation](#section-participation)
+  * [Section Participation Plots](#section-participation-plots)
+  * [Supra-Seismogenic Parent Sections Table](#supra-seismogenic-parent-sections-table)
+  * [M≥6.5 Parent Sections Table](#m65-parent-sections-table)
+  * [M≥7 Parent Sections Table](#m7-parent-sections-table)
+* [Fault Magnitude-Probability Distributions](#fault-magnitude-probability-distributions)
+* [Gridded Nucleation](#gridded-nucleation)
 * [JSON Input File](#json-input-file)
 
 ## Probabilities Summary Table
@@ -744,6 +751,86 @@ The following plots compare simulation results with ComCat data above a magnitud
 | M&ge;Mc(t) | M&ge;3.5 | M&ge;4 | M&ge;4.5 | M&ge;5 | M&ge;5.5 |
 |-----|-----|-----|-----|-----|-----|
 | ![Depth Distribution](plots/comcat_compare_depth_td_mc.png) | ![Depth Distribution](plots/comcat_compare_depth_m3.5.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.5.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.5.png) |
+
+## Section Participation
+*[(top)](#table-of-contents)*
+
+### Section Participation Plots
+*[(top)](#table-of-contents)*
+
+| Min Mag | 1 yr Triggered Ruptures (no spontaneous) | 10 yr Triggered Ruptures (no spontaneous) | 10 yr Triggered Ruptures (primary aftershocks only) |
+|-----|-----|-----|-----|
+| **All Supra. Seis.** | ![Participation Plot](plots/fault_participation_partic_1yr_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_triggered_primary.png) |
+| **M&ge;6.5** | ![Participation Plot](plots/fault_participation_partic_1yr_m6.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m6.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m6.5_triggered_primary.png) |
+| **M&ge;7** | ![Participation Plot](plots/fault_participation_partic_1yr_m7.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.0_triggered_primary.png) |
+
+### Supra-Seismogenic Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 14 with matching ruptures shown*
+
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Carson Range (Genoa) | 0.01186 | 4.62E-3 (0.46%) | [0.42% 0.51%] | 6.31E-3 (0.63%) | [0.58% 0.68%] | 7.53E-3 (0.75%) | [0.70% 0.81%] | 9.90E-3 (0.99%) | [0.93% 1.05%] | 0.012 (1.18%) | [1.11% 1.24%] | 0.00743 |
+| North Tahoe 2011 CFM | 1.2E-4 | 4.00E-5 (0.00%) | [0.00% 0.01%] | 6.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.0E-5 |
+| West Tahoe | 6.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 4.00E-5 (0.00%) | [0.00% 0.01%] | 6.00E-5 (0.01%) | [0.00% 0.01%] | 0.0 |
+| Calaveras (Central) 2011 CFM | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| Calaveras (No) 2011 CFM | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| Hat Creek-McArthur-Mayfield | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| Hayward (So) 2011 CFM | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| Honey Lake 2011 CFM | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| Lost Hills | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| Monterey Bay-Tularcitos | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+
+### M≥6.5 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Carson Range (Genoa) | 0.0034 | 1.34E-3 (0.13%) | [0.11% 0.16%] | 1.79E-3 (0.18%) | [0.15% 0.21%] | 2.15E-3 (0.21%) | [0.19% 0.25%] | 2.90E-3 (0.29%) | [0.26% 0.33%] | 3.39E-3 (0.34%) | [0.30% 0.38%] | 0.00197 |
+| West Tahoe | 4.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 4.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| North Tahoe 2011 CFM | 3.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| Calaveras (Central) 2011 CFM | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| Calaveras (No) 2011 CFM | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| Hat Creek-McArthur-Mayfield | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| Hayward (So) 2011 CFM | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| Polaris 2011 CFM | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| Reliz 2011 CFM | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| San Gregorio (North) 2011 CFM | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+
+### M≥7 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Carson Range (Genoa) | 4.2E-4 | 2.00E-4 (0.02%) | [0.01% 0.03%] | 2.50E-4 (0.03%) | [0.02% 0.04%] | 2.90E-4 (0.03%) | [0.02% 0.04%] | 3.80E-4 (0.04%) | [0.03% 0.05%] | 4.20E-4 (0.04%) | [0.03% 0.06%] | 2.4E-4 |
+| Polaris 2011 CFM | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| Reliz 2011 CFM | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| San Gregorio (North) 2011 CFM | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+| West Tahoe | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 0.0 |
+
+## Fault Magnitude-Probability Distributions
+*[(top)](#table-of-contents)*
+
+The first 5 sections (sorted by trigger rate) are plotted below. All fault MPDs are available [here](plots/parent_sect_mpds/README.md)
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](plots/parent_sect_mpds/Carson_Range_Genoa_1wk.png) | ![MPD](plots/parent_sect_mpds/Carson_Range_Genoa_1mo.png) | ![MPD](plots/parent_sect_mpds/Carson_Range_Genoa_1yr.png) | ![MPD](plots/parent_sect_mpds/Carson_Range_Genoa_10yr.png) |
+| ![MPD](plots/parent_sect_mpds/North_Tahoe_2011_CFM_1wk.png) | ![MPD](plots/parent_sect_mpds/North_Tahoe_2011_CFM_1mo.png) | ![MPD](plots/parent_sect_mpds/North_Tahoe_2011_CFM_1yr.png) | ![MPD](plots/parent_sect_mpds/North_Tahoe_2011_CFM_10yr.png) |
+| ![MPD](plots/parent_sect_mpds/West_Tahoe_1wk.png) | ![MPD](plots/parent_sect_mpds/West_Tahoe_1mo.png) | ![MPD](plots/parent_sect_mpds/West_Tahoe_1yr.png) | ![MPD](plots/parent_sect_mpds/West_Tahoe_10yr.png) |
+| ![MPD](plots/parent_sect_mpds/Monterey_Bay_Tularcitos_1wk.png) | ![MPD](plots/parent_sect_mpds/Monterey_Bay_Tularcitos_1mo.png) | ![MPD](plots/parent_sect_mpds/Monterey_Bay_Tularcitos_1yr.png) | ![MPD](plots/parent_sect_mpds/Monterey_Bay_Tularcitos_10yr.png) |
+| ![MPD](plots/parent_sect_mpds/Robinson_Creek_1wk.png) | ![MPD](plots/parent_sect_mpds/Robinson_Creek_1mo.png) | ![MPD](plots/parent_sect_mpds/Robinson_Creek_1yr.png) | ![MPD](plots/parent_sect_mpds/Robinson_Creek_10yr.png) |
+
+## Gridded Nucleation
+*[(top)](#table-of-contents)*
+
+| Min Mag | Triggered Ruptures (no spontaneous) | Triggered Ruptures (primary aftershocks only) |
+|-----|-----|-----|
+| **M&ge;2.5** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m2.5.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m2.5.png) |
+| **M&ge;5** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m5.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m5.0.png) |
+| **M&ge;6** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m6.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m6.0.png) |
+| **M&ge;7** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m7.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m7.0.png) |
 
 
 ## JSON Input File

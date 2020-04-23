@@ -27,6 +27,15 @@
 * [Trigger Rupture Fault Map](#trigger-rupture-fault-map)
 * [Fault Distances To Triggers](#fault-distances-to-triggers)
 * [Individual Simulated Catalog Maps](#individual-simulated-catalog-maps)
+* [Section Participation](#section-participation)
+  * [Section Participation Plots](#section-participation-plots)
+  * [Supra-Seismogenic Parent Sections Table](#supra-seismogenic-parent-sections-table)
+  * [M≥6.5 Parent Sections Table](#m65-parent-sections-table)
+  * [M≥7 Parent Sections Table](#m7-parent-sections-table)
+  * [M≥7.5 Parent Sections Table](#m75-parent-sections-table)
+  * [M≥8 Parent Sections Table](#m8-parent-sections-table)
+* [Fault Magnitude-Probability Distributions](#fault-magnitude-probability-distributions)
+* [Gridded Nucleation](#gridded-nucleation)
 * [JSON Input File](#json-input-file)
 
 ## Probabilities Summary Table
@@ -575,6 +584,133 @@ These are map plots of individual catalogs from the simulations, selected as the
 | **1 Week** | ![Map](plots/sim_catalog_map_p0.0_1wk.png) | ![Map](plots/sim_catalog_map_p25.0_1wk.png) | ![Map](plots/sim_catalog_map_p50.0_1wk.png) | ![Map](plots/sim_catalog_map_p75.0_1wk.png) | ![Map](plots/sim_catalog_map_p90.0_1wk.png) | ![Map](plots/sim_catalog_map_p95.0_1wk.png) | ![Map](plots/sim_catalog_map_p97.5_1wk.png) | ![Map](plots/sim_catalog_map_p98.0_1wk.png) | ![Map](plots/sim_catalog_map_p99.0_1wk.png) | ![Map](plots/sim_catalog_map_p99.996_1wk.png) |
 | **1 Month** | ![Map](plots/sim_catalog_map_p0.0_1mo.png) | ![Map](plots/sim_catalog_map_p25.0_1mo.png) | ![Map](plots/sim_catalog_map_p50.0_1mo.png) | ![Map](plots/sim_catalog_map_p75.0_1mo.png) | ![Map](plots/sim_catalog_map_p90.0_1mo.png) | ![Map](plots/sim_catalog_map_p95.0_1mo.png) | ![Map](plots/sim_catalog_map_p97.5_1mo.png) | ![Map](plots/sim_catalog_map_p98.0_1mo.png) | ![Map](plots/sim_catalog_map_p99.0_1mo.png) | ![Map](plots/sim_catalog_map_p99.996_1mo.png) |
 | **1 Year** | ![Map](plots/sim_catalog_map_p0.0_1yr.png) | ![Map](plots/sim_catalog_map_p25.0_1yr.png) | ![Map](plots/sim_catalog_map_p50.0_1yr.png) | ![Map](plots/sim_catalog_map_p75.0_1yr.png) | ![Map](plots/sim_catalog_map_p90.0_1yr.png) | ![Map](plots/sim_catalog_map_p95.0_1yr.png) | ![Map](plots/sim_catalog_map_p97.5_1yr.png) | ![Map](plots/sim_catalog_map_p98.0_1yr.png) | ![Map](plots/sim_catalog_map_p99.0_1yr.png) | ![Map](plots/sim_catalog_map_p99.996_1yr.png) |
+
+## Section Participation
+*[(top)](#table-of-contents)*
+
+### Section Participation Plots
+*[(top)](#table-of-contents)*
+
+| Min Mag | 1 yr Triggered Ruptures (no spontaneous) | 1 yr Triggered Ruptures (primary aftershocks only) |
+|-----|-----|-----|
+| **All Supra. Seis.** | ![Participation Plot](plots/fault_participation_partic_triggered.png) | ![Participation Plot](plots/fault_participation_partic_triggered_primary.png) |
+| **M&ge;6.5** | ![Participation Plot](plots/fault_participation_partic_m6.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_m6.5_triggered_primary.png) |
+| **M&ge;7** | ![Participation Plot](plots/fault_participation_partic_m7.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_m7.0_triggered_primary.png) |
+| **M&ge;7.5** | ![Participation Plot](plots/fault_participation_partic_m7.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_m7.5_triggered_primary.png) |
+| **M&ge;8** | ![Participation Plot](plots/fault_participation_partic_m8.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_m8.0_triggered_primary.png) |
+
+### Supra-Seismogenic Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 177 with matching ruptures shown*
+
+| Parent Name | Triggered 1 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 1 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Mojave S) | 0.0254 | 9.36E-3 (0.94%) | [0.82% 1.07%] | 0.014 (1.41%) | [1.27% 1.57%] | 0.017 (1.71%) | [1.56% 1.88%] | 0.024 (2.38%) | [2.20% 2.58%] | 0.01168 |
+| San Andreas (Mojave N) | 0.01808 | 7.08E-3 (0.71%) | [0.61% 0.82%] | 0.011 (1.07%) | [0.95% 1.21%] | 0.013 (1.31%) | [1.18% 1.46%] | 0.018 (1.80%) | [1.64% 1.97%] | 0.00924 |
+| San Andreas (Big Bend) | 0.0156 | 5.76E-3 (0.58%) | [0.49% 0.68%] | 8.80E-3 (0.88%) | [0.77% 1.01%] | 0.011 (1.09%) | [0.96% 1.23%] | 0.015 (1.51%) | [1.36% 1.67%] | 0.00748 |
+| San Andreas (Carrizo) rev | 0.012 | 4.76E-3 (0.48%) | [0.40% 0.57%] | 7.16E-3 (0.72%) | [0.62% 0.83%] | 8.72E-3 (0.87%) | [0.76% 1.00%] | 0.012 (1.19%) | [1.06% 1.34%] | 0.00612 |
+| San Andreas (San Bernardino N) | 0.01112 | 3.80E-3 (0.38%) | [0.31% 0.47%] | 6.08E-3 (0.61%) | [0.52% 0.71%] | 7.44E-3 (0.74%) | [0.64% 0.86%] | 0.011 (1.05%) | [0.93% 1.19%] | 0.00516 |
+| San Andreas (Cholame) rev | 0.01044 | 4.08E-3 (0.41%) | [0.33% 0.50%] | 6.20E-3 (0.62%) | [0.53% 0.73%] | 7.60E-3 (0.76%) | [0.66% 0.88%] | 0.010 (1.04%) | [0.92% 1.18%] | 0.00536 |
+| San Andreas (Parkfield) | 0.0068 | 2.40E-3 (0.24%) | [0.18% 0.31%] | 3.52E-3 (0.35%) | [0.28% 0.44%] | 4.36E-3 (0.44%) | [0.36% 0.53%] | 6.36E-3 (0.64%) | [0.54% 0.74%] | 0.00332 |
+| San Andreas (San Bernardino S) | 0.00568 | 2.04E-3 (0.20%) | [0.15% 0.27%] | 3.28E-3 (0.33%) | [0.26% 0.41%] | 4.04E-3 (0.40%) | [0.33% 0.49%] | 5.64E-3 (0.56%) | [0.48% 0.67%] | 0.00264 |
+| San Andreas (Creeping Section) 2011 CFM | 0.00436 | 1.44E-3 (0.14%) | [0.10% 0.20%] | 2.20E-3 (0.22%) | [0.17% 0.29%] | 2.64E-3 (0.26%) | [0.21% 0.34%] | 3.84E-3 (0.38%) | [0.31% 0.47%] | 0.00204 |
+| Garlock (West) | 0.00432 | 1.60E-3 (0.16%) | [0.12% 0.22%] | 2.28E-3 (0.23%) | [0.17% 0.30%] | 3.12E-3 (0.31%) | [0.25% 0.39%] | 4.32E-3 (0.43%) | [0.36% 0.52%] | 0.00176 |
+
+### M≥6.5 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 153 with matching ruptures shown*
+
+| Parent Name | Triggered 1 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 1 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Mojave N) | 0.01784 | 6.92E-3 (0.69%) | [0.59% 0.80%] | 0.010 (1.05%) | [0.93% 1.18%] | 0.013 (1.29%) | [1.16% 1.44%] | 0.018 (1.77%) | [1.61% 1.95%] | 0.00908 |
+| San Andreas (Mojave S) | 0.01752 | 6.64E-3 (0.66%) | [0.57% 0.77%] | 0.010 (1.02%) | [0.90% 1.15%] | 0.013 (1.26%) | [1.13% 1.41%] | 0.017 (1.73%) | [1.57% 1.90%] | 0.00872 |
+| San Andreas (Big Bend) | 0.01464 | 5.64E-3 (0.56%) | [0.48% 0.67%] | 8.60E-3 (0.86%) | [0.75% 0.98%] | 0.011 (1.05%) | [0.93% 1.19%] | 0.014 (1.44%) | [1.30% 1.60%] | 0.00732 |
+| San Andreas (Carrizo) rev | 0.01196 | 4.76E-3 (0.48%) | [0.40% 0.57%] | 7.16E-3 (0.72%) | [0.62% 0.83%] | 8.72E-3 (0.87%) | [0.76% 1.00%] | 0.012 (1.19%) | [1.06% 1.34%] | 0.00612 |
+| San Andreas (San Bernardino N) | 0.01092 | 3.80E-3 (0.38%) | [0.31% 0.47%] | 6.08E-3 (0.61%) | [0.52% 0.71%] | 7.44E-3 (0.74%) | [0.64% 0.86%] | 0.010 (1.05%) | [0.93% 1.18%] | 0.00512 |
+| San Andreas (Cholame) rev | 0.01044 | 4.08E-3 (0.41%) | [0.33% 0.50%] | 6.20E-3 (0.62%) | [0.53% 0.73%] | 7.60E-3 (0.76%) | [0.66% 0.88%] | 0.010 (1.04%) | [0.92% 1.18%] | 0.00536 |
+| San Andreas (Parkfield) | 0.00604 | 2.36E-3 (0.24%) | [0.18% 0.31%] | 3.44E-3 (0.34%) | [0.28% 0.43%] | 4.28E-3 (0.43%) | [0.35% 0.52%] | 6.00E-3 (0.60%) | [0.51% 0.71%] | 0.00328 |
+| San Andreas (San Bernardino S) | 0.00552 | 2.04E-3 (0.20%) | [0.15% 0.27%] | 3.28E-3 (0.33%) | [0.26% 0.41%] | 3.96E-3 (0.40%) | [0.32% 0.48%] | 5.52E-3 (0.55%) | [0.47% 0.65%] | 0.00264 |
+| Garlock (West) | 0.004 | 1.48E-3 (0.15%) | [0.11% 0.21%] | 2.16E-3 (0.22%) | [0.16% 0.28%] | 2.92E-3 (0.29%) | [0.23% 0.37%] | 4.00E-3 (0.40%) | [0.33% 0.49%] | 0.00168 |
+| San Andreas (Creeping Section) 2011 CFM | 0.00388 | 1.44E-3 (0.14%) | [0.10% 0.20%] | 2.20E-3 (0.22%) | [0.17% 0.29%] | 2.64E-3 (0.26%) | [0.21% 0.34%] | 3.80E-3 (0.38%) | [0.31% 0.47%] | 0.00204 |
+
+### M≥7 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 115 with matching ruptures shown*
+
+| Parent Name | Triggered 1 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 1 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Mojave N) | 0.01744 | 6.76E-3 (0.68%) | [0.58% 0.79%] | 0.010 (1.02%) | [0.90% 1.16%] | 0.013 (1.27%) | [1.13% 1.42%] | 0.017 (1.74%) | [1.58% 1.91%] | 0.00884 |
+| San Andreas (Mojave S) | 0.01644 | 6.28E-3 (0.63%) | [0.54% 0.74%] | 9.64E-3 (0.96%) | [0.85% 1.10%] | 0.012 (1.20%) | [1.07% 1.34%] | 0.016 (1.64%) | [1.48% 1.80%] | 0.00836 |
+| San Andreas (Big Bend) | 0.01416 | 5.48E-3 (0.55%) | [0.46% 0.65%] | 8.40E-3 (0.84%) | [0.73% 0.96%] | 0.010 (1.03%) | [0.91% 1.17%] | 0.014 (1.41%) | [1.27% 1.56%] | 0.0072 |
+| San Andreas (Carrizo) rev | 0.01188 | 4.68E-3 (0.47%) | [0.39% 0.56%] | 7.08E-3 (0.71%) | [0.61% 0.82%] | 8.64E-3 (0.86%) | [0.75% 0.99%] | 0.012 (1.18%) | [1.06% 1.33%] | 0.00608 |
+| San Andreas (Cholame) rev | 0.0104 | 4.04E-3 (0.40%) | [0.33% 0.49%] | 6.16E-3 (0.62%) | [0.52% 0.72%] | 7.56E-3 (0.76%) | [0.65% 0.87%] | 0.010 (1.04%) | [0.92% 1.17%] | 0.00536 |
+| San Andreas (San Bernardino N) | 0.01036 | 3.72E-3 (0.37%) | [0.30% 0.46%] | 5.96E-3 (0.60%) | [0.51% 0.70%] | 7.32E-3 (0.73%) | [0.63% 0.85%] | 0.010 (1.02%) | [0.90% 1.16%] | 0.00504 |
+| San Andreas (Parkfield) | 0.00604 | 2.36E-3 (0.24%) | [0.18% 0.31%] | 3.44E-3 (0.34%) | [0.28% 0.43%] | 4.28E-3 (0.43%) | [0.35% 0.52%] | 6.00E-3 (0.60%) | [0.51% 0.71%] | 0.00328 |
+| San Andreas (San Bernardino S) | 0.00516 | 2.00E-3 (0.20%) | [0.15% 0.27%] | 3.04E-3 (0.30%) | [0.24% 0.38%] | 3.64E-3 (0.36%) | [0.29% 0.45%] | 5.16E-3 (0.52%) | [0.43% 0.61%] | 0.00264 |
+| San Andreas (Creeping Section) 2011 CFM | 0.00384 | 1.44E-3 (0.14%) | [0.10% 0.20%] | 2.20E-3 (0.22%) | [0.17% 0.29%] | 2.64E-3 (0.26%) | [0.21% 0.34%] | 3.80E-3 (0.38%) | [0.31% 0.47%] | 0.00204 |
+| San Andreas (San Gorgonio Pass-Garnet HIll) | 0.00316 | 1.00E-3 (0.10%) | [0.07% 0.15%] | 1.48E-3 (0.15%) | [0.11% 0.21%] | 2.00E-3 (0.20%) | [0.15% 0.27%] | 3.12E-3 (0.31%) | [0.25% 0.39%] | 0.00152 |
+
+### M≥7.5 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 85 with matching ruptures shown*
+
+| Parent Name | Triggered 1 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 1 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Mojave N) | 0.01628 | 6.48E-3 (0.65%) | [0.55% 0.76%] | 9.76E-3 (0.98%) | [0.86% 1.11%] | 0.012 (1.21%) | [1.08% 1.36%] | 0.016 (1.63%) | [1.48% 1.79%] | 0.00836 |
+| San Andreas (Mojave S) | 0.01468 | 5.88E-3 (0.59%) | [0.50% 0.69%] | 8.96E-3 (0.90%) | [0.78% 1.02%] | 0.011 (1.10%) | [0.97% 1.23%] | 0.015 (1.46%) | [1.32% 1.62%] | 0.00776 |
+| San Andreas (Big Bend) | 0.01352 | 5.32E-3 (0.53%) | [0.45% 0.63%] | 8.08E-3 (0.81%) | [0.70% 0.93%] | 9.96E-3 (1.00%) | [0.88% 1.13%] | 0.014 (1.35%) | [1.21% 1.50%] | 0.00696 |
+| San Andreas (Carrizo) rev | 0.01164 | 4.64E-3 (0.46%) | [0.39% 0.56%] | 7.00E-3 (0.70%) | [0.60% 0.81%] | 8.56E-3 (0.86%) | [0.75% 0.98%] | 0.012 (1.16%) | [1.04% 1.31%] | 0.00596 |
+| San Andreas (Cholame) rev | 0.01028 | 4.04E-3 (0.40%) | [0.33% 0.49%] | 6.16E-3 (0.62%) | [0.52% 0.72%] | 7.56E-3 (0.76%) | [0.65% 0.87%] | 0.010 (1.03%) | [0.91% 1.16%] | 0.00532 |
+| San Andreas (San Bernardino N) | 0.00984 | 3.68E-3 (0.37%) | [0.30% 0.45%] | 5.76E-3 (0.58%) | [0.49% 0.68%] | 7.08E-3 (0.71%) | [0.61% 0.82%] | 9.84E-3 (0.98%) | [0.87% 1.12%] | 0.00488 |
+| San Andreas (Parkfield) | 0.00592 | 2.36E-3 (0.24%) | [0.18% 0.31%] | 3.44E-3 (0.34%) | [0.28% 0.43%] | 4.28E-3 (0.43%) | [0.35% 0.52%] | 5.92E-3 (0.59%) | [0.50% 0.70%] | 0.00324 |
+| San Andreas (San Bernardino S) | 0.00488 | 1.96E-3 (0.20%) | [0.15% 0.26%] | 2.84E-3 (0.28%) | [0.22% 0.36%] | 3.44E-3 (0.34%) | [0.28% 0.43%] | 4.88E-3 (0.49%) | [0.41% 0.58%] | 0.00256 |
+| San Andreas (Creeping Section) 2011 CFM | 0.0038 | 1.44E-3 (0.14%) | [0.10% 0.20%] | 2.20E-3 (0.22%) | [0.17% 0.29%] | 2.64E-3 (0.26%) | [0.21% 0.34%] | 3.80E-3 (0.38%) | [0.31% 0.47%] | 0.00204 |
+| San Andreas (San Gorgonio Pass-Garnet HIll) | 0.00312 | 9.60E-4 (0.10%) | [0.06% 0.15%] | 1.44E-3 (0.14%) | [0.10% 0.20%] | 1.96E-3 (0.20%) | [0.15% 0.26%] | 3.08E-3 (0.31%) | [0.24% 0.39%] | 0.00148 |
+
+### M≥8 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 40 with matching ruptures shown*
+
+| Parent Name | Triggered 1 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 1 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Mojave N) | 0.00268 | 9.60E-4 (0.10%) | [0.06% 0.15%] | 1.36E-3 (0.14%) | [0.10% 0.19%] | 1.80E-3 (0.18%) | [0.13% 0.24%] | 2.68E-3 (0.27%) | [0.21% 0.34%] | 0.00124 |
+| San Andreas (Mojave S) | 0.00268 | 9.60E-4 (0.10%) | [0.06% 0.15%] | 1.36E-3 (0.14%) | [0.10% 0.19%] | 1.80E-3 (0.18%) | [0.13% 0.24%] | 2.68E-3 (0.27%) | [0.21% 0.34%] | 0.00124 |
+| San Andreas (San Bernardino N) | 0.00264 | 9.60E-4 (0.10%) | [0.06% 0.15%] | 1.36E-3 (0.14%) | [0.10% 0.19%] | 1.76E-3 (0.18%) | [0.13% 0.24%] | 2.64E-3 (0.26%) | [0.21% 0.34%] | 0.0012 |
+| San Andreas (Big Bend) | 0.00252 | 8.80E-4 (0.09%) | [0.06% 0.14%] | 1.28E-3 (0.13%) | [0.09% 0.18%] | 1.68E-3 (0.17%) | [0.12% 0.23%] | 2.52E-3 (0.25%) | [0.20% 0.32%] | 0.00116 |
+| San Andreas (Carrizo) rev | 0.00252 | 8.80E-4 (0.09%) | [0.06% 0.14%] | 1.28E-3 (0.13%) | [0.09% 0.18%] | 1.68E-3 (0.17%) | [0.12% 0.23%] | 2.52E-3 (0.25%) | [0.20% 0.32%] | 0.00116 |
+| San Andreas (Cholame) rev | 0.00236 | 8.40E-4 (0.08%) | [0.05% 0.13%] | 1.20E-3 (0.12%) | [0.08% 0.17%] | 1.56E-3 (0.16%) | [0.11% 0.22%] | 2.36E-3 (0.24%) | [0.18% 0.31%] | 0.00112 |
+| San Andreas (Parkfield) | 0.0018 | 6.80E-4 (0.07%) | [0.04% 0.11%] | 8.40E-4 (0.08%) | [0.05% 0.13%] | 1.12E-3 (0.11%) | [0.08% 0.16%] | 1.80E-3 (0.18%) | [0.13% 0.24%] | 8.8E-4 |
+| San Andreas (Coachella) rev | 0.0016 | 5.20E-4 (0.05%) | [0.03% 0.09%] | 8.40E-4 (0.08%) | [0.05% 0.13%] | 1.00E-3 (0.10%) | [0.07% 0.15%] | 1.60E-3 (0.16%) | [0.12% 0.22%] | 8.0E-4 |
+| San Andreas (San Bernardino S) | 0.00152 | 6.40E-4 (0.06%) | [0.04% 0.11%] | 8.80E-4 (0.09%) | [0.06% 0.14%] | 9.60E-4 (0.10%) | [0.06% 0.15%] | 1.52E-3 (0.15%) | [0.11% 0.21%] | 8.0E-4 |
+| San Andreas (Creeping Section) 2011 CFM | 0.00136 | 5.60E-4 (0.06%) | [0.03% 0.10%] | 6.80E-4 (0.07%) | [0.04% 0.11%] | 8.40E-4 (0.08%) | [0.05% 0.13%] | 1.36E-3 (0.14%) | [0.10% 0.19%] | 7.2E-4 |
+
+## Fault Magnitude-Probability Distributions
+*[(top)](#table-of-contents)*
+
+The first 5 sections (sorted by trigger rate) are plotted below. All fault MPDs are available [here](plots/parent_sect_mpds/README.md)
+
+| 1 Week | 1 Month | 1 Year |
+|-----|-----|-----|
+| ![MPD](plots/parent_sect_mpds/San_Andreas_Mojave_S_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_Mojave_S_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_Mojave_S_1yr.png) |
+| ![MPD](plots/parent_sect_mpds/San_Andreas_Mojave_N_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_Mojave_N_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_Mojave_N_1yr.png) |
+| ![MPD](plots/parent_sect_mpds/San_Andreas_Big_Bend_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_Big_Bend_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_Big_Bend_1yr.png) |
+| ![MPD](plots/parent_sect_mpds/San_Andreas_Carrizo_rev_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_Carrizo_rev_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_Carrizo_rev_1yr.png) |
+| ![MPD](plots/parent_sect_mpds/San_Andreas_San_Bernardino_N_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_San_Bernardino_N_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_San_Bernardino_N_1yr.png) |
+
+## Gridded Nucleation
+*[(top)](#table-of-contents)*
+
+| Min Mag | Triggered Ruptures (no spontaneous) | Triggered Ruptures (primary aftershocks only) |
+|-----|-----|-----|
+| **M&ge;2.5** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m2.5.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m2.5.png) |
+| **M&ge;5** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m5.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m5.0.png) |
+| **M&ge;6** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m6.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m6.0.png) |
+| **M&ge;7** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m7.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m7.0.png) |
 
 
 ## JSON Input File

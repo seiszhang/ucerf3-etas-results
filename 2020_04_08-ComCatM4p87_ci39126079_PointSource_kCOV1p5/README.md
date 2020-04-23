@@ -37,6 +37,15 @@
   * [ComCat Probability Spatial Distribution](#comcat-probability-spatial-distribution)
   * [ComCat Mean Expectation Spatial Distribution](#comcat-mean-expectation-spatial-distribution)
   * [ComCat Depth Distribution](#comcat-depth-distribution)
+* [Section Participation](#section-participation)
+  * [Section Participation Plots](#section-participation-plots)
+  * [Supra-Seismogenic Parent Sections Table](#supra-seismogenic-parent-sections-table)
+  * [M≥6.5 Parent Sections Table](#m65-parent-sections-table)
+  * [M≥7 Parent Sections Table](#m7-parent-sections-table)
+  * [M≥7.5 Parent Sections Table](#m75-parent-sections-table)
+  * [M≥8 Parent Sections Table](#m8-parent-sections-table)
+* [Fault Magnitude-Probability Distributions](#fault-magnitude-probability-distributions)
+* [Gridded Nucleation](#gridded-nucleation)
 * [JSON Input File](#json-input-file)
 
 ## Probabilities Summary Table
@@ -776,6 +785,133 @@ The following plots compare simulation results with ComCat data above a magnitud
 | M&ge;Mc(t) | M&ge;2.5 | M&ge;3 | M&ge;3.5 | M&ge;4 | M&ge;4.5 | M&ge;5 | M&ge;5.5 |
 |-----|-----|-----|-----|-----|-----|-----|-----|
 | ![Depth Distribution](plots/comcat_compare_depth_td_mc.png) | ![Depth Distribution](plots/comcat_compare_depth_m2.5.png) | ![Depth Distribution](plots/comcat_compare_depth_m3.png) | ![Depth Distribution](plots/comcat_compare_depth_m3.5.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.png) | ![Depth Distribution](plots/comcat_compare_depth_m4.5.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.png) | ![Depth Distribution](plots/comcat_compare_depth_m5.5.png) |
+
+## Section Participation
+*[(top)](#table-of-contents)*
+
+### Section Participation Plots
+*[(top)](#table-of-contents)*
+
+| Min Mag | 1 yr Triggered Ruptures (no spontaneous) | 10 yr Triggered Ruptures (no spontaneous) | 10 yr Triggered Ruptures (primary aftershocks only) |
+|-----|-----|-----|-----|
+| **All Supra. Seis.** | ![Participation Plot](plots/fault_participation_partic_1yr_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_triggered_primary.png) |
+| **M&ge;6.5** | ![Participation Plot](plots/fault_participation_partic_1yr_m6.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m6.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m6.5_triggered_primary.png) |
+| **M&ge;7** | ![Participation Plot](plots/fault_participation_partic_1yr_m7.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.0_triggered_primary.png) |
+| **M&ge;7.5** | ![Participation Plot](plots/fault_participation_partic_1yr_m7.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.5_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m7.5_triggered_primary.png) |
+| **M&ge;8** | ![Participation Plot](plots/fault_participation_partic_1yr_m8.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m8.0_triggered.png) | ![Participation Plot](plots/fault_participation_partic_10yr_m8.0_triggered_primary.png) |
+
+### Supra-Seismogenic Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 53 with matching ruptures shown*
+
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Jacinto (Anza) rev | 4.5E-4 | 1.60E-4 (0.02%) | [0.01% 0.03%] | 2.20E-4 (0.02%) | [0.01% 0.03%] | 3.20E-4 (0.03%) | [0.02% 0.05%] | 3.80E-4 (0.04%) | [0.03% 0.05%] | 4.50E-4 (0.04%) | [0.03% 0.06%] | 2.4E-4 |
+| San Jacinto (Clark) rev | 3.1E-4 | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 2.20E-4 (0.02%) | [0.01% 0.03%] | 2.40E-4 (0.02%) | [0.02% 0.04%] | 3.10E-4 (0.03%) | [0.02% 0.04%] | 1.6E-4 |
+| San Andreas (San Bernardino N) | 2.5E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.70E-4 (0.02%) | [0.01% 0.03%] | 1.2E-4 |
+| San Jacinto (Stepovers Combined) | 2.1E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.70E-4 (0.02%) | [0.01% 0.03%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 2.10E-4 (0.02%) | [0.01% 0.03%] | 1.4E-4 |
+| San Jacinto (Coyote Creek) | 1.9E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 1.90E-4 (0.02%) | [0.01% 0.03%] | 1.3E-4 |
+| San Jacinto (San Jacinto Valley) rev | 1.9E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 1.90E-4 (0.02%) | [0.01% 0.03%] | 1.4E-4 |
+| San Jacinto (San Bernardino) | 1.8E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 1.4E-4 |
+| San Andreas (Mojave S) | 1.7E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.2E-4 |
+| San Andreas (Mojave N) | 1.5E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.0E-4 |
+| San Jacinto (Borrego) | 1.2E-4 | 5.00E-5 (0.01%) | [0.00% 0.01%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 8.0E-5 |
+
+### M≥6.5 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 42 with matching ruptures shown*
+
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Jacinto (Anza) rev | 4.1E-4 | 1.60E-4 (0.02%) | [0.01% 0.03%] | 2.10E-4 (0.02%) | [0.01% 0.03%] | 3.00E-4 (0.03%) | [0.02% 0.04%] | 3.50E-4 (0.03%) | [0.02% 0.05%] | 4.10E-4 (0.04%) | [0.03% 0.06%] | 2.2E-4 |
+| San Jacinto (Clark) rev | 2.4E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.70E-4 (0.02%) | [0.01% 0.03%] | 1.90E-4 (0.02%) | [0.01% 0.03%] | 2.40E-4 (0.02%) | [0.02% 0.04%] | 1.1E-4 |
+| San Andreas (San Bernardino N) | 2.3E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.70E-4 (0.02%) | [0.01% 0.03%] | 1.2E-4 |
+| San Jacinto (Stepovers Combined) | 2.1E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.70E-4 (0.02%) | [0.01% 0.03%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 2.10E-4 (0.02%) | [0.01% 0.03%] | 1.4E-4 |
+| San Jacinto (Coyote Creek) | 1.9E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 1.90E-4 (0.02%) | [0.01% 0.03%] | 1.3E-4 |
+| San Jacinto (San Jacinto Valley) rev | 1.9E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 1.90E-4 (0.02%) | [0.01% 0.03%] | 1.4E-4 |
+| San Jacinto (San Bernardino) | 1.8E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 1.4E-4 |
+| San Andreas (Mojave S) | 1.7E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.2E-4 |
+| San Andreas (Mojave N) | 1.5E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.0E-4 |
+| San Jacinto (Borrego) | 1.2E-4 | 5.00E-5 (0.01%) | [0.00% 0.01%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 8.0E-5 |
+
+### M≥7 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 34 with matching ruptures shown*
+
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Jacinto (Anza) rev | 3.7E-4 | 1.60E-4 (0.02%) | [0.01% 0.03%] | 2.00E-4 (0.02%) | [0.01% 0.03%] | 2.90E-4 (0.03%) | [0.02% 0.04%] | 3.30E-4 (0.03%) | [0.02% 0.05%] | 3.70E-4 (0.04%) | [0.03% 0.05%] | 2.0E-4 |
+| San Jacinto (Stepovers Combined) | 2.1E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.70E-4 (0.02%) | [0.01% 0.03%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 2.10E-4 (0.02%) | [0.01% 0.03%] | 1.4E-4 |
+| San Jacinto (Coyote Creek) | 1.9E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 1.90E-4 (0.02%) | [0.01% 0.03%] | 1.3E-4 |
+| San Jacinto (San Jacinto Valley) rev | 1.9E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 1.90E-4 (0.02%) | [0.01% 0.03%] | 1.4E-4 |
+| San Jacinto (Clark) rev | 1.8E-4 | 7.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 7.0E-5 |
+| San Jacinto (San Bernardino) | 1.8E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 1.4E-4 |
+| San Andreas (Mojave S) | 1.7E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.2E-4 |
+| San Andreas (San Bernardino N) | 1.7E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.2E-4 |
+| San Andreas (Mojave N) | 1.5E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.0E-4 |
+| San Jacinto (Borrego) | 1.2E-4 | 5.00E-5 (0.01%) | [0.00% 0.01%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 8.0E-5 |
+
+### M≥7.5 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 30 with matching ruptures shown*
+
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Jacinto (Anza) rev | 2.1E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 2.10E-4 (0.02%) | [0.01% 0.03%] | 1.4E-4 |
+| San Jacinto (San Jacinto Valley) rev | 1.9E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 1.90E-4 (0.02%) | [0.01% 0.03%] | 1.4E-4 |
+| San Jacinto (Stepovers Combined) | 1.9E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 1.90E-4 (0.02%) | [0.01% 0.03%] | 1.4E-4 |
+| San Jacinto (San Bernardino) | 1.8E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 1.4E-4 |
+| San Andreas (Mojave S) | 1.7E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.2E-4 |
+| San Andreas (San Bernardino N) | 1.7E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.2E-4 |
+| San Jacinto (Coyote Creek) | 1.7E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.70E-4 (0.02%) | [0.01% 0.03%] | 1.70E-4 (0.02%) | [0.01% 0.03%] | 1.3E-4 |
+| San Andreas (Mojave N) | 1.5E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.0E-4 |
+| San Jacinto (Borrego) | 1.2E-4 | 5.00E-5 (0.01%) | [0.00% 0.01%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 8.0E-5 |
+| San Jacinto (Superstition Mtn) | 1.1E-4 | 5.00E-5 (0.01%) | [0.00% 0.01%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 7.0E-5 |
+
+### M≥8 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 21 with matching ruptures shown*
+
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Big Bend) | 8.0E-5 | 6.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 7.0E-5 |
+| San Andreas (Mojave N) | 8.0E-5 | 6.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 7.0E-5 |
+| San Andreas (Mojave S) | 8.0E-5 | 6.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 7.0E-5 |
+| San Andreas (San Bernardino N) | 8.0E-5 | 6.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 7.0E-5 |
+| San Jacinto (Anza) rev | 8.0E-5 | 6.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 7.0E-5 |
+| San Jacinto (San Bernardino) | 8.0E-5 | 6.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 7.0E-5 |
+| San Jacinto (San Jacinto Valley) rev | 8.0E-5 | 6.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 7.0E-5 |
+| San Jacinto (Stepovers Combined) | 8.0E-5 | 6.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 7.0E-5 |
+| San Andreas (Carrizo) rev | 7.0E-5 | 6.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 6.0E-5 |
+| San Andreas (Cholame) rev | 7.0E-5 | 6.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 6.0E-5 |
+
+## Fault Magnitude-Probability Distributions
+*[(top)](#table-of-contents)*
+
+The first 5 sections (sorted by trigger rate) are plotted below. All fault MPDs are available [here](plots/parent_sect_mpds/README.md)
+
+| 1 Week | 1 Month | 1 Year | 10 Year |
+|-----|-----|-----|-----|
+| ![MPD](plots/parent_sect_mpds/San_Jacinto_Anza_rev_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Anza_rev_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Anza_rev_1yr.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Anza_rev_10yr.png) |
+| ![MPD](plots/parent_sect_mpds/San_Jacinto_Clark_rev_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Clark_rev_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Clark_rev_1yr.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Clark_rev_10yr.png) |
+| ![MPD](plots/parent_sect_mpds/San_Andreas_San_Bernardino_N_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_San_Bernardino_N_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_San_Bernardino_N_1yr.png) | ![MPD](plots/parent_sect_mpds/San_Andreas_San_Bernardino_N_10yr.png) |
+| ![MPD](plots/parent_sect_mpds/San_Jacinto_Stepovers_Combined_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Stepovers_Combined_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Stepovers_Combined_1yr.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Stepovers_Combined_10yr.png) |
+| ![MPD](plots/parent_sect_mpds/San_Jacinto_Coyote_Creek_1wk.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Coyote_Creek_1mo.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Coyote_Creek_1yr.png) | ![MPD](plots/parent_sect_mpds/San_Jacinto_Coyote_Creek_10yr.png) |
+
+## Gridded Nucleation
+*[(top)](#table-of-contents)*
+
+| Min Mag | Triggered Ruptures (no spontaneous) | Triggered Ruptures (primary aftershocks only) |
+|-----|-----|-----|
+| **M&ge;2.5** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m2.5.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m2.5.png) |
+| **M&ge;5** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m5.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m5.0.png) |
+| **M&ge;6** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m6.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m6.0.png) |
+| **M&ge;7** | ![Nucleation Plot](plots/gridded_nucleation_triggered_m7.0.png) | ![Nucleation Plot](plots/gridded_nucleation_triggered_primary_m7.0.png) |
 
 
 ## JSON Input File
