@@ -2,8 +2,8 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2020/04/08 | [ComCat M4.87 (ci39126079), Point Source, kCOV=1.5](2020_04_08-ComCatM4p87_ci39126079_PointSource_kCOV1p5/README.md) | 2020/04/03 | 100000 | Done | 2020/04/22 |
-| 2020/04/08 | [ComCat M4.87 (ci39126079), 4.7 Days After, Point Sources, kCOV=1.5](2020_04_08-ComCatM4p87_ci39126079_4p7DaysAfter_PointSources_kCOV1p5/README.md) | 2020/04/08 | 100000 | Done | 2020/04/22 |
+| 2020/04/08 | [ComCat M4.87 (ci39126079), Point Source, kCOV=1.5](2020_04_08-ComCatM4p87_ci39126079_PointSource_kCOV1p5/README.md) | 2020/04/03 | 100000 | Done | 2020/04/23 |
+| 2020/04/08 | [ComCat M4.87 (ci39126079), 4.7 Days After, Point Sources, kCOV=1.5](2020_04_08-ComCatM4p87_ci39126079_4p7DaysAfter_PointSources_kCOV1p5/README.md) | 2020/04/08 | 100000 | Done | 2020/04/23 |
 | 2020/03/20 | [ComCat M5.0 (nn00719663), Point Source, kCOV=1.5](2020_03_20-ComCatM5p0_nn00719663_PointSource_kCOV1p5/README.md) | 2020/03/20 | 100000 | Done | 2020/04/21 |
 | 2020/03/03 | [M7AwaySAF](2020_03_03-M7AwaySAF/README.md) | 2019/12/31 | 25000 | Done | 2020/04/21 |
 | 2020/03/03 | [M7OnSAF](2020_03_03-M7OnSAF/README.md) | 2019/12/31 | 25000 | Done | 2020/04/21 |
@@ -59,8 +59,8 @@
 | 2019/09/03 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces (Planar Extents)](2019_09_03-ComCatM7p1_ci38457511_ShakeMapSurfaces_PlanarExtents/README.md) | 2019/07/05 | 100000 | Done | 2020/04/23 |
 | 2019/09/03 | [ComCat M7.1 (ci38457511), Point Sources, No Faults](2019_09_03-ComCatM7p1_ci38457511_PointSources_NoFaults/README.md) | 2019/07/05 | 100000 | Done | 2020/04/23 |
 | 2019/09/02 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Scale Factor 1.0](2019_09_02-ComCatM7p1_ci38457511_ShakeMapSurfaces_ScaleFactor1p0/README.md) | 2019/07/05 | 100000 | Done | 2020/04/23 |
-| 2019/09/02 | [ComCat M7.1 (ci38457511), 7 Days After, Mainshock Log10(k)=-2.3, ShakeMap Surfaces, Log10(k)=-3.03, p=1.15, c=0.002](2019_09_02-ComCatM7p1_ci38457511_7DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/README.md) | 2019/07/12 | 100000 | Done | 2020/04/18 |
-| 2019/09/02 | [Start 2012, 500 yr, NoERT, Spontaneous, Historical Catalog](2019_09_02-Start2012_500yr_NoERT_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/12/06 |
+| 2019/09/02 | [ComCat M7.1 (ci38457511), 7 Days After, Mainshock Log10(k)=-2.3, ShakeMap Surfaces, Log10(k)=-3.03, p=1.15, c=0.002](2019_09_02-ComCatM7p1_ci38457511_7DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/README.md) | 2019/07/12 | 100000 | Done | 2020/04/23 |
+| 2019/09/02 | [Start 2012, 500 yr, NoERT, Spontaneous, Historical Catalog](2019_09_02-Start2012_500yr_NoERT_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2020/04/23 |
 | 2019/09/02 | [Start 2012, 500 yr, Scale Factor 1.0, Spontaneous, Historical Catalog](2019_09_02-Start2012_500yr_ScaleFactor1p0_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2019/12/06 |
 | 2019/09/01 | [Start 1919, 100 yr, Scale Factor 1.212, Spontaneous, Historical Catalog](2019_09_01-Start1919_100yr_ScaleFactor1p212_Spontaneous_HistoricalCatalog/README.md) | 1918/12/31 | 1000 | Done | 2019/12/06 |
 | 2019/08/31 | [ComCat M7.1 (ci38457511), 28 Days After, Mainshock Log10(k)=-2.3, ShakeMap Surfaces, Log10(k)=-3.03, p=1.15, c=0.002](2019_08_31-ComCatM7p1_ci38457511_28DaysAfter_MainshockLog10_k_2p3_ShakeMapSurfaces_Log10_k_3p03_p1p15_c0p002/README.md) | 2019/08/02 | 100000 | Done | 2020/04/18 |
