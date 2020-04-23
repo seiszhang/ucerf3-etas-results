@@ -54,10 +54,10 @@ img {
 <ul>
 <li><a href="#section-participation-plots">Section Participation Plots</a></li>
 <li><a href="#supra-seismogenic-parent-sections-table">Supra-Seismogenic Parent Sections Table</a></li>
-<li><a href="#m65-parent-sections-table">M≥6.5 Parent Sections Table</a></li>
-<li><a href="#m7-parent-sections-table">M≥7 Parent Sections Table</a></li>
-<li><a href="#m75-parent-sections-table">M≥7.5 Parent Sections Table</a></li>
-<li><a href="#m8-parent-sections-table">M≥8 Parent Sections Table</a></li>
+<li><a href="#m65-parent-sections-table">M&ge;6.5 Parent Sections Table</a></li>
+<li><a href="#m7-parent-sections-table">M&ge;7 Parent Sections Table</a></li>
+<li><a href="#m75-parent-sections-table">M&ge;7.5 Parent Sections Table</a></li>
+<li><a href="#m8-parent-sections-table">M&ge;8 Parent Sections Table</a></li>
 </ul>
 </li>
 <li><a href="#gridded-nucleation">Gridded Nucleation</a></li>
@@ -71,6 +71,7 @@ img {
 <li><strong>2.5%,97.5%</strong> (thin black lines): annual rate percentiles across all 1000 catalogs</li>
 <li><strong>Median</strong> (thin blue line): median annual rate across all 1000 catalogs</li>
 <li><strong>Mode</strong> (thin cyan line): modal annual rate across all 1000 catalogs (scaled to annualized value)</li>
+<li><strong>Fault System Solution</strong> (brown line): long-term MFD from the UCERF3 fault system solution</li>
 <li><strong>500 yr Probability</strong> (thin red line): 500 year probability calculated as the fraction of catalogs with at least 1 occurrence</li>
 <li><strong>500 yr Supraseismogenic Probability</strong> (thin dashed red line): same as above, but only for supraseismogenic ruptures on explicitly modeled UCERF3 faults</li>
 <li><strong>95% Conf</strong> (light red shaded region): binomial 95% confidence bounds on probability</li>
@@ -78,50 +79,50 @@ img {
 <p><img src="plots/mfd.png" alt="MFD Plot" /></p>
 <table>
 <thead>
-<tr><th>Mag</th><th>Mean</th><th>2.5 %ile</th><th>97.5 %ile</th><th>Median</th><th>Mode</th><th>500 yr Probability</th><th>500 yr Supra-Seis Prob</th></tr>
+<tr><th>Mag</th><th>Mean</th><th>2.5 %ile</th><th>97.5 %ile</th><th>Median</th><th>Mode</th><th>Long-Term Fault System Solution</th><th>500 yr Probability</th><th>500 yr Prob 95% Conf</th><th>500 yr Supra-Seis Prob</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>M≥5</strong></td><td>7.070</td><td>6.444</td><td>7.764</td><td>7.058</td><td>7.048</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥5.1</strong></td><td>5.594</td><td>5.074</td><td>6.156</td><td>5.588</td><td>5.606</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥5.2</strong></td><td>4.418</td><td>4.002</td><td>4.866</td><td>4.412</td><td>4.456</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥5.3</strong></td><td>3.485</td><td>3.144</td><td>3.844</td><td>3.478</td><td>3.548</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥5.4</strong></td><td>2.746</td><td>2.460</td><td>3.038</td><td>2.744</td><td>2.694</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥5.5</strong></td><td>2.160</td><td>1.926</td><td>2.400</td><td>2.158</td><td>2.114</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥5.6</strong></td><td>1.694</td><td>1.500</td><td>1.892</td><td>1.690</td><td>1.716</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥5.7</strong></td><td>1.323</td><td>1.168</td><td>1.488</td><td>1.320</td><td>1.340</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥5.8</strong></td><td>1.028</td><td>0.904</td><td>1.164</td><td>1.026</td><td>1.006</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥5.9</strong></td><td>0.784</td><td>0.684</td><td>0.896</td><td>0.782</td><td>0.774</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥6</strong></td><td>0.621</td><td>0.536</td><td>0.714</td><td>0.618</td><td>0.628</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥6.1</strong></td><td>0.479</td><td>0.406</td><td>0.556</td><td>0.476</td><td>0.484</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥6.2</strong></td><td>0.378</td><td>0.322</td><td>0.440</td><td>0.376</td><td>0.382</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥6.3</strong></td><td>0.298</td><td>0.246</td><td>0.352</td><td>0.298</td><td>0.290</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥6.4</strong></td><td>0.234</td><td>0.190</td><td>0.282</td><td>0.234</td><td>0.240</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥6.5</strong></td><td>0.181</td><td>0.144</td><td>0.220</td><td>0.182</td><td>0.186</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥6.6</strong></td><td>0.142</td><td>0.110</td><td>0.174</td><td>0.142</td><td>0.148</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥6.7</strong></td><td>0.109</td><td>0.084</td><td>0.138</td><td>0.110</td><td>0.110</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥6.8</strong></td><td>0.086</td><td>0.064</td><td>0.110</td><td>0.086</td><td>0.088</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥6.9</strong></td><td>0.067</td><td>0.048</td><td>0.088</td><td>0.068</td><td>0.072</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥7</strong></td><td>0.053</td><td>0.036</td><td>0.070</td><td>0.052</td><td>0.050</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥7.1</strong></td><td>0.041</td><td>0.026</td><td>0.056</td><td>0.040</td><td>0.038</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥7.2</strong></td><td>0.031</td><td>0.020</td><td>0.044</td><td>0.030</td><td>0.030</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥7.3</strong></td><td>0.025</td><td>0.014</td><td>0.036</td><td>0.024</td><td>0.024</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥7.4</strong></td><td>0.019</td><td>0.010</td><td>0.030</td><td>0.018</td><td>0.018</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥7.5</strong></td><td>0.014</td><td>8.00E-3</td><td>0.022</td><td>0.014</td><td>0.014</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥7.6</strong></td><td>0.011</td><td>6.00E-3</td><td>0.018</td><td>0.010</td><td>0.010</td><td>1.000 (100.00%)</td><td>1.000 (100.00%)</td></tr>
-<tr><td><strong>M≥7.7</strong></td><td>7.62E-3</td><td>4.00E-3</td><td>0.012</td><td>8.00E-3</td><td>8.00E-3</td><td>0.999 (99.90%)</td><td>0.999 (99.90%)</td></tr>
-<tr><td><strong>M≥7.8</strong></td><td>5.39E-3</td><td>2.00E-3</td><td>0.010</td><td>6.00E-3</td><td>6.00E-3</td><td>0.990 (99.00%)</td><td>0.990 (99.00%)</td></tr>
-<tr><td><strong>M≥7.9</strong></td><td>3.01E-3</td><td>0.000</td><td>6.00E-3</td><td>2.00E-3</td><td>2.00E-3</td><td>0.876 (87.60%)</td><td>0.876 (87.60%)</td></tr>
-<tr><td><strong>M≥8</strong></td><td>1.60E-3</td><td>0.000</td><td>4.00E-3</td><td>2.00E-3</td><td>2.00E-3</td><td>0.618 (61.80%)</td><td>0.618 (61.80%)</td></tr>
-<tr><td><strong>M≥8.1</strong></td><td>7.68E-4</td><td>0.000</td><td>4.00E-3</td><td>0.000</td><td>0.000</td><td>0.340 (34.00%)</td><td>0.340 (34.00%)</td></tr>
-<tr><td><strong>M≥8.2</strong></td><td>3.58E-4</td><td>0.000</td><td>2.00E-3</td><td>0.000</td><td>0.000</td><td>0.171 (17.10%)</td><td>0.171 (17.10%)</td></tr>
-<tr><td><strong>M≥8.3</strong></td><td>7.40E-5</td><td>0.000</td><td>2.00E-3</td><td>0.000</td><td>0.000</td><td>0.037 (3.70%)</td><td>0.037 (3.70%)</td></tr>
-<tr><td><strong>M≥8.4</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td></tr>
-<tr><td><strong>M≥8.5</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td></tr>
-<tr><td><strong>M≥8.6</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td></tr>
-<tr><td><strong>M≥8.7</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td></tr>
-<tr><td><strong>M≥8.8</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td></tr>
-<tr><td><strong>M≥8.9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td></tr>
-<tr><td><strong>M≥9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>0.000 (0.00%)</td></tr>
+<tr><td><strong>M&ge;5</strong></td><td>7.070</td><td>6.444</td><td>7.764</td><td>7.058</td><td>7.048</td><td>8.609</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;5.1</strong></td><td>5.594</td><td>5.074</td><td>6.156</td><td>5.588</td><td>5.606</td><td>6.830</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;5.2</strong></td><td>4.418</td><td>4.002</td><td>4.866</td><td>4.412</td><td>4.456</td><td>5.417</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;5.3</strong></td><td>3.485</td><td>3.144</td><td>3.844</td><td>3.478</td><td>3.548</td><td>4.295</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;5.4</strong></td><td>2.746</td><td>2.460</td><td>3.038</td><td>2.744</td><td>2.694</td><td>3.404</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;5.5</strong></td><td>2.160</td><td>1.926</td><td>2.400</td><td>2.158</td><td>2.114</td><td>2.696</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;5.6</strong></td><td>1.694</td><td>1.500</td><td>1.892</td><td>1.690</td><td>1.716</td><td>2.133</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;5.7</strong></td><td>1.323</td><td>1.168</td><td>1.488</td><td>1.320</td><td>1.340</td><td>1.686</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;5.8</strong></td><td>1.028</td><td>0.904</td><td>1.164</td><td>1.026</td><td>1.006</td><td>1.331</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;5.9</strong></td><td>0.784</td><td>0.684</td><td>0.896</td><td>0.782</td><td>0.774</td><td>1.036</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;6</strong></td><td>0.621</td><td>0.536</td><td>0.714</td><td>0.618</td><td>0.628</td><td>0.836</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;6.1</strong></td><td>0.479</td><td>0.406</td><td>0.556</td><td>0.476</td><td>0.484</td><td>0.660</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;6.2</strong></td><td>0.378</td><td>0.322</td><td>0.440</td><td>0.376</td><td>0.382</td><td>0.529</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;6.3</strong></td><td>0.298</td><td>0.246</td><td>0.352</td><td>0.298</td><td>0.290</td><td>0.420</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;6.4</strong></td><td>0.234</td><td>0.190</td><td>0.282</td><td>0.234</td><td>0.240</td><td>0.332</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;6.5</strong></td><td>0.181</td><td>0.144</td><td>0.220</td><td>0.182</td><td>0.186</td><td>0.260</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;6.6</strong></td><td>0.142</td><td>0.110</td><td>0.174</td><td>0.142</td><td>0.148</td><td>0.205</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;6.7</strong></td><td>0.109</td><td>0.084</td><td>0.138</td><td>0.110</td><td>0.110</td><td>0.160</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;6.8</strong></td><td>0.086</td><td>0.064</td><td>0.110</td><td>0.086</td><td>0.088</td><td>0.127</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;6.9</strong></td><td>0.067</td><td>0.048</td><td>0.088</td><td>0.068</td><td>0.072</td><td>0.100</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;7</strong></td><td>0.053</td><td>0.036</td><td>0.070</td><td>0.052</td><td>0.050</td><td>0.078</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;7.1</strong></td><td>0.041</td><td>0.026</td><td>0.056</td><td>0.040</td><td>0.038</td><td>0.060</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;7.2</strong></td><td>0.031</td><td>0.020</td><td>0.044</td><td>0.030</td><td>0.030</td><td>0.045</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;7.3</strong></td><td>0.025</td><td>0.014</td><td>0.036</td><td>0.024</td><td>0.024</td><td>0.035</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;7.4</strong></td><td>0.019</td><td>0.010</td><td>0.030</td><td>0.018</td><td>0.018</td><td>0.027</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;7.5</strong></td><td>0.014</td><td>8.00E-3</td><td>0.022</td><td>0.014</td><td>0.014</td><td>0.019</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;7.6</strong></td><td>0.011</td><td>6.00E-3</td><td>0.018</td><td>0.010</td><td>0.010</td><td>0.014</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>1.000 (100.00%)</td></tr>
+<tr><td><strong>M&ge;7.7</strong></td><td>7.62E-3</td><td>4.00E-3</td><td>0.012</td><td>8.00E-3</td><td>8.00E-3</td><td>9.58E-3</td><td>0.999 (99.90%)</td><td>[99.35% 99.99%]</td><td>0.999 (99.90%)</td></tr>
+<tr><td><strong>M&ge;7.8</strong></td><td>5.39E-3</td><td>2.00E-3</td><td>0.010</td><td>6.00E-3</td><td>6.00E-3</td><td>6.19E-3</td><td>0.990 (99.00%)</td><td>[98.10% 99.49%]</td><td>0.990 (99.00%)</td></tr>
+<tr><td><strong>M&ge;7.9</strong></td><td>3.01E-3</td><td>0.000</td><td>6.00E-3</td><td>2.00E-3</td><td>2.00E-3</td><td>3.51E-3</td><td>0.876 (87.60%)</td><td>[85.36% 89.55%]</td><td>0.876 (87.60%)</td></tr>
+<tr><td><strong>M&ge;8</strong></td><td>1.60E-3</td><td>0.000</td><td>4.00E-3</td><td>2.00E-3</td><td>2.00E-3</td><td>2.03E-3</td><td>0.618 (61.80%)</td><td>[58.70% 64.81%]</td><td>0.618 (61.80%)</td></tr>
+<tr><td><strong>M&ge;8.1</strong></td><td>7.68E-4</td><td>0.000</td><td>4.00E-3</td><td>0.000</td><td>0.000</td><td>1.02E-3</td><td>0.340 (34.00%)</td><td>[31.08% 37.04%]</td><td>0.340 (34.00%)</td></tr>
+<tr><td><strong>M&ge;8.2</strong></td><td>3.58E-4</td><td>0.000</td><td>2.00E-3</td><td>0.000</td><td>0.000</td><td>4.48E-4</td><td>0.171 (17.10%)</td><td>[14.85% 19.61%]</td><td>0.171 (17.10%)</td></tr>
+<tr><td><strong>M&ge;8.3</strong></td><td>7.40E-5</td><td>0.000</td><td>2.00E-3</td><td>0.000</td><td>0.000</td><td>1.02E-4</td><td>0.037 (3.70%)</td><td>[2.65% 5.12%]</td><td>0.037 (3.70%)</td></tr>
+<tr><td><strong>M&ge;8.4</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>[0.00% 0.48%]</td><td>0.000 (0.00%)</td></tr>
+<tr><td><strong>M&ge;8.5</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>[0.00% 0.48%]</td><td>0.000 (0.00%)</td></tr>
+<tr><td><strong>M&ge;8.6</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>[0.00% 0.48%]</td><td>0.000 (0.00%)</td></tr>
+<tr><td><strong>M&ge;8.7</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>[0.00% 0.48%]</td><td>0.000 (0.00%)</td></tr>
+<tr><td><strong>M&ge;8.8</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>[0.00% 0.48%]</td><td>0.000 (0.00%)</td></tr>
+<tr><td><strong>M&ge;8.9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>[0.00% 0.48%]</td><td>0.000 (0.00%)</td></tr>
+<tr><td><strong>M&ge;9</strong></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000 (0.00%)</td><td>[0.00% 0.48%]</td><td>0.000 (0.00%)</td></tr>
 </tbody>
 </table>
 <h2 id="long-term-rate-variability">Long Term Rate Variability</h2>
@@ -326,6 +327,7 @@ img {
 <h2 id="simulation-stationarity">Simulation Stationarity</h2>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p><img src="plots/stationarity.png" alt="Stationarity Plot" /></p>
+<p><img src="plots/stationarity_mom.png" alt="Moment Rate Plot" /></p>
 <h2 id="section-participation">Section Participation</h2>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <h3 id="section-participation-plots">Section Participation Plots</h3>
@@ -336,10 +338,10 @@ img {
 </thead>
 <tbody>
 <tr><td><strong>All Supra. Seis.</strong></td><td><img src="plots/fault_participation_partic.png" alt="Participation Plot" /></td></tr>
-<tr><td><strong>M≥6.5</strong></td><td><img src="plots/fault_participation_partic_m6.5.png" alt="Participation Plot" /></td></tr>
-<tr><td><strong>M≥7</strong></td><td><img src="plots/fault_participation_partic_m7.0.png" alt="Participation Plot" /></td></tr>
-<tr><td><strong>M≥7.5</strong></td><td><img src="plots/fault_participation_partic_m7.5.png" alt="Participation Plot" /></td></tr>
-<tr><td><strong>M≥8</strong></td><td><img src="plots/fault_participation_partic_m8.0.png" alt="Participation Plot" /></td></tr>
+<tr><td><strong>M&ge;6.5</strong></td><td><img src="plots/fault_participation_partic_m6.5.png" alt="Participation Plot" /></td></tr>
+<tr><td><strong>M&ge;7</strong></td><td><img src="plots/fault_participation_partic_m7.0.png" alt="Participation Plot" /></td></tr>
+<tr><td><strong>M&ge;7.5</strong></td><td><img src="plots/fault_participation_partic_m7.5.png" alt="Participation Plot" /></td></tr>
+<tr><td><strong>M&ge;8</strong></td><td><img src="plots/fault_participation_partic_m8.0.png" alt="Participation Plot" /></td></tr>
 </tbody>
 </table>
 <h3 id="supra-seismogenic-parent-sections-table">Supra-Seismogenic Parent Sections Table</h3>
@@ -362,7 +364,7 @@ img {
 <tr><td>Elsinore (Glen Ivy) rev</td><td>0.007756</td><td>0.995</td></tr>
 </tbody>
 </table>
-<h3 id="m65-parent-sections-table">M≥6.5 Parent Sections Table</h3>
+<h3 id="m65-parent-sections-table">M&ge;6.5 Parent Sections Table</h3>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p><em>First 10 of 306 with matching ruptures shown</em></p>
 <table>
@@ -382,7 +384,7 @@ img {
 <tr><td>San Andreas (Offshore) 2011 CFM</td><td>0.005942</td><td>0.999</td></tr>
 </tbody>
 </table>
-<h3 id="m7-parent-sections-table">M≥7 Parent Sections Table</h3>
+<h3 id="m7-parent-sections-table">M&ge;7 Parent Sections Table</h3>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p><em>First 10 of 273 with matching ruptures shown</em></p>
 <table>
@@ -402,7 +404,7 @@ img {
 <tr><td>San Andreas (Parkfield)</td><td>0.00424</td><td>0.971</td></tr>
 </tbody>
 </table>
-<h3 id="m75-parent-sections-table">M≥7.5 Parent Sections Table</h3>
+<h3 id="m75-parent-sections-table">M&ge;7.5 Parent Sections Table</h3>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p><em>First 10 of 212 with matching ruptures shown</em></p>
 <table>
@@ -422,7 +424,7 @@ img {
 <tr><td>San Andreas (Parkfield)</td><td>0.00304</td><td>0.91</td></tr>
 </tbody>
 </table>
-<h3 id="m8-parent-sections-table">M≥8 Parent Sections Table</h3>
+<h3 id="m8-parent-sections-table">M&ge;8 Parent Sections Table</h3>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p><em>First 10 of 63 with matching ruptures shown</em></p>
 <table>
@@ -449,9 +451,9 @@ img {
 <tr><th>Min Mag</th><th>Complete Catalog (including spontaneous)</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>M≥5</strong></td><td><img src="plots/gridded_nucleation_m5.0.png" alt="Nucleation Plot" /></td></tr>
-<tr><td><strong>M≥6</strong></td><td><img src="plots/gridded_nucleation_m6.0.png" alt="Nucleation Plot" /></td></tr>
-<tr><td><strong>M≥7</strong></td><td><img src="plots/gridded_nucleation_m7.0.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M&ge;5</strong></td><td><img src="plots/gridded_nucleation_m5.0.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M&ge;6</strong></td><td><img src="plots/gridded_nucleation_m6.0.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M&ge;7</strong></td><td><img src="plots/gridded_nucleation_m7.0.png" alt="Nucleation Plot" /></td></tr>
 </tbody>
 </table>
 <h2 id="json-input-file">JSON Input File</h2>
