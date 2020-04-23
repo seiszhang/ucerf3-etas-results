@@ -55,6 +55,17 @@ img {
 </ul>
 </li>
 <li><a href="#simulation-stationarity">Simulation Stationarity</a></li>
+<li><a href="#section-participation">Section Participation</a>
+<ul>
+<li><a href="#section-participation-plots">Section Participation Plots</a></li>
+<li><a href="#supra-seismogenic-parent-sections-table">Supra-Seismogenic Parent Sections Table</a></li>
+<li><a href="#m65-parent-sections-table">M&ge;6.5 Parent Sections Table</a></li>
+<li><a href="#m7-parent-sections-table">M&ge;7 Parent Sections Table</a></li>
+<li><a href="#m75-parent-sections-table">M&ge;7.5 Parent Sections Table</a></li>
+<li><a href="#m8-parent-sections-table">M&ge;8 Parent Sections Table</a></li>
+</ul>
+</li>
+<li><a href="#gridded-nucleation">Gridded Nucleation</a></li>
 <li><a href="#json-input-file">JSON Input File</a></li>
 </ul>
 <h2 id="magnitude-frequency-distribution">Magnitude Frequency Distribution</h2>
@@ -390,6 +401,134 @@ img {
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p><img src="plots/stationarity.png" alt="Stationarity Plot" /></p>
 <p><img src="plots/stationarity_mom.png" alt="Moment Rate Plot" /></p>
+<h2 id="section-participation">Section Participation</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<h3 id="section-participation-plots">Section Participation Plots</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>Min Mag</th><th>Complete Catalog (including spontaneous)</th><th>Ratio WRT Long-Term Model</th><th>Triggered Ruptures (no spontaneous)</th><th>Triggered Ruptures (primary aftershocks only)</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>All Supra. Seis.</strong></td><td><img src="plots/fault_participation_partic.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_ratio.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_triggered.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_triggered_primary.png" alt="Participation Plot" /></td></tr>
+<tr><td><strong>M&ge;6.5</strong></td><td><img src="plots/fault_participation_partic_m6.5.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m6.5_ratio.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m6.5_triggered.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m6.5_triggered_primary.png" alt="Participation Plot" /></td></tr>
+<tr><td><strong>M&ge;7</strong></td><td><img src="plots/fault_participation_partic_m7.0.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m7.0_ratio.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m7.0_triggered.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m7.0_triggered_primary.png" alt="Participation Plot" /></td></tr>
+<tr><td><strong>M&ge;7.5</strong></td><td><img src="plots/fault_participation_partic_m7.5.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m7.5_ratio.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m7.5_triggered.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m7.5_triggered_primary.png" alt="Participation Plot" /></td></tr>
+<tr><td><strong>M&ge;8</strong></td><td><img src="plots/fault_participation_partic_m8.0.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m8.0_ratio.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m8.0_triggered.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m8.0_triggered_primary.png" alt="Participation Plot" /></td></tr>
+</tbody>
+</table>
+<h3 id="supra-seismogenic-parent-sections-table">Supra-Seismogenic Parent Sections Table</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><em>First 10 of 313 with matching ruptures shown</em></p>
+<table>
+<thead>
+<tr><th>Parent Name</th><th>Total Mean Annual Rate</th><th>Total 500 Year Prob</th><th>Total 500 Year 95% Conf</th><th>Triggered Mean Annual Rate</th><th>Triggered 500 Year Prob</th><th>Triggered 500 Year 95% Conf</th><th>Triggered Primary Mean Annual Rate</th><th>Long-Term Fault System Solution Rate</th></tr>
+</thead>
+<tbody>
+<tr><td>San Andreas (Parkfield)</td><td>0.042586</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>0.003884</td><td>0.702 (70.20%)</td><td>[67.24% 73.00%]</td><td>0.00164</td><td>0.047238618</td></tr>
+<tr><td>San Andreas (Creeping Section) 2011 CFM</td><td>0.028528</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>0.00105</td><td>0.357 (35.70%)</td><td>[32.74% 38.77%]</td><td>4.1E-4</td><td>0.03419009</td></tr>
+<tr><td>San Andreas (Mojave S)</td><td>0.018848</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>0.001834</td><td>0.384 (38.40%)</td><td>[35.39% 41.50%]</td><td>6.9E-4</td><td>0.016211301</td></tr>
+<tr><td>Mendocino</td><td>0.018324</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>9.74E-4</td><td>0.335 (33.50%)</td><td>[30.59% 36.53%]</td><td>4.74E-4</td><td>0.028919645</td></tr>
+<tr><td>Cerro Prieto</td><td>0.013574</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>6.72E-4</td><td>0.221 (22.10%)</td><td>[19.59% 24.83%]</td><td>2.7E-4</td><td>0.015186971</td></tr>
+<tr><td>Imperial</td><td>0.011734</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>7.1E-4</td><td>0.264 (26.40%)</td><td>[23.71% 29.27%]</td><td>3.44E-4</td><td>0.014349225</td></tr>
+<tr><td>Brawley (Seismic Zone) alt 1</td><td>0.010932</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>5.3E-4</td><td>0.212 (21.20%)</td><td>[18.73% 23.89%]</td><td>2.46E-4</td><td>0.013392845</td></tr>
+<tr><td>Hayward (So) 2011 CFM</td><td>0.00956</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>6.58E-4</td><td>0.221 (22.10%)</td><td>[19.59% 24.83%]</td><td>2.92E-4</td><td>0.009440966</td></tr>
+<tr><td>San Andreas (Offshore) 2011 CFM</td><td>0.00843</td><td>0.998 (99.80%)</td><td>[99.20% 99.97%]</td><td>8.5E-4</td><td>0.278 (27.80%)</td><td>[25.06% 30.71%]</td><td>3.78E-4</td><td>0.008909097</td></tr>
+<tr><td>Elsinore (Glen Ivy) rev</td><td>0.007864</td><td>0.990 (99.00%)</td><td>[98.10% 99.49%]</td><td>2.42E-4</td><td>0.079 (7.90%)</td><td>[6.34% 9.79%]</td><td>9.4E-5</td><td>0.008455746</td></tr>
+</tbody>
+</table>
+<h3 id="m65-parent-sections-table">M&ge;6.5 Parent Sections Table</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><em>First 10 of 306 with matching ruptures shown</em></p>
+<table>
+<thead>
+<tr><th>Parent Name</th><th>Total Mean Annual Rate</th><th>Total 500 Year Prob</th><th>Total 500 Year 95% Conf</th><th>Triggered Mean Annual Rate</th><th>Triggered 500 Year Prob</th><th>Triggered 500 Year 95% Conf</th><th>Triggered Primary Mean Annual Rate</th><th>Long-Term Fault System Solution Rate</th></tr>
+</thead>
+<tbody>
+<tr><td>Cerro Prieto</td><td>0.011644</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>5.78E-4</td><td>0.196 (19.60%)</td><td>[17.21% 22.23%]</td><td>2.26E-4</td><td>0.013091409</td></tr>
+<tr><td>San Andreas (Creeping Section) 2011 CFM</td><td>0.010914</td><td>0.999 (99.90%)</td><td>[99.35% 99.99%]</td><td>4.7E-4</td><td>0.197 (19.70%)</td><td>[17.31% 22.33%]</td><td>2.0E-4</td><td>0.012216282</td></tr>
+<tr><td>Mendocino</td><td>0.009074</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>6.46E-4</td><td>0.250 (25.00%)</td><td>[22.37% 27.83%]</td><td>3.06E-4</td><td>0.012516479</td></tr>
+<tr><td>Imperial</td><td>0.008118</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>4.12E-4</td><td>0.168 (16.80%)</td><td>[14.56% 19.30%]</td><td>1.88E-4</td><td>0.0096799815</td></tr>
+<tr><td>Hayward (So) 2011 CFM</td><td>0.008092</td><td>0.999 (99.90%)</td><td>[99.35% 99.99%]</td><td>5.16E-4</td><td>0.192 (19.20%)</td><td>[16.83% 21.81%]</td><td>2.3E-4</td><td>0.008140643</td></tr>
+<tr><td>Brawley (Seismic Zone) alt 1</td><td>0.007784</td><td>0.999 (99.90%)</td><td>[99.35% 99.99%]</td><td>3.72E-4</td><td>0.153 (15.30%)</td><td>[13.16% 17.72%]</td><td>1.7E-4</td><td>0.009075132</td></tr>
+<tr><td>San Andreas (Mojave S)</td><td>0.007094</td><td>0.999 (99.90%)</td><td>[99.35% 99.99%]</td><td>5.32E-4</td><td>0.195 (19.50%)</td><td>[17.12% 22.12%]</td><td>2.42E-4</td><td>0.0067372364</td></tr>
+<tr><td>San Andreas (Santa Cruz Mts) 2011 CFM</td><td>0.006864</td><td>0.998 (99.80%)</td><td>[99.20% 99.97%]</td><td>4.3E-4</td><td>0.180 (18.00%)</td><td>[15.70% 20.55%]</td><td>1.94E-4</td><td>0.00821497</td></tr>
+<tr><td>San Andreas (San Bernardino N)</td><td>0.006676</td><td>0.997 (99.70%)</td><td>[99.05% 99.92%]</td><td>3.78E-4</td><td>0.154 (15.40%)</td><td>[13.25% 17.82%]</td><td>1.36E-4</td><td>0.0067538084</td></tr>
+<tr><td>San Andreas (Offshore) 2011 CFM</td><td>0.006126</td><td>0.997 (99.70%)</td><td>[99.05% 99.92%]</td><td>6.0E-4</td><td>0.227 (22.70%)</td><td>[20.16% 25.45%]</td><td>2.64E-4</td><td>0.006658823</td></tr>
+</tbody>
+</table>
+<h3 id="m7-parent-sections-table">M&ge;7 Parent Sections Table</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><em>First 10 of 273 with matching ruptures shown</em></p>
+<table>
+<thead>
+<tr><th>Parent Name</th><th>Total Mean Annual Rate</th><th>Total 500 Year Prob</th><th>Total 500 Year 95% Conf</th><th>Triggered Mean Annual Rate</th><th>Triggered 500 Year Prob</th><th>Triggered 500 Year 95% Conf</th><th>Triggered Primary Mean Annual Rate</th><th>Long-Term Fault System Solution Rate</th></tr>
+</thead>
+<tbody>
+<tr><td>San Andreas (Creeping Section) 2011 CFM</td><td>0.006884</td><td>0.989 (98.90%)</td><td>[97.98% 99.42%]</td><td>3.56E-4</td><td>0.155 (15.50%)</td><td>[13.34% 17.93%]</td><td>1.5E-4</td><td>0.007612852</td></tr>
+<tr><td>San Andreas (Carrizo) rev</td><td>0.00574</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>4.64E-4</td><td>0.185 (18.50%)</td><td>[16.17% 21.08%]</td><td>2.14E-4</td><td>0.0057427646</td></tr>
+<tr><td>San Andreas (Cholame) rev</td><td>0.005722</td><td>0.999 (99.90%)</td><td>[99.35% 99.99%]</td><td>4.62E-4</td><td>0.184 (18.40%)</td><td>[16.07% 20.97%]</td><td>2.02E-4</td><td>0.005722108</td></tr>
+<tr><td>San Andreas (Santa Cruz Mts) 2011 CFM</td><td>0.005374</td><td>0.991 (99.10%)</td><td>[98.23% 99.56%]</td><td>2.92E-4</td><td>0.125 (12.50%)</td><td>[10.55% 14.75%]</td><td>1.18E-4</td><td>0.0062776324</td></tr>
+<tr><td>San Andreas (Mojave S)</td><td>0.005306</td><td>0.998 (99.80%)</td><td>[99.20% 99.97%]</td><td>3.64E-4</td><td>0.154 (15.40%)</td><td>[13.25% 17.82%]</td><td>1.74E-4</td><td>0.0052993274</td></tr>
+<tr><td>San Andreas (Mojave N)</td><td>0.004952</td><td>1.000 (100.00%)</td><td>[99.52% 100.00%]</td><td>3.6E-4</td><td>0.148 (14.80%)</td><td>[12.69% 17.19%]</td><td>1.72E-4</td><td>0.0051040766</td></tr>
+<tr><td>San Andreas (Big Bend)</td><td>0.004662</td><td>0.999 (99.90%)</td><td>[99.35% 99.99%]</td><td>3.52E-4</td><td>0.147 (14.70%)</td><td>[12.59% 17.08%]</td><td>1.68E-4</td><td>0.0045623486</td></tr>
+<tr><td>San Andreas (North Coast) 2011 CFM</td><td>0.004616</td><td>0.996 (99.60%)</td><td>[98.90% 99.87%]</td><td>3.5E-4</td><td>0.142 (14.20%)</td><td>[12.13% 16.55%]</td><td>1.68E-4</td><td>0.005556243</td></tr>
+<tr><td>San Andreas (San Bernardino N)</td><td>0.004556</td><td>0.978 (97.80%)</td><td>[96.63% 98.58%]</td><td>2.88E-4</td><td>0.123 (12.30%)</td><td>[10.36% 14.53%]</td><td>1.16E-4</td><td>0.004749499</td></tr>
+<tr><td>San Andreas (Parkfield)</td><td>0.00435</td><td>0.963 (96.30%)</td><td>[94.88% 97.35%]</td><td>3.26E-4</td><td>0.137 (13.70%)</td><td>[11.66% 16.02%]</td><td>1.4E-4</td><td>0.004465195</td></tr>
+</tbody>
+</table>
+<h3 id="m75-parent-sections-table">M&ge;7.5 Parent Sections Table</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><em>First 10 of 207 with matching ruptures shown</em></p>
+<table>
+<thead>
+<tr><th>Parent Name</th><th>Total Mean Annual Rate</th><th>Total 500 Year Prob</th><th>Total 500 Year 95% Conf</th><th>Triggered Mean Annual Rate</th><th>Triggered 500 Year Prob</th><th>Triggered 500 Year 95% Conf</th><th>Triggered Primary Mean Annual Rate</th><th>Long-Term Fault System Solution Rate</th></tr>
+</thead>
+<tbody>
+<tr><td>San Andreas (Mojave N)</td><td>0.004866</td><td>0.999 (99.90%)</td><td>[99.35% 99.99%]</td><td>3.5E-4</td><td>0.146 (14.60%)</td><td>[12.50% 16.98%]</td><td>1.68E-4</td><td>0.0049894005</td></tr>
+<tr><td>San Andreas (Big Bend)</td><td>0.004528</td><td>0.998 (99.80%)</td><td>[99.20% 99.97%]</td><td>3.38E-4</td><td>0.144 (14.40%)</td><td>[12.31% 16.77%]</td><td>1.6E-4</td><td>0.0044245115</td></tr>
+<tr><td>San Andreas (Mojave S)</td><td>0.004368</td><td>0.997 (99.70%)</td><td>[99.05% 99.92%]</td><td>3.0E-4</td><td>0.129 (12.90%)</td><td>[10.92% 15.17%]</td><td>1.48E-4</td><td>0.0045267143</td></tr>
+<tr><td>San Andreas (Carrizo) rev</td><td>0.004246</td><td>0.994 (99.40%)</td><td>[98.63% 99.76%]</td><td>3.22E-4</td><td>0.140 (14.00%)</td><td>[11.94% 16.34%]</td><td>1.58E-4</td><td>0.004201805</td></tr>
+<tr><td>San Andreas (Cholame) rev</td><td>0.004064</td><td>0.981 (98.10%)</td><td>[96.99% 98.82%]</td><td>3.04E-4</td><td>0.133 (13.30%)</td><td>[11.29% 15.60%]</td><td>1.46E-4</td><td>0.0040264158</td></tr>
+<tr><td>San Andreas (North Coast) 2011 CFM</td><td>0.00363</td><td>0.984 (98.40%)</td><td>[97.36% 99.05%]</td><td>2.34E-4</td><td>0.103 (10.30%)</td><td>[8.52% 12.39%]</td><td>1.16E-4</td><td>0.0045710644</td></tr>
+<tr><td>San Andreas (San Bernardino N)</td><td>0.00353</td><td>0.937 (93.70%)</td><td>[91.97% 95.09%]</td><td>2.3E-4</td><td>0.102 (10.20%)</td><td>[8.43% 12.28%]</td><td>1.04E-4</td><td>0.0037959707</td></tr>
+<tr><td>San Andreas (Creeping Section) 2011 CFM</td><td>0.003456</td><td>0.885 (88.50%)</td><td>[86.32% 90.38%]</td><td>1.92E-4</td><td>0.088 (8.80%)</td><td>[7.15% 10.77%]</td><td>8.0E-5</td><td>0.0038110747</td></tr>
+<tr><td>San Andreas (Parkfield)</td><td>0.003088</td><td>0.888 (88.80%)</td><td>[86.64% 90.65%]</td><td>2.24E-4</td><td>0.100 (10.00%)</td><td>[8.25% 12.07%]</td><td>1.04E-4</td><td>0.0032088608</td></tr>
+<tr><td>San Andreas (Peninsula) 2011 CFM</td><td>0.00304</td><td>0.927 (92.70%)</td><td>[90.86% 94.20%]</td><td>1.84E-4</td><td>0.084 (8.40%)</td><td>[6.79% 10.34%]</td><td>8.6E-5</td><td>0.0035515025</td></tr>
+</tbody>
+</table>
+<h3 id="m8-parent-sections-table">M&ge;8 Parent Sections Table</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><em>First 10 of 61 with matching ruptures shown</em></p>
+<table>
+<thead>
+<tr><th>Parent Name</th><th>Total Mean Annual Rate</th><th>Total 500 Year Prob</th><th>Total 500 Year 95% Conf</th><th>Triggered Mean Annual Rate</th><th>Triggered 500 Year Prob</th><th>Triggered 500 Year 95% Conf</th><th>Triggered Primary Mean Annual Rate</th><th>Long-Term Fault System Solution Rate</th></tr>
+</thead>
+<tbody>
+<tr><td>San Andreas (Mojave N)</td><td>0.0015</td><td>0.588 (58.80%)</td><td>[55.67% 61.86%]</td><td>1.0E-4</td><td>0.048 (4.80%)</td><td>[3.60% 6.36%]</td><td>4.8E-5</td><td>0.0018098651</td></tr>
+<tr><td>San Andreas (Carrizo) rev</td><td>0.001476</td><td>0.579 (57.90%)</td><td>[54.77% 60.97%]</td><td>9.8E-5</td><td>0.047 (4.70%)</td><td>[3.51% 6.25%]</td><td>4.6E-5</td><td>0.0017508415</td></tr>
+<tr><td>San Andreas (Big Bend)</td><td>0.001474</td><td>0.579 (57.90%)</td><td>[54.77% 60.97%]</td><td>9.8E-5</td><td>0.047 (4.70%)</td><td>[3.51% 6.25%]</td><td>4.6E-5</td><td>0.0017453934</td></tr>
+<tr><td>San Andreas (Mojave S)</td><td>0.001448</td><td>0.575 (57.50%)</td><td>[54.36% 60.58%]</td><td>9.4E-5</td><td>0.046 (4.60%)</td><td>[3.42% 6.14%]</td><td>4.6E-5</td><td>0.0017636013</td></tr>
+<tr><td>San Andreas (Cholame) rev</td><td>0.001432</td><td>0.567 (56.70%)</td><td>[53.56% 59.79%]</td><td>9.6E-5</td><td>0.046 (4.60%)</td><td>[3.42% 6.14%]</td><td>4.4E-5</td><td>0.0017193216</td></tr>
+<tr><td>San Andreas (San Bernardino N)</td><td>0.001378</td><td>0.556 (55.60%)</td><td>[52.45% 58.70%]</td><td>9.2E-5</td><td>0.045 (4.50%)</td><td>[3.34% 6.02%]</td><td>4.6E-5</td><td>0.0016807786</td></tr>
+<tr><td>San Andreas (Parkfield)</td><td>0.001242</td><td>0.504 (50.40%)</td><td>[47.26% 53.54%]</td><td>7.4E-5</td><td>0.036 (3.60%)</td><td>[2.57% 5.00%]</td><td>3.4E-5</td><td>0.0015122787</td></tr>
+<tr><td>San Andreas (Creeping Section) 2011 CFM</td><td>0.001124</td><td>0.459 (45.90%)</td><td>[42.78% 49.05%]</td><td>6.6E-5</td><td>0.032 (3.20%)</td><td>[2.23% 4.54%]</td><td>3.2E-5</td><td>0.0014250289</td></tr>
+<tr><td>San Andreas (Santa Cruz Mts) 2011 CFM</td><td>7.98E-4</td><td>0.349 (34.90%)</td><td>[31.96% 37.96%]</td><td>5.2E-5</td><td>0.025 (2.50%)</td><td>[1.66% 3.72%]</td><td>2.4E-5</td><td>0.0010319632</td></tr>
+<tr><td>San Andreas (Peninsula) 2011 CFM</td><td>7.26E-4</td><td>0.323 (32.30%)</td><td>[29.43% 35.31%]</td><td>5.0E-5</td><td>0.024 (2.40%)</td><td>[1.58% 3.61%]</td><td>2.2E-5</td><td>9.2652056E-4</td></tr>
+</tbody>
+</table>
+<h2 id="gridded-nucleation">Gridded Nucleation</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>Min Mag</th><th>Complete Catalog (including spontaneous)</th><th>Ratio WRT Long-Term Model</th><th>Triggered Ruptures (no spontaneous)</th><th>Triggered Ruptures (primary aftershocks only)</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M&ge;5</strong></td><td><img src="plots/gridded_nucleation_m5.0.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_m5.0_ratio.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_m5.0.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_primary_m5.0.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M&ge;6</strong></td><td><img src="plots/gridded_nucleation_m6.0.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_m6.0_ratio.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_m6.0.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_primary_m6.0.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M&ge;7</strong></td><td><img src="plots/gridded_nucleation_m7.0.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_m7.0_ratio.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_m7.0.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_primary_m7.0.png" alt="Nucleation Plot" /></td></tr>
+</tbody>
+</table>
 <h2 id="json-input-file">JSON Input File</h2>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <pre><code>{

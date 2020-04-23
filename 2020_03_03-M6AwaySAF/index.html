@@ -56,6 +56,17 @@ img {
 <li><a href="#trigger-rupture-fault-map">Trigger Rupture Fault Map</a></li>
 <li><a href="#fault-distances-to-triggers">Fault Distances To Triggers</a></li>
 <li><a href="#individual-simulated-catalog-maps">Individual Simulated Catalog Maps</a></li>
+<li><a href="#section-participation">Section Participation</a>
+<ul>
+<li><a href="#section-participation-plots">Section Participation Plots</a></li>
+<li><a href="#supra-seismogenic-parent-sections-table">Supra-Seismogenic Parent Sections Table</a></li>
+<li><a href="#m65-parent-sections-table">M&ge;6.5 Parent Sections Table</a></li>
+<li><a href="#m7-parent-sections-table">M&ge;7 Parent Sections Table</a></li>
+<li><a href="#m75-parent-sections-table">M&ge;7.5 Parent Sections Table</a></li>
+</ul>
+</li>
+<li><a href="#fault-magnitude-probability-distributions">Fault Magnitude-Probability Distributions</a></li>
+<li><a href="#gridded-nucleation">Gridded Nucleation</a></li>
 <li><a href="#json-input-file">JSON Input File</a></li>
 </ul>
 <h2 id="probabilities-summary-table">Probabilities Summary Table</h2>
@@ -601,6 +612,129 @@ img {
 <tr><td><strong>1 Week</strong></td><td><img src="plots/sim_catalog_map_p0.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_1wk.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.996_1wk.png" alt="Map" /></td></tr>
 <tr><td><strong>1 Month</strong></td><td><img src="plots/sim_catalog_map_p0.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_1mo.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.996_1mo.png" alt="Map" /></td></tr>
 <tr><td><strong>1 Year</strong></td><td><img src="plots/sim_catalog_map_p0.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p25.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p50.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p75.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p90.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p95.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p97.5_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p98.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.0_1yr.png" alt="Map" /></td><td><img src="plots/sim_catalog_map_p99.996_1yr.png" alt="Map" /></td></tr>
+</tbody>
+</table>
+<h2 id="section-participation">Section Participation</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<h3 id="section-participation-plots">Section Participation Plots</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>Min Mag</th><th>1 yr Triggered Ruptures (no spontaneous)</th><th>1 yr Triggered Ruptures (primary aftershocks only)</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>All Supra. Seis.</strong></td><td><img src="plots/fault_participation_partic_triggered.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_triggered_primary.png" alt="Participation Plot" /></td></tr>
+<tr><td><strong>M&ge;6.5</strong></td><td><img src="plots/fault_participation_partic_m6.5_triggered.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m6.5_triggered_primary.png" alt="Participation Plot" /></td></tr>
+<tr><td><strong>M&ge;7</strong></td><td><img src="plots/fault_participation_partic_m7.0_triggered.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m7.0_triggered_primary.png" alt="Participation Plot" /></td></tr>
+<tr><td><strong>M&ge;7.5</strong></td><td><img src="plots/fault_participation_partic_m7.5_triggered.png" alt="Participation Plot" /></td><td><img src="plots/fault_participation_partic_m7.5_triggered_primary.png" alt="Participation Plot" /></td></tr>
+</tbody>
+</table>
+<h3 id="supra-seismogenic-parent-sections-table">Supra-Seismogenic Parent Sections Table</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><em>First 10 of 52 with matching ruptures shown</em></p>
+<table>
+<thead>
+<tr><th>Parent Name</th><th>Triggered 1 Year Mean Count</th><th>Triggered 1 Day Prob</th><th>Triggered 1 Day 95% Conf</th><th>Triggered 1 Week Prob</th><th>Triggered 1 Week 95% Conf</th><th>Triggered 1 Month Prob</th><th>Triggered 1 Month 95% Conf</th><th>Triggered 1 Year Prob</th><th>Triggered 1 Year 95% Conf</th><th>Triggered 1 Year Primary Mean Count</th></tr>
+</thead>
+<tbody>
+<tr><td>San Andreas (Mojave S)</td><td>0.00512</td><td>1.80E-3 (0.18%)</td><td>[0.13% 0.24%]</td><td>2.48E-3 (0.25%)</td><td>[0.19% 0.32%]</td><td>2.76E-3 (0.28%)</td><td>[0.22% 0.35%]</td><td>4.32E-3 (0.43%)</td><td>[0.36% 0.52%]</td><td>0.00144</td></tr>
+<tr><td>San Andreas (San Bernardino N)</td><td>0.0014</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>6.00E-4 (0.06%)</td><td>[0.03% 0.10%]</td><td>7.60E-4 (0.08%)</td><td>[0.05% 0.12%]</td><td>1.28E-3 (0.13%)</td><td>[0.09% 0.18%]</td><td>3.2E-4</td></tr>
+<tr><td>Lenwood-Lockhart-Old Woman Springs</td><td>5.2E-4</td><td>2.00E-4 (0.02%)</td><td>[0.01% 0.05%]</td><td>2.40E-4 (0.02%)</td><td>[0.01% 0.06%]</td><td>2.80E-4 (0.03%)</td><td>[0.01% 0.06%]</td><td>4.40E-4 (0.04%)</td><td>[0.02% 0.08%]</td><td>1.2E-4</td></tr>
+<tr><td>San Andreas (San Bernardino S)</td><td>5.2E-4</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>2.40E-4 (0.02%)</td><td>[0.01% 0.06%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>5.20E-4 (0.05%)</td><td>[0.03% 0.09%]</td><td>1.2E-4</td></tr>
+<tr><td>Helendale-So Lockhart</td><td>4.8E-4</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>2.00E-4 (0.02%)</td><td>[0.01% 0.05%]</td><td>2.80E-4 (0.03%)</td><td>[0.01% 0.06%]</td><td>4.80E-4 (0.05%)</td><td>[0.03% 0.09%]</td><td>1.2E-4</td></tr>
+<tr><td>San Andreas (Mojave N)</td><td>4.0E-4</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>4.00E-4 (0.04%)</td><td>[0.02% 0.08%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Big Bend)</td><td>3.2E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Carrizo) rev</td><td>3.2E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Cholame) rev</td><td>3.2E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Parkfield)</td><td>3.2E-4</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>1.2E-4</td></tr>
+</tbody>
+</table>
+<h3 id="m65-parent-sections-table">M&ge;6.5 Parent Sections Table</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><em>First 10 of 42 with matching ruptures shown</em></p>
+<table>
+<thead>
+<tr><th>Parent Name</th><th>Triggered 1 Year Mean Count</th><th>Triggered 1 Day Prob</th><th>Triggered 1 Day 95% Conf</th><th>Triggered 1 Week Prob</th><th>Triggered 1 Week 95% Conf</th><th>Triggered 1 Month Prob</th><th>Triggered 1 Month 95% Conf</th><th>Triggered 1 Year Prob</th><th>Triggered 1 Year 95% Conf</th><th>Triggered 1 Year Primary Mean Count</th></tr>
+</thead>
+<tbody>
+<tr><td>San Andreas (Mojave S)</td><td>0.00152</td><td>4.40E-4 (0.04%)</td><td>[0.02% 0.08%]</td><td>6.80E-4 (0.07%)</td><td>[0.04% 0.11%]</td><td>8.00E-4 (0.08%)</td><td>[0.05% 0.13%]</td><td>1.52E-3 (0.15%)</td><td>[0.11% 0.21%]</td><td>3.6E-4</td></tr>
+<tr><td>San Andreas (San Bernardino N)</td><td>0.00136</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>6.00E-4 (0.06%)</td><td>[0.03% 0.10%]</td><td>7.20E-4 (0.07%)</td><td>[0.04% 0.12%]</td><td>1.24E-3 (0.12%)</td><td>[0.09% 0.18%]</td><td>3.2E-4</td></tr>
+<tr><td>San Andreas (San Bernardino S)</td><td>5.2E-4</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>2.40E-4 (0.02%)</td><td>[0.01% 0.06%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>5.20E-4 (0.05%)</td><td>[0.03% 0.09%]</td><td>1.2E-4</td></tr>
+<tr><td>San Andreas (Mojave N)</td><td>4.0E-4</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>4.00E-4 (0.04%)</td><td>[0.02% 0.08%]</td><td>8.0E-5</td></tr>
+<tr><td>Lenwood-Lockhart-Old Woman Springs</td><td>3.6E-4</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>2.00E-4 (0.02%)</td><td>[0.01% 0.05%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>1.2E-4</td></tr>
+<tr><td>San Andreas (Big Bend)</td><td>3.2E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Carrizo) rev</td><td>3.2E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Cholame) rev</td><td>3.2E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Parkfield)</td><td>2.8E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>2.80E-4 (0.03%)</td><td>[0.01% 0.06%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (San Gorgonio Pass-Garnet HIll)</td><td>2.8E-4</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>2.00E-4 (0.02%)</td><td>[0.01% 0.05%]</td><td>2.40E-4 (0.02%)</td><td>[0.01% 0.06%]</td><td>2.80E-4 (0.03%)</td><td>[0.01% 0.06%]</td><td>1.2E-4</td></tr>
+</tbody>
+</table>
+<h3 id="m7-parent-sections-table">M&ge;7 Parent Sections Table</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><em>First 10 of 32 with matching ruptures shown</em></p>
+<table>
+<thead>
+<tr><th>Parent Name</th><th>Triggered 1 Year Mean Count</th><th>Triggered 1 Day Prob</th><th>Triggered 1 Day 95% Conf</th><th>Triggered 1 Week Prob</th><th>Triggered 1 Week 95% Conf</th><th>Triggered 1 Month Prob</th><th>Triggered 1 Month 95% Conf</th><th>Triggered 1 Year Prob</th><th>Triggered 1 Year 95% Conf</th><th>Triggered 1 Year Primary Mean Count</th></tr>
+</thead>
+<tbody>
+<tr><td>San Andreas (Mojave S)</td><td>0.00112</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>5.20E-4 (0.05%)</td><td>[0.03% 0.09%]</td><td>6.40E-4 (0.06%)</td><td>[0.04% 0.11%]</td><td>1.12E-3 (0.11%)</td><td>[0.08% 0.16%]</td><td>2.4E-4</td></tr>
+<tr><td>San Andreas (San Bernardino N)</td><td>9.2E-4</td><td>2.80E-4 (0.03%)</td><td>[0.01% 0.06%]</td><td>4.80E-4 (0.05%)</td><td>[0.03% 0.09%]</td><td>6.00E-4 (0.06%)</td><td>[0.03% 0.10%]</td><td>9.20E-4 (0.09%)</td><td>[0.06% 0.14%]</td><td>2.4E-4</td></tr>
+<tr><td>San Andreas (Mojave N)</td><td>4.0E-4</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>4.00E-4 (0.04%)</td><td>[0.02% 0.08%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (San Bernardino S)</td><td>3.6E-4</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>2.40E-4 (0.02%)</td><td>[0.01% 0.06%]</td><td>2.80E-4 (0.03%)</td><td>[0.01% 0.06%]</td><td>3.60E-4 (0.04%)</td><td>[0.02% 0.07%]</td><td>1.2E-4</td></tr>
+<tr><td>San Andreas (Big Bend)</td><td>3.2E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Carrizo) rev</td><td>3.2E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Cholame) rev</td><td>3.2E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Parkfield)</td><td>2.8E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>2.80E-4 (0.03%)</td><td>[0.01% 0.06%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (San Gorgonio Pass-Garnet HIll)</td><td>2.8E-4</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>2.00E-4 (0.02%)</td><td>[0.01% 0.05%]</td><td>2.40E-4 (0.02%)</td><td>[0.01% 0.06%]</td><td>2.80E-4 (0.03%)</td><td>[0.01% 0.06%]</td><td>1.2E-4</td></tr>
+<tr><td>San Andreas (Coachella) rev</td><td>2.0E-4</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>2.00E-4 (0.02%)</td><td>[0.01% 0.05%]</td><td>8.0E-5</td></tr>
+</tbody>
+</table>
+<h3 id="m75-parent-sections-table">M&ge;7.5 Parent Sections Table</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p><em>First 10 of 27 with matching ruptures shown</em></p>
+<table>
+<thead>
+<tr><th>Parent Name</th><th>Triggered 1 Year Mean Count</th><th>Triggered 1 Day Prob</th><th>Triggered 1 Day 95% Conf</th><th>Triggered 1 Week Prob</th><th>Triggered 1 Week 95% Conf</th><th>Triggered 1 Month Prob</th><th>Triggered 1 Month 95% Conf</th><th>Triggered 1 Year Prob</th><th>Triggered 1 Year 95% Conf</th><th>Triggered 1 Year Primary Mean Count</th></tr>
+</thead>
+<tbody>
+<tr><td>San Andreas (Mojave S)</td><td>6.8E-4</td><td>2.00E-4 (0.02%)</td><td>[0.01% 0.05%]</td><td>2.80E-4 (0.03%)</td><td>[0.01% 0.06%]</td><td>4.00E-4 (0.04%)</td><td>[0.02% 0.08%]</td><td>6.80E-4 (0.07%)</td><td>[0.04% 0.11%]</td><td>2.0E-4</td></tr>
+<tr><td>San Andreas (San Bernardino N)</td><td>6.4E-4</td><td>2.00E-4 (0.02%)</td><td>[0.01% 0.05%]</td><td>2.80E-4 (0.03%)</td><td>[0.01% 0.06%]</td><td>4.00E-4 (0.04%)</td><td>[0.02% 0.08%]</td><td>6.40E-4 (0.06%)</td><td>[0.04% 0.11%]</td><td>2.0E-4</td></tr>
+<tr><td>San Andreas (Mojave N)</td><td>3.6E-4</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>3.60E-4 (0.04%)</td><td>[0.02% 0.07%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Big Bend)</td><td>3.2E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Carrizo) rev</td><td>3.2E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Cholame) rev</td><td>3.2E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>3.20E-4 (0.03%)</td><td>[0.01% 0.07%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (Parkfield)</td><td>2.8E-4</td><td>4.00E-5 (0.00%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>2.80E-4 (0.03%)</td><td>[0.01% 0.06%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (San Gorgonio Pass-Garnet HIll)</td><td>2.4E-4</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>2.00E-4 (0.02%)</td><td>[0.01% 0.05%]</td><td>2.40E-4 (0.02%)</td><td>[0.01% 0.06%]</td><td>1.2E-4</td></tr>
+<tr><td>San Andreas (Coachella) rev</td><td>2.0E-4</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>1.60E-4 (0.02%)</td><td>[0.01% 0.04%]</td><td>2.00E-4 (0.02%)</td><td>[0.01% 0.05%]</td><td>8.0E-5</td></tr>
+<tr><td>San Andreas (San Bernardino S)</td><td>2.0E-4</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>8.00E-5 (0.01%)</td><td>[0.00% 0.03%]</td><td>1.20E-4 (0.01%)</td><td>[0.00% 0.04%]</td><td>2.00E-4 (0.02%)</td><td>[0.01% 0.05%]</td><td>8.0E-5</td></tr>
+</tbody>
+</table>
+<h2 id="fault-magnitude-probability-distributions">Fault Magnitude-Probability Distributions</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>The first 5 sections (sorted by trigger rate) are plotted below. All fault MPDs are available <a href="plots/parent_sect_mpds/index.html">here</a></p>
+<table>
+<thead>
+<tr><th>1 Week</th><th>1 Month</th><th>1 Year</th></tr>
+</thead>
+<tbody>
+<tr><td><img src="plots/parent_sect_mpds/San_Andreas_Mojave_S_1wk.png" alt="MPD" /></td><td><img src="plots/parent_sect_mpds/San_Andreas_Mojave_S_1mo.png" alt="MPD" /></td><td><img src="plots/parent_sect_mpds/San_Andreas_Mojave_S_1yr.png" alt="MPD" /></td></tr>
+<tr><td><img src="plots/parent_sect_mpds/San_Andreas_San_Bernardino_N_1wk.png" alt="MPD" /></td><td><img src="plots/parent_sect_mpds/San_Andreas_San_Bernardino_N_1mo.png" alt="MPD" /></td><td><img src="plots/parent_sect_mpds/San_Andreas_San_Bernardino_N_1yr.png" alt="MPD" /></td></tr>
+<tr><td><img src="plots/parent_sect_mpds/San_Andreas_San_Bernardino_S_1wk.png" alt="MPD" /></td><td><img src="plots/parent_sect_mpds/San_Andreas_San_Bernardino_S_1mo.png" alt="MPD" /></td><td><img src="plots/parent_sect_mpds/San_Andreas_San_Bernardino_S_1yr.png" alt="MPD" /></td></tr>
+<tr><td><img src="plots/parent_sect_mpds/Lenwood_Lockhart_Old_Woman_Springs_1wk.png" alt="MPD" /></td><td><img src="plots/parent_sect_mpds/Lenwood_Lockhart_Old_Woman_Springs_1mo.png" alt="MPD" /></td><td><img src="plots/parent_sect_mpds/Lenwood_Lockhart_Old_Woman_Springs_1yr.png" alt="MPD" /></td></tr>
+<tr><td><img src="plots/parent_sect_mpds/Helendale_So_Lockhart_1wk.png" alt="MPD" /></td><td><img src="plots/parent_sect_mpds/Helendale_So_Lockhart_1mo.png" alt="MPD" /></td><td><img src="plots/parent_sect_mpds/Helendale_So_Lockhart_1yr.png" alt="MPD" /></td></tr>
+</tbody>
+</table>
+<h2 id="gridded-nucleation">Gridded Nucleation</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<table>
+<thead>
+<tr><th>Min Mag</th><th>Triggered Ruptures (no spontaneous)</th><th>Triggered Ruptures (primary aftershocks only)</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M&ge;2.5</strong></td><td><img src="plots/gridded_nucleation_triggered_m2.5.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_primary_m2.5.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M&ge;5</strong></td><td><img src="plots/gridded_nucleation_triggered_m5.0.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_primary_m5.0.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M&ge;6</strong></td><td><img src="plots/gridded_nucleation_triggered_m6.0.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_primary_m6.0.png" alt="Nucleation Plot" /></td></tr>
+<tr><td><strong>M&ge;7</strong></td><td><img src="plots/gridded_nucleation_triggered_m7.0.png" alt="Nucleation Plot" /></td><td><img src="plots/gridded_nucleation_triggered_primary_m7.0.png" alt="Nucleation Plot" /></td></tr>
 </tbody>
 </table>
 <h2 id="json-input-file">JSON Input File</h2>
