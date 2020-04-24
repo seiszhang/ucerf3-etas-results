@@ -44,7 +44,7 @@
   * [M≥7 Parent Sections Table](#m7-parent-sections-table)
   * [M≥7.5 Parent Sections Table](#m75-parent-sections-table)
   * [M≥8 Parent Sections Table](#m8-parent-sections-table)
-  * [Fault Magnitude-Probability Distributions](#fault-magnitude-probability-distributions)
+* [Fault Magnitude-Probability Distributions](#fault-magnitude-probability-distributions)
 * [Gridded Nucleation](#gridded-nucleation)
 * [JSON Input File](#json-input-file)
 
@@ -800,92 +800,92 @@ The following plots compare simulation results with ComCat data above a magnitud
 
 *First 10 of 101 with matching ruptures shown*
 
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| Garlock (Central) | 0.00778 | 0.00178 | 0.00279 | 0.00357 | 0.00541 | 0.00764 | 0.00219 |
-| Little Lake | 0.00634 | 0.00191 | 0.0027 | 0.0034 | 0.00486 | 0.00626 | 0.00265 |
-| Airport Lake | 0.00466 | 0.00139 | 0.00215 | 0.00264 | 0.00376 | 0.00464 | 0.00206 |
-| Panamint Valley | 0.00204 | 4.4E-4 | 7.8E-4 | 9.9E-4 | 0.0014 | 0.00202 | 5.6E-4 |
-| Tank Canyon | 0.00151 | 2.5E-4 | 4.6E-4 | 6.7E-4 | 0.00114 | 0.0015 | 4.0E-4 |
-| Owl Lake | 0.0013 | 3.0E-4 | 4.4E-4 | 6.7E-4 | 9.7E-4 | 0.0013 | 3.5E-4 |
-| Garlock (East) | 0.00116 | 2.6E-4 | 3.6E-4 | 4.5E-4 | 7.9E-4 | 0.00113 | 3.5E-4 |
-| Hunter Mountain-Saline Valley | 0.00105 | 2.0E-4 | 4.2E-4 | 5.4E-4 | 7.5E-4 | 0.00104 | 2.9E-4 |
-| Garlock (West) | 6.9E-4 | 1.7E-4 | 2.0E-4 | 2.8E-4 | 4.1E-4 | 6.9E-4 | 2.4E-4 |
-| Ash Hill | 3.9E-4 | 5.0E-5 | 1.0E-4 | 1.8E-4 | 2.6E-4 | 3.9E-4 | 8.0E-5 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Garlock (Central) | 0.00778 | 1.78E-3 (0.18%) | [0.15% 0.21%] | 2.79E-3 (0.28%) | [0.25% 0.31%] | 3.57E-3 (0.36%) | [0.32% 0.40%] | 5.41E-3 (0.54%) | [0.50% 0.59%] | 7.64E-3 (0.76%) | [0.71% 0.82%] | 0.00219 |
+| Little Lake | 0.00634 | 1.91E-3 (0.19%) | [0.17% 0.22%] | 2.70E-3 (0.27%) | [0.24% 0.30%] | 3.40E-3 (0.34%) | [0.31% 0.38%] | 4.86E-3 (0.49%) | [0.44% 0.53%] | 6.26E-3 (0.63%) | [0.58% 0.68%] | 0.00265 |
+| Airport Lake | 0.00466 | 1.39E-3 (0.14%) | [0.12% 0.16%] | 2.15E-3 (0.21%) | [0.19% 0.25%] | 2.64E-3 (0.26%) | [0.23% 0.30%] | 3.76E-3 (0.38%) | [0.34% 0.42%] | 4.64E-3 (0.46%) | [0.42% 0.51%] | 0.00206 |
+| Panamint Valley | 0.00204 | 4.40E-4 (0.04%) | [0.03% 0.06%] | 7.80E-4 (0.08%) | [0.06% 0.10%] | 9.90E-4 (0.10%) | [0.08% 0.12%] | 1.40E-3 (0.14%) | [0.12% 0.17%] | 2.02E-3 (0.20%) | [0.18% 0.23%] | 5.6E-4 |
+| Tank Canyon | 0.00151 | 2.50E-4 (0.03%) | [0.02% 0.04%] | 4.60E-4 (0.05%) | [0.03% 0.06%] | 6.70E-4 (0.07%) | [0.05% 0.09%] | 1.14E-3 (0.11%) | [0.09% 0.14%] | 1.50E-3 (0.15%) | [0.13% 0.18%] | 4.0E-4 |
+| Owl Lake | 0.0013 | 3.00E-4 (0.03%) | [0.02% 0.04%] | 4.40E-4 (0.04%) | [0.03% 0.06%] | 6.70E-4 (0.07%) | [0.05% 0.09%] | 9.70E-4 (0.10%) | [0.08% 0.12%] | 1.30E-3 (0.13%) | [0.11% 0.15%] | 3.5E-4 |
+| Garlock (East) | 0.00116 | 2.60E-4 (0.03%) | [0.02% 0.04%] | 3.60E-4 (0.04%) | [0.03% 0.05%] | 4.50E-4 (0.04%) | [0.03% 0.06%] | 7.90E-4 (0.08%) | [0.06% 0.10%] | 1.13E-3 (0.11%) | [0.09% 0.14%] | 3.5E-4 |
+| Hunter Mountain-Saline Valley | 0.00105 | 2.00E-4 (0.02%) | [0.01% 0.03%] | 4.20E-4 (0.04%) | [0.03% 0.06%] | 5.40E-4 (0.05%) | [0.04% 0.07%] | 7.50E-4 (0.07%) | [0.06% 0.09%] | 1.04E-3 (0.10%) | [0.09% 0.13%] | 2.9E-4 |
+| Garlock (West) | 6.9E-4 | 1.70E-4 (0.02%) | [0.01% 0.03%] | 2.00E-4 (0.02%) | [0.01% 0.03%] | 2.80E-4 (0.03%) | [0.02% 0.04%] | 4.10E-4 (0.04%) | [0.03% 0.06%] | 6.90E-4 (0.07%) | [0.05% 0.09%] | 2.4E-4 |
+| Ash Hill | 3.9E-4 | 5.00E-5 (0.01%) | [0.00% 0.01%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 2.60E-4 (0.03%) | [0.02% 0.04%] | 3.90E-4 (0.04%) | [0.03% 0.05%] | 8.0E-5 |
 
 ### M≥6.5 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 80 with matching ruptures shown*
 
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| Garlock (Central) | 0.00377 | 9.6E-4 | 0.00142 | 0.00187 | 0.00267 | 0.00373 | 0.00118 |
-| Airport Lake | 0.00366 | 0.00112 | 0.00171 | 0.00203 | 0.00296 | 0.00366 | 0.00162 |
-| Little Lake | 0.00361 | 0.00108 | 0.00155 | 0.00189 | 0.00276 | 0.0036 | 0.00149 |
-| Panamint Valley | 0.00187 | 4.2E-4 | 7.5E-4 | 9.5E-4 | 0.00129 | 0.00185 | 5.4E-4 |
-| Owl Lake | 0.00118 | 2.8E-4 | 4.1E-4 | 6.3E-4 | 9.0E-4 | 0.00118 | 3.3E-4 |
-| Hunter Mountain-Saline Valley | 0.00105 | 2.0E-4 | 4.2E-4 | 5.4E-4 | 7.5E-4 | 0.00104 | 2.9E-4 |
-| Garlock (East) | 0.00104 | 2.3E-4 | 3.2E-4 | 4.1E-4 | 7.2E-4 | 0.00104 | 3.5E-4 |
-| Garlock (West) | 6.6E-4 | 1.7E-4 | 2.0E-4 | 2.7E-4 | 4.0E-4 | 6.6E-4 | 2.3E-4 |
-| Tank Canyon | 3.3E-4 | 6.0E-5 | 9.0E-5 | 1.3E-4 | 2.3E-4 | 3.3E-4 | 9.0E-5 |
-| San Andreas (Mojave N) | 3.2E-4 | 1.0E-4 | 1.2E-4 | 1.6E-4 | 2.2E-4 | 3.1E-4 | 9.0E-5 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Garlock (Central) | 0.00377 | 9.60E-4 (0.10%) | [0.08% 0.12%] | 1.42E-3 (0.14%) | [0.12% 0.17%] | 1.87E-3 (0.19%) | [0.16% 0.22%] | 2.67E-3 (0.27%) | [0.24% 0.30%] | 3.73E-3 (0.37%) | [0.34% 0.41%] | 0.00118 |
+| Airport Lake | 0.00366 | 1.12E-3 (0.11%) | [0.09% 0.14%] | 1.71E-3 (0.17%) | [0.15% 0.20%] | 2.03E-3 (0.20%) | [0.18% 0.23%] | 2.96E-3 (0.30%) | [0.26% 0.33%] | 3.66E-3 (0.37%) | [0.33% 0.41%] | 0.00162 |
+| Little Lake | 0.00361 | 1.08E-3 (0.11%) | [0.09% 0.13%] | 1.55E-3 (0.15%) | [0.13% 0.18%] | 1.89E-3 (0.19%) | [0.16% 0.22%] | 2.76E-3 (0.28%) | [0.24% 0.31%] | 3.60E-3 (0.36%) | [0.32% 0.40%] | 0.00149 |
+| Panamint Valley | 0.00187 | 4.20E-4 (0.04%) | [0.03% 0.06%] | 7.50E-4 (0.07%) | [0.06% 0.09%] | 9.50E-4 (0.10%) | [0.08% 0.12%] | 1.29E-3 (0.13%) | [0.11% 0.15%] | 1.85E-3 (0.18%) | [0.16% 0.21%] | 5.4E-4 |
+| Owl Lake | 0.00118 | 2.80E-4 (0.03%) | [0.02% 0.04%] | 4.10E-4 (0.04%) | [0.03% 0.06%] | 6.30E-4 (0.06%) | [0.05% 0.08%] | 9.00E-4 (0.09%) | [0.07% 0.11%] | 1.18E-3 (0.12%) | [0.10% 0.14%] | 3.3E-4 |
+| Hunter Mountain-Saline Valley | 0.00105 | 2.00E-4 (0.02%) | [0.01% 0.03%] | 4.20E-4 (0.04%) | [0.03% 0.06%] | 5.40E-4 (0.05%) | [0.04% 0.07%] | 7.50E-4 (0.07%) | [0.06% 0.09%] | 1.04E-3 (0.10%) | [0.09% 0.13%] | 2.9E-4 |
+| Garlock (East) | 0.00104 | 2.30E-4 (0.02%) | [0.01% 0.04%] | 3.20E-4 (0.03%) | [0.02% 0.05%] | 4.10E-4 (0.04%) | [0.03% 0.06%] | 7.20E-4 (0.07%) | [0.06% 0.09%] | 1.04E-3 (0.10%) | [0.09% 0.13%] | 3.5E-4 |
+| Garlock (West) | 6.6E-4 | 1.70E-4 (0.02%) | [0.01% 0.03%] | 2.00E-4 (0.02%) | [0.01% 0.03%] | 2.70E-4 (0.03%) | [0.02% 0.04%] | 4.00E-4 (0.04%) | [0.03% 0.06%] | 6.60E-4 (0.07%) | [0.05% 0.08%] | 2.3E-4 |
+| Tank Canyon | 3.3E-4 | 6.00E-5 (0.01%) | [0.00% 0.01%] | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 2.30E-4 (0.02%) | [0.01% 0.04%] | 3.30E-4 (0.03%) | [0.02% 0.05%] | 9.0E-5 |
+| San Andreas (Mojave N) | 3.2E-4 | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 2.20E-4 (0.02%) | [0.01% 0.03%] | 3.10E-4 (0.03%) | [0.02% 0.04%] | 9.0E-5 |
 
 ### M≥7 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 58 with matching ruptures shown*
 
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| Garlock (Central) | 0.00339 | 8.3E-4 | 0.00126 | 0.00168 | 0.00241 | 0.00335 | 0.00108 |
-| Panamint Valley | 0.00139 | 3.1E-4 | 5.8E-4 | 7.0E-4 | 9.7E-4 | 0.00138 | 4.2E-4 |
-| Owl Lake | 0.00113 | 2.8E-4 | 4.1E-4 | 6.3E-4 | 8.7E-4 | 0.00113 | 3.2E-4 |
-| Hunter Mountain-Saline Valley | 9.9E-4 | 2.0E-4 | 4.2E-4 | 5.3E-4 | 7.1E-4 | 9.9E-4 | 2.9E-4 |
-| Garlock (East) | 9.3E-4 | 2.3E-4 | 3.1E-4 | 3.9E-4 | 6.6E-4 | 9.3E-4 | 3.5E-4 |
-| Little Lake | 9.1E-4 | 2.9E-4 | 4.4E-4 | 4.8E-4 | 7.6E-4 | 9.1E-4 | 4.0E-4 |
-| Airport Lake | 8.6E-4 | 2.8E-4 | 4.1E-4 | 4.5E-4 | 7.2E-4 | 8.6E-4 | 4.0E-4 |
-| Garlock (West) | 6.6E-4 | 1.7E-4 | 2.0E-4 | 2.7E-4 | 4.0E-4 | 6.6E-4 | 2.3E-4 |
-| San Andreas (Mojave N) | 3.2E-4 | 1.0E-4 | 1.2E-4 | 1.6E-4 | 2.2E-4 | 3.1E-4 | 9.0E-5 |
-| San Andreas (Mojave S) | 2.4E-4 | 7.0E-5 | 9.0E-5 | 1.2E-4 | 1.7E-4 | 2.4E-4 | 9.0E-5 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Garlock (Central) | 0.00339 | 8.30E-4 (0.08%) | [0.07% 0.10%] | 1.26E-3 (0.13%) | [0.11% 0.15%] | 1.68E-3 (0.17%) | [0.14% 0.20%] | 2.41E-3 (0.24%) | [0.21% 0.27%] | 3.35E-3 (0.34%) | [0.30% 0.37%] | 0.00108 |
+| Panamint Valley | 0.00139 | 3.10E-4 (0.03%) | [0.02% 0.04%] | 5.80E-4 (0.06%) | [0.04% 0.08%] | 7.00E-4 (0.07%) | [0.05% 0.09%] | 9.70E-4 (0.10%) | [0.08% 0.12%] | 1.38E-3 (0.14%) | [0.12% 0.16%] | 4.2E-4 |
+| Owl Lake | 0.00113 | 2.80E-4 (0.03%) | [0.02% 0.04%] | 4.10E-4 (0.04%) | [0.03% 0.06%] | 6.30E-4 (0.06%) | [0.05% 0.08%] | 8.70E-4 (0.09%) | [0.07% 0.11%] | 1.13E-3 (0.11%) | [0.09% 0.14%] | 3.2E-4 |
+| Hunter Mountain-Saline Valley | 9.9E-4 | 2.00E-4 (0.02%) | [0.01% 0.03%] | 4.20E-4 (0.04%) | [0.03% 0.06%] | 5.30E-4 (0.05%) | [0.04% 0.07%] | 7.10E-4 (0.07%) | [0.06% 0.09%] | 9.90E-4 (0.10%) | [0.08% 0.12%] | 2.9E-4 |
+| Garlock (East) | 9.3E-4 | 2.30E-4 (0.02%) | [0.01% 0.04%] | 3.10E-4 (0.03%) | [0.02% 0.04%] | 3.90E-4 (0.04%) | [0.03% 0.05%] | 6.60E-4 (0.07%) | [0.05% 0.08%] | 9.30E-4 (0.09%) | [0.08% 0.11%] | 3.5E-4 |
+| Little Lake | 9.1E-4 | 2.90E-4 (0.03%) | [0.02% 0.04%] | 4.40E-4 (0.04%) | [0.03% 0.06%] | 4.80E-4 (0.05%) | [0.04% 0.06%] | 7.60E-4 (0.08%) | [0.06% 0.10%] | 9.10E-4 (0.09%) | [0.07% 0.11%] | 4.0E-4 |
+| Airport Lake | 8.6E-4 | 2.80E-4 (0.03%) | [0.02% 0.04%] | 4.10E-4 (0.04%) | [0.03% 0.06%] | 4.50E-4 (0.04%) | [0.03% 0.06%] | 7.20E-4 (0.07%) | [0.06% 0.09%] | 8.60E-4 (0.09%) | [0.07% 0.11%] | 4.0E-4 |
+| Garlock (West) | 6.6E-4 | 1.70E-4 (0.02%) | [0.01% 0.03%] | 2.00E-4 (0.02%) | [0.01% 0.03%] | 2.70E-4 (0.03%) | [0.02% 0.04%] | 4.00E-4 (0.04%) | [0.03% 0.06%] | 6.60E-4 (0.07%) | [0.05% 0.08%] | 2.3E-4 |
+| San Andreas (Mojave N) | 3.2E-4 | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 2.20E-4 (0.02%) | [0.01% 0.03%] | 3.10E-4 (0.03%) | [0.02% 0.04%] | 9.0E-5 |
+| San Andreas (Mojave S) | 2.4E-4 | 7.00E-5 (0.01%) | [0.00% 0.02%] | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.70E-4 (0.02%) | [0.01% 0.03%] | 2.40E-4 (0.02%) | [0.02% 0.04%] | 9.0E-5 |
 
 ### M≥7.5 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 37 with matching ruptures shown*
 
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| Garlock (Central) | 0.00148 | 3.3E-4 | 5.5E-4 | 7.0E-4 | 9.6E-4 | 0.00147 | 4.7E-4 |
-| Hunter Mountain-Saline Valley | 9.6E-4 | 2.0E-4 | 4.2E-4 | 5.2E-4 | 6.9E-4 | 9.6E-4 | 2.9E-4 |
-| Panamint Valley | 9.6E-4 | 2.0E-4 | 4.2E-4 | 5.2E-4 | 6.9E-4 | 9.6E-4 | 2.9E-4 |
-| Garlock (West) | 6.0E-4 | 1.5E-4 | 1.8E-4 | 2.3E-4 | 3.5E-4 | 6.0E-4 | 2.1E-4 |
-| Garlock (East) | 3.7E-4 | 9.0E-5 | 1.2E-4 | 1.5E-4 | 2.4E-4 | 3.7E-4 | 1.5E-4 |
-| San Andreas (Mojave N) | 3.2E-4 | 1.0E-4 | 1.2E-4 | 1.6E-4 | 2.2E-4 | 3.1E-4 | 9.0E-5 |
-| San Andreas (Mojave S) | 2.4E-4 | 7.0E-5 | 9.0E-5 | 1.2E-4 | 1.7E-4 | 2.4E-4 | 9.0E-5 |
-| San Andreas (San Bernardino N) | 1.4E-4 | 3.0E-5 | 4.0E-5 | 5.0E-5 | 9.0E-5 | 1.4E-4 | 5.0E-5 |
-| Owl Lake | 1.3E-4 | 4.0E-5 | 4.0E-5 | 5.0E-5 | 7.0E-5 | 1.3E-4 | 3.0E-5 |
-| Death Valley (Black Mtns Frontal) | 7.0E-5 | 4.0E-5 | 5.0E-5 | 6.0E-5 | 6.0E-5 | 7.0E-5 | 4.0E-5 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Garlock (Central) | 0.00148 | 3.30E-4 (0.03%) | [0.02% 0.05%] | 5.50E-4 (0.06%) | [0.04% 0.07%] | 7.00E-4 (0.07%) | [0.05% 0.09%] | 9.60E-4 (0.10%) | [0.08% 0.12%] | 1.47E-3 (0.15%) | [0.12% 0.17%] | 4.7E-4 |
+| Hunter Mountain-Saline Valley | 9.6E-4 | 2.00E-4 (0.02%) | [0.01% 0.03%] | 4.20E-4 (0.04%) | [0.03% 0.06%] | 5.20E-4 (0.05%) | [0.04% 0.07%] | 6.90E-4 (0.07%) | [0.05% 0.09%] | 9.60E-4 (0.10%) | [0.08% 0.12%] | 2.9E-4 |
+| Panamint Valley | 9.6E-4 | 2.00E-4 (0.02%) | [0.01% 0.03%] | 4.20E-4 (0.04%) | [0.03% 0.06%] | 5.20E-4 (0.05%) | [0.04% 0.07%] | 6.90E-4 (0.07%) | [0.05% 0.09%] | 9.60E-4 (0.10%) | [0.08% 0.12%] | 2.9E-4 |
+| Garlock (West) | 6.0E-4 | 1.50E-4 (0.01%) | [0.01% 0.03%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 2.30E-4 (0.02%) | [0.01% 0.04%] | 3.50E-4 (0.03%) | [0.02% 0.05%] | 6.00E-4 (0.06%) | [0.05% 0.08%] | 2.1E-4 |
+| Garlock (East) | 3.7E-4 | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 2.40E-4 (0.02%) | [0.02% 0.04%] | 3.70E-4 (0.04%) | [0.03% 0.05%] | 1.5E-4 |
+| San Andreas (Mojave N) | 3.2E-4 | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 2.20E-4 (0.02%) | [0.01% 0.03%] | 3.10E-4 (0.03%) | [0.02% 0.04%] | 9.0E-5 |
+| San Andreas (Mojave S) | 2.4E-4 | 7.00E-5 (0.01%) | [0.00% 0.02%] | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.70E-4 (0.02%) | [0.01% 0.03%] | 2.40E-4 (0.02%) | [0.02% 0.04%] | 9.0E-5 |
+| San Andreas (San Bernardino N) | 1.4E-4 | 3.00E-5 (0.00%) | [0.00% 0.01%] | 4.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.40E-4 (0.01%) | [0.01% 0.02%] | 5.0E-5 |
+| Owl Lake | 1.3E-4 | 4.00E-5 (0.00%) | [0.00% 0.01%] | 4.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 3.0E-5 |
+| Death Valley (Black Mtns Frontal) | 7.0E-5 | 4.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 6.00E-5 (0.01%) | [0.00% 0.01%] | 6.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 4.0E-5 |
 
 ### M≥8 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 15 with matching ruptures shown*
 
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| Garlock (Central) | 2.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 2.0E-5 | 2.0E-5 |
-| Garlock (East) | 2.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 2.0E-5 | 2.0E-5 |
-| Garlock (West) | 2.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 2.0E-5 | 2.0E-5 |
-| San Andreas (Mojave N) | 2.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 2.0E-5 | 2.0E-5 |
-| San Andreas (Mojave S) | 2.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 2.0E-5 | 2.0E-5 |
-| San Andreas (San Bernardino N) | 2.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 2.0E-5 | 2.0E-5 |
-| San Andreas (Coachella) rev | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 |
-| San Andreas (North Branch Mill Creek) | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 |
-| San Jacinto (Anza) rev | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 |
-| San Jacinto (Borrego) | 1.0E-5 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 1.0E-5 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Garlock (Central) | 2.0E-5 | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 2.0E-5 |
+| Garlock (East) | 2.0E-5 | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 2.0E-5 |
+| Garlock (West) | 2.0E-5 | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 2.0E-5 |
+| San Andreas (Mojave N) | 2.0E-5 | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 2.0E-5 |
+| San Andreas (Mojave S) | 2.0E-5 | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 2.0E-5 |
+| San Andreas (San Bernardino N) | 2.0E-5 | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 2.0E-5 |
+| San Andreas (Coachella) rev | 1.0E-5 | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
+| San Andreas (North Branch Mill Creek) | 1.0E-5 | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
+| San Jacinto (Anza) rev | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
+| San Jacinto (Borrego) | 1.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
 
-### Fault Magnitude-Probability Distributions
+## Fault Magnitude-Probability Distributions
 *[(top)](#table-of-contents)*
 
 The first 5 sections (sorted by trigger rate) are plotted below. All fault MPDs are available [here](plots/parent_sect_mpds/README.md)

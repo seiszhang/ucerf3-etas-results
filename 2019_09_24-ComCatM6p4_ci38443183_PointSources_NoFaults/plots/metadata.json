@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1587559986234,
-  "plotEndTime": 1587560863301,
+  "plotStartTime": 1587724554651,
+  "plotEndTime": 1587725076907,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_09_24-ComCatM6p4_ci38443183_PointSources_NoFaults/results_complete.bin"
   },
-  "launcherGitHash": "5a5c4bf5a50d8ca2285ce75f17b4235ba182f1e9",
-  "launcherGitTime": 1587497425000,
+  "launcherGitHash": "7aab56b6f51f260d43fd4dee8037a3201a206e79",
+  "launcherGitTime": 1587669111000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
@@ -773,8 +773,8 @@
     },
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_GriddedNucleationPlot",
-      "version": 1,
-      "time": 1569386004229,
+      "version": 2,
+      "time": 1587724554651,
       "markdown": [
         "## Gridded Nucleation",
         "*[(top)](#table-of-contents)*",
