@@ -44,7 +44,7 @@
   * [M≥7 Parent Sections Table](#m7-parent-sections-table)
   * [M≥7.5 Parent Sections Table](#m75-parent-sections-table)
   * [M≥8 Parent Sections Table](#m8-parent-sections-table)
-  * [Fault Magnitude-Probability Distributions](#fault-magnitude-probability-distributions)
+* [Fault Magnitude-Probability Distributions](#fault-magnitude-probability-distributions)
 * [Gridded Nucleation](#gridded-nucleation)
 * [JSON Input File](#json-input-file)
 
@@ -822,92 +822,92 @@ The following plots compare simulation results with ComCat data above a magnitud
 
 *First 10 of 80 with matching ruptures shown*
 
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Andreas (Creeping Section) 2011 CFM | 0.01704 | 0.00586 | 0.00826 | 0.01013 | 0.01285 | 0.0154 | 0.00937 |
-| Calaveras (So) - Paicines extension 2011 CFM | 0.0046 | 0.00156 | 0.00219 | 0.00263 | 0.00355 | 0.00434 | 0.00223 |
-| Calaveras (So) 2011 CFM | 0.00169 | 4.7E-4 | 7.7E-4 | 9.6E-4 | 0.00135 | 0.00168 | 6.3E-4 |
-| Concord 2011 CFM | 0.00145 | 1.2E-4 | 3.6E-4 | 5.7E-4 | 0.00103 | 0.00142 | 8.0E-4 |
-| Green Valley 2011 CFM | 0.0013 | 1.1E-4 | 3.1E-4 | 4.8E-4 | 8.8E-4 | 0.00124 | 7.0E-4 |
-| San Andreas (Santa Cruz Mts) 2011 CFM | 0.0012 | 4.5E-4 | 6.5E-4 | 7.2E-4 | 9.7E-4 | 0.0012 | 5.9E-4 |
-| Calaveras (Central) 2011 CFM | 0.00113 | 2.6E-4 | 4.7E-4 | 5.7E-4 | 8.4E-4 | 0.00104 | 4.0E-4 |
-| Hayward (So) 2011 CFM | 5.8E-4 | 4.0E-5 | 1.1E-4 | 1.6E-4 | 3.1E-4 | 5.0E-4 | 9.0E-5 |
-| Hayward (So) extension 2011 CFM | 4.8E-4 | 6.0E-5 | 1.1E-4 | 1.6E-4 | 3.2E-4 | 4.2E-4 | 6.0E-5 |
-| Calaveras (No) 2011 CFM | 3.7E-4 | 8.0E-5 | 1.4E-4 | 1.8E-4 | 3.0E-4 | 3.7E-4 | 1.5E-4 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Creeping Section) 2011 CFM | 0.01704 | 5.86E-3 (0.59%) | [0.54% 0.64%] | 8.26E-3 (0.83%) | [0.77% 0.88%] | 0.010 (1.01%) | [0.95% 1.08%] | 0.013 (1.29%) | [1.22% 1.36%] | 0.015 (1.54%) | [1.47% 1.62%] | 0.00937 |
+| Calaveras (So) - Paicines extension 2011 CFM | 0.0046 | 1.56E-3 (0.16%) | [0.13% 0.18%] | 2.19E-3 (0.22%) | [0.19% 0.25%] | 2.63E-3 (0.26%) | [0.23% 0.30%] | 3.55E-3 (0.36%) | [0.32% 0.39%] | 4.34E-3 (0.43%) | [0.39% 0.48%] | 0.00223 |
+| Calaveras (So) 2011 CFM | 0.00169 | 4.70E-4 (0.05%) | [0.03% 0.06%] | 7.70E-4 (0.08%) | [0.06% 0.10%] | 9.60E-4 (0.10%) | [0.08% 0.12%] | 1.35E-3 (0.14%) | [0.11% 0.16%] | 1.68E-3 (0.17%) | [0.14% 0.20%] | 6.3E-4 |
+| Concord 2011 CFM | 0.00145 | 1.20E-4 (0.01%) | [0.01% 0.02%] | 3.60E-4 (0.04%) | [0.03% 0.05%] | 5.70E-4 (0.06%) | [0.04% 0.07%] | 1.03E-3 (0.10%) | [0.08% 0.13%] | 1.42E-3 (0.14%) | [0.12% 0.17%] | 8.0E-4 |
+| Green Valley 2011 CFM | 0.0013 | 1.10E-4 (0.01%) | [0.01% 0.02%] | 3.10E-4 (0.03%) | [0.02% 0.04%] | 4.80E-4 (0.05%) | [0.04% 0.06%] | 8.80E-4 (0.09%) | [0.07% 0.11%] | 1.24E-3 (0.12%) | [0.10% 0.15%] | 7.0E-4 |
+| San Andreas (Santa Cruz Mts) 2011 CFM | 0.0012 | 4.50E-4 (0.04%) | [0.03% 0.06%] | 6.50E-4 (0.07%) | [0.05% 0.08%] | 7.20E-4 (0.07%) | [0.06% 0.09%] | 9.70E-4 (0.10%) | [0.08% 0.12%] | 1.20E-3 (0.12%) | [0.10% 0.14%] | 5.9E-4 |
+| Calaveras (Central) 2011 CFM | 0.00113 | 2.60E-4 (0.03%) | [0.02% 0.04%] | 4.70E-4 (0.05%) | [0.03% 0.06%] | 5.70E-4 (0.06%) | [0.04% 0.07%] | 8.40E-4 (0.08%) | [0.07% 0.10%] | 1.04E-3 (0.10%) | [0.09% 0.13%] | 4.0E-4 |
+| Hayward (So) 2011 CFM | 5.8E-4 | 4.00E-5 (0.00%) | [0.00% 0.01%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 3.10E-4 (0.03%) | [0.02% 0.04%] | 5.00E-4 (0.05%) | [0.04% 0.07%] | 9.0E-5 |
+| Hayward (So) extension 2011 CFM | 4.8E-4 | 6.00E-5 (0.01%) | [0.00% 0.01%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 1.60E-4 (0.02%) | [0.01% 0.03%] | 3.20E-4 (0.03%) | [0.02% 0.05%] | 4.20E-4 (0.04%) | [0.03% 0.06%] | 6.0E-5 |
+| Calaveras (No) 2011 CFM | 3.7E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.40E-4 (0.01%) | [0.01% 0.02%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 3.00E-4 (0.03%) | [0.02% 0.04%] | 3.70E-4 (0.04%) | [0.03% 0.05%] | 1.5E-4 |
 
 ### M≥6.5 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 67 with matching ruptures shown*
 
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Andreas (Creeping Section) 2011 CFM | 0.00441 | 0.00141 | 0.00222 | 0.00268 | 0.00344 | 0.0042 | 0.00221 |
-| Calaveras (So) - Paicines extension 2011 CFM | 0.00228 | 6.9E-4 | 0.00107 | 0.00134 | 0.00179 | 0.00218 | 9.9E-4 |
-| Calaveras (So) 2011 CFM | 0.00151 | 4.6E-4 | 7.1E-4 | 8.8E-4 | 0.00122 | 0.00151 | 6.1E-4 |
-| San Andreas (Santa Cruz Mts) 2011 CFM | 0.00118 | 4.5E-4 | 6.4E-4 | 7.1E-4 | 9.6E-4 | 0.00118 | 5.9E-4 |
-| Calaveras (Central) 2011 CFM | 0.00103 | 2.6E-4 | 4.6E-4 | 5.5E-4 | 7.8E-4 | 9.6E-4 | 3.7E-4 |
-| Hayward (So) 2011 CFM | 5.3E-4 | 4.0E-5 | 1.0E-4 | 1.5E-4 | 2.7E-4 | 4.7E-4 | 9.0E-5 |
-| Green Valley 2011 CFM | 4.7E-4 | 4.0E-5 | 8.0E-5 | 1.3E-4 | 3.0E-4 | 4.7E-4 | 2.4E-4 |
-| Concord 2011 CFM | 4.6E-4 | 4.0E-5 | 7.0E-5 | 1.3E-4 | 2.8E-4 | 4.5E-4 | 2.5E-4 |
-| Calaveras (No) 2011 CFM | 3.7E-4 | 8.0E-5 | 1.4E-4 | 1.8E-4 | 3.0E-4 | 3.7E-4 | 1.5E-4 |
-| Hayward (So) extension 2011 CFM | 2.0E-4 | 0.0 | 3.0E-5 | 5.0E-5 | 1.2E-4 | 2.0E-4 | 2.0E-5 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Creeping Section) 2011 CFM | 0.00441 | 1.41E-3 (0.14%) | [0.12% 0.17%] | 2.22E-3 (0.22%) | [0.19% 0.25%] | 2.68E-3 (0.27%) | [0.24% 0.30%] | 3.44E-3 (0.34%) | [0.31% 0.38%] | 4.20E-3 (0.42%) | [0.38% 0.46%] | 0.00221 |
+| Calaveras (So) - Paicines extension 2011 CFM | 0.00228 | 6.90E-4 (0.07%) | [0.05% 0.09%] | 1.07E-3 (0.11%) | [0.09% 0.13%] | 1.34E-3 (0.13%) | [0.11% 0.16%] | 1.79E-3 (0.18%) | [0.15% 0.21%] | 2.18E-3 (0.22%) | [0.19% 0.25%] | 9.9E-4 |
+| Calaveras (So) 2011 CFM | 0.00151 | 4.60E-4 (0.05%) | [0.03% 0.06%] | 7.10E-4 (0.07%) | [0.06% 0.09%] | 8.80E-4 (0.09%) | [0.07% 0.11%] | 1.22E-3 (0.12%) | [0.10% 0.15%] | 1.51E-3 (0.15%) | [0.13% 0.18%] | 6.1E-4 |
+| San Andreas (Santa Cruz Mts) 2011 CFM | 0.00118 | 4.50E-4 (0.04%) | [0.03% 0.06%] | 6.40E-4 (0.06%) | [0.05% 0.08%] | 7.10E-4 (0.07%) | [0.06% 0.09%] | 9.60E-4 (0.10%) | [0.08% 0.12%] | 1.18E-3 (0.12%) | [0.10% 0.14%] | 5.9E-4 |
+| Calaveras (Central) 2011 CFM | 0.00103 | 2.60E-4 (0.03%) | [0.02% 0.04%] | 4.60E-4 (0.05%) | [0.03% 0.06%] | 5.50E-4 (0.06%) | [0.04% 0.07%] | 7.80E-4 (0.08%) | [0.06% 0.10%] | 9.60E-4 (0.10%) | [0.08% 0.12%] | 3.7E-4 |
+| Hayward (So) 2011 CFM | 5.3E-4 | 4.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.50E-4 (0.01%) | [0.01% 0.03%] | 2.70E-4 (0.03%) | [0.02% 0.04%] | 4.70E-4 (0.05%) | [0.03% 0.06%] | 9.0E-5 |
+| Green Valley 2011 CFM | 4.7E-4 | 4.00E-5 (0.00%) | [0.00% 0.01%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 3.00E-4 (0.03%) | [0.02% 0.04%] | 4.70E-4 (0.05%) | [0.03% 0.06%] | 2.4E-4 |
+| Concord 2011 CFM | 4.6E-4 | 4.00E-5 (0.00%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 2.80E-4 (0.03%) | [0.02% 0.04%] | 4.50E-4 (0.04%) | [0.03% 0.06%] | 2.5E-4 |
+| Calaveras (No) 2011 CFM | 3.7E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.40E-4 (0.01%) | [0.01% 0.02%] | 1.80E-4 (0.02%) | [0.01% 0.03%] | 3.00E-4 (0.03%) | [0.02% 0.04%] | 3.70E-4 (0.04%) | [0.03% 0.05%] | 1.5E-4 |
+| Hayward (So) extension 2011 CFM | 2.0E-4 | 0.000 (0.00%) | [0.00% 0.00%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 2.00E-4 (0.02%) | [0.01% 0.03%] | 2.0E-5 |
 
 ### M≥7 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 55 with matching ruptures shown*
 
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Andreas (Creeping Section) 2011 CFM | 0.00137 | 5.0E-4 | 7.1E-4 | 8.1E-4 | 0.00112 | 0.00136 | 6.7E-4 |
-| San Andreas (Santa Cruz Mts) 2011 CFM | 0.00116 | 4.5E-4 | 6.4E-4 | 7.0E-4 | 9.5E-4 | 0.00116 | 5.8E-4 |
-| Calaveras (So) - Paicines extension 2011 CFM | 6.8E-4 | 1.9E-4 | 3.3E-4 | 3.8E-4 | 5.3E-4 | 6.5E-4 | 2.3E-4 |
-| Calaveras (Central) 2011 CFM | 5.6E-4 | 1.3E-4 | 2.3E-4 | 2.9E-4 | 4.4E-4 | 5.6E-4 | 1.7E-4 |
-| Calaveras (So) 2011 CFM | 5.3E-4 | 1.3E-4 | 2.4E-4 | 2.9E-4 | 4.2E-4 | 5.3E-4 | 1.6E-4 |
-| Calaveras (No) 2011 CFM | 2.7E-4 | 8.0E-5 | 1.2E-4 | 1.4E-4 | 2.1E-4 | 2.7E-4 | 1.0E-4 |
-| Hayward (So) 2011 CFM | 2.0E-4 | 3.0E-5 | 8.0E-5 | 9.0E-5 | 1.3E-4 | 2.0E-4 | 5.0E-5 |
-| Hayward (No) 2011 CFM | 1.3E-4 | 1.0E-5 | 5.0E-5 | 5.0E-5 | 7.0E-5 | 1.3E-4 | 3.0E-5 |
-| San Andreas (Parkfield) | 1.2E-4 | 4.0E-5 | 5.0E-5 | 7.0E-5 | 1.0E-4 | 1.2E-4 | 9.0E-5 |
-| San Andreas (Peninsula) 2011 CFM | 1.2E-4 | 4.0E-5 | 5.0E-5 | 6.0E-5 | 1.0E-4 | 1.2E-4 | 9.0E-5 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Creeping Section) 2011 CFM | 0.00137 | 5.00E-4 (0.05%) | [0.04% 0.07%] | 7.10E-4 (0.07%) | [0.06% 0.09%] | 8.10E-4 (0.08%) | [0.06% 0.10%] | 1.12E-3 (0.11%) | [0.09% 0.14%] | 1.36E-3 (0.14%) | [0.11% 0.16%] | 6.7E-4 |
+| San Andreas (Santa Cruz Mts) 2011 CFM | 0.00116 | 4.50E-4 (0.04%) | [0.03% 0.06%] | 6.40E-4 (0.06%) | [0.05% 0.08%] | 7.00E-4 (0.07%) | [0.05% 0.09%] | 9.50E-4 (0.10%) | [0.08% 0.12%] | 1.16E-3 (0.12%) | [0.10% 0.14%] | 5.8E-4 |
+| Calaveras (So) - Paicines extension 2011 CFM | 6.8E-4 | 1.90E-4 (0.02%) | [0.01% 0.03%] | 3.30E-4 (0.03%) | [0.02% 0.05%] | 3.80E-4 (0.04%) | [0.03% 0.05%] | 5.30E-4 (0.05%) | [0.04% 0.07%] | 6.50E-4 (0.07%) | [0.05% 0.08%] | 2.3E-4 |
+| Calaveras (Central) 2011 CFM | 5.6E-4 | 1.30E-4 (0.01%) | [0.01% 0.02%] | 2.30E-4 (0.02%) | [0.01% 0.04%] | 2.90E-4 (0.03%) | [0.02% 0.04%] | 4.40E-4 (0.04%) | [0.03% 0.06%] | 5.60E-4 (0.06%) | [0.04% 0.07%] | 1.7E-4 |
+| Calaveras (So) 2011 CFM | 5.3E-4 | 1.30E-4 (0.01%) | [0.01% 0.02%] | 2.40E-4 (0.02%) | [0.02% 0.04%] | 2.90E-4 (0.03%) | [0.02% 0.04%] | 4.20E-4 (0.04%) | [0.03% 0.06%] | 5.30E-4 (0.05%) | [0.04% 0.07%] | 1.6E-4 |
+| Calaveras (No) 2011 CFM | 2.7E-4 | 8.00E-5 (0.01%) | [0.00% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.40E-4 (0.01%) | [0.01% 0.02%] | 2.10E-4 (0.02%) | [0.01% 0.03%] | 2.70E-4 (0.03%) | [0.02% 0.04%] | 1.0E-4 |
+| Hayward (So) 2011 CFM | 2.0E-4 | 3.00E-5 (0.00%) | [0.00% 0.01%] | 8.00E-5 (0.01%) | [0.00% 0.02%] | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 2.00E-4 (0.02%) | [0.01% 0.03%] | 5.0E-5 |
+| Hayward (No) 2011 CFM | 1.3E-4 | 1.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 1.30E-4 (0.01%) | [0.01% 0.02%] | 3.0E-5 |
+| San Andreas (Parkfield) | 1.2E-4 | 4.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 9.0E-5 |
+| San Andreas (Peninsula) 2011 CFM | 1.2E-4 | 4.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 6.00E-5 (0.01%) | [0.00% 0.01%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 9.0E-5 |
 
 ### M≥7.5 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 40 with matching ruptures shown*
 
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Andreas (Creeping Section) 2011 CFM | 1.4E-4 | 3.0E-5 | 5.0E-5 | 6.0E-5 | 1.2E-4 | 1.4E-4 | 9.0E-5 |
-| San Andreas (Santa Cruz Mts) 2011 CFM | 1.2E-4 | 3.0E-5 | 4.0E-5 | 5.0E-5 | 1.0E-4 | 1.2E-4 | 8.0E-5 |
-| San Andreas (Peninsula) 2011 CFM | 1.1E-4 | 3.0E-5 | 4.0E-5 | 5.0E-5 | 9.0E-5 | 1.1E-4 | 8.0E-5 |
-| Calaveras (So) - Paicines extension 2011 CFM | 7.0E-5 | 0.0 | 3.0E-5 | 3.0E-5 | 4.0E-5 | 7.0E-5 | 2.0E-5 |
-| Calaveras (Central) 2011 CFM | 6.0E-5 | 0.0 | 3.0E-5 | 3.0E-5 | 4.0E-5 | 6.0E-5 | 1.0E-5 |
-| Calaveras (So) 2011 CFM | 6.0E-5 | 0.0 | 3.0E-5 | 3.0E-5 | 4.0E-5 | 6.0E-5 | 1.0E-5 |
-| Hayward (No) 2011 CFM | 6.0E-5 | 0.0 | 3.0E-5 | 3.0E-5 | 3.0E-5 | 6.0E-5 | 1.0E-5 |
-| Hayward (So) 2011 CFM | 6.0E-5 | 0.0 | 3.0E-5 | 3.0E-5 | 3.0E-5 | 6.0E-5 | 1.0E-5 |
-| Rodgers Creek - Healdsburg 2011 CFM | 6.0E-5 | 0.0 | 3.0E-5 | 3.0E-5 | 3.0E-5 | 6.0E-5 | 1.0E-5 |
-| San Andreas (Big Bend) | 5.0E-5 | 1.0E-5 | 1.0E-5 | 1.0E-5 | 4.0E-5 | 5.0E-5 | 3.0E-5 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Creeping Section) 2011 CFM | 1.4E-4 | 3.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 6.00E-5 (0.01%) | [0.00% 0.01%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 1.40E-4 (0.01%) | [0.01% 0.02%] | 9.0E-5 |
+| San Andreas (Santa Cruz Mts) 2011 CFM | 1.2E-4 | 3.00E-5 (0.00%) | [0.00% 0.01%] | 4.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 1.00E-4 (0.01%) | [0.01% 0.02%] | 1.20E-4 (0.01%) | [0.01% 0.02%] | 8.0E-5 |
+| San Andreas (Peninsula) 2011 CFM | 1.1E-4 | 3.00E-5 (0.00%) | [0.00% 0.01%] | 4.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 9.00E-5 (0.01%) | [0.00% 0.02%] | 1.10E-4 (0.01%) | [0.01% 0.02%] | 8.0E-5 |
+| Calaveras (So) - Paicines extension 2011 CFM | 7.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 4.00E-5 (0.00%) | [0.00% 0.01%] | 7.00E-5 (0.01%) | [0.00% 0.02%] | 2.0E-5 |
+| Calaveras (Central) 2011 CFM | 6.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 4.00E-5 (0.00%) | [0.00% 0.01%] | 6.00E-5 (0.01%) | [0.00% 0.01%] | 1.0E-5 |
+| Calaveras (So) 2011 CFM | 6.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 4.00E-5 (0.00%) | [0.00% 0.01%] | 6.00E-5 (0.01%) | [0.00% 0.01%] | 1.0E-5 |
+| Hayward (No) 2011 CFM | 6.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 6.00E-5 (0.01%) | [0.00% 0.01%] | 1.0E-5 |
+| Hayward (So) 2011 CFM | 6.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 6.00E-5 (0.01%) | [0.00% 0.01%] | 1.0E-5 |
+| Rodgers Creek - Healdsburg 2011 CFM | 6.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 6.00E-5 (0.01%) | [0.00% 0.01%] | 1.0E-5 |
+| San Andreas (Big Bend) | 5.0E-5 | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 4.00E-5 (0.00%) | [0.00% 0.01%] | 5.00E-5 (0.01%) | [0.00% 0.01%] | 3.0E-5 |
 
 ### M≥8 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 23 with matching ruptures shown*
 
-| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Week Prob | Triggered 1 Month Prob | Triggered 1 Year Prob | Triggered 10 Year Prob | Triggered 10 Year Primary Mean Count |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| San Andreas (Big Bend) | 3.0E-5 | 0.0 | 0.0 | 0.0 | 2.0E-5 | 3.0E-5 | 1.0E-5 |
-| San Andreas (Carrizo) rev | 3.0E-5 | 0.0 | 0.0 | 0.0 | 2.0E-5 | 3.0E-5 | 1.0E-5 |
-| San Andreas (Cholame) rev | 3.0E-5 | 0.0 | 0.0 | 0.0 | 2.0E-5 | 3.0E-5 | 1.0E-5 |
-| San Andreas (Creeping Section) 2011 CFM | 3.0E-5 | 0.0 | 0.0 | 0.0 | 2.0E-5 | 3.0E-5 | 1.0E-5 |
-| San Andreas (Mojave N) | 3.0E-5 | 0.0 | 0.0 | 0.0 | 2.0E-5 | 3.0E-5 | 1.0E-5 |
-| San Andreas (Mojave S) | 3.0E-5 | 0.0 | 0.0 | 0.0 | 2.0E-5 | 3.0E-5 | 1.0E-5 |
-| San Andreas (Parkfield) | 3.0E-5 | 0.0 | 0.0 | 0.0 | 2.0E-5 | 3.0E-5 | 1.0E-5 |
-| San Andreas (San Bernardino N) | 3.0E-5 | 0.0 | 0.0 | 0.0 | 2.0E-5 | 3.0E-5 | 1.0E-5 |
-| San Andreas (Santa Cruz Mts) 2011 CFM | 3.0E-5 | 0.0 | 0.0 | 0.0 | 2.0E-5 | 3.0E-5 | 1.0E-5 |
-| San Andreas (Peninsula) 2011 CFM | 2.0E-5 | 0.0 | 0.0 | 0.0 | 1.0E-5 | 2.0E-5 | 1.0E-5 |
+| Parent Name | Triggered 10 Year Mean Count | Triggered 1 Day Prob | Triggered 1 Day 95% Conf | Triggered 1 Week Prob | Triggered 1 Week 95% Conf | Triggered 1 Month Prob | Triggered 1 Month 95% Conf | Triggered 1 Year Prob | Triggered 1 Year 95% Conf | Triggered 10 Year Prob | Triggered 10 Year 95% Conf | Triggered 10 Year Primary Mean Count |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| San Andreas (Big Bend) | 3.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
+| San Andreas (Carrizo) rev | 3.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
+| San Andreas (Cholame) rev | 3.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
+| San Andreas (Creeping Section) 2011 CFM | 3.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
+| San Andreas (Mojave N) | 3.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
+| San Andreas (Mojave S) | 3.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
+| San Andreas (Parkfield) | 3.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
+| San Andreas (San Bernardino N) | 3.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
+| San Andreas (Santa Cruz Mts) 2011 CFM | 3.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 3.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
+| San Andreas (Peninsula) 2011 CFM | 2.0E-5 | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 0.000 (0.00%) | [0.00% 0.00%] | 1.00E-5 (0.00%) | [0.00% 0.01%] | 2.00E-5 (0.00%) | [0.00% 0.01%] | 1.0E-5 |
 
-### Fault Magnitude-Probability Distributions
+## Fault Magnitude-Probability Distributions
 *[(top)](#table-of-contents)*
 
 The first 5 sections (sorted by trigger rate) are plotted below. All fault MPDs are available [here](plots/parent_sect_mpds/README.md)
