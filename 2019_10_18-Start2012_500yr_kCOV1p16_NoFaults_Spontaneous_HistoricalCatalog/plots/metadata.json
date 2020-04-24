@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1587523666739,
-  "plotEndTime": 1587524395792,
+  "plotStartTime": 1587696258399,
+  "plotEndTime": 1587696868342,
   "simulationsProcessed": 1000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_10_18-Start2012_500yr_kCOV1p16_NoFaults_Spontaneous_HistoricalCatalog/results_m5_preserve_chain.bin"
   },
-  "launcherGitHash": "5a5c4bf5a50d8ca2285ce75f17b4235ba182f1e9",
-  "launcherGitTime": 1587497425000,
+  "launcherGitHash": "7aab56b6f51f260d43fd4dee8037a3201a206e79",
+  "launcherGitTime": 1587669111000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
@@ -293,17 +293,17 @@
     },
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_GriddedNucleationPlot",
-      "version": 1,
-      "time": 1571452393091,
+      "version": 2,
+      "time": 1587696258399,
       "markdown": [
         "## Gridded Nucleation",
         "*[(top)](#table-of-contents)*",
         "",
-        "| Min Mag | Complete Catalog (including spontaneous) |",
-        "|-----|-----|",
-        "| **M\u0026ge;5** | ![Nucleation Plot](plots/gridded_nucleation_m5.0.png) |",
-        "| **M\u0026ge;6** | ![Nucleation Plot](plots/gridded_nucleation_m6.0.png) |",
-        "| **M\u0026ge;7** | ![Nucleation Plot](plots/gridded_nucleation_m7.0.png) |"
+        "| Min Mag | Complete Catalog (including spontaneous) | Ratio WRT Long-Term Model |",
+        "|-----|-----|-----|",
+        "| **M\u0026ge;5** | ![Nucleation Plot](plots/gridded_nucleation_m5.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m5.0_ratio.png) |",
+        "| **M\u0026ge;6** | ![Nucleation Plot](plots/gridded_nucleation_m6.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m6.0_ratio.png) |",
+        "| **M\u0026ge;7** | ![Nucleation Plot](plots/gridded_nucleation_m7.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m7.0_ratio.png) |"
       ]
     }
   ]
