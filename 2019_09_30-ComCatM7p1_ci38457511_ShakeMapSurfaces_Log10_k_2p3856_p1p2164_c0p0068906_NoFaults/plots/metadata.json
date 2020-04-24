@@ -1,12 +1,12 @@
 {
-  "plotStartTime": 1587546270368,
-  "plotEndTime": 1587549728070,
+  "plotStartTime": 1587715446578,
+  "plotEndTime": 1587717871987,
   "simulationsProcessed": 100000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_09_30-ComCatM7p1_ci38457511_ShakeMapSurfaces_Log10_k_2p3856_p1p2164_c0p0068906_NoFaults/results_complete.bin"
   },
-  "launcherGitHash": "5a5c4bf5a50d8ca2285ce75f17b4235ba182f1e9",
-  "launcherGitTime": 1587497425000,
+  "launcherGitHash": "7aab56b6f51f260d43fd4dee8037a3201a206e79",
+  "launcherGitTime": 1587669111000,
   "plots": [
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_MFD_Plot",
@@ -776,8 +776,8 @@
     },
     {
       "className": "scratch.UCERF3.erf.ETAS.analysis.ETAS_GriddedNucleationPlot",
-      "version": 1,
-      "time": 1570282402974,
+      "version": 2,
+      "time": 1587715446578,
       "markdown": [
         "## Gridded Nucleation",
         "*[(top)](#table-of-contents)*",
