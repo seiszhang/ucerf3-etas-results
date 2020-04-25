@@ -304,112 +304,112 @@
 ### Section Participation Plots
 *[(top)](#table-of-contents)*
 
-| Min Mag | Complete Catalog (including spontaneous) |
-|-----|-----|
-| **All Supra. Seis.** | ![Participation Plot](plots/fault_participation_partic.png) |
-| **M&ge;6.5** | ![Participation Plot](plots/fault_participation_partic_m6.5.png) |
-| **M&ge;7** | ![Participation Plot](plots/fault_participation_partic_m7.0.png) |
-| **M&ge;7.5** | ![Participation Plot](plots/fault_participation_partic_m7.5.png) |
-| **M&ge;8** | ![Participation Plot](plots/fault_participation_partic_m8.0.png) |
+| Min Mag | Complete Catalog (including spontaneous) | Ratio WRT Long-Term Model |
+|-----|-----|-----|
+| **All Supra. Seis.** | ![Participation Plot](plots/fault_participation_partic.png) | ![Participation Plot](plots/fault_participation_partic_ratio.png) |
+| **M&ge;6.5** | ![Participation Plot](plots/fault_participation_partic_m6.5.png) | ![Participation Plot](plots/fault_participation_partic_m6.5_ratio.png) |
+| **M&ge;7** | ![Participation Plot](plots/fault_participation_partic_m7.0.png) | ![Participation Plot](plots/fault_participation_partic_m7.0_ratio.png) |
+| **M&ge;7.5** | ![Participation Plot](plots/fault_participation_partic_m7.5.png) | ![Participation Plot](plots/fault_participation_partic_m7.5_ratio.png) |
+| **M&ge;8** | ![Participation Plot](plots/fault_participation_partic_m8.0.png) | ![Participation Plot](plots/fault_participation_partic_m8.0_ratio.png) |
 
 ### Supra-Seismogenic Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 313 with matching ruptures shown*
 
-| Parent Name | Total Mean Annual Rate | Total 500 Year Prob |
-|-----|-----|-----|
-| San Andreas (Parkfield) | 0.04126 | 1.0 |
-| San Andreas (Creeping Section) 2011 CFM | 0.027264 | 1.0 |
-| San Andreas (Mojave S) | 0.018436 | 1.0 |
-| Mendocino | 0.016956 | 1.0 |
-| Cerro Prieto | 0.01268 | 1.0 |
-| Imperial | 0.010906 | 1.0 |
-| Brawley (Seismic Zone) alt 1 | 0.010238 | 1.0 |
-| Hayward (So) 2011 CFM | 0.009242 | 1.0 |
-| San Andreas (Offshore) 2011 CFM | 0.008206 | 0.999 |
-| Elsinore (Glen Ivy) rev | 0.007756 | 0.995 |
+| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| San Andreas (Parkfield) | 0.04126 | 1.000 (100.00%) | [99.52% 100.00%] | 0.047238618 |
+| San Andreas (Creeping Section) 2011 CFM | 0.027264 | 1.000 (100.00%) | [99.52% 100.00%] | 0.03419009 |
+| San Andreas (Mojave S) | 0.018436 | 1.000 (100.00%) | [99.52% 100.00%] | 0.016211301 |
+| Mendocino | 0.016956 | 1.000 (100.00%) | [99.52% 100.00%] | 0.028919645 |
+| Cerro Prieto | 0.01268 | 1.000 (100.00%) | [99.52% 100.00%] | 0.015186971 |
+| Imperial | 0.010906 | 1.000 (100.00%) | [99.52% 100.00%] | 0.014349225 |
+| Brawley (Seismic Zone) alt 1 | 0.010238 | 1.000 (100.00%) | [99.52% 100.00%] | 0.013392845 |
+| Hayward (So) 2011 CFM | 0.009242 | 1.000 (100.00%) | [99.52% 100.00%] | 0.009440966 |
+| San Andreas (Offshore) 2011 CFM | 0.008206 | 0.999 (99.90%) | [99.35% 99.99%] | 0.008909097 |
+| Elsinore (Glen Ivy) rev | 0.007756 | 0.995 (99.50%) | [98.77% 99.82%] | 0.008455746 |
 
 ### M≥6.5 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 306 with matching ruptures shown*
 
-| Parent Name | Total Mean Annual Rate | Total 500 Year Prob |
-|-----|-----|-----|
-| Cerro Prieto | 0.011018 | 1.0 |
-| San Andreas (Creeping Section) 2011 CFM | 0.010444 | 0.999 |
-| Mendocino | 0.00858 | 0.999 |
-| Hayward (So) 2011 CFM | 0.00785 | 1.0 |
-| Imperial | 0.007654 | 1.0 |
-| Brawley (Seismic Zone) alt 1 | 0.007274 | 0.999 |
-| San Andreas (Mojave S) | 0.007028 | 1.0 |
-| San Andreas (Santa Cruz Mts) 2011 CFM | 0.006578 | 0.998 |
-| San Andreas (San Bernardino N) | 0.006548 | 0.996 |
-| San Andreas (Offshore) 2011 CFM | 0.005942 | 0.999 |
+| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| Cerro Prieto | 0.011018 | 1.000 (100.00%) | [99.52% 100.00%] | 0.013091409 |
+| San Andreas (Creeping Section) 2011 CFM | 0.010444 | 0.999 (99.90%) | [99.35% 99.99%] | 0.012216282 |
+| Mendocino | 0.00858 | 0.999 (99.90%) | [99.35% 99.99%] | 0.012516479 |
+| Hayward (So) 2011 CFM | 0.00785 | 1.000 (100.00%) | [99.52% 100.00%] | 0.008140643 |
+| Imperial | 0.007654 | 1.000 (100.00%) | [99.52% 100.00%] | 0.0096799815 |
+| Brawley (Seismic Zone) alt 1 | 0.007274 | 0.999 (99.90%) | [99.35% 99.99%] | 0.009075132 |
+| San Andreas (Mojave S) | 0.007028 | 1.000 (100.00%) | [99.52% 100.00%] | 0.0067372364 |
+| San Andreas (Santa Cruz Mts) 2011 CFM | 0.006578 | 0.998 (99.80%) | [99.20% 99.97%] | 0.00821497 |
+| San Andreas (San Bernardino N) | 0.006548 | 0.996 (99.60%) | [98.90% 99.87%] | 0.0067538084 |
+| San Andreas (Offshore) 2011 CFM | 0.005942 | 0.999 (99.90%) | [99.35% 99.99%] | 0.006658823 |
 
 ### M≥7 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 273 with matching ruptures shown*
 
-| Parent Name | Total Mean Annual Rate | Total 500 Year Prob |
-|-----|-----|-----|
-| San Andreas (Creeping Section) 2011 CFM | 0.006638 | 0.994 |
-| San Andreas (Carrizo) rev | 0.005536 | 1.0 |
-| San Andreas (Cholame) rev | 0.005536 | 1.0 |
-| San Andreas (Mojave S) | 0.005232 | 0.999 |
-| San Andreas (Santa Cruz Mts) 2011 CFM | 0.005232 | 0.992 |
-| San Andreas (Mojave N) | 0.004786 | 0.999 |
-| San Andreas (North Coast) 2011 CFM | 0.004578 | 0.996 |
-| San Andreas (San Bernardino N) | 0.004562 | 0.981 |
-| San Andreas (Big Bend) | 0.004434 | 0.996 |
-| San Andreas (Parkfield) | 0.00424 | 0.971 |
+| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| San Andreas (Creeping Section) 2011 CFM | 0.006638 | 0.994 (99.40%) | [98.63% 99.76%] | 0.007612852 |
+| San Andreas (Carrizo) rev | 0.005536 | 1.000 (100.00%) | [99.52% 100.00%] | 0.0057427646 |
+| San Andreas (Cholame) rev | 0.005536 | 1.000 (100.00%) | [99.52% 100.00%] | 0.005722108 |
+| San Andreas (Mojave S) | 0.005232 | 0.999 (99.90%) | [99.35% 99.99%] | 0.0052993274 |
+| San Andreas (Santa Cruz Mts) 2011 CFM | 0.005232 | 0.992 (99.20%) | [98.36% 99.63%] | 0.0062776324 |
+| San Andreas (Mojave N) | 0.004786 | 0.999 (99.90%) | [99.35% 99.99%] | 0.0051040766 |
+| San Andreas (North Coast) 2011 CFM | 0.004578 | 0.996 (99.60%) | [98.90% 99.87%] | 0.005556243 |
+| San Andreas (San Bernardino N) | 0.004562 | 0.981 (98.10%) | [96.99% 98.82%] | 0.004749499 |
+| San Andreas (Big Bend) | 0.004434 | 0.996 (99.60%) | [98.90% 99.87%] | 0.0045623486 |
+| San Andreas (Parkfield) | 0.00424 | 0.971 (97.10%) | [95.81% 98.01%] | 0.004465195 |
 
 ### M≥7.5 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 212 with matching ruptures shown*
 
-| Parent Name | Total Mean Annual Rate | Total 500 Year Prob |
-|-----|-----|-----|
-| San Andreas (Mojave N) | 0.004714 | 0.999 |
-| San Andreas (Big Bend) | 0.004322 | 0.996 |
-| San Andreas (Mojave S) | 0.004316 | 0.994 |
-| San Andreas (Carrizo) rev | 0.004096 | 0.991 |
-| San Andreas (Cholame) rev | 0.003924 | 0.984 |
-| San Andreas (North Coast) 2011 CFM | 0.003696 | 0.989 |
-| San Andreas (San Bernardino N) | 0.003522 | 0.945 |
-| San Andreas (Creeping Section) 2011 CFM | 0.003452 | 0.904 |
-| San Andreas (Peninsula) 2011 CFM | 0.003042 | 0.943 |
-| San Andreas (Parkfield) | 0.00304 | 0.91 |
+| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| San Andreas (Mojave N) | 0.004714 | 0.999 (99.90%) | [99.35% 99.99%] | 0.0049894005 |
+| San Andreas (Big Bend) | 0.004322 | 0.996 (99.60%) | [98.90% 99.87%] | 0.0044245115 |
+| San Andreas (Mojave S) | 0.004316 | 0.994 (99.40%) | [98.63% 99.76%] | 0.0045267143 |
+| San Andreas (Carrizo) rev | 0.004096 | 0.991 (99.10%) | [98.23% 99.56%] | 0.004201805 |
+| San Andreas (Cholame) rev | 0.003924 | 0.984 (98.40%) | [97.36% 99.05%] | 0.0040264158 |
+| San Andreas (North Coast) 2011 CFM | 0.003696 | 0.989 (98.90%) | [97.98% 99.42%] | 0.0045710644 |
+| San Andreas (San Bernardino N) | 0.003522 | 0.945 (94.50%) | [92.85% 95.79%] | 0.0037959707 |
+| San Andreas (Creeping Section) 2011 CFM | 0.003452 | 0.904 (90.40%) | [88.36% 92.12%] | 0.0038110747 |
+| San Andreas (Peninsula) 2011 CFM | 0.003042 | 0.943 (94.30%) | [92.63% 95.62%] | 0.0035515025 |
+| San Andreas (Parkfield) | 0.00304 | 0.910 (91.00%) | [89.01% 92.67%] | 0.0032088608 |
 
 ### M≥8 Parent Sections Table
 *[(top)](#table-of-contents)*
 
 *First 10 of 63 with matching ruptures shown*
 
-| Parent Name | Total Mean Annual Rate | Total 500 Year Prob |
-|-----|-----|-----|
-| San Andreas (Mojave N) | 0.001432 | 0.573 |
-| San Andreas (Carrizo) rev | 0.001416 | 0.572 |
-| San Andreas (Big Bend) | 0.00141 | 0.572 |
-| San Andreas (Mojave S) | 0.001408 | 0.566 |
-| San Andreas (Cholame) rev | 0.001396 | 0.567 |
-| San Andreas (San Bernardino N) | 0.001342 | 0.547 |
-| San Andreas (Parkfield) | 0.00122 | 0.511 |
-| San Andreas (Creeping Section) 2011 CFM | 0.001096 | 0.463 |
-| San Andreas (Santa Cruz Mts) 2011 CFM | 7.84E-4 | 0.357 |
-| San Andreas (Peninsula) 2011 CFM | 7.16E-4 | 0.327 |
+| Parent Name | Total Mean Annual Rate | Total 500 Year Prob | Total 500 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| San Andreas (Mojave N) | 0.001432 | 0.573 (57.30%) | [54.16% 60.38%] | 0.0018098651 |
+| San Andreas (Carrizo) rev | 0.001416 | 0.572 (57.20%) | [54.06% 60.28%] | 0.0017508415 |
+| San Andreas (Big Bend) | 0.00141 | 0.572 (57.20%) | [54.06% 60.28%] | 0.0017453934 |
+| San Andreas (Mojave S) | 0.001408 | 0.566 (56.60%) | [53.46% 59.69%] | 0.0017636013 |
+| San Andreas (Cholame) rev | 0.001396 | 0.567 (56.70%) | [53.56% 59.79%] | 0.0017193216 |
+| San Andreas (San Bernardino N) | 0.001342 | 0.547 (54.70%) | [51.55% 57.81%] | 0.0016807786 |
+| San Andreas (Parkfield) | 0.00122 | 0.511 (51.10%) | [47.95% 54.24%] | 0.0015122787 |
+| San Andreas (Creeping Section) 2011 CFM | 0.001096 | 0.463 (46.30%) | [43.18% 49.45%] | 0.0014250289 |
+| San Andreas (Santa Cruz Mts) 2011 CFM | 7.84E-4 | 0.357 (35.70%) | [32.74% 38.77%] | 0.0010319632 |
+| San Andreas (Peninsula) 2011 CFM | 7.16E-4 | 0.327 (32.70%) | [29.81% 35.72%] | 9.2652056E-4 |
 
 ## Gridded Nucleation
 *[(top)](#table-of-contents)*
 
-| Min Mag | Complete Catalog (including spontaneous) |
-|-----|-----|
-| **M&ge;5** | ![Nucleation Plot](plots/gridded_nucleation_m5.0.png) |
-| **M&ge;6** | ![Nucleation Plot](plots/gridded_nucleation_m6.0.png) |
-| **M&ge;7** | ![Nucleation Plot](plots/gridded_nucleation_m7.0.png) |
+| Min Mag | Complete Catalog (including spontaneous) | Ratio WRT Long-Term Model |
+|-----|-----|-----|
+| **M&ge;5** | ![Nucleation Plot](plots/gridded_nucleation_m5.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m5.0_ratio.png) |
+| **M&ge;6** | ![Nucleation Plot](plots/gridded_nucleation_m6.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m6.0_ratio.png) |
+| **M&ge;7** | ![Nucleation Plot](plots/gridded_nucleation_m7.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m7.0_ratio.png) |
 
 
 ## JSON Input File
