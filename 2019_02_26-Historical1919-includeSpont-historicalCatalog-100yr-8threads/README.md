@@ -21,6 +21,14 @@
   * [28 Year Variability](#28-year-variability)
   * [Variability Duration Dependence](#variability-duration-dependence)
 * [Simulation Stationarity](#simulation-stationarity)
+* [Section Participation](#section-participation)
+  * [Section Participation Plots](#section-participation-plots)
+  * [Supra-Seismogenic Parent Sections Table](#supra-seismogenic-parent-sections-table)
+  * [M≥6.5 Parent Sections Table](#m65-parent-sections-table)
+  * [M≥7 Parent Sections Table](#m7-parent-sections-table)
+  * [M≥7.5 Parent Sections Table](#m75-parent-sections-table)
+  * [M≥8 Parent Sections Table](#m8-parent-sections-table)
+* [Gridded Nucleation](#gridded-nucleation)
 * [JSON Input File](#json-input-file)
 
 ## Magnitude Frequency Distribution
@@ -257,6 +265,119 @@
 
 ![Moment Rate Plot](plots/stationarity_mom.png)
 
+
+## Section Participation
+*[(top)](#table-of-contents)*
+
+### Section Participation Plots
+*[(top)](#table-of-contents)*
+
+| Min Mag | Complete Catalog (including spontaneous) | Ratio WRT Long-Term Model |
+|-----|-----|-----|
+| **All Supra. Seis.** | ![Participation Plot](plots/fault_participation_partic.png) | ![Participation Plot](plots/fault_participation_partic_ratio.png) |
+| **M&ge;6.5** | ![Participation Plot](plots/fault_participation_partic_m6.5.png) | ![Participation Plot](plots/fault_participation_partic_m6.5_ratio.png) |
+| **M&ge;7** | ![Participation Plot](plots/fault_participation_partic_m7.0.png) | ![Participation Plot](plots/fault_participation_partic_m7.0_ratio.png) |
+| **M&ge;7.5** | ![Participation Plot](plots/fault_participation_partic_m7.5.png) | ![Participation Plot](plots/fault_participation_partic_m7.5_ratio.png) |
+| **M&ge;8** | ![Participation Plot](plots/fault_participation_partic_m8.0.png) | ![Participation Plot](plots/fault_participation_partic_m8.0_ratio.png) |
+
+### Supra-Seismogenic Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 312 with matching ruptures shown*
+
+| Parent Name | Total Mean Annual Rate | Total 100 Year Prob | Total 100 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| San Andreas (Parkfield) | 0.04172 | 0.997 (99.70%) | [99.05% 99.92%] | 0.047238618 |
+| San Andreas (Creeping Section) 2011 CFM | 0.02445 | 0.947 (94.70%) | [93.08% 95.97%] | 0.03419009 |
+| San Andreas (Mojave S) | 0.01645 | 0.832 (83.20%) | [80.70% 85.44%] | 0.016211301 |
+| Mendocino | 0.0139 | 0.793 (79.30%) | [76.63% 81.74%] | 0.028919645 |
+| Cerro Prieto | 0.01127 | 0.786 (78.60%) | [75.90% 81.08%] | 0.015186971 |
+| Imperial | 0.0112 | 0.774 (77.40%) | [74.65% 79.93%] | 0.014349225 |
+| Brawley (Seismic Zone) alt 1 | 0.01046 | 0.763 (76.30%) | [73.52% 78.88%] | 0.013392845 |
+| Hayward (So) 2011 CFM | 0.00631 | 0.521 (52.10%) | [48.95% 55.23%] | 0.009440966 |
+| San Andreas (Coachella) rev | 0.00587 | 0.529 (52.90%) | [49.75% 56.03%] | 0.006223159 |
+| Hunting Creek - Berryessa 2011 CFM | 0.00573 | 0.458 (45.80%) | [42.68% 48.95%] | 0.0072375466 |
+
+### M≥6.5 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 301 with matching ruptures shown*
+
+| Parent Name | Total Mean Annual Rate | Total 100 Year Prob | Total 100 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| Cerro Prieto | 0.00938 | 0.721 (72.10%) | [69.19% 74.84%] | 0.013091409 |
+| Imperial | 0.00779 | 0.652 (65.20%) | [62.14% 68.14%] | 0.0096799815 |
+| Brawley (Seismic Zone) alt 1 | 0.00742 | 0.631 (63.10%) | [60.01% 66.08%] | 0.009075132 |
+| San Andreas (Creeping Section) 2011 CFM | 0.006 | 0.479 (47.90%) | [44.77% 51.05%] | 0.012216282 |
+| Mendocino | 0.00535 | 0.445 (44.50%) | [41.40% 47.65%] | 0.012516479 |
+| Hayward (So) 2011 CFM | 0.0053 | 0.458 (45.80%) | [42.68% 48.95%] | 0.008140643 |
+| San Andreas (Coachella) rev | 0.0051 | 0.482 (48.20%) | [45.07% 51.35%] | 0.005337052 |
+| San Andreas (Mojave S) | 0.0037 | 0.335 (33.50%) | [30.59% 36.53%] | 0.0067372364 |
+| San Andreas (San Bernardino N) | 0.00369 | 0.324 (32.40%) | [29.52% 35.41%] | 0.0067538084 |
+| San Andreas (San Bernardino S) | 0.00354 | 0.323 (32.30%) | [29.43% 35.31%] | 0.005577705 |
+
+### M≥7 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 262 with matching ruptures shown*
+
+| Parent Name | Total Mean Annual Rate | Total 100 Year Prob | Total 100 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| San Andreas (Coachella) rev | 0.00416 | 0.405 (40.50%) | [37.45% 43.62%] | 0.004435764 |
+| Brawley (Seismic Zone) alt 1 | 0.00388 | 0.381 (38.10%) | [35.09% 41.20%] | 0.003998075 |
+| Imperial | 0.00381 | 0.375 (37.50%) | [34.50% 40.59%] | 0.0038191879 |
+| Cerro Prieto | 0.00337 | 0.321 (32.10%) | [29.23% 35.11%] | 0.0048668785 |
+| San Andreas (San Gorgonio Pass-Garnet HIll) | 0.00312 | 0.303 (30.30%) | [27.48% 33.27%] | 0.0037061623 |
+| Maacama 2011 CFM | 0.00194 | 0.191 (19.10%) | [16.74% 21.71%] | 0.0036327762 |
+| San Andreas (Creeping Section) 2011 CFM | 0.00187 | 0.174 (17.40%) | [15.13% 19.93%] | 0.007612852 |
+| San Andreas (Cholame) rev | 0.00182 | 0.179 (17.90%) | [15.60% 20.45%] | 0.005722108 |
+| San Andreas (Carrizo) rev | 0.00177 | 0.172 (17.20%) | [14.94% 19.72%] | 0.0057427646 |
+| San Andreas (Mojave S) | 0.00176 | 0.174 (17.40%) | [15.13% 19.93%] | 0.0052993274 |
+
+### M≥7.5 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 179 with matching ruptures shown*
+
+| Parent Name | Total Mean Annual Rate | Total 100 Year Prob | Total 100 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| San Andreas (Coachella) rev | 0.00118 | 0.117 (11.70%) | [9.81% 13.89%] | 0.0021020647 |
+| San Andreas (San Gorgonio Pass-Garnet HIll) | 0.00113 | 0.112 (11.20%) | [9.35% 13.36%] | 0.0020508107 |
+| Brawley (Seismic Zone) alt 1 | 0.00106 | 0.105 (10.50%) | [8.70% 12.61%] | 0.0017912637 |
+| Imperial | 0.00101 | 0.101 (10.10%) | [8.34% 12.18%] | 0.0016334486 |
+| San Andreas (Mojave N) | 0.001 | 0.099 (9.90%) | [8.15% 11.96%] | 0.0049894005 |
+| San Andreas (San Bernardino S) | 9.8E-4 | 0.096 (9.60%) | [7.88% 11.64%] | 0.0022481368 |
+| San Andreas (Mojave S) | 9.3E-4 | 0.093 (9.30%) | [7.61% 11.31%] | 0.0045267143 |
+| San Andreas (Big Bend) | 8.2E-4 | 0.082 (8.20%) | [6.61% 10.12%] | 0.0044245115 |
+| San Andreas (San Bernardino N) | 7.9E-4 | 0.078 (7.80%) | [6.25% 9.68%] | 0.0037959707 |
+| San Andreas (Carrizo) rev | 7.2E-4 | 0.072 (7.20%) | [5.71% 9.03%] | 0.004201805 |
+
+### M≥8 Parent Sections Table
+*[(top)](#table-of-contents)*
+
+*First 10 of 40 with matching ruptures shown*
+
+| Parent Name | Total Mean Annual Rate | Total 100 Year Prob | Total 100 Year 95% Conf | Long-Term Fault System Solution Rate |
+|-----|-----|-----|-----|-----|
+| San Andreas (Mojave N) | 2.5E-4 | 0.025 (2.50%) | [1.66% 3.72%] | 0.0018098651 |
+| San Andreas (Mojave S) | 2.5E-4 | 0.025 (2.50%) | [1.66% 3.72%] | 0.0017636013 |
+| San Andreas (San Bernardino N) | 2.5E-4 | 0.025 (2.50%) | [1.66% 3.72%] | 0.0016807786 |
+| San Andreas (Big Bend) | 2.1E-4 | 0.021 (2.10%) | [1.34% 3.25%] | 0.0017453934 |
+| San Andreas (Carrizo) rev | 2.1E-4 | 0.021 (2.10%) | [1.34% 3.25%] | 0.0017508415 |
+| San Andreas (Cholame) rev | 2.0E-4 | 0.020 (2.00%) | [1.26% 3.13%] | 0.0017193216 |
+| San Andreas (Coachella) rev | 1.4E-4 | 0.014 (1.40%) | [0.80% 2.40%] | 6.20271E-4 |
+| San Andreas (Parkfield) | 1.4E-4 | 0.014 (1.40%) | [0.80% 2.40%] | 0.0015122787 |
+| San Andreas (San Bernardino S) | 1.3E-4 | 0.013 (1.30%) | [0.72% 2.27%] | 6.4807484E-4 |
+| San Andreas (San Gorgonio Pass-Garnet HIll) | 1.3E-4 | 0.013 (1.30%) | [0.72% 2.27%] | 5.951473E-4 |
+
+## Gridded Nucleation
+*[(top)](#table-of-contents)*
+
+| Min Mag | Complete Catalog (including spontaneous) | Ratio WRT Long-Term Model |
+|-----|-----|-----|
+| **M&ge;5** | ![Nucleation Plot](plots/gridded_nucleation_m5.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m5.0_ratio.png) |
+| **M&ge;6** | ![Nucleation Plot](plots/gridded_nucleation_m6.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m6.0_ratio.png) |
+| **M&ge;7** | ![Nucleation Plot](plots/gridded_nucleation_m7.0.png) | ![Nucleation Plot](plots/gridded_nucleation_m7.0_ratio.png) |
 
 
 ## JSON Input File

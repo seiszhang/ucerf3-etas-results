@@ -107,5 +107,5 @@
 | 2019/07/04 | [Searles Valley M6.4](2019_07_04-SearlesValleyM64-includeSpont-full_td-10yr/README.md) | 2019/07/04 | 100000 | Done | 2020/04/26 |
 | 2019/06/05 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-full_td-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2020/04/26 |
 | 2019/06/05 | [Spontaneous](2019_06_05-Spontaneous-includeSpont-historicalCatalog-no_ert-1000yr/README.md) | 2011/12/31 | 1000 | Done | 2020/04/26 |
-| 2019/02/26 | [Historical1919](2019_02_26-Historical1919-includeSpont-historicalCatalog-100yr-8threads/README.md) | 1918/12/31 | 1000 | Done | 2020/04/21 |
+| 2019/02/26 | [Historical1919](2019_02_26-Historical1919-includeSpont-historicalCatalog-100yr-8threads/README.md) | 1918/12/31 | 1000 | Done | 2020/04/26 |
 
