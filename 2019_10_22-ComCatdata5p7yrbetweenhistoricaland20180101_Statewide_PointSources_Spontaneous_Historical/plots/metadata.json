@@ -1,6 +1,6 @@
 {
-  "plotStartTime": 1588246393680,
-  "plotEndTime": 1588247084377,
+  "plotStartTime": 1588254149034,
+  "plotEndTime": 1588254840249,
   "simulationsProcessed": 10000,
   "dataFile": {
     "path": "/home/scec-02/kmilner/ucerf3/etas_sim/2019_10_22-ComCatdata5p7yrbetweenhistoricaland20180101_Statewide_PointSources_Spontaneous_Historical/results_complete.bin"
