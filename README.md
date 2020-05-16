@@ -4,7 +4,7 @@
 |-----|-----|-----|-----|-----|-----|
 | 2020/04/27 | [ComCat M7.1 (ci38457511), 296.8 Days After, ShakeMap Surfaces](2020_04_27-ComCatM7p1_ci38457511_296p8DaysAfter_ShakeMapSurfaces/README.md) | 2020/04/27 | 100000 | Done | 2020/05/15 |
 | 2020/04/08 | [ComCat M4.87 (ci39126079), Point Source, kCOV=1.5](2020_04_08-ComCatM4p87_ci39126079_PointSource_kCOV1p5/README.md) | 2020/04/03 | 100000 | Done | 2020/05/11 |
-| 2020/04/08 | [ComCat M4.87 (ci39126079), 4.7 Days After, Point Sources, kCOV=1.5](2020_04_08-ComCatM4p87_ci39126079_4p7DaysAfter_PointSources_kCOV1p5/README.md) | 2020/04/08 | 100000 | Done | 2020/05/08 |
+| 2020/04/08 | [ComCat M4.87 (ci39126079), 4.7 Days After, Point Sources, kCOV=1.5](2020_04_08-ComCatM4p87_ci39126079_4p7DaysAfter_PointSources_kCOV1p5/README.md) | 2020/04/08 | 100000 | Done | 2020/05/15 |
 | 2020/03/20 | [ComCat M5.0 (nn00719663), Point Source, kCOV=1.5](2020_03_20-ComCatM5p0_nn00719663_PointSource_kCOV1p5/README.md) | 2020/03/20 | 100000 | Done | 2020/05/13 |
 | 2020/03/03 | [M7AwaySAF](2020_03_03-M7AwaySAF/README.md) | 2019/12/31 | 25000 | Done | 2020/04/23 |
 | 2020/03/03 | [M7OnSAF](2020_03_03-M7OnSAF/README.md) | 2019/12/31 | 25000 | Done | 2020/04/23 |
@@ -25,7 +25,7 @@
 | 2019/10/22 | [ComCat data 5.7 yr between historical and 2018-01-01, Statewide, Point Sources, Spontaneous, Historical Catalog](2019_10_22-ComCatdata5p7yrbetweenhistoricaland20180101_Statewide_PointSources_Spontaneous_Historical/README.md) | 2017/12/31 | 10000 | Done | 2020/05/15 |
 | 2019/10/21 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, kCOV=1.16](2019_10_21-ComCatM7p1_ci38457511_ShakeMapSurfaces_kCOV1p16/README.md) | 2019/07/05 | 100000 | Done | 2020/05/13 |
 | 2019/10/18 | [Start 2012, 500 yr, kCOV=1.16, No Faults, Spontaneous, Historical Catalog](2019_10_18-Start2012_500yr_kCOV1p16_NoFaults_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2020/04/23 |
-| 2019/10/18 | [ComCat data 5.7 yr between historical and 2018-01-01, Statewide, Point Sources, Spontaneous, Historical Catalog](2019_10_18-ComCatdata5p7yrbetweenhistoricaland20180101_Statewide_PointSources_Spontaneous_Historical/README.md) | 2017/12/31 | 10000 | Done | 2020/05/15 |
+| 2019/10/18 | [ComCat data 5.7 yr between historical and 2018-01-01, Statewide, Point Sources, Spontaneous, Historical Catalog](2019_10_18-ComCatdata5p7yrbetweenhistoricaland20180101_Statewide_PointSources_Spontaneous_Historical/README.md) | 2017/12/31 | 10000 | Done | 2020/05/16 |
 | 2019/10/18 | [ComCat data 7.5 yr between historical and 2019-10-18, Statewide, ShakeMap Surfaces, Spontaneous, Historical Catalog](2019_10_18-ComCatdata7p5yrbetweenhistoricaland20191018_Statewide_ShakeMapSurfaces_Spontaneous_Histor/README.md) | 2019/10/18 | 10000 | Done | 2020/05/14 |
 | 2019/10/15 | [ComCat M4.71 (nc73292360), Point Sources](2019_10_15-ComCatM4p71_nc73292360_PointSources/README.md) | 2019/10/15 | 100000 | Done | 2020/05/14 |
 | 2019/10/15 | [Start 2012, 500 yr, kCOV=1.16, Spontaneous, Historical Catalog](2019_10_15-Start2012_500yr_kCOV1p16_Spontaneous_HistoricalCatalog/README.md) | 2011/12/31 | 1000 | Done | 2020/04/23 |
