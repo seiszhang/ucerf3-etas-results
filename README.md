@@ -2,7 +2,7 @@
 
 | Config Date | Name | Sim Start Date | # Simulations | Progress | Plot Date |
 |-----|-----|-----|-----|-----|-----|
-| 2020/04/27 | [ComCat M7.1 (ci38457511), 296.8 Days After, ShakeMap Surfaces](2020_04_27-ComCatM7p1_ci38457511_296p8DaysAfter_ShakeMapSurfaces/README.md) | 2020/04/27 | 100000 | Done | 2020/05/16 |
+| 2020/04/27 | [ComCat M7.1 (ci38457511), 296.8 Days After, ShakeMap Surfaces](2020_04_27-ComCatM7p1_ci38457511_296p8DaysAfter_ShakeMapSurfaces/README.md) | 2020/04/27 | 100000 | Done | 2020/05/17 |
 | 2020/04/08 | [ComCat M4.87 (ci39126079), Point Source, kCOV=1.5](2020_04_08-ComCatM4p87_ci39126079_PointSource_kCOV1p5/README.md) | 2020/04/03 | 100000 | Done | 2020/05/11 |
 | 2020/04/08 | [ComCat M4.87 (ci39126079), 4.7 Days After, Point Sources, kCOV=1.5](2020_04_08-ComCatM4p87_ci39126079_4p7DaysAfter_PointSources_kCOV1p5/README.md) | 2020/04/08 | 100000 | Done | 2020/05/15 |
 | 2020/03/20 | [ComCat M5.0 (nn00719663), Point Source, kCOV=1.5](2020_03_20-ComCatM5p0_nn00719663_PointSource_kCOV1p5/README.md) | 2020/03/20 | 100000 | Done | 2020/05/13 |
@@ -78,7 +78,7 @@
 | 2019/08/27 | [Start 1919, 100 yr, Log10(k)=-2.31, p=1.08, c=0.04, Spontaneous](2019_08_27-Start1919_100yr_Log10_k_2p31_p1p08_c0p04_Spontaneous/README.md) | 1918/12/31 | 1000 | Done | 2020/04/25 |
 | 2019/08/27 | [Start 1919, 100 yr, Spontaneous](2019_08_27-Start1919_100yr_Spontaneous/README.md) | 1918/12/31 | 1000 | Done | 2020/04/25 |
 | 2019/08/27 | [Start 1919, 100 yr, Spontaneous, Historical Catalog](2019_08_27-Start1919_100yr_Spontaneous_HistoricalCatalog/README.md) | 1918/12/31 | 1000 | Done | 2020/04/25 |
-| 2019/08/24 | [ComCat M7.1 (ci38457511), 49 Days After, ShakeMap Surfaces](2019_08_24-ComCatM7p1_ci38457511_49DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/23 | 100000 | Done | 2020/05/10 |
+| 2019/08/24 | [ComCat M7.1 (ci38457511), 49 Days After, ShakeMap Surfaces](2019_08_24-ComCatM7p1_ci38457511_49DaysAfter_ShakeMapSurfaces-noSpont-full_td-scale1.14/README.md) | 2019/08/23 | 100000 | Done | 2020/05/17 |
 | 2019/08/20 | [ComCat M7.1 (ci38457511), 28 Days After, ShakeMap Surfaces, No Faults](2019_08_20-ComCatM7p1_ci38457511_28DaysAfter_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/README.md) | 2019/08/02 | 100000 | Done | 2020/05/10 |
 | 2019/08/20 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, No Faults](2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_NoFaults-noSpont-poisson-griddedOnly/README.md) | 2019/07/05 | 100000 | Done | 2020/05/17 |
 | 2019/08/20 | [ComCat M7.1 (ci38457511), ShakeMap Surfaces, Spontaneous](2019_08_20-ComCatM7p1_ci38457511_ShakeMapSurfaces_Spontaneous-includeSpont-full_td-scale1.14/README.md) | 2019/07/05 | 100000 | Done | 2020/05/17 |
